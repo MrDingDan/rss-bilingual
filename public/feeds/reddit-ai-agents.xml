@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 14:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 17:39:39 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -356,6 +356,18 @@ Hi, I come from an MLOps and Software Engineering background and I’m currently
       <pubDate>Tue, 13 Jan 2026 11:00:29 +0000</pubDate>
     </item>
     <item>
+      <title>大语言模型评估：关键不在准确率，而在于选取合适的信号 / LLM Evaluation Isn’t About Accuracy Its About Picking the Right Signal</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbpjhn/llm_evaluation_isnt_about_accuracy_its_about/</link>
+      <description>评估大语言模型听起来简单，但当你真正尝试在现实系统中衡量它们时，就会发现并非如此。仅凭准确率，很少能告诉你一个模型是否有用、可信，或者是否符合用户需求。不同的任务需要不同的信号——翻译、摘要、问答、推理和检索，如果用错了衡量标准，这些任务都会出问题。困惑度（Perplexity）对语言建模很有用，但对终端用户来说毫无意义。BLEU、ROUGE和METEOR在重叠度重要时能提供帮助，但当存在多个有效答案时就会失效。BERTScore更接近语义理解，但仍无法检测幻觉（hallucinations）。当涉及细微差别、清晰度或实用性时，人工评估依然必不可少，但它缓慢且昂贵。T…
+
+---
+
+Original:
+Evaluating LLMs sounds simple until you actually try to measure them in real-world systems. Accuracy alone rarely tells you whether a model is useful, trustworthy or aligned with what users need. Different tasks demand different signals translation, summarization, Q&amp;A, reasoning and retrieval all break if you judge them with the wrong metric. Perplexity is great for language modeling but meaningless for end users. BLEU, ROUGE and METEOR help when overlap matters but fail when multiple answers are valid. BERTScore moves closer to semantic understanding, but still can’t detect hallucinations. Human evaluation stays essential when nuance, clarity or utility matters but its slow and expensive. T…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbpjhn</guid>
+      <pubDate>Tue, 13 Jan 2026 12:02:41 +0000</pubDate>
+    </item>
+    <item>
       <title>热评：AI无需更聪明，关键在于可管控 / Hot take: AI doesn't need to get smarter. It needs to get governable.</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbq5ax/hot_take_ai_doesnt_need_to_get_smarter_it_needs/</link>
       <description>当前关于AI的讨论总陷在'如何让它更聪明、更快、更自主'的循环里，但真正的瓶颈其实是'如何在关键领域安全应用它'。所有人都在追逐通用人工智能（AGI），可医院连基础诊断助手都无法部署——因为无法审核其决策逻辑；工厂不敢把AI植入机器人——因为无法证明它不会产生危险动作幻觉；银行不能用它提供客户建议——因为监管要求结果可复现。关键在于以工具视角看待AI：台锯不需要懂木工，但它必须配有防护罩、紧急开关和熟练的操作员。这并非比AGI缺乏野心——正是这种可控性，才能让AI真……
@@ -378,6 +390,66 @@ Original:
 I’m building a platform to help teams move autonomous AI agents from demos into real production systems. The biggest problems we’ve run into (and heard from others) aren’t the models themselves; it’s everything around them: isolation, scheduling, multi-tenant control, cost tracking, and keeping things stable as usage grows. We’re working on an orchestration layer designed specifically for agent workloads so you can run, manage, and meter agents across clusters without duct-taping infrastructure together. If you’re building/deploying agents today, I’d really love to hear what’s breaking for you and what you wish existed. submitted by /u/runctl [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbrtlo</guid>
       <pubDate>Tue, 13 Jan 2026 13:50:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI智能体：谁真正获得人工判断，谁只能面对自动化把关者？ / AI agents: who actually gets human judgment, and who gets automated gatekeepers?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbs83l/ai_agents_who_actually_gets_human_judgment_and/</link>
+      <description>我关注这个领域已有一段时间——人们对AI智能体既抱有热情，也不乏悲观。这很有趣！同时，我也好奇大家如何看待这些聊天机器人和智能体在出错时的处理方式。我的意思是，智能体似乎在目标明确、数据结构化、错误影响不大，且最好有人能悄悄介入协助的场景下表现最佳。但随着政府、保险及其他关键领域开始应用，现实似乎并非如此。从更宏观的视角看，我们仿佛正在构建一个双层判断体系——有钱有权的人仍能接触到真人（律师、医生、教育者等）……
+
+---
+
+Original:
+I've been following this community for some time - some excitement around AI agents and some pessimism. I've enjoyed it! I'm also curious to know where people are landing on these chatbots and agents in regards to failures. What I mean is, agents seem to work best with clear goals, structured data, errors that aren't real impactful and ideally where a human can quietly step in and help. That doesn't seem to be the case in as implementations take off in government, insurance and other critical sectors. It feels like we are, when you look at the larger picture, we are building a two-tier system of judgement - people with money/power who keep access to humans (lawyers, doctors, educators, etc)…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbs83l</guid>
+      <pubDate>Tue, 13 Jan 2026 14:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>利用内部客户数据创建AI智能体 / Creating AI Agents with internal customer's data</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbsuyb/creating_ai_agents_with_internal_customers_data/</link>
+      <description>大家好！希望各位一切顺利！我正准备为我们的网页应用添加一些AI智能体。我们正在使用FastAPI和Agno框架。我们希望让客户（用户）能够将他们自己的数据连接到AI智能体，从而获得对其数据更深入的洞察和相关信息。这些数据可能涵盖各类企业资源管理系统（ERMs）、谷歌应用、文档、数据库、GitHub、Jira、Linear等多种来源。最终我们希望支持所有类型的数据接入。这方面有哪些最佳实践？其他公司是如何实现这类集成的？非常感谢！由/u/Separate_Bid_8352提交 [链接] [评论]
+
+---
+
+Original:
+Hey everyone! Hope you are all doing well! I am about to add some AI Agents to our web app. We are using FastAPI and Agno. We would like to let customers (users) to connect their own data to the AI Agent, to get better insights and relevant information for their data. This data can range from different kinds of ERMs, Google apps, docs, databases, GitHub, Jira, Linear, etc. Eventually we would like to support everything. What are the best practices about that? How are other companies doing such integrations? Thanks a lot!!! submitted by /u/Separate_Bid_8352 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbsuyb</guid>
+      <pubDate>Tue, 13 Jan 2026 14:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>打造一个FOSS、本地优先的Claude Cowork替代品 / Building a FOSS, local-first alternative to Claude Cowork</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbu3fz/building_a_foss_localfirst_alternative_to_claude/</link>
+      <description>大家好，我正在开发一款应用，它包含AI工作区，每个工作区都有独立的虚拟文件系统，以及能够使用工具进行读写操作的智能体——这些功能对编程智能体来说很常见，但这款应用面向非编程任务，设置和使用都很简单。可以把它想象成Cursor，但拥有类似ChatGPT的用户界面，或者类似于Anthropic公司开发的Cowork。应用目前处于早期阶段，但已可用，至少可以作为ChatGPT的替代品。我非常期待大家的反馈。也欢迎大家随时提问，比如它的工作原理、面临的挑战等等。我目前的设想是将其部署在企业中，帮助优化特定工作流程——特别是那些重视数据和工作流程自主权的团队。在一个简洁的包装中构建定制智能体和集成……
+
+---
+
+Original:
+Hi, I’m building an app with AI workspaces that have their own virtual file system, and agents that can read/write to it while using tools - all as usual for coding agents, but the app is for non-coding tasks, simple to set up and use. Think Cursor but with a ChatGPT-like UI. Or similar to what Anthropic does with Cowork. The app is early-stage but usable, at least as a replacement for ChatGPT. I would love to get feedback. Also, feel free to ask any questions about how it works, challenges, etc. My current bet is on deploying it at companies to help with specific workflows - especially for teams who value owning their data and workflows. Building custom agents and integrations in a neat wra…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbu3fz</guid>
+      <pubDate>Tue, 13 Jan 2026 15:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>为AI工具众筹创意 / Crowdsourcing ideas for AI tools</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbu9kh/crowdsourcing_ideas_for_ai_tools/</link>
+      <description>我正在尝试一个公开的“愿望板”，让人们描述或点赞他们真正想要的AI工具，为开发者提供项目灵感。好奇这样的方式是否有用，或者大家是否已经在使用其他替代方案？由 /u/seetherealitynow 提交 [链接] [评论]
+
+---
+
+Original:
+I’m experimenting with a public “wishboard” where people describe or upvote AI tools they actually want, giving builders ideas for projects to take on. Curious whether something like this would be useful, or if people already use alternatives? submitted by /u/seetherealitynow [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbu9kh</guid>
+      <pubDate>Tue, 13 Jan 2026 15:28:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于语音助手使用体验劝阻潜在客户的经历 / Your experience w/ of voice agent usage dissuading incoming Leads</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbw3ah/your_experience_w_of_voice_agent_usage_dissuading/</link>
+      <description>我们正考虑在某种程度上使用语音助手。不确定这是否适用于新来的潜在客户，也不确定是否计划用于过去处理过的现有冷线索。我们的理想客户年龄偏大，所以我有点担心会遇到抵触。我自己就很讨厌和AI机器人对话，尽管我对技术还算适应。因此想了解是否有其他人遇到过类似情况——当客户群体年龄较大时，与语音助手互动的体验如何。提交者：/u/bs_hoffman [链接] [评论]
+
+---
+
+Original:
+We are considering using voice agents in some capacity. Not sure if that means incoming new leads, not sure if we plan on using it on existing cold leads we've dealt with in the past. Our ideal client tends to be older so I'm a bit worried about the pushback. I know myself, I hate when I have to talk to an AI bot and I am comfortable with technology, so curious if anyone else has went through something similar when your clientele is older and interacted with voice agents and your experience. submitted by /u/bs_hoffman [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbw3ah</guid>
+      <pubDate>Tue, 13 Jan 2026 16:35:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

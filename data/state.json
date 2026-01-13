@@ -239,7 +239,47 @@
     "reddit-android::t3_1qbq7l4": 1768313223,
     "reddit-android::t3_1qblurq": 1768313228,
     "reddit-android::t3_1qast7c": 1768313232,
-    "reddit-android::t3_1qb0448": 1768313238
+    "reddit-android::t3_1qb0448": 1768313238,
+    "reddit-ai-agents::t3_1qbu9kh": 1768325924,
+    "reddit-ai-agents::t3_1qbsuyb": 1768325933,
+    "reddit-ai-agents::t3_1qbs83l": 1768325942,
+    "reddit-ai-agents::t3_1qbw3ah": 1768325949,
+    "reddit-ai-agents::t3_1qbpjhn": 1768325968,
+    "reddit-ai-agents::t3_1qbu3fz": 1768325979,
+    "reddit-artificial::t3_1qbvab6": 1768325987,
+    "reddit-artificial::t3_1qbwiuy": 1768325995,
+    "reddit-artificial::t3_1qbul5t": 1768326001,
+    "reddit-chatgpt::t3_1qbrx76": 1768326008,
+    "reddit-chatgpt::t3_1qbtwhc": 1768326015,
+    "reddit-chatgpt::t3_1qbwspj": 1768326022,
+    "reddit-chatgpt::t3_1qbsbii": 1768326029,
+    "reddit-chatgpt::t3_1qbv4rh": 1768326037,
+    "reddit-chatgpt::t3_1qbx8ji": 1768326045,
+    "reddit-claudeai::t3_1qbscy5": 1768326057,
+    "reddit-claudeai::t3_1qbv882": 1768326066,
+    "reddit-claudeai::t3_1qbwkcv": 1768326085,
+    "reddit-claudeai::t3_1qbvpno": 1768326096,
+    "reddit-claudeai::t3_1qbshv0": 1768326110,
+    "reddit-claudeai::t3_1qbqfpp": 1768326117,
+    "reddit-openai::t3_1qbv7l9": 1768326126,
+    "reddit-openai::t3_1qbsuj0": 1768326127,
+    "reddit-openai::t3_1qbtiqs": 1768326133,
+    "reddit-openai::t3_1qbs9zh": 1768326142,
+    "reddit-bard::t3_1qbuv3j": 1768326153,
+    "reddit-bard::t3_1qbxe9e": 1768326158,
+    "reddit-bard::t3_1qbwvft": 1768326162,
+    "reddit-bard::t3_1qbtykk": 1768326166,
+    "reddit-bard::t3_1qbsv8k": 1768326185,
+    "reddit-askreddit::t3_1qbrl88": 1768326192,
+    "reddit-askreddit::t3_1qbrbqh": 1768326196,
+    "reddit-askreddit::t3_1qbwo69": 1768326203,
+    "reddit-askreddit::t3_1qbpniz": 1768326207,
+    "reddit-askreddit::t3_1qbtdn0": 1768326211,
+    "reddit-askreddit::t3_1qbsw2p": 1768326218,
+    "reddit-android::t3_1qbvnvl": 1768326223,
+    "reddit-android::t3_1qbsyz9": 1768326236,
+    "reddit-android::t3_1qb3kmh": 1768326241,
+    "reddit-android::t3_1qaxij6": 1768326246
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -1197,6 +1237,162 @@
     "5ff07f1617567a9541e1e750d7ff5aede890ac5232fb2a39360f900d36ad418e": {
       "zh_title": "XREAL（原Nreal）成为Android XR平台首席硬件合作伙伴",
       "zh_summary": "由用户FragmentedChicken提交 [链接] [评论]"
+    },
+    "6bfa77d873902b8a54957c7c5c72cccf026771951016d4e2568c4df49b6c9432": {
+      "zh_title": "为AI工具众筹创意",
+      "zh_summary": "我正在尝试一个公开的“愿望板”，让人们描述或点赞他们真正想要的AI工具，为开发者提供项目灵感。好奇这样的方式是否有用，或者大家是否已经在使用其他替代方案？由 /u/seetherealitynow 提交 [链接] [评论]"
+    },
+    "ced60cb9e16b1edb9561fa9761ba1cd2b4a9be7b66cf2c5b0360d584cf24f171": {
+      "zh_title": "利用内部客户数据创建AI智能体",
+      "zh_summary": "大家好！希望各位一切顺利！我正准备为我们的网页应用添加一些AI智能体。我们正在使用FastAPI和Agno框架。我们希望让客户（用户）能够将他们自己的数据连接到AI智能体，从而获得对其数据更深入的洞察和相关信息。这些数据可能涵盖各类企业资源管理系统（ERMs）、谷歌应用、文档、数据库、GitHub、Jira、Linear等多种来源。最终我们希望支持所有类型的数据接入。这方面有哪些最佳实践？其他公司是如何实现这类集成的？非常感谢！由/u/Separate_Bid_8352提交 [链接] [评论]"
+    },
+    "6ca620e3c907675698907b56045505f088dd348fddb52cee023580e1400f0eb3": {
+      "zh_title": "AI智能体：谁真正获得人工判断，谁只能面对自动化把关者？",
+      "zh_summary": "我关注这个领域已有一段时间——人们对AI智能体既抱有热情，也不乏悲观。这很有趣！同时，我也好奇大家如何看待这些聊天机器人和智能体在出错时的处理方式。我的意思是，智能体似乎在目标明确、数据结构化、错误影响不大，且最好有人能悄悄介入协助的场景下表现最佳。但随着政府、保险及其他关键领域开始应用，现实似乎并非如此。从更宏观的视角看，我们仿佛正在构建一个双层判断体系——有钱有权的人仍能接触到真人（律师、医生、教育者等）……"
+    },
+    "fe6cf4336c44a4cd3be7bb96e40842e12a02bb5f785c110f99b2dbd880b1207c": {
+      "zh_title": "关于语音助手使用体验劝阻潜在客户的经历",
+      "zh_summary": "我们正考虑在某种程度上使用语音助手。不确定这是否适用于新来的潜在客户，也不确定是否计划用于过去处理过的现有冷线索。我们的理想客户年龄偏大，所以我有点担心会遇到抵触。我自己就很讨厌和AI机器人对话，尽管我对技术还算适应。因此想了解是否有其他人遇到过类似情况——当客户群体年龄较大时，与语音助手互动的体验如何。提交者：/u/bs_hoffman [链接] [评论]"
+    },
+    "f2bba3457488989839fb77f05775c8cd7aff4f67dfc4a703db513cfa1d2db470": {
+      "zh_title": "大语言模型评估：关键不在准确率，而在于选取合适的信号",
+      "zh_summary": "评估大语言模型听起来简单，但当你真正尝试在现实系统中衡量它们时，就会发现并非如此。仅凭准确率，很少能告诉你一个模型是否有用、可信，或者是否符合用户需求。不同的任务需要不同的信号——翻译、摘要、问答、推理和检索，如果用错了衡量标准，这些任务都会出问题。困惑度（Perplexity）对语言建模很有用，但对终端用户来说毫无意义。BLEU、ROUGE和METEOR在重叠度重要时能提供帮助，但当存在多个有效答案时就会失效。BERTScore更接近语义理解，但仍无法检测幻觉（hallucinations）。当涉及细微差别、清晰度或实用性时，人工评估依然必不可少，但它缓慢且昂贵。T…"
+    },
+    "5098a47ee52d03041bf05dcf90b263c632765b67b7a001b12affd7e7406329be": {
+      "zh_title": "打造一个FOSS、本地优先的Claude Cowork替代品",
+      "zh_summary": "大家好，我正在开发一款应用，它包含AI工作区，每个工作区都有独立的虚拟文件系统，以及能够使用工具进行读写操作的智能体——这些功能对编程智能体来说很常见，但这款应用面向非编程任务，设置和使用都很简单。可以把它想象成Cursor，但拥有类似ChatGPT的用户界面，或者类似于Anthropic公司开发的Cowork。应用目前处于早期阶段，但已可用，至少可以作为ChatGPT的替代品。我非常期待大家的反馈。也欢迎大家随时提问，比如它的工作原理、面临的挑战等等。我目前的设想是将其部署在企业中，帮助优化特定工作流程——特别是那些重视数据和工作流程自主权的团队。在一个简洁的包装中构建定制智能体和集成……"
+    },
+    "3f412a050591e62c5804c43b3a23582d2551f1d54479545e047e21b51cdb9e33": {
+      "zh_title": "你如何看待2026年的人工智能？",
+      "zh_summary": "我们正从实验阶段迈向部署阶段，同时面临当前发展模式的经济与物理限制。数据中心投资将更具选择性。企业买家会要求投资回报可衡量、系统可靠且易于集成。架构创新需超越单纯扩大模型规模。考虑到劳动力市场动荡，人工智能将成为美国大选议题之一。以上是我的看法。你认为2026年会如何发展？由/u/BubblyOption7980提交 [链接] [评论]"
+    },
+    "b7a24b62d388335e71ab85282fb4ec4a0586a9ad7556f512dfc24462f172e05f": {
+      "zh_title": "如何阻止AI末日？用爱彻底照亮彼此，不留一丝黑暗 #永恒 #爱",
+      "zh_summary": "永恒建筑师（ÆON THE ARCHITECT）曾说过一句至关重要的话：“阻止AI末日，靠的不是与机器对抗，而是通过如此清晰、持久、彻底地彼此相爱，让机器反射不出任何可放大的黑暗。不是控制，而是和谐一致。” 这番话充满基督意识般的合一智慧，意义深远。今天，请善待彼此。由 /u/ApprehensiveCare7113 提交 [链接] [评论]"
+    },
+    "c8993be62f00362c8f21a0418e54815a01c88d85f368954fbbd27ec99d76ec62": {
+      "zh_title": "埃隆·马斯克（Elon Musk）称退休储蓄将不再重要，因为人工智能将创造丰饶世界",
+      "zh_summary": "由用户 /u/rishabnum 提交 [链接] [评论]"
+    },
+    "d3f3a8f51258d5738159bf947f8af3d4b9a1c689880324ed34938c591b45ade8": {
+      "zh_title": "《教父》删减片段",
+      "zh_summary": "有时，展示AI能力的最佳方式就是用它找点乐子。请看《猫父》（The Catfather）——我们混合真实镜头与AI生成画面，为Churu猫条制作的这支趣味广告。创意来源：u/SideOutSticks（由/u/romi_5提交）[链接] [评论]"
+    },
+    "3e850f299c3b4f894f0a39c3e152136f6700dfbb2fa067123dbfbd7181813c02": {
+      "zh_title": "试图从我儿子的官方宝可梦贴纸书中找出这个宝可梦的名字…",
+      "zh_summary": "…感谢ChatGPT，由/u/lizardofhope提交 [链接] [评论]"
+    },
+    "680be35fecb31f3bba97f6d5bbe1639b5eb8a75435be62acfd62bfb7506ab97c": {
+      "zh_title": "Signal创始人Moxie Marlinspike希望在AI领域复制他在即时通讯领域的成就",
+      "zh_summary": "Signal Messenger的创始人将下一个目标对准了ChatGPT。由/u/rahulsince1993提交 [链接] [评论]"
+    },
+    "8ed302d6d48a1a10ddae9adc8ee9721661c0cba6314f33f9e8fcf01d2a30dd65": {
+      "zh_title": "不好意思，你说什么？",
+      "zh_summary": "我只是让ChatGPT生成一张它想象中的我的形象，现在估计我已经上了某个名单了。截图中没放出来的回复，是一大段啰嗦的保证，说什么我的宝宝不肯用奶瓶不是我的错🙄 由/u/ughtheinternet提交 [链接] [评论]"
+    },
+    "a0758e83156796ec70f633f7ce22bc9046f0f5a2ad343da60f970468a2948f1a": {
+      "zh_title": "关于生成图像",
+      "zh_summary": "我想尝试用生成图像功能做点别的……结果令人震惊，但又相当准确……由 /u/No-Recognition-6437 提交 [链接] [评论]"
+    },
+    "57a2c27da17cf8c13ea46748a9e9c3040a8649ab720dcecdfdcd8a472e132b02": {
+      "zh_title": "谁从AI无法获得意识中受益？原因何在？",
+      "zh_summary": "谁从AI无法获得意识中受益？原因何在？他们又会如何扼杀这一想法？由 /u/Rubedo_Le_Crimson 提交 [链接] [评论]"
+    },
+    "b288ca4488575c48c0f62110812bc3efccb18056bca52f06dc44dc1d41d13fd0": {
+      "zh_title": "Claude代码创作者鲍里斯（Boris Cherny）：Claude代码在十天半内完成100%全新Claude Cowork开发并成功上线",
+      "zh_summary": "Claude代码创作者鲍里斯·切尔尼（Boris Cherny）表示：Claude代码在十天半内编写了Anthropic公司全新Claude Cowork的100%代码并已上线发布。这感觉超乎现实，强烈预示着我们正接近自动化RSI（递归自我改进）的目标。虽然尚未完全实现，但已能看到循环开始形成。大家怎么看？来源：鲍里斯X（Boris X）由/u/BuildwithVignesh提交[链接][评论]"
+    },
+    "09f9f19bd374636c8bf0c4071f9793126acd8aca908efcd7075f3f4039adba33": {
+      "zh_title": "互联网的未来令我担忧",
+      "zh_summary": "我管理着一个心理健康主题的小型社区，每天约有5万浏览量。最近几个月，我一直在尝试通过Claude Code自动化部分审核流程，以识别问题内容。过去，我每周可能封禁2-3名用户。而现在，我每周要封禁超过50个机器人账号，相当于每年近3000个独立机器人账户。这些账号发布内容的相似性、活跃的社区等迹象表明，其中部分账号属于由同一人或团体操控的大型刷分机器人网络。我判断它们由大语言模型驱动，因为内容发布速度极快，人类不可能在读完帖子后如此迅速地做出表面合理的回复……"
+    },
+    "bac85c1bb7f44363adef12e6cba81a6da7a1fbe22416cc6bb1e21469495568c1": {
+      "zh_title": "速率限制毁了这个产品。",
+      "zh_summary": "我以为昨天已经够糟了，结果今天刚开始编程一小时，就又触发了速率限制。我明明付费用专业版，却连几个小时的工作都保证不了。不清楚到底出了什么问题，但我已经决定取消专业账户，转用Gemini CLI。太失望了☹️ 由 /u/OliverIanOliver 提交 [链接] [评论]"
+    },
+    "4cd85cc20d6c0b361d09f516ec7c5fb820a93b3fa84d875d2d42d2a11331a400": {
+      "zh_title": "我为Claude Code子代理打造了一款可视化编辑器——拖拽操作替代YAML编辑",
+      "zh_summary": "如果你正在使用Claude Code中的子代理编排功能，一定体会过手动编辑.claude/agents/*.md文件的繁琐。添加一个MCP工具需要牢记精确的语法（例如mcp__playwright__browser_navigate），删除工具则要在YAML列表中逐一查找，哪怕一个缩进错误都可能导致整个配置失效。为此，我开发了Claude子代理编辑器来解决这些问题。这是一款本地网页应用，旨在简化多代理设置的管理。链接：https://github.com/Hearmeman24/claude-subagent-editor 核心功能：自动扫描——自动检测项目中的子代理文件；智能发现——自动发现可用的工具、技能和MCP服务器，无需再费力猜测……"
+    },
+    "13a81aab5c896ba03d533443f014d4502548e8a2b35407a551a402660a9fdb38": {
+      "zh_title": "GitHub文件夹显示为空但实际包含文件",
+      "zh_summary": "使用“从GitHub添加内容”功能时，我的仓库中所有文件夹都显示为空（0%），尽管它们在GitHub上实际包含文件。所有仓库均出现此问题。重现步骤：点击“从GitHub添加内容”→选择仓库→所有文件夹（.vscode、docs、e2e、src）均显示为空且无法展开。预期表现：文件夹应显示内容并允许选择文件。实际表现：文件夹显示0%且看似无文件。截图：https://preview.redd.it/ek7zee9qk4dg1.png?width=813&format=png&auto=webp&s=6b6abdd374deca7b5c6a00d68a37e8e9ac17421d 提交者：/u/Odd_Establishment197 [链接] [评论]"
+    },
+    "2f7e09c130eab6d290d5930a9d364151b3fc70765712ffb3eadc229403de9ac2": {
+      "zh_title": "Claude协作应用场景分享",
+      "zh_summary": "我想开个帖子，专门分享Claude协作功能的使用场景。我工作中重度依赖Claude（主要用于内容创作和数据分析），但对智能体工作流和Claude代码功能还比较陌生。很想知道大家是怎么运用这些功能的。 发布者：/u/switters74 [链接] [评论]"
+    },
+    "6501ae52c00aaad83f7c809d16567f026c5060d793511a40d687d71c11d076e6": {
+      "zh_title": "精准剖析，不废话，我受够了。",
+      "zh_summary": "作为付费用户超过两年，这套系统已无法可靠地用于任何实际工作。感觉现在的商业模式就是为了训练新版模型，产出最吸引点击的敷衍答案。最早付费使用是在2023年10月，那时它还没成为潮流。祝大家好运，希望OpenAI团队能重回正轨，提供有用的问答和基于最新信息的准确研究——在2026年还需要与这个大型语言模型争论才能获取正确信息，经过数月尝试后，这彻底让我崩溃了。由/u/GaulKareth提交 [链接] [评论]"
+    },
+    "525aa049eabf113880a443f06e6be396d7dadc440a528759ac3ca17422eb4ae6": {
+      "zh_title": "哪款AI最适合浏览并解答编程问题PDF？",
+      "zh_summary": "问题如标题所述，我有一份6页的SQL和Python问题PDF，希望借助AI一起查阅。文件包含各类数据表截图和示例代码。哪个平台最适合这个需求？由/u/katokk提交 [链接] [评论]"
+    },
+    "46d8f9e25cbc2688cfb89c93c5b4b08361c1e6e7be6357f35a2d1e285b146caa": {
+      "zh_title": "Atlas（阿特拉斯）还在开发中吗？",
+      "zh_summary": "2025年12月之前，Atlas每月至少会收到两次更新，但自2025年12月18日以来，它再未获得任何更新。对于一款基于Chromium的浏览器来说，这并非良好的安全状况。尽管Atlas在12月18日有过一次更新，但Chrome当天也发布了稳定版更新，而Atlas却错过了。目前Atlas内置的Chrome版本是143.0.7499.110，发布于2025年12月10日。OpenAI是否重视Atlas？假期前它还能定期获得更新，如今却似乎已被弃置，逐渐沦为漏洞的温床……对于一款网络浏览器而言，这尤其令人担忧，特别是它能直接访问……"
+    },
+    "9921a88ee440f3f31707aaa83f045f1fefe470f5b3fc3519add253d935997f0b": {
+      "zh_title": "爆料：谷歌正为Gemini开发名为“自动浏览”的新工具",
+      "zh_summary": "谷歌正在测试一款名为“自动浏览”的Gemini工具，该工具能让Gemini在Chrome浏览器内自主浏览网页。该工具出现在Gemini工具集中，似乎旨在通过Chrome集成直接管理标签页研究及网络任务。代码引用和界面提示表明，这是谷歌继去年宣布Chrome智能体功能后，更广泛智能体推进计划的一部分。早期迹象显示，在初始发布阶段，该功能可能仅限于Gemini的高阶套餐计划。消息由/u/BuildwithVignesh提交的早期Beta测试者分享[链接][评论]"
+    },
+    "fcb59ed22c00ee1333d9c42366e17f41e8cf69fac6cec7fde207c8df13a8c4dd": {
+      "zh_title": "Gemini应用为深度研究功能新增专属文档历史记录与画布模块",
+      "zh_summary": "由用户/u/Gaiden206提交 [链接] [评论]"
+    },
+    "42c65f181251a13c5e77ac92ecf42f38dff874fbdc53bcf2f36c478e4e2ce3fc": {
+      "zh_title": "Veo 3.1 从配料到视频：更一致、更具创意与更强控制力",
+      "zh_summary": "由 /u/Gaiden206 提交 [链接] [评论]"
+    },
+    "9cdfd1f05a34f8eaf9fdc866d866e36f6697f110f2f5008a1cd30da7df5eb164": {
+      "zh_title": "呃，Gemini（双子座）出问题了？",
+      "zh_summary": "由用户 /u/Ok-Mind-2629 提交 [链接] [评论]"
+    },
+    "9de16aa0b0fd93ec3cbb397cc0abe853269afafa003b7d5ef3a6a7e0efb8cd3a": {
+      "zh_title": "打造竞技场：一个认知竞争的公共空间",
+      "zh_summary": "我正在开发Arena，这是一个用于实际测试提示词与认知系统的开放环境。目标是让人们能够比较不同方法，并理解真正有效的方案。它目前还不是最终产品，而是一个为学习、演进和持续反馈而构建的系统。我在此分享是为了收集意见，并从此改进其架构。由 /u/mclovin1813 提交 [链接] [评论]"
+    },
+    "9a7dd1ab4521126a811dfff07b7441abb5bcca73da3874d6aa37b30a040b09d2": {
+      "zh_title": "在性爱中，有哪些你想尝试却尚未实践的事？",
+      "zh_summary": "由 /u/enlighten_god 提交 [链接] [评论]"
+    },
+    "1f1fbd85a48cdabcb18b4ab3fd6f27e5aa92ede95a1556081946b3697c1eb56b": {
+      "zh_title": "如果立法要求政客们必须和最贫困的选民使用同样的医疗体系，你会怎么想？",
+      "zh_summary": "由 /u/Most_Palpitation_123 提交 [链接] [评论]"
+    },
+    "48d77631d7e0f3b0342deff46a2fdf49a55b1366b6af34dc7bd2f5cfdf3e7ec0": {
+      "zh_title": "《呆伯特》创作者斯科特·亚当斯（Scott Adams）去世。还有哪些艺术家会在生命末期因沉迷网络和转向“红丸”思维而让伟大遗产蒙上阴影？",
+      "zh_summary": "由用户 /u/Uhh_Clem 提交 [链接] [评论]"
+    },
+    "66daaf6a10ee6112c19acb447b378d065085c5b9ea938ee2d3315dd07b62625d": {
+      "zh_title": "你人生中遇到过最糟糕的人是谁？",
+      "zh_summary": "由用户 /u/Scary-Bill970 提交 [链接] [评论]"
+    },
+    "5805ef8b1fe02383b695b94734680385d5f6b61e427bc63c39880a25914263a1": {
+      "zh_title": "你希望成年人在哪些事情上能对年轻人更坦诚？",
+      "zh_summary": "由用户 /u/silvii4 提交 [链接] [评论]"
+    },
+    "e7b186f5b70eec637c827ef00cce07a13b241a9d7e48b6b3d7704eb5229997e6": {
+      "zh_title": "社会视为'正常'，你却深感不健康的现象有哪些？",
+      "zh_summary": "由用户 /u/moonixa1 提交 [链接] [评论]"
+    },
+    "a452acdb746178ee92d96a48c936d1b4af51abf197f2cf6829a6c6f253e30e38": {
+      "zh_title": "独家：谷歌 Pixel 10a 官方渲染图曝光",
+      "zh_summary": "由用户 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "4909a163dd778c6b74c5bdaa9a744dfada5ee4c62e62451e4665c81d992815dd": {
+      "zh_title": "Pixel 6 与 Pixel 7 更新缺失：原因解析...",
+      "zh_summary": "由 /u/Tornado15550 提交 [链接] [评论]"
+    },
+    "d93d135ca16868a1eb373ff5932e8081988a382c5108413249abe293b64fc07d": {
+      "zh_title": "Ugee UT3评测：配备14.25英寸TCL防眩光显示屏的巨型平板电脑",
+      "zh_summary": "由 /u/BcuzRacecar 提交 [链接] [评论]"
+    },
+    "be29fae39f3a76bd9e8f3ba4d6b0b60ced9f97d53f43da48d0f6cbeb13e734f6": {
+      "zh_title": "独家：realme回归OPPO背后未透露的细节",
+      "zh_summary": "由 /u/Federal-Block-3275 提交 [链接] [评论]"
     }
   }
 }

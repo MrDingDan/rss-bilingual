@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 14:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 17:42:23 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -371,12 +371,12 @@ When OpenAI open-sourced the Agentic Commerce Protocol with Stripe back in Septe
     <item>
       <title>ChatGPT（聊天生成预训练转换器）的用户增长似乎在十月已达顶峰。OpenAI（开放人工智能）该如何扭转这一趋势？ / ChatGPT looks to have peaked in October. What can OpenAI do to change the trend?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qbqatm/chatgpt_looks_to_have_peaked_in_october_what_can/</link>
-      <description>数据显示，ChatGPT（聊天生成预训练转换器）的用户量在十月底似乎达到了峰值。相关图表链接：https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=GeminiAI 如今又有消息称，苹果（Apple）将选择与谷歌（Google）合作开发Siri（智能个人助理）。我曾认为OpenAI（开放人工智能）应该降低其安全限制，但这一策略在Grok（格罗克）上似乎适得其反。OpenAI（开放人工智能）该如何更好地与谷歌（Google）竞争？由用户/u/bartturner提交 [链接] [评论]
+      <description>数据显示，ChatGPT（聊天生成预训练转换器）的用户量在十月底似乎达到了峰值。相关图表链接：https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;amp;utm_source=reddit&amp;amp;utm_medium=usertext&amp;amp;utm_name=GeminiAI 如今又有消息称，苹果（Apple）将选择与谷歌（Google）合作开发Siri（智能个人助理）。我曾认为OpenAI（开放人工智能）应该降低其安全限制，但这一策略在Grok（格罗克）上似乎适得其反。OpenAI（开放人工智能）该如何更好地与谷歌（Google）竞争？由用户/u/bartturner提交 [链接] [评论]
 
 ---
 
 Original:
-If you look at the data it looks like ChatGPT peaked in late October. https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=GeminiAI Now we have the news that Apple is going with Google for Siri. I had thought what they should do is lower the guard rails. But that seems to have backfired for Grok. What can OpenAI do to better compete against Google? submitted by /u/bartturner [link] [comments]</description>
+If you look at the data it looks like ChatGPT peaked in late October. https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;amp;utm_source=reddit&amp;amp;utm_medium=usertext&amp;amp;utm_name=GeminiAI Now we have the news that Apple is going with Google for Siri. I had thought what they should do is lower the guard rails. But that seems to have backfired for Grok. What can OpenAI do to better compete against Google? submitted by /u/bartturner [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbqatm</guid>
       <pubDate>Tue, 13 Jan 2026 12:41:51 +0000</pubDate>
     </item>
@@ -391,6 +391,54 @@ Original:
 submitted by /u/EchoOfOppenheimer [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbqxph</guid>
       <pubDate>Tue, 13 Jan 2026 13:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas（阿特拉斯）还在开发中吗？ / Is Atlas still in development?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbs9zh/is_atlas_still_in_development/</link>
+      <description>2025年12月之前，Atlas每月至少会收到两次更新，但自2025年12月18日以来，它再未获得任何更新。对于一款基于Chromium的浏览器来说，这并非良好的安全状况。尽管Atlas在12月18日有过一次更新，但Chrome当天也发布了稳定版更新，而Atlas却错过了。目前Atlas内置的Chrome版本是143.0.7499.110，发布于2025年12月10日。OpenAI是否重视Atlas？假期前它还能定期获得更新，如今却似乎已被弃置，逐渐沦为漏洞的温床……对于一款网络浏览器而言，这尤其令人担忧，特别是它能直接访问……
+
+---
+
+Original:
+Prior to December 2025, Atlas received at least two updates a month but has not received a single update since December 18, 2025. For a Chromium-based browser, this is not a very good security situation. Even though Atlas received an update on December 18, Chrome also released a stable update on that date but Atlas missed it. The current version of Chrome inside Atlas is 143.0.7499.110, which came out on December 10, 2025. Is OpenAI taking Atlas seriously? It was receiving updates pretty regularly prior to the holidays, but now it seems like it has been abandoned and is rotting into a pool of vulnerabilities... especially concerning for a web browser, particularly one that has direct access…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbs9zh</guid>
+      <pubDate>Tue, 13 Jan 2026 14:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>主流生成式AI工具网站访问量季度环比变化 - 2025年 / Leading Gen AI tools' QoQ change in website visits - 2025.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbsuj0/leading_gen_ai_tools_qoq_change_in_website_visits/</link>
+      <description>由 /u/Distinct_Fox_6358 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Distinct_Fox_6358 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbsuj0</guid>
+      <pubDate>Tue, 13 Jan 2026 14:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>哪款AI最适合浏览并解答编程问题PDF？ / What’s the best AI for looking through and answering a PDF of coding questions?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbtiqs/whats_the_best_ai_for_looking_through_and/</link>
+      <description>问题如标题所述，我有一份6页的SQL和Python问题PDF，希望借助AI一起查阅。文件包含各类数据表截图和示例代码。哪个平台最适合这个需求？由/u/katokk提交 [链接] [评论]
+
+---
+
+Original:
+Question is title basically, I have a 6 page pdf of SQL and python questions I want the help of AI to look through with me. It has various screenshots of tables and example code. What platform would be best for this? submitted by /u/katokk [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbtiqs</guid>
+      <pubDate>Tue, 13 Jan 2026 14:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>精准剖析，不废话，我受够了。 / Here’s the precise breakdown, no fluff, I'm done.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbv7l9/heres_the_precise_breakdown_no_fluff_im_done/</link>
+      <description>作为付费用户超过两年，这套系统已无法可靠地用于任何实际工作。感觉现在的商业模式就是为了训练新版模型，产出最吸引点击的敷衍答案。最早付费使用是在2023年10月，那时它还没成为潮流。祝大家好运，希望OpenAI团队能重回正轨，提供有用的问答和基于最新信息的准确研究——在2026年还需要与这个大型语言模型争论才能获取正确信息，经过数月尝试后，这彻底让我崩溃了。由/u/GaulKareth提交 [链接] [评论]
+
+---
+
+Original:
+Paying user for over 2 years, system is no longer reliable for any sort of work product. Feels like the business model is setup now to train new versions to produce the best click bate fluff answers. First paid model access was back in October of 23, before it was cool and trendy, good luck all, wishing the team at OpenAI gets back on track for useful Q&amp;A, research with correct up to date answers, the fact we have to argue with this LLM to get any correct information in 2026 is what broke me after months of trying. submitted by /u/GaulKareth [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbv7l9</guid>
+      <pubDate>Tue, 13 Jan 2026 16:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

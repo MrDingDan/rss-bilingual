@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 14:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 17:43:06 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -330,6 +330,66 @@ Original:
 Made this using nanobanana2 to test a simple indoor flash fashion look. Prompt used: An indoor fashion snapshot with a 4:5 aspect ratio, set in a minimal, uncluttered indoor hallway or room. The background features a plain light-colored wall, with a white door visible on the right side and a partially visible metallic door handle. The lighting is from a direct smartphone camera flash, creating harsh frontal illumination with strong highlights on the skin and fabric and sharp shadows cast behind the subject, giving a nighttime or low-light indoor mood. The subject is a single adult woman with a light-to-medium skin tone and warm undertones, a curvy, fashion-model physique. She is standing upr…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qbqms8</guid>
       <pubDate>Tue, 13 Jan 2026 12:58:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>打造竞技场：一个认知竞争的公共空间 / Building the Arena: A public space for cognitive competition.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbsv8k/building_the_arena_a_public_space_for_cognitive/</link>
+      <description>我正在开发Arena，这是一个用于实际测试提示词与认知系统的开放环境。目标是让人们能够比较不同方法，并理解真正有效的方案。它目前还不是最终产品，而是一个为学习、演进和持续反馈而构建的系统。我在此分享是为了收集意见，并从此改进其架构。由 /u/mclovin1813 提交 [链接] [评论]
+
+---
+
+Original:
+I'm developing Arena as an open environment to test prompts and cognitive systems in practice. The goal is to allow people to compare different approaches and understand what really works. It's not a final product yet; it's a system under construction designed for learning, evolution, and continuous feedback. I'm sharing it here to gather opinions and improve the architecture from now on. submitted by /u/mclovin1813 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbsv8k</guid>
+      <pubDate>Tue, 13 Jan 2026 14:33:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>呃，Gemini（双子座）出问题了？ / umm gemini tweakin?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbtykk/umm_gemini_tweakin/</link>
+      <description>由用户 /u/Ok-Mind-2629 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Ok-Mind-2629 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbtykk</guid>
+      <pubDate>Tue, 13 Jan 2026 15:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>爆料：谷歌正为Gemini开发名为“自动浏览”的新工具 / LEAK: Google is working on a new tool for Gemini called "Auto Browse"</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbuv3j/leak_google_is_working_on_a_new_tool_for_gemini/</link>
+      <description>谷歌正在测试一款名为“自动浏览”的Gemini工具，该工具能让Gemini在Chrome浏览器内自主浏览网页。该工具出现在Gemini工具集中，似乎旨在通过Chrome集成直接管理标签页研究及网络任务。代码引用和界面提示表明，这是谷歌继去年宣布Chrome智能体功能后，更广泛智能体推进计划的一部分。早期迹象显示，在初始发布阶段，该功能可能仅限于Gemini的高阶套餐计划。消息由/u/BuildwithVignesh提交的早期Beta测试者分享[链接][评论]
+
+---
+
+Original:
+Google is testing a new " Gemini tool called * "Auto Browse" that lets Gemini autonomously browse the web inside Chrome. The tool appears under Gemini tools and seems designed to manage tabs research and web tasks directly through a Chrome integration. Code references and UI hints suggest this is part of Google's broader agentic push following Chrome agent features announced last year. Early signs indicate this may be limited to higher tier Gemini plans during initial rollout. Shared by early Beta testers submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbuv3j</guid>
+      <pubDate>Tue, 13 Jan 2026 15:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veo 3.1 从配料到视频：更一致、更具创意与更强控制力 / Veo 3.1 Ingredients to Video: More consistency, creativity and control</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbwvft/veo_31_ingredients_to_video_more_consistency/</link>
+      <description>由 /u/Gaiden206 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbwvft</guid>
+      <pubDate>Tue, 13 Jan 2026 17:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini应用为深度研究功能新增专属文档历史记录与画布模块 / Gemini app gets dedicated Documents history for Deep Research, Canvas</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbxe9e/gemini_app_gets_dedicated_documents_history_for/</link>
+      <description>由用户/u/Gaiden206提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbxe9e</guid>
+      <pubDate>Tue, 13 Jan 2026 17:30:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

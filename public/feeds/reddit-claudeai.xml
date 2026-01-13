@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 14:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 17:41:57 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -390,6 +390,78 @@ Original:
 This is a question for old-timers here (old meaning more than 6 months). Did that happen to you with a previous model? 1. Try it out 2. Fall in "love" 3. Aaaaand it's gone Because that's my current fear. Opus 4.5 is the first AI that fits me 100% for agentic coding and many other things I use it for. I love the interactions, how smart it is, how it does everything. I keep trying other models and coming back to it. Now at some point, Anthropic will release a new version and it'll be gone. 2, 3 or 6 months, it will happen. And now when I look at Opus 4.1 pricing, it's very expensive for some reason. Meaning they probably don't want you to linger on older models. Did anyone lived through that w…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbq2jo</guid>
       <pubDate>Tue, 13 Jan 2026 12:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude协作应用场景分享 / Claude Cowork use cases</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbqfpp/claude_cowork_use_cases/</link>
+      <description>我想开个帖子，专门分享Claude协作功能的使用场景。我工作中重度依赖Claude（主要用于内容创作和数据分析），但对智能体工作流和Claude代码功能还比较陌生。很想知道大家是怎么运用这些功能的。 发布者：/u/switters74 [链接] [评论]
+
+---
+
+Original:
+I thought I'd start a thread to share Cowork use cases. I'm a heavy Claude user for work (mostly content creation and data analysis), but I'm new to agentic workflows and Claude Code. I'd love to know how others are using this. submitted by /u/switters74 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbqfpp</guid>
+      <pubDate>Tue, 13 Jan 2026 12:48:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude代码创作者鲍里斯（Boris Cherny）：Claude代码在十天半内完成100%全新Claude Cowork开发并成功上线 / Claude Code Creator Boris: 100% of new Cowork wrote by Claude code &amp; shipped in a week and half</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbscy5/claude_code_creator_boris_100_of_new_cowork_wrote/</link>
+      <description>Claude代码创作者鲍里斯·切尔尼（Boris Cherny）表示：Claude代码在十天半内编写了Anthropic公司全新Claude Cowork的100%代码并已上线发布。这感觉超乎现实，强烈预示着我们正接近自动化RSI（递归自我改进）的目标。虽然尚未完全实现，但已能看到循环开始形成。大家怎么看？来源：鲍里斯X（Boris X）由/u/BuildwithVignesh提交[链接][评论]
+
+---
+
+Original:
+Claude Code creator Boris Cherny: Claude code wrote 100% of Anthropic's new Claude Cowork in a week and a half &amp; we shipped. Feels unreal and that's a really strong signal that we're getting closer to automated RSI (recursive self-improvement) Not fully there yet, but you can see the loop starting to form. Your thoughts,guys? Source: Boris X submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbscy5</guid>
+      <pubDate>Tue, 13 Jan 2026 14:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub文件夹显示为空但实际包含文件 / GitHub folders appear empty despite containing files</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbshv0/github_folders_appear_empty_despite_containing/</link>
+      <description>使用“从GitHub添加内容”功能时，我的仓库中所有文件夹都显示为空（0%），尽管它们在GitHub上实际包含文件。所有仓库均出现此问题。重现步骤：点击“从GitHub添加内容”→选择仓库→所有文件夹（.vscode、docs、e2e、src）均显示为空且无法展开。预期表现：文件夹应显示内容并允许选择文件。实际表现：文件夹显示0%且看似无文件。截图：https://preview.redd.it/ek7zee9qk4dg1.png?width=813&amp;format=png&amp;auto=webp&amp;s=6b6abdd374deca7b5c6a00d68a37e8e9ac17421d 提交者：/u/Odd_Establishment197 [链接] [评论]
+
+---
+
+Original:
+When using the "Add content from GitHub" feature, all folders in my repository show as empty (0%) even though they contain files on GitHub. All Repositories. Steps to reproduce: Click "Add content from GitHub" Select the repository All folders (.vscode, docs, e2e, src) appear empty and cannot be expanded Expected behavior: Folders should display their contents and allow file selection Actual behavior: Folders show 0% and appear to have no files inside Screenshot: https://preview.redd.it/ek7zee9qk4dg1.png?width=813&amp;format=png&amp;auto=webp&amp;s=6b6abdd374deca7b5c6a00d68a37e8e9ac17421d submitted by /u/Odd_Establishment197 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbshv0</guid>
+      <pubDate>Tue, 13 Jan 2026 14:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>互联网的未来令我担忧 / The Future of the Internet scares me.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbv882/the_future_of_the_internet_scares_me/</link>
+      <description>我管理着一个心理健康主题的小型社区，每天约有5万浏览量。最近几个月，我一直在尝试通过Claude Code自动化部分审核流程，以识别问题内容。过去，我每周可能封禁2-3名用户。而现在，我每周要封禁超过50个机器人账号，相当于每年近3000个独立机器人账户。这些账号发布内容的相似性、活跃的社区等迹象表明，其中部分账号属于由同一人或团体操控的大型刷分机器人网络。我判断它们由大语言模型驱动，因为内容发布速度极快，人类不可能在读完帖子后如此迅速地做出表面合理的回复……
+
+---
+
+Original:
+I mod a small mental health sub that gets about 50k views per day. The last couple months, I have been working on automating parts of the moderation workflow to identify problematic content via Claude Code. In the past, I would ban maybe 2-3 users per week. At this point, I'm banning 50+ bots every single week, which amounts to almost 3000 individual bot accounts per year. The similarities in the content, the subs they post in, etc. make it evident that some of these belong to a MASSIVE karma farming bot ring powered by the same person/group. I know it is LLM-powered because the content is published too fast for a human to be able to read a post and respond in a manner that is superficially…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbv882</guid>
+      <pubDate>Tue, 13 Jan 2026 16:03:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>我为Claude Code子代理打造了一款可视化编辑器——拖拽操作替代YAML编辑 / I built a visual editor for Claude Code subagents - drag-and-drop instead of YAML editing</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbvpno/i_built_a_visual_editor_for_claude_code_subagents/</link>
+      <description>如果你正在使用Claude Code中的子代理编排功能，一定体会过手动编辑.claude/agents/*.md文件的繁琐。添加一个MCP工具需要牢记精确的语法（例如mcp__playwright__browser_navigate），删除工具则要在YAML列表中逐一查找，哪怕一个缩进错误都可能导致整个配置失效。为此，我开发了Claude子代理编辑器来解决这些问题。这是一款本地网页应用，旨在简化多代理设置的管理。链接：https://github.com/Hearmeman24/claude-subagent-editor 核心功能：自动扫描——自动检测项目中的子代理文件；智能发现——自动发现可用的工具、技能和MCP服务器，无需再费力猜测……
+
+---
+
+Original:
+If you're using subagent orchestration in Claude Code , you know the pain of editing .claude/agents/*.md files by hand. Adding an MCP tool means remembering the exact syntax (e.g. mcp__playwright__browser_navigate ), removing a tool means hunting through a YAML list, and one wrong indent can break your entire configuration. I built Claude Subagent Editor to fix this. It’s a local web app designed to streamline the management of your multi-agent setups. Link: https://github.com/Hearmeman24/claude-subagent-editor Key Features Auto-Scanning: Automatically detects subagent files within your project Discovery: Discovers available tools, skills, and MCP servers automatically — no more guessing too…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbvpno</guid>
+      <pubDate>Tue, 13 Jan 2026 16:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>速率限制毁了这个产品。 / Rate limits have ruined this product.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbwkcv/rate_limits_have_ruined_this_product/</link>
+      <description>我以为昨天已经够糟了，结果今天刚开始编程一小时，就又触发了速率限制。我明明付费用专业版，却连几个小时的工作都保证不了。不清楚到底出了什么问题，但我已经决定取消专业账户，转用Gemini CLI。太失望了☹️ 由 /u/OliverIanOliver 提交 [链接] [评论]
+
+---
+
+Original:
+I thought yesterday was bad, it is one hour into my daily coding session and I’ve already hit the rate limit. I pay for the pro version and cannot even get a few hours of work in. Not sure WTF has happened, but I’ve decided to cancel my pro account and migrate to Gemini CLI. Super disappointed ☹️ submitted by /u/OliverIanOliver [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbwkcv</guid>
+      <pubDate>Tue, 13 Jan 2026 16:53:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
