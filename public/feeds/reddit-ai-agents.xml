@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:48:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:29:41 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -522,6 +522,30 @@ Original:
 For the past month I’ve been working on an A2A MCP server. The server can be used to connect and send messages to A2A Servers (remote agents). The server needs to be initialised with one or more Agent Card URLs, each of which can have custom headers for authentication, configuration, etc. Agents and their skills can be viewed with the list_available_agents tool, messages can be sent to the agents with the send_message_to_agent tool, and Artifacts that would overload the context can be viewed with view_text_artifact and view_data_artifact tools. For a full list of features, quick start, and examples, check out the GitHub below! submitted by /u/benclarkereddit [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbxsad</guid>
       <pubDate>Tue, 13 Jan 2026 17:44:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>构建AI智能体的十大工具（最新推荐） / Top 10 tools to build AI Agents (most recent)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbzqkv/top_10_tools_to_build_ai_agents_most_recent/</link>
+      <description>过去一年，我一直在工作中构建AI智能体，这个行业变化快得几乎让人跟不上。这里列出一些我觉得有用的工具。高代码工具：Claude Agent SDK：这是一个Python包，让你可以直接使用Claude Code。如果你有Anthropic订阅，这几乎是目前最好的选择，不过集成方面有些问题（可通过MCP解决）。Google ADK：谷歌的Agent Development Kit是另一个好选择，更新更频繁，维护也比Claude的Agent SDK稍好。Deep Agents（基于LangGraph/LangChain/LangSmith）：这是一个相对较新的库，但建立在现有的Lang…基础上。
+
+---
+
+Original:
+I’ve been building AI agents as a part of my work for the past year and the industry is almost changing too rapidly to keep up. I’m listing some of the tools I’ve found useful along the way. High-code Tools Claude Agent SDK : This is a python package that lets you use Claude Code directly. If you have an Anthropic subscription, it doesn’t get much better than this. Integrations are a problem though (can be resolved with MCPs) Google ADK : Google’s Agent Development Kit is another good option. It’s updated more frequently and is maintained slightly better than Claude’s agent SDK. Deep Agents (on LangGraph/LangChain/LangSmith): This is a relatively new library but is built on the existing Lang…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbzqkv</guid>
+      <pubDate>Tue, 13 Jan 2026 18:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体可观测性与常规应用监控大不相同——维护者视角 / Agent observability is way different from regular app monitoring - maintainer's pov</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc0i28/agent_observability_is_way_different_from_regular/</link>
+      <description>我在Maxim负责可观测性方面的工作。一直在思考传统的APM工具为何不适用于智能体工作流。智能体并非单一API调用，而是涉及工具调用、检索步骤、推理链和外部API调用的多轮对话。当出现故障时，你需要完整的执行路径，而不仅仅是错误日志。我们构建了多级分布式追踪——完整对话的会话、单个交互的追踪、以及特定步骤（如LLM调用或工具使用）的跨度。这在调试时帮助很大。另一个有用的部分是在生产日志上持续运行自动化评估，跟踪质量指标（相关性、忠实度、幻觉…）
+
+---
+
+Original:
+Work at Maxim on the observability side. Been thinking about how traditional APM tools just don't work for agent workflows. Agents aren't single API calls. They're multi-turn conversations with tool invocations, retrieval steps, reasoning chains, external API calls. When something breaks, you need the entire execution path, not just error logs. We built distributed tracing at multiple levels - sessions for full conversations, traces for individual exchanges, spans for specific steps like LLM calls or tool usage. Helps a lot when debugging. The other piece that's been useful is running automated evals continuously on production logs. Track quality metrics (relevance, faithfulness, hallucinati…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc0i28</guid>
+      <pubDate>Tue, 13 Jan 2026 19:20:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

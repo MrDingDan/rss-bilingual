@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:29:47 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -426,6 +426,18 @@ Original:
 "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execu…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qby3z0</guid>
       <pubDate>Tue, 13 Jan 2026 17:55:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>麦肯锡（McKinsey）CEO鲍勃·斯特恩费尔斯（Bob Sternfels）称公司现有6万名员工：其中2.5万是AI智能体 / McKinsey CEO Bob Sternfels says the firm now has 60,000 employees: 25,000 of them are AI agents</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbzrwn/mckinsey_ceo_bob_sternfels_says_the_firm_now_has/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbzrwn</guid>
+      <pubDate>Tue, 13 Jan 2026 18:54:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

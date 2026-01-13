@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:29:59 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -518,6 +518,18 @@ The Quiet Hurt No One Logged I think it's time someone said it plainly: When you
       <pubDate>Tue, 13 Jan 2026 17:44:32 +0000</pubDate>
     </item>
     <item>
+      <title>谁在工作中受益于人工智能，具体是如何受益的？ / Who has benefited from using artificial intelligence in their work, and how?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qbxyii/who_has_benefited_from_using_artificial/</link>
+      <description>会计及金融领域从业者：谁在工作中受益于人工智能，具体是如何受益的？如果尚未受益，你希望如何从中获益？就我个人而言，我用它来修改Power Queries、自动化数据录入代码以及发送日常邮件……我希望未来能用它来核对账户对账单，节省目前耗费的心力和时间。你已用它做了什么，或希望用它做什么？由/u/Mohamed_Alsarf提交 [链接] [评论]
+
+---
+
+Original:
+Accountants and those working in the financial field in general: Who has benefited from using artificial intelligence in their work, and how? And if not yet... how would you like to benefit from it? Personally, I use it to modify Power Queries and automate data entry codes and send daily emails... I hope to be able to use it to compare account statements and save me the mental effort and time I currently waste. What have you done or would you like to do with it? submitted by /u/Mohamed_Alsarf [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qbxyii</guid>
+      <pubDate>Tue, 13 Jan 2026 17:50:36 +0000</pubDate>
+    </item>
+    <item>
       <title>我之前说了什么？ / What did I say?</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qby70w/what_did_i_say/</link>
       <description>由 /u/nerfherded 提交 [链接] [评论]
@@ -528,6 +540,18 @@ Original:
 submitted by /u/nerfherded [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qby70w</guid>
       <pubDate>Tue, 13 Jan 2026 17:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>我老婆要发飙了 / My wife's going to be pissed</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc0fom/my_wifes_going_to_be_pissed/</link>
+      <description>由 /u/Perfect_Natural3931 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Perfect_Natural3931 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc0fom</guid>
+      <pubDate>Tue, 13 Jan 2026 19:18:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

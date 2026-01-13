@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:30:31 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -499,6 +499,18 @@ Original:
 I am starting to wonder what are some less obvious ways people are using it that actually save time or improve your workflow? Not the usual stuff like "summarize this" or "write an email" I mean the surprisingly useful, “why didn’t I think of that?” type use cases. like for building SaaS or Micro SaaS or app or automation Would love to steal your creative hacks. submitted by /u/Notalabel_4566 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbzi2j</guid>
       <pubDate>Tue, 13 Jan 2026 18:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2的函数调用稳定性：对比温度参数对复杂模式验证的影响 / Function Calling Stability in GPT-5.2: Comparing temperature impact on complex schema validation.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc0kj7/function_calling_stability_in_gpt52_comparing/</link>
+      <description>我们对GPT-5.2的函数调用能力进行了压力测试。有趣的是，即使在温度参数设为0的情况下，当工具定义相似时，参数提取仍会出现2%的波动。在我们每天处理数千次调用的生产环境中，这2%的波动对可靠性来说是场噩梦。我们正在转向双轮验证系统（一个模型负责提取，另一个负责验证）。还有人在5.2版本中遇到这种“模式漂移”问题吗？或者你们找到了“强化”函数定义的方法？由/u/Foreign-Job-8717提交 [链接] [评论]
+
+---
+
+Original:
+We’ve been running some stress tests on GPT-5.2’s function calling capabilities. Interestingly, even at temperature 0, we see a 2% variance in parameter extraction when the tool definitions are similar. In a production environment where we handle thousands of calls, this 2% is a nightmare for reliability. We’re moving towards a dual-pass validation system (one model to extract, another to verify). Is anyone else seeing this "schema drift" in 5.2, or have you found a way to "harden" the function definitions? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc0kj7</guid>
+      <pubDate>Tue, 13 Jan 2026 19:22:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

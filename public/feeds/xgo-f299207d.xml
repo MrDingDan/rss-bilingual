@@ -6,7 +6,59 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:34:05 +0000</lastBuildDate>
+    <item>
+      <title>痕迹至关重要！ / traces matter!</title>
+      <link>https://x.com/hwchase17/status/2009732201269588479</link>
+      <description>痕迹至关重要！Viv（@Vtrivedy10）在Anthropic博客中一如既往地精彩分享，我无法更加强调这一步的重要性——请务必查看智能体（agent）的痕迹！！！理解智能体是否“任务失败”蕴含巨大价值：1. 它是如何失败的？（格式错误、逻辑错误、规划中走错方向、环境错误…）2. 它真的失败了吗？如果结果有误，你是否该更新评估标准？3. 成功模式与失败模式有何不同？（对通过和失败的情况分层分析步骤）4. 将其与你的指令和工具/技能关联起来。你是否未提供合适的工具来完成任务？指令是否模糊？智能体构建是一个深度迭代的过程，而这正是…
+
+---
+
+Original:
+traces matter! Viv @Vtrivedy10 standard awesome Anthropic blog, I cannot stress the importance of this step enough —&gt; pls look at the agent traces!!! TONS of value in understanding if an agent “failed a task” then: 1. how did it fail? (formatting error, logical error, went down wrong track in planning, environment bug…) 2. did it actually fail? should you update your grading if it was wrong? 3. what were successful patterns vs failing patterns (stratify across pass and fail and see the steps) 4. link it back to your instructions and tools/skills. did you not give the right tool to do the task? Are instructions ambiguous? Agent building is a deeply iterative process and this is literally the…</description>
+      <guid isPermaLink="false">xgo-f299207d::2009732201269588479</guid>
+      <pubDate>Fri, 09 Jan 2026 21:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Claude Code 通用工作助手”（面向非开发人员和非编码场景）这... / “claude code for general purpose work” 
+
+(Non developer users, non coding use cases)
+
+What does this...</title>
+      <link>https://x.com/hwchase17/status/2009811659888701750</link>
+      <description>“Claude Code 通用工作助手”（面向非开发人员和非编码场景）这款产品具体是什么样子的？💬 123 🔄 11 ❤️ 258 👀 63228 📊 221 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+“claude code for general purpose work” (Non developer users, non coding use cases) What does this product look like? 💬 123 🔄 11 ❤️ 258 👀 63228 📊 221 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2009811659888701750</guid>
+      <pubDate>Sat, 10 Jan 2026 02:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/5A96OhfJE1 / https://t.co/5A96OhfJE1</title>
+      <link>https://x.com/hwchase17/status/2010044779225329688</link>
+      <description>x.com/i/article/2010… 💬 27 🔄 88 ❤️ 610 👀 170340 📊 337 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+x.com/i/article/2010… 💬 27 🔄 88 ❤️ 610 👀 170340 📊 337 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2010044779225329688</guid>
+      <pubDate>Sat, 10 Jan 2026 17:43:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>需要一篇完整文章论述“追踪记录是智能体优化循环的生命线” / Need a full post on “traces are the lifeblood of agent improvement loops”</title>
+      <link>https://x.com/hwchase17/status/2010054460345917880</link>
+      <description>需要一篇完整文章论述“追踪记录是智能体优化循环的生命线” Viv @Vtrivedy10 的精彩帖子 🔥 追踪记录是智能体优化循环的生命线 迈向“如何改进这个智能体？”的第一步就是“我的智能体在做什么？”——&gt; 开启追踪功能正是启动这个循环的关键 这并非空谈，在 LangChain 我们确实时刻践行这一点，调试智能体的默认流程就是：“能分享追踪记录吗？” 这极大加速了我们的开发循环，因为开发者（通常是我们加上智能体）能立即查看每个工具调用的输入、延迟、令牌消耗等细节，并通过测试修正来对比行为差异 期待未来能见证更多进展，并帮助更多人优化智能体…
+
+---
+
+Original:
+Need a full post on “traces are the lifeblood of agent improvement loops” Viv @Vtrivedy10 banger post 🔥 traces are the lifeblood of agent improvement loops the first step towards “how do i make this agent better?” is “what is my agent doing?” —&gt; turning on tracing is how you kickstart this loop it’s not just talk, at LangChain we literally do this all the time, our default for debugging agents is: “can you share a trace”? it drastically speeds up our development loops because us (usually us + an agent) can immediately see what happened down to each tool call input, latency, tokens, etc and test fizes to compare behavior it’s gonna be a fun time seeing more and helping more ppl improve agents…</description>
+      <guid isPermaLink="false">xgo-f299207d::2010054460345917880</guid>
+      <pubDate>Sat, 10 Jan 2026 18:21:43 +0000</pubDate>
+    </item>
     <item>
       <title>展示运行轨迹是解释智能体内部机制的最佳方式 / Showing people traces is the best way to explain them what’s going on under the hood of your agent</title>
       <link>https://x.com/hwchase17/status/2010118681788039418</link>
@@ -78,6 +130,34 @@ Original:
 LangSmith Astasia Myers @AstasiaMyers Great piece! Somethings that came to mind: Do we need new infra that is AI agent trace-native to support this use case? This is similar to how Datadog became large around the concept of a "metric". If observability becomes a collab and product analytics solution, what are the best views for non-AI engineers? 🔗 View Quoted Tweet 💬 3 🔄 5 ❤️ 28 👀 9628 📊 7 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::2010412902575178015</guid>
       <pubDate>Sun, 11 Jan 2026 18:06:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>✒️ 我如何用 LangSmith Agent Builder 构建AI助手实现邮件自动化 / ✒️How I built an AI agent to automate my emails with LangSmith Agent Builder
+
+LangSmith Agent Builde...</title>
+      <link>https://x.com/hwchase17/status/2011126016287113681</link>
+      <description>✒️ 我如何用 LangSmith Agent Builder 构建AI助手实现邮件自动化 LangSmith Agent Builder 是一款无代码智能体构建工具。我构建了一个邮件助手来监控和回复邮件，过去约三个月一直在使用。它的工作流程如下： 1/ 触发机制：由新邮件触发。无需手动启动——完全自动运行。 2/ 通过MCP调用工具：连接Gmail（读取邮件、发送邮件）和Google日历（读取日历、查看日程、创建日程）。 3/ 人工介入环节：“写入”类操作（发送邮件、创建日程）需经人工确认方可执行。稍后会详述——但想强调它能完全自主运转！ 4/ 子智能体…
+
+---
+
+Original:
+✒️How I built an AI agent to automate my emails with LangSmith Agent Builder LangSmith Agent Builder is a no-code agent builder. I built an email assistant to monitor and respond to emails, that I've been using for the last ~3 months. Here's what it looks like: 1/ Triggers: it is triggered by incoming emails. I don't have to do any work to kick it off - it just runs automatically 2/ Tools via MCP: connects to gmail (read emails, send email) and gcal (read calendar, read events, create event) 3/ Human in the loop: the "write" actions (sending email, creating calendar) require human approval to run. More on this later - but wanted to highlight that it's able to go completely wild! 4/ Subagent…</description>
+      <guid isPermaLink="false">xgo-f299207d::2011126016287113681</guid>
+      <pubDate>Tue, 13 Jan 2026 17:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Builder 正式发布！ / agent builder is in ga!
+
+runs on deepagents, with memory built in, supports mcps/skills/subagents, c...</title>
+      <link>https://x.com/hwchase17/status/2011134704934957382</link>
+      <description>Agent Builder 正式发布！它基于 DeepAgents 运行，内置记忆功能，支持 MCPs、技能和子代理，可设置触发器以实现自主运行，并设有代理收件箱以便人工审核。快来试试吧！smith.langchain.com/agents?skipOnb… LangChain @LangChain LangSmith Agent Builder 现已全面可用 🎉 如今构建代理变得异常简单，连 VC 都能搞定……👇 免费试用 smith.langchain.com/agents?skipOnb… RY 查看公告 blog.langchain.com/langsmith-agen… 0d 您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 2 🔄 3 ❤️ 12 👀 1237 📊 5 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+agent builder is in ga! runs on deepagents, with memory built in, supports mcps/skills/subagents, can set up triggers so can run autonomously, has agent inbox to review human in the loop give it a try! smith.langchain.com/agents?skipOnb… LangChain @LangChain LangSmith Agent Builder is generally available 🎉 It’s surprisingly easy to build agents now. Even a VC can do it…👇 Try it free smith.langchain.com/agents?skipOnb… RY Read the announcement blog.langchain.com/langsmith-agen… 0d Your browser does not support the video tag. 🔗 View on Twitter 🔗 View Quoted Tweet 💬 2 🔄 3 ❤️ 12 👀 1237 📊 5 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011134704934957382</guid>
+      <pubDate>Tue, 13 Jan 2026 17:54:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

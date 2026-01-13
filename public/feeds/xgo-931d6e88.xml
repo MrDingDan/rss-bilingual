@@ -6,7 +6,47 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:33:02 +0000</lastBuildDate>
+    <item>
+      <title>MIT研究人员提出递归语言模型 / MIT researchers propose Recursive Language Models
+
+You are going to hear more on this in 2026.
+
+Why ...</title>
+      <link>https://x.com/omarsar0/status/2009988633705742653</link>
+      <description>MIT研究人员提出递归语言模型，2026年将有更多相关消息。为何重要？如果大语言模型（LLMs）能处理比其上下文窗口长100倍的输入会怎样？上下文长度是一个硬性限制。你可以通过架构调整来扩展它，但总有限度。大多数方法试图在窗口内塞入更多内容或压缩超出部分。这项新研究采取了不同思路：不硬碰上下文限制，而是通过编程方式绕过它。递归语言模型（RLMs）将长提示视为外部环境。模型可以检查提示，将其分解为多个部分，并在片段上递归调用自身。这是在推理阶段进行的……
+
+---
+
+Original:
+MIT researchers propose Recursive Language Models You are going to hear more on this in 2026. Why does it matter? What if LLMs could process inputs 100x longer than their context window? Context length is a hard constraint. You can extend it with architectural changes, but there's always a limit. Most approaches try to squeeze more into the window or compress what doesn't fit. This new research takes a different approach. Instead of fighting the context limit, work around it programmatically. Recursive Language Models (RLMs) treat long prompts as an external environment. The model can examine the prompt, decompose it into sections, and recursively call itself on snippets. It's inference-time…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009988633705742653</guid>
+      <pubDate>Sat, 10 Jan 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>论文：https://t.co/2OUYB1fdxo / Paper: https://t.co/2OUYB1fdxo</title>
+      <link>https://x.com/omarsar0/status/2009988651636404377</link>
+      <description>论文：arxiv.org/abs/2512.24601 💬 2 🔄 1 ❤️ 18 👀 5232 📊 7 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Paper: arxiv.org/abs/2512.24601 💬 2 🔄 1 ❤️ 18 👀 5232 📊 7 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009988651636404377</guid>
+      <pubDate>Sat, 10 Jan 2026 14:00:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>一篇优秀论文展示了技能加持下单智能体的潜力 / Great paper showing how far you can push a single agent with skills.</title>
+      <link>https://x.com/omarsar0/status/2010005746075975684</link>
+      <description>一篇优秀论文展示了技能加持下单智能体的潜力。DAIR.AI @dair_ai 提问：一个具备技能的智能体能否替代多智能体系统？多智能体系统擅长复杂推理，通过显式通信实现专业智能体协作，但这会带来显著的令牌计算开销和延迟。这项新研究探讨了是否可以通过用技能选择替代智能体间通信，将多智能体系统编译为等效的单智能体系统。答案是肯定的，但有个前提。初步实验表明，配备技能库的单智能体方法能大幅减少令牌使用和延迟，同时保持竞争力……
+
+---
+
+Original:
+Great paper showing how far you can push a single agent with skills. DAIR.AI @dair_ai Can a single agent with skills replace multi-agent systems? Multi-agent systems work well for complex reasoning where specialized agents collaborate through explicit communication. But this incurs substantial computational overhead in tokens and latency. This new research explores whether you can compile a multi-agent system into an equivalent single-agent system by trading inter-agent communication for skill selection. The answer: yes, but with a caveat. Preliminary experiments show single-agent approaches with skill libraries can substantially reduce token usage and latency while maintaining competitive a…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2010005746075975684</guid>
+      <pubDate>Sat, 10 Jan 2026 15:08:08 +0000</pubDate>
+    </item>
     <item>
       <title>介绍 ralph-research 插件。 / Introducing ralph-research plugin.
 
@@ -89,6 +129,47 @@ Original:
 Don't miss out on Claude Agent SDK. Go try to build something with it. Use Claude Code to help you out as you start. There is a nice plugin available to get building. You can build your own personal assistant with the power of Claude Code, just like Cowork. 💬 0 🔄 0 ❤️ 4 👀 1858 📊 1 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-931d6e88::2010822422488887492</guid>
       <pubDate>Mon, 12 Jan 2026 21:13:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta与合作伙伴发布新研究 / New research from Meta and collaborators.
+
+This is a good paper showing what's possible with proper ...</title>
+      <link>https://x.com/omarsar0/status/2011076284164542639</link>
+      <description>Meta与合作伙伴发布新研究。这篇论文展示了通过恰当的世界模型可以实现什么。世界模型需要动作来预测结果。当前的主流方法需要标注的动作数据，获取成本高昂，且仅限于视频游戏或机器人操作等狭窄领域。但绝大多数在线视频数据根本没有动作标签。这项新研究致力于直接从野生视频中学习潜在动作世界模型，突破了以往受控环境的限制，以捕捉现实世界动作的完整多样性。挑战是巨大的。野生视频中的动作远不止简单的导航或操作……
+
+---
+
+Original:
+New research from Meta and collaborators. This is a good paper showing what's possible with proper world models. World models need actions to predict consequences. The default approach today requires labeled action data, which is expensive to obtain and limited to narrow domains like video games or robotic manipulation. But the vast majority of video data online has no action labels at all. This new research tackles learning latent action world models directly from in-the-wild videos, expanding beyond the controlled settings of previous work to capture the full diversity of real-world actions. The challenge is significant. In-the-wild videos contain actions far beyond simple navigation or ma…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011076284164542639</guid>
+      <pubDate>Tue, 13 Jan 2026 14:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>我为Anthropic（Anthropic）持续优化Claude Code的易用性点赞。 / I applaud Anthropic for relentlessly making Claude Code easier to use.
+
+You can now leverage modes w...</title>
+      <link>https://x.com/omarsar0/status/2011111792877973851</link>
+      <description>我为Anthropic（Anthropic）持续优化Claude Code的易用性点赞。现在，你可以在Claude Desktop的Code模式中灵活运用这些功能。提问、规划和执行是让智能体高效运作的关键环节，如今只需一键即可轻松调用。💬 6 🔄 2 ❤️ 38 👀 3087 📊 11 ⚡ 由xgo.ing驱动
+
+---
+
+Original:
+I applaud Anthropic for relentlessly making Claude Code easier to use. You can now leverage modes within Code in Claude Desktop. Ask, Plan, and Execute are some of the most important components to make an agent work. And they are now available at the press of a button. 💬 6 🔄 2 ❤️ 38 👀 3087 📊 11 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011111792877973851</guid>
+      <pubDate>Tue, 13 Jan 2026 16:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>这些功能在Cowork中同样具备。我依然偏爱通过终端使用Claude Code，但这能让更多非技术背景的人参与进来。 / These features are also in Cowork.
+I still prefer to use Claude Code via the terminal, but this is g...</title>
+      <link>https://x.com/omarsar0/status/2011112571504373851</link>
+      <description>这些功能在Cowork中同样具备。我依然偏爱通过终端使用Claude Code，但这能让更多非技术背景的人参与进来。这步棋很明智，因为团队现在可以根据自己的习惯选择任意版本的Claude Code。💬 1 🔄 0 ❤️ 5 👀 1333 📊 1 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+These features are also in Cowork. I still prefer to use Claude Code via the terminal, but this is going to allow more folks with non-technical backgrounds get in the action. Smart move because teams can now use whatever flavor of Claude Code they feel comfortable with. 💬 1 🔄 0 ❤️ 5 👀 1333 📊 1 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011112571504373851</guid>
+      <pubDate>Tue, 13 Jan 2026 16:26:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

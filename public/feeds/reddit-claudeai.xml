@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:30:21 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -464,6 +464,18 @@ If you're using subagent orchestration in Claude Code , you know the pain of edi
       <pubDate>Tue, 13 Jan 2026 16:21:48 +0000</pubDate>
     </item>
     <item>
+      <title>我不再让Claude直接执行自动化任务，而是让它担任监督角色 / I stopped letting Claude run my automations. Now it just supervises them.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbvurb/i_stopped_letting_claude_run_my_automations_now/</link>
+      <description>这个计算改变了我使用Claude进行自动化的方式：5个步骤各90%的准确率，整体成功率只有59%。每次串联多个大语言模型调用时，错误会不断累积。我过去构建的工作流中，Claude在每个独立步骤都表现优异，但端到端的整体结果却有一半是无效的。因此我彻底调整了架构：由确定性的Python脚本执行实际工作（API调用、数据处理、文件操作），Claude负责协调——读取指令、调用脚本、处理错误、做出决策。记忆持续保存——记录执行过程、故障点以及下次如何调整。这就像让初级开发人员从头编写所有代码，与高级开发人员监督可靠流程之间的区别。
+
+---
+
+Original:
+Here's the math that changed how I use Claude for automation: 90% accuracy across 5 steps = 59% success rate. Every time you chain LLM calls, errors compound. I was building workflows where Claude would do great on each individual step but the end-to-end result was garbage half the time. So I flipped the architecture: Deterministic Python scripts do the actual work (API calls, data processing, file ops) Claude orchestrates - reads the directive, calls the scripts, handles errors, makes decisions Memory persists - what happened, what broke, what to do differently next time It's like the difference between having a junior dev write everything from scratch vs. a senior dev supervising reliable…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbvurb</guid>
+      <pubDate>Tue, 13 Jan 2026 16:26:46 +0000</pubDate>
+    </item>
+    <item>
       <title>速率限制毁了这个产品。 / Rate limits have ruined this product.</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbwkcv/rate_limits_have_ruined_this_product/</link>
       <description>我以为昨天已经够糟了，结果今天刚开始编程一小时，就又触发了速率限制。我明明付费用专业版，却连几个小时的工作都保证不了。不清楚到底出了什么问题，但我已经决定取消专业账户，转用Gemini CLI。太失望了☹️ 由 /u/OliverIanOliver 提交 [链接] [评论]
@@ -522,6 +534,18 @@ Original:
 submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbz947</guid>
       <pubDate>Tue, 13 Jan 2026 18:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>非技术人员初遇Claude Cowork时的反应 / Non-engineers discovering Claude Cowork be like</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbzkyh/nonengineers_discovering_claude_cowork_be_like/</link>
+      <description>当智能体真正开始执行任务时，那种信心爆棚的感觉简直不真实。我们把这种体验做成了一段完全不走正道的恶搞视频——没有产品演示，只有纯粹的“发布即狂用”氛围。由/u/Ok-Classic6022提交 [链接] [评论]
+
+---
+
+Original:
+When agents start actually doing things, the confidence spike is unreal. We turned that feeling into a completely unserious parody video — no product walkthrough, just pure “ship it and rip it” vibes. submitted by /u/Ok-Classic6022 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbzkyh</guid>
+      <pubDate>Tue, 13 Jan 2026 18:47:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

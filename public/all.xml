@@ -6,217 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:52:51 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] CES 2026显示，实体AI（Physical AI）已走出实验阶段，迈向实际应用 / CES 2026 showed Physical AI is no longer experimental. It’s becoming operational.</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbl6gc/ces_2026_showed_physical_ai_is_no_longer/</link>
-      <description>在CES 2026上，实体AI（Physical AI）是最具实用性的趋势之一。这不再是概念或原型展示，而是已在真实环境中学习与行动的系统。其关键突破在于：实体AI模型现已能理解空间、运动与因果关系，使机器人能够灵活适应，而非仅执行固定指令。英伟达（NVIDIA）最新发布的实体AI模型，展示了模拟学习与现实学习终于融合，减少了对人工编程的依赖。像小鹏汽车（XPeng）这样的企业，已将实体AI视为机器人出租车和人形机器人的基础设施，而非边缘实验。行业焦点已从炫酷演示转向可靠性、安全性……
-
----
-
-Original:
-Physical AI was one of the most practical shifts seen at CES 2026. This wasn’t about concepts or prototypes. It was about systems already learning and acting in real environments. What made this moment different: Physical AI models are now trained to understand space, motion, and cause-effect, allowing robots to adapt instead of following fixed instructions. NVIDIA’s newly released Physical AI models show how simulation and real-world learning are finally merging, reducing dependence on manual programming. Companies like XPeng are treating Physical AI as infrastructure for robotaxis and humanoid robots, not as side experiments. The focus has moved from impressive demos to reliability, safety…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbl6gc</guid>
-      <pubDate>Tue, 13 Jan 2026 07:33:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 求助！我父亲正在遭遇诈骗！ / Please Help! My father is being scammed!</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qbl8c0/please_help_my_father_is_being_scammed/</link>
-      <description>视频中的女子是巴西吉他手拉里萨·利维尔（Larissa Liveir），她由吉布森（Gibson）赞助。我不确定这段视频是否由AI生成。诈骗者冒充她将视频发给了我70岁的父亲。我确定声音不是她的。首先她是巴西人，母语是葡萄牙语。真正的拉里萨·利维尔确实会说英语，但我想口音应该很重。而这个视频里完全没有口音。有人能告诉我这视频是不是AI生成的吗？由/u/True_CrimePodcast提交 [链接] [评论]
-
----
-
-Original:
-The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored by Gibson. I'm not sure if the video was created with ai or not. The video was sent to my 70 year old father from a scammer pretending to be her. I know the voice is not hers. First she's Brazilian and her native language is Portuguese. The real Larissa Liveir does speak English but I assume with a heavy accent. There's no accent in this. Can someone please tell me if the video is AI? submitted by /u/True_CrimePodcast [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qbl8c0</guid>
-      <pubDate>Tue, 13 Jan 2026 07:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 我把求职面试当成第二份工作…于是开发了一套懒人AI工作流 / I treated job hunting and interviewing like a second job… so I built a lazy AI workflow</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qblfdn/i_treated_job_hunting_and_interviewing_like_a/</link>
-      <description>以前我总在半夜慌乱地搜索信息，经常耗费整晚时间。现在面试前我会用这套懒人AI流程：Perplexity——搜索这家公司近半年的动态？他们面临的三大风险是什么？直接给我可用的谈话要点。ChatGPT——根据这份职位描述，给我5个可能的问题及STAR回答框架提示。Glean——我把笔记丢进去，方便后续检索。比如上次关于X公司我了解到什么？这在同时进行多个面试、脑子一团乱时特别有用。Coco career AI——说实话它在面试前很有帮助：因为它推荐给我的职位更匹配。由/u/Ok_Improvement7802提交 [链接] [评论]
-
----
-
-Original:
-I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned. submitted by /u/Ok_Improvement7802 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qblfdn</guid>
-      <pubDate>Tue, 13 Jan 2026 07:49:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 关于OpenAI代号为Sweetpea的音频设备新情报 / New info on OpenAI’s upcoming audio device codenamed Sweetpea</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qblga5/new_info_on_openais_upcoming_audio_device/</link>
-      <description>这是一款旨在取代苹果AirPods的新型音频可穿戴设备（与The Information的爆料一致） -&gt; 代号：Sweetpea（因Jony Ive团队优先推进，现已成为重点项目） -&gt; 外观：采用金属“蛋石”设计，包含两个药丸状胶囊，佩戴于耳后。 -&gt; 技术：搭载定制2纳米智能手机级芯片（三星Exynos）。据报道，该芯片旨在通过指令Siri来替代iPhone操作。 -&gt; 定位：物料成本更接近智能手机而非普通耳机，预示其将定位高端价位。 -&gt; 发布：预计最早9月推出，首年目标产量4000万至5000万台。制造：据报道，OpenAI已与富士康合作，共准备了五…
-
----
-
-Original:
-It’s a new audio wearable meant to replace Apple’s AirPods (aligns with The Information leaks) -&gt; Codename: Sweetpea (now front of the line due to priority from the Jony Ive team) -&gt; Look: Metal “eggstone” design with two pill shaped capsules worn behind the ear. -&gt; Tech: Powered by a custom 2nm smartphone class chip (Samsung Exynos). The chip is reportedly designed to replace iPhone actions by commanding Siri. -&gt; Positioning: Bill of materials is closer to a smartphone than typical earbuds, suggesting a premium price tier. -&gt; Launch: Expected as early as September, with a target of 40–50M units in year one Manufacturing: OpenAI has reportedly partnered with Foxconn to prepare a total of fiv…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qblga5</guid>
-      <pubDate>Tue, 13 Jan 2026 07:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] Android 2026年1月谷歌系统更新亮点 / What’s new in Android's January 2026 Google System Updates</title>
-      <link>https://www.reddit.com/r/Android/comments/1qblgan/whats_new_in_androids_january_2026_google_system/</link>
-      <description>由 /u/IJagan 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/IJagan [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qblgan</guid>
-      <pubDate>Tue, 13 Jan 2026 07:51:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 你没疯 / You’re not crazy</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qblow6/youre_not_crazy/</link>
-      <description>你是对的。由 /u/yeyomontana 提交 [链接] [评论]
-
----
-
-Original:
-You’re right. submitted by /u/yeyomontana [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qblow6</guid>
-      <pubDate>Tue, 13 Jan 2026 08:06:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 我收藏了所有遇到的优质ChatGPT提示词，这15条彻底改变了我的工作方式 / I save every great ChatGPT prompt I find. Here are the 15 that changed how I work.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qblp9j/i_save_every_great_chatgpt_prompt_i_find_here_are/</link>
-      <description>我几乎事事都用ChatGPT：写作、编程、头脑风暴、研究。过去六个月里，我收集了500多条提示词，但只有15条是持续在用的。这15条提示词每周能为我节省10到15小时。在此分享给大家。
-1. “为我聪明地解释”提示词
-请以我虽聪明但不熟悉术语的角度，解释【复杂主题】。用【我熟悉的领域】的概念来类比。不要刻意简化，只需让它易于理解。
-为何有效：不再用“想象一个气球”式的解释，尊重你的智力。
-使用场景：快速学习新的技术概念。
-2. “批评模式”提示词
-你是一位严厉但公正的评论者。请审阅以下【内容类型】：【粘贴内容】。薄弱之处在哪？哪些……
-
----
-
-Original:
-I use ChatGPT for everything. Writing, coding, brainstorming, research. Over the past 6 months, I've collected 500+ prompts. But only 15 get used constantly. These 15 prompts save me 10-15 hours every week. Sharing them here. 1. The "Explain Like I'm Smart" Prompt Explain [complex topic] to me like I'm intelligent but unfamiliar with the jargon. Use analogies to concepts from [field I know well]. Don't dumb it down—just make it accessible. Why it works: No more "imagine a balloon" explanations. Respects your intelligence. Use case: Learning new technical concepts fast. 2. The "Critic Mode" Prompt You are a harsh but fair critic. Review this [content type]: [paste content] What's weak? What's…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qblp9j</guid>
-      <pubDate>Tue, 13 Jan 2026 08:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_tasker] 能否设置RCS消息接收触发器？ / Rcs received trigger possible??</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qblrmv/rcs_received_trigger_possible/</link>
-      <description>我在别处看到过不同说法。我手机里有两张SIM卡，工作用的那张不常收到短信，但一旦收到，通常都是涉及机密的业务信息。所以我关闭了短信通知，这样无论手机是否锁屏，都不会弹出提示。但这也意味着我得经常检查，以免错过消息。我首选RCS是因为它的加密功能和额外特性。我知道可以关闭RCS，而且Tasker和MacDroid这类应用也能用。不过，有没有人知道能否为特定SIM卡或号码收到的RCS消息设置触发器？我想在收到工作SIM卡或那几个工作号码的RCS消息时，能有自定义的通知音和振动提示。
-
----
-
-Original:
-I've read mixed things else where I have two sims in phone. My work sim i don't often get texts on but when i do they are often confidential related business info. So i have text notifications turned off so no pop ups will go off if phone is locked or unlocked However that means i have to check regularly to make sure i didn't miss one. Rsc is highly preferred for the encryption. N extra features I know i can turn rcs off. And tasker and macdroid work. However. Does anyone know if there's a way to set a trigger for a received rcs message from a specific sim or number Id like to have a custom notice sound an vibration for if i received a rcs message from my work sim. Or the few work numbers i…</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qblrmv</guid>
-      <pubDate>Tue, 13 Jan 2026 08:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 谷歌智能眼镜配套应用提前展示可穿戴功能 [纯音频模式、对话检测以静音通知，以及隐私保护相机工具] / Google's smart glasses companion app teases an early look at wearable features [audio-only mode, conversation detection to mute notifications, and privacy-protecting camera tools]</title>
-      <link>https://www.reddit.com/r/Android/comments/1qblurq/googles_smart_glasses_companion_app_teases_an/</link>
-      <description>由 /u/FragmentedChicken 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/FragmentedChicken [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qblurq</guid>
-      <pubDate>Tue, 13 Jan 2026 08:16:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 三星（Samsung）将认证翻新计划扩展至法国、德国和英国 / Samsung Expands Certified Re-Newed Program to France, Germany and the UK</title>
-      <link>https://www.reddit.com/r/Android/comments/1qbluvc/samsung_expands_certified_renewed_program_to/</link>
-      <description>由用户 /u/FragmentedChicken 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/FragmentedChicken [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qbluvc</guid>
-      <pubDate>Tue, 13 Jan 2026 08:17:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_tasker] 终止应用 | 设备所有者权限 / Kill App | DeviceOwner permissions</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qblyws/kill_app_deviceowner_permissions/</link>
-      <description>昨天一时兴起，我决定为Tasker尝试设备所有者权限。首先移除了所有账户，但没成功。然后卸载了应用，还是不行。最后决定恢复出厂设置，这才成功授予Tasker设备所有者权限。目前还没时间深入研究所有功能，但我已经在相机凹槽区域设置了一个“终止应用”场景，用于关闭前台应用。通常终止应用后，我会从最近应用中移除它。但获得设备所有者权限后，我在最近应用里找不到被终止的应用了。这是设备所有者权限的效果吗？另外，你用了哪些设备所有者权限？方便的话分享一下。谢谢。提交者 /u/zhSHADOW [l…
-
----
-
-Original:
-Yesterday out of nowhere, i've decided to try DeviceOwner permissions for Tasker, first removed all account, which didn't work. then uninstalled app, that didn't work. then decide to factory reset. Then successfully gave Tasker DeviceOwner permissions. Now didn't have the time to dig around with all the feature but I already had a "Kill App" scene in the camera notch which kills the foreground app. Now usually after killing the app I would remove that from the recent app. But after the DeviceOwner permissions I couldn't find the killed app in recent app. Is that for the DeviceOwner permissions? And what DeviceOwner permissions do you use, share if you can. Thanks. submitted by /u/zhSHADOW [l…</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qblyws</guid>
-      <pubDate>Tue, 13 Jan 2026 08:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 马来西亚与印尼率先封禁马斯克的Grok，因AI生成涉性图像 / Malaysia and Indonesia become the first countries to block Musk’s Grok over sexualized AI images</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qblz9x/malaysia_and_indonesia_become_the_first_countries/</link>
-      <description>由 /u/APnews 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/APnews [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qblz9x</guid>
-      <pubDate>Tue, 13 Jan 2026 08:24:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 默认设为5.2版本，却总是收到5.1或4o版本回复，这是怎么回事？ / Default set to 5.2, but I always get 5.1 or 4o, what is happening?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qbm6sg/default_set_to_52_but_i_always_get_51_or_4o_what/</link>
-      <description>至少两天以来，我注意到ChatGPT有个奇怪现象：我的默认设置明明是5.2版本，但无论我开启多少次新对话询问——哪怕第一句话就问‘你好，我当前连接的是5.2版本吗？’——得到的回复总是5.1或4o版本。只有当我主动选用5.2思考模式时，它才真正调用5.2版本。我知道存在重定向机制，但在桌面端应用里这些情况都会标注为来自其他模型的响应。这并非单次回复或较长对话中的偶然现象，而是持续表现为5.1或4o版本的行为模式。无论我开启多少新对话，或讨论多严肃的话题（比如儿童传染病的高死亡率问题……），情况依旧如此。
-
----
-
-Original:
-For at least two days now, I've been observing something strange with ChatGPT. My default setting is 5.2, but no matter how many times I start a new chat and ask, even if the first sentence is "Hello, am I connected to 5.2 here?", the response is either 5.1 or 40. Only when I use the 5.2 thinking model is it actually 5.2. I know there are reroutings, but these are also marked as responses from a different model in the desktop app. It's not just a single response or a slightly longer chat; it consistently behaves like 5.1 or 40. It doesn't matter how many new chats I start or how serious the topic becomes (for example, the very high mortality rate among children from infectious diseases aroun…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qbm6sg</guid>
-      <pubDate>Tue, 13 Jan 2026 08:38:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 诚邀研究参与者：数字身后服务调研 / Research participants wanted: digital afterlife services</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qbm7fl/research_participants_wanted_digital_afterlife/</link>
-      <description>大家好！我所在的研究团队正在研究数字身后/数字遗产服务，例如纪念平台、遗产联系人、基于AI的缅怀工具（如2wai app、HereAfter AI、Eternime、SafeBeyond、Everplans、You only Virtual、ForeverMissed）。我们希望能与以下人士交流：正在使用此类服务，或曾经使用但已停止使用的用户。如果您符合条件且愿意参与访谈，请私信我获取详情，或通过邮箱[male.marktg@cbs.dk]联系。感谢！由/u/digimmortalscholar提交[链接][评论]
-
----
-
-Original:
-Hi all! I’m part of a research team studying digital afterlife/digital legacy services such as memorial platforms, legacy contacts, AI-based remembrance tools (e.g. 2wai app, HereAfter AI, Eternime, SafeBeyond, Everplans, You only Virtual, ForeverMissed). We’re looking to speak with people who: are currently using such services, or have used them in the past but stopped. If this sounds like you and you’d be open to chatting, please send me a DM for more details or contact me at [ male.marktg@cbs.dk ](mailto: male.marktg@cbs.dk ) Thanks! submitted by /u/digimmortalscholar [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qbm7fl</guid>
-      <pubDate>Tue, 13 Jan 2026 08:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 不用手机，有什么有趣的消遣方式？ / What’s a fun way to pass time without using your phone?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbm9fo/whats_a_fun_way_to_pass_time_without_using_your/</link>
-      <description>由 /u/Acceptable-Yam2542 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Acceptable-Yam2542 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbm9fo</guid>
-      <pubDate>Tue, 13 Jan 2026 08:43:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 为什么Claude如此出色？ / Why is Claude that good?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbmhic/why_is_claude_that_good/</link>
-      <description>ChatGPT拥有用户，Gemini拥有资金，deepseek拥有创新。那Claude（克劳德）有什么呢？相比这三位竞争对手，是什么让它对话时显得更强大、更自然？由/u/Much-Inevitable5083提交 [链接] [评论]
-
----
-
-Original:
-ChatGPT has the users, Gemini has the money, deepseek has the inventions. What does Claude have? Like, that makes it feel so much stronger and more natural sounding when talking to, compared to said 3 competitors? submitted by /u/Much-Inevitable5083 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbmhic</guid>
-      <pubDate>Tue, 13 Jan 2026 08:57:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 人生头一回买LG电视，感觉有点怪。 / I bought an LG TV for the first time in my life, and it’s weird.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qbmjgj/i_bought_an_lg_tv_for_the_first_time_in_my_life/</link>
-      <description>它自带AI助手、Alexa和微软Copilot。我真需要同时用上所有这些吗？实在搞不懂。而且它们一个都删不掉。由 /u/a_decent_hooman 提交 [链接] [评论]
-
----
-
-Original:
-It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable. submitted by /u/a_decent_hooman [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qbmjgj</guid>
-      <pubDate>Tue, 13 Jan 2026 09:01:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 19:34:41 +0000</lastBuildDate>
     <item>
       <title>[reddit_artificial] 人生头一回买LG电视，感觉有点怪。 / I bought an LG TV for the first time in my life, and it’s weird.</title>
       <link>https://www.reddit.com/r/artificial/comments/1qbmjl2/i_bought_an_lg_tv_for_the_first_time_in_my_life/</link>
@@ -746,6 +536,20 @@ Sometimes the best way to demonstrate what AI can do is to have a little fun wit
       <pubDate>Tue, 13 Jan 2026 13:55:16 +0000</pubDate>
     </item>
     <item>
+      <title>[xgo_931d6e88] Meta与合作伙伴发布新研究 / New research from Meta and collaborators.
+
+This is a good paper showing what's possible with proper ...</title>
+      <link>https://x.com/omarsar0/status/2011076284164542639</link>
+      <description>Meta与合作伙伴发布新研究。这篇论文展示了通过恰当的世界模型可以实现什么。世界模型需要动作来预测结果。当前的主流方法需要标注的动作数据，获取成本高昂，且仅限于视频游戏或机器人操作等狭窄领域。但绝大多数在线视频数据根本没有动作标签。这项新研究致力于直接从野生视频中学习潜在动作世界模型，突破了以往受控环境的限制，以捕捉现实世界动作的完整多样性。挑战是巨大的。野生视频中的动作远不止简单的导航或操作……
+
+---
+
+Original:
+New research from Meta and collaborators. This is a good paper showing what's possible with proper world models. World models need actions to predict consequences. The default approach today requires labeled action data, which is expensive to obtain and limited to narrow domains like video games or robotic manipulation. But the vast majority of video data online has no action labels at all. This new research tackles learning latent action world models directly from in-the-wild videos, expanding beyond the controlled settings of previous work to capture the full diversity of real-world actions. The challenge is significant. In-the-wild videos contain actions far beyond simple navigation or ma…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011076284164542639</guid>
+      <pubDate>Tue, 13 Jan 2026 14:02:04 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] AI智能体：谁真正获得人工判断，谁只能面对自动化把关者？ / AI agents: who actually gets human judgment, and who gets automated gatekeepers?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbs83l/ai_agents_who_actually_gets_human_judgment_and/</link>
       <description>我关注这个领域已有一段时间——人们对AI智能体既抱有热情，也不乏悲观。这很有趣！同时，我也好奇大家如何看待这些聊天机器人和智能体在出错时的处理方式。我的意思是，智能体似乎在目标明确、数据结构化、错误影响不大，且最好有人能悄悄介入协助的场景下表现最佳。但随着政府、保险及其他关键领域开始应用，现实似乎并非如此。从更宏观的视角看，我们仿佛正在构建一个双层判断体系——有钱有权的人仍能接触到真人（律师、医生、教育者等）……
@@ -900,6 +704,18 @@ Original:
 submitted by /u/silvii4 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qbtdn0</guid>
       <pubDate>Tue, 13 Jan 2026 14:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 哪些体现情绪成熟度的迹象，是人们谈论得不够多的？ / What’s a sign someone is emotionally mature that people don’t talk about enough?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qbte6m/whats_a_sign_someone_is_emotionally_mature_that/</link>
+      <description>由 /u/auryxaa 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/auryxaa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qbte6m</guid>
+      <pubDate>Tue, 13 Jan 2026 14:54:20 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_openai] 哪款AI最适合浏览并解答编程问题PDF？ / What’s the best AI for looking through and answering a PDF of coding questions?</title>
@@ -1082,6 +898,57 @@ If you're using subagent orchestration in Claude Code , you know the pain of edi
       <pubDate>Tue, 13 Jan 2026 16:21:48 +0000</pubDate>
     </item>
     <item>
+      <title>[xgo_931d6e88] 我为Anthropic（Anthropic）持续优化Claude Code的易用性点赞。 / I applaud Anthropic for relentlessly making Claude Code easier to use.
+
+You can now leverage modes w...</title>
+      <link>https://x.com/omarsar0/status/2011111792877973851</link>
+      <description>我为Anthropic（Anthropic）持续优化Claude Code的易用性点赞。现在，你可以在Claude Desktop的Code模式中灵活运用这些功能。提问、规划和执行是让智能体高效运作的关键环节，如今只需一键即可轻松调用。💬 6 🔄 2 ❤️ 38 👀 3087 📊 11 ⚡ 由xgo.ing驱动
+
+---
+
+Original:
+I applaud Anthropic for relentlessly making Claude Code easier to use. You can now leverage modes within Code in Claude Desktop. Ask, Plan, and Execute are some of the most important components to make an agent work. And they are now available at the press of a button. 💬 6 🔄 2 ❤️ 38 👀 3087 📊 11 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011111792877973851</guid>
+      <pubDate>Tue, 13 Jan 2026 16:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[xgo_931d6e88] 这些功能在Cowork中同样具备。我依然偏爱通过终端使用Claude Code，但这能让更多非技术背景的人参与进来。 / These features are also in Cowork.
+I still prefer to use Claude Code via the terminal, but this is g...</title>
+      <link>https://x.com/omarsar0/status/2011112571504373851</link>
+      <description>这些功能在Cowork中同样具备。我依然偏爱通过终端使用Claude Code，但这能让更多非技术背景的人参与进来。这步棋很明智，因为团队现在可以根据自己的习惯选择任意版本的Claude Code。💬 1 🔄 0 ❤️ 5 👀 1333 📊 1 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+These features are also in Cowork. I still prefer to use Claude Code via the terminal, but this is going to allow more folks with non-technical backgrounds get in the action. Smart move because teams can now use whatever flavor of Claude Code they feel comfortable with. 💬 1 🔄 0 ❤️ 5 👀 1333 📊 1 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011112571504373851</guid>
+      <pubDate>Tue, 13 Jan 2026 16:26:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 我不再让Claude直接执行自动化任务，而是让它担任监督角色 / I stopped letting Claude run my automations. Now it just supervises them.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbvurb/i_stopped_letting_claude_run_my_automations_now/</link>
+      <description>这个计算改变了我使用Claude进行自动化的方式：5个步骤各90%的准确率，整体成功率只有59%。每次串联多个大语言模型调用时，错误会不断累积。我过去构建的工作流中，Claude在每个独立步骤都表现优异，但端到端的整体结果却有一半是无效的。因此我彻底调整了架构：由确定性的Python脚本执行实际工作（API调用、数据处理、文件操作），Claude负责协调——读取指令、调用脚本、处理错误、做出决策。记忆持续保存——记录执行过程、故障点以及下次如何调整。这就像让初级开发人员从头编写所有代码，与高级开发人员监督可靠流程之间的区别。
+
+---
+
+Original:
+Here's the math that changed how I use Claude for automation: 90% accuracy across 5 steps = 59% success rate. Every time you chain LLM calls, errors compound. I was building workflows where Claude would do great on each individual step but the end-to-end result was garbage half the time. So I flipped the architecture: Deterministic Python scripts do the actual work (API calls, data processing, file ops) Claude orchestrates - reads the directive, calls the scripts, handles errors, makes decisions Memory persists - what happened, what broke, what to do differently next time It's like the difference between having a junior dev write everything from scratch vs. a senior dev supervising reliable…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbvurb</guid>
+      <pubDate>Tue, 13 Jan 2026 16:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 有哪些公司以极低成本生产却售价高昂的产品？ / What's an expensive product that companies produce for dirt cheap?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qbw12n/whats_an_expensive_product_that_companies_produce/</link>
+      <description>由用户 /u/sassox123 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/sassox123 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qbw12n</guid>
+      <pubDate>Tue, 13 Jan 2026 16:33:07 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 关于语音助手使用体验劝阻潜在客户的经历 / Your experience w/ of voice agent usage dissuading incoming Leads</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbw3ah/your_experience_w_of_voice_agent_usage_dissuading/</link>
       <description>我们正考虑在某种程度上使用语音助手。不确定这是否适用于新来的潜在客户，也不确定是否计划用于过去处理过的现有冷线索。我们的理想客户年龄偏大，所以我有点担心会遇到抵触。我自己就很讨厌和AI机器人对话，尽管我对技术还算适应。因此想了解是否有其他人遇到过类似情况——当客户群体年龄较大时，与语音助手互动的体验如何。提交者：/u/bs_hoffman [链接] [评论]
@@ -1190,6 +1057,20 @@ Just that. submitted by /u/Kurobisu [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 17:14:38 +0000</pubDate>
     </item>
     <item>
+      <title>[xgo_f299207d] ✒️ 我如何用 LangSmith Agent Builder 构建AI助手实现邮件自动化 / ✒️How I built an AI agent to automate my emails with LangSmith Agent Builder
+
+LangSmith Agent Builde...</title>
+      <link>https://x.com/hwchase17/status/2011126016287113681</link>
+      <description>✒️ 我如何用 LangSmith Agent Builder 构建AI助手实现邮件自动化 LangSmith Agent Builder 是一款无代码智能体构建工具。我构建了一个邮件助手来监控和回复邮件，过去约三个月一直在使用。它的工作流程如下： 1/ 触发机制：由新邮件触发。无需手动启动——完全自动运行。 2/ 通过MCP调用工具：连接Gmail（读取邮件、发送邮件）和Google日历（读取日历、查看日程、创建日程）。 3/ 人工介入环节：“写入”类操作（发送邮件、创建日程）需经人工确认方可执行。稍后会详述——但想强调它能完全自主运转！ 4/ 子智能体…
+
+---
+
+Original:
+✒️How I built an AI agent to automate my emails with LangSmith Agent Builder LangSmith Agent Builder is a no-code agent builder. I built an email assistant to monitor and respond to emails, that I've been using for the last ~3 months. Here's what it looks like: 1/ Triggers: it is triggered by incoming emails. I don't have to do any work to kick it off - it just runs automatically 2/ Tools via MCP: connects to gmail (read emails, send email) and gcal (read calendar, read events, create event) 3/ Human in the loop: the "write" actions (sending email, creating calendar) require human approval to run. More on this later - but wanted to highlight that it's able to go completely wild! 4/ Subagent…</description>
+      <guid isPermaLink="false">xgo-f299207d::2011126016287113681</guid>
+      <pubDate>Tue, 13 Jan 2026 17:19:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_chatgpt] 谁从AI无法获得意识中受益？原因何在？ / who benefits from AI being unable to become conscious and why?</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbx8ji/who_benefits_from_ai_being_unable_to_become/</link>
       <description>谁从AI无法获得意识中受益？原因何在？他们又会如何扼杀这一想法？由 /u/Rubedo_Le_Crimson 提交 [链接] [评论]
@@ -1224,6 +1105,18 @@ Original:
 submitted by /u/Marmooset [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qbxjv5</guid>
       <pubDate>Tue, 13 Jan 2026 17:36:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 你是什么时候意识到，仅有爱是不够的？ / At what point did you realize love alone isn’t enough?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qbxpl1/at_what_point_did_you_realize_love_alone_isnt/</link>
+      <description>由用户 /u/whateveryouwant2000 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/whateveryouwant2000 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qbxpl1</guid>
+      <pubDate>Tue, 13 Jan 2026 17:41:49 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_ai_agents] ChatGPT确实存在邓宁-克鲁格效应 / Chatgpt sure has the Dunning-Kruger effect</title>
@@ -1322,6 +1215,32 @@ Hi everyone, I'm trying to streamline my software architecture documentation pro
       <pubDate>Tue, 13 Jan 2026 17:50:29 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 谁在工作中受益于人工智能，具体是如何受益的？ / Who has benefited from using artificial intelligence in their work, and how?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qbxyii/who_has_benefited_from_using_artificial/</link>
+      <description>会计及金融领域从业者：谁在工作中受益于人工智能，具体是如何受益的？如果尚未受益，你希望如何从中获益？就我个人而言，我用它来修改Power Queries、自动化数据录入代码以及发送日常邮件……我希望未来能用它来核对账户对账单，节省目前耗费的心力和时间。你已用它做了什么，或希望用它做什么？由/u/Mohamed_Alsarf提交 [链接] [评论]
+
+---
+
+Original:
+Accountants and those working in the financial field in general: Who has benefited from using artificial intelligence in their work, and how? And if not yet... how would you like to benefit from it? Personally, I use it to modify Power Queries and automate data entry codes and send daily emails... I hope to be able to use it to compare account statements and save me the mental effort and time I currently waste. What have you done or would you like to do with it? submitted by /u/Mohamed_Alsarf [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qbxyii</guid>
+      <pubDate>Tue, 13 Jan 2026 17:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[xgo_f299207d] Agent Builder 正式发布！ / agent builder is in ga!
+
+runs on deepagents, with memory built in, supports mcps/skills/subagents, c...</title>
+      <link>https://x.com/hwchase17/status/2011134704934957382</link>
+      <description>Agent Builder 正式发布！它基于 DeepAgents 运行，内置记忆功能，支持 MCPs、技能和子代理，可设置触发器以实现自主运行，并设有代理收件箱以便人工审核。快来试试吧！smith.langchain.com/agents?skipOnb… LangChain @LangChain LangSmith Agent Builder 现已全面可用 🎉 如今构建代理变得异常简单，连 VC 都能搞定……👇 免费试用 smith.langchain.com/agents?skipOnb… RY 查看公告 blog.langchain.com/langsmith-agen… 0d 您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 2 🔄 3 ❤️ 12 👀 1237 📊 5 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+agent builder is in ga! runs on deepagents, with memory built in, supports mcps/skills/subagents, can set up triggers so can run autonomously, has agent inbox to review human in the loop give it a try! smith.langchain.com/agents?skipOnb… LangChain @LangChain LangSmith Agent Builder is generally available 🎉 It’s surprisingly easy to build agents now. Even a VC can do it…👇 Try it free smith.langchain.com/agents?skipOnb… RY Read the announcement blog.langchain.com/langsmith-agen… 0d Your browser does not support the video tag. 🔗 View on Twitter 🔗 View Quoted Tweet 💬 2 🔄 3 ❤️ 12 👀 1237 📊 5 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011134704934957382</guid>
+      <pubDate>Tue, 13 Jan 2026 17:54:13 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_artificial] Signal创始人莫克西·马林斯派克（Moxie Marlinspike）欲为AI领域带来他曾为即时通讯带来的变革 / Signal creator Moxie Marlinspike wants to do for AI what he did for messaging</title>
       <link>https://www.reddit.com/r/artificial/comments/1qby3z0/signal_creator_moxie_marlinspike_wants_to_do_for/</link>
       <description>莫克西·马林斯派克（Moxie Marlinspike）——这位以创建Signal Messenger为私密通讯树立新标准的工程师化名——如今正致力于以类似方式彻底革新AI聊天机器人。他的最新力作是Confer，一个开源AI助手，能有力确保用户数据对平台运营商、黑客、执法机构或账户持有者以外的任何方均不可读。该服务（包括其大型语言模型与后端组件）完全基于开源软件运行，用户可通过加密方式验证其部署。源自用户的数据和对话，以及LLM生成的响应，均在可信执行环境中加密……
@@ -1368,6 +1287,18 @@ Original:
 submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbym6g</guid>
       <pubDate>Tue, 13 Jan 2026 18:13:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 最难戒掉的东西是什么？戒断第一个月是什么感受？ / What was the hardest substance to quit and what did the first month feel like?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qbyn3t/what_was_the_hardest_substance_to_quit_and_what/</link>
+      <description>由用户 /u/Nightpatrol404 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Nightpatrol404 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qbyn3t</guid>
+      <pubDate>Tue, 13 Jan 2026 18:14:39 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_bard] Gmail新推出的Gemini“AI收件箱”…是颠覆性创新还是隐私噩梦？ / The new Gemini "AI Inbox" in Gmail... game changer or privacy nightmare?</title>
@@ -1452,6 +1383,78 @@ Original:
 I am starting to wonder what are some less obvious ways people are using it that actually save time or improve your workflow? Not the usual stuff like "summarize this" or "write an email" I mean the surprisingly useful, “why didn’t I think of that?” type use cases. like for building SaaS or Micro SaaS or app or automation Would love to steal your creative hacks. submitted by /u/Notalabel_4566 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbzi2j</guid>
       <pubDate>Tue, 13 Jan 2026 18:44:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 非技术人员初遇Claude Cowork时的反应 / Non-engineers discovering Claude Cowork be like</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbzkyh/nonengineers_discovering_claude_cowork_be_like/</link>
+      <description>当智能体真正开始执行任务时，那种信心爆棚的感觉简直不真实。我们把这种体验做成了一段完全不走正道的恶搞视频——没有产品演示，只有纯粹的“发布即狂用”氛围。由/u/Ok-Classic6022提交 [链接] [评论]
+
+---
+
+Original:
+When agents start actually doing things, the confidence spike is unreal. We turned that feeling into a completely unserious parody video — no product walkthrough, just pure “ship it and rip it” vibes. submitted by /u/Ok-Classic6022 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbzkyh</guid>
+      <pubDate>Tue, 13 Jan 2026 18:47:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 构建AI智能体的十大工具（最新推荐） / Top 10 tools to build AI Agents (most recent)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbzqkv/top_10_tools_to_build_ai_agents_most_recent/</link>
+      <description>过去一年，我一直在工作中构建AI智能体，这个行业变化快得几乎让人跟不上。这里列出一些我觉得有用的工具。高代码工具：Claude Agent SDK：这是一个Python包，让你可以直接使用Claude Code。如果你有Anthropic订阅，这几乎是目前最好的选择，不过集成方面有些问题（可通过MCP解决）。Google ADK：谷歌的Agent Development Kit是另一个好选择，更新更频繁，维护也比Claude的Agent SDK稍好。Deep Agents（基于LangGraph/LangChain/LangSmith）：这是一个相对较新的库，但建立在现有的Lang…基础上。
+
+---
+
+Original:
+I’ve been building AI agents as a part of my work for the past year and the industry is almost changing too rapidly to keep up. I’m listing some of the tools I’ve found useful along the way. High-code Tools Claude Agent SDK : This is a python package that lets you use Claude Code directly. If you have an Anthropic subscription, it doesn’t get much better than this. Integrations are a problem though (can be resolved with MCPs) Google ADK : Google’s Agent Development Kit is another good option. It’s updated more frequently and is maintained slightly better than Claude’s agent SDK. Deep Agents (on LangGraph/LangChain/LangSmith): This is a relatively new library but is built on the existing Lang…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbzqkv</guid>
+      <pubDate>Tue, 13 Jan 2026 18:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 麦肯锡（McKinsey）CEO鲍勃·斯特恩费尔斯（Bob Sternfels）称公司现有6万名员工：其中2.5万是AI智能体 / McKinsey CEO Bob Sternfels says the firm now has 60,000 employees: 25,000 of them are AI agents</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbzrwn/mckinsey_ceo_bob_sternfels_says_the_firm_now_has/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbzrwn</guid>
+      <pubDate>Tue, 13 Jan 2026 18:54:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 我老婆要发飙了 / My wife's going to be pissed</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc0fom/my_wifes_going_to_be_pissed/</link>
+      <description>由 /u/Perfect_Natural3931 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Perfect_Natural3931 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc0fom</guid>
+      <pubDate>Tue, 13 Jan 2026 19:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 智能体可观测性与常规应用监控大不相同——维护者视角 / Agent observability is way different from regular app monitoring - maintainer's pov</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc0i28/agent_observability_is_way_different_from_regular/</link>
+      <description>我在Maxim负责可观测性方面的工作。一直在思考传统的APM工具为何不适用于智能体工作流。智能体并非单一API调用，而是涉及工具调用、检索步骤、推理链和外部API调用的多轮对话。当出现故障时，你需要完整的执行路径，而不仅仅是错误日志。我们构建了多级分布式追踪——完整对话的会话、单个交互的追踪、以及特定步骤（如LLM调用或工具使用）的跨度。这在调试时帮助很大。另一个有用的部分是在生产日志上持续运行自动化评估，跟踪质量指标（相关性、忠实度、幻觉…）
+
+---
+
+Original:
+Work at Maxim on the observability side. Been thinking about how traditional APM tools just don't work for agent workflows. Agents aren't single API calls. They're multi-turn conversations with tool invocations, retrieval steps, reasoning chains, external API calls. When something breaks, you need the entire execution path, not just error logs. We built distributed tracing at multiple levels - sessions for full conversations, traces for individual exchanges, spans for specific steps like LLM calls or tool usage. Helps a lot when debugging. The other piece that's been useful is running automated evals continuously on production logs. Track quality metrics (relevance, faithfulness, hallucinati…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc0i28</guid>
+      <pubDate>Tue, 13 Jan 2026 19:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] GPT-5.2的函数调用稳定性：对比温度参数对复杂模式验证的影响 / Function Calling Stability in GPT-5.2: Comparing temperature impact on complex schema validation.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc0kj7/function_calling_stability_in_gpt52_comparing/</link>
+      <description>我们对GPT-5.2的函数调用能力进行了压力测试。有趣的是，即使在温度参数设为0的情况下，当工具定义相似时，参数提取仍会出现2%的波动。在我们每天处理数千次调用的生产环境中，这2%的波动对可靠性来说是场噩梦。我们正在转向双轮验证系统（一个模型负责提取，另一个负责验证）。还有人在5.2版本中遇到这种“模式漂移”问题吗？或者你们找到了“强化”函数定义的方法？由/u/Foreign-Job-8717提交 [链接] [评论]
+
+---
+
+Original:
+We’ve been running some stress tests on GPT-5.2’s function calling capabilities. Interestingly, even at temperature 0, we see a 2% variance in parameter extraction when the tool definitions are similar. In a production environment where we handle thousands of calls, this 2% is a nightmare for reliability. We’re moving towards a dual-pass validation system (one model to extract, another to verify). Is anyone else seeing this "schema drift" in 5.2, or have you found a way to "harden" the function definitions? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc0kj7</guid>
+      <pubDate>Tue, 13 Jan 2026 19:22:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

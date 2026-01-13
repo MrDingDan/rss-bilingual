@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:52:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:32:13 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -32,16 +32,88 @@ Hello everyone! It's that time of the year again where I'll be away for a while.
       <pubDate>Fri, 19 Dec 2025 10:44:09 +0000</pubDate>
     </item>
     <item>
-      <title>相机气泡悬浮窗 / Camera Bubble Overlay</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qa16p0/camera_bubble_overlay/</link>
-      <description>我（在Gemini的帮助下）创建了一个任务，可以显示一个可拖动的圆形悬浮窗，实时展示前置摄像头画面。它适用于屏幕录制、演示……或纯粹娱乐。https://taskernet.com/shares/?user=AS35m8lXfdzrraa92oiqVOhfA8yJu3NAybngrnF7bN9M6PLys%2F%2F7RkEhQ57scKONUA%3D%3D&amp;id=Task%3ACamBubble 这是基于Java代码实现的，部分设置需在代码中调整。长按可关闭窗口。目前更接近原型阶段，但在我这里运行良好。使用风险请自行承担。由 /u/roncz 提交 [链接] [评论]
+      <title>Join应用短信服务使用了错误的手机 / Wrong phone used for Join App SMS service</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q92v8f/wrong_phone_used_for_join_app_sms_service/</link>
+      <description>你好，我想咨询关于Join应用和Chrome扩展的问题。我正在换用新手机，已经把SIM卡转移到新设备上，并安装了Join应用。我已经在新手机的Join中设置了手机号码，但尽管如此，当我在电脑上运行Chrome扩展的诊断程序时，它仍然从旧手机获取短信文件。除了从旧手机移除Join应用（我暂时还不想这么做），我该如何让Join将新手机作为短信来源？先谢谢了。提交者：/u/shadewood_mole [链接] [评论]
 
 ---
 
 Original:
-I (with help of Gemini) have created a task that shows a dragable, round overlay showing the front camera image. It can be used for screen cast, demos, ... and for fun. https://taskernet.com/shares/?user=AS35m8lXfdzrraa92oiqVOhfA8yJu3NAybngrnF7bN9M6PLys%2F%2F7RkEhQ57scKONUA%3D%3D&amp;id=Task%3ACamBubble It is a Java code and you find some settings in the code. Long-press to close the window. It is more like a prototype but works for me. Use at your own risk. submitted by /u/roncz [link] [comments]</description>
+Hi there, This is a query about the Join App and Chrome extension. I am in the process of moving to a new phone so I've transferred my Sim across to the new one and installed Join App on it. I've set the mobile number in Join on the new phone but despite this, when I run the diagnostics in Chrome extension on my PC it's still getting the SMS files from the old phone. Apart from removing Join from the old phone, which I don't want to do just yet, how do I make Join use the new phone as the SMS source? TIA submitted by /u/shadewood_mole [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q92v8f</guid>
+      <pubDate>Sat, 10 Jan 2026 12:28:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>用Tasker（任务自动化工具）抓拿便便惯犯 / Using Tasker to Catch a Poop Bandit</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q9gyaw/using_tasker_to_catch_a_poop_bandit/</link>
+      <description>为了抓住那个总在我去停车位的步行道上乱丢狗屎的讨厌家伙，我请出了Tasker（任务自动化工具）、AutoRemote（远程控制应用）以及“Motion Detector AI”（动作检测AI）应用。在我那台闲置的旧款LGV30手机上，Motion Detector AI应用能识别人和狗。当有新视频录制时，Tasker会检测到文件，并通过AutoRemote将其转发到我的Pixel 8手机上，附带消息“棕色警报”。我的手机收到消息后，会播放一段响亮的放屁音频，并提示“棕色警报，棕色警报，便便甲板上有入侵者！”，然后自动打开视频。编辑：应用名称是“Motion Detector AI”，不是Motion Sensor AI。于是，“便便世界大战”开始了…… 由/u/AggressiveNothing120提交 [链接] [评论]
+
+---
+
+Original:
+In order to catch a nasty poop bandit leaving dog turds on the walking path to my car, I've called upon Tasker, AutoRemote, and the app, "Motion Detector AI". The Motion Detector AI app on my old, spare LGV30 device detects people and dogs. When the new video is recorded, Tasker detects the file, it's forwarded to my Pixel 8 using AutoRemote, with the message "Brown Alert" My phone gets that message and plays a loud fart audio clip, says "Brown alert, brown alert, intruder on the poop deck!" and then opens the video. Edit : the app is called "Motion Detector AI" not Motion Sensor AI And the Turd World War begins... submitted by /u/AggressiveNothing120 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q9gyaw</guid>
+      <pubDate>Sat, 10 Jan 2026 21:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[任务分享] 充电时自动开启飞行模式 / [Task Share] Auto airplane mode when charging</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q9i8o4/task_share_auto_airplane_mode_when_charging/</link>
+      <description>大家好，我希望手机在充电时能自动开启飞行模式，因此制作了这个任务并分享给大家：https://taskernet.com/shares/?user=AS35m8nReItmS96XIiz3xX5JcBYA0twMIoQYBl7Vfq%2BsVthTyGHwM8E3eLoOkXtM%2FGagPHWvazpUJYtikw%3D%3D&amp;id=Profile%3AAutoAirplane+Mode 它会在充电时启用飞行模式，并在断开充电器时关闭。由 /u/OutrageousRope88 提交 [链接] [评论]
+
+---
+
+Original:
+Hi all, I wanted my phone to automatically turn on airplane mode when charging, so I made this task I now share: https://taskernet.com/shares/?user=AS35m8nReItmS96XIiz3xX5JcBYA0twMIoQYBl7Vfq%2BsVthTyGHwM8E3eLoOkXtM%2FGagPHWvazpUJYtikw%3D%3D&amp;id=Profile%3AAutoAirplane+Mode It enables it when charging, and disables when removed from the charger. submitted by /u/OutrageousRope88 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q9i8o4</guid>
+      <pubDate>Sat, 10 Jan 2026 22:48:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>支付3USDC请人在WhatsApp上发消息并给我验证码 / Paying people 3USDC to message someone on whatsapp and give me the code</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q9mybp/paying_people_3usdc_to_message_someone_on/</link>
+      <description>支付3USDC请人在WhatsApp上给某人发消息并给我验证码，由/u/Secretnumb提交 [链接] [评论]
+
+---
+
+Original:
+Paying people 3USDC to message someone on whatsapp and give me the code submitted by /u/Secretnumb [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q9mybp</guid>
+      <pubDate>Sun, 11 Jan 2026 02:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[求助] 如何在Autonotification中创建多行通知 / [Help] Creating a multiline notification with AN</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q9vbnq/help_creating_a_multiline_notification_with_an/</link>
+      <description>是否能在Autonotification中创建多行通知？目前只能显示两行。我尝试过HTML但似乎无效，网上也找不到相关信息。感谢/u/qwertyng提交 [链接] [评论]
+
+---
+
+Original:
+Is it possible to create a multiline notification in Autonotification? Its shows only 2 lines. I tried Html but it doesn't seem to work and I couldn't find any information on the internet. thanks submitted by /u/qwertyng [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q9vbnq</guid>
+      <pubDate>Sun, 11 Jan 2026 09:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>相机气泡悬浮窗 / Camera Bubble Overlay</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qa16p0/camera_bubble_overlay/</link>
+      <description>我（在Gemini的帮助下）创建了一个任务，可以显示一个可拖动的圆形悬浮窗，实时展示前置摄像头画面。它适用于屏幕录制、演示……或纯粹娱乐。https://taskernet.com/shares/?user=AS35m8lXfdzrraa92oiqVOhfA8yJu3NAybngrnF7bN9M6PLys%2F%2F7RkEhQ57scKONUA%3D%3D&amp;amp;id=Task%3ACamBubble 这是基于Java代码实现的，部分设置需在代码中调整。长按可关闭窗口。目前更接近原型阶段，但在我这里运行良好。使用风险请自行承担。由 /u/roncz 提交 [链接] [评论]
+
+---
+
+Original:
+I (with help of Gemini) have created a task that shows a dragable, round overlay showing the front camera image. It can be used for screen cast, demos, ... and for fun. https://taskernet.com/shares/?user=AS35m8lXfdzrraa92oiqVOhfA8yJu3NAybngrnF7bN9M6PLys%2F%2F7RkEhQ57scKONUA%3D%3D&amp;amp;id=Task%3ACamBubble It is a Java code and you find some settings in the code. Long-press to close the window. It is more like a prototype but works for me. Use at your own risk. submitted by /u/roncz [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qa16p0</guid>
       <pubDate>Sun, 11 Jan 2026 14:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>退款请求 / Refund request p</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qa9nk3/refund_request_p/</link>
+      <description>我想为Tasker申请退款。该应用在我的设备上无法正常运行。订单号：GPA.3342-8579-5064-27961，由/u/Fast-Challenge1410提交 [链接] [评论]
+
+---
+
+Original:
+I would like to refund of Tasker. It doesn't work on my device. GPA.3342-8579-5064-27961 submitted by /u/Fast-Challenge1410 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qa9nk3</guid>
+      <pubDate>Sun, 11 Jan 2026 20:11:06 +0000</pubDate>
     </item>
     <item>
       <title>AutoWear 的“退出”功能 / AutoWear 'Exit' function</title>

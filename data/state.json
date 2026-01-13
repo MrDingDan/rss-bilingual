@@ -319,7 +319,47 @@
     "reddit-tasker::t3_1qbxvkt": 1768330339,
     "reddit-tasker::t3_1qax22t": 1768330347,
     "reddit-tasker::t3_1qaqtx8": 1768330360,
-    "reddit-tasker::t3_1qa16p0": 1768330371
+    "reddit-tasker::t3_1qa16p0": 1768330371,
+    "reddit-ai-agents::t3_1qbzqkv": 1768332571,
+    "reddit-ai-agents::t3_1qc0i28": 1768332581,
+    "reddit-artificial::t3_1qbzrwn": 1768332587,
+    "reddit-chatgpt::t3_1qc0fom": 1768332591,
+    "reddit-chatgpt::t3_1qbxyii": 1768332599,
+    "reddit-claudeai::t3_1qbzkyh": 1768332607,
+    "reddit-claudeai::t3_1qbvurb": 1768332621,
+    "reddit-openai::t3_1qc0kj7": 1768332631,
+    "reddit-askreddit::t3_1qbyn3t": 1768332637,
+    "reddit-askreddit::t3_1qbw12n": 1768332641,
+    "reddit-askreddit::t3_1qbte6m": 1768332646,
+    "reddit-askreddit::t3_1qbxpl1": 1768332650,
+    "reddit-android::t3_1q9dkn7": 1768332660,
+    "reddit-android::t3_1qakyzi": 1768332664,
+    "reddit-android::t3_1qahsts": 1768332669,
+    "reddit-android::t3_1q95i74": 1768332674,
+    "reddit-android::t3_1q8moe0": 1768332678,
+    "reddit-tasker::t3_1q9gyaw": 1768332690,
+    "reddit-tasker::t3_1q9vbnq": 1768332696,
+    "reddit-tasker::t3_1qa9nk3": 1768332701,
+    "reddit-tasker::t3_1q9i8o4": 1768332719,
+    "reddit-tasker::t3_1q92v8f": 1768332727,
+    "reddit-tasker::t3_1q9mybp": 1768332733,
+    "xgo-931d6e88::2011112571504373851": 1768332741,
+    "xgo-931d6e88::2011111792877973851": 1768332748,
+    "xgo-931d6e88::2011076284164542639": 1768332756,
+    "xgo-931d6e88::2010005746075975684": 1768332765,
+    "xgo-931d6e88::2009988651636404377": 1768332773,
+    "xgo-931d6e88::2009988633705742653": 1768332781,
+    "xgo-f299207d::2011134704934957382": 1768332792,
+    "xgo-f299207d::2011126016287113681": 1768332803,
+    "xgo-f299207d::2010054460345917880": 1768332820,
+    "xgo-f299207d::2010044779225329688": 1768332828,
+    "xgo-f299207d::2009811659888701750": 1768332835,
+    "xgo-f299207d::2009732201269588479": 1768332845,
+    "xgo-63316630::2010858340088479886": 1768332851,
+    "xgo-63316630::2010780868936417596": 1768332862,
+    "xgo-63316630::2009760039482057046": 1768332869,
+    "xgo-63316630::2009731913691365692": 1768332875,
+    "xgo-63316630::2009712443946045521": 1768332880
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -1589,6 +1629,166 @@
     "10076704f82b447ea792d82fceb1b17b3b78cf36a7489acd06abab85c54a74b2": {
       "zh_title": "相机气泡悬浮窗",
       "zh_summary": "我（在Gemini的帮助下）创建了一个任务，可以显示一个可拖动的圆形悬浮窗，实时展示前置摄像头画面。它适用于屏幕录制、演示……或纯粹娱乐。https://taskernet.com/shares/?user=AS35m8lXfdzrraa92oiqVOhfA8yJu3NAybngrnF7bN9M6PLys%2F%2F7RkEhQ57scKONUA%3D%3D&id=Task%3ACamBubble 这是基于Java代码实现的，部分设置需在代码中调整。长按可关闭窗口。目前更接近原型阶段，但在我这里运行良好。使用风险请自行承担。由 /u/roncz 提交 [链接] [评论]"
+    },
+    "0b13f3ddb2525da86d4e7198b7a8ed45deb6b463bca9fd0137074bd467d7326b": {
+      "zh_title": "构建AI智能体的十大工具（最新推荐）",
+      "zh_summary": "过去一年，我一直在工作中构建AI智能体，这个行业变化快得几乎让人跟不上。这里列出一些我觉得有用的工具。高代码工具：Claude Agent SDK：这是一个Python包，让你可以直接使用Claude Code。如果你有Anthropic订阅，这几乎是目前最好的选择，不过集成方面有些问题（可通过MCP解决）。Google ADK：谷歌的Agent Development Kit是另一个好选择，更新更频繁，维护也比Claude的Agent SDK稍好。Deep Agents（基于LangGraph/LangChain/LangSmith）：这是一个相对较新的库，但建立在现有的Lang…基础上。"
+    },
+    "72fa03505d860197c295e3eb3324cf29facbafb92e8dec0230cab2d5aabf1d80": {
+      "zh_title": "智能体可观测性与常规应用监控大不相同——维护者视角",
+      "zh_summary": "我在Maxim负责可观测性方面的工作。一直在思考传统的APM工具为何不适用于智能体工作流。智能体并非单一API调用，而是涉及工具调用、检索步骤、推理链和外部API调用的多轮对话。当出现故障时，你需要完整的执行路径，而不仅仅是错误日志。我们构建了多级分布式追踪——完整对话的会话、单个交互的追踪、以及特定步骤（如LLM调用或工具使用）的跨度。这在调试时帮助很大。另一个有用的部分是在生产日志上持续运行自动化评估，跟踪质量指标（相关性、忠实度、幻觉…）"
+    },
+    "7c12f4185749efe339433c32f6233a062b1676689c7e3cf7f8ef70d2eb75a50a": {
+      "zh_title": "麦肯锡（McKinsey）CEO鲍勃·斯特恩费尔斯（Bob Sternfels）称公司现有6万名员工：其中2.5万是AI智能体",
+      "zh_summary": "由 /u/MetaKnowing 提交 [链接] [评论]"
+    },
+    "25e8ac2b64c6aa25de1c874c4578cb39aca6371eed643110a78bda393665f0b2": {
+      "zh_title": "我老婆要发飙了",
+      "zh_summary": "由 /u/Perfect_Natural3931 提交 [链接] [评论]"
+    },
+    "73f015013844dc8a8a03ff0f03176de7717078fb98a6d7ebda848ee34f7925cb": {
+      "zh_title": "谁在工作中受益于人工智能，具体是如何受益的？",
+      "zh_summary": "会计及金融领域从业者：谁在工作中受益于人工智能，具体是如何受益的？如果尚未受益，你希望如何从中获益？就我个人而言，我用它来修改Power Queries、自动化数据录入代码以及发送日常邮件……我希望未来能用它来核对账户对账单，节省目前耗费的心力和时间。你已用它做了什么，或希望用它做什么？由/u/Mohamed_Alsarf提交 [链接] [评论]"
+    },
+    "0646c05b16825cae7756a9625c176f5be8448764e6965e40b4a8b730f65ee36a": {
+      "zh_title": "非技术人员初遇Claude Cowork时的反应",
+      "zh_summary": "当智能体真正开始执行任务时，那种信心爆棚的感觉简直不真实。我们把这种体验做成了一段完全不走正道的恶搞视频——没有产品演示，只有纯粹的“发布即狂用”氛围。由/u/Ok-Classic6022提交 [链接] [评论]"
+    },
+    "0b0f2b2a95a3f13193ddf24c629a3917fdcecdcd289619636e93b1bfedf1e709": {
+      "zh_title": "我不再让Claude直接执行自动化任务，而是让它担任监督角色",
+      "zh_summary": "这个计算改变了我使用Claude进行自动化的方式：5个步骤各90%的准确率，整体成功率只有59%。每次串联多个大语言模型调用时，错误会不断累积。我过去构建的工作流中，Claude在每个独立步骤都表现优异，但端到端的整体结果却有一半是无效的。因此我彻底调整了架构：由确定性的Python脚本执行实际工作（API调用、数据处理、文件操作），Claude负责协调——读取指令、调用脚本、处理错误、做出决策。记忆持续保存——记录执行过程、故障点以及下次如何调整。这就像让初级开发人员从头编写所有代码，与高级开发人员监督可靠流程之间的区别。"
+    },
+    "0845b954c45a53dc3d121af2f0fc25744a4c1315bd0846b454165ca410be32b0": {
+      "zh_title": "GPT-5.2的函数调用稳定性：对比温度参数对复杂模式验证的影响",
+      "zh_summary": "我们对GPT-5.2的函数调用能力进行了压力测试。有趣的是，即使在温度参数设为0的情况下，当工具定义相似时，参数提取仍会出现2%的波动。在我们每天处理数千次调用的生产环境中，这2%的波动对可靠性来说是场噩梦。我们正在转向双轮验证系统（一个模型负责提取，另一个负责验证）。还有人在5.2版本中遇到这种“模式漂移”问题吗？或者你们找到了“强化”函数定义的方法？由/u/Foreign-Job-8717提交 [链接] [评论]"
+    },
+    "91321dcf41db8029d694183d41f4e8a00823d5190739026ac8b64873540675cc": {
+      "zh_title": "最难戒掉的东西是什么？戒断第一个月是什么感受？",
+      "zh_summary": "由用户 /u/Nightpatrol404 提交 [链接] [评论]"
+    },
+    "694ac344f10b5f25822f8c3fb86d1033488a872d468b59b2bef2b50101bd63bd": {
+      "zh_title": "有哪些公司以极低成本生产却售价高昂的产品？",
+      "zh_summary": "由用户 /u/sassox123 提交 [链接] [评论]"
+    },
+    "ef317f3c9b7b9a495e2a01bcabf0896cb91eb602f0d2fee05aa61d79bff3b0df": {
+      "zh_title": "哪些体现情绪成熟度的迹象，是人们谈论得不够多的？",
+      "zh_summary": "由 /u/auryxaa 提交 [链接] [评论]"
+    },
+    "88f42fab2f7cb89a002cd6bbd7325ce32d94dfc09305d1a432380a7fdc1d6a62": {
+      "zh_title": "你是什么时候意识到，仅有爱是不够的？",
+      "zh_summary": "由用户 /u/whateveryouwant2000 提交 [链接] [评论]"
+    },
+    "6cacf055570069ad627bcbbb2f89a195c9c877441184f3f5f5eee036254a1a51": {
+      "zh_title": "Android语音输入虽准，但长消息输入费神",
+      "zh_summary": "如今Android的语音识别已相当精准，但在口述较长消息时，输出结果常让人感到费神。句子的流畅度、语气和结构通常需要刻意调整，这反而削弱了语音输入的速度优势。这使得语音输入适合简短内容，但对于较长或更专业的文本，却奇怪地令人疲惫。我很好奇其他人在Android上使用语音输入时，是否也遇到同样的限制，尤其是在撰写长消息或邮件时。编辑：我正在测试几种Android语音输入工作流程，因为我也感受到了同样的阻力。如果这里有人喜欢测试早期工具并愿意直言反馈，欢迎私信我。提交者：/u/Vanilla…"
+    },
+    "9de536f78659ef997d136fb9bf7348c9cd5e38340060ca51fefde67c81c587cb": {
+      "zh_title": "荣耀Win上手评测 - Flossy Carter",
+      "zh_summary": "由用户/u/StorMaxim提交 [链接] [评论]"
+    },
+    "d52ae6d5a58b2a1cc2991fa39f9f43f12081aaf82c33cea3e0181e70b0022cb1": {
+      "zh_title": "荣耀Magic 8 Pro——这款手机太疯狂了！ - Flossy Carter",
+      "zh_summary": "由 /u/ControlCAD 提交 [链接] [评论]"
+    },
+    "5b86000eb5161f892ce4233be64684ab6a693feb508ecd7524d9cbf67fd694fd": {
+      "zh_title": "Nora - 将Facebook、Instagram、Reddit、Threads和X整合进一个开源应用，无广告",
+      "zh_summary": "由 /u/reps_up 提交 [链接] [评论]"
+    },
+    "4550508ffa985f7d1f4020917a76442096b59f0a507f7b3a9a07a8f93cdc444f": {
+      "zh_title": "Nothing Phone广告因严厉批评将部分撤下",
+      "zh_summary": "由 /u/BcuzRacecar 提交 [链接] [评论]"
+    },
+    "3d0a882c00982d7d2186ac07f05391184948c80c38d745d2d215e8aaa1cf04b1": {
+      "zh_title": "用Tasker（任务自动化工具）抓拿便便惯犯",
+      "zh_summary": "为了抓住那个总在我去停车位的步行道上乱丢狗屎的讨厌家伙，我请出了Tasker（任务自动化工具）、AutoRemote（远程控制应用）以及“Motion Detector AI”（动作检测AI）应用。在我那台闲置的旧款LGV30手机上，Motion Detector AI应用能识别人和狗。当有新视频录制时，Tasker会检测到文件，并通过AutoRemote将其转发到我的Pixel 8手机上，附带消息“棕色警报”。我的手机收到消息后，会播放一段响亮的放屁音频，并提示“棕色警报，棕色警报，便便甲板上有入侵者！”，然后自动打开视频。编辑：应用名称是“Motion Detector AI”，不是Motion Sensor AI。于是，“便便世界大战”开始了…… 由/u/AggressiveNothing120提交 [链接] [评论]"
+    },
+    "43d4565bddbe5da1d2672ff2f2cf2e9efa9b826fd972daf2992d1dac4d37d9ea": {
+      "zh_title": "[求助] 如何在Autonotification中创建多行通知",
+      "zh_summary": "是否能在Autonotification中创建多行通知？目前只能显示两行。我尝试过HTML但似乎无效，网上也找不到相关信息。感谢/u/qwertyng提交 [链接] [评论]"
+    },
+    "6bb59014266fdd9a050988e0991ef3103a873ff5446305bf1fa165bc71ee2957": {
+      "zh_title": "退款请求",
+      "zh_summary": "我想为Tasker申请退款。该应用在我的设备上无法正常运行。订单号：GPA.3342-8579-5064-27961，由/u/Fast-Challenge1410提交 [链接] [评论]"
+    },
+    "76972fc87d0b35d9c6c9148f73ac630dda852400514e4dc2151baedb44855c3c": {
+      "zh_title": "[任务分享] 充电时自动开启飞行模式",
+      "zh_summary": "大家好，我希望手机在充电时能自动开启飞行模式，因此制作了这个任务并分享给大家：https://taskernet.com/shares/?user=AS35m8nReItmS96XIiz3xX5JcBYA0twMIoQYBl7Vfq%2BsVthTyGHwM8E3eLoOkXtM%2FGagPHWvazpUJYtikw%3D%3D&id=Profile%3AAutoAirplane+Mode 它会在充电时启用飞行模式，并在断开充电器时关闭。由 /u/OutrageousRope88 提交 [链接] [评论]"
+    },
+    "d92c739a1d1ac3117efe3581f99aa750c58529921f0fdb4109e63ca179ced697": {
+      "zh_title": "Join应用短信服务使用了错误的手机",
+      "zh_summary": "你好，我想咨询关于Join应用和Chrome扩展的问题。我正在换用新手机，已经把SIM卡转移到新设备上，并安装了Join应用。我已经在新手机的Join中设置了手机号码，但尽管如此，当我在电脑上运行Chrome扩展的诊断程序时，它仍然从旧手机获取短信文件。除了从旧手机移除Join应用（我暂时还不想这么做），我该如何让Join将新手机作为短信来源？先谢谢了。提交者：/u/shadewood_mole [链接] [评论]"
+    },
+    "540c53c3c40570a6fc03f7f1ee4d62640c08507d03fa1483ad98b42ae8861b27": {
+      "zh_title": "支付3USDC请人在WhatsApp上发消息并给我验证码",
+      "zh_summary": "支付3USDC请人在WhatsApp上给某人发消息并给我验证码，由/u/Secretnumb提交 [链接] [评论]"
+    },
+    "d3ce02759eb44777b6af0099a2cb845d3af127e3356464ab63e7a1019db4f7b4": {
+      "zh_title": "这些功能在Cowork中同样具备。我依然偏爱通过终端使用Claude Code，但这能让更多非技术背景的人参与进来。",
+      "zh_summary": "这些功能在Cowork中同样具备。我依然偏爱通过终端使用Claude Code，但这能让更多非技术背景的人参与进来。这步棋很明智，因为团队现在可以根据自己的习惯选择任意版本的Claude Code。💬 1 🔄 0 ❤️ 5 👀 1333 📊 1 ⚡ 由 xgo.ing 驱动"
+    },
+    "051b04b52cf444e9d0622e3d5215c0cfbf60986508799985e271062a465d6c55": {
+      "zh_title": "我为Anthropic（Anthropic）持续优化Claude Code的易用性点赞。",
+      "zh_summary": "我为Anthropic（Anthropic）持续优化Claude Code的易用性点赞。现在，你可以在Claude Desktop的Code模式中灵活运用这些功能。提问、规划和执行是让智能体高效运作的关键环节，如今只需一键即可轻松调用。💬 6 🔄 2 ❤️ 38 👀 3087 📊 11 ⚡ 由xgo.ing驱动"
+    },
+    "86ae45a88704bad0dbe68fda067431135fe126b7592083df451315c3b9c12c89": {
+      "zh_title": "Meta与合作伙伴发布新研究",
+      "zh_summary": "Meta与合作伙伴发布新研究。这篇论文展示了通过恰当的世界模型可以实现什么。世界模型需要动作来预测结果。当前的主流方法需要标注的动作数据，获取成本高昂，且仅限于视频游戏或机器人操作等狭窄领域。但绝大多数在线视频数据根本没有动作标签。这项新研究致力于直接从野生视频中学习潜在动作世界模型，突破了以往受控环境的限制，以捕捉现实世界动作的完整多样性。挑战是巨大的。野生视频中的动作远不止简单的导航或操作……"
+    },
+    "8b4a023fbaed922be48f6173849d85831459a3723d9d134bd8b9901d786e269e": {
+      "zh_title": "一篇优秀论文展示了技能加持下单智能体的潜力",
+      "zh_summary": "一篇优秀论文展示了技能加持下单智能体的潜力。DAIR.AI @dair_ai 提问：一个具备技能的智能体能否替代多智能体系统？多智能体系统擅长复杂推理，通过显式通信实现专业智能体协作，但这会带来显著的令牌计算开销和延迟。这项新研究探讨了是否可以通过用技能选择替代智能体间通信，将多智能体系统编译为等效的单智能体系统。答案是肯定的，但有个前提。初步实验表明，配备技能库的单智能体方法能大幅减少令牌使用和延迟，同时保持竞争力……"
+    },
+    "0373186d1c4403bccfe0fb896443b124b15bea77d4a89f892848b6727a72c7e1": {
+      "zh_title": "论文：https://t.co/2OUYB1fdxo",
+      "zh_summary": "论文：arxiv.org/abs/2512.24601 💬 2 🔄 1 ❤️ 18 👀 5232 📊 7 ⚡ 由 xgo.ing 驱动"
+    },
+    "c7f1f2d342542fd84cf69a91c1d0a8696cb2fc480e4b9cd03c6d6308b9efb7d1": {
+      "zh_title": "MIT研究人员提出递归语言模型",
+      "zh_summary": "MIT研究人员提出递归语言模型，2026年将有更多相关消息。为何重要？如果大语言模型（LLMs）能处理比其上下文窗口长100倍的输入会怎样？上下文长度是一个硬性限制。你可以通过架构调整来扩展它，但总有限度。大多数方法试图在窗口内塞入更多内容或压缩超出部分。这项新研究采取了不同思路：不硬碰上下文限制，而是通过编程方式绕过它。递归语言模型（RLMs）将长提示视为外部环境。模型可以检查提示，将其分解为多个部分，并在片段上递归调用自身。这是在推理阶段进行的……"
+    },
+    "89ec60c68b16f6a9a1b03da1b76258345044c45a87b97d3b4ff3b632eacb248d": {
+      "zh_title": "Agent Builder 正式发布！",
+      "zh_summary": "Agent Builder 正式发布！它基于 DeepAgents 运行，内置记忆功能，支持 MCPs、技能和子代理，可设置触发器以实现自主运行，并设有代理收件箱以便人工审核。快来试试吧！smith.langchain.com/agents?skipOnb… LangChain @LangChain LangSmith Agent Builder 现已全面可用 🎉 如今构建代理变得异常简单，连 VC 都能搞定……👇 免费试用 smith.langchain.com/agents?skipOnb… RY 查看公告 blog.langchain.com/langsmith-agen… 0d 您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 2 🔄 3 ❤️ 12 👀 1237 📊 5 ⚡ 由 xgo.ing 提供支持"
+    },
+    "3b2f0a54d50277d140a3bff2795b5a1471c6f50badf4ae14ab1b8315de259724": {
+      "zh_title": "✒️ 我如何用 LangSmith Agent Builder 构建AI助手实现邮件自动化",
+      "zh_summary": "✒️ 我如何用 LangSmith Agent Builder 构建AI助手实现邮件自动化 LangSmith Agent Builder 是一款无代码智能体构建工具。我构建了一个邮件助手来监控和回复邮件，过去约三个月一直在使用。它的工作流程如下： 1/ 触发机制：由新邮件触发。无需手动启动——完全自动运行。 2/ 通过MCP调用工具：连接Gmail（读取邮件、发送邮件）和Google日历（读取日历、查看日程、创建日程）。 3/ 人工介入环节：“写入”类操作（发送邮件、创建日程）需经人工确认方可执行。稍后会详述——但想强调它能完全自主运转！ 4/ 子智能体…"
+    },
+    "29b4400d6ee5f5c8ce4620bb309e7c7418b4a4faa1622bc788117124e366b846": {
+      "zh_title": "需要一篇完整文章论述“追踪记录是智能体优化循环的生命线”",
+      "zh_summary": "需要一篇完整文章论述“追踪记录是智能体优化循环的生命线” Viv @Vtrivedy10 的精彩帖子 🔥 追踪记录是智能体优化循环的生命线 迈向“如何改进这个智能体？”的第一步就是“我的智能体在做什么？”——> 开启追踪功能正是启动这个循环的关键 这并非空谈，在 LangChain 我们确实时刻践行这一点，调试智能体的默认流程就是：“能分享追踪记录吗？” 这极大加速了我们的开发循环，因为开发者（通常是我们加上智能体）能立即查看每个工具调用的输入、延迟、令牌消耗等细节，并通过测试修正来对比行为差异 期待未来能见证更多进展，并帮助更多人优化智能体…"
+    },
+    "a308494961fc63eb8c30eb4ced06bf029c65dcaefa188d0224e3d69ad3406c0e": {
+      "zh_title": "https://t.co/5A96OhfJE1",
+      "zh_summary": "x.com/i/article/2010… 💬 27 🔄 88 ❤️ 610 👀 170340 📊 337 ⚡ 由 xgo.ing 提供支持"
+    },
+    "8e531b4e98566d0a1fd1614a2e65d3516363751ca6c035707f80895cf8592d16": {
+      "zh_title": "“Claude Code 通用工作助手”（面向非开发人员和非编码场景）这...",
+      "zh_summary": "“Claude Code 通用工作助手”（面向非开发人员和非编码场景）这款产品具体是什么样子的？💬 123 🔄 11 ❤️ 258 👀 63228 📊 221 ⚡ 由 xgo.ing 提供支持"
+    },
+    "3113008af91c211543a7ace0bce221ccfb87c0961daedb5d756f38d1479327ca": {
+      "zh_title": "痕迹至关重要！",
+      "zh_summary": "痕迹至关重要！Viv（@Vtrivedy10）在Anthropic博客中一如既往地精彩分享，我无法更加强调这一步的重要性——请务必查看智能体（agent）的痕迹！！！理解智能体是否“任务失败”蕴含巨大价值：1. 它是如何失败的？（格式错误、逻辑错误、规划中走错方向、环境错误…）2. 它真的失败了吗？如果结果有误，你是否该更新评估标准？3. 成功模式与失败模式有何不同？（对通过和失败的情况分层分析步骤）4. 将其与你的指令和工具/技能关联起来。你是否未提供合适的工具来完成任务？指令是否模糊？智能体构建是一个深度迭代的过程，而这正是…"
+    },
+    "c7b8dfb959d410a9d52c5d801526470880b1b6cec8db17d301d4f490ddc8d158": {
+      "zh_title": "是时候动手创造了。现在每个人都能做到。",
+      "zh_summary": "是时候动手创造了。现在每个人都能做到。@Wabi 给我开发一个能推荐科技乐观主义主题的电影和小说的应用！💬 284 🔄 104 ❤️ 2650 👀 511137 📊 619 ⚡ 由 xgo.ing 提供支持"
+    },
+    "2dae4046c52596b93be88a177a79926cb74cb8fabd5cf35fbdc6a8ad6b665aef": {
+      "zh_title": "很高兴与迪娜（Dina）在Meta的新领导岗位上共事——她作为总监贡献卓著，我们非常激动她能全力投入Meta下一阶段的成长。💪🚀",
+      "zh_summary": "Meta新闻室（@MetaNewsroom）宣布，迪娜·鲍威尔·麦考密克（Dina Powell McCormick）将加入Meta，担任总裁兼副董事长——她将成为Meta管理团队的一员，协助指导公司的整体战略与执行。详情请见：about.fb.com/news/2026/01/d… 🔗 查看引用推文 💬 50 🔄 28 ❤️ 895 👀 135156 📊 91 ⚡ 由 xgo.ing 提供支持"
+    },
+    "ef29414857bded143114e547cd3dbe7df02c46fa3d071eb4c5d0b4d4c51a60f2": {
+      "zh_title": "😆",
+      "zh_summary": "😆 Darren Marble @darrenmarble 提到，Marco Rubio 意识到他需要在全球顶尖初创企业投资150亿美元。🔗 查看引用推文 💬 48 🔄 44 ❤️ 1767 👀 123113 📊 138 ⚡ 由 xgo.ing 提供支持"
+    },
+    "b9a69e9e308dea3213620feac31b20317aa76680d785204ca4ef0e74bbaa319b": {
+      "zh_title": "我明白我们做了什么",
+      "zh_summary": "我明白我们做了什么。凯瑟琳·博伊尔（Katherine Boyle）@KTmBoyle 您的浏览器不支持视频标签。🔗 在Twitter上查看 🔗 查看引用推文 💬 52 🔄 16 ❤️ 499 👀 76895 📊 63 ⚡ 由 xgo.ing 提供支持"
+    },
+    "219b91c824c04ad2d6e8c46aa30b3ff0a39f367af5961d1a0b4aa0666445d783": {
+      "zh_title": "出发吧。",
+      "zh_summary": "出发吧。您的浏览器不支持视频标签。🔗 在Twitter上查看 💬 356 🔄 794 ❤️ 7434 👀 729605 📊 1310 ⚡ 由 xgo.ing 提供支持"
     }
   }
 }
