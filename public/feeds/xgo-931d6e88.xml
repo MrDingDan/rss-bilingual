@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - xgo_931d6e88</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 08:52:28 +0000</lastBuildDate>
+    <item>
+      <title>介绍 ralph-research 插件。 / Introducing ralph-research plugin.
+
+I just adopted the ralph-loop for implementing papers. 
+
+Mindblo...</title>
+      <link>https://x.com/omarsar0/status/2010359146927763804</link>
+      <description>介绍 ralph-research 插件。我刚刚采用 ralph-loop 来实现论文。效果之好令人惊叹。整个插件由 Claude Code 一次性生成，但它已经能够编写 AI 论文概念并在自我改进的循环中运行实验。太疯狂了！您的浏览器不支持视频标签。🔗 在 Twitter 上查看 💬 50 🔄 139 ❤️ 1637 👀 165343 📊 577 ⚡ 由 xgo.ing 提供支持。
+
+---
+
+Original:
+Introducing ralph-research plugin. I just adopted the ralph-loop for implementing papers. Mindblown how good this works already. The entire plugin was one-shotted by Claude Code, but it can already code AI paper concepts and run experiments in a self-improving loop. Wild! Your browser does not support the video tag. 🔗 View on Twitter 💬 50 🔄 139 ❤️ 1637 👀 165343 📊 577 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2010359146927763804</guid>
+      <pubDate>Sun, 11 Jan 2026 14:32:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>笔记： / Notes:
+
+- It took about 40 minutes to implement the ReAct paper without any interruptions.
+- It ran ...</title>
+      <link>https://x.com/omarsar0/status/2010359148513280229</link>
+      <description>笔记：- 在不间断的情况下，实现ReAct论文大约花了40分钟。- 过程中遇到了一些问题，但它逐步找到了解决方法。这正是ralph-loop极其强大的地方：它能探索解决方案并从错误中学习。我认为研究可能是ralph更佳的应用场景，因为研究需要大量探索。- 我测试了其他较新的论文，它表现良好，这让我相信可以将其实现得更稳健。- 正如视频所示，与任何LLM驱动的工具一样，即使你提供指令和API，它也可能难以使用较新的模型。但这是c…
+
+---
+
+Original:
+Notes: - It took about 40 minutes to implement the ReAct paper without any interruptions. - It ran into some issues, but it figured out how to solve them along the way. This is what makes the ralph-loop extremely powerful. It can explore solutions and learn from its mistakes. I would argue that research is probably an even better use case for ralph as research requires lots of exploration. - I have tested on other newer papers, and it has done a good job, which gives me hope that this could be implemented to be more robust. - As you can see in the video, and as with anything LLM-powered, it will struggle to use newer models even if you give instructions and APIs. But this is something that c…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2010359148513280229</guid>
+      <pubDate>Sun, 11 Jan 2026 14:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>在本周的直播课程中，我将分享更多关于在Claude Code中快速构建此类工具的过程 / During my live cohort this week, I will share more on my process for quickly building tools like thi...</title>
+      <link>https://x.com/omarsar0/status/2010704471408455881</link>
+      <description>在本周的直播课程中，我将详细分享如何在Claude Code（dair-ai.thinkific.com/courses/claude…）中快速构建此类工具的工作流程。这是一次强化训练，但这些知识只需学习一次，之后便能在此基础上持续构建。目前尚余少量名额！💬 0 🔄 1 ❤️ 13 👀 4129 📊 3 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+During my live cohort this week, I will share more on my process for quickly building tools like this in Claude Code: dair-ai.thinkific.com/courses/claude… It's an intensive training, but you only need to learn this stuff once and build from there. There are a few seats left! 💬 0 🔄 1 ❤️ 13 👀 4129 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2010704471408455881</guid>
+      <pubDate>Mon, 12 Jan 2026 13:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于智能体记忆（Agentic Memory）的精彩论文 / Great paper on Agentic Memory.
+
+LLM agents need both long-term and short-term memory to handle compl...</title>
+      <link>https://x.com/omarsar0/status/2010712137933730234</link>
+      <description>一篇关于智能体记忆（Agentic Memory）的精彩论文。LLM智能体需要长期与短期记忆来处理复杂任务。然而，当前的主流方法将两者视为独立组件，各自拥有启发规则、控制器和优化策略。但记忆并非两个独立系统，而是一个统一的认知过程，负责决定存储、检索、总结和遗忘的内容。这项新研究提出了AgeMem框架，通过基于工具的操作，将长短期记忆管理统一整合到智能体的决策策略中。智能体不再依赖触发式规则或辅助记忆管理器，而是自主学会何时及如何调用记忆操作：如添加（ADD）、更新（UPD）等。
+
+---
+
+Original:
+Great paper on Agentic Memory. LLM agents need both long-term and short-term memory to handle complex tasks. However, the default approach today treats these as separate components, each with its own heuristics, controllers, and optimization strategies. But memory isn't two independent systems. It's one cognitive process that decides what to store, retrieve, summarize, and forget. This new research introduces AgeMem, a unified framework that integrates long-term and short-term memory management directly into the agent's policy through tool-based actions. Instead of relying on trigger-based rules or auxiliary memory managers, the agent learns when and how to invoke memory operations: ADD, UPD…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2010712137933730234</guid>
+      <pubDate>Mon, 12 Jan 2026 13:55:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 助你完成剩余工作 / Claude Code for the rest of your work.
+
+I was already doing this by building little apps using Claud...</title>
+      <link>https://x.com/omarsar0/status/2010811386058654207</link>
+      <description>Claude Code 助你完成剩余工作。我此前已通过 Claude Agent SDK 构建小型应用来实现这一目标，现在它变得更加简单。Claude（@claudeai）推出 Cowork：Claude Code 助你完成剩余工作。Cowork 让你能够完成非技术性任务，其方式类似于开发者使用 Claude Code。你的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 6 🔄 1 ❤️ 62 👀 8214 📊 11 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+Claude Code for the rest of your work. I was already doing this by building little apps using Claude Agent SDK. It now gets even easier. Claude @claudeai Introducing Cowork: Claude Code for the rest of your work. Cowork lets you complete non-technical tasks much like how developers use Claude Code. Your browser does not support the video tag. 🔗 View on Twitter 🔗 View Quoted Tweet 💬 6 🔄 1 ❤️ 62 👀 8214 📊 11 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2010811386058654207</guid>
+      <pubDate>Mon, 12 Jan 2026 20:29:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>别错过Claude Agent SDK，快去用它构建点什么吧。 / Don't miss out on Claude Agent SDK. Go try to build something with it. Use Claude Code to help you o...</title>
+      <link>https://x.com/omarsar0/status/2010822422488887492</link>
+      <description>别错过Claude Agent SDK，快去用它构建点什么吧。刚开始时，可以用Claude Code来帮你。有个不错的插件可用，能助你快速上手。借助Claude Code的强大功能，你可以打造自己的个人助手，就像Cowork一样。💬 0 🔄 0 ❤️ 4 👀 1858 📊 1 ⚡ 由xgo.ing驱动
+
+---
+
+Original:
+Don't miss out on Claude Agent SDK. Go try to build something with it. Use Claude Code to help you out as you start. There is a nice plugin available to get building. You can build your own personal assistant with the power of Claude Code, just like Cowork. 💬 0 🔄 0 ❤️ 4 👀 1858 📊 1 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2010822422488887492</guid>
+      <pubDate>Mon, 12 Jan 2026 21:13:19 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

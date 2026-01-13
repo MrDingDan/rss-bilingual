@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - reddit_tasker</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 08:51:05 +0000</lastBuildDate>
+    <item>
+      <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
+      <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
+      <description>App Factory 迎来最后一次更新，兼容 Tasker 的最新功能，包括 Java 代码！两项更新（Tasker 和 App Factory）现已在 Google Play 上架。我曾说过不再更新 App Factory，但两个因素让我改变了主意，仅限此版本：App Factory 自身有一段代码导致其无法与非测试版的 Tasker 协同工作，因此当 Tasker 升级至候选版本时，它便停止运行。若想让它与非测试版 Tasker 配合使用，我不得不再次更新 App Factory。新的 Java 代码操作带来了几乎无限的自由度和向前兼容性，这简直……
+
+---
+
+Original:
+App Factory is getting a last new update with compatiblity for most latest Tasker features, including Java Code ! Both updates (Tasker and App Factory) should be available to download of Google Play now! I know I said that I would never update App Factory again, but 2 factors made me change my mind but just for this release: There was a piece of code in App Factory itself that prevented it from working with non-beta versions of Tasker, so when I updated Tasker to Release Candidate, it stopped working. I HAD to update App Factory again if I wanted it to work with non-beta Taskers The new Java Code action brings an almost unlimited amount of freedom and forwards compatibility which just makes…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1p74ypy</guid>
+      <pubDate>Wed, 26 Nov 2025 11:03:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[开发动态] 🎅我要离开一阵子，但走之前送你一份🎁！🌲 / [DEV] 🎅I'm going away for a bit, but here's a 🎁 for you before I do! 🌲</title>
+      <link>https://www.reddit.com/r/tasker/comments/1pqi34p/dev_im_going_away_for_a_bit_but_heres_a_for_you/</link>
+      <description>大家好！又到了一年中我要离开一段时间的时候了。我原本非常想在圣诞节前发布Tasker RC版，但考虑到如果发布过程中出现任何问题，我不在就无法及时修复，所以觉得风险有点大。作为补偿，过去三天我一直在开发一个很酷的东西（至少我个人这么觉得😅），而且对Tasker的未来也大有裨益！这就是我送给大家的礼物：ADB命令中心。这里有一个演示视频：https://youtu.be/PSNmHfQ8BIY 这款新应用能让你直接在手机上无缝连接ADB Wifi，无需电脑，然后以更高权限运行shell命令！这意味着你现在可以轻松进行特权操作……
+
+---
+
+Original:
+Hello everyone! It's that time of the year again where I'll be away for a while. I really wanted to release the Tasker RC before Christmas, but I thought it would be a bit too risky because if anything goes wrong with the release I wouldn't be here to fix it. To compensate, I spent the past 3 days working on something that's cool by itself (at least IMO 😅) but can also be great for Tasker's future! Here's my gift to you: ADB Command Center Here's a demo video: https://youtu.be/PSNmHfQ8BIY This new app allows you to seamlessly connect to ADB Wifi directly on your phone, without the need for a PC and then run shell commands with elevated privileges! This means that you can now easily do privil…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1pqi34p</guid>
+      <pubDate>Fri, 19 Dec 2025 10:44:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>针对WiFi错误并需使用ADB的用户 / For those getting Wifi errors and having to use ADB</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qb0x2u/for_those_getting_wifi_errors_and_having_to_use/</link>
+      <description>我不确定是否已有其他人发现并在此讨论过这个方法，搜索后没找到针对此问题的具体解决方案，若已有讨论，在此致歉。有一段时间，我随时备着ADB，以便重启手机时重新授权权限。一次无法连接电脑，我试着随机“强制停止”Tasker Settings，然后重新打开它，完成这两步后，手机就能启用/禁用WiFi了，无需调试或连接电脑。这个方法在我的工作和个人手机上均有效，所以并非单一设备的偶然现象，尽管两者...
+
+---
+
+Original:
+I'm not sure if this has been discovered by someone else and discussed here, I tried searching and couldn't find something specific to this issue with this specific solution, so if someone else has already talked about this, my apologies. For a while, I had ADB ready to go for any time I had to restart my phone, in order to re-grant permissions. One time, I couldn't get to my computer, so I randomly tried to "force stop" Tasker Settings, then just re-opened it, and once I did those two steps, my phone could then enable/disable Wifi, no debugging or having to plug into the computer. This has worked on both my work and personal cells, so I know it's not just a quirk with one phone, though both…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qb0x2u</guid>
+      <pubDate>Mon, 12 Jan 2026 17:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>我有个任务最近总在随机任务上卡住 / I have a task that recently gets stuck on radom task.</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qbbqja/i_have_a_task_that_recently_gets_stuck_on_radom/</link>
+      <description>这个任务我已经用了三个月，之前一直正常，直到最近才出问题。任务每天会发送三次WhatsApp消息。我没有开启电池优化，Tasker也没有任何限制。唯一的变化是我现在用WiFi代替了移动数据。我尝试过：重启手机、关闭再打开Tasker。第一次运行正常，但第二次和第三次都失败了。当我手动执行时…却完全正常。？！ 由 /u/First-Difference4743 提交 [链接] [评论]
+
+---
+
+Original:
+I have this task for 3 moths and it never got stuck until recently. The task send a whatsapp message 3 times a day. I dont use battery optimization tasker has no restrictions Only thing that has changed is u use wifi now instead of mobile data. What i did : rebooted my phone turned tasker off and on Then it worked fine the first time but failed the second and 3e time. When ℹ manual performe it…it works fine. ?! submitted by /u/First-Difference4743 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qbbqja</guid>
+      <pubDate>Mon, 12 Jan 2026 23:59:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>能否设置RCS消息接收触发器？ / Rcs received trigger possible??</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qblrmv/rcs_received_trigger_possible/</link>
+      <description>我在别处看到过不同说法。我手机里有两张SIM卡，工作用的那张不常收到短信，但一旦收到，通常都是涉及机密的业务信息。所以我关闭了短信通知，这样无论手机是否锁屏，都不会弹出提示。但这也意味着我得经常检查，以免错过消息。我首选RCS是因为它的加密功能和额外特性。我知道可以关闭RCS，而且Tasker和MacDroid这类应用也能用。不过，有没有人知道能否为特定SIM卡或号码收到的RCS消息设置触发器？我想在收到工作SIM卡或那几个工作号码的RCS消息时，能有自定义的通知音和振动提示。
+
+---
+
+Original:
+I've read mixed things else where I have two sims in phone. My work sim i don't often get texts on but when i do they are often confidential related business info. So i have text notifications turned off so no pop ups will go off if phone is locked or unlocked However that means i have to check regularly to make sure i didn't miss one. Rsc is highly preferred for the encryption. N extra features I know i can turn rcs off. And tasker and macdroid work. However. Does anyone know if there's a way to set a trigger for a received rcs message from a specific sim or number Id like to have a custom notice sound an vibration for if i received a rcs message from my work sim. Or the few work numbers i…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qblrmv</guid>
+      <pubDate>Tue, 13 Jan 2026 08:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>终止应用 | 设备所有者权限 / Kill App | DeviceOwner permissions</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qblyws/kill_app_deviceowner_permissions/</link>
+      <description>昨天一时兴起，我决定为Tasker尝试设备所有者权限。首先移除了所有账户，但没成功。然后卸载了应用，还是不行。最后决定恢复出厂设置，这才成功授予Tasker设备所有者权限。目前还没时间深入研究所有功能，但我已经在相机凹槽区域设置了一个“终止应用”场景，用于关闭前台应用。通常终止应用后，我会从最近应用中移除它。但获得设备所有者权限后，我在最近应用里找不到被终止的应用了。这是设备所有者权限的效果吗？另外，你用了哪些设备所有者权限？方便的话分享一下。谢谢。提交者 /u/zhSHADOW [l…
+
+---
+
+Original:
+Yesterday out of nowhere, i've decided to try DeviceOwner permissions for Tasker, first removed all account, which didn't work. then uninstalled app, that didn't work. then decide to factory reset. Then successfully gave Tasker DeviceOwner permissions. Now didn't have the time to dig around with all the feature but I already had a "Kill App" scene in the camera notch which kills the foreground app. Now usually after killing the app I would remove that from the recent app. But after the DeviceOwner permissions I couldn't find the killed app in recent app. Is that for the DeviceOwner permissions? And what DeviceOwner permissions do you use, share if you can. Thanks. submitted by /u/zhSHADOW [l…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qblyws</guid>
+      <pubDate>Tue, 13 Jan 2026 08:24:09 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

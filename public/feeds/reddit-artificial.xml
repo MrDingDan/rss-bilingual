@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:47:16 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -294,6 +294,30 @@ Original:
 I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned. submitted by /u/Ok_Improvement7802 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qblfdn</guid>
       <pubDate>Tue, 13 Jan 2026 07:49:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>马来西亚与印尼率先封禁马斯克的Grok，因AI生成涉性图像 / Malaysia and Indonesia become the first countries to block Musk’s Grok over sexualized AI images</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qblz9x/malaysia_and_indonesia_become_the_first_countries/</link>
+      <description>由 /u/APnews 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/APnews [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qblz9x</guid>
+      <pubDate>Tue, 13 Jan 2026 08:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>诚邀研究参与者：数字身后服务调研 / Research participants wanted: digital afterlife services</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbm7fl/research_participants_wanted_digital_afterlife/</link>
+      <description>大家好！我所在的研究团队正在研究数字身后/数字遗产服务，例如纪念平台、遗产联系人、基于AI的缅怀工具（如2wai app、HereAfter AI、Eternime、SafeBeyond、Everplans、You only Virtual、ForeverMissed）。我们希望能与以下人士交流：正在使用此类服务，或曾经使用但已停止使用的用户。如果您符合条件且愿意参与访谈，请私信我获取详情，或通过邮箱[male.marktg@cbs.dk]联系。感谢！由/u/digimmortalscholar提交[链接][评论]
+
+---
+
+Original:
+Hi all! I’m part of a research team studying digital afterlife/digital legacy services such as memorial platforms, legacy contacts, AI-based remembrance tools (e.g. 2wai app, HereAfter AI, Eternime, SafeBeyond, Everplans, You only Virtual, ForeverMissed). We’re looking to speak with people who: are currently using such services, or have used them in the past but stopped. If this sounds like you and you’d be open to chatting, please send me a DM for more details or contact me at [ male.marktg@cbs.dk ](mailto: male.marktg@cbs.dk ) Thanks! submitted by /u/digimmortalscholar [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbm7fl</guid>
+      <pubDate>Tue, 13 Jan 2026 08:39:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

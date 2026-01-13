@@ -159,7 +159,47 @@
     "reddit-askreddit::t3_1qbk4l6": 1768290970,
     "reddit-askreddit::t3_1qb5z9k": 1768290978,
     "reddit-askreddit::t3_1qbgwc7": 1768290982,
-    "reddit-askreddit::t3_1qb8076": 1768290987
+    "reddit-askreddit::t3_1qb8076": 1768290987,
+    "reddit-ai-agents::t3_1qaqsa1": 1768294000,
+    "reddit-artificial::t3_1qblz9x": 1768294016,
+    "reddit-artificial::t3_1qbm7fl": 1768294035,
+    "reddit-chatgpt::t3_1qblp9j": 1768294048,
+    "reddit-chatgpt::t3_1qb7awl": 1768294060,
+    "reddit-claudeai::t3_1qbkk1n": 1768294070,
+    "reddit-claudeai::t3_1qbknnt": 1768294081,
+    "reddit-openai::t3_1qblow6": 1768294085,
+    "reddit-openai::t3_1qbm6sg": 1768294097,
+    "reddit-bard::t3_1qautfg": 1768294110,
+    "reddit-askreddit::t3_1qbl2za": 1768294119,
+    "reddit-askreddit::t3_1qbirln": 1768294123,
+    "reddit-askreddit::t3_1qbi1aj": 1768294127,
+    "reddit-askreddit::t3_1qbj8zv": 1768294137,
+    "reddit-askreddit::t3_1qb9dk2": 1768294141,
+    "reddit-askreddit::t3_1qbi17e": 1768294153,
+    "reddit-android::t3_1qavook": 1768294159,
+    "reddit-android::t3_1qb7jdl": 1768294170,
+    "reddit-android::t3_1qblgan": 1768294174,
+    "reddit-android::t3_1qbluvc": 1768294182,
+    "reddit-android::t3_1qb2px0": 1768294188,
+    "reddit-android::t3_1qazz46": 1768294192,
+    "reddit-tasker::t3_1pqi34p": 1768294203,
+    "reddit-tasker::t3_1p74ypy": 1768294213,
+    "reddit-tasker::t3_1qblyws": 1768294225,
+    "reddit-tasker::t3_1qblrmv": 1768294246,
+    "reddit-tasker::t3_1qbbqja": 1768294255,
+    "reddit-tasker::t3_1qb0x2u": 1768294264,
+    "xgo-931d6e88::2010822422488887492": 1768294271,
+    "xgo-931d6e88::2010811386058654207": 1768294294,
+    "xgo-931d6e88::2010712137933730234": 1768294304,
+    "xgo-931d6e88::2010704471408455881": 1768294318,
+    "xgo-931d6e88::2010359148513280229": 1768294339,
+    "xgo-931d6e88::2010359146927763804": 1768294348,
+    "xgo-f299207d::2010412902575178015": 1768294366,
+    "xgo-f299207d::2010193927119552565": 1768294374,
+    "xgo-f299207d::2010186321034350704": 1768294391,
+    "xgo-f299207d::2010131672864612616": 1768294399,
+    "xgo-f299207d::2010118956183609784": 1768294413,
+    "xgo-f299207d::2010118681788039418": 1768294426
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -801,6 +841,166 @@
     "4324b88a561cc4c6d3c019099fc1a3e6211945d63d135dfddc5815576711eb84": {
       "zh_title": "哪些瞬间会让你立刻觉得“这人在说谎”？",
       "zh_summary": "由 /u/Ferraiuolo_Ezorete 提交 [链接] [评论]"
+    },
+    "1d52d568840f2549a177569905643a80def72dc5a9d7f5b18a69450f5bccd483": {
+      "zh_title": "相比日常实际需求，智能体堆栈的哪些部分显得过度设计了？",
+      "zh_summary": "许多智能体配置在纸面上看起来非常庞大，包含规划器、记忆层、工具路由器、向量数据库、评估器、重试机制、日志系统，有时甚至还有多个智能体相互通信。但在日常工作中，大多数人只需要一个能读取任务、使用几个工具且不出错的系统。有些堆栈感觉像是为演示或博客文章设计的，而不是为了无需人工干预的日常运行。想知道大家在实际使用中，最终删除了哪些对实际效果影响不大的部分。提交者：/u/addllyAI [链接] [评论]"
+    },
+    "c052426d0e5f763c030fc31dd25993a02a9e2acca302e90321da894c0ac55858": {
+      "zh_title": "马来西亚与印尼率先封禁马斯克的Grok，因AI生成涉性图像",
+      "zh_summary": "由 /u/APnews 提交 [链接] [评论]"
+    },
+    "d2dbc5a8fae680e91d61218d98a6627c14a156d424cb64228cff21e613e771f8": {
+      "zh_title": "诚邀研究参与者：数字身后服务调研",
+      "zh_summary": "大家好！我所在的研究团队正在研究数字身后/数字遗产服务，例如纪念平台、遗产联系人、基于AI的缅怀工具（如2wai app、HereAfter AI、Eternime、SafeBeyond、Everplans、You only Virtual、ForeverMissed）。我们希望能与以下人士交流：正在使用此类服务，或曾经使用但已停止使用的用户。如果您符合条件且愿意参与访谈，请私信我获取详情，或通过邮箱[male.marktg@cbs.dk]联系。感谢！由/u/digimmortalscholar提交[链接][评论]"
+    },
+    "bdb2d7ef86970b1920cc3c3fb69ba274fd5ff17b10d3137c956adfb50f4b1f9e": {
+      "zh_title": "我收藏了所有遇到的优质ChatGPT提示词，这15条彻底改变了我的工作方式",
+      "zh_summary": "我几乎事事都用ChatGPT：写作、编程、头脑风暴、研究。过去六个月里，我收集了500多条提示词，但只有15条是持续在用的。这15条提示词每周能为我节省10到15小时。在此分享给大家。\n1. “为我聪明地解释”提示词\n请以我虽聪明但不熟悉术语的角度，解释【复杂主题】。用【我熟悉的领域】的概念来类比。不要刻意简化，只需让它易于理解。\n为何有效：不再用“想象一个气球”式的解释，尊重你的智力。\n使用场景：快速学习新的技术概念。\n2. “批评模式”提示词\n你是一位严厉但公正的评论者。请审阅以下【内容类型】：【粘贴内容】。薄弱之处在哪？哪些……"
+    },
+    "d7d3da9f4b47eedcebca2a6cabf228a98e791bf4fbbb7c8eeba56eab73284bc7": {
+      "zh_title": "官方确认！",
+      "zh_summary": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ 分发渠道之争就此落幕？OpenAI 唯一可靠的长期护城河曾是：- 用户习惯养成 - 成为“提问首选地”。而苹果（Apple）是唯一具备足够规模的分发渠道，能够：- 削弱谷歌（Google）搜索的主导地位 - 为 OpenAI 提供操作系统层面的引力。然而现状是：- 谷歌现已拥有搜索 + Gemini + 苹果分发渠道 - OpenAI 仅剩 ChatGPT + API +… 只能寄望于监管机构或设备制造商做出让步 由 /u/Cold_Respond_7656 提交 [链接] [评论]"
+    },
+    "55169741ddfc3b05d664c12afac0ba63e1fba7b93d80810e876a6489dff0b8bd": {
+      "zh_title": "Claude代码完全指南：全局CLAUDE.md、MCP服务器、命令，以及为何单主题对话至关重要",
+      "zh_summary": "TL;DR：你的全局文件 ~/.claude/CLAUDE.md 既是防止密钥泄露到生产环境的安全守门员，也是确保每个新项目遵循相同结构的项目脚手架蓝图。MCP服务器能指数级扩展Claude的能力。Context7让Claude能访问最新文档。自定义命令和代理可以自动化重复性工作流。研究表明，在单次对话中混合主题会导致性能下降39%——因此请保持对话主题聚焦。第一部分：作为安全守门员的全局CLAUDE.md 内存层级 Claude Code按特定顺序加载CLAUDE.md文件：层级 位置 用途 企业级 /etc/claude-code/CLAUDE.md 组织范围策略 全局…"
+    },
+    "749a5521f32631924941e2fe0c4082b033fd5b53f791253a73ba027308866cc5": {
+      "zh_title": "打造移动端优化的多Claude Code会话管理应用（自托管）",
+      "zh_summary": "大家好，最近我开发了一款工具，真心相信它将引领编程与工程的新方式：AgentOS，一个移动优先的网页界面，用于管理AI编程会话（Claude Code、Codex、Aider、Gemini CLI）。支持自托管，具备多窗格终端、Git集成和会话编排功能。虽然听起来有点复杂，但简单来说，它能让你在手机上轻松编程。我之前使用常规方案（Termius + SSH）时遇到的一个问题是，无法方便地上传图片给Claude，也难以快速启动开发服务器。而这个工具能让你在手机上完成所有这些操作。它完全免费，并且我已将其开源……"
+    },
+    "e2857d78487dabb53a3137d9a925d4ce03506bb0e7a5709399dbbd133ad9d97e": {
+      "zh_title": "你没疯",
+      "zh_summary": "你是对的。由 /u/yeyomontana 提交 [链接] [评论]"
+    },
+    "4f4c95735afbdd37f9100e6fb3bc470b6681387a96c392c776357c8d44216925": {
+      "zh_title": "默认设为5.2版本，却总是收到5.1或4o版本回复，这是怎么回事？",
+      "zh_summary": "至少两天以来，我注意到ChatGPT有个奇怪现象：我的默认设置明明是5.2版本，但无论我开启多少次新对话询问——哪怕第一句话就问‘你好，我当前连接的是5.2版本吗？’——得到的回复总是5.1或4o版本。只有当我主动选用5.2思考模式时，它才真正调用5.2版本。我知道存在重定向机制，但在桌面端应用里这些情况都会标注为来自其他模型的响应。这并非单次回复或较长对话中的偶然现象，而是持续表现为5.1或4o版本的行为模式。无论我开启多少新对话，或讨论多严肃的话题（比如儿童传染病的高死亡率问题……），情况依旧如此。"
+    },
+    "2115a661267833059cd3a47efad91c9765eef7b9207d3ee17e533e0c84047fbf": {
+      "zh_title": "无法在AI Studio下载电子书",
+      "zh_summary": "由/u/Runeescape提交 [链接] [评论]"
+    },
+    "84311a8f9336beff65a8d55b6d0c9c76c856e6fcd823db4078f3635c3bed9905": {
+      "zh_title": "哪种‘童年气味’能瞬间将你带回过去，它关联着怎样的记忆？",
+      "zh_summary": "由用户 /u/ASmii_4 提交 [链接] [评论]"
+    },
+    "f431d08241d01d3ba6cabf6ef4a0957a96064ec16a53ca4ce0e52f05187e550d": {
+      "zh_title": "单身生活最被低估的一点是什么？",
+      "zh_summary": "由 /u/Desperate_Hunt7145 提交 [链接] [评论]"
+    },
+    "2cd8d24e1651b7990cbdb782b0d008afd1937d43bec4f39aaf9fe93a6b140338": {
+      "zh_title": "在你看来，最令人恐惧且可信的、可能升级为第三次世界大战的事件链是什么？",
+      "zh_summary": "由 /u/Kanye711East 提交 [链接] [评论]"
+    },
+    "198614a93e49bc9440536c7246cd0136d556d8a220ef8c2e4d085a9085f8dea0": {
+      "zh_title": "哪些看似无害的问题，其实是明显的危险信号？",
+      "zh_summary": "由用户 /u/Charming-Locksmith96 提交 [链接] [评论]"
+    },
+    "ca122b136d9d399e71a0d39b2457cdd066fe3cccc332c8d7fe470539282cbf79": {
+      "zh_title": "哪些职业在电影中被美化，现实中却如同噩梦？",
+      "zh_summary": "由用户 /u/Maya_xoxo22 提交 [链接] [评论]"
+    },
+    "284e72a04ae2385f90038522dd55b198d14f8584e2fbd52c96d74f11c38f0b91": {
+      "zh_title": "你觉得异性身上哪种身体特征最吸引人？",
+      "zh_summary": "由 /u/Bionic_Push 提交 [链接] [评论]"
+    },
+    "86ba4366298d3f457cea389a7912e81f0e6a4753f127242881c7368ab6c331f9": {
+      "zh_title": "传闻三星Galaxy S26基准测试中，骁龙（Snapdragon）仍领先于Exynos",
+      "zh_summary": "由 /u/Federal-Block-3275 提交 [链接] [评论]"
+    },
+    "ebd8906f18dd279ed31aaa288bd0d15651e864df5c67e62caadf54015a2f017c": {
+      "zh_title": "小米（Xiaomi）取消的17 Air机型厚度仅5.5毫米",
+      "zh_summary": "由用户/u/DazzlingpAd134提交 [链接] [评论]"
+    },
+    "352f68946cb0ae5d2b8d88782724c8a6961914a968504254afccb0d7febf0b23": {
+      "zh_title": "Android 2026年1月谷歌系统更新亮点",
+      "zh_summary": "由 /u/IJagan 提交 [链接] [评论]"
+    },
+    "bb650372ad138762bd88376aad81b75b20b7f9df67ff4eb7ba5526fc9a65aefe": {
+      "zh_title": "三星（Samsung）将认证翻新计划扩展至法国、德国和英国",
+      "zh_summary": "由用户 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "5eca2c2975c923b953e99668f4bb9b5ce4926fadb93eb1de914a632cc24241e9": {
+      "zh_title": "让我最离不开安卓的工具",
+      "zh_summary": "对我来说，这是他们为安卓开发的最实用工具。我每天都会用Circle-To-Search，虽然iOS上也有快捷方式可以使用，但体验完全不同。在安卓上，你可以用它搜索图片、选取屏幕上的文字，甚至像Shazam那样识别音乐。由/u/Substantial_Cake_582提交 [链接] [评论]"
+    },
+    "2a5a5b8c23244dead02c83d3dc3755f46c9036e2c6d9e42ad2e8bee63cae5a39": {
+      "zh_title": "2025年全球智能手机出货量同比增长2%；苹果（Apple）成为市场领导者",
+      "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "8838483d0d3bce946dfed80f0d1f3bfc34f34fbac7ef663238f2e4bbffd97efd": {
+      "zh_title": "[开发动态] 🎅我要离开一阵子，但走之前送你一份🎁！🌲",
+      "zh_summary": "大家好！又到了一年中我要离开一段时间的时候了。我原本非常想在圣诞节前发布Tasker RC版，但考虑到如果发布过程中出现任何问题，我不在就无法及时修复，所以觉得风险有点大。作为补偿，过去三天我一直在开发一个很酷的东西（至少我个人这么觉得😅），而且对Tasker的未来也大有裨益！这就是我送给大家的礼物：ADB命令中心。这里有一个演示视频：https://youtu.be/PSNmHfQ8BIY 这款新应用能让你直接在手机上无缝连接ADB Wifi，无需电脑，然后以更高权限运行shell命令！这意味着你现在可以轻松进行特权操作……"
+    },
+    "3e9849f6163c02ade524815b694dbd45c9d93c38e7c0362133126e807756243c": {
+      "zh_title": "[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！",
+      "zh_summary": "App Factory 迎来最后一次更新，兼容 Tasker 的最新功能，包括 Java 代码！两项更新（Tasker 和 App Factory）现已在 Google Play 上架。我曾说过不再更新 App Factory，但两个因素让我改变了主意，仅限此版本：App Factory 自身有一段代码导致其无法与非测试版的 Tasker 协同工作，因此当 Tasker 升级至候选版本时，它便停止运行。若想让它与非测试版 Tasker 配合使用，我不得不再次更新 App Factory。新的 Java 代码操作带来了几乎无限的自由度和向前兼容性，这简直……"
+    },
+    "39220b50f8957610b71c3ee154b45fad6ff1c08118c27832cb6e6d6289014741": {
+      "zh_title": "终止应用 | 设备所有者权限",
+      "zh_summary": "昨天一时兴起，我决定为Tasker尝试设备所有者权限。首先移除了所有账户，但没成功。然后卸载了应用，还是不行。最后决定恢复出厂设置，这才成功授予Tasker设备所有者权限。目前还没时间深入研究所有功能，但我已经在相机凹槽区域设置了一个“终止应用”场景，用于关闭前台应用。通常终止应用后，我会从最近应用中移除它。但获得设备所有者权限后，我在最近应用里找不到被终止的应用了。这是设备所有者权限的效果吗？另外，你用了哪些设备所有者权限？方便的话分享一下。谢谢。提交者 /u/zhSHADOW [l…"
+    },
+    "9408b43961f14451823fd297b25be4b4130c153618bffb436db5af3cd127f9a6": {
+      "zh_title": "能否设置RCS消息接收触发器？",
+      "zh_summary": "我在别处看到过不同说法。我手机里有两张SIM卡，工作用的那张不常收到短信，但一旦收到，通常都是涉及机密的业务信息。所以我关闭了短信通知，这样无论手机是否锁屏，都不会弹出提示。但这也意味着我得经常检查，以免错过消息。我首选RCS是因为它的加密功能和额外特性。我知道可以关闭RCS，而且Tasker和MacDroid这类应用也能用。不过，有没有人知道能否为特定SIM卡或号码收到的RCS消息设置触发器？我想在收到工作SIM卡或那几个工作号码的RCS消息时，能有自定义的通知音和振动提示。"
+    },
+    "80e19a69c889c89212a959c9c76609e1d644afc7a88b99e7354155f2e921650a": {
+      "zh_title": "我有个任务最近总在随机任务上卡住",
+      "zh_summary": "这个任务我已经用了三个月，之前一直正常，直到最近才出问题。任务每天会发送三次WhatsApp消息。我没有开启电池优化，Tasker也没有任何限制。唯一的变化是我现在用WiFi代替了移动数据。我尝试过：重启手机、关闭再打开Tasker。第一次运行正常，但第二次和第三次都失败了。当我手动执行时…却完全正常。？！ 由 /u/First-Difference4743 提交 [链接] [评论]"
+    },
+    "b0c8214327a82384166c97ec2c1b7d1a474799d28cf1dc17cfe65e90be9dde9f": {
+      "zh_title": "针对WiFi错误并需使用ADB的用户",
+      "zh_summary": "我不确定是否已有其他人发现并在此讨论过这个方法，搜索后没找到针对此问题的具体解决方案，若已有讨论，在此致歉。有一段时间，我随时备着ADB，以便重启手机时重新授权权限。一次无法连接电脑，我试着随机“强制停止”Tasker Settings，然后重新打开它，完成这两步后，手机就能启用/禁用WiFi了，无需调试或连接电脑。这个方法在我的工作和个人手机上均有效，所以并非单一设备的偶然现象，尽管两者..."
+    },
+    "5d57bf2988f51b570bfa33c649e79dfcb14bd37781f8b9f5b2dc9c11360ecab0": {
+      "zh_title": "别错过Claude Agent SDK，快去用它构建点什么吧。",
+      "zh_summary": "别错过Claude Agent SDK，快去用它构建点什么吧。刚开始时，可以用Claude Code来帮你。有个不错的插件可用，能助你快速上手。借助Claude Code的强大功能，你可以打造自己的个人助手，就像Cowork一样。💬 0 🔄 0 ❤️ 4 👀 1858 📊 1 ⚡ 由xgo.ing驱动"
+    },
+    "8b5928d8b60e12abde1260580831a5a4d001b4e2fb7cccee3a536c402a66823a": {
+      "zh_title": "Claude Code 助你完成剩余工作",
+      "zh_summary": "Claude Code 助你完成剩余工作。我此前已通过 Claude Agent SDK 构建小型应用来实现这一目标，现在它变得更加简单。Claude（@claudeai）推出 Cowork：Claude Code 助你完成剩余工作。Cowork 让你能够完成非技术性任务，其方式类似于开发者使用 Claude Code。你的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 6 🔄 1 ❤️ 62 👀 8214 📊 11 ⚡ 由 xgo.ing 提供支持"
+    },
+    "21acb7268efb800bbfd779b63df40ae0fc3e91e994d0b7b34046d499ef0c2351": {
+      "zh_title": "关于智能体记忆（Agentic Memory）的精彩论文",
+      "zh_summary": "一篇关于智能体记忆（Agentic Memory）的精彩论文。LLM智能体需要长期与短期记忆来处理复杂任务。然而，当前的主流方法将两者视为独立组件，各自拥有启发规则、控制器和优化策略。但记忆并非两个独立系统，而是一个统一的认知过程，负责决定存储、检索、总结和遗忘的内容。这项新研究提出了AgeMem框架，通过基于工具的操作，将长短期记忆管理统一整合到智能体的决策策略中。智能体不再依赖触发式规则或辅助记忆管理器，而是自主学会何时及如何调用记忆操作：如添加（ADD）、更新（UPD）等。"
+    },
+    "d5ed5924cf7b527a0e1bbe84470f3733c9764fa58a4a0dda99b14de7bdbf81cb": {
+      "zh_title": "在本周的直播课程中，我将分享更多关于在Claude Code中快速构建此类工具的过程",
+      "zh_summary": "在本周的直播课程中，我将详细分享如何在Claude Code（dair-ai.thinkific.com/courses/claude…）中快速构建此类工具的工作流程。这是一次强化训练，但这些知识只需学习一次，之后便能在此基础上持续构建。目前尚余少量名额！💬 0 🔄 1 ❤️ 13 👀 4129 📊 3 ⚡ 由 xgo.ing 提供支持"
+    },
+    "5178638b1d4faadb86be2c6a8b6bbe4374ca30b453329f591c415daca266aef9": {
+      "zh_title": "笔记：",
+      "zh_summary": "笔记：- 在不间断的情况下，实现ReAct论文大约花了40分钟。- 过程中遇到了一些问题，但它逐步找到了解决方法。这正是ralph-loop极其强大的地方：它能探索解决方案并从错误中学习。我认为研究可能是ralph更佳的应用场景，因为研究需要大量探索。- 我测试了其他较新的论文，它表现良好，这让我相信可以将其实现得更稳健。- 正如视频所示，与任何LLM驱动的工具一样，即使你提供指令和API，它也可能难以使用较新的模型。但这是c…"
+    },
+    "2c7f9ef26b2f7a48678ffd65545a94e843e218dccbdbe99290fd93cc38d4a84f": {
+      "zh_title": "介绍 ralph-research 插件。",
+      "zh_summary": "介绍 ralph-research 插件。我刚刚采用 ralph-loop 来实现论文。效果之好令人惊叹。整个插件由 Claude Code 一次性生成，但它已经能够编写 AI 论文概念并在自我改进的循环中运行实验。太疯狂了！您的浏览器不支持视频标签。🔗 在 Twitter 上查看 💬 50 🔄 139 ❤️ 1637 👀 165343 📊 577 ⚡ 由 xgo.ing 提供支持。"
+    },
+    "2441ac3253fdd6dde8db68a31e244ffe2972c21da11be99f5c04ccb57e70dd0f": {
+      "zh_title": "LangSmith",
+      "zh_summary": "LangSmith Astasia Myers @AstasiaMyers 好文章！想到几点：我们是否需要新的基础设施，专门为AI智能体追踪而设计，以支持这个用例？这类似于Datadog如何围绕“指标”概念发展壮大。如果可观测性成为一种协作和产品分析解决方案，对于非AI工程师来说，最佳的视图是什么？🔗 查看引用推文 💬 3 🔄 5 ❤️ 28 👀 9628 📊 7 ⚡ 由 xgo.ing 提供支持"
+    },
+    "21718469bca75d94e33dfb40187ca32ac8e201db8035f43a524a4af27ae0580c": {
+      "zh_title": "让百万个工具链绽放",
+      "zh_summary": "让百万个工具链绽放 rahul (@rahulgs) 发布 nanocode！极简的 Claude 代码实现。零依赖，约 250 行 Python。完整的工具化代理循环（读取、写入、编辑、glob、grep、bash）。提示词仅为“简洁的编码助手。当前工作目录：/路径” 🔗 查看引用推文 💬 7 🔄 4 ❤️ 199 👀 30268 📊 43 ⚡ 由 xgo.ing 驱动"
+    },
+    "c1982160b3a7e12dc27f93d3e01fbd4a7709e23880f5b66094c153cf9086b71d": {
+      "zh_title": "重构转向Deep Agents是明智之举",
+      "zh_summary": "重构转向Deep Agents是明智之举 Abhishek Katiyar @abhi__katiyar 我注意到AI智能体开发中存在一个缺口，正为此构建基础设施。结果发现@LangChain的Deep Agents已经完成了一半工作（感谢@Vtrivedy10）。现在决定重构，基于Deep Agents来构建，而不是重复造轮子。很期待大约一周后展示能实现什么成果。🔗 查看引用推文 💬 1 🔄 0 ❤️ 25 👀 4577 📊 5 ⚡ 由xgo.ing驱动"
+    },
+    "a9821544cdade243c395265d28bf27bb2fbf9e85874692cd7d08a3ca1a421f3a": {
+      "zh_title": "鹰嘴豆的趣闻，你听说了吗？",
+      "zh_summary": "鹰嘴豆的趣闻，你听说了吗？💬 2 🔄 0 ❤️ 23 👀 8574 📊 5 ⚡ 由 xgo.ing 提供支持"
+    },
+    "a9bd71d203c04b7e62d118e995d90f611cb13051aa1cb04f9c0f8f602803cf34": {
+      "zh_title": "每当协助调试智能体时，关键并非“给我看代码”，而是“给我看追踪记录”",
+      "zh_summary": "每当协助调试智能体时，关键并非“给我看代码”，而是“给我看追踪记录” —— Harrison Chase (@hwchase17) x.com/i/article/2010… 🔗 查看引用推文 💬 7 🔄 15 ❤️ 104 👀 17578 📊 35 ⚡ 由 xgo.ing 提供支持"
+    },
+    "dc4ee81d6b89772048cd3a924645ab74338e6f8e5ca706b39459567d158e9992": {
+      "zh_title": "展示运行轨迹是解释智能体内部机制的最佳方式",
+      "zh_summary": "展示运行轨迹是解释智能体内部机制的最佳方式 john kutay @JohnKutay 每当我向稍有技术背景的人展示我们的系统时，大约50%的时间用于介绍用户体验，另外50%则聚焦于运行轨迹。后者往往最能让人恍然大悟。🔗 查看引用推文 💬 2 🔄 3 ❤️ 15 👀 3986 📊 5 ⚡ 由 xgo.ing 驱动"
     }
   }
 }

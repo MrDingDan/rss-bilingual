@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:48:30 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -102,6 +102,18 @@ Original:
 So I’m on Google AI Pro and something feels really off with how Gemini handles limits. I mostly used Gemini today for image generation, around 50–60 images. Hit the image limit, fine. After the 24-hour window passed, image generation was available again. Later I tried actually chatting with Gemini using the Pro/Thinking toggle and after like 10–12 messages it said I hit the limit and the Pro toggle got grayed out. Here’s the weird part: if I generate an image with the standard model and click the three dots, it shows “Redo with Nano Banana Pro”. That clearly means my Pro image credits are still available. But since the Pro/Thinking toggle is locked due to the chat limit, I literally can’t en…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qasjgz</guid>
       <pubDate>Mon, 12 Jan 2026 11:32:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>无法在AI Studio下载电子书 / Can't download ebook on AI Studio</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qautfg/cant_download_ebook_on_ai_studio/</link>
+      <description>由/u/Runeescape提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Runeescape [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qautfg</guid>
+      <pubDate>Mon, 12 Jan 2026 13:26:02 +0000</pubDate>
     </item>
     <item>
       <title>“为什么Gemini和Claude之间像上演着完整的动漫式对决？”🤣 / "Why does Gemini have like a full-on anime rivalry with Claude?" 🤣</title>

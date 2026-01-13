@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:47:40 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -176,6 +176,18 @@ https://preview.redd.it/ofo7jqg36zcg1.png?width=639&amp;amp;format=png&amp;amp;a
       <pubDate>Mon, 12 Jan 2026 20:06:17 +0000</pubDate>
     </item>
     <item>
+      <title>官方确认！ / It’s official!</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qb7awl/its_official/</link>
+      <description>https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ 分发渠道之争就此落幕？OpenAI 唯一可靠的长期护城河曾是：- 用户习惯养成 - 成为“提问首选地”。而苹果（Apple）是唯一具备足够规模的分发渠道，能够：- 削弱谷歌（Google）搜索的主导地位 - 为 OpenAI 提供操作系统层面的引力。然而现状是：- 谷歌现已拥有搜索 + Gemini + 苹果分发渠道 - OpenAI 仅剩 ChatGPT + API +… 只能寄望于监管机构或设备制造商做出让步 由 /u/Cold_Respond_7656 提交 [链接] [评论]
+
+---
+
+Original:
+https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ Is that the distribution war over? OpenAI’s only credible long-term moat was: -Consumer habit formation -Being the “first place you ask” Apple was the only distributor big enough to: -Neutralize Google search dominance -And give OpenAI OS-level gravity Instead: -Google now has Search + Gemini + Apple distribution -OpenAI has ChatGPT + APIs +… hoping regulators or OEMs blink submitted by /u/Cold_Respond_7656 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qb7awl</guid>
+      <pubDate>Mon, 12 Jan 2026 21:08:02 +0000</pubDate>
+    </item>
+    <item>
       <title>AI检测器完全是骗局 / AI Detectors are a complete scam.</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qb7tdl/ai_detectors_are_a_complete_scam/</link>
       <description>这就是我认为AI检测器是骗局的原因之一。GPTZero将这句话标记为高AI概率：“你为什么这么想？”它竟然说“为什么”这个词是连词！！不，它是疑问副词，修饰动词短语“你这么想”。连这个都搞错，那它还能错成什么样？提交者：/u/stumpmtsr [链接] [评论]
@@ -294,6 +306,24 @@ Original:
 submitted by /u/ChhilaSantra [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qbkalb</guid>
       <pubDate>Tue, 13 Jan 2026 06:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>我收藏了所有遇到的优质ChatGPT提示词，这15条彻底改变了我的工作方式 / I save every great ChatGPT prompt I find. Here are the 15 that changed how I work.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qblp9j/i_save_every_great_chatgpt_prompt_i_find_here_are/</link>
+      <description>我几乎事事都用ChatGPT：写作、编程、头脑风暴、研究。过去六个月里，我收集了500多条提示词，但只有15条是持续在用的。这15条提示词每周能为我节省10到15小时。在此分享给大家。
+1. “为我聪明地解释”提示词
+请以我虽聪明但不熟悉术语的角度，解释【复杂主题】。用【我熟悉的领域】的概念来类比。不要刻意简化，只需让它易于理解。
+为何有效：不再用“想象一个气球”式的解释，尊重你的智力。
+使用场景：快速学习新的技术概念。
+2. “批评模式”提示词
+你是一位严厉但公正的评论者。请审阅以下【内容类型】：【粘贴内容】。薄弱之处在哪？哪些……
+
+---
+
+Original:
+I use ChatGPT for everything. Writing, coding, brainstorming, research. Over the past 6 months, I've collected 500+ prompts. But only 15 get used constantly. These 15 prompts save me 10-15 hours every week. Sharing them here. 1. The "Explain Like I'm Smart" Prompt Explain [complex topic] to me like I'm intelligent but unfamiliar with the jargon. Use analogies to concepts from [field I know well]. Don't dumb it down—just make it accessible. Why it works: No more "imagine a balloon" explanations. Respects your intelligence. Use case: Learning new technical concepts fast. 2. The "Critic Mode" Prompt You are a harsh but fair critic. Review this [content type]: [paste content] What's weak? What's…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qblp9j</guid>
+      <pubDate>Tue, 13 Jan 2026 08:07:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

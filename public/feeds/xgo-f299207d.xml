@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - xgo_f299207d</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 08:53:46 +0000</lastBuildDate>
+    <item>
+      <title>展示运行轨迹是解释智能体内部机制的最佳方式 / Showing people traces is the best way to explain them what’s going on under the hood of your agent</title>
+      <link>https://x.com/hwchase17/status/2010118681788039418</link>
+      <description>展示运行轨迹是解释智能体内部机制的最佳方式 john kutay @JohnKutay 每当我向稍有技术背景的人展示我们的系统时，大约50%的时间用于介绍用户体验，另外50%则聚焦于运行轨迹。后者往往最能让人恍然大悟。🔗 查看引用推文 💬 2 🔄 3 ❤️ 15 👀 3986 📊 5 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Showing people traces is the best way to explain them what’s going on under the hood of your agent john kutay @JohnKutay Whenever I’m showing our system to folks who are remotely technical, I spend about 50% of the time of the UX, 50% of the time on the traces. The latter is when most light bulbs go off. 🔗 View Quoted Tweet 💬 2 🔄 3 ❤️ 15 👀 3986 📊 5 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2010118681788039418</guid>
+      <pubDate>Sat, 10 Jan 2026 22:36:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>每当协助调试智能体时，关键并非“给我看代码”，而是“给我看追踪记录” / Whenever we’re helping people debug agents, it’s not “show me the code” but rather “show me the trac...</title>
+      <link>https://x.com/hwchase17/status/2010118956183609784</link>
+      <description>每当协助调试智能体时，关键并非“给我看代码”，而是“给我看追踪记录” —— Harrison Chase (@hwchase17) x.com/i/article/2010… 🔗 查看引用推文 💬 7 🔄 15 ❤️ 104 👀 17578 📊 35 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+Whenever we’re helping people debug agents, it’s not “show me the code” but rather “show me the trace” Harrison Chase @hwchase17 x.com/i/article/2010… 🔗 View Quoted Tweet 💬 7 🔄 15 ❤️ 104 👀 17578 📊 35 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2010118956183609784</guid>
+      <pubDate>Sat, 10 Jan 2026 22:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>鹰嘴豆的趣闻，你听说了吗？ / Wait till you hear about chickpeas and garbanzo beans</title>
+      <link>https://x.com/hwchase17/status/2010131672864612616</link>
+      <description>鹰嘴豆的趣闻，你听说了吗？💬 2 🔄 0 ❤️ 23 👀 8574 📊 5 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+Wait till you hear about chickpeas and garbanzo beans 💬 2 🔄 0 ❤️ 23 👀 8574 📊 5 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2010131672864612616</guid>
+      <pubDate>Sat, 10 Jan 2026 23:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>重构转向Deep Agents是明智之举 / Refactoring to deepagents is the way</title>
+      <link>https://x.com/hwchase17/status/2010186321034350704</link>
+      <description>重构转向Deep Agents是明智之举 Abhishek Katiyar @abhi__katiyar 我注意到AI智能体开发中存在一个缺口，正为此构建基础设施。结果发现@LangChain的Deep Agents已经完成了一半工作（感谢@Vtrivedy10）。现在决定重构，基于Deep Agents来构建，而不是重复造轮子。很期待大约一周后展示能实现什么成果。🔗 查看引用推文 💬 1 🔄 0 ❤️ 25 👀 4577 📊 5 ⚡ 由xgo.ing驱动
+
+---
+
+Original:
+Refactoring to deepagents is the way Abhishek Katiyar @abhi__katiyar Was building infra for a gap I noticed in AI agent development. Found @LangChain Deep Agents already built half of it (props to @Vtrivedy10 ). Refactoring to build on Deep Agents instead of reinventing. Excited to show what's possible in a week or so. 🔗 View Quoted Tweet 💬 1 🔄 0 ❤️ 25 👀 4577 📊 5 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2010186321034350704</guid>
+      <pubDate>Sun, 11 Jan 2026 03:05:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>让百万个工具链绽放 / Let a millions harnesses bloom</title>
+      <link>https://x.com/hwchase17/status/2010193927119552565</link>
+      <description>让百万个工具链绽放 rahul (@rahulgs) 发布 nanocode！极简的 Claude 代码实现。零依赖，约 250 行 Python。完整的工具化代理循环（读取、写入、编辑、glob、grep、bash）。提示词仅为“简洁的编码助手。当前工作目录：/路径” 🔗 查看引用推文 💬 7 🔄 4 ❤️ 199 👀 30268 📊 43 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Let a millions harnesses bloom rahul @rahulgs launching nanocode! minimal claude code implementation. zero deps, ~250 lines of python. full agentic loop with tools (read, write, edit, glob, grep, bash). prompt is just "concise coding assistant. cwd: /path" 🔗 View Quoted Tweet 💬 7 🔄 4 ❤️ 199 👀 30268 📊 43 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2010193927119552565</guid>
+      <pubDate>Sun, 11 Jan 2026 03:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>LangSmith / LangSmith</title>
+      <link>https://x.com/hwchase17/status/2010412902575178015</link>
+      <description>LangSmith Astasia Myers @AstasiaMyers 好文章！想到几点：我们是否需要新的基础设施，专门为AI智能体追踪而设计，以支持这个用例？这类似于Datadog如何围绕“指标”概念发展壮大。如果可观测性成为一种协作和产品分析解决方案，对于非AI工程师来说，最佳的视图是什么？🔗 查看引用推文 💬 3 🔄 5 ❤️ 28 👀 9628 📊 7 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+LangSmith Astasia Myers @AstasiaMyers Great piece! Somethings that came to mind: Do we need new infra that is AI agent trace-native to support this use case? This is similar to how Datadog became large around the concept of a "metric". If observability becomes a collab and product analytics solution, what are the best views for non-AI engineers? 🔗 View Quoted Tweet 💬 3 🔄 5 ❤️ 28 👀 9628 📊 7 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2010412902575178015</guid>
+      <pubDate>Sun, 11 Jan 2026 18:06:02 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

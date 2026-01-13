@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:51:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:46:40 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -54,6 +54,18 @@ Original:
 There are plenty of AI agents in the market but I feel like most fail at replacing the entire workflow autonomously. In-fact what I noticed was sometimes you end up spending more time than if you had just done the whole thing manually. So curious, has an AI agent replaced an entire workflow for you yet? If so how? submitted by /u/No-Marionberry8257 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qaqnyq</guid>
       <pubDate>Mon, 12 Jan 2026 09:40:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>相比日常实际需求，智能体堆栈的哪些部分显得过度设计了？ / Which parts of an agent stack feel overbuilt compared to what’s actually needed day to day ?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qaqsa1/which_parts_of_an_agent_stack_feel_overbuilt/</link>
+      <description>许多智能体配置在纸面上看起来非常庞大，包含规划器、记忆层、工具路由器、向量数据库、评估器、重试机制、日志系统，有时甚至还有多个智能体相互通信。但在日常工作中，大多数人只需要一个能读取任务、使用几个工具且不出错的系统。有些堆栈感觉像是为演示或博客文章设计的，而不是为了无需人工干预的日常运行。想知道大家在实际使用中，最终删除了哪些对实际效果影响不大的部分。提交者：/u/addllyAI [链接] [评论]
+
+---
+
+Original:
+A lot of agent setups look huge on paper. There are planners, memory layers, tool routers, vector databases, evaluators, retries, logs, and sometimes even multiple agents talking to each other. But in day-to-day work, most people just want something that can read a task, use a couple of tools, and not mess things up. Some stacks feel like they were designed for demos or blog posts, not for running every day without babysitting. Curious which parts people here have ended up cutting out because they didn’t really move the needle in real use. submitted by /u/addllyAI [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qaqsa1</guid>
+      <pubDate>Mon, 12 Jan 2026 09:47:50 +0000</pubDate>
     </item>
     <item>
       <title>我在混乱条件下测试了一个生产级AI智能体：它通过了评估，却在95%的真实场景中失败 / I tested a production-style AI agent under chaos conditions. It passed evals — then failed 95% of real-world inputs.</title>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:54:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:48:01 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -294,6 +294,30 @@ Original:
 This post is very long and does not include a TL;DR. It discusses how students are currently using AI, along with the benefits and drawbacks I’ve personally observed during my time as a student in university. For context, I am a pre-law major set to graduate this semester. Previously, when a professor tried to prevent a student from copy-pasting a written work and submitting into ChatGPT, the professor would provide a grainy pdf low quality Xerox scan of a written passage. This was so that a student would be unable to properly highlight any words in the doc, and would have to rely on actually reading it. The image analysis feature changed that forever. Grainy pdf files can now be read fully…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbk1y8</guid>
       <pubDate>Tue, 13 Jan 2026 06:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude代码完全指南：全局CLAUDE.md、MCP服务器、命令，以及为何单主题对话至关重要 / The Complete Guide to Claude Code: Global CLAUDE.md, MCP Servers, Commands, and Why Single-Purpose Chats Matter</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbkk1n/the_complete_guide_to_claude_code_global_claudemd/</link>
+      <description>TL;DR：你的全局文件 ~/.claude/CLAUDE.md 既是防止密钥泄露到生产环境的安全守门员，也是确保每个新项目遵循相同结构的项目脚手架蓝图。MCP服务器能指数级扩展Claude的能力。Context7让Claude能访问最新文档。自定义命令和代理可以自动化重复性工作流。研究表明，在单次对话中混合主题会导致性能下降39%——因此请保持对话主题聚焦。第一部分：作为安全守门员的全局CLAUDE.md 内存层级 Claude Code按特定顺序加载CLAUDE.md文件：层级 位置 用途 企业级 /etc/claude-code/CLAUDE.md 组织范围策略 全局…
+
+---
+
+Original:
+TL;DR: Your global ~/.claude/CLAUDE.md is a security gatekeeper that prevents secrets from reaching production AND a project scaffolding blueprint that ensures every new project follows the same structure. MCP servers extend Claude's capabilities exponentially. Context7 gives Claude access to up-to-date documentation. Custom commands and agents automate repetitive workflows. And research shows mixing topics in a single chat causes 39% performance degradation — so keep chats focused. Part 1: The Global CLAUDE.md as Security Gatekeeper The Memory Hierarchy Claude Code loads CLAUDE.md files in a specific order: Level Location Purpose Enterprise /etc/claude-code/CLAUDE.md Org-wide policies Globa…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbkk1n</guid>
+      <pubDate>Tue, 13 Jan 2026 06:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>打造移动端优化的多Claude Code会话管理应用（自托管） / Built a mobile optimized app for managing multiple Claude Code sessions (self hosted)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbknnt/built_a_mobile_optimized_app_for_managing/</link>
+      <description>大家好，最近我开发了一款工具，真心相信它将引领编程与工程的新方式：AgentOS，一个移动优先的网页界面，用于管理AI编程会话（Claude Code、Codex、Aider、Gemini CLI）。支持自托管，具备多窗格终端、Git集成和会话编排功能。虽然听起来有点复杂，但简单来说，它能让你在手机上轻松编程。我之前使用常规方案（Termius + SSH）时遇到的一个问题是，无法方便地上传图片给Claude，也难以快速启动开发服务器。而这个工具能让你在手机上完成所有这些操作。它完全免费，并且我已将其开源……
+
+---
+
+Original:
+Hi all, I've recently been working on a tool that I truly believe will be the way we start doing programming and engineering: AgentOS, a Mobile-first web UI for managing AI coding sessions (Claude Code, Codex, Aider, Gemini CLI). Self-hosted with multi-pane terminals, git integration, and session orchestration. That's a mouthful, but basically it helps you code on your phone in a way that is really easy. One of the problems I was running into with the typical setup (Termius + SSH) is that I wasn't able to easily upload images for claude, and I wasn't able to start my dev server easily. This tool will help you do ALL OF THAT from your phone. It's completely free and I've open sourced it as we…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbknnt</guid>
+      <pubDate>Tue, 13 Jan 2026 07:02:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

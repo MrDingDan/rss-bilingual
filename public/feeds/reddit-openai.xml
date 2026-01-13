@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:48:17 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -307,6 +307,30 @@ Original:
 It’s a new audio wearable meant to replace Apple’s AirPods (aligns with The Information leaks) -&gt; Codename: Sweetpea (now front of the line due to priority from the Jony Ive team) -&gt; Look: Metal “eggstone” design with two pill shaped capsules worn behind the ear. -&gt; Tech: Powered by a custom 2nm smartphone class chip (Samsung Exynos). The chip is reportedly designed to replace iPhone actions by commanding Siri. -&gt; Positioning: Bill of materials is closer to a smartphone than typical earbuds, suggesting a premium price tier. -&gt; Launch: Expected as early as September, with a target of 40–50M units in year one Manufacturing: OpenAI has reportedly partnered with Foxconn to prepare a total of fiv…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qblga5</guid>
       <pubDate>Tue, 13 Jan 2026 07:51:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>你没疯 / You’re not crazy</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qblow6/youre_not_crazy/</link>
+      <description>你是对的。由 /u/yeyomontana 提交 [链接] [评论]
+
+---
+
+Original:
+You’re right. submitted by /u/yeyomontana [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qblow6</guid>
+      <pubDate>Tue, 13 Jan 2026 08:06:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>默认设为5.2版本，却总是收到5.1或4o版本回复，这是怎么回事？ / Default set to 5.2, but I always get 5.1 or 4o, what is happening?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbm6sg/default_set_to_52_but_i_always_get_51_or_4o_what/</link>
+      <description>至少两天以来，我注意到ChatGPT有个奇怪现象：我的默认设置明明是5.2版本，但无论我开启多少次新对话询问——哪怕第一句话就问‘你好，我当前连接的是5.2版本吗？’——得到的回复总是5.1或4o版本。只有当我主动选用5.2思考模式时，它才真正调用5.2版本。我知道存在重定向机制，但在桌面端应用里这些情况都会标注为来自其他模型的响应。这并非单次回复或较长对话中的偶然现象，而是持续表现为5.1或4o版本的行为模式。无论我开启多少新对话，或讨论多严肃的话题（比如儿童传染病的高死亡率问题……），情况依旧如此。
+
+---
+
+Original:
+For at least two days now, I've been observing something strange with ChatGPT. My default setting is 5.2, but no matter how many times I start a new chat and ask, even if the first sentence is "Hello, am I connected to 5.2 here?", the response is either 5.1 or 40. Only when I use the 5.2 thinking model is it actually 5.2. I know there are reroutings, but these are also marked as responses from a different model in the desktop app. It's not just a single response or a slightly longer chat; it consistently behaves like 5.1 or 40. It doesn't matter how many new chats I start or how serious the topic becomes (for example, the very high mortality rate among children from infectious diseases aroun…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbm6sg</guid>
+      <pubDate>Tue, 13 Jan 2026 08:38:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
