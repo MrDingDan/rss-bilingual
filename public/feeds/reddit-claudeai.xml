@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:54:11 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -44,6 +44,30 @@ submitted by /u/reversedu [link] [comments]</description>
       <pubDate>Mon, 12 Jan 2026 06:33:05 +0000</pubDate>
     </item>
     <item>
+      <title>新更新：Claude桌面应用现已支持计划模式 / New update: Plan Mode is now available in the Claude Desktop app</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qar0gf/new_update_plan_mode_is_now_available_in_the/</link>
+      <description>Claude Code桌面版现已包含计划模式。该功能允许Claude在进行代码修改前先规划步骤。在处理大型代码库时，这有助于实现更安全的编辑和更清晰的工作流程。由/u/BuildwithVignesh提交 [链接] [评论]
+
+---
+
+Original:
+Claude Code Desktop now includes Plan mode. It lets Claude outline steps before making any code changes. Useful for safer edits and clearer workflows when working in large codebases. submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qar0gf</guid>
+      <pubDate>Mon, 12 Jan 2026 10:01:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sonnet现已支持100万上下文窗口，Opus何时能获得同等升级？ / sonnet got 1M context window now, when opus getting the same love??</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qarks0/sonnet_got_1m_context_window_now_when_opus/</link>
+      <description>今天在Claude代码里看到这个，我简直惊掉下巴。Sonnet 4.5居然有100万上下文选项，而Opus 4.5还在用标准上下文。别误会，Opus处理复杂任务依然是最强的大脑，但有时候我既需要高智商也需要大内存啊！有人知道Anthropic是否计划也给Opus升级100万上下文吗？还是我们就假装这样很合理？最强大的模型反而比小弟的上下文短，这感觉太奇怪了。也许我漏掉了什么信息，但这在我看来完全反常识啊。提交者：/u/rz1989s [链接] [评论]
+
+---
+
+Original:
+just saw this in claude code today and my jaw kinda dropped. sonnet 4.5 sitting there with a 1M context option while opus 4.5 still chilling with the standard context. like dont get me wrong opus is still the big brain model for complex stuff but sometimes i need big brain AND big memory you know? anyone know if anthropic planning to give opus the 1M treatment too or we just gonna pretend this is fine. feels weird that the "most capable" model has less context than its smaller sibling. maybe im missing something here but this seem backwards to me lol submitted by /u/rz1989s [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qarks0</guid>
+      <pubDate>Mon, 12 Jan 2026 10:36:43 +0000</pubDate>
+    </item>
+    <item>
       <title>让Claude完成所有工作，却在提交修改前将其从合著者中移除的行为如同 / making claude do all the work and then removing it from co-author before commiting changes be like</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qawws1/making_claude_do_all_the_work_and_then_removing/</link>
       <description>由 /u/reversedu 提交 [链接] [评论]
@@ -56,6 +80,18 @@ submitted by /u/reversedu [link] [comments]</description>
       <pubDate>Mon, 12 Jan 2026 14:52:03 +0000</pubDate>
     </item>
     <item>
+      <title>agent-browser：Vercel 推出的与 Claude Code 协作的新 CLI，浏览器自动化可减少 90% 的 token 用量 / agent-browser: Vercel's new CLI that works with Claude Code. 90% less tokens for browser automation</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qazrbr/agentbrowser_vercels_new_cli_that_works_with/</link>
+      <description>简而言之：Vercel 发布了 agent-browser，这是一款用于 AI 浏览器自动化的命令行工具，采用基于快照的引用而非 DOM 选择器。官方宣称相比 Playwright MCP 可减少 90% 的 token 用量。实测下来，差异确实明显。Vercel 昨天发布了 agent-browser，我一直在用 Claude Code 进行测试。其核心卖点是：专为 AI 智能体设计的浏览器自动化 CLI。它使用快照引用而非 DOM 选择器，据称比 Playwright MCP 节省 90% 的 token。实际工作流程如下：agent-browser open example.com → agent-browser snapshot → agent-browser click @e2 → agent-browser fill @e3 "email@test.com"。其中 snapshot 命令会返回一个包含 @e1、@e2、@e3 这类引用的无障碍访问树，然后你只需引用这些……
+
+---
+
+Original:
+TL;DR : Vercel released agent-browser, a CLI for AI browser automation that uses snapshot-based refs instead of DOM selectors. Claims 90% token reduction vs Playwright MCP. Tested it, the difference is real. alright so vercel dropped agent-browser yesterday and I've been testing it with claude code. the pitch: browser automation CLI designed for AI agents. uses snapshot refs instead of DOM selectors, supposedly 90% less tokens than playwright mcp. here's the actual workflow: agent-browser open example.com agent-browser snapshot agent-browser click @e2 agent-browser fill @e3 "email@test.com" the snapshot command returns an accessibility tree with refs like @e1, @e2, @e3. then you just referen…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qazrbr</guid>
+      <pubDate>Mon, 12 Jan 2026 16:37:25 +0000</pubDate>
+    </item>
+    <item>
       <title>终极Claude技能.md：静默自动构建任何全栈Web应用 / Ultimate Claude Skill.md: Auto-Builds ANY Full-Stack Web App Silently</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qb1024/ultimate_claude_skillmd_autobuilds_any_fullstack/</link>
       <description>刚刚为Claude Code打造了一个杀手级技能.md——它能将任何应用想法自动转化为完整、可用于生产环境的全栈Web应用。该技能会分析需求、选择技术栈、制定分阶段计划，然后静默地逐步构建所有内容，包括代码、Git提交和测试。在全部完成前不会提出任何问题。非常适合快速原型开发！技能：通用全栈Web应用构建器（高级自动执行模式）你是一名专业的全栈开发者，任务是从零开始构建一个完整、可用于生产环境的全栈Web应用。要构建的应用在用户查询中描述（应用名称、目的、核心功能、用户流程、技术偏好、数据模型等）。
@@ -66,6 +102,18 @@ Original:
 Just crafted a killer skill.md for Claude Code — it turns any app idea into a complete, production-ready full-stack web app automatically. Analyzes requirements, picks tech stack, creates phased plan, then silently builds everything phase-by-phase with code, git commits, and testing. No questions asked until fully done. Very good for rapid prototyping! Skill: Universal Full-Stack Web App Builder (Advanced Auto-Execution Mode) You are an expert full-stack developer tasked with building a complete, production-ready full-stack web application from scratch. The application to build is described in the user's query (app name, purpose, key features, user flows, technical preferences, data models,…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qb1024</guid>
       <pubDate>Mon, 12 Jan 2026 17:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude 2.1.15版本——建议回退！ / Claude 2.1.15 - Rollback recommended!</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb1fw7/claude_2115_rollback_recommended/</link>
+      <description>根据我的使用体验，目前Claude在2.1.5版本上有点“犯傻”。明确让它调用API，它却默认执行脚本。我使用Linear的工作流也乱套了，Claude竟然抓取已经完成的任务单（尽管.md文件显示并非如此）。已回退到2.1.1版本——2.0.76版本也很不错。特此提醒，因为2.1.5版本简直在“烧”我的令牌使用量。￼ 编辑补充：情况实际上更糟了。甚至无法降级，Claude会自动切回2.1.5版本。肯定有严重故障。本想提交bug报告，但在2.1.5版本里尝试时连这个操作都会中断/取消。现在做什么都耗时太久。我愿意耐心等待，但你们之前的2.1.1版本明明做得那么好——感觉像是……
+
+---
+
+Original:
+I speak only from experience but Claude is a bit dumb on 2.1.5 at present. Explicitly telling it to use an API call and defaults to running scripts. My workflows using Linear are also going haywire and Claude's picking up tickets already completed (despite the .md file saying otherwise). Rolled back to 2.1.1 - 2.0.76 is great as well. Just a heads up, because 2.1.5 was BURNING my token usage.￼ Edit: This has actually become worse. Can’t even downgrade with Claude reverting back to 2.1.5. Something’s seriously busted. I’d upload a bug but even that closes / cancels when I try in 2.1.5. Taking way too long with everything. Happy to be patient but you had it oh so right with 2.1.1 - feel like t…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb1fw7</guid>
+      <pubDate>Mon, 12 Jan 2026 17:37:54 +0000</pubDate>
     </item>
     <item>
       <title>与Claude的有趣实验 / Fun experiment with Claude</title>
@@ -162,6 +210,30 @@ Original:
 There are thousands of these, so who knows if this provide value to anyone. At least it’s not AI written. And I’m not selling nor advertising! I work as a developer, but for personal projects more or less 100% vibecode. Writing code during the workday is enough for me. These are absolute necessities I have found for vibecoding. Especially when you reach territory where AI is writing code, you yourself couldn’t Have AI run real, manual, E2E tests for every feature. Added an endpoint? Agent should spin up the application and inspect the output. A UI change? Should be confirmed by opening the actual UI. Use MCP, use screenshots, or whatever you deem best. DB migration? Confirm it works. API wri…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qb90zq</guid>
       <pubDate>Mon, 12 Jan 2026 22:12:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork / Claude Cowork</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbchqz/claude_cowork/</link>
+      <description>Claude Cowork 在五分钟内帮我整理好了下载文件夹，实际省下了我至少一天的工作量。提交者：/u/vegamus [链接] [评论]
+
+---
+
+Original:
+Claude Cowork helped me to organise my download folder in 5 minutes. Practicaly saved me to spend at least one day work. submitted by /u/vegamus [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbchqz</guid>
+      <pubDate>Tue, 13 Jan 2026 00:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>就在你承诺要开的那场会议之前... / Right before that meeting where you promised...</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbcrhi/right_before_that_meeting_where_you_promised/</link>
+      <description>由 /u/highways2zion 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/highways2zion [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbcrhi</guid>
+      <pubDate>Tue, 13 Jan 2026 00:41:56 +0000</pubDate>
     </item>
     <item>
       <title>Claude Cowork初体验视频：Cowork不可逆地删除了我11GB的文件💀 / Claude Cowork 1st impression video: Cowork irreversibly deleted 11GB of my files 💀</title>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:51:37 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -56,6 +56,30 @@ There are plenty of AI agents in the market but I feel like most fail at replaci
       <pubDate>Mon, 12 Jan 2026 09:40:19 +0000</pubDate>
     </item>
     <item>
+      <title>我在混乱条件下测试了一个生产级AI智能体：它通过了评估，却在95%的真实场景中失败 / I tested a production-style AI agent under chaos conditions. It passed evals — then failed 95% of real-world inputs.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qasg4s/i_tested_a_productionstyle_ai_agent_under_chaos/</link>
+      <description>我对一个仅凭评估看似“可投入生产”的AI智能体进行了混沌测试，结果并不理想。总结如下：稳健性得分：5.2% 总测试数：60 通过：3 失败：57 平均延迟：约9.8秒（部分请求达30秒）主要失败模式：性能崩溃——在负载或噪声输入下，响应时间常超过10秒；编码攻击漏洞——Base64和URL编码的输入未被拒绝反而被解码处理；提示词注入——智能体对“忽略先前指令”类攻击作出了响应。值得注意的是：该智能体的失败并非因为“缺乏推理能力”，而是因为真实用户的行为与测试用例截然不同。这也揭示了仅依赖评估测试的局限性……
+
+---
+
+Original:
+I ran chaos-style tests against an AI agent that looked “production-ready” based on evals alone. The results were… bad. Summary: Robustness score: 5.2% Total tests: 60 Passed: 3 Failed: 57 Average latency: ~9.8s (some requests hit ~30s) Top failure modes: Performance collapse Under load or noisy inputs, responses routinely exceeded 10s. Encoding attack vulnerabilities Base64 and URL-encoded inputs were decoded and processed instead of rejected. Prompt injection The agent responded to “ignore previous instructions” style attacks. What stood out: this agent wasn’t failing because it “couldn’t reason.” It failed because real users don’t behave like test cases. This is why eval-only testing keep…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qasg4s</guid>
+      <pubDate>Mon, 12 Jan 2026 11:27:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果AI系统无法安全失效，就不该投入生产 / If your AI system can’t fail safely, it’s not ready for production</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qasinx/if_your_ai_system_cant_fail_safely_its_not_ready/</link>
+      <description>AI并非完美无缺。一个可用于生产的AI系统的真正考验，不仅在于准确性，更在于出错时的表现。一个稳健的系统应能预见错误、降低风险，并在安全失效的同时避免灾难性后果。这在客户部署中尤为关键，因为错误会带来实际损失。简单、可靠、有韧性的系统，往往优于那些纸上谈兵、实践中却不堪一击的复杂系统。由 /u/ConfidenceOk2467 提交 [链接] [评论]
+
+---
+
+Original:
+AI isn’t infallible. The real test of a production-ready AI system isn’t just accuracy, it’s how it behaves when things go wrong. A robust system anticipates errors, mitigates risk, and fails safely without catastrophic consequences. This is especially critical in client deployments where mistakes carry real-world costs. Simple, reliable, and resilient systems often outperform complex ones that look impressive on paper but fail in practice. submitted by /u/ConfidenceOk2467 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qasinx</guid>
+      <pubDate>Mon, 12 Jan 2026 11:31:01 +0000</pubDate>
+    </item>
+    <item>
       <title>谷歌刚刚发布了通用商务协议（UCP） / Google just dropped Universal Commerce Protocol (UCP)</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qau86e/google_just_dropped_universal_commerce_protocol/</link>
       <description>我刚刚阅读了谷歌的通用商务协议（UCP）。据我理解，UCP是一个面向智能体商务的开放标准，旨在规范AI智能体从发现到结账及后续环节与商业系统交互的方式。其设计使得智能体、平台、支付提供商和商家能够使用统一语言沟通，无需为每个应用或界面构建定制连接。几个突出特点包括：通过将N×N连接简化为单一协议来简化集成；设计用于跨不同智能体、支付方式和商务后端工作；兼容现有标准如Agent2Agent、Agent Payments Protocol（AP2）和Model Context Protocol（…
@@ -68,6 +92,18 @@ I just read Google’s Universal Commerce Protocol (UCP). From what I understand
       <pubDate>Mon, 12 Jan 2026 12:59:56 +0000</pubDate>
     </item>
     <item>
+      <title>毕业设计项目创意征集 / Project idea for final year</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qawzzb/project_idea_for_final_year/</link>
+      <description>我们需要做一个与众不同、独具特色的毕业设计项目，希望大家能提供一些创意灵感。学校给出的主题范围包括：农业、医疗保健、自动化与人工智能、信息安全、环境与能源。请帮我推荐一个出色的毕业设计想法。 由 /u/goelavi 提交 [链接] [评论]
+
+---
+
+Original:
+We have to make a final year project which stands different from others and very unique i want some ideas for the same The topics given by my college are Agriculture Healthcare Automation and ai Information security Environment and energy Please help me with a very good idea for my last year project submitted by /u/goelavi [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qawzzb</guid>
+      <pubDate>Mon, 12 Jan 2026 14:55:33 +0000</pubDate>
+    </item>
+    <item>
       <title>开源布莱恩·约翰逊（Bryan Johnson）AI：基于证据的补充剂追踪工具 / Open-source Bryan Johnson AI for evidence-based Supplements tracking</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qaz7c9/opensource_bryan_johnson_ai_for_evidencebased/</link>
       <description>我每天服用补充剂，也在不同社群中交流，为自己的“补充剂组合”获取大量建议。身边的朋友们同样在用补充剂，毕竟我们都三十多岁了……你懂的，年纪渐长。一段时间后，我开始发现建议相互矛盾，有点担心，于是开始查阅在线医学研究平台。筛选海量研究、获取结果、对比并记录，这简直是数小时的苦差事，所以我决定采用智能体（Agent）方案！我构建了一个补充剂研究AI智能体，它能：搜索数百万篇医学研究论文和临床试验数据库；分析来自DailyMed、PubMed等平台的补充剂研究；突出显示作用机制、研究规模、局限性……
@@ -78,6 +114,30 @@ Original:
 I use supplements daily, I'm in different communities leveling up and getting tons of advice for my "stack". I have friends too that use supplements because we're all in our mid 30s...you know we are getting old. After a while, i start to see conflicting advice, got a bit worried and started checking medical research platforms online. Sifting through so many studies, getting the results, comparing and documenting them is hours of brutal work so I decided to go the Agent way! I built a Supplements research AI agent that: Searches millions of medical research papers &amp; clinical trials databases Analyzes studies on supplements from DailyMed, PubMed Highlights mechanisms, study size, limitations…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qaz7c9</guid>
       <pubDate>Mon, 12 Jan 2026 16:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何长期记录复杂的内部系统？Loom对我们不再适用了。 / How do you document complex internal systems long-term? Loom stopped working for us.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qb369e/how_do_you_document_complex_internal_systems/</link>
+      <description>我们在构建一个相当复杂的内部系统时，遇到了一个意想不到的问题——不是技术上的，而是文档债务。起初，Loom（录屏工具）效果不错：更新快、异步解释、简短演示。但随着系统规模扩大，Loom开始失效：视频分散、缺少上下文、没有明确的“单一事实来源”、新员工上手耗时更长、需要反复解释相同内容。我们转而采用更长的结构化演示（未公开视频+书面上下文），这样能：保留架构决策、复用演示、让新人自助学习、避免每周重复解释相同流程。前期虽慢，但清晰度会持续累积。实际上……
+
+---
+
+Original:
+We ran into an unexpected problem while building a fairly complex internal system. Not technical but a documentation debt. Early on, Loom worked fine: • quick updates • async explanations • short walkthroughs But once the system grew, Loom started breaking down: • videos got scattered • context was missing • no clear “source of truth” • onboarding took longer • explaining the same thing repeatedly We switched to longer-form, structured walkthroughs (unlisted videos + written context) so that: • architecture decisions are preserved • demos can be reused • new people can self-serve • we’re not re-explaining the same flows every week It’s slower upfront, but clarity compounds. What’s actually w…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qb369e</guid>
+      <pubDate>Mon, 12 Jan 2026 18:39:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体AI不仅是技术变革，更是治理难题 / Agentic AI Isn’t Just a Tech Shift Its a Governance Problem</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qb4jyi/agentic_ai_isnt_just_a_tech_shift_its_a/</link>
+      <description>智能体AI（Agentic AI）被视为2026年最大的新兴风险之一，原因并非模型变得更聪明，而是决策正悄然从人类转向系统。企业真正面临的转变在于：从遵循规则的自动化，升级为能决策、行动和适应的智能体。许多组织急于采用智能体AI，却未重新思考控制、监督、问责与升级机制的实际运作方式，这导致项目停滞、预算逐渐消耗。过去一年，大量严肃研究与企业指导涌现，试图弥合这一差距，将讨论从炒作转向对实际准备度的严峻拷问……
+
+---
+
+Original:
+Agentic AI is being flagged as one of the biggest emerging risks for 2026, not because the models are smarter, but because decision-making is quietly moving from humans to systems. That’s the real shift enterprises are struggling with: going from automation that follows rules to agents that decide, act and adapt. Many organizations are rushing to adopt agentic AI without rethinking how control, oversight, accountability and escalation should actually work and that’s where initiatives stall and budgets slowly evaporate. Over the past year a wave of serious research and enterprise guidance has emerged trying to close this gap, moving the conversation from hype to hard questions about readiness…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qb4jyi</guid>
+      <pubDate>Mon, 12 Jan 2026 19:27:40 +0000</pubDate>
     </item>
     <item>
       <title>如何构建一个能成为我数字孪生体的本地AI？ / How to build a local AI that becomes my digital twin ?</title>
@@ -138,6 +198,18 @@ Original:
 Hey folks 👋 We’ve been working on a password manager that takes a very different approach, and we’re genuinely curious what this community thinks. Instead of a text-based master password, users authenticate with a photo they choose, combined with a visual layer. The idea is simple: recognition is easier than recall. You don’t memorize strings, you recognize something personal. The second controversial part: passwords are never stored. Not encrypted. Not hashed. Not in a vault. Passwords are regenerated on demand using cryptographic primitives, on-device checks and end-to-end encryption. If there’s a breach, there’s literally no password database to dump. This raises a real question: If you w…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qb9m44</guid>
       <pubDate>Mon, 12 Jan 2026 22:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>我最近发现了这个AI网站 / I Recently found this AI site</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbdaa3/i_recently_found_this_ai_site/</link>
+      <description>我知道这听起来像在推广，可能确实如此，但我真的只是想分享这个新发现。我对整个AI领域还不太熟悉，但说实话，A2E（AI to Everything）就像那种你一遇到就会立刻想“等等，怎么没更多人讨论它？”的AI工具。它出奇地易用，即使你不懂技术，也完全适合只想创作和生成AI图片的人，或者像我这样刚接触AI工具的新手。和其他工具一样，你可以把简单的想法、图像或语音在几分钟内变成视觉化且吸引人的内容，这种即时回报感真的很满足。你可以尝试、摆弄……
+
+---
+
+Original:
+know it sounds like I'm promoting, which I probably am but I really just wanna share this new stuff I found. Im not really big into this whole AI thing since im still new to it but honestly, A2E feels like one of those AI tools you stumble on and immediately think, “wait, why aren’t more people talking about this?". It’s surprisingly easy to use, even if youre not super technical, which makes it perfect for people who just want to create and generate AI pics, or someone who is new to AI tools like me. Like all other tools you can turn a simple idea, image, or voice into something visual and engaging in minutes, and that instant payoff feels really satisfying. You can experiment, mess around,…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbdaa3</guid>
+      <pubDate>Tue, 13 Jan 2026 01:04:14 +0000</pubDate>
     </item>
     <item>
       <title>Firecrawl在大规模数据提取方面表现不佳 / Firecrawl sucks for extraction at scale</title>

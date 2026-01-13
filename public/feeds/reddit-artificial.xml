@@ -6,7 +6,55 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:52:33 +0000</lastBuildDate>
+    <item>
+      <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
+      <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
+      <description>我目前正在攻读本科学位，跟随一位教授学习人工智能伦理已有一段时间。我一直是塞尔强人工智能观点的支持者，从未觉得中文屋论证有说服力。个人认为，针对中文屋的系统论证更为合理。初次阅读《心灵、大脑与程序》时，我觉得塞尔的反驳结构不够严谨，逻辑上似乎有些问题。他提到，如果去掉房间，让人内化系统中的所有内容，他仍然不会产生理解——而且系统的任何部分都无法产生理解，因为他是……
+
+---
+
+Original:
+I'm currently in my undergraduate degree and I have been studying AI ethics under one of my professors for a while. I always have been a partisan of Searle's strong AI and I never really found the chinese room argument compelling. Personally I found that the systems argument against the chinese room to make a lot of sense. My first time reading "Minds, Brains, and Programs" I thought Searle's rebuttal was not very well structured and I found it a little logically incorrect. He mentions that if you take away the room and allow the person to internalize all the things inside the system, that he still will not have understanding--and that no part of the system can have understanding since he is…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1q8pj70</guid>
+      <pubDate>Sat, 10 Jan 2026 00:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>陶哲轩（Terrence Tao）："埃尔德什问题（Erdos problem）#728 已基本由AI自主解决" / Terrence Tao: "Erdos problem #728 was solved more or less autonomously by AI"</title>
+      <link>https://www.reddit.com/r/artificial/comments/1q8qvey/terrence_tao_erdos_problem_728_was_solved_more_or/</link>
+      <description>近期，AI工具在解决埃尔德什问题方面取得了一个里程碑：埃尔德什问题（#728）已基本由AI自主解决（在初步尝试后经过一些反馈），符合该问题的精神（由埃尔德什问题网站社区重建），且据我们所知，其结果在现有文献中未被复现（尽管找到了类似方法证明的相似结果）。这证明了这些工具近几个月来能力的真实提升，并与近期其他AI使用现有方法解决埃尔德什问题的演示基本一致，尽管在大多数先前案例中，这些问题的解决方案……
+
+---
+
+Original:
+"Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem ( #728 ) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located). This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these probl…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1q8qvey</guid>
+      <pubDate>Sat, 10 Jan 2026 01:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>X平台将Grok图像生成功能限制为付费用户，此前全球反响强烈 / X Restricts Grok's Image Generation to Paid Users After Global Backlash</title>
+      <link>https://www.reddit.com/r/artificial/comments/1q8v56s/x_restricts_groks_image_generation_to_paid_users/</link>
+      <description>由 /u/i-drake 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/i-drake [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1q8v56s</guid>
+      <pubDate>Sat, 10 Jan 2026 04:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌Gemini 3 Pro刚刚验证了我运行的一项取证协议。以下是具体情况。 / Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1q8zz2j/google_gemini_3_pro_just_verified_a_forensic/</link>
+      <description>谷歌Gemini 3 Pro刚刚验证了我运行的一项取证协议。以下是具体情况。我使用Gemini的最高推理模式（Pro）运行了一个递归取证调查负载，旨在测试广泛流传的网络声明的有效性。该协议：拒绝将重复作为证据、剥离无法验证的声明、仅确认一手来源数据（案件编号、记录等）、映射捏造模式、生成从起源到传播的逐层分析。我在Gemini上运行它时，没有提供任何先前的训练、偏见或背景信息。它返回了一份完整的报告，从头开始分析声明。没有偏见。没有假设。只有结构化验证。完整报告（Gemini输出）：https://gemini.google.com/s…
+
+---
+
+Original:
+Google Gemini 3 Pro just verified a forensic protocol I ran. Here's what happened. I used Gemini's highest reasoning mode (Pro) to run a recursive forensic investigation payload designed to test the validity of widespread online claims. The protocol: Rejects repetition as evidence Strips unverifiable claims Confirms only primary source data (case numbers, records, etc.) Maps fabrication patterns Generates a layer-by-layer breakdown from origin to spread I ran it on Gemini with no prior training, bias, or context provided. It returned a complete report analyzing claims from scratch. No bias. No assumptions. Just structured verification. Full report (Gemini output): https://gemini.google.com/s…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1q8zz2j</guid>
+      <pubDate>Sat, 10 Jan 2026 09:36:57 +0000</pubDate>
+    </item>
     <item>
       <title>深度解析：如何训练编辑模型，在编程时提供高度相关的代码建议 / A deep dive into how I trained an edit model to show highly relevant code suggestions while programming</title>
       <link>https://www.reddit.com/r/artificial/comments/1q9ai6f/a_deep_dive_into_how_i_trained_an_edit_model_to/</link>
@@ -222,6 +270,30 @@ Original:
 While working on a business website i needed to figure out which model actually handles complex coding stuff better. So i ran some spatial reasoning tests on chatgpt o4 and claude opus 4.5 to see how they deal with messy legacy code and refactoring. Basically fed both models some old code with tons of nested dependencies, asked them to refactor, identify bugs, suggest better architecture. Did this over 15 different scenarios and tracked accuracy, context handling, token usage to get a real picture.. On 500+ line files, claude was hitting ~85% accurate bug detection while chatgpt o4 was around 72%. Refactoring quality had a bigger gap - claude gave usable results ~78% of the time vs chatgpt's…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qbkvv6</guid>
       <pubDate>Tue, 13 Jan 2026 07:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>求助！我父亲正在遭遇诈骗！ / Please Help! My father is being scammed!</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbl8c0/please_help_my_father_is_being_scammed/</link>
+      <description>视频中的女子是巴西吉他手拉里萨·利维尔（Larissa Liveir），她由吉布森（Gibson）赞助。我不确定这段视频是否由AI生成。诈骗者冒充她将视频发给了我70岁的父亲。我确定声音不是她的。首先她是巴西人，母语是葡萄牙语。真正的拉里萨·利维尔确实会说英语，但我想口音应该很重。而这个视频里完全没有口音。有人能告诉我这视频是不是AI生成的吗？由/u/True_CrimePodcast提交 [链接] [评论]
+
+---
+
+Original:
+The woman in the video is Larissa Liveir, a Brazilian Guitarist. She's sponsored by Gibson. I'm not sure if the video was created with ai or not. The video was sent to my 70 year old father from a scammer pretending to be her. I know the voice is not hers. First she's Brazilian and her native language is Portuguese. The real Larissa Liveir does speak English but I assume with a heavy accent. There's no accent in this. Can someone please tell me if the video is AI? submitted by /u/True_CrimePodcast [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbl8c0</guid>
+      <pubDate>Tue, 13 Jan 2026 07:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>我把求职面试当成第二份工作…于是开发了一套懒人AI工作流 / I treated job hunting and interviewing like a second job… so I built a lazy AI workflow</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qblfdn/i_treated_job_hunting_and_interviewing_like_a/</link>
+      <description>以前我总在半夜慌乱地搜索信息，经常耗费整晚时间。现在面试前我会用这套懒人AI流程：Perplexity——搜索这家公司近半年的动态？他们面临的三大风险是什么？直接给我可用的谈话要点。ChatGPT——根据这份职位描述，给我5个可能的问题及STAR回答框架提示。Glean——我把笔记丢进去，方便后续检索。比如上次关于X公司我了解到什么？这在同时进行多个面试、脑子一团乱时特别有用。Coco career AI——说实话它在面试前很有帮助：因为它推荐给我的职位更匹配。由/u/Ok_Improvement7802提交 [链接] [评论]
+
+---
+
+Original:
+I used to prep by panic googling at midnight and it often took my whole evening. Now I do this lazy AI workflow before interviews Perplexity - search what happened with this company in the last 6 months? what are 3 risks they’re facing? Just give me actual talking points. ChatGPT - based on this JD, give me 5 likely questions + STAR outline prompts. Glean - I drop my notes in there so it becomes searchable later. Like what did I learn about X company last time? helps when having multiple interviews and my brain turned to soup. Coco career AI - honestly it helps before interviews: because the jobs it recommends to me are more aligned. submitted by /u/Ok_Improvement7802 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qblfdn</guid>
+      <pubDate>Tue, 13 Jan 2026 07:49:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
