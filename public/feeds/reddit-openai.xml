@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:29:13 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -667,6 +667,18 @@ Original:
 submitted by /u/ReginaldxFairfield [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc5vke</guid>
       <pubDate>Tue, 13 Jan 2026 22:40:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>最近几天ChatGPT的表现是否明显变差了？ / Has ChatGPT gotten noticeably worse in the last few days?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc6yvk/has_chatgpt_gotten_noticeably_worse_in_the_last/</link>
+      <description>最近几天使用ChatGPT时，感觉体验明显变差了。回答变得敷衍，经常出错，我常常需要反复问同一个问题才能得到可用的回复。它有时甚至不知道当天日期，给出的解决方案过于简单或完全错误，还会完全忽略我之前明确解释过或早已保存在记忆中的内容。这尤其令人沮丧，因为我订阅Plus服务已经很久了。最近的质量下滑如此明显，以至于我真的在考虑取消订阅。是最近有什么变动吗？还是只有我一个人遇到这种情况？ 提交者：/u/crazyserb89 [链接] [评论]
+
+---
+
+Original:
+Over the last few days, ChatGPT feels noticeably worse to use. The answers are lower effort, often incorrect, and I frequently need to ask the same question multiple times to get a usable response. It sometimes doesn’t even know what day it is, gives overly simplistic or outright wrong solutions, and completely ignores things I clearly explained earlier or that were saved in memory long ago. This is especially frustrating because I’ve been on a Plus subscription for a long time. The recent drop in quality is so obvious that I’m genuinely considering canceling. Did something change recently, or am I the only one experiencing this? submitted by /u/crazyserb89 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc6yvk</guid>
+      <pubDate>Tue, 13 Jan 2026 23:24:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

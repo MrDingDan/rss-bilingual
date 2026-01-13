@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:55:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:29:41 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -366,6 +366,18 @@ Original:
 submitted by /u/RaguSaucy96 [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qbxvcp</guid>
       <pubDate>Tue, 13 Jan 2026 17:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何在Android设备上选择本地AI图像超分，而非云端方案 / Why to choose on device AI image upscaling over cloud-based solutions on Android.</title>
+      <link>https://www.reddit.com/r/Android/comments/1qc0gkx/why_to_choose_on_device_ai_image_upscaling_over/</link>
+      <description>借助现代Android硬件，AI图像超分现已能完全在设备本地运行，无需依赖云端服务器。这在多数情况下相比云端方案具有明显优势：• 内置隐私保护：图像始终不离开设备，无需上传、无服务器介入、无第三方访问。• 离线可靠性：飞行模式下仍可工作，不受网络质量或服务器运行状态影响。• 性能可预测：无上传/下载延迟或服务器排队问题，运行速度仅取决于本地硬件。• 无使用限制：云端推理涉及持续的GPU成本，常导致使用上限或付费门槛。• 硬件已就绪：当前Android设备的GPU/CPU已能处理超分辨率与图像增强；实际...
+
+---
+
+Original:
+With modern Android hardware, AI image upscaling can now run fully on device instead of relying on cloud servers. In many cases, this has clear advantages over cloud based solutions. • Privacy by design: Images never leave the device. No uploads, no servers, no third party access. • Offline reliability: Works in airplane mode with no dependency on network quality or server uptime. • Predictable performance: No upload/download latency or server queueing runtime depends only on local hardware. • No usage caps : Cloud inference has ongoing GPU costs that often lead to limits or paywalls. • Hardware is ready: Current Android GPUs/CPUs can handle super resolution and image enhancement; the real l…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qc0gkx</guid>
+      <pubDate>Tue, 13 Jan 2026 19:18:56 +0000</pubDate>
     </item>
     <item>
       <title>不想关联银行账户，我开发了一款注重隐私的小型开销追踪器 / Built a small privacy-first expense tracker because I didn’t want to link my bank accounts</title>

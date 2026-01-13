@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:53:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:28:45 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -630,6 +630,30 @@ Original:
 I vibecoded an agentic application. It does things based on triggers, and decides what actions to take based on a heuristic analysis. It works. It's agentic. I didn't llthink before hand about what kind of framework to use. What have I missed by not using one? submitted by /u/Future-Field [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc5gdw</guid>
       <pubDate>Tue, 13 Jan 2026 22:24:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>有没有全栈网站开发AI？ / Any full stack website dev ai's?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc6gtg/any_full_stack_website_dev_ais/</link>
+      <description>大家好，我正在为几个朋友的生意开发几个网站，想看看有没有办法省去大部分甚至全部实际工作的麻烦，哈哈。我听说现在有全栈自动AI网站生成器，只需输入提示词，就能生成一个虽不算完美但可用的网站。不知道这些是不是真的，如果是的话，能帮我节省大量时间，而且我也想试试看。欢迎提供任何链接或建议。 由/u/Datboiwalkin69提交 [链接] [评论]
+
+---
+
+Original:
+Hey yall, Im startin work on a few websites for a few of my friends businesses and wanted to see if there was a way to cut out most if not all the effort from actually doing it lol I've heard that there are now full stack automated ai website generators now, where I just stick in a prompt and out comes a less than decent but usable site. I dont know if those are true, but if they are it'll save me a bunch of time, and I kinda wanna play around with it. Any links or recommendations are always welcome submitted by /u/Datboiwalkin69 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc6gtg</guid>
+      <pubDate>Tue, 13 Jan 2026 23:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP服务器与Python应用有何区别 / What is the difference between a MCP server and a python app</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc6jln/what_is_the_difference_between_a_mcp_server_and_a/</link>
+      <description>我是智能体和MCP服务器的新手。目前我有一个MCP服务器，它运行着一个能进行REST API调用（GET、PUT、PATCH、CREATE和DELETE）的Python应用。配置如下："mcp_server": { "type": "stdio", "command": "./venv/bin/python", "args": [ "/mcp/server.py" ] }。如果直接让我的AI模型使用这个在本地独立运行的应用，会有什么不同？简单来说，我想了解MCP能带来什么优势？由/u/SnooPineapples8185提交 [链接] [评论]
+
+---
+
+Original:
+I am new to agents and MCP servers. Currently, I have a MCP server which runs a python app which makes REST API calls (GET, PUT, PATCH, CREATE and DELETE) "mcp_server": { "type": "stdio", "command": "./venv/bin/python", "args": [ "/mcp/server.py" ] } What difference would it make if I instruct my AI model to use this app standalone running on localhost? Basically, where I am going with this is what benefit does MCP offer ? submitted by /u/SnooPineapples8185 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc6jln</guid>
+      <pubDate>Tue, 13 Jan 2026 23:07:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

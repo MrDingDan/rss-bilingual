@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:29:03 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -606,6 +606,18 @@ Original:
 I have a project with a story, we have all the documents we need like characters, timeliness etc etc and so far so good. Problem is, recently whenever I need to update a chapter in the knowledge and I ask it to review it, it says he can't see some lines because they're truncated. I upload docx files but the problem surges only once in a while, especially for chapters rather than "here's the doc about characters". I'm feeling dumb and I don't know what I'm doing wrong. Is it the docx format? Something else? Thnx in advance (P. S. I'm a pro user) submitted by /u/TheTideEbbs [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qc3q86</guid>
       <pubDate>Tue, 13 Jan 2026 21:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic刚推出每月100美元的“Claude Cowork”，我上周已构建开源版本（免费） / Anthropic just launched "Claude Cowork" for $100/mo. I built the Open Source version last week (for free)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc5g4s/anthropic_just_launched_claude_cowork_for_100mo_i/</link>
+      <description>仓库：https://github.com/Prof-Harita/terminaI 新闻：昨天，Anthropic推出了Claude Cowork——一个能控制你桌面的智能体。它每月收费100美元，并将你的数据流传输至其云端。讽刺的是：我其实在7天前就完成了这个完全相同的工具。我坚信，在适当的防护机制下，这类工具或Claude Cowork是计算机的自然演进。项目：它名为TerminaI，是一个主权优先、本地优先的系统操作器。Cowork与TerminaI对比：Cowork：依赖云端，每月100美元，安全机制不透明。TerminaI：在本地硬件运行，免费（Apache 2.0协议），并使用“系统2”策略引擎，在执行危险操作前请求许可。“无限”差异……
+
+---
+
+Original:
+Repo: https://github.com/Prof-Harita/terminaI ​The News: Yesterday, Anthropic launched Claude Cowork—an agent that controls your desktop. It costs $100/month and streams your data to their cloud. ​The Irony: I actually finished building this exact tool 7 days ago. I thoroughly believe that with right guardrails this or Claude Cowork are the natural evolution of computers. ​The Project: It’s called TerminaI. It is a Sovereign, Local-First System Operator. ​Cowork vs. TerminaI: ​Cowork: Cloud-tethered, $100/mo, opaque safety rails. ​TerminaI: Runs on your metal, Free (Apache 2.0), and uses a "System 2" policy engine that asks for permission before doing dangerous things. ​The "Limitless" Diffe…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc5g4s</guid>
+      <pubDate>Tue, 13 Jan 2026 22:24:12 +0000</pubDate>
     </item>
     <item>
       <title>Claude的macOS应用：多账户管理、使用限制追踪、CLI集成与自动启动会话 / macOS app for Claude: Multi-profile management, Track Claude usage limits, CLI integration, and auto-start sessions</title>

@@ -6,115 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:57:17 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 利用内部客户数据创建AI智能体 / Creating AI Agents with internal customer's data</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbsuyb/creating_ai_agents_with_internal_customers_data/</link>
-      <description>大家好！希望各位一切顺利！我正准备为我们的网页应用添加一些AI智能体。我们正在使用FastAPI和Agno框架。我们希望让客户（用户）能够将他们自己的数据连接到AI智能体，从而获得对其数据更深入的洞察和相关信息。这些数据可能涵盖各类企业资源管理系统（ERMs）、谷歌应用、文档、数据库、GitHub、Jira、Linear等多种来源。最终我们希望支持所有类型的数据接入。这方面有哪些最佳实践？其他公司是如何实现这类集成的？非常感谢！由/u/Separate_Bid_8352提交 [链接] [评论]
-
----
-
-Original:
-Hey everyone! Hope you are all doing well! I am about to add some AI Agents to our web app. We are using FastAPI and Agno. We would like to let customers (users) to connect their own data to the AI Agent, to get better insights and relevant information for their data. This data can range from different kinds of ERMs, Google apps, docs, databases, GitHub, Jira, Linear, etc. Eventually we would like to support everything. What are the best practices about that? How are other companies doing such integrations? Thanks a lot!!! submitted by /u/Separate_Bid_8352 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbsuyb</guid>
-      <pubDate>Tue, 13 Jan 2026 14:32:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 打造竞技场：一个认知竞争的公共空间 / Building the Arena: A public space for cognitive competition.</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qbsv8k/building_the_arena_a_public_space_for_cognitive/</link>
-      <description>我正在开发Arena，这是一个用于实际测试提示词与认知系统的开放环境。目标是让人们能够比较不同方法，并理解真正有效的方案。它目前还不是最终产品，而是一个为学习、演进和持续反馈而构建的系统。我在此分享是为了收集意见，并从此改进其架构。由 /u/mclovin1813 提交 [链接] [评论]
-
----
-
-Original:
-I'm developing Arena as an open environment to test prompts and cognitive systems in practice. The goal is to allow people to compare different approaches and understand what really works. It's not a final product yet; it's a system under construction designed for learning, evolution, and continuous feedback. I'm sharing it here to gather opinions and improve the architecture from now on. submitted by /u/mclovin1813 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qbsv8k</guid>
-      <pubDate>Tue, 13 Jan 2026 14:33:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 社会视为'正常'，你却深感不健康的现象有哪些？ / What’s something society treats as “normal” that feels deeply unhealthy to you?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbsw2p/whats_something_society_treats_as_normal_that/</link>
-      <description>由用户 /u/moonixa1 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/moonixa1 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbsw2p</guid>
-      <pubDate>Tue, 13 Jan 2026 14:33:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 哪个瞬间彻底改变了你的世界观？ / What’s a moment that completely changed how you see the world?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbsym5/whats_a_moment_that_completely_changed_how_you/</link>
-      <description>由用户 /u/lyrissaa 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/lyrissaa [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbsym5</guid>
-      <pubDate>Tue, 13 Jan 2026 14:36:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] Pixel 6 与 Pixel 7 更新缺失：原因解析... / Pixel 6 and Pixel 7 Updates are Missing: Here’s What is Happening...</title>
-      <link>https://www.reddit.com/r/Android/comments/1qbsyz9/pixel_6_and_pixel_7_updates_are_missing_heres/</link>
-      <description>由 /u/Tornado15550 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Tornado15550 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qbsyz9</guid>
-      <pubDate>Tue, 13 Jan 2026 14:37:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 我卖出了第一个智能体（Agent），接下来呢？ / I've sold my first Agent, now what?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbtc95/ive_sold_my_first_agent_now_what/</link>
-      <description>大约两个月前，一家公司联系我，说他们需要一个专门用于撰写公开招标提案的AI。考虑到大语言模型（LLM）固有的不确定性，我担心可能的结果，但还是决定接下这个项目。在初期阶段，我的指导原则是：迭代、迭代、再迭代。因此，我发布了一个定制GPT作为最小可行产品（MVP），供他们测试。通过反馈会议，我改进了暴露出的缺陷。大约一个月后，我成功交付了一个相当不错的定制GPT，他们对结果感到满意。然而，我完全不清楚他们如何使用这个智能体，这让我感到困扰。在这种情况下……
-
----
-
-Original:
-A company contacted me around 2 months ago saying they needed an AI specifically to help them with writing public tenders proposals. Given the innate non-deterministic nature of LLMs I was worried about the possible outcome of this but, still, i decided to take the project. My guinding principle in the first phases has been Iterate, iterate, iterate. So i put out a custom GPT as an MVP to let them test it out. Done feedback sessions and improved upon fallacies that come out. In around 1 month I was able to give them a pretty good custom GPT and they are happy with the results. Still, I feel i have absolute 0 visibility on what they are doing with the agent and this bothers me. In this case f…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbtc95</guid>
-      <pubDate>Tue, 13 Jan 2026 14:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你希望成年人在哪些事情上能对年轻人更坦诚？ / What’s something you wish adults were more honest about with younger people?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbtdn0/whats_something_you_wish_adults_were_more_honest/</link>
-      <description>由用户 /u/silvii4 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/silvii4 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbtdn0</guid>
-      <pubDate>Tue, 13 Jan 2026 14:53:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 哪些体现情绪成熟度的迹象，是人们谈论得不够多的？ / What’s a sign someone is emotionally mature that people don’t talk about enough?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbte6m/whats_a_sign_someone_is_emotionally_mature_that/</link>
-      <description>由 /u/auryxaa 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/auryxaa [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbte6m</guid>
-      <pubDate>Tue, 13 Jan 2026 14:54:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 哪款AI最适合浏览并解答编程问题PDF？ / What’s the best AI for looking through and answering a PDF of coding questions?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qbtiqs/whats_the_best_ai_for_looking_through_and/</link>
-      <description>问题如标题所述，我有一份6页的SQL和Python问题PDF，希望借助AI一起查阅。文件包含各类数据表截图和示例代码。哪个平台最适合这个需求？由/u/katokk提交 [链接] [评论]
-
----
-
-Original:
-Question is title basically, I have a 6 page pdf of SQL and python questions I want the help of AI to look through with me. It has various screenshots of tables and example code. What platform would be best for this? submitted by /u/katokk [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qbtiqs</guid>
-      <pubDate>Tue, 13 Jan 2026 14:59:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 23:30:09 +0000</lastBuildDate>
     <item>
       <title>[reddit_chatgpt] 试图从我儿子的官方宝可梦贴纸书中找出这个宝可梦的名字… / Trying to figure out this Pokémon name from my son’s official Pokémon sticker book…</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbtwhc/trying_to_figure_out_this_pokémon_name_from_my/</link>
@@ -903,6 +795,18 @@ submitted by /u/Perfect_Natural3931 [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 19:18:02 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_android] 为何在Android设备上选择本地AI图像超分，而非云端方案 / Why to choose on device AI image upscaling over cloud-based solutions on Android.</title>
+      <link>https://www.reddit.com/r/Android/comments/1qc0gkx/why_to_choose_on_device_ai_image_upscaling_over/</link>
+      <description>借助现代Android硬件，AI图像超分现已能完全在设备本地运行，无需依赖云端服务器。这在多数情况下相比云端方案具有明显优势：• 内置隐私保护：图像始终不离开设备，无需上传、无服务器介入、无第三方访问。• 离线可靠性：飞行模式下仍可工作，不受网络质量或服务器运行状态影响。• 性能可预测：无上传/下载延迟或服务器排队问题，运行速度仅取决于本地硬件。• 无使用限制：云端推理涉及持续的GPU成本，常导致使用上限或付费门槛。• 硬件已就绪：当前Android设备的GPU/CPU已能处理超分辨率与图像增强；实际...
+
+---
+
+Original:
+With modern Android hardware, AI image upscaling can now run fully on device instead of relying on cloud servers. In many cases, this has clear advantages over cloud based solutions. • Privacy by design: Images never leave the device. No uploads, no servers, no third party access. • Offline reliability: Works in airplane mode with no dependency on network quality or server uptime. • Predictable performance: No upload/download latency or server queueing runtime depends only on local hardware. • No usage caps : Cloud inference has ongoing GPU costs that often lead to limits or paywalls. • Hardware is ready: Current Android GPUs/CPUs can handle super resolution and image enhancement; the real l…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qc0gkx</guid>
+      <pubDate>Tue, 13 Jan 2026 19:18:56 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 智能体可观测性与常规应用监控大不相同——维护者视角 / Agent observability is way different from regular app monitoring - maintainer's pov</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qc0i28/agent_observability_is_way_different_from_regular/</link>
       <description>我在Maxim负责可观测性方面的工作。一直在思考传统的APM工具为何不适用于智能体工作流。智能体并非单一API调用，而是涉及工具调用、检索步骤、推理链和外部API调用的多轮对话。当出现故障时，你需要完整的执行路径，而不仅仅是错误日志。我们构建了多级分布式追踪——完整对话的会话、单个交互的追踪、以及特定步骤（如LLM调用或工具使用）的跨度。这在调试时帮助很大。另一个有用的部分是在生产日志上持续运行自动化评估，跟踪质量指标（相关性、忠实度、幻觉…）
@@ -1179,6 +1083,18 @@ submitted by /u/HrodnandB [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 20:31:17 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 有哪些细微迹象表明某人其实非常愚钝，却偏要装作聪明？ / What is a subtle sign that someone is incredibly dumb but pretending to be smart?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc2kxm/what_is_a_subtle_sign_that_someone_is_incredibly/</link>
+      <description>由用户 /u/Alternative-Week8667 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Alternative-Week8667 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc2kxm</guid>
+      <pubDate>Tue, 13 Jan 2026 20:36:51 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] 听说能用OpenAI训练视频模型，是真的吗？ / So I hear that you can train videos with openai, is that true?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qc2obk/so_i_hear_that_you_can_train_videos_with_openai/</link>
       <description>我想训练一个模型来读取视频片段，并在多人团体运动（主要是篮球、足球等）中识别特定事件。一位LLM训练师告诉我可以通过开放平台和微调实现，但我在开发平台上从未见过类似功能。真有这回事吗？真的能用OpenAI为视频中的特定事件打时间戳吗？ 提交者：/u/AWeb3Dad [链接] [评论]
@@ -1249,6 +1165,18 @@ Original:
 submitted by /u/zsolt67 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qc385r</guid>
       <pubDate>Tue, 13 Jan 2026 21:01:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 这不正是第二修正案支持者所担心的吗？他们现在在哪？ / Isn't this exactly what the 2A proponents were afraid of? Where are they now?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc39vs/isnt_this_exactly_what_the_2a_proponents_were/</link>
+      <description>由 /u/theminnesoregonian 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/theminnesoregonian [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc39vs</guid>
+      <pubDate>Tue, 13 Jan 2026 21:03:10 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_chatgpt] 我的ChatGPT在对话中突然开始引用冯兹（Fonzie）的话……可我压根没提过冯兹，当时正在问关于小猫的事。 / My chatgpt suddenly started quoting Fonzie at me in a conversation... I've not once mentioned Fonzie, ever. I was asking about a kitten.</title>
@@ -1371,6 +1299,18 @@ Source: Google Research submitted by /u/BuildwithVignesh [link] [comments]</desc
       <pubDate>Tue, 13 Jan 2026 22:10:31 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] Anthropic刚推出每月100美元的“Claude Cowork”，我上周已构建开源版本（免费） / Anthropic just launched "Claude Cowork" for $100/mo. I built the Open Source version last week (for free)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc5g4s/anthropic_just_launched_claude_cowork_for_100mo_i/</link>
+      <description>仓库：https://github.com/Prof-Harita/terminaI 新闻：昨天，Anthropic推出了Claude Cowork——一个能控制你桌面的智能体。它每月收费100美元，并将你的数据流传输至其云端。讽刺的是：我其实在7天前就完成了这个完全相同的工具。我坚信，在适当的防护机制下，这类工具或Claude Cowork是计算机的自然演进。项目：它名为TerminaI，是一个主权优先、本地优先的系统操作器。Cowork与TerminaI对比：Cowork：依赖云端，每月100美元，安全机制不透明。TerminaI：在本地硬件运行，免费（Apache 2.0协议），并使用“系统2”策略引擎，在执行危险操作前请求许可。“无限”差异……
+
+---
+
+Original:
+Repo: https://github.com/Prof-Harita/terminaI ​The News: Yesterday, Anthropic launched Claude Cowork—an agent that controls your desktop. It costs $100/month and streams your data to their cloud. ​The Irony: I actually finished building this exact tool 7 days ago. I thoroughly believe that with right guardrails this or Claude Cowork are the natural evolution of computers. ​The Project: It’s called TerminaI. It is a Sovereign, Local-First System Operator. ​Cowork vs. TerminaI: ​Cowork: Cloud-tethered, $100/mo, opaque safety rails. ​TerminaI: Runs on your metal, Free (Apache 2.0), and uses a "System 2" policy engine that asks for permission before doing dangerous things. ​The "Limitless" Diffe…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc5g4s</guid>
+      <pubDate>Tue, 13 Jan 2026 22:24:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 我真的需要一个框架吗？ / Do I really need a framework?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qc5gdw/do_i_really_need_a_framework/</link>
       <description>我凭直觉编写了一个具备自主能力的应用程序。它能根据触发器执行操作，并通过启发式分析决定采取何种行动。它能正常运行，也具备自主性。我事先并没有考虑要使用哪种框架。那么，不采用框架我错过了什么？由 /u/Future-Field 提交 [链接] [评论]
@@ -1453,6 +1393,66 @@ Original:
 I got a Google home after we moved into our new place because we had a nest thermostat, and camera installed. I upgraded from my Alexa clock, with the home premium account you can use gemini to search the video it records, I don't have that feature.... So, we come home to the front door wide open and all the cats still inside.. little did we know they actually had an adventure while we were gone. I couldn't find one cat for 20 minutes so I watched all the footage to see if she left... You can literally watch my dog and one of the cats go in and out of the door for the hour or so we were gone, my damned Husky didn't run off, its kinda hilarious because they act like its totally normal that th…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qc62jx</guid>
       <pubDate>Tue, 13 Jan 2026 22:48:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 我对谷歌通用商务协议（UCP）的观察：一个优雅的“协议联盟”与不可避免的协议战争 / My Observations on Google’s Universal Commerce Protocol (UCP): An Elegant “Protocol Alliance” and the Inevitable Protocol War</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qc69d0/my_observations_on_googles_universal_commerce/</link>
+      <description>从技术愿景来看，谷歌的UCP堪称顶层设计的典范。它并未打造另一个封闭生态，而是将自己定位为“协议联盟”的领导者，将关键现有协议——A2A（智能体通信）、MCP（工具访问）、AP2（支付授权）——以“商业交易”为主线串联起来。这好比为AI驱动的商业世界起草一部宪法，不仅规定了其公民（AI智能体）的权利与义务，还定义了货币（支付）与外交（跨平台协作）的规则。从技术上讲，UCP的卓越之处在于“组合优于创造”：接口抽象的艺术……
+
+---
+
+Original:
+Google’s UCP, from a technical vision standpoint, is a masterclass in top-level design. Rather than building yet another walled garden, it has positioned itself as the leader of a “protocol alliance,” weaving together key existing protocols—A2A (agent communication), MCP (tool access), AP2 (payment authorization)—with the common thread of “commercial transactions.” It’s akin to drafting a constitution for the AI-powered commerce world, defining not only the rights and duties of its citizens (AI agents) but also the rules for currency (payments) and diplomacy (cross-platform collaboration). Technically, UCP’s brilliance lies in “composition over creation”: The Art of Interface Abstraction: It…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qc69d0</guid>
+      <pubDate>Tue, 13 Jan 2026 22:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 根据我们的对话，在虾类起义期间你会如何对待我？ / Based on our conversations, how would you treat me during a shrimp uprising?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc6ar7/based_on_our_conversations_how_would_you_treat_me/</link>
+      <description>由 /u/Squirt_Angle 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Squirt_Angle [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc6ar7</guid>
+      <pubDate>Tue, 13 Jan 2026 22:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 有没有全栈网站开发AI？ / Any full stack website dev ai's?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc6gtg/any_full_stack_website_dev_ais/</link>
+      <description>大家好，我正在为几个朋友的生意开发几个网站，想看看有没有办法省去大部分甚至全部实际工作的麻烦，哈哈。我听说现在有全栈自动AI网站生成器，只需输入提示词，就能生成一个虽不算完美但可用的网站。不知道这些是不是真的，如果是的话，能帮我节省大量时间，而且我也想试试看。欢迎提供任何链接或建议。 由/u/Datboiwalkin69提交 [链接] [评论]
+
+---
+
+Original:
+Hey yall, Im startin work on a few websites for a few of my friends businesses and wanted to see if there was a way to cut out most if not all the effort from actually doing it lol I've heard that there are now full stack automated ai website generators now, where I just stick in a prompt and out comes a less than decent but usable site. I dont know if those are true, but if they are it'll save me a bunch of time, and I kinda wanna play around with it. Any links or recommendations are always welcome submitted by /u/Datboiwalkin69 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc6gtg</guid>
+      <pubDate>Tue, 13 Jan 2026 23:04:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] MCP服务器与Python应用有何区别 / What is the difference between a MCP server and a python app</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc6jln/what_is_the_difference_between_a_mcp_server_and_a/</link>
+      <description>我是智能体和MCP服务器的新手。目前我有一个MCP服务器，它运行着一个能进行REST API调用（GET、PUT、PATCH、CREATE和DELETE）的Python应用。配置如下："mcp_server": { "type": "stdio", "command": "./venv/bin/python", "args": [ "/mcp/server.py" ] }。如果直接让我的AI模型使用这个在本地独立运行的应用，会有什么不同？简单来说，我想了解MCP能带来什么优势？由/u/SnooPineapples8185提交 [链接] [评论]
+
+---
+
+Original:
+I am new to agents and MCP servers. Currently, I have a MCP server which runs a python app which makes REST API calls (GET, PUT, PATCH, CREATE and DELETE) "mcp_server": { "type": "stdio", "command": "./venv/bin/python", "args": [ "/mcp/server.py" ] } What difference would it make if I instruct my AI model to use this app standalone running on localhost? Basically, where I am going with this is what benefit does MCP offer ? submitted by /u/SnooPineapples8185 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc6jln</guid>
+      <pubDate>Tue, 13 Jan 2026 23:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 最近几天ChatGPT的表现是否明显变差了？ / Has ChatGPT gotten noticeably worse in the last few days?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc6yvk/has_chatgpt_gotten_noticeably_worse_in_the_last/</link>
+      <description>最近几天使用ChatGPT时，感觉体验明显变差了。回答变得敷衍，经常出错，我常常需要反复问同一个问题才能得到可用的回复。它有时甚至不知道当天日期，给出的解决方案过于简单或完全错误，还会完全忽略我之前明确解释过或早已保存在记忆中的内容。这尤其令人沮丧，因为我订阅Plus服务已经很久了。最近的质量下滑如此明显，以至于我真的在考虑取消订阅。是最近有什么变动吗？还是只有我一个人遇到这种情况？ 提交者：/u/crazyserb89 [链接] [评论]
+
+---
+
+Original:
+Over the last few days, ChatGPT feels noticeably worse to use. The answers are lower effort, often incorrect, and I frequently need to ask the same question multiple times to get a usable response. It sometimes doesn’t even know what day it is, gives overly simplistic or outright wrong solutions, and completely ignores things I clearly explained earlier or that were saved in memory long ago. This is especially frustrating because I’ve been on a Plus subscription for a long time. The recent drop in quality is so obvious that I’m genuinely considering canceling. Did something change recently, or am I the only one experiencing this? submitted by /u/crazyserb89 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc6yvk</guid>
+      <pubDate>Tue, 13 Jan 2026 23:24:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

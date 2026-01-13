@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:29:23 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -462,6 +462,18 @@ Original:
 I got a Google home after we moved into our new place because we had a nest thermostat, and camera installed. I upgraded from my Alexa clock, with the home premium account you can use gemini to search the video it records, I don't have that feature.... So, we come home to the front door wide open and all the cats still inside.. little did we know they actually had an adventure while we were gone. I couldn't find one cat for 20 minutes so I watched all the footage to see if she left... You can literally watch my dog and one of the cats go in and out of the door for the hour or so we were gone, my damned Husky didn't run off, its kinda hilarious because they act like its totally normal that th…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qc62jx</guid>
       <pubDate>Tue, 13 Jan 2026 22:48:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>我对谷歌通用商务协议（UCP）的观察：一个优雅的“协议联盟”与不可避免的协议战争 / My Observations on Google’s Universal Commerce Protocol (UCP): An Elegant “Protocol Alliance” and the Inevitable Protocol War</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qc69d0/my_observations_on_googles_universal_commerce/</link>
+      <description>从技术愿景来看，谷歌的UCP堪称顶层设计的典范。它并未打造另一个封闭生态，而是将自己定位为“协议联盟”的领导者，将关键现有协议——A2A（智能体通信）、MCP（工具访问）、AP2（支付授权）——以“商业交易”为主线串联起来。这好比为AI驱动的商业世界起草一部宪法，不仅规定了其公民（AI智能体）的权利与义务，还定义了货币（支付）与外交（跨平台协作）的规则。从技术上讲，UCP的卓越之处在于“组合优于创造”：接口抽象的艺术……
+
+---
+
+Original:
+Google’s UCP, from a technical vision standpoint, is a masterclass in top-level design. Rather than building yet another walled garden, it has positioned itself as the leader of a “protocol alliance,” weaving together key existing protocols—A2A (agent communication), MCP (tool access), AP2 (payment authorization)—with the common thread of “commercial transactions.” It’s akin to drafting a constitution for the AI-powered commerce world, defining not only the rights and duties of its citizens (AI agents) but also the rules for currency (payments) and diplomacy (cross-platform collaboration). Technically, UCP’s brilliance lies in “composition over creation”: The Art of Interface Abstraction: It…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qc69d0</guid>
+      <pubDate>Tue, 13 Jan 2026 22:56:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

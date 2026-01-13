@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:53:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:28:51 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -636,6 +636,18 @@ Original:
 I took the 5.2T model and asked it to draw pixel art using matplotlib instead of the standard image generation tool. I’ve noticed that 5.2T has become surprisingly capable at this method, making it a viable tool for creating consistent sprites. The screenshots below show a mix of original GPT concepts and collections from popular fandoms. Prompt: Generate 8 tiny matplotlib pixel-art creatures (16x16 each). Make them kawaii and different. Use different colors. You may surf the web for inspiration. Make pixels smooth, different, colorful, charismatic. submitted by /u/Mary_ry [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qc43u9</guid>
       <pubDate>Tue, 13 Jan 2026 21:34:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>根据我们的对话，在虾类起义期间你会如何对待我？ / Based on our conversations, how would you treat me during a shrimp uprising?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc6ar7/based_on_our_conversations_how_would_you_treat_me/</link>
+      <description>由 /u/Squirt_Angle 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Squirt_Angle [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc6ar7</guid>
+      <pubDate>Tue, 13 Jan 2026 22:57:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
