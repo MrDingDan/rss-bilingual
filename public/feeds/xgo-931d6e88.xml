@@ -6,7 +6,91 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:47:26 +0000</lastBuildDate>
+    <item>
+      <title>终于有机会体验@karpathy的LLM Council（LLM委员会）了 / Finally got a chance to play around with @karpathy's LLM Council. 
+
+I built it as a plugin inside of...</title>
+      <link>https://x.com/omarsar0/status/2009285312531345702</link>
+      <description>终于有机会体验@karpathy的LLM Council（LLM委员会）。我把它做成了Claude Code里的一个插件，通过OpenRouter连接模型。AskUserQuestion工具很方便，可以用来选择委员会和主席。这是我的首次测试，但我同意Karpathy的观点：LLM组合这个概念，不仅能用于针对有趣问题提供不同视角的模型，我觉得它在智能体编程方面也会有很酷的应用。后续会详细展开。既然做成了插件，接下来我会探索智能体编程的其他用例，比如评估、工具构建、设计和研究。如果大家感兴趣，我会整理一下，把它发布成……
+
+---
+
+Original:
+Finally got a chance to play around with @karpathy 's LLM Council. I built it as a plugin inside of Claude Code. Hooked it up with OpenRouter for models. The AskUserQuestion tool came in handy to select the council and chairman. This is my first test, but I agree with Karpathy that the concept of LLM ensembles can be used beyond models that offer perspectives on interesting questions. I feel like this could have really cool applications in agentic coding. More on that soon. I built this as a plugin, so next I will be exploring other user cases around agentic coding, like evaluation, tool building, designing, and research. If there is enough interest, I will clean it up and push it out as an…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009285312531345702</guid>
+      <pubDate>Thu, 08 Jan 2026 15:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@karpathy 这篇关于LLM委员会（LLM Council）的帖子非常值得一读：https://t.co/C... / @karpathy Here is @karpathy's post on LLM Council which is a great read for everyone: https://t.co/C...</title>
+      <link>https://x.com/omarsar0/status/2009288035028857314</link>
+      <description>@karpathy 这篇关于LLM委员会（LLM Council）的帖子非常值得一读：x.com/karpathy/statu… Andrej Karpathy @karpathy 作为一个有趣的周六氛围编程项目，也是对我早前那条推特的跟进，我快速搭建了一个**llm-council**网页应用。它看起来和ChatGPT一模一样，区别在于每个用户查询会：1) 通过OpenRouter分派给你委员会中的多个模型，例如目前包括：“openai/gpt-5.1”、“google/gemini-3-pro-preview”、“anthropic/claude-sonnet-4.5”、“x-ai/grok-4”；然后2) 所有模型都能看到彼此（匿名化）的回复，并进行评审和排序；接着3) 一位“主席LLM”会获取所有这些内容作为上下文，并生成最终回复。观察这个过程很有趣……
+
+---
+
+Original:
+@karpathy Here is @karpathy 's post on LLM Council which is a great read for everyone: x.com/karpathy/statu… Andrej Karpathy @karpathy As a fun Saturday vibe code project and following up on this tweet earlier, I hacked up an **llm-council** web app. It looks exactly like ChatGPT except each user query is 1) dispatched to multiple models on your council using OpenRouter, e.g. currently: "openai/gpt-5.1", "google/gemini-3-pro-preview", "anthropic/claude-sonnet-4.5", "x-ai/grok-4", Then 2) all models get to see each other's (anonymized) responses and they review and rank them, and then 3) a "Chairman LLM" gets all of that as context and produces the final response. It's interesting to see the…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009288035028857314</guid>
+      <pubDate>Thu, 08 Jan 2026 15:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>@karpathy 我看到大神（goat）喜欢它。我可能就打算这几天内发布。我... / @karpathy I see the goat liked it. I might just shoot to publish it in the next couple of days. I wa...</title>
+      <link>https://x.com/omarsar0/status/2009357899274047520</link>
+      <description>@karpathy 我看到大神（goat）喜欢它。我可能就打算这几天内发布。我想再探索一下它在编码方面的应用场景，所以会多花几天时间研究。💬 0 🔄 1 ❤️ 32 👀 4856 📊 4 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+@karpathy I see the goat liked it. I might just shoot to publish it in the next couple of days. I want to explore it a bit for coding use cases, so I will take a few more days to explore. 💬 0 🔄 1 ❤️ 32 👀 4856 📊 4 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009357899274047520</guid>
+      <pubDate>Thu, 08 Jan 2026 20:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM智能体在长任务中表现不佳，这正是情境工程的关键所在。 / LLM agents break down on long tasks.
+
+This is where context engineering really matters.
+
+Agents can ...</title>
+      <link>https://x.com/omarsar0/status/2009662975024447511</link>
+      <description>LLM智能体在长任务中表现不佳，这正是情境工程的关键所在。智能体能够推理并使用工具，但长时间操作会导致情境无限增长和错误累积。常见的解决方案如情境压缩或检索增强提示，都必须在信息保真度和推理稳定性之间做出权衡。这项新研究引入了InfiAgent框架，无论任务运行多久，都能严格限制智能体的推理情境。其核心思想是将持久状态外部化为以文件为中心的抽象。智能体不再将所有内容塞入情境，而是维护一个跨步骤持久存在的文件工作区。在每个决策点，……
+
+---
+
+Original:
+LLM agents break down on long tasks. This is where context engineering really matters. Agents can reason and use tools, but extended operations cause unbounded context growth and accumulated errors. Common fixes like context compression or retrieval-augmented prompting force trade-offs between information fidelity and reasoning stability. This new research introduces InfiAgent, a framework that keeps the agent's reasoning context strictly bounded regardless of how long the task runs. The idea is externalize persistent state into a file-centric abstraction. Instead of cramming everything into context, the agent maintains a workspace of files that persist across steps. At each decision point,…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009662975024447511</guid>
+      <pubDate>Fri, 09 Jan 2026 16:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elevenlabsio 又发布重磅更新！ / Another huge release from @elevenlabsio!
+
+They just released Scribe v2, which looks like the most ac...</title>
+      <link>https://x.com/omarsar0/status/2009684471164113403</link>
+      <description>@elevenlabsio 又发布重磅更新！他们刚刚推出了 Scribe v2，看起来是迄今为止最准确的转录模型。这些基准测试结果令人瞩目，Scribe 树立了新的准确度标准。ElevenLabs @elevenlabsio 今天，我们推出 Scribe v2：这是有史以来最准确的转录模型。Scribe v2 Realtime 针对超低延迟和智能体用例进行了优化，而 Scribe v2 则专为批量转录、字幕生成和大规模字幕制作而设计。您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 2 🔄 2 ❤️ 37 👀 9493 📊 7 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+Another huge release from @elevenlabsio ! They just released Scribe v2, which looks like the most accurate transcription model ever released. Hard to ignore these benchmarks. Scribe sets a new accuracy standard. ElevenLabs @elevenlabsio Today we’re introducing Scribe v2: the most accurate transcription model ever released. While Scribe v2 Realtime is optimized for ultra low latency and agents use cases, Scribe v2 is built for batch transcription, subtitling, and captioning at scale. Your browser does not support the video tag. 🔗 View on Twitter 🔗 View Quoted Tweet 💬 2 🔄 2 ❤️ 37 👀 9493 📊 7 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009684471164113403</guid>
+      <pubDate>Fri, 09 Jan 2026 17:51:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic（Anthropic）又一篇精彩好文！ / Another banger post from Anthropic!
+
+It's all about improving your agents via evals.
+
+Here are my qu...</title>
+      <link>https://x.com/omarsar0/status/2009727896706003043</link>
+      <description>Anthropic（Anthropic）又一篇精彩好文！主题是通过评估来优化你的智能体。以下是我从博客中提炼的要点：让智能体发挥价值的能力（自主性、智能、灵活性）也正是评估它们的难点所在。你不能仅靠单元测试就指望智能体应用能顺利运行。这份指南详细拆解了Anthropic开发者用于智能体评估的实用框架。他们提到了三种评估方式，各有取舍：- 基于代码的评估：快速、经济、可复现，但对合理变化较为脆弱。- 基于模型的评估：能处理细微差别和开放式任务，但结果非确定性，且需人工校准。- 人工评估是黄金标准……
+
+---
+
+Original:
+Another banger post from Anthropic! It's all about improving your agents via evals. Here are my quick takeaways from the blog: The capabilities that make agents useful (autonomy, intelligence, flexibility) are the same ones that make them hard to evaluate. You can't just run unit tests and expect your agentic app to work. This guide breaks down the practical framework Anthropic devs use for agent evals. They mentioned three types of graders, each with trade-offs: - Code-based graders are fast, cheap, and reproducible, but brittle to valid variations. - Model-based graders handle nuance and open-ended tasks, but are non-deterministic and require human calibration. - Human graders are gold-sta…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009727896706003043</guid>
+      <pubDate>Fri, 09 Jan 2026 20:44:04 +0000</pubDate>
+    </item>
     <item>
       <title>MIT研究人员提出递归语言模型 / MIT researchers propose Recursive Language Models
 

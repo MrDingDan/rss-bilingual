@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:44:55 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -546,6 +546,18 @@ Original:
 Work at Maxim on the observability side. Been thinking about how traditional APM tools just don't work for agent workflows. Agents aren't single API calls. They're multi-turn conversations with tool invocations, retrieval steps, reasoning chains, external API calls. When something breaks, you need the entire execution path, not just error logs. We built distributed tracing at multiple levels - sessions for full conversations, traces for individual exchanges, spans for specific steps like LLM calls or tool usage. Helps a lot when debugging. The other piece that's been useful is running automated evals continuously on production logs. Track quality metrics (relevance, faithfulness, hallucinati…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc0i28</guid>
       <pubDate>Tue, 13 Jan 2026 19:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们不需要又一个无代码智能体构建工具 / We don't need another no-code agent builder</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc0yhj/we_dont_need_another_nocode_agent_builder/</link>
+      <description>过去一年，我见证了太多“无代码”智能体构建工具涌入市场。起初我很兴奋，但实际使用后却发现，尽管这些产品都标榜“无代码”或“低代码”，但学习曲线其实相当陡峭。以n8n为例，构建一个简单的收据分类应用——从邮件中提取收据并添加到电子表格——竟然需要大约3小时。感觉n8n的流行主要靠的是那些已有使用经验的AI顾问大军，他们习惯将其用于所有工作流。在我看来，本不必如此。如今的大语言模型（LLM）已经足够强大，能够自动构建这类工作流……
+
+---
+
+Original:
+For the past year, I've seen so many "no code" agent builders enter the market. Initially, I felt excited, but then I started using them. Despite all of these products claiming to be "no code" or "low code," there's actually a fairly steep learning curve to all of them. For example, take n8n. Building a simple receipt categorization app - taking receipts from your email and adding it to a spreadsheet - takes like 3 hours. It feels like the popularity of n8n is sustained by the army of AI consultants who are already experienced using n8n, and therefore use it for all their workflows. IMO, it doesn't need to be this way. LLMs have gotten good enough to build these workflows automatically, with…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc0yhj</guid>
+      <pubDate>Tue, 13 Jan 2026 19:37:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

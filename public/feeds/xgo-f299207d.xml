@@ -6,7 +6,93 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:48:10 +0000</lastBuildDate>
+    <item>
+      <title>今年我是这样使用Claude的：产品思维、工程、烹饪与美食、智能体工程... / This is how I used Claude this year:
+- Product thinking
+- Engineering
+- Cooking &amp;amp; Food
+- Agent E...</title>
+      <link>https://x.com/hwchase17/status/2006062731737137175</link>
+      <description>今年我是这样使用Claude的：- 产品思维 - 工程 - 烹饪与美食 - 智能体工程 LangChain @LangChainAI 🎁AI年度总结 2025 今年你实际用ChatGPT和Claude做了什么？（说实话） LangSmith Insights智能体可以分析你的对话历史，揭示你未曾察觉的模式、趋势和奇特聚类 在你的数据上试试：https://t.co/TzMF8fjGl3 🔗 查看引用推文 💬 4 🔄 1 ❤️ 29 👀 5841 📊 8 ⚡ 由xgo.ing驱动
+
+---
+
+Original:
+This is how I used Claude this year: - Product thinking - Engineering - Cooking &amp; Food - Agent Engineering LangChain @LangChainAI 🎁AI Wrapped 2025 What did you actually use ChatGPT &amp; Claude for this year? (Be honest) LangSmith Insights agent can analyze your conversation history and surface the patterns, trends, and weird clusters you didn't know existed Try on your data: https://t.co/TzMF8fjGl3 🔗 View Quoted Tweet 💬 4 🔄 1 ❤️ 29 👀 5841 📊 8 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2006062731737137175</guid>
+      <pubDate>Tue, 30 Dec 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>什么是“后台智能体基础设施”的组成部分 / what are the pieces of "background agent infra"</title>
+      <link>https://x.com/hwchase17/status/2006133486827065437</link>
+      <description>什么是“后台智能体基础设施”的组成部分 💬 18 🔄 5 ❤️ 95 👀 50345 📊 54 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+what are the pieces of "background agent infra" 💬 18 🔄 5 ❤️ 95 👀 50345 📊 54 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2006133486827065437</guid>
+      <pubDate>Tue, 30 Dec 2025 22:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>持续学习就是 https://t.co/U1XpV19zdo 加上技能 / Continual learning is https://t.co/U1XpV19zdo plus skills
+
+I kinda agree with this, is it wrong?</title>
+      <link>https://x.com/hwchase17/status/2007509592503439603</link>
+      <description>持续学习就是 agent.md 加上技能，我有点同意这个观点，这不对吗？Daniel Paleka @dpaleka 分享了解决持续学习的方法：1. 长上下文 2. 所有有用的用户或环境反馈都输入到 claude md 3. 当 claude md 中的某个部分过长时，它就变成一个技能。就这样，两层结构，无需微调，别把事情搞复杂了。x.com/bcherny/status… 🔗 查看引用推文 💬 40 🔄 18 ❤️ 209 👀 52917 📊 85 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Continual learning is agent.md plus skills I kinda agree with this, is it wrong? Daniel Paleka @dpaleka here is how to solve continual learning: 1. long context 2. all useful user or env feedback goes to claude md 3. when a section in claude md is long, it becomes a skill that's it, two levels of hierarchy, no finetuning, don't overcomplicate things. x.com/bcherny/status… 🔗 View Quoted Tweet 💬 40 🔄 18 ❤️ 209 👀 52917 📊 85 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2007509592503439603</guid>
+      <pubDate>Sat, 03 Jan 2026 17:49:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>文件系统就是一切所需！ / filesystems are all you need!
+
+https://t.co/kUa3BcNKFf
+
+reading this now, good collection of tips &amp;a...</title>
+      <link>https://x.com/hwchase17/status/2008657744375804166</link>
+      <description>文件系统就是一切所需！blog.langchain.com/how-agents-can… 正在阅读，很棒的技巧合集。Cursor（@cursor_ai）的智能体现在为所有模型使用动态上下文。它在保持相同质量的同时，更智能地填充上下文。使用多个MCP服务器时，总令牌数减少了46.9%。🔗 查看引用推文 💬 18 🔄 42 ❤️ 497 👀 70243 📊 154 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+filesystems are all you need! blog.langchain.com/how-agents-can… reading this now, good collection of tips &amp; tricks Cursor @cursor_ai Cursor's agent now uses dynamic context for all models. It's more intelligent about how context is filled while maintaining the same quality. This reduces total tokens by 46.9% when using multiple MCP servers. 🔗 View Quoted Tweet 💬 18 🔄 42 ❤️ 497 👀 70243 📊 154 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2008657744375804166</guid>
+      <pubDate>Tue, 06 Jan 2026 21:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体动态 / agent feed</title>
+      <link>https://x.com/hwchase17/status/2008969973029589028</link>
+      <description>智能体动态 💬 26 🔄 15 ❤️ 289 👀 76020 📊 108 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+agent feed 💬 26 🔄 15 ❤️ 289 👀 76020 📊 108 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2008969973029589028</guid>
+      <pubDate>Wed, 07 Jan 2026 18:32:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体文件 / agent files
+
+agents are just defined by markdown/json files now
+
+system prompt: https://t.co/h7WpjR4...</title>
+      <link>https://x.com/hwchase17/status/2009388479604773076</link>
+      <description>智能体现在仅由 Markdown/JSON 文件定义。系统提示：agents.md；子智能体：subagents/；工具：skills.md + mcp.json。您的浏览器不支持视频标签。🔗 在 Twitter 上查看 💬 41 🔄 79 ❤️ 830 👀 100797 📊 366 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+agent files agents are just defined by markdown/json files now system prompt: agents.md subagents: subagents/ tools: skills.md + mcp.json Your browser does not support the video tag. 🔗 View on Twitter 💬 41 🔄 79 ❤️ 830 👀 100797 📊 366 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2009388479604773076</guid>
+      <pubDate>Thu, 08 Jan 2026 22:15:20 +0000</pubDate>
+    </item>
     <item>
       <title>痕迹至关重要！ / traces matter!</title>
       <link>https://x.com/hwchase17/status/2009732201269588479</link>

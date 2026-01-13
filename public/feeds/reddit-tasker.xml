@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:46:21 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -30,6 +30,78 @@ Original:
 Hello everyone! It's that time of the year again where I'll be away for a while. I really wanted to release the Tasker RC before Christmas, but I thought it would be a bit too risky because if anything goes wrong with the release I wouldn't be here to fix it. To compensate, I spent the past 3 days working on something that's cool by itself (at least IMO 😅) but can also be great for Tasker's future! Here's my gift to you: ADB Command Center Here's a demo video: https://youtu.be/PSNmHfQ8BIY This new app allows you to seamlessly connect to ADB Wifi directly on your phone, without the need for a PC and then run shell commands with elevated privileges! This means that you can now easily do privil…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1pqi34p</guid>
       <pubDate>Fri, 19 Dec 2025 10:44:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tasker 6.6.17-rc版本出现严重任务积压问题 / Tasker 6.6.17-rc Getting Backed-Up Severely</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q7hzmz/tasker_6617rc_getting_backedup_severely/</link>
+      <description>我多年来在多台设备上使用Tasker，简直离不开它！目前，我的Moto XT2214-5 A12手机和一台运行在Windows上的x86架构、Android 9虚拟机上，都安装了6.6.17-RC版本。在升级到这个版本前，两台设备都稳定运行了一段时间。总的来说，我基本没用到RC版的新功能，主要是想更新到最新版，顺便看看有什么新变化。但自从升级到RC版后，我遇到了几个在Tasker上从未见过的问题。最严重的是，队列中的任务（我在两台设备上都设置了最大100个）突然出现积压，这给我的整个系统带来了巨大的麻烦！我在x…上做了一些添加/修改…
+
+---
+
+Original:
+I have been using Tasker for years on multiple machines. Could not live without it! Right now I have 6.6.17-RC on both my Moto XT2214-5 A12 and an x86, A9 virtual box hosted on Windows. I have been using both for some time prior to updating both to 6.6.17-RC. Generally speaking, I am not using much, if any, of the new features in the RC. I basically just wanted to get up to date and to look around at what was new. Since moving to the RC, I have experienced several issues I have never seen before on Tasker. Worst of all is a sudden back-up of queued Tasks (which I have set on both to the max - 100). And this brings my house of cards down in a big way! I have added/changed some things on the x…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q7hzmz</guid>
+      <pubDate>Thu, 08 Jan 2026 17:29:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>将短信转发至另一部手机的配置文件，但需排除垃圾邮件过滤器拦截的内容 / Profile that forwards texts to another phone, but exclude those rejected by the spam filter</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q7ks04/profile_that_forwards_texts_to_another_phone_but/</link>
+      <description>大家好，我有一部旧手机充当座机使用。我设置了一个简单的配置文件（文本 %antext, %antitle），用于将发送到座机的短信（数量不多）转发到我的另一部手机上。这功能很好用，只是我收到很多垃圾短信。座机能识别这些垃圾短信，并自动将其移至垃圾文件夹，但这仍会触发我的配置文件。我曾尝试使用 Auto Notification 等待几秒，看通知是否仍然存在（如果不存在，说明手机已取消通知并将其标记为垃圾邮件），但这对我似乎无效，因为在等待过程中，%antext 和 %antitle 显然被清除了。由 /u/whitenack 提交 [链接] [评论]
+
+---
+
+Original:
+Hey all, I have an old mobile phone acting as my landline phone. I have a simple profile set up (text %antext, %antitle) to forward any texts (not many) sent to my landline to my other phone. This works great, except I get a lot of spam texts. The landline phone recognizes them as spam, and sends them to the spam folder automatically, but that still trips my profile. I have tried using Auto Notification to wait and see if the notification still exists after a few seconds (if not, the phone has cancelled the notification and sent it to spam), but that doesn't seem to work for me because the %antext and %antitle evidently get cleared while it waits. submitted by /u/whitenack [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q7ks04</guid>
+      <pubDate>Thu, 08 Jan 2026 19:07:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>错误：内存不足——老问题又来了！ / Error: out of memory — the same old problem!</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q7t1lw/error_out_of_memory_the_same_old_problem/</link>
+      <description>https://imgur.com/5VGQqkc 有人知道怎么解决吗？这快把我逼疯了，它拖慢了我的工作，有时还不保存。以前我可以通过强制停止应用（会自动关闭无障碍服务）或重启手机暂时解决，但现在问题一直存在。我开启又关闭了“减少资源使用”选项，删除了所有备份和日志，还删除了很多配置文件和任务，但就是找不到解决办法。真要疯了！我用的是三星S24 Ultra（Samsung S24 Ultra），安卓16（Android 16）。 提交者：/u/Jason_Yate [链接] [评论]
+
+---
+
+Original:
+https://imgur.com/5VGQqkc Does anyone know how to fix this? It's driving me crazy, it slows down my work and sometimes it doesn't save. Previously, I could temporarily solve this problem by force-stopping the app (which automatically disabled the accessibility service) or restarting the phone, but now the problem is constant. I enabled and disabled the Reduce Resource Usage option, deleted all backups and logs, I also have deleted many profiles and tasks, but I can't find a solution. That's driving me crazy! I have a Samsung S24 Ultra, Android 16. submitted by /u/Jason_Yate [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q7t1lw</guid>
+      <pubDate>Fri, 09 Jan 2026 00:21:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI任务生成器需要帮助 / Ai Task Generator need helo</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q86q16/ai_task_generator_need_helo/</link>
+      <description>大家好，我需要帮助。我通过点击API密钥链接设置了谷歌的API密钥，看起来是免费的，因为我看到了“免费层级”的提示。但我经常看到有人说它不再免费了。这到底是怎么回事？所以它到底是免费还是不免费呢？由 /u/oraklesearch 提交 [链接] [评论]
+
+---
+
+Original:
+hi i need help i setup with the click of the apikey link a api key from google. And it looks like it is free i see "Free Tier" but i read often it is not free anymore. What the hell ? So is it free or is it not free? submitted by /u/oraklesearch [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q86q16</guid>
+      <pubDate>Fri, 09 Jan 2026 12:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>需要学习Shizuku和ADB / Need to learn shizuku and adb</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q8aoco/need_to_learn_shizuku_and_adb/</link>
+      <description>大家好，我不太明白怎么使用Shizuku和ADB，以及能用它们做什么。有没有什么小项目可以帮助理解？我已经安装了Termux、Ashell、Local ADB、Shizuku Fork（带watchdog和WiFi调试连接自动启动功能）、Tasker/Macrodroid。我还发现了这个链接：https://www.reddit.com/r/tasker/comments/1kjflqo/how_to_guide_of_how_to_use_shell_scripts_with/ 大家都说很棒，但我不太理解为什么。由/u/oraklesearch提交 [链接] [评论]
+
+---
+
+Original:
+hi i dont understand how to use shizuku and adb and what i can do with it is there a small project to understand? i have installed Termux Ashell Local ADB Shizuku Fork (watchdog and auto start at wifi debugg connection) Tasker/Macrodroid And i found this: https://www.reddit.com/r/tasker/comments/1kjflqo/how_to_guide_of_how_to_use_shell_scripts_with/ and all say wow thats greate but i dont understand why submitted by /u/oraklesearch [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q8aoco</guid>
+      <pubDate>Fri, 09 Jan 2026 15:06:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[任务分享] Google Play 应用更新器 V2 / [Task Share] Google Play app updater V2</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q8egzl/task_share_google_play_app_updater_v2/</link>
+      <description>我创建这个任务是因为我喜欢检查应用更新，并想每次节省几次点击。它能自动检查应用更新，并处理四种不同情况：1) 已发现需要更新的应用：执行必要操作更新所有应用，将所有文本发送至 Perplexity API 仅返回应用名称，发送包含应用名称的通知后退出；2) 未发现需要更新的应用：执行更新检查；3) 检查后发现应用：执行情况1；4) 检查后未发现应用：提示无需更新后退出。注：此任务需要 Perplexity API 密钥。展示视频 项目分享由 /u/androidforthewin 提交 [链接] [评论]
+
+---
+
+Original:
+I created this task because I enjoy checking for app updates and wanted to save a few clicks each time. It automates the process of checking for app updates and accounts for four different scenarios Apps are already seen that need to be updated. performs the necessary actions to update all apps send all text to Perplexity api to get back only the app names sends a notification with the app names exits No apps seen needing an update. perform the check for updates Apps seen after the check run scenario 1 No apps seen after the check toast no apps need an update exits Note: this task requires a Perplexity api key Showcase video Project share submitted by /u/androidforthewin [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q8egzl</guid>
+      <pubDate>Fri, 09 Jan 2026 17:27:05 +0000</pubDate>
     </item>
     <item>
       <title>Join应用短信服务使用了错误的手机 / Wrong phone used for Join App SMS service</title>
@@ -58,12 +130,12 @@ In order to catch a nasty poop bandit leaving dog turds on the walking path to m
     <item>
       <title>[任务分享] 充电时自动开启飞行模式 / [Task Share] Auto airplane mode when charging</title>
       <link>https://www.reddit.com/r/tasker/comments/1q9i8o4/task_share_auto_airplane_mode_when_charging/</link>
-      <description>大家好，我希望手机在充电时能自动开启飞行模式，因此制作了这个任务并分享给大家：https://taskernet.com/shares/?user=AS35m8nReItmS96XIiz3xX5JcBYA0twMIoQYBl7Vfq%2BsVthTyGHwM8E3eLoOkXtM%2FGagPHWvazpUJYtikw%3D%3D&amp;id=Profile%3AAutoAirplane+Mode 它会在充电时启用飞行模式，并在断开充电器时关闭。由 /u/OutrageousRope88 提交 [链接] [评论]
+      <description>大家好，我希望手机在充电时能自动开启飞行模式，因此制作了这个任务并分享给大家：https://taskernet.com/shares/?user=AS35m8nReItmS96XIiz3xX5JcBYA0twMIoQYBl7Vfq%2BsVthTyGHwM8E3eLoOkXtM%2FGagPHWvazpUJYtikw%3D%3D&amp;amp;id=Profile%3AAutoAirplane+Mode 它会在充电时启用飞行模式，并在断开充电器时关闭。由 /u/OutrageousRope88 提交 [链接] [评论]
 
 ---
 
 Original:
-Hi all, I wanted my phone to automatically turn on airplane mode when charging, so I made this task I now share: https://taskernet.com/shares/?user=AS35m8nReItmS96XIiz3xX5JcBYA0twMIoQYBl7Vfq%2BsVthTyGHwM8E3eLoOkXtM%2FGagPHWvazpUJYtikw%3D%3D&amp;id=Profile%3AAutoAirplane+Mode It enables it when charging, and disables when removed from the charger. submitted by /u/OutrageousRope88 [link] [comments]</description>
+Hi all, I wanted my phone to automatically turn on airplane mode when charging, so I made this task I now share: https://taskernet.com/shares/?user=AS35m8nReItmS96XIiz3xX5JcBYA0twMIoQYBl7Vfq%2BsVthTyGHwM8E3eLoOkXtM%2FGagPHWvazpUJYtikw%3D%3D&amp;amp;id=Profile%3AAutoAirplane+Mode It enables it when charging, and disables when removed from the charger. submitted by /u/OutrageousRope88 [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1q9i8o4</guid>
       <pubDate>Sat, 10 Jan 2026 22:48:39 +0000</pubDate>
     </item>

@@ -6,55 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:34:41 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_artificial] 人生头一回买LG电视，感觉有点怪。 / I bought an LG TV for the first time in my life, and it’s weird.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qbmjl2/i_bought_an_lg_tv_for_the_first_time_in_my_life/</link>
-      <description>它自带AI助手、Alexa和微软Copilot。我真需要同时用上所有这些吗？实在搞不懂。而且它们一个都删不掉。由 /u/a_decent_hooman 提交 [链接] [评论]
-
----
-
-Original:
-It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable. submitted by /u/a_decent_hooman [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qbmjl2</guid>
-      <pubDate>Tue, 13 Jan 2026 09:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 哈？ / Huh</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbmk29/huh/</link>
-      <description>由 /u/Successful-Gur-4853 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Successful-Gur-4853 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbmk29</guid>
-      <pubDate>Tue, 13 Jan 2026 09:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 使用AI智能体过程中，你学到的最重要经验是什么？ / What was the biggest lesson you learned from using AI agents?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbmkb1/what_was_the_biggest_lesson_you_learned_from/</link>
-      <description>关于AI智能体（AI agents）的理论探讨、演示案例和概念宣传很多，但实际将其应用到真实工作流后的经验分享却很少见。从“理论上可行”到“稳定可靠”之间的差距似乎相当明显。对于那些已经尝试或部署过AI智能体的朋友，我很好奇你们最深刻的体会是什么？ 由/u/No-Marionberry8257提交 [链接] [评论]
-
----
-
-Original:
-I’ve seen a lot of discussion around AI agents in theory, demos, and hype posts, but much less about what happens once you actually try to use them in real workflows. The gap between "this should work" and "this works reliably" feels pretty big. For those who’ve experimented with or deployed AI agents, I’m curious what lessons stood out the most? submitted by /u/No-Marionberry8257 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbmkb1</guid>
-      <pubDate>Tue, 13 Jan 2026 09:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude状态栏在2.1.6版本更新后现已显示实际上下文 / Claude status line can now show actual context after 2.1.6 update</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/</link>
-      <description>GitHub：https://github.com/shanraisshan/claude-code-status-line# 你可以从这里复制更新后的脚本 原始脚本由/u/shanraisshan提交 [链接] [评论]
-
----
-
-Original:
-Github: https://github.com/shanraisshan/claude-code-status-line# you can copy the updated script from here Original Script here submitted by /u/shanraisshan [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbmrc7</guid>
-      <pubDate>Tue, 13 Jan 2026 09:14:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 19:49:08 +0000</lastBuildDate>
     <item>
       <title>[reddit_bard] 使用Veo制作网站背景循环视频 / Using Veo for looping videos on website backgrounds.</title>
       <link>https://www.reddit.com/r/Bard/comments/1qbmwdg/using_veo_for_looping_videos_on_website/</link>
@@ -1301,6 +1253,18 @@ submitted by /u/Nightpatrol404 [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 18:14:39 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 如果民主党人想要全民医保，我们有深蓝州，各州可以控制自己的预算和税收，全民医保优势明显，为何深蓝州不推行全州范围的全民医保？ / If Democrats want universal healthcare, we have states that are deep blue, states have control over their own budgets and taxation, and universal healthcare would be so advantageous, why don’t deeply democrat run states implement a statewide universal healthcare?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qbysgu/if_democrats_want_universal_healthcare_we_have/</link>
+      <description>由 /u/Silver_Wings3 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Silver_Wings3 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qbysgu</guid>
+      <pubDate>Tue, 13 Jan 2026 18:19:49 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] Gmail新推出的Gemini“AI收件箱”…是颠覆性创新还是隐私噩梦？ / The new Gemini "AI Inbox" in Gmail... game changer or privacy nightmare?</title>
       <link>https://www.reddit.com/r/Bard/comments/1qbytvw/the_new_gemini_ai_inbox_in_gmail_game_changer_or/</link>
       <description>刚刚收到Gmail启用新Gemini功能的提示（邮件主题的AI概览和新优先级收件箱）。我测试了几个小时：一方面，它能总结我与承包商长达50封邮件的往来，确实有用——还找到了我漏看的一条报价；另一方面，看着它如此主动地“阅读”我的收件箱，感觉有点…别扭？已体验的用户们：你们真的会在私人邮件中用“帮我写”功能吗？还是仅限工作邮件？有没有人发现它在重要邮件里编造细节？好奇大家会选择“持续启用”还是“坚决不用”。
@@ -1455,6 +1419,42 @@ Original:
 We’ve been running some stress tests on GPT-5.2’s function calling capabilities. Interestingly, even at temperature 0, we see a 2% variance in parameter extraction when the tool definitions are similar. In a production environment where we handle thousands of calls, this 2% is a nightmare for reliability. We’re moving towards a dual-pass validation system (one model to extract, another to verify). Is anyone else seeing this "schema drift" in 5.2, or have you found a way to "harden" the function definitions? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc0kj7</guid>
       <pubDate>Tue, 13 Jan 2026 19:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Anthropic向Python软件基金会及开源安全领域投资150万美元 / Anthropic invests $1.5 million in the Python Software Foundation and Open source security</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc0ru1/anthropic_invests_15_million_in_the_python/</link>
+      <description>Python软件基金会：我们非常高兴地宣布，Anthropic已与Python软件基金会（PSF）达成一项为期两年的合作伙伴关系，将总计投入150万美元的里程碑式资金，以支持基金会的工作，重点聚焦Python生态系统的安全性。这项投资将使PSF能够在CPython和Python包索引（PyPI）方面取得关键的安全进展，惠及所有用户，同时还将维持基金会支持Python语言、生态系统及全球社区的核心工作。官方公告由/u/BuildwithVignesh提交[链接][评论]
+
+---
+
+Original:
+Python Source Foundation: We are thrilled to announce that Anthropic has entered into a two-year partnership with the Python Software Foundation (PSF) to contribute a landmark total of $1.5 million to support the foundation's work, with an emphasis on Python ecosystem security. This investment will enable the PSF to make crucial security advances to CPython and the Python Package Index (PyPI) benefiting all users and it will also sustain the foundation's core work supporting the Python language, ecosystem and global community. Official Announcement submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc0ru1</guid>
+      <pubDate>Tue, 13 Jan 2026 19:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 超越Transformer：为何局部上下文窗口成为AGI的下一个瓶颈 / Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/</link>
+      <description>大家都在追求更大的上下文窗口（100万+），但对于专业用途而言，检索准确率（大海捞针测试）仍不理想。我认为我们正在触及Transformer架构的物理极限。未来不在于“更大的窗口”，而在于基础设施层面更优的“主动记忆”管理。想听听大家对RAG混合架构与原生长上下文模型的看法——哪种方案更能适应企业知识库的扩展需求？ 发布者：/u/Foreign-Job-8717 [链接] [评论]
+
+---
+
+Original:
+Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qc0xb4</guid>
+      <pubDate>Tue, 13 Jan 2026 19:35:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 我们不需要又一个无代码智能体构建工具 / We don't need another no-code agent builder</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc0yhj/we_dont_need_another_nocode_agent_builder/</link>
+      <description>过去一年，我见证了太多“无代码”智能体构建工具涌入市场。起初我很兴奋，但实际使用后却发现，尽管这些产品都标榜“无代码”或“低代码”，但学习曲线其实相当陡峭。以n8n为例，构建一个简单的收据分类应用——从邮件中提取收据并添加到电子表格——竟然需要大约3小时。感觉n8n的流行主要靠的是那些已有使用经验的AI顾问大军，他们习惯将其用于所有工作流。在我看来，本不必如此。如今的大语言模型（LLM）已经足够强大，能够自动构建这类工作流……
+
+---
+
+Original:
+For the past year, I've seen so many "no code" agent builders enter the market. Initially, I felt excited, but then I started using them. Despite all of these products claiming to be "no code" or "low code," there's actually a fairly steep learning curve to all of them. For example, take n8n. Building a simple receipt categorization app - taking receipts from your email and adding it to a spreadsheet - takes like 3 hours. It feels like the popularity of n8n is sustained by the army of AI consultants who are already experienced using n8n, and therefore use it for all their workflows. IMO, it doesn't need to be this way. LLMs have gotten good enough to build these workflows automatically, with…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc0yhj</guid>
+      <pubDate>Tue, 13 Jan 2026 19:37:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

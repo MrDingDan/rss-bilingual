@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:45:15 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -546,6 +546,18 @@ Original:
 When agents start actually doing things, the confidence spike is unreal. We turned that feeling into a completely unserious parody video — no product walkthrough, just pure “ship it and rip it” vibes. submitted by /u/Ok-Classic6022 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbzkyh</guid>
       <pubDate>Tue, 13 Jan 2026 18:47:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic向Python软件基金会及开源安全领域投资150万美元 / Anthropic invests $1.5 million in the Python Software Foundation and Open source security</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc0ru1/anthropic_invests_15_million_in_the_python/</link>
+      <description>Python软件基金会：我们非常高兴地宣布，Anthropic已与Python软件基金会（PSF）达成一项为期两年的合作伙伴关系，将总计投入150万美元的里程碑式资金，以支持基金会的工作，重点聚焦Python生态系统的安全性。这项投资将使PSF能够在CPython和Python包索引（PyPI）方面取得关键的安全进展，惠及所有用户，同时还将维持基金会支持Python语言、生态系统及全球社区的核心工作。官方公告由/u/BuildwithVignesh提交[链接][评论]
+
+---
+
+Original:
+Python Source Foundation: We are thrilled to announce that Anthropic has entered into a two-year partnership with the Python Software Foundation (PSF) to contribute a landmark total of $1.5 million to support the foundation's work, with an emphasis on Python ecosystem security. This investment will enable the PSF to make crucial security advances to CPython and the Python Package Index (PyPI) benefiting all users and it will also sustain the foundation's core work supporting the Python language, ecosystem and global community. Official Announcement submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc0ru1</guid>
+      <pubDate>Tue, 13 Jan 2026 19:30:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
