@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:50:06 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -582,6 +582,18 @@ Original:
 submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qc23bc</guid>
       <pubDate>Tue, 13 Jan 2026 20:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>项目知识库中的文件为何在中段被截断/丢失约百行内容？ / Files in project knowledge truncating around the middle/losing around a hundred lines?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc3q86/files_in_project_knowledge_truncating_around_the/</link>
+      <description>我有个故事创作项目，所有必需文档（如角色设定、时间线等）都已齐备，原本一切顺利。但最近每次在知识库中更新章节并请求AI审阅时，它总说部分行因被截断而无法查看。我上传的是docx格式文件，但问题仅偶尔出现——尤其发生在章节文件上，而像“角色设定文档”这类文件却正常。实在困惑，不知哪里操作有误。是docx格式的问题吗？还是其他原因？先谢过各位。（附注：我是专业版用户） 发布者：/u/TheTideEbbs [链接] [评论]
+
+---
+
+Original:
+I have a project with a story, we have all the documents we need like characters, timeliness etc etc and so far so good. Problem is, recently whenever I need to update a chapter in the knowledge and I ask it to review it, it says he can't see some lines because they're truncated. I upload docx files but the problem surges only once in a while, especially for chapters rather than "here's the doc about characters". I'm feeling dumb and I don't know what I'm doing wrong. Is it the docx format? Something else? Thnx in advance (P. S. I'm a pro user) submitted by /u/TheTideEbbs [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc3q86</guid>
+      <pubDate>Tue, 13 Jan 2026 21:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

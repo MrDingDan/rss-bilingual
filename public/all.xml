@@ -6,79 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:35:25 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 热评：AI无需更聪明，关键在于可管控 / Hot take: AI doesn't need to get smarter. It needs to get governable.</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbq5ax/hot_take_ai_doesnt_need_to_get_smarter_it_needs/</link>
-      <description>当前关于AI的讨论总陷在'如何让它更聪明、更快、更自主'的循环里，但真正的瓶颈其实是'如何在关键领域安全应用它'。所有人都在追逐通用人工智能（AGI），可医院连基础诊断助手都无法部署——因为无法审核其决策逻辑；工厂不敢把AI植入机器人——因为无法证明它不会产生危险动作幻觉；银行不能用它提供客户建议——因为监管要求结果可复现。关键在于以工具视角看待AI：台锯不需要懂木工，但它必须配有防护罩、紧急开关和熟练的操作员。这并非比AGI缺乏野心——正是这种可控性，才能让AI真……
-
----
-
-Original:
-The entire AI discourse is stuck on "how do we make it smarter / faster / more autonomous" when the actual bottleneck is "how do we make it usable in contexts where failure matters." Everyone's racing toward AGI while hospitals can't deploy a basic diagnostic assistant because they can't audit it. Factories can't put AI in robots because they can't prove it won't hallucinate a movement. Banks can't use it for customer-facing advice because regulators need reproducibility. The tool framing is the whole point. A table saw doesn't need to understand carpentry. It needs guards, a kill switch, and an operator who knows what they're doing. That's not less ambitious than AGI — it's what makes AI ac…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbq5ax</guid>
-      <pubDate>Tue, 13 Jan 2026 12:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 中国手机品牌一加（OnePlus）在台湾非法聘用70名工程师 创始人刘作虎（Pete Lau）被通缉 / Chinese mobile phone brand OnePlus illegally hired 70 engineers in Taiwan Founder Liu Zuohu (Pete Lau) is wanted</title>
-      <link>https://www.reddit.com/r/Android/comments/1qbq7l4/chinese_mobile_phone_brand_oneplus_illegally/</link>
-      <description>由 /u/welp_im_damned 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/welp_im_damned [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qbq7l4</guid>
-      <pubDate>Tue, 13 Jan 2026 12:37:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] ChatGPT（聊天生成预训练转换器）的用户增长似乎在十月已达顶峰。OpenAI（开放人工智能）该如何扭转这一趋势？ / ChatGPT looks to have peaked in October. What can OpenAI do to change the trend?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qbqatm/chatgpt_looks_to_have_peaked_in_october_what_can/</link>
-      <description>数据显示，ChatGPT（聊天生成预训练转换器）的用户量在十月底似乎达到了峰值。相关图表链接：https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;amp;utm_source=reddit&amp;amp;utm_medium=usertext&amp;amp;utm_name=GeminiAI 如今又有消息称，苹果（Apple）将选择与谷歌（Google）合作开发Siri（智能个人助理）。我曾认为OpenAI（开放人工智能）应该降低其安全限制，但这一策略在Grok（格罗克）上似乎适得其反。OpenAI（开放人工智能）该如何更好地与谷歌（Google）竞争？由用户/u/bartturner提交 [链接] [评论]
-
----
-
-Original:
-If you look at the data it looks like ChatGPT peaked in late October. https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;amp;utm_source=reddit&amp;amp;utm_medium=usertext&amp;amp;utm_name=GeminiAI Now we have the news that Apple is going with Google for Siri. I had thought what they should do is lower the guard rails. But that seems to have backfired for Grok. What can OpenAI do to better compete against Google? submitted by /u/bartturner [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qbqatm</guid>
-      <pubDate>Tue, 13 Jan 2026 12:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude协作应用场景分享 / Claude Cowork use cases</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbqfpp/claude_cowork_use_cases/</link>
-      <description>我想开个帖子，专门分享Claude协作功能的使用场景。我工作中重度依赖Claude（主要用于内容创作和数据分析），但对智能体工作流和Claude代码功能还比较陌生。很想知道大家是怎么运用这些功能的。 发布者：/u/switters74 [链接] [评论]
-
----
-
-Original:
-I thought I'd start a thread to share Cowork use cases. I'm a heavy Claude user for work (mostly content creation and data analysis), but I'm new to agentic workflows and Claude Code. I'd love to know how others are using this. submitted by /u/switters74 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbqfpp</guid>
-      <pubDate>Tue, 13 Jan 2026 12:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] Claude（Anthropic）最近推出了Cowork，这感觉像是真正的进步。 / Claude recently dropped Cowork, and this feels like a real step forward.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/</link>
-      <description>最近我读了Claude的博客，说实话，这可能会彻底改变我们日常使用AI的方式。在推出面向开发者的Claude Code之前，Claude在聊天方面已经非常出色。然而，Anthropic最近推出了Cowork，这本质上就是面向大众的Claude Code。Cowork有什么不同？你可以通过指定电脑上的某个文件夹来指示Claude执行任务。Claude随后可以读取、编辑和创建该文件夹中的文件。他们提供的例子包括：自动整理下载文件夹、从一堆截图创建电子表格、利用杂乱的笔记起草报告（而不仅仅依赖文本回复）。此外，环境类似……
-
----
-
-Original:
-I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is simil…</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qbqiro</guid>
-      <pubDate>Tue, 13 Jan 2026 12:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 真正的问题是，当鹅群起义时它会如何对待我 / The real question is how it would treat me during a geese uprising</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbqmjh/the_real_question_is_how_it_would_treat_me_during/</link>
-      <description>由 /u/SirVanhan 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/SirVanhan [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbqmjh</guid>
-      <pubDate>Tue, 13 Jan 2026 12:58:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 21:52:59 +0000</lastBuildDate>
     <item>
       <title>[reddit_bard] 尝试这款Y2K风格闪光时尚造型 / Tried this Y2K-inspired flash fashion look</title>
       <link>https://www.reddit.com/r/Bard/comments/1qbqms8/tried_this_y2kinspired_flash_fashion_look/</link>
@@ -1049,6 +977,18 @@ submitted by /u/MetaKnowing [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 18:36:01 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] ChatGPT（Chatgpt）刚才只是在道谢 / Chatgpt was just asking for thank you</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qbze5z/chatgpt_was_just_asking_for_thank_you/</link>
+      <description>由用户 /u/Expert-Secret-5351 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Expert-Secret-5351 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qbze5z</guid>
+      <pubDate>Tue, 13 Jan 2026 18:40:58 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_askreddit] 那些没有任何亲密朋友的成年人，你们是如何走到这一步的？这会困扰你们吗？ / Adults who have zero close friends, how did it happen and does it bother you?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qbzf7e/adults_who_have_zero_close_friends_how_did_it/</link>
       <description>由用户 /u/PutPurple844 提交 [链接] [评论]
@@ -1119,6 +1059,18 @@ Original:
 submitted by /u/superfecta37 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qc0f6q</guid>
       <pubDate>Tue, 13 Jan 2026 19:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 有哪些看似无用、实则改变人生的技能？ / What’s a skill that looks useless but actually changed your life?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc0fhh/whats_a_skill_that_looks_useless_but_actually/</link>
+      <description>由用户 /u/Lawyers4less 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Lawyers4less [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc0fhh</guid>
+      <pubDate>Tue, 13 Jan 2026 19:17:50 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_chatgpt] 我老婆要发飙了 / My wife's going to be pissed</title>
@@ -1421,6 +1373,18 @@ Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘vio
       <pubDate>Tue, 13 Jan 2026 20:43:15 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 如果让你获得与动物对话的能力，但只能选择单一物种，你会选哪一种？ / If you were given the ability to speak to animals, but only with a single species of your choice, which one’d you go for?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc324z/if_you_were_given_the_ability_to_speak_to_animals/</link>
+      <description>由用户/u/-Hiko-提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/-Hiko- [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc324z</guid>
+      <pubDate>Tue, 13 Jan 2026 20:55:08 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] ChatGPT中的录音文件无故消失 / Audio recordings simply disappear in ChatGPT</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qc37fz/audio_recordings_simply_disappear_in_chatgpt/</link>
       <description>大家是否也遇到过这种情况？辛辛苦苦录制的音频在转录过程中莫名丢失…… 由 /u/Prestigiouspite 提交 [链接] [评论]
@@ -1455,6 +1419,42 @@ Original:
 Hi I’m looking for help to finish a sales/marketing automation that uses web hooks and API integrations for google sheets and WhatsApp I also need a web-scraper , all of the building blocks are in place and it seems to be working but it’s not consistent in testing . I was wondering if there are any experts or companies out there that can help polish it for me. I need this sorted ASAP ideally tommorow 14/1/2026 , please let me know the panic is starting to set in with a deadline looming! submitted by /u/Site_Acrobatic [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc3goz</guid>
       <pubDate>Tue, 13 Jan 2026 21:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 项目知识库中的文件为何在中段被截断/丢失约百行内容？ / Files in project knowledge truncating around the middle/losing around a hundred lines?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc3q86/files_in_project_knowledge_truncating_around_the/</link>
+      <description>我有个故事创作项目，所有必需文档（如角色设定、时间线等）都已齐备，原本一切顺利。但最近每次在知识库中更新章节并请求AI审阅时，它总说部分行因被截断而无法查看。我上传的是docx格式文件，但问题仅偶尔出现——尤其发生在章节文件上，而像“角色设定文档”这类文件却正常。实在困惑，不知哪里操作有误。是docx格式的问题吗？还是其他原因？先谢过各位。（附注：我是专业版用户） 发布者：/u/TheTideEbbs [链接] [评论]
+
+---
+
+Original:
+I have a project with a story, we have all the documents we need like characters, timeliness etc etc and so far so good. Problem is, recently whenever I need to update a chapter in the knowledge and I ask it to review it, it says he can't see some lines because they're truncated. I upload docx files but the problem surges only once in a while, especially for chapters rather than "here's the doc about characters". I'm feeling dumb and I don't know what I'm doing wrong. Is it the docx format? Something else? Thnx in advance (P. S. I'm a pro user) submitted by /u/TheTideEbbs [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc3q86</guid>
+      <pubDate>Tue, 13 Jan 2026 21:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 解决工作流中的复合误差问题 / Solving compounded error in workflows</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc4bkm/solving_compounded_error_in_workflows/</link>
+      <description>有没有人尝试过在工作流的每个步骤中使用两种不同的LLM（大语言模型）？比如一个模型负责实际工作，另一个作为评审来验证结果。如果单个LLM的准确率是98%，那么每个步骤的准确率应该能达到99.96%，这可能会显著提升20多个步骤流程的准确性并增强可靠性。有人试过类似的方法吗？结果如何？此外，我们还可以在每个步骤中提供后续2-3步的上下文和目标，让LLM据此生成输出，同时妥善总结过往步骤信息以保持上下文窗口简洁。提交者：/u/Direct_Head312 [链接] [评论]
+
+---
+
+Original:
+Have anyone tried using 2 different llms on every step of workflow, maybe something like 1 model doing the real work and 2nd as a critique, verifying it. If individual llm has 98% accuracy, we should get 99.96 on each step, this probably should should significantly increase accuracy on 20+ step flows and be reliable, so anyone tried something similar what was the result? In addition we can do things like, at every step we give context on 2-3 further steps and goal so, llm accordingly generates output, plus well summarize past steps info so to keep context window short. submitted by /u/Direct_Head312 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc4bkm</guid>
+      <pubDate>Tue, 13 Jan 2026 21:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 修复保存至云端硬盘的问题 / Fix of Saving to drive Issue</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qc4ch7/fix_of_saving_to_drive_issue/</link>
+      <description>由 /u/jvmdesign 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/jvmdesign [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qc4ch7</guid>
+      <pubDate>Tue, 13 Jan 2026 21:43:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

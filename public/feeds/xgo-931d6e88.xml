@@ -6,7 +6,93 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:51:13 +0000</lastBuildDate>
+    <item>
+      <title>事实证明，这也是对应用进行严格测试的好方法。 / It turns out that this is actually a good way to also do rigorous testing on your apps. 
+
+In additio...</title>
+      <link>https://x.com/omarsar0/status/2006459533112258701</link>
+      <description>事实证明，这也是对应用进行严格测试的好方法。此外，它还能有效提升多任务处理效率。我只需让这些任务在后台或独立的CC会话中运行，就能修复各种UI缺陷。💬 0 🔄 0 ❤️ 6 👀 3307 📊 1 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+It turns out that this is actually a good way to also do rigorous testing on your apps. In addition, it's also great to accelerate multitasking. I just have these in the background or separate CC sessions running and squashing all kinds of UI bugs. 💬 0 🔄 0 ❤️ 6 👀 3307 📊 1 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2006459533112258701</guid>
+      <pubDate>Wed, 31 Dec 2025 20:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于AI科研探索智能体激动人心的进展的精彩综述 / Great survey on the exciting progress of AI agents for scientific discovery. 
+
+This research will do...</title>
+      <link>https://x.com/omarsar0/status/2006742836826591656</link>
+      <description>关于AI科研探索智能体激动人心的进展的精彩综述。随着我们构建更强大的AI系统和模型，这项研究将主导2026年的头条新闻。DAIR.AI @dair_ai 最新综述：用于科学发现的AI智能体。这是迈向2026年最令人兴奋的领域之一（建议收藏）。这项新研究介绍了SAGA（科学自主目标演化智能体），这是一个双层框架，外层循环自动演化目标，内层循环优化解决方案。为何这篇论文如此重要？科学发现不仅需要迭代优化方法，更需要迭代优化目标。自动化这一目标演化循环，填补了长期制约发展的瓶颈空白……
+
+---
+
+Original:
+Great survey on the exciting progress of AI agents for scientific discovery. This research will dominate the 2026 headlines as we build more capable AI systems and models. DAIR.AI @dair_ai NEW Survey: AI Agents for Scientific Discovery. This is one of the most exciting areas going into 2026. (bookmark this one) This new research introduces SAGA (Scientific Autonomous Goal-evolving Agent), a bi-level framework where the outer loop automatically evolves objectives while the inner loop optimizes solutions. Why is this paper a big deal? Scientific discovery requires iterating on what to optimize, not just how to optimize. Automating this objective evolution loop closes a gap that has bottlenecke…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2006742836826591656</guid>
+      <pubDate>Thu, 01 Jan 2026 15:02:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>斯坦福大学（Stanford）最新研究：AGI争论陷入虚假二分法 / NEW Research from Stanford.
+
+The AGI debate is stuck on a false dichotomy.
+
+Position one: scale LLMs...</title>
+      <link>https://x.com/omarsar0/status/2006750025263800655</link>
+      <description>斯坦福大学（Stanford）最新研究指出，关于AGI的争论正陷入一种虚假的二分法。观点一认为，只需扩大语言模型（LLMs）规模，智能便会自然涌现。观点二则认为，语言模型不过是模式匹配器，无法进行推理，是一条死胡同。本文提出了第三种观点：基础层加协调层。语言模型是必要的系统一（System-1）模式库，而缺失的组件是一个系统二（System-2）协调层，它负责选择、约束这些模式，并将其与外部目标绑定。作者认为，关键的洞见来自一个钓鱼的比喻：海洋代表模型庞大的潜在知识，无饵抛竿只能获取最大似然先验——即通用、常见的输出。批评者观察到幻觉现象，并非……
+
+---
+
+Original:
+NEW Research from Stanford. The AGI debate is stuck on a false dichotomy. Position one: scale LLMs and intelligence emerges. Position two: LLMs are pattern matchers incapable of reasoning, a dead end. This paper argues for a third position: Substrate plus Coordination. LLMs are the necessary System-1 pattern repository. The missing component is a System-2 coordination layer that selects, constrains, and binds these patterns to external goals. The author posits that the key insight comes from a fishing metaphor. The ocean is the model's vast latent knowledge. Casting without bait retrieves the maximum likelihood prior: generic, common outputs. Critics observing hallucination aren't seeing a b…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2006750025263800655</guid>
+      <pubDate>Thu, 01 Jan 2026 15:31:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>效果比预想的还要好 / This worked better than I thought. 
+
+It's a slash command in Claude Code to write detailed specs. 
+
+...</title>
+      <link>https://x.com/omarsar0/status/2007095834744144102</link>
+      <description>效果比预想的还要好。这是Claude Code中的一个斜杠命令，用于编写详细的技术规格说明。AskUserQuestion工具会追问每一个微小细节，是提升氛围编程效果的好方法。随后，Claude Code会据此创建一份详尽的大型计划并执行。💬 46 🔄 64 ❤️ 973 👀 93442 📊 384 ⚡ 由xgo.ing提供支持
+
+---
+
+Original:
+This worked better than I thought. It's a slash command in Claude Code to write detailed specs. The AskUserQuestion tool will drill you for even the smallest detail. Great way to enhance vibe coding results. Claude Code then creates a huge, detailed plan from it and executes it. 💬 46 🔄 64 ❤️ 973 👀 93442 📊 384 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2007095834744144102</guid>
+      <pubDate>Fri, 02 Jan 2026 14:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>spec-init 斜杠命令提示，如果你想试试的话： / The spec-init slash command prompt, if you want to try it:
+
+"Your task is to first help me build a s...</title>
+      <link>https://x.com/omarsar0/status/2007096590738104463</link>
+      <description>spec-init 斜杠命令提示，如果你想试试的话："你的任务是先帮我在 ARGUMENT 中为我的新项目制定一份规范。使用 AskUserQuestion 工具，通过访谈我来收集项目实现、UI 与 UX、技术栈、关注点、权衡等方面的需求和细节，从而在 ARGUMENT 中构建规范。确保问题不流于表面，要深入探究潜在需求和限制。持续、系统地访谈我，直到规范完成。记录所有回答和见解，以创建一份全面、结构良好的规范，作为项目的基础。" 💬 2 🔄 4 ❤️ 31 👀 7356 📊 14 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+The spec-init slash command prompt, if you want to try it: "Your task is to first help me build a spec for my new project in ARGUMENT. Use the AskUserQuestion Tool to help build the spec in ARGUMENT by interviewing me and gathering requirements and details about the project implementation, UI &amp; UX, tech stack, concerns, tradeoffs, etc. Make sure questions are not obvious and probe deeper into the underlying needs and constraints. Interview me continually and systematically until the spec is complete. Document all responses and insights to create a comprehensive and well-structured specification that serves as the foundation for the project." 💬 2 🔄 4 ❤️ 31 👀 7356 📊 14 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2007096590738104463</guid>
+      <pubDate>Fri, 02 Jan 2026 14:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>@trq212 我把它用在一个一直想尝试的新项目上，结果它用大约5小时就“氛围编程”出了一个生产级应用（含测试），而这原本（按我的保守估计）得花一个月左右。 / @trq212 I tried it on a new project I've been wanting to work on for a while, and it vibe-coded a pr...</title>
+      <link>https://x.com/omarsar0/status/2007097154356346894</link>
+      <description>@trq212 我把它用在一个一直想尝试的新项目上，结果它用大约5小时就“氛围编程”出了一个生产级应用（含测试），而这原本（按我的保守估计）得花一个月左右。💬 1 🔄 1 ❤️ 25 👀 5535 📊 4 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+@trq212 I tried it on a new project I've been wanting to work on for a while, and it vibe-coded a production-grade app in like 5 hours (tests included) what would have taken a month or so (in my conservative estimate). 💬 1 🔄 1 ❤️ 25 👀 5535 📊 4 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2007097154356346894</guid>
+      <pubDate>Fri, 02 Jan 2026 14:30:26 +0000</pubDate>
+    </item>
     <item>
       <title>我将在即将到来的培训中分享更多这类工作流程：https://t.co/lmI57QlqVs / I will be sharing more of these workflows in my upcoming training: https://t.co/lmI57QlqVs</title>
       <link>https://x.com/omarsar0/status/2007412612896784465</link>

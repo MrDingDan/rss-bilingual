@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:50:22 +0000</lastBuildDate>
     <item>
       <title>有哪些完全无害的事物，却会引发人们异常强烈的反应？ / What’s a totally harmless thing that triggers an oddly strong reaction in people?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qau4uq/whats_a_totally_harmless_thing_that_triggers_an/</link>
@@ -572,6 +572,18 @@ submitted by /u/superfecta37 [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 19:17:32 +0000</pubDate>
     </item>
     <item>
+      <title>有哪些看似无用、实则改变人生的技能？ / What’s a skill that looks useless but actually changed your life?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc0fhh/whats_a_skill_that_looks_useless_but_actually/</link>
+      <description>由用户 /u/Lawyers4less 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Lawyers4less [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc0fhh</guid>
+      <pubDate>Tue, 13 Jan 2026 19:17:50 +0000</pubDate>
+    </item>
+    <item>
       <title>[严肃讨论] 伊朗目前局势如何？ / [Serious] What is going on in Iran?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qc20i1/serious_what_is_going_on_in_iran/</link>
       <description>由用户 /u/FlatwormCreative6976 提交 [链接] [评论]
@@ -582,6 +594,18 @@ Original:
 submitted by /u/FlatwormCreative6976 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qc20i1</guid>
       <pubDate>Tue, 13 Jan 2026 20:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果让你获得与动物对话的能力，但只能选择单一物种，你会选哪一种？ / If you were given the ability to speak to animals, but only with a single species of your choice, which one’d you go for?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc324z/if_you_were_given_the_ability_to_speak_to_animals/</link>
+      <description>由用户/u/-Hiko-提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/-Hiko- [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc324z</guid>
+      <pubDate>Tue, 13 Jan 2026 20:55:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
