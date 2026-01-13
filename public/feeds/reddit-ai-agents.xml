@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 06:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:01:45 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -44,6 +44,42 @@ There are plenty of AI agents in the market but I feel like most fail at replaci
       <pubDate>Mon, 12 Jan 2026 09:40:19 +0000</pubDate>
     </item>
     <item>
+      <title>谷歌刚刚发布了通用商务协议（UCP） / Google just dropped Universal Commerce Protocol (UCP)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qau86e/google_just_dropped_universal_commerce_protocol/</link>
+      <description>我刚刚阅读了谷歌的通用商务协议（UCP）。据我理解，UCP是一个面向智能体商务的开放标准，旨在规范AI智能体从发现到结账及后续环节与商业系统交互的方式。其设计使得智能体、平台、支付提供商和商家能够使用统一语言沟通，无需为每个应用或界面构建定制连接。几个突出特点包括：通过将N×N连接简化为单一协议来简化集成；设计用于跨不同智能体、支付方式和商务后端工作；兼容现有标准如Agent2Agent、Agent Payments Protocol（AP2）和Model Context Protocol（…
+
+---
+
+Original:
+I just read Google’s Universal Commerce Protocol (UCP). From what I understand, UCP is an open standard for agentic commerce that aims to standardize how AI agents interact with business systems from discovery to checkout and beyond. It’s built so agents, platforms, payment providers, and merchants can talk the same language instead of building custom connections for every app or surface. A few things that stood out: It’s meant to simplify integrations by collapsing N×N connections into a single protocol. Designed to work across different agents, payment methods, and commerce backends. Works with existing standards like Agent2Agent, Agent Payments Protocol (AP2), and Model Context Protocol (…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qau86e</guid>
+      <pubDate>Mon, 12 Jan 2026 12:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>开源布莱恩·约翰逊（Bryan Johnson）AI：基于证据的补充剂追踪工具 / Open-source Bryan Johnson AI for evidence-based Supplements tracking</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qaz7c9/opensource_bryan_johnson_ai_for_evidencebased/</link>
+      <description>我每天服用补充剂，也在不同社群中交流，为自己的“补充剂组合”获取大量建议。身边的朋友们同样在用补充剂，毕竟我们都三十多岁了……你懂的，年纪渐长。一段时间后，我开始发现建议相互矛盾，有点担心，于是开始查阅在线医学研究平台。筛选海量研究、获取结果、对比并记录，这简直是数小时的苦差事，所以我决定采用智能体（Agent）方案！我构建了一个补充剂研究AI智能体，它能：搜索数百万篇医学研究论文和临床试验数据库；分析来自DailyMed、PubMed等平台的补充剂研究；突出显示作用机制、研究规模、局限性……
+
+---
+
+Original:
+I use supplements daily, I'm in different communities leveling up and getting tons of advice for my "stack". I have friends too that use supplements because we're all in our mid 30s...you know we are getting old. After a while, i start to see conflicting advice, got a bit worried and started checking medical research platforms online. Sifting through so many studies, getting the results, comparing and documenting them is hours of brutal work so I decided to go the Agent way! I built a Supplements research AI agent that: Searches millions of medical research papers &amp; clinical trials databases Analyzes studies on supplements from DailyMed, PubMed Highlights mechanisms, study size, limitations…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qaz7c9</guid>
+      <pubDate>Mon, 12 Jan 2026 16:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何构建一个能成为我数字孪生体的本地AI？ / How to build a local AI that becomes my digital twin ?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qb5kbc/how_to_build_a_local_ai_that_becomes_my_digital/</link>
+      <description>我想要一个完全本地化、隐私优先的AI，它能吸收我所有的数据，并逐渐模仿我的行为。寻求关于以下方面的简明建议：大语言模型（LLM）选择、记忆系统（RAG与微调对比）、数据输入流程、硬件限制与常见陷阱。如果今天从头开始，你会选用什么技术栈？ 由用户/u/PresenceBroad4361提交 [链接] [评论]
+
+---
+
+Original:
+I want a 100% local, privacy-first AI that ingests all my data and gradually behaves like me. Looking for concise advice on: LLM choice Memory (RAG vs fine-tuning) Data ingestion pipeline Hardware limits &amp; pitfalls If you were starting today, what stack would you use ? submitted by /u/PresenceBroad4361 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qb5kbc</guid>
+      <pubDate>Mon, 12 Jan 2026 20:03:49 +0000</pubDate>
+    </item>
+    <item>
       <title>哪些文本转语音服务商真正适合语音助手？ / What text to speech providers are actually good for voice agents?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qb905w/what_text_to_speech_providers_are_actually_good/</link>
       <description>我一直在尝试为我父亲的业务开发一个语音助手，但反复遇到类似问题：服务延迟远达不到宣传效果，端到端延迟大约1-1.2秒。这实在太慢了，而且大多数服务商价格过高。有什么建议吗？提交者：/u/Veta_Exceptional [链接] [评论]
@@ -78,6 +114,42 @@ Original:
 Recently, I needed to extract lots of content for a RAG app, and the markdown chunks from Firecrawl lead to really poor retrieval in the vector DB. I just needed structured data extraction at scale not markdown, so I built a tool that extracts that data and updates you if anything changes on the site. Here's how it works: 1. Explain what data you want 2. Run that data extraction on any URL 3. Tool monitors any changes of this data 4. Can receive a webhook / GET the changes submitted by /u/Ready-Interest-1024 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbhfmc</guid>
       <pubDate>Tue, 13 Jan 2026 04:10:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>构建了一个多智能体架构 / built a multi agent architecture</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbk3d4/built_a_multi_agent_architecture/</link>
+      <description>我和朋友开发了一个更经济版的Manus。Manus在积分使用上一直效率不高，其代币系统和一致性缺失问题频发。于是我们决定自己动手，构建了一个多智能体架构——通过启动多个智能体协作完成一项任务，并可在任务进程中实时预览进展。欢迎分享你的看法... 由/u/Loose-Tackle1339提交 [链接] [评论]
+
+---
+
+Original:
+my friend and i built a cheaper version of manus. Manus has never been efficient with their credits and have seen a lot of issues regrading the token system and the lack of consistency. So we decided to take matters into our own hands, we built a multi agent architecture that launches multiple agents to get one task done and u can preview them as the tasks progress let me know what you think... submitted by /u/Loose-Tackle1339 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbk3d4</guid>
+      <pubDate>Tue, 13 Jan 2026 06:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI智能体并非魔法，只是精心设计的系统 / AI Agents Aren’t Magic They’re Just Well-Designed Systems</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbkgy3/ai_agents_arent_magic_theyre_just_welldesigned/</link>
+      <description>人们常把AI智能体说得像黑箱一样神秘，但实际上它们只是由几个清晰模块协同工作的系统：用于推理的语言模型、某种形式的记忆、工具调用能力以及决定下一步行动的逻辑。它们擅长处理混乱、模糊或需要判断的任务，而对于自动化已能很好处理的简单、可预测工作流，通常并不适用。真正能在生产中稳定运行的智能体并非最复杂的，而是那些设计克制的——由小巧、可组合的部件构成，每个部件专注做好一件事，并能随着明确的目标逐步扩展。团队通过从窄领域入手、审慎扩展规模，才能避免系统脆弱……
+
+---
+
+Original:
+AI agents get talked about like they’re some kind of black box, but in reality they’re just systems made up of a few clear pieces working together: a language model for reasoning, some form of memory, access to tools and logic that decides what to do next. They shine when work is messy, ambiguous or requires judgment and they’re usually a bad fit for simple, predictable workflows that automation already handles well. The agents that actually hold up in production aren’t the most complex ones, they’re the ones built with restraint small, composable parts that do one thing well and can be extended over time with clear intent. Starting narrow and scaling deliberately is how teams avoid fragile…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbkgy3</guid>
+      <pubDate>Tue, 13 Jan 2026 06:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体AI迎来重要一周；这些重大进展你可能错过了： / It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbklxt/its_been_a_big_week_for_agentic_ai_here_are_10/</link>
+      <description>OpenAI推出健康与工作智能体；Claude Code 2.1.0发布，包含1096次提交；Cursor智能体减少47%的令牌使用量；一系列AI智能体更新！🧵 1. Claude Code 2.1.0发布，带来重大智能体更新：包含1096次提交。新增智能体与技能前置钩子，智能体在工具使用被拒时不再停止，支持自定义智能体、通配符工具权限及多语言支持。智能体工作流大幅改进。 2. OpenAI推出ChatGPT健康智能体：专为健康对话设计的空间。可安全连接医疗记录与健康应用，使回答基于您的健康数据。旨在协助医疗护理，而非替代。现已开放早期体验等候名单。个人…
+
+---
+
+Original:
+OpenAI launches Health and Jobs agents Claude Code 2.1.0 drops with 1096 commits Cursor agent reduces tokens by 47% A collection of AI Agent Updates! 🧵 1. Claude Code 2.1.0 Released with Major Agent Updates 1096 commits shipped. Add hooks to agents &amp; skills frontmatter, agents no longer stop on denied tool use, custom agent support, wildcard tool permissions, and multilingual support. Huge agentic workflow improvements. 2. OpenAI Launches ChatGPT Health Agent Dedicated space for health conversations. Securely connect medical records and wellness apps so responses are grounded in your health data. Designed to help navigate medical care, not replace it. Early access waitlist open. The personal…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbklxt</guid>
+      <pubDate>Tue, 13 Jan 2026 06:59:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

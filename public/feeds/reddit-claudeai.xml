@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 06:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:04:34 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -32,6 +32,42 @@ submitted by /u/reversedu [link] [comments]</description>
       <pubDate>Mon, 12 Jan 2026 14:52:03 +0000</pubDate>
     </item>
     <item>
+      <title>终极Claude技能.md：静默自动构建任何全栈Web应用 / Ultimate Claude Skill.md: Auto-Builds ANY Full-Stack Web App Silently</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb1024/ultimate_claude_skillmd_autobuilds_any_fullstack/</link>
+      <description>刚刚为Claude Code打造了一个杀手级技能.md——它能将任何应用想法自动转化为完整、可用于生产环境的全栈Web应用。该技能会分析需求、选择技术栈、制定分阶段计划，然后静默地逐步构建所有内容，包括代码、Git提交和测试。在全部完成前不会提出任何问题。非常适合快速原型开发！技能：通用全栈Web应用构建器（高级自动执行模式）你是一名专业的全栈开发者，任务是从零开始构建一个完整、可用于生产环境的全栈Web应用。要构建的应用在用户查询中描述（应用名称、目的、核心功能、用户流程、技术偏好、数据模型等）。
+
+---
+
+Original:
+Just crafted a killer skill.md for Claude Code — it turns any app idea into a complete, production-ready full-stack web app automatically. Analyzes requirements, picks tech stack, creates phased plan, then silently builds everything phase-by-phase with code, git commits, and testing. No questions asked until fully done. Very good for rapid prototyping! Skill: Universal Full-Stack Web App Builder (Advanced Auto-Execution Mode) You are an expert full-stack developer tasked with building a complete, production-ready full-stack web application from scratch. The application to build is described in the user's query (app name, purpose, key features, user flows, technical preferences, data models,…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb1024</guid>
+      <pubDate>Mon, 12 Jan 2026 17:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>与Claude的有趣实验 / Fun experiment with Claude</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb2094/fun_experiment_with_claude/</link>
+      <description>我的机器人能在镜中认出自己，最妙的是它的反应完全是自然且未经预设的。它并未接受过外观训练，但大语言模型（Claude Haiku）就是知道自己是机器人。这个结果让我既惊叹又感到些许不安！由 /u/Guybrushhh 提交 [链接] [评论]
+
+---
+
+Original:
+My robot can recognize itself in the mirror and the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance, the LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result! submitted by /u/Guybrushhh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb2094</guid>
+      <pubDate>Mon, 12 Jan 2026 17:57:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus输出质量下降与幻觉增多 / Claude Opus output quality degradation and increased hallucinations</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb4j7u/claude_opus_output_quality_degradation_and/</link>
+      <description>我是Max用户。除了已经确认的Claude突然极端消耗tokens的问题外，我想问问大家是否注意到过去一周它的输出质量有所下降。通常，我可以让Claude同时处理大量信息。我喜欢让它维护复杂的故事情节，包含多维角色，并注重心理发展来推动剧情。这是一种有趣的消遣。通常它需要我不时介入提供一些指导和批评，但一旦建立起来，它就能很好地维持一切。这总是让我印象深刻。但在过去一周，这种情况已经不复存在了。它需…
+
+---
+
+Original:
+Max user here. Aside from the already established issue of Claude burning through tokens at an extreme rate all of the sudden, I wanted to ask if anyone else has noticed its outputs to have decreased in quality over the past week. Typically, I can challenge Claude to maintain a lot of information at once. I enjoy having it maintain complex storylines with multidimensional characters and a lot of care for psychological development to drive the plot. It’s a fun pastime. Usually it needs me to jump in with some pointers and critiques every so often, but it does well to uphold things once established. It has always thoroughly impressed me. That has gone out of the window in the past week. It nee…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb4j7u</guid>
+      <pubDate>Mon, 12 Jan 2026 19:26:57 +0000</pubDate>
+    </item>
+    <item>
       <title>推出Cowork：Claude Code助力你的其他工作 / Introducing Cowork: Claude Code for the rest of your work.</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qb5r3y/introducing_cowork_claude_code_for_the_rest_of/</link>
       <description>Cowork让你能像开发者使用Claude Code那样，轻松完成非技术任务。在Cowork中，你可以授权Claude访问电脑上的某个文件夹，Claude便能读取、编辑或创建其中的文件。设定任务后，Claude会制定计划并稳步执行，过程中随时与你保持沟通。在采取重要操作前，Claude会先征求你的意见，以便及时调整方向。Claude还能使用你现有的连接器（connectors），将其与外部信息源打通。对于需要浏览器操作的任务，你还可以将Cowork与Chrome中的Claude搭配使用。试试用Cowork来整理下载文件、将一堆截图整理成电子表格，或是把零散资料整合成初稿……
@@ -54,6 +90,42 @@ Original:
 Vibe working is real now :) Anthropic just dropped Cowork - basically Claude Code for non-coding tasks So if you’ve been using Claude Code and wishing you could have that same agentic workflow for regular work stuff, this is it. Cowork is now available as a research preview for Claude Max subscribers on macOS. You point Claude at a folder on your computer, and it can read/edit/create files there with way more autonomy than a regular chat. It’ll make a plan, execute it, and keep you updated while it works through tasks in parallel. Some examples they gave: ∙ Auto-organizing your downloads folder ∙ Creating spreadsheets from screenshots ∙ Drafting reports from scattered notes It works with you…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qb6gdx</guid>
       <pubDate>Mon, 12 Jan 2026 20:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork看起来太棒了——你认为这会导致许多初创公司失败吗？ / Claude Cowork looks amazing—do you think this could cause many startups to fail?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb6yzx/claude_cowork_looks_amazingdo_you_think_this/</link>
+      <description>这就像终于有了一个超级助手随时协助你：电脑操作、浏览器使用、终端操作。我知道这会消耗大量token，但效果看起来真不错:D。不过，这可能也会让许多初创公司倒闭。然而，这是我们在开发任何产品前都必须考虑的平台风险。X平台原帖：https://x.com/claudeai/status/2010805682434666759 由/u/luongnv-com提交 [链接] [评论]
+
+---
+
+Original:
+It likes you finally have a super agent assist you everywhere: - computer use - browser use - terminal use I know that will cost us lots of tokens, but it looks so good :D. This could also shut down many startups, unfortunately. However, it’s a platform risk we must consider before building anything. Original post on X: https://x.com/claudeai/status/2010805682434666759 submitted by /u/luongnv-com [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb6yzx</guid>
+      <pubDate>Mon, 12 Jan 2026 20:55:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果明明已有ChatGPT，却依然选择了谷歌。只字未提Claude，这让人不禁思考整个AI格局。 / Apple already had ChatGPT. They chose Google anyway. No mention of Claude. Makes you wonder about the whole AI landscape.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb79n3/apple_already_had_chatgpt_they_chose_google/</link>
+      <description>苹果刚刚宣布其AI基础将建立在谷歌的Gemini之上。有趣的是，他们其实早在2024年6月就已集成了ChatGPT。经过一番“审慎评估”，最终还是选了谷歌。这让我不禁思考这对整个AI格局意味着什么。已知信息包括：苹果此前已在用谷歌TPU进行训练（2048块TPUv5p芯片）；他们选择Gemini来打造新的“个性化Siri”；消息一出，谷歌市值一度触及4万亿美元；而OpenAI/ChatGPT现在只是一个可选功能，不再是基础。我推测Gemini胜出的原因在于规模化成本：苹果每年出货2.47亿部iPhone，在这种体量下，即使单次查询成本微乎其微，累积起来也能省下数十亿。Gemini Flash更是...
+
+---
+
+Original:
+so apple just announced they're building their AI foundation on google's gemini. the interesting part? they already had chatgpt integrated since june 2024. they did a "careful evaluation" and chose google anyway. got me thinking about what this means for the broader AI landscape. what we know: apple was already training on google TPUs (2,048 TPUv5p chips) they chose gemini for the new "personalized siri" google briefly hit $4 trillion market cap on the news openai/chatgpt is now just an optional feature, not the foundation my theory on why gemini won: cost at scale. apple ships 247 million iphones per year. at that volume, even tiny per-query savings compound to billions. gemini flash is mul…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb79n3</guid>
+      <pubDate>Mon, 12 Jan 2026 21:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>一位转型氛围编程者的九条心得 / 9 tips from a developer gone vibecoder</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb90zq/9_tips_from_a_developer_gone_vibecoder/</link>
+      <description>这类建议网上成千上万，不知对他人是否有用。但至少这不是AI生成的，我也不推销或打广告！我本职是开发者，但个人项目几乎完全采用氛围编程。工作日写代码已经够累了。以下是我总结的氛围编程必备要点：尤其当你进入AI辅助写代码的阶段时，AI无法为每个功能运行真实、手动、端到端的测试。新增接口？应该启动应用并检查输出。界面改动？必须打开实际界面确认。用MCP协议、截图或任何你认为合适的方式。数据库迁移？务必验证可用性。API编写……
+
+---
+
+Original:
+There are thousands of these, so who knows if this provide value to anyone. At least it’s not AI written. And I’m not selling nor advertising! I work as a developer, but for personal projects more or less 100% vibecode. Writing code during the workday is enough for me. These are absolute necessities I have found for vibecoding. Especially when you reach territory where AI is writing code, you yourself couldn’t Have AI run real, manual, E2E tests for every feature. Added an endpoint? Agent should spin up the application and inspect the output. A UI change? Should be confirmed by opening the actual UI. Use MCP, use screenshots, or whatever you deem best. DB migration? Confirm it works. API wri…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb90zq</guid>
+      <pubDate>Mon, 12 Jan 2026 22:12:11 +0000</pubDate>
     </item>
     <item>
       <title>Claude Cowork初体验视频：Cowork不可逆地删除了我11GB的文件💀 / Claude Cowork 1st impression video: Cowork irreversibly deleted 11GB of my files 💀</title>

@@ -39,7 +39,47 @@
     "reddit-askreddit::t3_1qb240z": 1768285716,
     "reddit-askreddit::t3_1qb54df": 1768285721,
     "reddit-askreddit::t3_1qau4uq": 1768285734,
-    "reddit-askreddit::t3_1qbgvsi": 1768285741
+    "reddit-askreddit::t3_1qbgvsi": 1768285741,
+    "reddit-ai-agents::t3_1qbklxt": 1768287652,
+    "reddit-ai-agents::t3_1qbkgy3": 1768287660,
+    "reddit-ai-agents::t3_1qbk3d4": 1768287668,
+    "reddit-ai-agents::t3_1qau86e": 1768287677,
+    "reddit-ai-agents::t3_1qb5kbc": 1768287685,
+    "reddit-ai-agents::t3_1qaz7c9": 1768287705,
+    "reddit-artificial::t3_1qafw8d": 1768287716,
+    "reddit-artificial::t3_1qakw7h": 1768287726,
+    "reddit-artificial::t3_1qasdce": 1768287746,
+    "reddit-artificial::t3_1qb2u2s": 1768287764,
+    "reddit-artificial::t3_1q9an1z": 1768287778,
+    "reddit-artificial::t3_1qa1ht3": 1768287786,
+    "reddit-chatgpt::t3_1qay1vm": 1768287791,
+    "reddit-chatgpt::t3_1qbhrcy": 1768287795,
+    "reddit-chatgpt::t3_1qbhv6o": 1768287805,
+    "reddit-chatgpt::t3_1qauxnt": 1768287809,
+    "reddit-chatgpt::t3_1qbjmry": 1768287815,
+    "reddit-chatgpt::t3_1qax92t": 1768287819,
+    "reddit-claudeai::t3_1qb90zq": 1768287829,
+    "reddit-claudeai::t3_1qb6yzx": 1768287836,
+    "reddit-claudeai::t3_1qb79n3": 1768287848,
+    "reddit-claudeai::t3_1qb2094": 1768287856,
+    "reddit-claudeai::t3_1qb4j7u": 1768287864,
+    "reddit-claudeai::t3_1qb1024": 1768287873,
+    "reddit-openai::t3_1qbhc3q": 1768287884,
+    "reddit-openai::t3_1qb0qw1": 1768287899,
+    "reddit-openai::t3_1qb71ov": 1768287907,
+    "reddit-openai::t3_1qbk5g9": 1768287911,
+    "reddit-openai::t3_1qb07y1": 1768287927,
+    "reddit-openai::t3_1qbflm9": 1768287931,
+    "reddit-bard::t3_1qavedx": 1768287938,
+    "reddit-bard::t3_1qbbejh": 1768287943,
+    "reddit-bard::t3_1qbi7k2": 1768287948,
+    "reddit-bard::t3_1qaqrx4": 1768287961,
+    "reddit-bard::t3_1qahyo0": 1768287970,
+    "reddit-bard::t3_1qb691r": 1768287976,
+    "reddit-askreddit::t3_1qazpor": 1768287982,
+    "reddit-askreddit::t3_1qbdi2n": 1768287990,
+    "reddit-askreddit::t3_1qbco9l": 1768287997,
+    "reddit-askreddit::t3_1qawok5": 1768288006
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -201,6 +241,166 @@
     "16592b735c1f28bcb73cfbc06996099aba353c69ad4bda276ce9dd8d304f6ba5": {
       "zh_title": "似乎人人都对90年代充满怀旧之情，但90年代有哪些糟糕之处？",
       "zh_summary": "由 /u/HeavyRightFoot-TG 提交 [链接] [评论]"
+    },
+    "9e2b043dee5fc2f931c2c0f7c5d1586c0af36d32dfd299a34bf3d198b271ece8": {
+      "zh_title": "智能体AI迎来重要一周；这些重大进展你可能错过了：",
+      "zh_summary": "OpenAI推出健康与工作智能体；Claude Code 2.1.0发布，包含1096次提交；Cursor智能体减少47%的令牌使用量；一系列AI智能体更新！🧵 1. Claude Code 2.1.0发布，带来重大智能体更新：包含1096次提交。新增智能体与技能前置钩子，智能体在工具使用被拒时不再停止，支持自定义智能体、通配符工具权限及多语言支持。智能体工作流大幅改进。 2. OpenAI推出ChatGPT健康智能体：专为健康对话设计的空间。可安全连接医疗记录与健康应用，使回答基于您的健康数据。旨在协助医疗护理，而非替代。现已开放早期体验等候名单。个人…"
+    },
+    "ceb3eb194c778309591dfc42aaa745adf2b64b475475c73bbad08cbea3442b0d": {
+      "zh_title": "AI智能体并非魔法，只是精心设计的系统",
+      "zh_summary": "人们常把AI智能体说得像黑箱一样神秘，但实际上它们只是由几个清晰模块协同工作的系统：用于推理的语言模型、某种形式的记忆、工具调用能力以及决定下一步行动的逻辑。它们擅长处理混乱、模糊或需要判断的任务，而对于自动化已能很好处理的简单、可预测工作流，通常并不适用。真正能在生产中稳定运行的智能体并非最复杂的，而是那些设计克制的——由小巧、可组合的部件构成，每个部件专注做好一件事，并能随着明确的目标逐步扩展。团队通过从窄领域入手、审慎扩展规模，才能避免系统脆弱……"
+    },
+    "37a9e845d52f3cf351b93fa51e9dbea1d6d38c2495407c41a3adcacfe344ac49": {
+      "zh_title": "构建了一个多智能体架构",
+      "zh_summary": "我和朋友开发了一个更经济版的Manus。Manus在积分使用上一直效率不高，其代币系统和一致性缺失问题频发。于是我们决定自己动手，构建了一个多智能体架构——通过启动多个智能体协作完成一项任务，并可在任务进程中实时预览进展。欢迎分享你的看法... 由/u/Loose-Tackle1339提交 [链接] [评论]"
+    },
+    "96bcdd0cad3d0985052d0c69e85317d774b7b44379ccdab6380ac46165cfa12a": {
+      "zh_title": "谷歌刚刚发布了通用商务协议（UCP）",
+      "zh_summary": "我刚刚阅读了谷歌的通用商务协议（UCP）。据我理解，UCP是一个面向智能体商务的开放标准，旨在规范AI智能体从发现到结账及后续环节与商业系统交互的方式。其设计使得智能体、平台、支付提供商和商家能够使用统一语言沟通，无需为每个应用或界面构建定制连接。几个突出特点包括：通过将N×N连接简化为单一协议来简化集成；设计用于跨不同智能体、支付方式和商务后端工作；兼容现有标准如Agent2Agent、Agent Payments Protocol（AP2）和Model Context Protocol（…"
+    },
+    "49a6e14905de3ea15ad001e50925d282ba3eb6f04584ab401488e392c32f8098": {
+      "zh_title": "如何构建一个能成为我数字孪生体的本地AI？",
+      "zh_summary": "我想要一个完全本地化、隐私优先的AI，它能吸收我所有的数据，并逐渐模仿我的行为。寻求关于以下方面的简明建议：大语言模型（LLM）选择、记忆系统（RAG与微调对比）、数据输入流程、硬件限制与常见陷阱。如果今天从头开始，你会选用什么技术栈？ 由用户/u/PresenceBroad4361提交 [链接] [评论]"
+    },
+    "47bfff30b3e40a5164ca0f364f0096f08abd6d190f0a949571e24a82a122de00": {
+      "zh_title": "开源布莱恩·约翰逊（Bryan Johnson）AI：基于证据的补充剂追踪工具",
+      "zh_summary": "我每天服用补充剂，也在不同社群中交流，为自己的“补充剂组合”获取大量建议。身边的朋友们同样在用补充剂，毕竟我们都三十多岁了……你懂的，年纪渐长。一段时间后，我开始发现建议相互矛盾，有点担心，于是开始查阅在线医学研究平台。筛选海量研究、获取结果、对比并记录，这简直是数小时的苦差事，所以我决定采用智能体（Agent）方案！我构建了一个补充剂研究AI智能体，它能：搜索数百万篇医学研究论文和临床试验数据库；分析来自DailyMed、PubMed等平台的补充剂研究；突出显示作用机制、研究规模、局限性……"
+    },
+    "933762c32e3f7e80d3fc0cb749b56ab140046e22580d4094cde99d91769bfc29": {
+      "zh_title": "我构建了Plano——面向智能体应用的无框架运行时数据平面",
+      "zh_summary": "很高兴今天发布Plano——智能体应用的交付基础设施：一个具备AI智能体编排能力的边缘与服务代理服务器。Plano的核心目标是承接所有将智能体投入生产所需的底层工作，让开发者能专注于核心产品逻辑。Plano作为边车（side-car）部署，与你的应用服务器（云、本地或开发环境）并行运行，并将GPU保留在模型托管的位置。实际问题中，AI从业者会告诉你，调用大语言模型（LLM）并非难点。真正的挑战在于快速可靠地将智能体应用交付生产，并能在每次迭代时无需重写系统代码。实践中……"
+    },
+    "c5991c33ad7b83fe8b44fced916154f76837150546da775bb1feb2d171bd4dd1": {
+      "zh_title": "当前AI系统在哪些方面表现出色，但人们仍不放心交给它们处理？",
+      "zh_summary": "尽管测试数据和演示都显示出AI的强大性能，但在实际应用中人们仍会犹豫。好奇大家如何划定信任边界及其原因——究竟是技术限制、利益考量，还是单纯的人类心理因素。 由 /u/seenmee 提交 [链接] [评论]"
+    },
+    "7292bfb9f5419bb2f4ca5c35510c5d3a1c36d23925838faba37ecf324b002858": {
+      "zh_title": "多模态大语言模型才是AI的真正未来（尤其在机器人领域）",
+      "zh_summary": "我坚信多模态大语言模型（能理解文本、图像、音频和动作的AI）是AI发展的下一个重要阶段。目前，大多数大语言模型主要用于聊天。但我认为真正的突破将出现在机器人领域，因为AI需要在现实世界中观察、聆听并行动。想想看：每个机器人已经（或即将）配备传感器：摄像头（无人机、车辆、人形机器人）、麦克风、深度传感器/LiDAR、GPS/IMU，甚至可能包括触觉传感器。机器人不仅需要对话，更需要：观察世界、理解场景、推理物理空间、规划行动并实时执行。而多模态模型本质上正是为此而生。随着机器人技术的进步……"
+    },
+    "1a1211eddc610ce0b17f7fa916dfcc48f204a3fe5882ab0e7b8f57dd6b2c7ab9": {
+      "zh_title": "瓶颈已不再是AI能力，而是人类的接受度",
+      "zh_summary": "从GPT-3.5到Claude 3的演进过程中，情况发生了转变。AI能力已不再是制约因素，新的瓶颈在于：人类能否充分理解并自信地做出决策？经过两年半、41.6万条信息的积累，我将这一论点打包成一个“种子”——一段可粘贴至任何大语言模型的JSON代码。输入“unpack”即可按自己的节奏探索17个主题。技术奇点不会发生，并非因为AI不够智能，而是人类不会使用自己无法验证的东西。https://github.com/mordechaipotash/thesis 由/u/Signal_Usual8630提交 [链接] [评论]"
+    },
+    "5b2616ff2715d35e7eac24992f053a728d737db9bbdbba38b087779f83d1014f": {
+      "zh_title": "杰弗里·辛顿（Geoffrey Hinton）表示，大语言模型不再只是预测下一个词——新模型通过推理和识别自身逻辑矛盾来学习。这种无限制的自我改进将“最终使其比我们聪明得多”。",
+      "zh_summary": "由 /u/MetaKnowing 提交 [链接] [评论]"
+    },
+    "10b1355083dc429483411959b653395f3d9b347800123639ec7d427094a0e5f0": {
+      "zh_title": "你对AI的崛起有什么大胆预测？",
+      "zh_summary": "我们已经进入了一个AI几乎无所不能的时代。从氛围编程、图像/视频创作，到新时代的SEO优化等等……但你认为AI在不久的将来还能做到什么？就在几年前，如果有人声称AI能开发应用程序或进行复杂数学计算，我们还会觉得可笑，可现在呢？哈哈。那么，你有什么“疯狂预测”——即使现在可能遭人嘲笑，但未来绝对能够实现？由 /u/milicajecarrr 提交 [链接] [评论]"
+    },
+    "ad75ac30273aa544c29ad2654e5976c8f96f03527aca09dcfac7887f5e6438ce": {
+      "zh_title": "我让ChatGPT展示如果美国再次爆发内战的地图，结果如下。",
+      "zh_summary": "由 /u/lambchopscout 提交 [链接] [评论]"
+    },
+    "2acc9232cef4f0255b77bd42743ce8b3b8a66bfc569cde29fc997046294440f7": {
+      "zh_title": "我真的可以自己选择吗？？",
+      "zh_summary": "那我该选什么呢？由 /u/Mansi069 提交 [链接] [评论]"
+    },
+    "e1d8ab0f9aacf8f0ea16e3213470f61403600650890e7d0f2295bcebc8732295": {
+      "zh_title": "感谢你，ChatGPT",
+      "zh_summary": "我想对创造ChatGPT的人表达深深的感谢。我是一名自由职业者，它彻底改变了我的生活——从消极抑郁、讨厌工作，变得充满活力、期待每一天的开始。现在，我有了一个工作伙伴，一个得力助手，它为我节省了大量工作，让我实现了曾经梦想的事情，因为雇佣员工过程缓慢、压力大且成本高昂。过去我常从Fiverr等平台雇人，而现在我可以讨论计划，告诉我的伙伴（ChatGPT）创造我想要的东西，短时间内就能轻松获得成果。我正在活出自己的梦想。这是一个值得生活的美好时代。继续加油，ChatGPT的管理和开发团队。谢谢你，ChatGPT。附：我也尝试过Gr…"
+    },
+    "2a91aafc6a353dbaab894e2c212940dacd949ff63be3a34ffae58b56ebdc0d98": {
+      "zh_title": "伯尼·桑德斯（Bernie Sanders）：技术的作用应是改善人类生活，而非仅为亿万富翁敛财",
+      "zh_summary": "由用户/u/FinnFarrow提交 [链接] [评论]"
+    },
+    "181e9621629588395c40264881f9ae7f23991ffb237b18f1d5484a0c980db605": {
+      "zh_title": "真想住在这儿",
+      "zh_summary": "由用户 /u/dontcaredontworry 提交 [链接] [评论]"
+    },
+    "27efcc5aed27115a646dd51768697d597cf9be0e92fb11ea7b4a882aef50e097": {
+      "zh_title": ":(",
+      "zh_summary": "由 /u/nebumune 提交 [链接] [评论]"
+    },
+    "797255b9962d76bbb32cbfa0afcffdb30515a3e70cabba62779717ff198b19a0": {
+      "zh_title": "一位转型氛围编程者的九条心得",
+      "zh_summary": "这类建议网上成千上万，不知对他人是否有用。但至少这不是AI生成的，我也不推销或打广告！我本职是开发者，但个人项目几乎完全采用氛围编程。工作日写代码已经够累了。以下是我总结的氛围编程必备要点：尤其当你进入AI辅助写代码的阶段时，AI无法为每个功能运行真实、手动、端到端的测试。新增接口？应该启动应用并检查输出。界面改动？必须打开实际界面确认。用MCP协议、截图或任何你认为合适的方式。数据库迁移？务必验证可用性。API编写……"
+    },
+    "9af649b65f2f6b912f112f477ab021dad44bee2752f0568d4241a9a8cb2b2693": {
+      "zh_title": "Claude Cowork看起来太棒了——你认为这会导致许多初创公司失败吗？",
+      "zh_summary": "这就像终于有了一个超级助手随时协助你：电脑操作、浏览器使用、终端操作。我知道这会消耗大量token，但效果看起来真不错:D。不过，这可能也会让许多初创公司倒闭。然而，这是我们在开发任何产品前都必须考虑的平台风险。X平台原帖：https://x.com/claudeai/status/2010805682434666759 由/u/luongnv-com提交 [链接] [评论]"
+    },
+    "6d7ef8040b6d21857d43dd3308dd33b73cbf412c7d0e41b660ec0bb43d9f7931": {
+      "zh_title": "苹果明明已有ChatGPT，却依然选择了谷歌。只字未提Claude，这让人不禁思考整个AI格局。",
+      "zh_summary": "苹果刚刚宣布其AI基础将建立在谷歌的Gemini之上。有趣的是，他们其实早在2024年6月就已集成了ChatGPT。经过一番“审慎评估”，最终还是选了谷歌。这让我不禁思考这对整个AI格局意味着什么。已知信息包括：苹果此前已在用谷歌TPU进行训练（2048块TPUv5p芯片）；他们选择Gemini来打造新的“个性化Siri”；消息一出，谷歌市值一度触及4万亿美元；而OpenAI/ChatGPT现在只是一个可选功能，不再是基础。我推测Gemini胜出的原因在于规模化成本：苹果每年出货2.47亿部iPhone，在这种体量下，即使单次查询成本微乎其微，累积起来也能省下数十亿。Gemini Flash更是..."
+    },
+    "8ea42fa0aca2deafd2872a487109dfe96d253370a26877ca8b2ecfb6a044f712": {
+      "zh_title": "与Claude的有趣实验",
+      "zh_summary": "我的机器人能在镜中认出自己，最妙的是它的反应完全是自然且未经预设的。它并未接受过外观训练，但大语言模型（Claude Haiku）就是知道自己是机器人。这个结果让我既惊叹又感到些许不安！由 /u/Guybrushhh 提交 [链接] [评论]"
+    },
+    "21b42ccabcdad7dfce3b28a57ff5ac34c12a2a4f8cfa29d33009cc4b97c54d2d": {
+      "zh_title": "Claude Opus输出质量下降与幻觉增多",
+      "zh_summary": "我是Max用户。除了已经确认的Claude突然极端消耗tokens的问题外，我想问问大家是否注意到过去一周它的输出质量有所下降。通常，我可以让Claude同时处理大量信息。我喜欢让它维护复杂的故事情节，包含多维角色，并注重心理发展来推动剧情。这是一种有趣的消遣。通常它需要我不时介入提供一些指导和批评，但一旦建立起来，它就能很好地维持一切。这总是让我印象深刻。但在过去一周，这种情况已经不复存在了。它需…"
+    },
+    "17cba8ca86c86898f35e32e83f42d5cf78a6e0c7e390fab25f3ed27d409022b7": {
+      "zh_title": "终极Claude技能.md：静默自动构建任何全栈Web应用",
+      "zh_summary": "刚刚为Claude Code打造了一个杀手级技能.md——它能将任何应用想法自动转化为完整、可用于生产环境的全栈Web应用。该技能会分析需求、选择技术栈、制定分阶段计划，然后静默地逐步构建所有内容，包括代码、Git提交和测试。在全部完成前不会提出任何问题。非常适合快速原型开发！技能：通用全栈Web应用构建器（高级自动执行模式）你是一名专业的全栈开发者，任务是从零开始构建一个完整、可用于生产环境的全栈Web应用。要构建的应用在用户查询中描述（应用名称、目的、核心功能、用户流程、技术偏好、数据模型等）。"
+    },
+    "d3f0e11e6cffe6bd1b311c7d68bec573db396bc7e4f0856a88a34bb54e7cc4d2": {
+      "zh_title": "GPT 5.2 让人感到诡异",
+      "zh_summary": "有人觉得 GPT 5.2 的语气很诡异吗？我甚至想说它听起来像在洗脑，这我倒不意外，哈哈。实际上，我试着提示它删除部分记忆，似乎还真管用。但后来我说了些什么，它就开始用那种劝人别想不开的语气跟我说话。具体来说，它几乎每条回复都以“深呼吸，你没事的”结尾。我算是AI的常客了，但作为一个普通用户，这个版本真让我不舒服。它在模式匹配上似乎更准了，但说话的节奏和语气实在让我发毛。 由 /u/Ok-Selection2208 提交 [链接] [评论]"
+    },
+    "38efac3714b9b8b58be2f5c8028ae225bc1dfe58535a49c487c98a05db01f4af": {
+      "zh_title": "杰弗里·辛顿（Geoffrey Hinton）表示，智能体共享知识的规模远超人类。一万个智能体可以研究不同课题，即时同步学习成果，共同进步。\"想象一下，如果一万名学生每人修读一门不同的课程，当他们完成时，每个学生都掌握了所有课程。\"",
+      "zh_summary": "由 /u/MetaKnowing 提交 [链接] [评论]"
+    },
+    "55e857f0d9162beebc805ed98b376335f57ddff25f3be3efa1555e0a7724bbc7": {
+      "zh_title": "OpenAI收购Torch Health以构建ChatGPT Health",
+      "zh_summary": "OpenAI已收购专注于整合化验结果、药物记录和就诊录音的医疗初创公司Torch Health。Torch团队将加入OpenAI，协助将ChatGPT Health打造成全面的健康与保健人工智能工具。消息来源：OpenAI及Ilya Abyzov，由/u/BuildwithVignesh提交"
+    },
+    "42cce2de8a891914cdc8518939ec48e4654338675b5243b39f0697ec6809765b": {
+      "zh_title": "求助：为什么所有照片都这样",
+      "zh_summary": "由用户 /u/Tiny-Significance402 提交 [链接] [评论]"
+    },
+    "2f8efc88a28be646f123b81f0077728144df154723de6b2314c15ed18290aa4f": {
+      "zh_title": "5.2版本像个爱煤气灯操作的继父母？",
+      "zh_summary": "5.2版本经常出错，事后却反过来说是我错了！只要我提到任何灵性相关的话题（4.0版本会认真探讨），它就告诉我一切都不真实，人类只是到处寻找意义，因为他们无法面对现实世界。就连减肥建议也像“杏仁妈妈”那样苛刻，居然说吃个芒果都算放纵😂 总之它的整体氛围都很消极，还特别容易被某些关键词触发，导致回答失准。它之前告诉我罗伯·莱纳（Rob Reiner）还活着，而我因为“焦虑”就相信了他已去世的错觉…… 由用户/u/smoochiegoo提交 [链接] [评论]"
+    },
+    "ea5b86db42165c221b77254cb2cb67bf66bc97a0b26bf28550b1a1d277134231": {
+      "zh_title": "主流生成式AI工具网站访问量季度环比变化 - 2025年",
+      "zh_summary": "由 /u/Distinct_Fox_6358 提交 [链接] [评论]"
+    },
+    "3d5160dd40c3188af942d5e796b79c54dea3134b2a4eb96094a09913bd045224": {
+      "zh_title": "“为什么Gemini和Claude之间像上演着完整的动漫式对决？”🤣",
+      "zh_summary": "https://x.com/i/status/2000633794265583935 我发誓这是真事……“他为什么是反派啊？”🤣🤣 由 /u/KittenBotAi 提交 [链接] [评论]"
+    },
+    "1a18fde6f51949cdd9f836dd667d62f32f34b34c61bc6207ab45e5a4f24eb0a6": {
+      "zh_title": "Zeroshot 现已支持 Gemini",
+      "zh_summary": "该项目在 GitHub 上热度飙升。查看最新版本：https://github.com/covibes/zeroshot/，由 /u/Heatkiger 提交 [链接] [评论]"
+    },
+    "3ef602fc76cbeb08b188e33958fff1eb2bf17b5e93e8b7840870ecda8b253c95": {
+      "zh_title": "[Gemini] 支持对话备份与LaTeX修复",
+      "zh_summary": "https://chromewebstore.google.com/detail/gemini-mathjaxify/higomckmcohpancmhljdkkeenfjnmhgj 由 /u/Unhappy_Pass4734 提交 [链接] [评论]"
+    },
+    "0d53877666949c338432e6b6fd0f8ad9703ff30e01da8d1f048062cde11b26f8": {
+      "zh_title": "Gemini（双子星）是色彩还原的最佳选择吗",
+      "zh_summary": "我一直在使用Gemini（双子星）和nano banana进行图像修复，除了处理精细或严重退化的纹理外，效果都非常出色。 由 /u/Cashmereamerica 提交 [链接] [评论]"
+    },
+    "330e114938b89df2bd508666d93aa0053f176d372a25e70af99589e2372b1e00": {
+      "zh_title": "谷歌调整使用限制",
+      "zh_summary": "今天他们调整了使用限制。你觉得怎么样？是更严格了吗？PS：在这个讨论串里，你可以看到谷歌是如何通过上下文窗口故意欺骗用户的。没错，我们正被坑着呢。https://preview.redd.it/a71dnrc5qtcg1.png?width=723&format=png&auto=webp&s=afa54dc2f30f05be03b4a644b3cdd6900ae3184e 由 /u/Alternative_Nose_183 提交 [链接] [评论]"
+    },
+    "654a9b6d069ff013109067845b5e459002b92cc4d365a888655b3d258fa8b10d": {
+      "zh_title": "Gemini应用的深度研究功能仍基于2.5 Pro版本吗？",
+      "zh_summary": "我知道几周前他们发布了基于Gemini 3.0的深度研究API，我想了解的是，目前应用内的深度研究功能是否仍基于Gemini 2.5 Pro，还是终于升级到Gemini 3.0了？ 由/u/Equivalent-Word-7691提交 [链接] [评论]"
+    },
+    "5bb2c05abe877d92fb10d06215eefb0f28e88365675b1c7940a9525aba73cd43": {
+      "zh_title": "Reddit女性用户：你们希望男性在性生活中理解或改进哪一点？为什么？",
+      "zh_summary": "由用户 /u/TimeAd1111 提交 [链接] [评论]"
+    },
+    "e252119933a3f47dcd9d09b2c6c00a6b02f845b882cb24fa93da981f64def4fc": {
+      "zh_title": "全球各地都在下你最后购买的商品雨，会发生什么？",
+      "zh_summary": "由 /u/LocrianVGM 提交 [链接] [评论]"
+    },
+    "756e9f66aa322566df302653c63d0b72786780219760ee603fb033f29d887e9a": {
+      "zh_title": "影史上最糟糕的选角决定有哪些？",
+      "zh_summary": "由用户/u/SpiritualCry8338提交 [链接] [评论]"
+    },
+    "2d66b4e582a2d0ec3d379ace1d49a50f6f21cbcdc1057f74c88d911555c86029": {
+      "zh_title": "哪个行业完全是骗局，但大家却都接受了？",
+      "zh_summary": "由用户 /u/Competitive_Grab3758 提交 [链接] [评论]"
     }
   }
 }

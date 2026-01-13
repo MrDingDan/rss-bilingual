@@ -6,7 +6,31 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 06:24:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:03:07 +0000</lastBuildDate>
+    <item>
+      <title>杰弗里·辛顿（Geoffrey Hinton）表示，大语言模型不再只是预测下一个词——新模型通过推理和识别自身逻辑矛盾来学习。这种无限制的自我改进将“最终使其比我们聪明得多”。 / Geoffrey Hinton says LLMs are no longer just predicting the next word - new models learn by reasoning and identifying contradictions in their own logic. This unbounded self-improvement will "end up making it much smarter than us."</title>
+      <link>https://www.reddit.com/r/artificial/comments/1q9an1z/geoffrey_hinton_says_llms_are_no_longer_just/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1q9an1z</guid>
+      <pubDate>Sat, 10 Jan 2026 17:54:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>你对AI的崛起有什么大胆预测？ / What’s your wild take on the rise of AI?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qa1ht3/whats_your_wild_take_on_the_rise_of_ai/</link>
+      <description>我们已经进入了一个AI几乎无所不能的时代。从氛围编程、图像/视频创作，到新时代的SEO优化等等……但你认为AI在不久的将来还能做到什么？就在几年前，如果有人声称AI能开发应用程序或进行复杂数学计算，我们还会觉得可笑，可现在呢？哈哈。那么，你有什么“疯狂预测”——即使现在可能遭人嘲笑，但未来绝对能够实现？由 /u/milicajecarrr 提交 [链接] [评论]
+
+---
+
+Original:
+We have entered an era of AI doing _almost_ anything. From vibe coding, to image/video creation, new age of SEO, etc etc… But what do you think AI is going to be able to do in the near future? Just a few years ago we were laughing at people saying AI will be able to make apps, for example, or do complex mathematical calculation, and here we are haha So what’s your “wild take” some people might laugh at, but it’s 100% achievable in the future? submitted by /u/milicajecarrr [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qa1ht3</guid>
+      <pubDate>Sun, 11 Jan 2026 15:02:19 +0000</pubDate>
+    </item>
     <item>
       <title>研究人员称，尽管面临限制，中国正逐步缩小与美国的科技差距 / China is closing in on US technology lead despite constraints, AI researchers say</title>
       <link>https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/</link>
@@ -18,6 +42,54 @@ Original:
 submitted by /u/esporx [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qae670</guid>
       <pubDate>Sun, 11 Jan 2026 23:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>我构建了Plano——面向智能体应用的无框架运行时数据平面 / I built Plano - the framework-agnostic runtime data plane for agentic applications</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qafw8d/i_built_plano_the_frameworkagnostic_runtime_data/</link>
+      <description>很高兴今天发布Plano——智能体应用的交付基础设施：一个具备AI智能体编排能力的边缘与服务代理服务器。Plano的核心目标是承接所有将智能体投入生产所需的底层工作，让开发者能专注于核心产品逻辑。Plano作为边车（side-car）部署，与你的应用服务器（云、本地或开发环境）并行运行，并将GPU保留在模型托管的位置。实际问题中，AI从业者会告诉你，调用大语言模型（LLM）并非难点。真正的挑战在于快速可靠地将智能体应用交付生产，并能在每次迭代时无需重写系统代码。实践中……
+
+---
+
+Original:
+Thrilled to be launching Plano today - delivery infrastructure for agentic apps: An edge and service proxy server with orchestration for AI agents. Plano's core purpose is to offload all the plumbing work required to deliver agents to production so that developers can stay focused on core product logic. Plano runs alongside your app servers (cloud, on-prem, or local dev) deployed as a side-car, and leaves GPUs where your models are hosted. The problem On the ground AI practitioners will tell you that calling an LLM is not the hard part. The really hard part is delivering agentic applications to production quickly and reliably, then iterating without rewriting system code every time. In pract…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qafw8d</guid>
+      <pubDate>Mon, 12 Jan 2026 00:21:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>当前AI系统在哪些方面表现出色，但人们仍不放心交给它们处理？ / What is something current AI systems are very good at, but people still don’t trust them to do?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qakw7h/what_is_something_current_ai_systems_are_very/</link>
+      <description>尽管测试数据和演示都显示出AI的强大性能，但在实际应用中人们仍会犹豫。好奇大家如何划定信任边界及其原因——究竟是技术限制、利益考量，还是单纯的人类心理因素。 由 /u/seenmee 提交 [链接] [评论]
+
+---
+
+Original:
+We see benchmarks and demos showing strong performance, but hesitation still shows up in real use. Curious where people draw the trust line and why, whether it’s technical limits, incentives, or just human psychology. submitted by /u/seenmee [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qakw7h</guid>
+      <pubDate>Mon, 12 Jan 2026 04:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>多模态大语言模型才是AI的真正未来（尤其在机器人领域） / Multimodal LLMs are the real future of AI (especially for robotics)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qasdce/multimodal_llms_are_the_real_future_of_ai/</link>
+      <description>我坚信多模态大语言模型（能理解文本、图像、音频和动作的AI）是AI发展的下一个重要阶段。目前，大多数大语言模型主要用于聊天。但我认为真正的突破将出现在机器人领域，因为AI需要在现实世界中观察、聆听并行动。想想看：每个机器人已经（或即将）配备传感器：摄像头（无人机、车辆、人形机器人）、麦克风、深度传感器/LiDAR、GPS/IMU，甚至可能包括触觉传感器。机器人不仅需要对话，更需要：观察世界、理解场景、推理物理空间、规划行动并实时执行。而多模态模型本质上正是为此而生。随着机器人技术的进步……
+
+---
+
+Original:
+I strongly believe multimodal LLMs (AI that can understand text, images, audio, and actions) are the next big step in AI. Right now, most LLMs are mainly used for chatting. But I think the real breakthrough will happen in robotics, where AI needs to see, hear, and act in the real world. Think about it: Every robot already has (or will have) sensors: Cameras (drones, vehicles, humanoid robots) Microphones Depth sensors / LiDAR GPS / IMU Maybe even tactile sensors A robot doesn’t just need to talk, it needs to: see the world understand scenes reason about physical space plan actions and execute in real-time And multimodal models are basically built for this. I feel like as robotics advances ac…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qasdce</guid>
+      <pubDate>Mon, 12 Jan 2026 11:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>瓶颈已不再是AI能力，而是人类的接受度 / The bottleneck isn't AI capability anymore. It's human reception.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qb2u2s/the_bottleneck_isnt_ai_capability_anymore_its/</link>
+      <description>从GPT-3.5到Claude 3的演进过程中，情况发生了转变。AI能力已不再是制约因素，新的瓶颈在于：人类能否充分理解并自信地做出决策？经过两年半、41.6万条信息的积累，我将这一论点打包成一个“种子”——一段可粘贴至任何大语言模型的JSON代码。输入“unpack”即可按自己的节奏探索17个主题。技术奇点不会发生，并非因为AI不够智能，而是人类不会使用自己无法验证的东西。https://github.com/mordechaipotash/thesis 由/u/Signal_Usual8630提交 [链接] [评论]
+
+---
+
+Original:
+Somewhere between GPT-3.5 and Claude 3, something shifted. AI capability stopped being the constraint. The new bottleneck: Can humans understand enough to decide with confidence? After 416K messages over 2.5 years, I packaged this thesis into a "seed" — a JSON you paste into any LLM. Type "unpack" and explore 17 themes at your own pace. The singularity can't happen. Not because AI isn't smart enough. Because humans won't use what they can't verify. https://github.com/mordechaipotash/thesis submitted by /u/Signal_Usual8630 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qb2u2s</guid>
+      <pubDate>Mon, 12 Jan 2026 18:27:42 +0000</pubDate>
     </item>
     <item>
       <title>智能悖论：为何集中式AI遭遇“算力墙”，以及去中心化推理枢纽的解决方案 / The Intelligence Paradox: Why centralized AI is hitting a "Power Wall" and the case for decentralized inference hubs</title>
