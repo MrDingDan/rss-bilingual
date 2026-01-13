@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:54:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:32:27 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -594,6 +594,18 @@ Original:
 As the title says, want to learn Ai agents development, automations, i know nothing about coding and all though i know the maths required for AIML Please suggest how to go about it? With AI agents development Any resources to learn about any computer language i want to learn it all submitted by /u/Ill-Lawfulness2129 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc2e6n</guid>
       <pubDate>Tue, 13 Jan 2026 20:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>寻求协助完成自动化项目（有偿工作） / Looking for help to finish automation (paid work)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc3goz/looking_for_help_to_finish_automation_paid_work/</link>
+      <description>大家好，我正在寻求帮助来完成一个销售/营销自动化项目，该项目使用网络钩子和API集成，涉及谷歌表格（Google Sheets）和WhatsApp。我还需要一个网页抓取工具。所有基础模块都已就位，测试中似乎能运行，但表现不稳定。我想知道是否有专家或公司能帮我完善这个项目。急需解决，理想情况是明天（2026年1月14日）完成。截止日期临近，已经开始感到焦虑了！提交者：/u/Site_Acrobatic [链接] [评论]
+
+---
+
+Original:
+Hi I’m looking for help to finish a sales/marketing automation that uses web hooks and API integrations for google sheets and WhatsApp I also need a web-scraper , all of the building blocks are in place and it seems to be working but it’s not consistent in testing . I was wondering if there are any experts or companies out there that can help polish it for me. I need this sorted ASAP ideally tommorow 14/1/2026 , please let me know the panic is starting to set in with a deadline looming! submitted by /u/Site_Acrobatic [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc3goz</guid>
+      <pubDate>Tue, 13 Jan 2026 21:10:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

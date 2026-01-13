@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:55:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:32:54 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -414,6 +414,18 @@ Original:
 Hii guys hopefully you will enjoy this prompt. Prompt 👇 A full-body, high-resolution editorial photograph of a young adult woman standing on a modern indoor staircase, captured with clean, contemporary realism. The image feels like a polished lifestyle or fashion photograph taken in a real architectural space, grounded and observational rather than stylized. Subject Description A young woman with balanced, natural facial features and a composed, confident expression. Her face is softly lit, with clear skin texture, natural contours, and subtle makeup that enhances rather than transforms—defined brows, neutral lips, and lightly emphasized eyes. Her gaze is directed back over her shoulder towa…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qc2ach</guid>
       <pubDate>Tue, 13 Jan 2026 20:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3 Pro（浏览器版）上下文窗口无法使用，寻求在AI Studio / NotebookLM中延续多周对话而不丢失上下文的解决方案 / Gemini 3 Pro (browser) context window is unusable, looking for a solution to continue multi-week chats in AI Studio / NotebookLM without losing context..</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qc385r/gemini_3_pro_browser_context_window_is_unusable/</link>
+      <description>由 /u/zsolt67 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/zsolt67 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qc385r</guid>
+      <pubDate>Tue, 13 Jan 2026 21:01:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

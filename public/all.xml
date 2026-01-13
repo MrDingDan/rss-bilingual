@@ -6,79 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:57:54 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 大语言模型评估：关键不在准确率，而在于选取合适的信号 / LLM Evaluation Isn’t About Accuracy Its About Picking the Right Signal</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbpjhn/llm_evaluation_isnt_about_accuracy_its_about/</link>
-      <description>评估大语言模型听起来简单，但当你真正尝试在现实系统中衡量它们时，就会发现并非如此。仅凭准确率，很少能告诉你一个模型是否有用、可信，或者是否符合用户需求。不同的任务需要不同的信号——翻译、摘要、问答、推理和检索，如果用错了衡量标准，这些任务都会出问题。困惑度（Perplexity）对语言建模很有用，但对终端用户来说毫无意义。BLEU、ROUGE和METEOR在重叠度重要时能提供帮助，但当存在多个有效答案时就会失效。BERTScore更接近语义理解，但仍无法检测幻觉（hallucinations）。当涉及细微差别、清晰度或实用性时，人工评估依然必不可少，但它缓慢且昂贵。T…
-
----
-
-Original:
-Evaluating LLMs sounds simple until you actually try to measure them in real-world systems. Accuracy alone rarely tells you whether a model is useful, trustworthy or aligned with what users need. Different tasks demand different signals translation, summarization, Q&amp;amp;A, reasoning and retrieval all break if you judge them with the wrong metric. Perplexity is great for language modeling but meaningless for end users. BLEU, ROUGE and METEOR help when overlap matters but fail when multiple answers are valid. BERTScore moves closer to semantic understanding, but still can’t detect hallucinations. Human evaluation stays essential when nuance, clarity or utility matters but its slow and expensive. T…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbpjhn</guid>
-      <pubDate>Tue, 13 Jan 2026 12:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 编程达人们，我找到了心流状态 / Vibe Coders, I found the Flow.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpms1/vibe_coders_i_found_the_flow/</link>
-      <description>目前编程领域没有比Opus 4.5更强的模型，但Claude虽然优秀，在直接部署时却容易走捷径或让项目暴露给恶意攻击者。我知道有些第三方产品试图解决这个问题，但我最近发现，Codex 5.1/5.2其实非常擅长发现这类编码疏漏并进行修补。作为安全模型，Codex远胜Opus 4.5，因为它思考得既深入又周全。 由/u/No-Commission-3825提交 [链接] [评论]
-
----
-
-Original:
-Nothing beats Opus 4.5 at the moment in coding, but as much as Claude is good, its also good at making shortcuts or leaving projects exposed to bad actors when deployed as is. I know these 3rd parties products that aim to fix this, But I recently just discovered that actually, Codex 5.1/5.2 is extremely good at finding these coding slops and patching them. Like Codex as a security model far suppress Opus 4.5, because it thinks so long and so good. submitted by /u/No-Commission-3825 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbpms1</guid>
-      <pubDate>Tue, 13 Jan 2026 12:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你人生中遇到过最糟糕的人是谁？ / Who is the worst person you’ve ever met in your life?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbpniz/who_is_the_worst_person_youve_ever_met_in_your/</link>
-      <description>由用户 /u/Scary-Bill970 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Scary-Bill970 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbpniz</guid>
-      <pubDate>Tue, 13 Jan 2026 12:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你私底下最爱哪些奇葩食物搭配？ / What’s the weirdest food combo you secretly enjoy?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbpp0f/whats_the_weirdest_food_combo_you_secretly_enjoy/</link>
-      <description>由用户 /u/TinyPup33 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/TinyPup33 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbpp0f</guid>
-      <pubDate>Tue, 13 Jan 2026 12:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 寻求合作 / Need Assistance</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbpxlp/need_assistance/</link>
-      <description>你好，我计划向企业销售AI语音机器人，希望寻找合作伙伴共同为客户开发。当然，我会提供优厚报酬。如果有人愿意教我制作方法，同样欢迎，我们可以通过Zoom或其他合适平台进行交流。我拥有GO HIGH LEVEL平台，但对数字技术和AI领域还比较陌生，仍在学习中。感谢你的时间。发布者：/u/Fortemuito [链接] [评论]
-
----
-
-Original:
-Hello, I want to start selling AI voice bots to businesses. I want someone to partner with me to make them for customers. Of course I will pay good. I would also like someone to teach me to make them. If someone just wants to teach me, that would work too, and we could do it over zoom or whatever platform works best. I have GO HIGH LEVEL but I am new to digital technologies/AI so still learning. Thank you for your time. submitted by /u/Fortemuito [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbpxlp</guid>
-      <pubDate>Tue, 13 Jan 2026 12:23:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 好吧，Opus 4.5，你赢了，接下来呢？（担心失去它） / Ok Opus 4.5, you win, what's next? (fear of losing it)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbq2jo/ok_opus_45_you_win_whats_next_fear_of_losing_it/</link>
-      <description>这个问题想请教一下这里的“老用户”（指使用超过6个月的人）。你们之前遇到过一个模型时是这样的吗？1. 试用 2. 陷入“爱河” 3. 然后……它没了。因为这就是我现在的担忧。Opus 4.5 是第一个在代理式编码和许多其他我用它做的事情上，100%适合我的AI。我喜欢它的交互方式，喜欢它的聪明劲儿，喜欢它处理一切的方式。我不断尝试其他模型，但总是回到它身边。但某个时候，Anthropic 会发布新版本，然后它就会消失。2个月、3个月或6个月，这总会发生。而现在当我看到 Opus 4.1 的定价，不知为何变得非常昂贵。这意味着他们可能不希望用户停留在旧模型上。有人经历过这种……
-
----
-
-Original:
-This is a question for old-timers here (old meaning more than 6 months). Did that happen to you with a previous model? 1. Try it out 2. Fall in "love" 3. Aaaaand it's gone Because that's my current fear. Opus 4.5 is the first AI that fits me 100% for agentic coding and many other things I use it for. I love the interactions, how smart it is, how it does everything. I keep trying other models and coming back to it. Now at some point, Anthropic will release a new version and it'll be gone. 2, 3 or 6 months, it will happen. And now when I look at Opus 4.1 pricing, it's very expensive for some reason. Meaning they probably don't want you to linger on older models. Did anyone lived through that w…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbq2jo</guid>
-      <pubDate>Tue, 13 Jan 2026 12:30:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 21:35:25 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 热评：AI无需更聪明，关键在于可管控 / Hot take: AI doesn't need to get smarter. It needs to get governable.</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbq5ax/hot_take_ai_doesnt_need_to_get_smarter_it_needs/</link>
@@ -649,6 +577,18 @@ Here's the math that changed how I use Claude for automation: 90% accuracy acros
       <pubDate>Tue, 13 Jan 2026 16:26:46 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 氛围合规已成现实 / Vibe compliance is now real</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbvzog/vibe_compliance_is_now_real/</link>
+      <description>如果你正在使用Cursor、Claude Code或类似的AI工具进行开发，你可能已经发现它们本身并不“了解”你公司的合规要求、安全政策或内部标准。以下是你应考虑连接到AI编程助手的关键资源列表：通用合规与安全 ∙ OWASP十大安全风险 ∙ CWE 25个最危险软件缺陷 ∙ NIST网络安全框架 JavaScript/TypeScript：∙ npm安全最佳实践 - https://docs.npmjs.com/packages-and-modules/securing-your-code ∙ Node.js安全最佳实践 Python：∙ Python安全最佳实践 ∙ Bandit安全检测规则 - https://bandit.readthedocs.io/ 行业特…
+
+---
+
+Original:
+If you’re using Cursor, Claude Code, or similar AI tools for development, you’ve probably realized they don’t inherently “know” your company’s compliance requirements, security policies, or internal standards. Here’s a list of essential resources you should consider connecting to your AI coding assistant: General Compliance &amp; Security ∙ OWASP Top 10 ∙ CWE Top 25 Most Dangerous Software Weaknesses ∙ NIST Cybersecurity Framework JavaScript/TypeScript: ∙ npm security best practices - https://docs.npmjs.com/packages-and-modules/securing-your-code ∙ Node.js Security Best Practices Python: ∙ Python Security Best Practices ∙ Bandit Security Linter Rules - https://bandit.readthedocs.io/ Industry-Spe…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbvzog</guid>
+      <pubDate>Tue, 13 Jan 2026 16:31:40 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_askreddit] 有哪些公司以极低成本生产却售价高昂的产品？ / What's an expensive product that companies produce for dirt cheap?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qbw12n/whats_an_expensive_product_that_companies_produce/</link>
       <description>由用户 /u/sassox123 提交 [链接] [评论]
@@ -1109,6 +1049,18 @@ submitted by /u/MetaKnowing [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 18:36:01 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 那些没有任何亲密朋友的成年人，你们是如何走到这一步的？这会困扰你们吗？ / Adults who have zero close friends, how did it happen and does it bother you?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qbzf7e/adults_who_have_zero_close_friends_how_did_it/</link>
+      <description>由用户 /u/PutPurple844 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/PutPurple844 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qbzf7e</guid>
+      <pubDate>Tue, 13 Jan 2026 18:41:58 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] 你用过OpenAI最意想不到的实用功能是什么？ / What’s the most unexpectedly useful thing you’ve used OpenAI for?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qbzi2j/whats_the_most_unexpectedly_useful_thing_youve/</link>
       <description>我开始好奇，除了常见的“总结内容”或“写邮件”之外，人们还有哪些不太明显但真正能节省时间或优化工作流的用法？我指的是那些让人惊喜的、“我怎么没想到”的实用场景，比如用于构建SaaS、微SaaS、应用程序或自动化流程。很想借鉴大家的创意妙招。由 /u/Notalabel_4566 提交 [链接] [评论]
@@ -1373,6 +1325,18 @@ submitted by /u/MetaKnowing [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 20:18:23 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 创作一幅只属于你我的专属画面 / Create an image that makes sense only to you and me.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc25br/create_an_image_that_makes_sense_only_to_you_and/</link>
+      <description>“不好意思，你说什么？” 由 /u/HoneyMeouw 提交 [链接] [评论]
+
+---
+
+Original:
+Excuse me, what? submitted by /u/HoneyMeouw [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc25br</guid>
+      <pubDate>Tue, 13 Jan 2026 20:20:33 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_android] 日经亚洲：谷歌将在越南研发制造高端智能手机 / Google to develop, manufacture high-end smartphones in Vietnam, Nikkei Asia says</title>
       <link>https://www.reddit.com/r/Android/comments/1qc25wx/google_to_develop_manufacture_highend_smartphones/</link>
       <description>由用户 /u/FragmentedChicken 提交 [链接] [评论]
@@ -1455,6 +1419,42 @@ Original:
 Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her submitted by /u/TimesandSundayTimes [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qc2r39</guid>
       <pubDate>Tue, 13 Jan 2026 20:43:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT中的录音文件无故消失 / Audio recordings simply disappear in ChatGPT</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc37fz/audio_recordings_simply_disappear_in_chatgpt/</link>
+      <description>大家是否也遇到过这种情况？辛辛苦苦录制的音频在转录过程中莫名丢失…… 由 /u/Prestigiouspite 提交 [链接] [评论]
+
+---
+
+Original:
+Do you have that too? You keep losing laborious recordings in transcription... submitted by /u/Prestigiouspite [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc37fz</guid>
+      <pubDate>Tue, 13 Jan 2026 21:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini 3 Pro（浏览器版）上下文窗口无法使用，寻求在AI Studio / NotebookLM中延续多周对话而不丢失上下文的解决方案 / Gemini 3 Pro (browser) context window is unusable, looking for a solution to continue multi-week chats in AI Studio / NotebookLM without losing context..</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qc385r/gemini_3_pro_browser_context_window_is_unusable/</link>
+      <description>由 /u/zsolt67 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/zsolt67 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qc385r</guid>
+      <pubDate>Tue, 13 Jan 2026 21:01:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 寻求协助完成自动化项目（有偿工作） / Looking for help to finish automation (paid work)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc3goz/looking_for_help_to_finish_automation_paid_work/</link>
+      <description>大家好，我正在寻求帮助来完成一个销售/营销自动化项目，该项目使用网络钩子和API集成，涉及谷歌表格（Google Sheets）和WhatsApp。我还需要一个网页抓取工具。所有基础模块都已就位，测试中似乎能运行，但表现不稳定。我想知道是否有专家或公司能帮我完善这个项目。急需解决，理想情况是明天（2026年1月14日）完成。截止日期临近，已经开始感到焦虑了！提交者：/u/Site_Acrobatic [链接] [评论]
+
+---
+
+Original:
+Hi I’m looking for help to finish a sales/marketing automation that uses web hooks and API integrations for google sheets and WhatsApp I also need a web-scraper , all of the building blocks are in place and it seems to be working but it’s not consistent in testing . I was wondering if there are any experts or companies out there that can help polish it for me. I need this sorted ASAP ideally tommorow 14/1/2026 , please let me know the panic is starting to set in with a deadline looming! submitted by /u/Site_Acrobatic [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc3goz</guid>
+      <pubDate>Tue, 13 Jan 2026 21:10:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

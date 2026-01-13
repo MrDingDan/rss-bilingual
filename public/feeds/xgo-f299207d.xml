@@ -6,7 +6,81 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:34:36 +0000</lastBuildDate>
+    <item>
+      <title>这就是Fetch！https://t.co/ijIUfUGJSJ / this is what fetch is! https://t.co/ijIUfUGJSJ</title>
+      <link>https://x.com/hwchase17/status/1999293617379430476</link>
+      <description>这就是Fetch！x.com/hwchase17/stat… Martin Zirulnik @MartinZirulnik @hwchase17 这是Polly在你IDE/开发环境中的对应物吗？源代码（例如领域模型、控制逻辑等，这些在LangSmith中不可见）对于优化提示词可能是重要的上下文。🔗 查看引用推文 💬 2 🔄 0 ❤️ 13 👀 5258 📊 3 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+this is what fetch is! x.com/hwchase17/stat… Martin Zirulnik @MartinZirulnik @hwchase17 Polly's counterpart that lives in your IDE / dev environment? source code (e.g. domain models, control logic, etc. that's not visible in LangSmith) can be important context for optimizing prompts. 🔗 View Quoted Tweet 💬 2 🔄 0 ❤️ 13 👀 5258 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1999293617379430476</guid>
+      <pubDate>Fri, 12 Dec 2025 01:41:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>长时运行智能体开始奏效——调试新范式初现端倪 / Longer running agents are starting to work - and we're starting to see new patterns for debugging an...</title>
+      <link>https://x.com/hwchase17/status/1999559618016739348</link>
+      <description>长时运行智能体正逐步投入应用，我们也开始观察到调试与优化这类系统的新模式。其中关键一环是让编程智能体能够访问运行轨迹，从而自主诊断问题并提出改进方案。关于这一新范式，我在博客中略有探讨：blog.langchain.com/debugging-deep… 💬 21 🔄 67 ❤️ 542 👀 114941 📊 220 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Longer running agents are starting to work - and we're starting to see new patterns for debugging and improving them Part of this is making traces accessible to coding agents so they can diagnose and suggest changes Wrote a bit about this new paradigm: blog.langchain.com/debugging-deep… 💬 21 🔄 67 ❤️ 542 👀 114941 📊 220 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1999559618016739348</guid>
+      <pubDate>Fri, 12 Dec 2025 19:18:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>一个悠闲周六早晨对多智能体架构的思考 / thinking of multi agent architectures on a casual saturday morning
+
+any thoughts on the below?</title>
+      <link>https://x.com/hwchase17/status/1999925807528231017</link>
+      <description>一个悠闲周六早晨对多智能体架构的思考，大家对此有什么想法吗？💬 25 🔄 47 ❤️ 391 👀 18878 📊 147 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+thinking of multi agent architectures on a casual saturday morning any thoughts on the below? 💬 25 🔄 47 ❤️ 391 👀 18878 📊 147 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1999925807528231017</guid>
+      <pubDate>Sat, 13 Dec 2025 19:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>非常激动地欢迎@Vtrivedy10加入LangChain，助力构建智能体工程、可观测性... / really excited to have @Vtrivedy10 join langchain to help build out agent engineering, observability...</title>
+      <link>https://x.com/hwchase17/status/2000664109944340910</link>
+      <description>非常激动地欢迎@Vtrivedy10加入LangChain，助力构建智能体工程、可观测性和评估体系。Vivek是我在这里第一个看到使用“智能体治理框架”这一术语的人——他一直是该领域最具前瞻性的思考者之一。💬 3 🔄 3 ❤️ 83 👀 14114 📊 19 ⚡ 由xgo.ing提供支持。
+
+---
+
+Original:
+really excited to have @Vtrivedy10 join langchain to help build out agent engineering, observability, evals Vivek was the first person on here I saw use the term "agent harness" - he's consistently been one of the most forward thinkers in the space 💬 3 🔄 3 ❤️ 83 👀 14114 📊 19 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2000664109944340910</guid>
+      <pubDate>Mon, 15 Dec 2025 20:27:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>可观测性与智能体之间可启动的强大飞轮效应（Claude Code、深度智能体...） / There's a great flywheel you can kick off between observability and agents (Claude Code, Deep agents...</title>
+      <link>https://x.com/hwchase17/status/2001354274773831890</link>
+      <description>可观测性与智能体（Claude Code、深度智能体）之间可启动强大的飞轮效应。@RLanceMartin 对此做了很好的剖析，但我仍在寻找合适的表述方式……“数据飞轮”听起来有点过于自动化或流于流行术语了。💬 5 🔄 12 ❤️ 104 👀 14772 📊 40 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+There's a great flywheel you can kick off between observability and agents (Claude Code, Deep agents) @RLanceMartin does a great job of breaking this down am still struggling to find the right way to talk about this... "data flywheel" sounds a little too automated/buzz wordy.. 💬 5 🔄 12 ❤️ 104 👀 14772 📊 40 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2001354274773831890</guid>
+      <pubDate>Wed, 17 Dec 2025 18:10:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>LangChain 1.0 以灵活的智能体抽象为核心，既降低了入门门槛，又提升了框架能力（通过“中间件”） / LangChain 1.0 is centered a flexible agent abstraction, which both lowers the floor to entry but als...</title>
+      <link>https://x.com/hwchase17/status/2001714514593780109</link>
+      <description>LangChain 1.0 围绕灵活的智能体抽象设计，不仅降低了入门难度，还通过“中间件”扩展了框架的功能上限。全新学院课程聚焦 LangChain 1.0，全面展示其优势！LangChain @LangChainAI 🔗 新 LangChain 学院课程：LangChain 入门（Python）🔗 学习如何使用 LangChain 构建应用——我们的开源框架让您能轻松基于任何模型提供商开发智能体。本课程中，您将创建具备推理、使用工具和执行能力的智能体，并学习如何通过 LangSmith 调试其行为。过程中您将：- 使用 `create_agent` 抽象构建智能体 - 运用 LangC…
+
+---
+
+Original:
+LangChain 1.0 is centered a flexible agent abstraction, which both lowers the floor to entry but also raises the ceiling of what you can do in a framework (via "middleware") New Academy Course focused on LangChain 1.0, and highlighting all the goodness! LangChain @LangChainAI 🔗 New LangChain Academy Course: Introduction to LangChain (Python) 🔗 Learn how to build with LangChain – our open source framework that makes it easy to start building agents with any model provider. In this course, you’ll create agents that can reason, use tools, and take action, and learn how to debug their behavior with LangSmith. Along the way, you’ll: - Build an agent with the `create_agent` abstraction - Use LangC…</description>
+      <guid isPermaLink="false">xgo-f299207d::2001714514593780109</guid>
+      <pubDate>Thu, 18 Dec 2025 18:01:44 +0000</pubDate>
+    </item>
     <item>
       <title>追踪Claude代码——今日已上线 / Tracing Claude code - it’s here today</title>
       <link>https://x.com/hwchase17/status/2002177192206241945</link>

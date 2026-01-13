@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:55:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:32:48 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -595,6 +595,18 @@ Original:
 Trying to train a model to read video clips and find certain events in multi-person group sports, basically basketball, football, etc. An llm trainer told me we can do it with open and fine-tuning, but I've never really saw anything like that in the development platform. That's a thing? You can actually use openai to timestamp certain events in video? submitted by /u/AWeb3Dad [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc2obk</guid>
       <pubDate>Tue, 13 Jan 2026 20:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT中的录音文件无故消失 / Audio recordings simply disappear in ChatGPT</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc37fz/audio_recordings_simply_disappear_in_chatgpt/</link>
+      <description>大家是否也遇到过这种情况？辛辛苦苦录制的音频在转录过程中莫名丢失…… 由 /u/Prestigiouspite 提交 [链接] [评论]
+
+---
+
+Original:
+Do you have that too? You keep losing laborious recordings in transcription... submitted by /u/Prestigiouspite [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc37fz</guid>
+      <pubDate>Tue, 13 Jan 2026 21:00:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

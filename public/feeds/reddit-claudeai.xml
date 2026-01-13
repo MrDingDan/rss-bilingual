@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:32:42 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -474,6 +474,18 @@ Original:
 Here's the math that changed how I use Claude for automation: 90% accuracy across 5 steps = 59% success rate. Every time you chain LLM calls, errors compound. I was building workflows where Claude would do great on each individual step but the end-to-end result was garbage half the time. So I flipped the architecture: Deterministic Python scripts do the actual work (API calls, data processing, file ops) Claude orchestrates - reads the directive, calls the scripts, handles errors, makes decisions Memory persists - what happened, what broke, what to do differently next time It's like the difference between having a junior dev write everything from scratch vs. a senior dev supervising reliable…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbvurb</guid>
       <pubDate>Tue, 13 Jan 2026 16:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>氛围合规已成现实 / Vibe compliance is now real</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbvzog/vibe_compliance_is_now_real/</link>
+      <description>如果你正在使用Cursor、Claude Code或类似的AI工具进行开发，你可能已经发现它们本身并不“了解”你公司的合规要求、安全政策或内部标准。以下是你应考虑连接到AI编程助手的关键资源列表：通用合规与安全 ∙ OWASP十大安全风险 ∙ CWE 25个最危险软件缺陷 ∙ NIST网络安全框架 JavaScript/TypeScript：∙ npm安全最佳实践 - https://docs.npmjs.com/packages-and-modules/securing-your-code ∙ Node.js安全最佳实践 Python：∙ Python安全最佳实践 ∙ Bandit安全检测规则 - https://bandit.readthedocs.io/ 行业特…
+
+---
+
+Original:
+If you’re using Cursor, Claude Code, or similar AI tools for development, you’ve probably realized they don’t inherently “know” your company’s compliance requirements, security policies, or internal standards. Here’s a list of essential resources you should consider connecting to your AI coding assistant: General Compliance &amp; Security ∙ OWASP Top 10 ∙ CWE Top 25 Most Dangerous Software Weaknesses ∙ NIST Cybersecurity Framework JavaScript/TypeScript: ∙ npm security best practices - https://docs.npmjs.com/packages-and-modules/securing-your-code ∙ Node.js Security Best Practices Python: ∙ Python Security Best Practices ∙ Bandit Security Linter Rules - https://bandit.readthedocs.io/ Industry-Spe…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbvzog</guid>
+      <pubDate>Tue, 13 Jan 2026 16:31:40 +0000</pubDate>
     </item>
     <item>
       <title>速率限制毁了这个产品。 / Rate limits have ruined this product.</title>
