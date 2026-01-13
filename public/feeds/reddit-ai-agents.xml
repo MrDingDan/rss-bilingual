@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:35:42 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -18,6 +18,18 @@ Original:
 Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1q6kv0f</guid>
       <pubDate>Wed, 07 Jan 2026 17:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI智能体失败更多是因为推理能力差还是情境理解差？ / Do AI agents fail more because of bad reasoning or bad context?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qanpj6/do_ai_agents_fail_more_because_of_bad_reasoning/</link>
+      <description>我们经常讨论如何改进推理能力、优化提示词和开发更聪明的模型，但我不断发现智能体失败的原因在于误解了所处的情境。缺失背景信息、数据过时或接口不稳定，似乎比逻辑缺陷更容易导致它们出错。当智能体需要从网络或仪表板收集情境信息时，有些团队会使用受控浏览器环境（如hyperbrowser）来减少干扰和不可预测性。这让我思考：情境质量是否才是当前的主要限制因素？根据你的经验，导致失败更多的是推理能力不足还是情境理解不足？ 提交者：/u/The_Default_Guyxxo [链接] [评论]
+
+---
+
+Original:
+We talk a lot about improving reasoning, better prompts, and smarter models, but I keep seeing agents fail because they misunderstand the situation they are operating in. Missing context, outdated information, or unstable interfaces seem to derail them more than flawed logic. When agents need to gather context from the web or dashboards, some teams use controlled browser environments like hyperbrowser to reduce noise and unpredictability. That makes me wonder if context quality is actually the limiting factor right now. In your experience, what causes more failures: poor reasoning or poor context? submitted by /u/The_Default_Guyxxo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qanpj6</guid>
+      <pubDate>Mon, 12 Jan 2026 06:34:54 +0000</pubDate>
     </item>
     <item>
       <title>谷歌发布UCP——自Stripe以来在线购物的最大变革 / Google just dropped UCP — the biggest shift in online shopping since Stripe</title>
@@ -78,6 +90,30 @@ Original:
 I want a 100% local, privacy-first AI that ingests all my data and gradually behaves like me. Looking for concise advice on: LLM choice Memory (RAG vs fine-tuning) Data ingestion pipeline Hardware limits &amp; pitfalls If you were starting today, what stack would you use ? submitted by /u/PresenceBroad4361 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qb5kbc</guid>
       <pubDate>Mon, 12 Jan 2026 20:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>真正的AI请站出来 / Can the real AI please stand up</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qb5slc/can_the_real_ai_please_stand_up/</link>
+      <description>有人能给我推荐最好的图片转视频和文本转视频的AI软件吗？我试过几款，感觉选择很多，但很多只是换个名字而已。它们都用点数制，各有优缺点……但抱怨声都差不多。通常有人说它是骗局，付了订阅费却没拿到全部点数，或者客服根本不存在。更别提从这些混蛋那里退款有多难了。我愿意付费使用，但没时间被耍。我只想要一个直接的解决方案。目前我试过PixVerse，但已经……
+
+---
+
+Original:
+Can someone point me in the direction of the best A.I. software for image to video, and text to video? I’ve experimented with a few and feel like there are numerous options but I feel like many are the same with a different name. They all use credits, they all have their benefits and their shortcomings…but the complaints sound the same. It’s usually someone claiming it’s a scam, they paid for a subscription but didn’t get their full credits, or the customer support is nonexistent. Not to mention it’s hard to get refunds from these bastards. I’m willing to pay to play but I ain’t got time to be played with. I just want a straightforward solution. So far I’ve been trying PixVerse but I already…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qb5slc</guid>
+      <pubDate>Mon, 12 Jan 2026 20:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude技能难道只是工具调用……？ / Are Claude skills just tool calls...?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qb73w6/are_claude_skills_just_tool_calls/</link>
+      <description>假设你有一个工具，调用时只是打开一个Markdown文件，将其内容插入智能体的主提示中。该主提示还列出了智能体的工具及其描述，包括这个工具。这算是一种“技能”吗？由/u/agp_praznat提交 [链接] [评论]
+
+---
+
+Original:
+Imagine you have a tool that when invoked simply opens a markdown file and sticks its contents into your agent's main prompt. That main prompt also has a list of the agent's tools and their descriptions, including this one. Is this a "skill" ?? submitted by /u/agp_praznat [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qb73w6</guid>
+      <pubDate>Mon, 12 Jan 2026 21:00:42 +0000</pubDate>
     </item>
     <item>
       <title>哪些文本转语音服务商真正适合语音助手？ / What text to speech providers are actually good for voice agents?</title>
@@ -150,6 +186,42 @@ Original:
 OpenAI launches Health and Jobs agents Claude Code 2.1.0 drops with 1096 commits Cursor agent reduces tokens by 47% A collection of AI Agent Updates! 🧵 1. Claude Code 2.1.0 Released with Major Agent Updates 1096 commits shipped. Add hooks to agents &amp; skills frontmatter, agents no longer stop on denied tool use, custom agent support, wildcard tool permissions, and multilingual support. Huge agentic workflow improvements. 2. OpenAI Launches ChatGPT Health Agent Dedicated space for health conversations. Securely connect medical records and wellness apps so responses are grounded in your health data. Designed to help navigate medical care, not replace it. Early access waitlist open. The personal…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbklxt</guid>
       <pubDate>Tue, 13 Jan 2026 06:59:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude再次改变游戏规则 / Claude Changed the Game Once Again</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbks20/claude_changed_the_game_once_again/</link>
+      <description>Anthropic刚刚推出了Cowork，这是一种与Claude协作的全新方式，远超聊天范畴。现在，你可以直接委派实际工作，而不仅仅是提问。Cowork基于Claude Code构建，但专为非技术用户设计。你只需用通俗语言描述目标，它便会端到端地规划并执行任务。其功能包括：直接在文件和文件夹中操作、创建/编辑/整理文档与电子表格、分解复杂任务并自主执行、交付干净专业的成品而非草稿。这感觉不像是在向AI提问，更像是把工作交给一位理解上下文、遵循指示且能完成任务的队友。Cowork目前处于研究阶段…
+
+---
+
+Original:
+Anthropic just launched Cowork , a new way to work with Claude that goes far beyond chat. Instead of asking questions, you can now delegate actual work . Cowork is built on Claude Code , but designed for non-technical users. You describe a goal in plain language, and it plans and executes the task end-to-end. What it can do: Work directly inside your files and folders Create, edit, and organize documents and spreadsheets Break down complex tasks and run them autonomously Deliver clean, professional outputs, not drafts This feels less like prompting an AI and more like assigning work to a teammate who understands context, follows instructions, and gets things done. Cowork is currently in rese…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbks20</guid>
+      <pubDate>Tue, 13 Jan 2026 07:09:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>理解AI架构：为何智能体AI+RAG是未来 / Understanding AI Architectures: Why Agentic AI + RAG is the Future</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbl2m6/understanding_ai_architectures_why_agentic_ai_rag/</link>
+      <description>AI并非神秘的黑匣子，关键在于架构——构建方式决定了它的思考与行动模式。传统AI困于固定流程：基于数据集训练后，虽能出色完成单一任务，却无法适应外界变化。智能体AI（Agentic AI）颠覆了这一模式，它目标驱动、自主规划步骤、利用工具达成结果，无需持续指导，但若缺乏事实依据，仍可能产生幻觉。这正是智能体RAG（Retrieval-Augmented Generation）的用武之地，它将AI与企业实时数据连接，使其能够获取信息、进行推理、执行行动，并将结果记录至记忆库。当三者结合时，真正的力量才得以显现：AI既能从过往经验中学习……
+
+---
+
+Original:
+AI isn’t some magic black box its all about architecture and how you build it shapes how it thinks and acts. Traditional AI is stuck in a fixed pipeline: you train it on a dataset, it performs a single task well, but it can’t adapt when the world changes. Agentic AI flips that model its goal-driven, plans its own steps and uses tools to achieve outcomes without constant guidance, though it still risks hallucinations if not grounded. That’s where Agentic RAG (Retrieval-Augmented Generation) comes in, connecting AI to live company data so it can fetch information, reason over it, act and log results back into memory. The real power emerges when you combine all three: AI that learns from the pa…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbl2m6</guid>
+      <pubDate>Tue, 13 Jan 2026 07:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>CES 2026显示，实体AI（Physical AI）已走出实验阶段，迈向实际应用 / CES 2026 showed Physical AI is no longer experimental. It’s becoming operational.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbl6gc/ces_2026_showed_physical_ai_is_no_longer/</link>
+      <description>在CES 2026上，实体AI（Physical AI）是最具实用性的趋势之一。这不再是概念或原型展示，而是已在真实环境中学习与行动的系统。其关键突破在于：实体AI模型现已能理解空间、运动与因果关系，使机器人能够灵活适应，而非仅执行固定指令。英伟达（NVIDIA）最新发布的实体AI模型，展示了模拟学习与现实学习终于融合，减少了对人工编程的依赖。像小鹏汽车（XPeng）这样的企业，已将实体AI视为机器人出租车和人形机器人的基础设施，而非边缘实验。行业焦点已从炫酷演示转向可靠性、安全性……
+
+---
+
+Original:
+Physical AI was one of the most practical shifts seen at CES 2026. This wasn’t about concepts or prototypes. It was about systems already learning and acting in real environments. What made this moment different: Physical AI models are now trained to understand space, motion, and cause-effect, allowing robots to adapt instead of following fixed instructions. NVIDIA’s newly released Physical AI models show how simulation and real-world learning are finally merging, reducing dependence on manual programming. Companies like XPeng are treating Physical AI as infrastructure for robotaxis and humanoid robots, not as side experiments. The focus has moved from impressive demos to reliability, safety…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbl6gc</guid>
+      <pubDate>Tue, 13 Jan 2026 07:33:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

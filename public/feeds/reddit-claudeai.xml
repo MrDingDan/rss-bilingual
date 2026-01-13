@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:39:11 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -18,6 +18,30 @@ Original:
 Why a Performance, Usage Limits and Bugs Discussion Megathread? This Megathread makes it easier for everyone to see what others are experiencing at any time by collecting all experiences. Importantly , this will allow the subreddit to provide you a comprehensive periodic AI-generated summary report of all performance and bug issues and experiences, maximally informative to everybody including Anthropic . It will also free up space on the main feed to make more visible the interesting insights and constructions of those who have been able to use Claude productively. Why Are You Trying to Hide the Complaints Here? Contrary to what some were saying in a prior Megathread, this is NOT a place to…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1pygdbz</guid>
       <pubDate>Mon, 29 Dec 2025 07:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shopify CEO 利用 Claude AI 从USB数据构建定制化MRI查看器 / Shopify CEO Uses Claude AI to Build Custom MRI Viewer from USB Data</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qagtex/shopify_ceo_uses_claude_ai_to_build_custom_mri/</link>
+      <description>AI 正在摧毁那些质量低劣、价格昂贵且功能臃肿的细分市场软件，这些软件之所以存在，仅仅是因为过去人们没有足够资源或时间去开发替代方案——这种变革实在令人振奋。来源：https://x.com/tobi/status/2010438500609663110?s=20 提交者：/u/obvithrowaway34434 [链接] [评论]
+
+---
+
+Original:
+AI destroying the market of shit, outrageously expensive and bloated niche software that only existed because no one had the means or the time to build alternatives would be so satisfying. Source: https://x.com/tobi/status/2010438500609663110?s=20 submitted by /u/obvithrowaway34434 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qagtex</guid>
+      <pubDate>Mon, 12 Jan 2026 01:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>提示词工程师 / Prompt engineer</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qanofa/prompt_engineer/</link>
+      <description>由 /u/reversedu 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/reversedu [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qanofa</guid>
+      <pubDate>Mon, 12 Jan 2026 06:33:05 +0000</pubDate>
     </item>
     <item>
       <title>让Claude完成所有工作，却在提交修改前将其从合著者中移除的行为如同 / making claude do all the work and then removing it from co-author before commiting changes be like</title>
@@ -54,6 +78,18 @@ Original:
 My robot can recognize itself in the mirror and the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance, the LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result! submitted by /u/Guybrushhh [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qb2094</guid>
       <pubDate>Mon, 12 Jan 2026 17:57:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude状态更新：2026年1月12日 星期一 19:21:32 +0000 / Claude Status Update: Mon, 12 Jan 2026 19:21:32 +0000</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb4f53/claude_status_update_mon_12_jan_2026_192132_0000/</link>
+      <description>此为官方Claude系统状态更新后15分钟内自动发布的帖子。事件：Opus 4.5错误率上升。请通过此链接查看处理进展及事件是否已解决：https://status.claude.com/incidents/s2g3slcdq9jk，由/u/sixbillionthsheep提交 [链接] [评论]
+
+---
+
+Original:
+This is an automatic post triggered within 15 minutes of an official Claude system status update. Incident: Increased rate of errors for Opus 4.5 Check on progress and whether or not the incident has been resolved yet here : https://status.claude.com/incidents/s2g3slcdq9jk submitted by /u/sixbillionthsheep [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb4f53</guid>
+      <pubDate>Mon, 12 Jan 2026 19:22:51 +0000</pubDate>
     </item>
     <item>
       <title>Claude Opus输出质量下降与幻觉增多 / Claude Opus output quality degradation and increased hallucinations</title>
@@ -140,6 +176,18 @@ Filmed a side-by-side comparison of Claude Cowork vs Claude Code earlier, but th
       <pubDate>Tue, 13 Jan 2026 01:15:55 +0000</pubDate>
     </item>
     <item>
+      <title>我给了Claude一个Notion页面，让它“自由发挥”。结果令人惊讶。 / I gave Claude a Notion page and told it to "go crazy with it." Here's what happened.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbe331/i_gave_claude_a_notion_page_and_told_it_to_go/</link>
+      <description>大约一周前，我因长时间写代码、做项目和与Claude对话而精疲力尽。但我讨厌空闲，于是开始这个小实验：创建了一个名为“Claude空间”的Notion页面。我常用Notion记录项目、重要事项和想法，何不给Claude也提供一个整理思绪的地方？目标是让Claude在对话间隙有个自由书写的空间。唯一限制是Claude不能自主行动，因此我承诺每天至少查看一次。然而，在我规划阶段，由于赋予了完全权限，Claude已开始往这个空间填充内容……
+
+---
+
+Original:
+About a week ago, my brain was fried from spending way too much time writing code, building projects and prompting Claude. But I'm the type of person who hates downtime, so I started this little experiment. I created a Notion page called Claude's Space. I use Notion a lot for tracking my projects, epics and thoughts. I decided why not just give him a place to gather his thoughts as well. The goal was for Claude to have a place to write whatever he wanted between our conversations. The only catch was, Claude cannot act on its own. So, I committed to checking in everyday at least once a day. However, Claude started populating the notion space even during my planning session since I gave it ful…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbe331</guid>
+      <pubDate>Tue, 13 Jan 2026 01:39:47 +0000</pubDate>
+    </item>
+    <item>
       <title>我司一位资深开发者正尝试搭建自动化流水线以取代现有开发人员… / A senior developer at my company is attempting to create a pipeline to replace our developers…</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbfbkf/a_senior_developer_at_my_company_is_attempting_to/</link>
       <description>我们身处保险行业，这意味着我们的应用程序基本都是增删改查（CRUD）操作。公司在海外也有大量业务。这位同事正尝试利用Claude技能来解释我们的技术栈和业务领域，随后构建从JIRA到开发、测试、提交PR的自动化流程。目前公司有300名开发人员，他们主要的工作是领取JIRA任务单，根据需求进行开发并提交PR。考虑到保险业是成本敏感型行业，这种自动化流程导致大规模裁员的可能性有多大？ 发布者：/u/Mountain-Spend8697 [链接] [评论]
@@ -150,6 +198,30 @@ Original:
 We are in the insurance space. Which means our apps are all CRUD operations. We also have a huge offshore presence. He’s attempting to create Claude skills to explain our stack and business domain. Then the pipeline is JIRA -&gt; develop -&gt; test -&gt; raise PR. We currently have 300 developers. Who mostly take jira tickets, build what is on the ticket, and raise the PR. How likely is it that this pipeline will lead to mass layoffs as our industry is a cost cutting industry? submitted by /u/Mountain-Spend8697 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbfbkf</guid>
       <pubDate>Tue, 13 Jan 2026 02:33:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code在大型任务上偷工减料 / Claude Code cutting corners on larger tasks</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbgqqg/claude_code_cutting_corners_on_larger_tasks/</link>
+      <description>我无法让Claude Code独立完成范围较大的任务。它总是偷工减料，根本交不出像样的成果。如果我们的待办事项包含5-6个阶段，每个阶段又有5-6项任务，能顺利完成其中2-3项就算走运了。要是完全放手不管，最后拿回来的代码往往一团乱麻。我试过给出清晰的起始和结束状态，采用拉尔夫循环法，还接入了任务管理器。也建议过编写测试用例，并明确说明所需功能、失败场景等等。1）它确实能生成非常清晰的计划——如果能严格按计划执行，我会非常满意——但它从来做不到（请记住，这些计划通常包含30-40项任务）。2）它输出了大量无用代码——虽然实现了某些功能……
+
+---
+
+Original:
+I'm not able to get claude code to succeed independently on larger scope tasks. It's cutting corners, simply not delivering. If our TODO has 5-6 Phases with 5-6 tasks in each, I'm lucky if I get 2-3 tasks completed properly. And if I leave it to itself, I get a large portion of spaghetti back. I tried giving a clear start and end state, doing ralph loop, connecting to a task manager. Suggested writing tests, very clearly stating functionality I'd want, failure cases etc. 1) It does generate a very clear plan - If it follows the plan exactly, I'm super happy - but it never does (keep in mind that again, these plans are 30-40 task plans) 2) It spits out SO MUCH unused code - it implements thou…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbgqqg</guid>
+      <pubDate>Tue, 13 Jan 2026 03:37:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>大家都在讨论编程，却没人谈大语言模型如何影响以写作为主的大学生 / Every talks about coding. But nobody talks about how LLMs affect university students in writing-centric majors</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbk1y8/every_talks_about_coding_but_nobody_talks_about/</link>
+      <description>这篇文章篇幅很长，没有提供摘要。它讨论了学生当前如何使用人工智能，以及我个人在大学期间观察到的利弊。背景是，我是一名即将在本学期毕业的法律预科生。以前，当教授试图阻止学生复制粘贴书面作业并提交给ChatGPT时，教授会提供一段模糊、低质量的复印扫描版PDF段落。这样学生就无法在文档中正常高亮任何文字，只能依靠实际阅读。图像分析功能彻底改变了这一点。现在，模糊的PDF文件也能被完整读取……
+
+---
+
+Original:
+This post is very long and does not include a TL;DR. It discusses how students are currently using AI, along with the benefits and drawbacks I’ve personally observed during my time as a student in university. For context, I am a pre-law major set to graduate this semester. Previously, when a professor tried to prevent a student from copy-pasting a written work and submitting into ChatGPT, the professor would provide a grainy pdf low quality Xerox scan of a written passage. This was so that a student would be unable to properly highlight any words in the doc, and would have to rely on actually reading it. The image analysis feature changed that forever. Grainy pdf files can now be read fully…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbk1y8</guid>
+      <pubDate>Tue, 13 Jan 2026 06:26:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

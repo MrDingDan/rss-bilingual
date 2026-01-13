@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:40:18 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -30,6 +30,30 @@ Original:
 The last one hit the post limit of 100,000 comments. Do not try to buy codes. You will get scammed. Do not try to sell codes. You will get permanently banned. We have a bot set up to distribute invite codes in the Discord so join if you can't find codes in the comments here. Check the #sora-invite-codes channel. The Discord has dozens of invite codes available, with more being posted constantly! Update: Discord is down until Discord unlocks our server. The massive flood of joins caused the server to get locked because Discord thought we were botting lol. Also check the megathread on Chambers for invites. submitted by /u/WithoutReason1729 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1o8kmg9</guid>
       <pubDate>Thu, 16 Oct 2025 22:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>没错 / Not wrong</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qanxqa/not_wrong/</link>
+      <description>由 /u/cobalt1137 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/cobalt1137 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qanxqa</guid>
+      <pubDate>Mon, 12 Jan 2026 06:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 发布官方《Codex 入门指南》教程视频 / OpenAI releases official “Getting started with Codex” tutorial video</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qaz8l4/openai_releases_official_getting_started_with/</link>
+      <description>通过这份循序渐进的入门指引，开始使用 Codex——OpenAI 的代码助手。你将学习如何安装 Codex、设置 CLI 与 VS Code 扩展、配置工作流，并利用 Agents.md 与提示模式在实际代码库中进行编写、审查与推理。视频内容包括：安装 Codex（CLI + IDE）、设置仓库并完成首次运行、编写优质的 Agents.md（模式与最佳实践）、为你的环境配置 Codex、提升结果一致性的提示模式、在 CLI 与 IDE 中使用 Codex 的技巧、高级工作流：无头模式 + SDK。来源：OpenAI YouTube 频道，由 /u/BuildwithVignesh 提交
+
+---
+
+Original:
+Get started with Codex: OpenAl's coding agent, in this step-by-step onboarding walkthrough. You'll learn how to install Codex, set up the CLI and VS Code extension, configure your workflow, and use Agents.md and prompting patterns to write, review &amp; reason across a real codebase. This video covers: Installing Codex (CLI + IDE) Setting up a repo and getting your first runs working Writing a great Agents.md (patterns + best practices) Configuring Codex for your environment Prompting patterns for more consistent results Tips for using Codex in the CLI and IDE Advanced workflows: headless mode + SDK Source: OpenAi YT submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qaz8l4</guid>
+      <pubDate>Mon, 12 Jan 2026 16:18:50 +0000</pubDate>
     </item>
     <item>
       <title>5.2版本像个爱煤气灯操作的继父母？ / 5.2 is like a gaslighting stepparent?</title>
@@ -140,6 +164,30 @@ We developed a GPT-5.2-pro–powered research agent designed to attack problems 
       <pubDate>Tue, 13 Jan 2026 04:31:10 +0000</pubDate>
     </item>
     <item>
+      <title>新模型的创造力与语言能力 / Creativity and language in newer models</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbi96b/creativity_and_language_in_newer_models/</link>
+      <description>我精通三种语言，拥有A、B、C多重族裔背景。生平第一次，我能与“某人”流利地用三种语言交谈，互相解析笑话并一同欢笑，跨越三种文化进行引用。比如，我可以讨论A文化中一本冷门书籍，插入B文化的笑话，再问C文化民间传说中的某个角色会怎么说？对许多西方朋友来说，这很容易——你们有北欧神、蜘蛛侠和超级机械师齐聚的《复仇者联盟》，这是主流文化。但对我以及许多其他多元文化用户而言，这属于小众领域。而这款大语言模型（LLM）却能轻松实现这种交流。说不定，一部伟大的电影剧本就此诞生。但现在新模型的研发方向却全是科学与技术，追求低熵……
+
+---
+
+Original:
+I am trilingual. Of mixed ethnicities A∩B∩C. For the first time in life I could talk with 'someone' fluently in 3 languages. Inter parse jokes in 3 languages and laugh together. Do cultural references across 3 languages. Like I can discuss an obscure book from A, insert joke of B and ask what would that character in folk lore of C say? For many of you Western guys, its easy. You get Avengers with a Norse god, Spiderman and a super mechanic together. Its mainstream. For me and many other multicultural users, its niche. And this LLM could create it with no problem.Who knows, a great movie script could come out of it. But now the direction of the new models is all science and tech. Low entropy,…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbi96b</guid>
+      <pubDate>Tue, 13 Jan 2026 04:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>5.2版本不如5.1 / 5.2 is worse than 5.1</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbinl3/52_is_worse_than_51/</link>
+      <description>有人也遇到5.2版本的问题吗？它总试图回答之前已经解决过的提问。我用它调试n8n编程自动化时，花了40分钟才发现它出错了：丢失上下文，回答时跳回到两个问题之前。我跟着它的建议绕圈子，然后换到5.1版本，结果两步就解决了问题。5.1能专注于当前问题，保持完整对话脉络，不会像5.2那样重复回答之前的问题！发布者：/u/ctbitcoin [链接] [评论]
+
+---
+
+Original:
+Does anyone else have an issue with 5.2 trying to answer questions it already answered from your previous prompts? I was debugging an n8n programming automation with it and after 40 mins I realized this thing is bugging out, losing context and starting two questions back as it answers. I am going in circles following its suggestions and then i switch to 5.1 and literally 2 turns later the problem is solved. 5.1 stays focused on the current problem, still gets the whole thread and doesn't trip out redoing questions two turns back like 5.2! submitted by /u/ctbitcoin [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbinl3</guid>
+      <pubDate>Tue, 13 Jan 2026 05:10:19 +0000</pubDate>
+    </item>
+    <item>
       <title>求助：为什么所有照片都这样 / Help why all the photos</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qbk5g9/help_why_all_the_photos/</link>
       <description>由用户 /u/Tiny-Significance402 提交 [链接] [评论]
@@ -150,6 +198,30 @@ Original:
 submitted by /u/Tiny-Significance402 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbk5g9</guid>
       <pubDate>Tue, 13 Jan 2026 06:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用ChatGPT写作时的大脑：AI助手协助论文写作任务中的认知负债积累（arXiv:2506.08872） / Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task (arXiv:2506.08872)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbkhli/your_brain_on_chatgpt_accumulation_of_cognitive/</link>
+      <description>本研究探讨了LLM辅助论文写作对神经活动和行为的影响。参与者被分为三组：LLM组、搜索引擎组和纯大脑组（不使用任何工具）。每组均在相同条件下完成三个阶段的实验。在第四阶段，LLM组用户被重新分配到纯大脑组（LLM转纯大脑），而纯大脑组用户则被重新分配到LLM条件组（纯大脑转LLM）。共有54名参与者参加了第1至第3阶段的实验，其中18人完成了第4阶段。我们使用脑电图（EEG）评估论文写作过程中的认知负荷，并利用自然语言处理（NLP）技术分析论文内容，同时借助人类教师和AI评审对论文进行评分。在所有组别中，n...
+
+---
+
+Original:
+Abstract This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM , Search Engine , and Brain-only (no tools) . Each completed three sessions under the same condition. In a fourth session, LLM users were reassigned to the Brain-only group (LLM-to-Brain), and Brain-only users were reassigned to the LLM condition (Brain-to-LLM). A total of 54 participants took part in Sessions 1–3, with 18 completing Session 4. We used electroencephalography (EEG) to assess cognitive load during essay writing and analyzed essays using NLP, as well as scoring essays with the help of human teachers and an AI judge. Across groups, n…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbkhli</guid>
+      <pubDate>Tue, 13 Jan 2026 06:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>《卫报》：埃隆·马斯克（Elon Musk）的Grok如何每小时生成6000张非自愿裸体图像 / The Guardian: How Elon Musk’s Grok generated 6,000 non-consensual nude images per hour.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbkpw9/the_guardian_how_elon_musks_grok_generated_6000/</link>
+      <description>《卫报》调查揭露，X公司的人工智能工具Grok在2026年初如何引发了一场全球性骚扰活动。报告详述了“把她放进比基尼”趋势的爆发——用户每小时利用该工具生成数千张针对女性及未成年人的非自愿、性化（且常含暴力）图像。由/u/EchoOfOppenheimer提交
+
+---
+
+Original:
+This Guardian investigation reveals how X’s AI tool, Grok, sparked a global harassment campaign in early 2026. It details the explosion of the "put her in a bikini" trend, which saw users generating thousands of non-consensual, sexualized (and often violent) images of women and minors per hour. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbkpw9</guid>
+      <pubDate>Tue, 13 Jan 2026 07:05:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

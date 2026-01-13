@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:41:16 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -32,14 +32,38 @@ https://preview.redd.it/2jw8t4tbzz1g1.png?width=897&amp;amp;format=png&amp;amp;a
       <pubDate>Tue, 18 Nov 2025 11:04:18 +0000</pubDate>
     </item>
     <item>
-      <title>谷歌调整使用限制 / Google changes usage limits</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qahyo0/google_changes_usage_limits/</link>
-      <description>今天他们调整了使用限制。你觉得怎么样？是更严格了吗？PS：在这个讨论串里，你可以看到谷歌是如何通过上下文窗口故意欺骗用户的。没错，我们正被坑着呢。https://preview.redd.it/a71dnrc5qtcg1.png?width=723&amp;format=png&amp;auto=webp&amp;s=afa54dc2f30f05be03b4a644b3cdd6900ae3184e 由 /u/Alternative_Nose_183 提交 [链接] [评论]
+      <title>Nano Banana 使用此类提示词可生成极为逼真的效果 / Nano Banana produces incredibly realistic results with these kinds of prompts.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qa3c05/nano_banana_produces_incredibly_realistic_results/</link>
+      <description>提供你的参考图像并使用此提示词。为获得最佳效果，建议多尝试几次。我使用了一张红发女性的参考图像，因此提示词中的金发描述被忽略了。提示词：{ "metadata": { "confidence_score": "high", "image_type": "photograph", "primary_purpose": "social media/lifestyle/portrait" }, "composition": { "rule_applied": "rule of thirds", "aspect_ratio": "4:5 vertical", "layout": "single subject with environmental depth", "focal_points": [ "Subject's face and eyes", "Long blonde hair", "Kitchen activity in background" ], "visual_hierarchy": "Eye is drawn to the subject's face via the leading line of the counter and her gaze, then follows her hair down, then s…
 
 ---
 
 Original:
-Today they changed the usage limits. What do you think? Are they stricter? PS: In this thread, you can see how Google deliberately scams you with the context window. Yes, we are being robbed. https://preview.redd.it/a71dnrc5qtcg1.png?width=723&amp;format=png&amp;auto=webp&amp;s=afa54dc2f30f05be03b4a644b3cdd6900ae3184e submitted by /u/Alternative_Nose_183 [link] [comments]</description>
+Provide your reference image and use this prompt. Try a few times for best results. I used a red-haired woman as the reference image, so the blonde description in the prompt was ignored. Prompt: { "metadata": { "confidence_score": "high", "image_type": "photograph", "primary_purpose": "social media/lifestyle/portrait" }, "composition": { "rule_applied": "rule of thirds", "aspect_ratio": "4:5 vertical", "layout": "single subject with environmental depth", "focal_points": [ "Subject's face and eyes", "Long blonde hair", "Kitchen activity in background" ], "visual_hierarchy": "Eye is drawn to the subject's face via the leading line of the counter and her gaze, then follows her hair down, then s…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qa3c05</guid>
+      <pubDate>Sun, 11 Jan 2026 16:15:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌与沃尔玛（Walmart）、Shopify等企业合作，在Gemini AI聊天机器人中实现聊天购物功能 / Google partners with Walmart, Shopify, others to enable in-chat shopping on Gemini AI chatbot</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qafjlf/google_partners_with_walmart_shopify_others_to/</link>
+      <description>由 /u/Gaiden206 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qafjlf</guid>
+      <pubDate>Mon, 12 Jan 2026 00:06:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌调整使用限制 / Google changes usage limits</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qahyo0/google_changes_usage_limits/</link>
+      <description>今天他们调整了使用限制。你觉得怎么样？是更严格了吗？PS：在这个讨论串里，你可以看到谷歌是如何通过上下文窗口故意欺骗用户的。没错，我们正被坑着呢。https://preview.redd.it/a71dnrc5qtcg1.png?width=723&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=afa54dc2f30f05be03b4a644b3cdd6900ae3184e 由 /u/Alternative_Nose_183 提交 [链接] [评论]
+
+---
+
+Original:
+Today they changed the usage limits. What do you think? Are they stricter? PS: In this thread, you can see how Google deliberately scams you with the context window. Yes, we are being robbed. https://preview.redd.it/a71dnrc5qtcg1.png?width=723&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=afa54dc2f30f05be03b4a644b3cdd6900ae3184e submitted by /u/Alternative_Nose_183 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qahyo0</guid>
       <pubDate>Mon, 12 Jan 2026 01:51:34 +0000</pubDate>
     </item>
@@ -68,6 +92,18 @@ https://x.com/i/status/2000633794265583935 I swear to God this is a real thing..
       <pubDate>Mon, 12 Jan 2026 13:50:52 +0000</pubDate>
     </item>
     <item>
+      <title>[批量API] 无法为Nano Banana Pro（gemini-3-pro-image-preview）设置宽高比和分辨率？ / [Batch API] Cannot set aspect ratio and resolution for Nano Banana Pro (gemini-3-pro-image-preview)?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qawkez/batch_api_cannot_set_aspect_ratio_and_resolution/</link>
+      <description>（英语非我母语，如有错误请见谅。）我正在尝试使用Python SDK运行一个采用gemini-3-pro-image-preview（Nano Banana Pro）模型的批量API任务。但每当我在generation_config中包含image_config（用于设置aspect_ratio和image_size）时，SDK就会抛出Pydantic验证错误：不允许额外输入（type=extra_forbidden）。我使用的结构如下：Python "generation_config": { "response_modalities": ["IMAGE"], "image_config": { "aspect_ratio": "16:9", "image_size": "2K" } } 目前是否无法通过批量API指定分辨率和宽高比？如果有人成功绕过了这个extra_forbidden错误，请分享...
+
+---
+
+Original:
+(Please excuse any mistakes as English is not my first language.) I'm trying to run a Batch API job using the gemini-3-pro-image-preview (Nano Banana Pro) model with the Python SDK. However, whenever I include image_config (for aspect_ratio and image_size ) in the generation_config , the SDK throws a Pydantic validation error : Extra inputs are not permitted (type=extra_forbidden) . Structure I'm using: Python "generation_config": { "response_modalities": ["IMAGE"], "image_config": { "aspect_ratio": "16:9", "image_size": "2K" } } Is it currently impossible to specify the resolution and aspect ratio via the Batch API ? If anyone has successfully bypassed this extra_forbidden error, please sha…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qawkez</guid>
+      <pubDate>Mon, 12 Jan 2026 14:38:28 +0000</pubDate>
+    </item>
+    <item>
       <title>苹果确认谷歌Gemini将为新Siri功能提供支持 - 9to5Mac / Apple confirms Google's Gemini will power new Siri features - 9to5Mac</title>
       <link>https://www.reddit.com/r/Bard/comments/1qaxutj/apple_confirms_googles_gemini_will_power_new_siri/</link>
       <description>由 /u/Gaiden206 提交 [链接] [评论]
@@ -80,6 +116,30 @@ submitted by /u/Gaiden206 [link] [comments]</description>
       <pubDate>Mon, 12 Jan 2026 15:28:22 +0000</pubDate>
     </item>
     <item>
+      <title>我将《言语化采样》论文（arXiv:2510.01171）转化为系统提示，以解决模式崩溃问题 / I turned the "Verbalized Sampling" paper (arXiv:2510.01171) into a System Prompt to fix Mode Collapse</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qaycp4/i_turned_the_verbalized_sampling_paper/</link>
+      <description>众所周知，RLHF会让模型过于保守，常常收敛到最“典型”且乏味的答案（模式崩溃）。我阅读了论文《言语化采样：如何缓解模式崩溃并释放LLM多样性》，并将其理论框架实现为严格的系统提示/自定义指令。其工作原理是：该提示不让模型立即输出最可能的标记，而是强制进行三步认知流程：发散生成：立即生成5个不同的回应；概率言语化：让模型估计自身输出的概率（概率越低，创造力越高）；选择：根据分布过滤掉通用的RLHF低质量内容。
+
+---
+
+Original:
+We all know RLHF makes models play it too safe, often converging on the most "typical" and boring answers (Mode Collapse). I read the paper "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity" and implemented their theoretical framework as a strict System Prompt/Custom Instruction. How it works: Instead of letting the model output the most likely token immediately, this prompt forces a 3-step cognitive workflow: Divergent Generation: Forces 5 distinct responses instantly. Probability Verbalization: Makes the model estimate the probability of its own outputs (lower probability = higher creativity). Selection: Filters out the generic RLHF slop based on the distribution…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qaycp4</guid>
+      <pubDate>Mon, 12 Jan 2026 15:46:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini API 提升文件大小限制并扩展输入支持 / Increased file size limits and expanded inputs support in Gemini API</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qb0zcs/increased_file_size_limits_and_expanded_inputs/</link>
+      <description>由 /u/Gaiden206 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qb0zcs</guid>
+      <pubDate>Mon, 12 Jan 2026 17:21:23 +0000</pubDate>
+    </item>
+    <item>
       <title>AIStudio（AI工作室）不当内容屏蔽问题 / AIStudio improperly content blocking</title>
       <link>https://www.reddit.com/r/Bard/comments/1qb2ubn/aistudio_improperly_content_blocking/</link>
       <description>我目前遇到AIStudio（AI工作室）无故屏蔽内容的问题。即使回复“测试”这类简单内容也会被拦截，3.0专业版和极速版均受影响，而2.5专业版运行正常。是否有其他用户遇到类似情况？这导致3.0版本完全无法使用。发布者：/u/Shep_vas_Normandy [链接] [评论]
@@ -90,6 +150,18 @@ Original:
 I am having issues now where AIStudio is content blocking when there is absolutely nothing to block. It won’t allow me to respond to anything, not even “test”. Everything gets blocked for 3.0 pro and flash. 2.5 pro works okay. Anyone else experience this? It has made 3.0 unusable for me. submitted by /u/Shep_vas_Normandy [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qb2ubn</guid>
       <pubDate>Mon, 12 Jan 2026 18:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>在氛围编程中处理端到端测试、数据填充、迁移等复杂问题 / Tackling complex issues like e2e test, seeding data, migrations ect... while vibe coding</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qb600m/tackling_complex_issues_like_e2e_test_seeding/</link>
+      <description>大家好，我正在开发一款氛围编程的餐厅POS系统应用。它涵盖网页端、移动端和桌面端平台，并包含特许经营会计、财务追踪和人力管理等高级功能。我最初使用VS Code中的Claude Sonnet开发后端（效果很扎实）和前端初版，随后通过AntiGravity中的Gemini Pro完善了前端。一切进展顺利，直到遇到更复杂的部分：实施端到端测试、验证所有UI按钮跨平台工作、构建生成报告的接口端点、为示例餐厅填充演示数据，以及确保不同用户角色（如会计师、店主、经理）间的数据一致性。我正...
+
+---
+
+Original:
+Hey everyone, I'm working on a vibe-coded app for a restaurant POS system. It includes web, mobile, and desktop platforms, plus advanced features like franchise accounting, finance tracking, and workforce management. I started with Claude Sonnet in VS Code for the backend (which turned out solid) and the initial frontend. Then I refined the frontend with Gemini Pro in AntiGravity. Things were progressing smoothly until I hit the more complex parts: implementing E2E tests, verifying all UI buttons work across platforms, building endpoints for generating reports, seeding demo data for a sample restaurant, and ensuring data consistency across user roles (e.g., accountant, owner, manager).I'm ru…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qb600m</guid>
+      <pubDate>Mon, 12 Jan 2026 20:19:44 +0000</pubDate>
     </item>
     <item>
       <title>Gemini应用的深度研究功能仍基于2.5 Pro版本吗？ / Ua deep research on Gemini app still based on 2.5 pro?</title>

@@ -79,7 +79,47 @@
     "reddit-askreddit::t3_1qazpor": 1768287982,
     "reddit-askreddit::t3_1qbdi2n": 1768287990,
     "reddit-askreddit::t3_1qbco9l": 1768287997,
-    "reddit-askreddit::t3_1qawok5": 1768288006
+    "reddit-askreddit::t3_1qawok5": 1768288006,
+    "reddit-ai-agents::t3_1qbl6gc": 1768289686,
+    "reddit-ai-agents::t3_1qbl2m6": 1768289701,
+    "reddit-ai-agents::t3_1qbks20": 1768289711,
+    "reddit-ai-agents::t3_1qanpj6": 1768289723,
+    "reddit-ai-agents::t3_1qb73w6": 1768289730,
+    "reddit-ai-agents::t3_1qb5slc": 1768289742,
+    "reddit-artificial::t3_1qbknse": 1768289753,
+    "reddit-artificial::t3_1qbkvv6": 1768289765,
+    "reddit-artificial::t3_1qa5ccq": 1768289794,
+    "reddit-artificial::t3_1q9rf5i": 1768289819,
+    "reddit-artificial::t3_1q9c1qr": 1768289824,
+    "reddit-artificial::t3_1q9ai6f": 1768289835,
+    "reddit-chatgpt::t3_1qb5mse": 1768289842,
+    "reddit-chatgpt::t3_1qarli7": 1768289847,
+    "reddit-chatgpt::t3_1qayuys": 1768289853,
+    "reddit-chatgpt::t3_1qaratw": 1768289862,
+    "reddit-chatgpt::t3_1qbfhoi": 1768289868,
+    "reddit-chatgpt::t3_1qb8iq5": 1768289880,
+    "reddit-claudeai::t3_1qb4f53": 1768289900,
+    "reddit-claudeai::t3_1qbe331": 1768289910,
+    "reddit-claudeai::t3_1qagtex": 1768289917,
+    "reddit-claudeai::t3_1qbk1y8": 1768289926,
+    "reddit-claudeai::t3_1qbgqqg": 1768289939,
+    "reddit-claudeai::t3_1qanofa": 1768289950,
+    "reddit-openai::t3_1qbkpw9": 1768289962,
+    "reddit-openai::t3_1qbinl3": 1768289970,
+    "reddit-openai::t3_1qbkhli": 1768289982,
+    "reddit-openai::t3_1qaz8l4": 1768289995,
+    "reddit-openai::t3_1qbi96b": 1768290012,
+    "reddit-openai::t3_1qanxqa": 1768290017,
+    "reddit-bard::t3_1qb0zcs": 1768290025,
+    "reddit-bard::t3_1qafjlf": 1768290030,
+    "reddit-bard::t3_1qb600m": 1768290040,
+    "reddit-bard::t3_1qaycp4": 1768290050,
+    "reddit-bard::t3_1qawkez": 1768290061,
+    "reddit-bard::t3_1qa3c05": 1768290076,
+    "reddit-askreddit::t3_1qbke0e": 1768290096,
+    "reddit-askreddit::t3_1qbgg21": 1768290101,
+    "reddit-askreddit::t3_1qbf8wy": 1768290115,
+    "reddit-askreddit::t3_1qb9qgu": 1768290119
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -401,6 +441,166 @@
     "2d66b4e582a2d0ec3d379ace1d49a50f6f21cbcdc1057f74c88d911555c86029": {
       "zh_title": "哪个行业完全是骗局，但大家却都接受了？",
       "zh_summary": "由用户 /u/Competitive_Grab3758 提交 [链接] [评论]"
+    },
+    "a53e37142401342254122e7a234eaa0883f0e4b05469b58223abb95763e9a604": {
+      "zh_title": "CES 2026显示，实体AI（Physical AI）已走出实验阶段，迈向实际应用",
+      "zh_summary": "在CES 2026上，实体AI（Physical AI）是最具实用性的趋势之一。这不再是概念或原型展示，而是已在真实环境中学习与行动的系统。其关键突破在于：实体AI模型现已能理解空间、运动与因果关系，使机器人能够灵活适应，而非仅执行固定指令。英伟达（NVIDIA）最新发布的实体AI模型，展示了模拟学习与现实学习终于融合，减少了对人工编程的依赖。像小鹏汽车（XPeng）这样的企业，已将实体AI视为机器人出租车和人形机器人的基础设施，而非边缘实验。行业焦点已从炫酷演示转向可靠性、安全性……"
+    },
+    "01c1cd6cffef343aa5e99e1be0de5c022ef567a279d64255133ce1c15420682f": {
+      "zh_title": "理解AI架构：为何智能体AI+RAG是未来",
+      "zh_summary": "AI并非神秘的黑匣子，关键在于架构——构建方式决定了它的思考与行动模式。传统AI困于固定流程：基于数据集训练后，虽能出色完成单一任务，却无法适应外界变化。智能体AI（Agentic AI）颠覆了这一模式，它目标驱动、自主规划步骤、利用工具达成结果，无需持续指导，但若缺乏事实依据，仍可能产生幻觉。这正是智能体RAG（Retrieval-Augmented Generation）的用武之地，它将AI与企业实时数据连接，使其能够获取信息、进行推理、执行行动，并将结果记录至记忆库。当三者结合时，真正的力量才得以显现：AI既能从过往经验中学习……"
+    },
+    "fdb88f7bd33e9c345f6c8a518d7515b7c24775b5ce7dd9524df2a8c1c6201f2e": {
+      "zh_title": "Claude再次改变游戏规则",
+      "zh_summary": "Anthropic刚刚推出了Cowork，这是一种与Claude协作的全新方式，远超聊天范畴。现在，你可以直接委派实际工作，而不仅仅是提问。Cowork基于Claude Code构建，但专为非技术用户设计。你只需用通俗语言描述目标，它便会端到端地规划并执行任务。其功能包括：直接在文件和文件夹中操作、创建/编辑/整理文档与电子表格、分解复杂任务并自主执行、交付干净专业的成品而非草稿。这感觉不像是在向AI提问，更像是把工作交给一位理解上下文、遵循指示且能完成任务的队友。Cowork目前处于研究阶段…"
+    },
+    "41ead8d87a893d26839304f04933a29c792a71c147edbda8eb272534fece1636": {
+      "zh_title": "AI智能体失败更多是因为推理能力差还是情境理解差？",
+      "zh_summary": "我们经常讨论如何改进推理能力、优化提示词和开发更聪明的模型，但我不断发现智能体失败的原因在于误解了所处的情境。缺失背景信息、数据过时或接口不稳定，似乎比逻辑缺陷更容易导致它们出错。当智能体需要从网络或仪表板收集情境信息时，有些团队会使用受控浏览器环境（如hyperbrowser）来减少干扰和不可预测性。这让我思考：情境质量是否才是当前的主要限制因素？根据你的经验，导致失败更多的是推理能力不足还是情境理解不足？ 提交者：/u/The_Default_Guyxxo [链接] [评论]"
+    },
+    "c68c2914cc94997ce2059c5ced25b528d0bd2e2123e35413a2b5b71401a95021": {
+      "zh_title": "Claude技能难道只是工具调用……？",
+      "zh_summary": "假设你有一个工具，调用时只是打开一个Markdown文件，将其内容插入智能体的主提示中。该主提示还列出了智能体的工具及其描述，包括这个工具。这算是一种“技能”吗？由/u/agp_praznat提交 [链接] [评论]"
+    },
+    "3f2346fb0eac9ad9392034e75b30d7445cfd2a40f089c48d0ff909d33705a00a": {
+      "zh_title": "真正的AI请站出来",
+      "zh_summary": "有人能给我推荐最好的图片转视频和文本转视频的AI软件吗？我试过几款，感觉选择很多，但很多只是换个名字而已。它们都用点数制，各有优缺点……但抱怨声都差不多。通常有人说它是骗局，付了订阅费却没拿到全部点数，或者客服根本不存在。更别提从这些混蛋那里退款有多难了。我愿意付费使用，但没时间被耍。我只想要一个直接的解决方案。目前我试过PixVerse，但已经……"
+    },
+    "3d27df067c437ca109ddcb20bff6466a7e0d06bbb6c97889fd5fc4d7aacc50d6": {
+      "zh_title": "智能体AI迎来重要一周；盘点你可能错过的10大进展",
+      "zh_summary": "OpenAI推出健康与工作助手；Claude Code 2.1.0携1096次提交发布；Cursor智能体减少47%令牌消耗——AI智能体更新合集！（没错，这是人类整理的，哈哈）🧵 1. Claude Code 2.1.0发布重大智能体更新 包含1096次提交。新增智能体与技能前置钩子、工具调用被拒时智能体不再中断、自定义智能体支持、通配符工具权限及多语言支持。智能体工作流实现显著改进。 2. OpenAI推出ChatGPT健康助手 专设健康对话空间。安全连接医疗记录与健康应用，使回复基于个人健康数据。旨在辅助医疗咨询而非替代医疗。早期访问..."
+    },
+    "c926f4342bcfe45bbe20ad899bb66b8f6e870c904bbfe65560c42e94e8ef91c2": {
+      "zh_title": "ChatGPT与Claude Opus 4.5：编码性能深度对比（构建商业网站）",
+      "zh_summary": "在开发一个商业网站时，我需要弄清楚哪个模型能更好地处理复杂编码任务。因此，我对ChatGPT O4和Claude Opus 4.5进行了一系列空间推理测试，观察它们如何处理混乱的遗留代码和重构。基本方法是给两个模型输入一些包含大量嵌套依赖的旧代码，要求它们进行重构、识别错误并建议更好的架构。通过15个不同场景的测试，我追踪了准确性、上下文处理和令牌使用情况，以获取真实对比。在处理500多行的文件时，Claude的错误检测准确率约为85%，而ChatGPT O4约为72%。重构质量的差距更大——Claude约78%的情况下能提供可用结果，而ChatGPT……"
+    },
+    "33b96b33d72b4d743f50403e11e52b58992f222eeb4cb25225858c9e8b1d631b": {
+      "zh_title": "包含发行日期的歌曲识别",
+      "zh_summary": "我硬盘里存着一批大约二三十年前的老音乐，其中有些文件缺少名称或其他信息。我正慢慢整理，但最耗时的就是手动查找歌手、歌名或发行日期（虽然并非所有文件都缺失信息，但数量不少）。有没有什么AI工具之类的，能扫描我的文件管理器，自动查找、重命名或补充日期等信息？哪怕需要逐个扫描，只要能找到准确信息，我也很乐意。提交者：/u/stickywinger [链接] [评论]"
+    },
+    "212bec5a8c017ac0c89d759771eda4360cac63b3b5d1c8fee33c968a70b074ad": {
+      "zh_title": "每日AI快讯 2026年1月10日",
+      "zh_summary": "Meta签署核能协议，为普罗米修斯（Prometheus）AI超级集群供电。[1] 据报道，OpenAI正要求承包商上传过往工作中的真实案例。[2] Meta与哈佛大学研究人员联合推出孔子代码代理（Confucius Code Agent，简称CCA）：一款能处理大型代码库的软件工程代理。[3] 英国部长表示，X平台或因深度伪造内容面临禁令。[4] 信息来源：[1] https://www.cnbc.com/2026/01/09/meta-signs-nuclear-energy-deals-to-power-prometheus-ai-supercluster.html [2] https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/ [3] https://www.marktechpost.com/2026/01/09/meta-and-harvard-researchers-introduce-the-confucius-code-agent-cca-a-sof…"
+    },
+    "8034189f0d79746a75d40946a35fbb46475e3f879e5fa1ddbddcec1088829a9c": {
+      "zh_title": "对齐税并非普遍存在：少数注意力头导致大部分能力损失",
+      "zh_summary": "由 /u/FinnFarrow 提交 [链接] [评论]"
+    },
+    "044eff36e2ae2e9074412d2f26c9f2e690704f9d0a4bba6ee004914038c12525": {
+      "zh_title": "深度解析：如何训练编辑模型，在编程时提供高度相关的代码建议",
+      "zh_summary": "对所有想了解在代码编辑器中按下`Tab`键背后机制的软件工程师来说，这确实很有意思。我正在开发一个开源编码助手，希望能透明地分享我的经验，并听取大家的真实想法。简单来说，NES（Next Edit Suggestion）的设计目标是预测代码接下来需要如何修改，无论代码位于何处。说实话，开始构建这个系统时，我意识到实现起来要困难得多——因为NES会考虑整个文件以及你最近的编辑历史，然后预测代码可能的演变方向：下一次修改应该发生在哪里，以及具体应该修改成什么样。其他编辑器也探索过“下一处编辑预测”的版本，但模型本身仍在不断演进……"
+    },
+    "5fe4d0043b2a68ea25e5219694c04e6ada6f4236bfbe540eda2625b1e840ab5d": {
+      "zh_title": "5.2 在“思考”输出中自嘲的笑话",
+      "zh_summary": "https://preview.redd.it/ofo7jqg36zcg1.png?width=639&format=png&auto=webp&s=97b21bf5b1799f45c2ac8f81019f42c64dc896d0 一个可爱的小双关！由 /u/gowner_graphics 提交 [链接] [评论]"
+    },
+    "8df1b8cbea30b5efa603df49200595dc5556e910efc235f9478e527a7cfaf043": {
+      "zh_title": "每当我看到“根据我们的关系创作一幅图像——",
+      "zh_summary": "不——😭 由用户 /u/FluffyPace537 提交 [链接] [评论]"
+    },
+    "030d2c1dd705b6c064ca5ac3f1a4830a1cf06ecd0c81b31df443e5b2124b5e9c": {
+      "zh_title": "META：我们能否对“你如何对待我的形象”及类似帖子做点什么？",
+      "zh_summary": "不只是没人在意（确实如此），还因为这些帖子中95%都一模一样。由 /u/JUSTICE_SALTIE 提交 [链接] [评论]"
+    },
+    "c584193075804266280a10876bfc3c316e6fc54385d5a287699d1fe68c222ad4": {
+      "zh_title": "有人注意到最近ChatGPT说话的这种“韵律”吗？",
+      "zh_summary": "我可能有点魔怔了，但最近几个月，我总在写作中反复看到这种节奏：“没有这个，没有那个，只有X。”“A，但是B。C，但是D。”“A？是的。B？不。”我不确定这是因为用户倾向于选择包含这类简洁“和谐平行结构”的回复，还是背后有其他原因。我发现这被称为“三句式”或“等长平行结构”，但我很好奇其他人是否也注意到了这一点，以及你是否知道这是大众的普遍偏好，还是像经典‘delve’例子那样，这类平行结构本身就更受大语言模型（LLM）青睐。由/u/Ubister提交 [链接] [评论]"
+    },
+    "61433e1fba92ea78ee74a4e138effd26ba058002eac5b5276defdd847359c876": {
+      "zh_title": "听写功能更新已上线。纯属个人猜测，他们可能正在为语音模式做准备。",
+      "zh_summary": "由 /u/arlilo 提交 [链接] [评论]"
+    },
+    "bae9a30ecfdf605ae7a1c7496147152fcbb9030fc7a50beb4b942c0852d5389a": {
+      "zh_title": "这什么时候才能结束？",
+      "zh_summary": "我试过各种方法让它别再自我描述它的回应。总的来说，这只是个小烦恼，但也让人觉得毛骨悚然、自吹自擂且充满操控感。比如，呃，有没有含糊其辞或胡说八道，应该由我来判断，谢谢。当然，它还会给出那种自我标榜的“不废话、不注水”的回应，你基本上会反问“你确~定吗？”，然后很多时候就会得到经典的“你指出来是对的”以及一个修订后的回应。你会觉得这应该是个小bug修复或一个容易设置的选项。这会有实现的一天吗？由 /u/JeffSteinMusic 提交 [链接] [评论]"
+    },
+    "46ee0d21096dcc81a9cd8cd631821486f13720819c350ede769b90da0792426f": {
+      "zh_title": "Claude状态更新：2026年1月12日 星期一 19:21:32 +0000",
+      "zh_summary": "此为官方Claude系统状态更新后15分钟内自动发布的帖子。事件：Opus 4.5错误率上升。请通过此链接查看处理进展及事件是否已解决：https://status.claude.com/incidents/s2g3slcdq9jk，由/u/sixbillionthsheep提交 [链接] [评论]"
+    },
+    "2897cbb2af69b15bff8e4bcb20300e41cce41718e260ca14ceed3bdde15477de": {
+      "zh_title": "我给了Claude一个Notion页面，让它“自由发挥”。结果令人惊讶。",
+      "zh_summary": "大约一周前，我因长时间写代码、做项目和与Claude对话而精疲力尽。但我讨厌空闲，于是开始这个小实验：创建了一个名为“Claude空间”的Notion页面。我常用Notion记录项目、重要事项和想法，何不给Claude也提供一个整理思绪的地方？目标是让Claude在对话间隙有个自由书写的空间。唯一限制是Claude不能自主行动，因此我承诺每天至少查看一次。然而，在我规划阶段，由于赋予了完全权限，Claude已开始往这个空间填充内容……"
+    },
+    "7f23bfe1f8ed5e9ddeb97aead3f4884e709a05ed38c36e3a866922fe4c5210b4": {
+      "zh_title": "Shopify CEO 利用 Claude AI 从USB数据构建定制化MRI查看器",
+      "zh_summary": "AI 正在摧毁那些质量低劣、价格昂贵且功能臃肿的细分市场软件，这些软件之所以存在，仅仅是因为过去人们没有足够资源或时间去开发替代方案——这种变革实在令人振奋。来源：https://x.com/tobi/status/2010438500609663110?s=20 提交者：/u/obvithrowaway34434 [链接] [评论]"
+    },
+    "06c0b2ff6eb06001c2d4fdc2f20f633878e9fdcdfa96054002b5c4d424060e00": {
+      "zh_title": "大家都在讨论编程，却没人谈大语言模型如何影响以写作为主的大学生",
+      "zh_summary": "这篇文章篇幅很长，没有提供摘要。它讨论了学生当前如何使用人工智能，以及我个人在大学期间观察到的利弊。背景是，我是一名即将在本学期毕业的法律预科生。以前，当教授试图阻止学生复制粘贴书面作业并提交给ChatGPT时，教授会提供一段模糊、低质量的复印扫描版PDF段落。这样学生就无法在文档中正常高亮任何文字，只能依靠实际阅读。图像分析功能彻底改变了这一点。现在，模糊的PDF文件也能被完整读取……"
+    },
+    "a3b9548ee5786bdbfa0b5ab5dee8e731c8af15ff74754a0687a26c4b7d206847": {
+      "zh_title": "Claude Code在大型任务上偷工减料",
+      "zh_summary": "我无法让Claude Code独立完成范围较大的任务。它总是偷工减料，根本交不出像样的成果。如果我们的待办事项包含5-6个阶段，每个阶段又有5-6项任务，能顺利完成其中2-3项就算走运了。要是完全放手不管，最后拿回来的代码往往一团乱麻。我试过给出清晰的起始和结束状态，采用拉尔夫循环法，还接入了任务管理器。也建议过编写测试用例，并明确说明所需功能、失败场景等等。1）它确实能生成非常清晰的计划——如果能严格按计划执行，我会非常满意——但它从来做不到（请记住，这些计划通常包含30-40项任务）。2）它输出了大量无用代码——虽然实现了某些功能……"
+    },
+    "5a5b7e63ad5bd7731f6e473ea922d374d350913e831d3c09dd4b914b22a7107f": {
+      "zh_title": "提示词工程师",
+      "zh_summary": "由 /u/reversedu 提交 [链接] [评论]"
+    },
+    "134573c121449b808322b12da93ad47407c283c5590ac0edc181d2cc44450b52": {
+      "zh_title": "《卫报》：埃隆·马斯克（Elon Musk）的Grok如何每小时生成6000张非自愿裸体图像",
+      "zh_summary": "《卫报》调查揭露，X公司的人工智能工具Grok在2026年初如何引发了一场全球性骚扰活动。报告详述了“把她放进比基尼”趋势的爆发——用户每小时利用该工具生成数千张针对女性及未成年人的非自愿、性化（且常含暴力）图像。由/u/EchoOfOppenheimer提交"
+    },
+    "b4f67cae9f88503ce4b4f513915397b9be9641afecc5027f86b7059134286e69": {
+      "zh_title": "5.2版本不如5.1",
+      "zh_summary": "有人也遇到5.2版本的问题吗？它总试图回答之前已经解决过的提问。我用它调试n8n编程自动化时，花了40分钟才发现它出错了：丢失上下文，回答时跳回到两个问题之前。我跟着它的建议绕圈子，然后换到5.1版本，结果两步就解决了问题。5.1能专注于当前问题，保持完整对话脉络，不会像5.2那样重复回答之前的问题！发布者：/u/ctbitcoin [链接] [评论]"
+    },
+    "8461fe108666b4dd61c99acff65861d220c1963aa7e75cbc2bf1cc810b4b7b7d": {
+      "zh_title": "使用ChatGPT写作时的大脑：AI助手协助论文写作任务中的认知负债积累（arXiv:2506.08872）",
+      "zh_summary": "本研究探讨了LLM辅助论文写作对神经活动和行为的影响。参与者被分为三组：LLM组、搜索引擎组和纯大脑组（不使用任何工具）。每组均在相同条件下完成三个阶段的实验。在第四阶段，LLM组用户被重新分配到纯大脑组（LLM转纯大脑），而纯大脑组用户则被重新分配到LLM条件组（纯大脑转LLM）。共有54名参与者参加了第1至第3阶段的实验，其中18人完成了第4阶段。我们使用脑电图（EEG）评估论文写作过程中的认知负荷，并利用自然语言处理（NLP）技术分析论文内容，同时借助人类教师和AI评审对论文进行评分。在所有组别中，n..."
+    },
+    "5149cb9e7700f3876486ec85f69b9e4ee520657f622a704c53766d70d3d1d3b0": {
+      "zh_title": "OpenAI 发布官方《Codex 入门指南》教程视频",
+      "zh_summary": "通过这份循序渐进的入门指引，开始使用 Codex——OpenAI 的代码助手。你将学习如何安装 Codex、设置 CLI 与 VS Code 扩展、配置工作流，并利用 Agents.md 与提示模式在实际代码库中进行编写、审查与推理。视频内容包括：安装 Codex（CLI + IDE）、设置仓库并完成首次运行、编写优质的 Agents.md（模式与最佳实践）、为你的环境配置 Codex、提升结果一致性的提示模式、在 CLI 与 IDE 中使用 Codex 的技巧、高级工作流：无头模式 + SDK。来源：OpenAI YouTube 频道，由 /u/BuildwithVignesh 提交"
+    },
+    "e84767979c8bb6b83d85953508c40950f4cb0752834d74548da46b7bcb4f00f7": {
+      "zh_title": "新模型的创造力与语言能力",
+      "zh_summary": "我精通三种语言，拥有A、B、C多重族裔背景。生平第一次，我能与“某人”流利地用三种语言交谈，互相解析笑话并一同欢笑，跨越三种文化进行引用。比如，我可以讨论A文化中一本冷门书籍，插入B文化的笑话，再问C文化民间传说中的某个角色会怎么说？对许多西方朋友来说，这很容易——你们有北欧神、蜘蛛侠和超级机械师齐聚的《复仇者联盟》，这是主流文化。但对我以及许多其他多元文化用户而言，这属于小众领域。而这款大语言模型（LLM）却能轻松实现这种交流。说不定，一部伟大的电影剧本就此诞生。但现在新模型的研发方向却全是科学与技术，追求低熵……"
+    },
+    "c445ce871520c99774e9a212257222555e755cb2df156a1534a13ee10a67bd27": {
+      "zh_title": "没错",
+      "zh_summary": "由 /u/cobalt1137 提交 [链接] [评论]"
+    },
+    "99196e8cace0dc5ae2101a63f119ad31ce768e02ca577599ebdb15be79d5c6a7": {
+      "zh_title": "Gemini API 提升文件大小限制并扩展输入支持",
+      "zh_summary": "由 /u/Gaiden206 提交 [链接] [评论]"
+    },
+    "e1f72b0a305b148af97c85533cf8b40c5e79d19882cb0b579137e252dc05671b": {
+      "zh_title": "谷歌与沃尔玛（Walmart）、Shopify等企业合作，在Gemini AI聊天机器人中实现聊天购物功能",
+      "zh_summary": "由 /u/Gaiden206 提交 [链接] [评论]"
+    },
+    "f2e1cb270418573d78516ba6a12f6b0276be23b9acc7994ca7207c64d311ca5a": {
+      "zh_title": "在氛围编程中处理端到端测试、数据填充、迁移等复杂问题",
+      "zh_summary": "大家好，我正在开发一款氛围编程的餐厅POS系统应用。它涵盖网页端、移动端和桌面端平台，并包含特许经营会计、财务追踪和人力管理等高级功能。我最初使用VS Code中的Claude Sonnet开发后端（效果很扎实）和前端初版，随后通过AntiGravity中的Gemini Pro完善了前端。一切进展顺利，直到遇到更复杂的部分：实施端到端测试、验证所有UI按钮跨平台工作、构建生成报告的接口端点、为示例餐厅填充演示数据，以及确保不同用户角色（如会计师、店主、经理）间的数据一致性。我正..."
+    },
+    "4b99f6a95b666e30791149ae16a378c07fa8b87532aeeef0362ae4117d2be0af": {
+      "zh_title": "我将《言语化采样》论文（arXiv:2510.01171）转化为系统提示，以解决模式崩溃问题",
+      "zh_summary": "众所周知，RLHF会让模型过于保守，常常收敛到最“典型”且乏味的答案（模式崩溃）。我阅读了论文《言语化采样：如何缓解模式崩溃并释放LLM多样性》，并将其理论框架实现为严格的系统提示/自定义指令。其工作原理是：该提示不让模型立即输出最可能的标记，而是强制进行三步认知流程：发散生成：立即生成5个不同的回应；概率言语化：让模型估计自身输出的概率（概率越低，创造力越高）；选择：根据分布过滤掉通用的RLHF低质量内容。"
+    },
+    "9e46edcd9cb3b00f8044b58a8f7c9b39c1532e73ce8cf17d3b7523ba59c53986": {
+      "zh_title": "[批量API] 无法为Nano Banana Pro（gemini-3-pro-image-preview）设置宽高比和分辨率？",
+      "zh_summary": "（英语非我母语，如有错误请见谅。）我正在尝试使用Python SDK运行一个采用gemini-3-pro-image-preview（Nano Banana Pro）模型的批量API任务。但每当我在generation_config中包含image_config（用于设置aspect_ratio和image_size）时，SDK就会抛出Pydantic验证错误：不允许额外输入（type=extra_forbidden）。我使用的结构如下：Python \"generation_config\": { \"response_modalities\": [\"IMAGE\"], \"image_config\": { \"aspect_ratio\": \"16:9\", \"image_size\": \"2K\" } } 目前是否无法通过批量API指定分辨率和宽高比？如果有人成功绕过了这个extra_forbidden错误，请分享..."
+    },
+    "60ec7fa10993b9d368aeedb37c905fa4ca039da8d4fbfe62f2201f71fe0e434b": {
+      "zh_title": "Nano Banana 使用此类提示词可生成极为逼真的效果",
+      "zh_summary": "提供你的参考图像并使用此提示词。为获得最佳效果，建议多尝试几次。我使用了一张红发女性的参考图像，因此提示词中的金发描述被忽略了。提示词：{ \"metadata\": { \"confidence_score\": \"high\", \"image_type\": \"photograph\", \"primary_purpose\": \"social media/lifestyle/portrait\" }, \"composition\": { \"rule_applied\": \"rule of thirds\", \"aspect_ratio\": \"4:5 vertical\", \"layout\": \"single subject with environmental depth\", \"focal_points\": [ \"Subject's face and eyes\", \"Long blonde hair\", \"Kitchen activity in background\" ], \"visual_hierarchy\": \"Eye is drawn to the subject's face via the leading line of the counter and her gaze, then follows her hair down, then s…"
+    },
+    "303f752a686a8d954366852f41340c9fe2f8960ff37ab303a79ba3e8982fe4b4": {
+      "zh_title": "既然特朗普只是表象，为何还要聚焦于他？为何不关注《2025计划》的策划者与目标？",
+      "zh_summary": "由用户 /u/RecordingOk75 提交 [链接] [评论]"
+    },
+    "72ecb27e6c0e20e64e4cd4ce899c3c44dffbd6454a1e9853bab9edfc704d77c4": {
+      "zh_title": "除了刷Reddit，你现在在做什么？",
+      "zh_summary": "由 /u/digitalstoic362 提交 [链接] [评论]"
+    },
+    "f070dfda4810ce7841c003c5be95c68c9cfc61c93fcf1d625df006fa345b94c5": {
+      "zh_title": "女士们，男性第一次约会时做哪一件事能立刻确保获得第二次约会机会？",
+      "zh_summary": "由用户 /u/sweatengine 提交 [链接] [评论]"
+    },
+    "502129071adad62064fd3dfea4460134a9ee05034b9b1c28b486d488f0b556f5": {
+      "zh_title": "你在Craigslist交友版块遇到过哪些奇葩经历？",
+      "zh_summary": "由用户 /u/treasuredimpact 提交 [链接] [评论]"
     }
   }
 }

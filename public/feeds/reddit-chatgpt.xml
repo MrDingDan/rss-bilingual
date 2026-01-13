@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 07:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:38:00 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -30,6 +30,30 @@ Original:
 We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right. Now that we have been able to mitigate the serious mental health issues and have new tools, we are going to be able to safely relax the restrictions in most cases. In a few weeks, we plan to put out a new version of ChatGPT that allows people to have a personality that behaves more like what people liked about 4o (we hope it will be better!). If you want your ChatGPT to respond in a very human-like way, or use a ton of emoji, or act lik…</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1o6jins</guid>
       <pubDate>Tue, 14 Oct 2025 16:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>有人注意到最近ChatGPT说话的这种“韵律”吗？ / Anyone else notice this "rhythm" in ChatGPT speech lately?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qaratw/anyone_else_notice_this_rhythm_in_chatgpt_speech/</link>
+      <description>我可能有点魔怔了，但最近几个月，我总在写作中反复看到这种节奏：“没有这个，没有那个，只有X。”“A，但是B。C，但是D。”“A？是的。B？不。”我不确定这是因为用户倾向于选择包含这类简洁“和谐平行结构”的回复，还是背后有其他原因。我发现这被称为“三句式”或“等长平行结构”，但我很好奇其他人是否也注意到了这一点，以及你是否知道这是大众的普遍偏好，还是像经典‘delve’例子那样，这类平行结构本身就更受大语言模型（LLM）青睐。由/u/Ubister提交 [链接] [评论]
+
+---
+
+Original:
+I might be going crazy, but in the last months I keep seeing this rhythm in writing over and over again: "No this, no that, just X." "A, but B. C, but D." "A? Yes. B? No." I'm not sure if this is because of users nudging prefered responses to include these type of snappy "harmonic parallels", or something else behind the scenes. I've found these are called "tricolons" or "isocolons", but I'm curious if others see this too, and if you know if this is a democratic preference, or parallelisms like these being known to be prefered by the LLM itself (as with the classic 'delve' example) submitted by /u/Ubister [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qaratw</guid>
+      <pubDate>Mon, 12 Jan 2026 10:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>每当我看到“根据我们的关系创作一幅图像—— / Whenever I see “Create an image of our relationship based on-</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qarli7/whenever_i_see_create_an_image_of_our/</link>
+      <description>不——😭 由用户 /u/FluffyPace537 提交 [链接] [评论]
+
+---
+
+Original:
+Noooo😭 submitted by /u/FluffyPace537 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qarli7</guid>
+      <pubDate>Mon, 12 Jan 2026 10:37:59 +0000</pubDate>
     </item>
     <item>
       <title>这到底是什么玩意儿… / What the F is this…</title>
@@ -80,6 +104,18 @@ submitted by /u/lambchopscout [link] [comments]</description>
       <pubDate>Mon, 12 Jan 2026 15:35:51 +0000</pubDate>
     </item>
     <item>
+      <title>META：我们能否对“你如何对待我的形象”及类似帖子做点什么？ / META: Can we do something about the "image of how you treat me" and similar posts?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qayuys/meta_can_we_do_something_about_the_image_of_how/</link>
+      <description>不只是没人在意（确实如此），还因为这些帖子中95%都一模一样。由 /u/JUSTICE_SALTIE 提交 [链接] [评论]
+
+---
+
+Original:
+It's not just that nobody else cares (they don't), it's also that 95% of them are exactly alike . submitted by /u/JUSTICE_SALTIE [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qayuys</guid>
+      <pubDate>Mon, 12 Jan 2026 16:05:26 +0000</pubDate>
+    </item>
+    <item>
       <title>🤨 / 🤨</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qazi46/_/</link>
       <description>由 /u/Constant_Tough_6446 提交 [链接] [评论]
@@ -92,6 +128,18 @@ submitted by /u/Constant_Tough_6446 [link] [comments]</description>
       <pubDate>Mon, 12 Jan 2026 16:28:15 +0000</pubDate>
     </item>
     <item>
+      <title>5.2 在“思考”输出中自嘲的笑话 / 5.2 jokes to itself in "thinking" output</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qb5mse/52_jokes_to_itself_in_thinking_output/</link>
+      <description>https://preview.redd.it/ofo7jqg36zcg1.png?width=639&amp;format=png&amp;auto=webp&amp;s=97b21bf5b1799f45c2ac8f81019f42c64dc896d0 一个可爱的小双关！由 /u/gowner_graphics 提交 [链接] [评论]
+
+---
+
+Original:
+https://preview.redd.it/ofo7jqg36zcg1.png?width=639&amp;format=png&amp;auto=webp&amp;s=97b21bf5b1799f45c2ac8f81019f42c64dc896d0 A cute little pun! submitted by /u/gowner_graphics [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qb5mse</guid>
+      <pubDate>Mon, 12 Jan 2026 20:06:17 +0000</pubDate>
+    </item>
+    <item>
       <title>AI检测器完全是骗局 / AI Detectors are a complete scam.</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qb7tdl/ai_detectors_are_a_complete_scam/</link>
       <description>这就是我认为AI检测器是骗局的原因之一。GPTZero将这句话标记为高AI概率：“你为什么这么想？”它竟然说“为什么”这个词是连词！！不，它是疑问副词，修饰动词短语“你这么想”。连这个都搞错，那它还能错成什么样？提交者：/u/stumpmtsr [链接] [评论]
@@ -102,6 +150,30 @@ Original:
 This is one of the reasons why I think AI detectors are a scam. GPTZero marked this sentence as high AI: "Why do you think that?" It said the word why is a conjunction!! No, it's an interrogative adverb, it's modifying the verb phrase, "do you think" If it's wrong with this, then what else can it be wrong with? submitted by /u/stumpmtsr [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qb7tdl</guid>
       <pubDate>Mon, 12 Jan 2026 21:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>这什么时候才能结束？ / When will this end?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qb8iq5/when_will_this_end/</link>
+      <description>我试过各种方法让它别再自我描述它的回应。总的来说，这只是个小烦恼，但也让人觉得毛骨悚然、自吹自擂且充满操控感。比如，呃，有没有含糊其辞或胡说八道，应该由我来判断，谢谢。当然，它还会给出那种自我标榜的“不废话、不注水”的回应，你基本上会反问“你确~定吗？”，然后很多时候就会得到经典的“你指出来是对的”以及一个修订后的回应。你会觉得这应该是个小bug修复或一个容易设置的选项。这会有实现的一天吗？由 /u/JeffSteinMusic 提交 [链接] [评论]
+
+---
+
+Original:
+I’ve tried any number of ways to get it to stop self-describing its responses. It’s a minor irritant all things considered, but also feels really creepy and self-fellaciating and manipulative. Like, uh, I decide if there’s hedging or bullshit, thank you very much. Plus, of course, it’ll give the self-described “no bullshit no filler” response, you essentially respond “are you suuuuure?”, and a good chunk of the time you then get the classic “You’re right to call that out” and a revised response. You’d think this would be a minor bug fix or an easily available option. Will it ever happen? submitted by /u/JeffSteinMusic [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qb8iq5</guid>
+      <pubDate>Mon, 12 Jan 2026 21:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>听写功能更新已上线。纯属个人猜测，他们可能正在为语音模式做准备。 / The dictation update has arrived. This is purely my speculation, but they might be preparing something for voice mode.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qbfhoi/the_dictation_update_has_arrived_this_is_purely/</link>
+      <description>由 /u/arlilo 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/arlilo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qbfhoi</guid>
+      <pubDate>Tue, 13 Jan 2026 02:41:21 +0000</pubDate>
     </item>
     <item>
       <title>真高兴ChatGPT如此重视我的安全问题 / I'm just so glad chat GPT takes my safety seriously.</title>
