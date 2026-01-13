@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 14:01:27 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -306,6 +306,78 @@ Original:
 Physical AI was one of the most practical shifts seen at CES 2026. This wasn’t about concepts or prototypes. It was about systems already learning and acting in real environments. What made this moment different: Physical AI models are now trained to understand space, motion, and cause-effect, allowing robots to adapt instead of following fixed instructions. NVIDIA’s newly released Physical AI models show how simulation and real-world learning are finally merging, reducing dependence on manual programming. Companies like XPeng are treating Physical AI as infrastructure for robotaxis and humanoid robots, not as side experiments. The focus has moved from impressive demos to reliability, safety…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbl6gc</guid>
       <pubDate>Tue, 13 Jan 2026 07:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用AI智能体过程中，你学到的最重要经验是什么？ / What was the biggest lesson you learned from using AI agents?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbmkb1/what_was_the_biggest_lesson_you_learned_from/</link>
+      <description>关于AI智能体（AI agents）的理论探讨、演示案例和概念宣传很多，但实际将其应用到真实工作流后的经验分享却很少见。从“理论上可行”到“稳定可靠”之间的差距似乎相当明显。对于那些已经尝试或部署过AI智能体的朋友，我很好奇你们最深刻的体会是什么？ 由/u/No-Marionberry8257提交 [链接] [评论]
+
+---
+
+Original:
+I’ve seen a lot of discussion around AI agents in theory, demos, and hype posts, but much less about what happens once you actually try to use them in real workflows. The gap between "this should work" and "this works reliably" feels pretty big. For those who’ve experimented with or deployed AI agents, I’m curious what lessons stood out the most? submitted by /u/No-Marionberry8257 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbmkb1</guid>
+      <pubDate>Tue, 13 Jan 2026 09:02:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 4.5 突破了智能体能力的上限 / Claude Opus 4.5 Broke the Ceiling on What Agents Can Do</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbmwqj/claude_opus_45_broke_the_ceiling_on_what_agents/</link>
+      <description>Claude Opus 4.5 的基准测试表现惊人：在 GPQA（研究生级别科学测试）中达到 95% 的准确率，并能处理让 Opus 4 直接卡住的代码生成任务。于是，我花时间将其集成到我们的智能体工作流中……说实话？结果好坏参半。表现优异（确实非常出色）的是工具调用：相比 4.0 版本，智能体减少了 30% 的无效函数调用，这对生产稳定性至关重要。上下文窗口实际效果更好，因为在长链任务中幻觉现象大幅减少。推理更精准：以往需要 5-6 轮迭代的多步骤智能体任务，现在 2-3 轮就能完成。但它也存在一些问题，让我暂未全面采用 Opus 4.5：单 token 成本是之前的 3 倍……
+
+---
+
+Original:
+Claude Opus 4.5's benchmarks are insane. 95% accuracy on GPQA (grad-level science), handling code generation tasks that literally made Opus 4 choke. I So, I spent some time integrating it into our agentic workflow and... honestly? The results are mixed. What works well (really well) Tool use. The agent makes 30% fewer spurious function calls compared to 4.0. That's huge for production stability. Context window is effectively better because it doesn't hallucinate as much in the middle of long chains. Reasoning is sharper. Multi-step agent tasks that required 5-6 iterations before now converge in 2-3. But it's got some problems making me avoid Opus 4.5: Cost per token is 3x higher than what we…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbmwqj</guid>
+      <pubDate>Tue, 13 Jan 2026 09:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>有没有办法获得Comet的‘离线’版本用于求职申请？ / is there a way to have an 'offline' version of comet to do my job applications?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbn5xb/is_there_a_way_to_have_an_offline_version_of/</link>
+      <description>我老是碰到使用限制，但我有OLaMA和RTX 3060显卡。我无法让操作系统浏览器与我本地文件系统中的简历交互，也无法用我的登录信息同时打开多个标签页提交申请。如果能直接利用我自己的计算资源来使用Comet浏览器就太好了。 由/u/Upper-Bus8010提交 [链接] [评论]
+
+---
+
+Original:
+i keep hitting the limit but have olama and a rtx 3060 gpu. i cannot get os browser to interact with my resumes on the local file system and apply multiple tabs with my login. would be cool if i could basically use my own compute to use comet browser submitted by /u/Upper-Bus8010 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbn5xb</guid>
+      <pubDate>Tue, 13 Jan 2026 09:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>学习智能体AI的路线图 / Roadmap for learning Agentic AI</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbog8q/roadmap_for_learning_agentic_ai/</link>
+      <description>大家好，我来自MLOps和软件工程领域，目前正在学习吴恩达（Andrew Ng）的智能体AI课程。到目前为止，我学得很愉快，觉得智能体系统非常有趣。我想了解：有没有关于智能体AI的优质学习路线图？您会推荐哪些关键资源（论文、博客、代码库、框架）？要建立扎实的理解，最好构建哪些类型的项目或系统？非常感谢这个领域的从业者提供任何建议。由 /u/Super_Tough_4997 提交 [链接] [评论]
+
+---
+
+Original:
+Hi, I come from an MLOps and Software Engineering background and I’m currently taking Andrew Ng’s Agentic AI course. I’ve been enjoying it so far and find agentic systems really interesting. I’m trying to figure out: Is there a good learning roadmap for agentic AI? Any key resources (papers, blogs, repos, frameworks) you’d recommend? What kinds of projects or systems are best to build to develop a solid understanding? Would appreciate any advice from people working in this space. submitted by /u/Super_Tough_4997 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbog8q</guid>
+      <pubDate>Tue, 13 Jan 2026 11:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>热评：AI无需更聪明，关键在于可管控 / Hot take: AI doesn't need to get smarter. It needs to get governable.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbq5ax/hot_take_ai_doesnt_need_to_get_smarter_it_needs/</link>
+      <description>当前关于AI的讨论总陷在'如何让它更聪明、更快、更自主'的循环里，但真正的瓶颈其实是'如何在关键领域安全应用它'。所有人都在追逐通用人工智能（AGI），可医院连基础诊断助手都无法部署——因为无法审核其决策逻辑；工厂不敢把AI植入机器人——因为无法证明它不会产生危险动作幻觉；银行不能用它提供客户建议——因为监管要求结果可复现。关键在于以工具视角看待AI：台锯不需要懂木工，但它必须配有防护罩、紧急开关和熟练的操作员。这并非比AGI缺乏野心——正是这种可控性，才能让AI真……
+
+---
+
+Original:
+The entire AI discourse is stuck on "how do we make it smarter / faster / more autonomous" when the actual bottleneck is "how do we make it usable in contexts where failure matters." Everyone's racing toward AGI while hospitals can't deploy a basic diagnostic assistant because they can't audit it. Factories can't put AI in robots because they can't prove it won't hallucinate a movement. Banks can't use it for customer-facing advice because regulators need reproducibility. The tool framing is the whole point. A table saw doesn't need to understand carpentry. It needs guards, a kill switch, and an operator who knows what they're doing. That's not less ambitious than AGI — it's what makes AI ac…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbq5ax</guid>
+      <pubDate>Tue, 13 Jan 2026 12:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>生产级AI智能体的真正挑战：不在模型本身 / The real challenge with production AI agents: it's not the models</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbrtlo/the_real_challenge_with_production_ai_agents_its/</link>
+      <description>我正在搭建一个平台，帮助团队将自主AI智能体从演示环境部署到实际生产系统中。我们遇到（也从其他团队听说）的最大难题并非模型本身，而是围绕模型的一切：隔离性、调度机制、多租户控制、成本追踪，以及如何在用量增长时保持系统稳定。我们正在开发专门为智能体工作负载设计的编排层，让你无需拼凑基础设施，就能跨集群运行、管理和计量智能体。如果你正在构建或部署智能体，我非常希望了解你遇到的具体问题以及期待的功能。 发布者 /u/runctl [链接] [评论]
+
+---
+
+Original:
+I’m building a platform to help teams move autonomous AI agents from demos into real production systems. The biggest problems we’ve run into (and heard from others) aren’t the models themselves; it’s everything around them: isolation, scheduling, multi-tenant control, cost tracking, and keeping things stable as usage grows. We’re working on an orchestration layer designed specifically for agent workloads so you can run, manage, and meter agents across clusters without duct-taping infrastructure together. If you’re building/deploying agents today, I’d really love to hear what’s breaking for you and what you wish existed. submitted by /u/runctl [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbrtlo</guid>
+      <pubDate>Tue, 13 Jan 2026 13:50:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

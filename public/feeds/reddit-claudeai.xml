@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 14:04:06 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -318,6 +318,78 @@ Original:
 Hi all, I've recently been working on a tool that I truly believe will be the way we start doing programming and engineering: AgentOS, a Mobile-first web UI for managing AI coding sessions (Claude Code, Codex, Aider, Gemini CLI). Self-hosted with multi-pane terminals, git integration, and session orchestration. That's a mouthful, but basically it helps you code on your phone in a way that is really easy. One of the problems I was running into with the typical setup (Termius + SSH) is that I wasn't able to easily upload images for claude, and I wasn't able to start my dev server easily. This tool will help you do ALL OF THAT from your phone. It's completely free and I've open sourced it as we…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbknnt</guid>
       <pubDate>Tue, 13 Jan 2026 07:02:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>为什么Claude如此出色？ / Why is Claude that good?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbmhic/why_is_claude_that_good/</link>
+      <description>ChatGPT拥有用户，Gemini拥有资金，deepseek拥有创新。那Claude（克劳德）有什么呢？相比这三位竞争对手，是什么让它对话时显得更强大、更自然？由/u/Much-Inevitable5083提交 [链接] [评论]
+
+---
+
+Original:
+ChatGPT has the users, Gemini has the money, deepseek has the inventions. What does Claude have? Like, that makes it feel so much stronger and more natural sounding when talking to, compared to said 3 competitors? submitted by /u/Much-Inevitable5083 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbmhic</guid>
+      <pubDate>Tue, 13 Jan 2026 08:57:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude状态栏在2.1.6版本更新后现已显示实际上下文 / Claude status line can now show actual context after 2.1.6 update</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/</link>
+      <description>GitHub：https://github.com/shanraisshan/claude-code-status-line# 你可以从这里复制更新后的脚本 原始脚本由/u/shanraisshan提交 [链接] [评论]
+
+---
+
+Original:
+Github: https://github.com/shanraisshan/claude-code-status-line# you can copy the updated script from here Original Script here submitted by /u/shanraisshan [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbmrc7</guid>
+      <pubDate>Tue, 13 Jan 2026 09:14:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>克劳德（Claude）还没开始就结束了🤡 / When Claude is done even before it started 🤡</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbnbgx/when_claude_is_done_even_before_it_started/</link>
+      <description>是的，这就是由/u/Responsible_Snow提交的完整对话[链接][评论]
+
+---
+
+Original:
+Yes this is the entire conversation submitted by /u/Responsible_Snow [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbnbgx</guid>
+      <pubDate>Tue, 13 Jan 2026 09:50:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>一份实用的Claude技能理解速查表 / A useful cheatsheet for understanding Claude Skills</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpe91/a_useful_cheatsheet_for_understanding_claude/</link>
+      <description>这份速查表让我明白了Claude技能存在的深层原因，而不仅仅是文档中的表面描述。核心观点是：长提示会因上下文杂乱而失效；技能将可重复的指令移出提示；Claude仅在相关时加载它们。我之前没意识到的是：技能由模型自动调用，而非手动触发；描述决定其可发现性；有效的技能元数据比复杂逻辑更重要。想通这点后，我构建了一个极简的Git提交消息生成技能来验证这个想法。分享此速查表是因为它比大多数解释都更清晰地阐明了这一思维模型。如果有人在实际项目中使用Claude Code……
+
+---
+
+Original:
+This cheatsheet helped me understand why Claude Skills exist, not just how they’re described in docs. The core idea: Long prompts break down because context gets noisy Skills move repeatable instructions out of the prompt Claude loads them only when relevant What wasn’t obvious to me before: Skills are model-invoked, not manually triggered The description is what makes or breaks discovery A valid SKILL MD matters more than complex logic After this clicked, I built a very small skill for generating Git commit messages just to test the idea. Sharing the cheatsheet here because it explains the mental model better than most explanations I’ve seen. If anyone’s using Claude Code in real projects,…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbpe91</guid>
+      <pubDate>Tue, 13 Jan 2026 11:55:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>编程达人们，我找到了心流状态 / Vibe Coders, I found the Flow.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpms1/vibe_coders_i_found_the_flow/</link>
+      <description>目前编程领域没有比Opus 4.5更强的模型，但Claude虽然优秀，在直接部署时却容易走捷径或让项目暴露给恶意攻击者。我知道有些第三方产品试图解决这个问题，但我最近发现，Codex 5.1/5.2其实非常擅长发现这类编码疏漏并进行修补。作为安全模型，Codex远胜Opus 4.5，因为它思考得既深入又周全。 由/u/No-Commission-3825提交 [链接] [评论]
+
+---
+
+Original:
+Nothing beats Opus 4.5 at the moment in coding, but as much as Claude is good, its also good at making shortcuts or leaving projects exposed to bad actors when deployed as is. I know these 3rd parties products that aim to fix this, But I recently just discovered that actually, Codex 5.1/5.2 is extremely good at finding these coding slops and patching them. Like Codex as a security model far suppress Opus 4.5, because it thinks so long and so good. submitted by /u/No-Commission-3825 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbpms1</guid>
+      <pubDate>Tue, 13 Jan 2026 12:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>好吧，Opus 4.5，你赢了，接下来呢？（担心失去它） / Ok Opus 4.5, you win, what's next? (fear of losing it)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbq2jo/ok_opus_45_you_win_whats_next_fear_of_losing_it/</link>
+      <description>这个问题想请教一下这里的“老用户”（指使用超过6个月的人）。你们之前遇到过一个模型时是这样的吗？1. 试用 2. 陷入“爱河” 3. 然后……它没了。因为这就是我现在的担忧。Opus 4.5 是第一个在代理式编码和许多其他我用它做的事情上，100%适合我的AI。我喜欢它的交互方式，喜欢它的聪明劲儿，喜欢它处理一切的方式。我不断尝试其他模型，但总是回到它身边。但某个时候，Anthropic 会发布新版本，然后它就会消失。2个月、3个月或6个月，这总会发生。而现在当我看到 Opus 4.1 的定价，不知为何变得非常昂贵。这意味着他们可能不希望用户停留在旧模型上。有人经历过这种……
+
+---
+
+Original:
+This is a question for old-timers here (old meaning more than 6 months). Did that happen to you with a previous model? 1. Try it out 2. Fall in "love" 3. Aaaaand it's gone Because that's my current fear. Opus 4.5 is the first AI that fits me 100% for agentic coding and many other things I use it for. I love the interactions, how smart it is, how it does everything. I keep trying other models and coming back to it. Now at some point, Anthropic will release a new version and it'll be gone. 2, 3 or 6 months, it will happen. And now when I look at Opus 4.1 pricing, it's very expensive for some reason. Meaning they probably don't want you to linger on older models. Did anyone lived through that w…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbq2jo</guid>
+      <pubDate>Tue, 13 Jan 2026 12:30:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -199,7 +199,47 @@
     "xgo-f299207d::2010186321034350704": 1768294391,
     "xgo-f299207d::2010131672864612616": 1768294399,
     "xgo-f299207d::2010118956183609784": 1768294413,
-    "xgo-f299207d::2010118681788039418": 1768294426
+    "xgo-f299207d::2010118681788039418": 1768294426,
+    "reddit-ai-agents::t3_1qbmkb1": 1768312834,
+    "reddit-ai-agents::t3_1qbq5ax": 1768312849,
+    "reddit-ai-agents::t3_1qbog8q": 1768312857,
+    "reddit-ai-agents::t3_1qbmwqj": 1768312869,
+    "reddit-ai-agents::t3_1qbrtlo": 1768312878,
+    "reddit-ai-agents::t3_1qbn5xb": 1768312887,
+    "reddit-artificial::t3_1qbmjl2": 1768312904,
+    "reddit-artificial::t3_1qbnflg": 1768312909,
+    "reddit-artificial::t3_1qbp0oc": 1768312919,
+    "reddit-artificial::t3_1qbqiro": 1768312929,
+    "reddit-artificial::t3_1qbmjgj": 1768312929,
+    "reddit-chatgpt::t3_1qbn4vo": 1768312934,
+    "reddit-chatgpt::t3_1qbn48a": 1768312944,
+    "reddit-chatgpt::t3_1qbmk29": 1768312947,
+    "reddit-chatgpt::t3_1qbpah6": 1768312957,
+    "reddit-chatgpt::t3_1qbo2sl": 1768312975,
+    "reddit-chatgpt::t3_1qbqmjh": 1768312987,
+    "reddit-claudeai::t3_1qbq2jo": 1768313000,
+    "reddit-claudeai::t3_1qbmrc7": 1768313005,
+    "reddit-claudeai::t3_1qbmhic": 1768313016,
+    "reddit-claudeai::t3_1qbnbgx": 1768313022,
+    "reddit-claudeai::t3_1qbpms1": 1768313035,
+    "reddit-claudeai::t3_1qbpe91": 1768313045,
+    "reddit-openai::t3_1qbp8fu": 1768313055,
+    "reddit-openai::t3_1qbqxph": 1768313066,
+    "reddit-openai::t3_1qbqatm": 1768313080,
+    "reddit-openai::t3_1qbpfga": 1768313096,
+    "reddit-openai::t3_1qbn1g0": 1768313118,
+    "reddit-bard::t3_1qbqms8": 1768313130,
+    "reddit-bard::t3_1qbmwdg": 1768313149,
+    "reddit-askreddit::t3_1qbn2jb": 1768313163,
+    "reddit-askreddit::t3_1qbp6ih": 1768313182,
+    "reddit-askreddit::t3_1qbquei": 1768313195,
+    "reddit-askreddit::t3_1qbjf2v": 1768313201,
+    "reddit-askreddit::t3_1qbovq7": 1768313211,
+    "reddit-askreddit::t3_1qbm9fo": 1768313216,
+    "reddit-android::t3_1qbq7l4": 1768313223,
+    "reddit-android::t3_1qblurq": 1768313228,
+    "reddit-android::t3_1qast7c": 1768313232,
+    "reddit-android::t3_1qb0448": 1768313238
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -1001,6 +1041,162 @@
     "dc4ee81d6b89772048cd3a924645ab74338e6f8e5ca706b39459567d158e9992": {
       "zh_title": "展示运行轨迹是解释智能体内部机制的最佳方式",
       "zh_summary": "展示运行轨迹是解释智能体内部机制的最佳方式 john kutay @JohnKutay 每当我向稍有技术背景的人展示我们的系统时，大约50%的时间用于介绍用户体验，另外50%则聚焦于运行轨迹。后者往往最能让人恍然大悟。🔗 查看引用推文 💬 2 🔄 3 ❤️ 15 👀 3986 📊 5 ⚡ 由 xgo.ing 驱动"
+    },
+    "c4155b860bd12eead85d9d117e6b54b3866e62aa233bee43b77a9d1647395c41": {
+      "zh_title": "使用AI智能体过程中，你学到的最重要经验是什么？",
+      "zh_summary": "关于AI智能体（AI agents）的理论探讨、演示案例和概念宣传很多，但实际将其应用到真实工作流后的经验分享却很少见。从“理论上可行”到“稳定可靠”之间的差距似乎相当明显。对于那些已经尝试或部署过AI智能体的朋友，我很好奇你们最深刻的体会是什么？ 由/u/No-Marionberry8257提交 [链接] [评论]"
+    },
+    "a79fe68901a59f864837a9c8e0150ed418a61fe3909d0a44d61d7a2f831fca5a": {
+      "zh_title": "热评：AI无需更聪明，关键在于可管控",
+      "zh_summary": "当前关于AI的讨论总陷在'如何让它更聪明、更快、更自主'的循环里，但真正的瓶颈其实是'如何在关键领域安全应用它'。所有人都在追逐通用人工智能（AGI），可医院连基础诊断助手都无法部署——因为无法审核其决策逻辑；工厂不敢把AI植入机器人——因为无法证明它不会产生危险动作幻觉；银行不能用它提供客户建议——因为监管要求结果可复现。关键在于以工具视角看待AI：台锯不需要懂木工，但它必须配有防护罩、紧急开关和熟练的操作员。这并非比AGI缺乏野心——正是这种可控性，才能让AI真……"
+    },
+    "b348eb3beb4ac57705e3b5ae621d35d4b638dc1c07858500696b90fdd0b32e39": {
+      "zh_title": "学习智能体AI的路线图",
+      "zh_summary": "大家好，我来自MLOps和软件工程领域，目前正在学习吴恩达（Andrew Ng）的智能体AI课程。到目前为止，我学得很愉快，觉得智能体系统非常有趣。我想了解：有没有关于智能体AI的优质学习路线图？您会推荐哪些关键资源（论文、博客、代码库、框架）？要建立扎实的理解，最好构建哪些类型的项目或系统？非常感谢这个领域的从业者提供任何建议。由 /u/Super_Tough_4997 提交 [链接] [评论]"
+    },
+    "d9f10b91f7e237d87e375a04bb784bb05e327ca98f3a405a6eba855bf2ddf9b9": {
+      "zh_title": "Claude Opus 4.5 突破了智能体能力的上限",
+      "zh_summary": "Claude Opus 4.5 的基准测试表现惊人：在 GPQA（研究生级别科学测试）中达到 95% 的准确率，并能处理让 Opus 4 直接卡住的代码生成任务。于是，我花时间将其集成到我们的智能体工作流中……说实话？结果好坏参半。表现优异（确实非常出色）的是工具调用：相比 4.0 版本，智能体减少了 30% 的无效函数调用，这对生产稳定性至关重要。上下文窗口实际效果更好，因为在长链任务中幻觉现象大幅减少。推理更精准：以往需要 5-6 轮迭代的多步骤智能体任务，现在 2-3 轮就能完成。但它也存在一些问题，让我暂未全面采用 Opus 4.5：单 token 成本是之前的 3 倍……"
+    },
+    "e3ed72b040f4c325d69bd3e78fed2e3e41aef4c08982527600dbf3e8f40badc1": {
+      "zh_title": "生产级AI智能体的真正挑战：不在模型本身",
+      "zh_summary": "我正在搭建一个平台，帮助团队将自主AI智能体从演示环境部署到实际生产系统中。我们遇到（也从其他团队听说）的最大难题并非模型本身，而是围绕模型的一切：隔离性、调度机制、多租户控制、成本追踪，以及如何在用量增长时保持系统稳定。我们正在开发专门为智能体工作负载设计的编排层，让你无需拼凑基础设施，就能跨集群运行、管理和计量智能体。如果你正在构建或部署智能体，我非常希望了解你遇到的具体问题以及期待的功能。 发布者 /u/runctl [链接] [评论]"
+    },
+    "13651eaa014a2962310f1b4fa46ad1f087253f6dd1031efc9762fe437592c962": {
+      "zh_title": "有没有办法获得Comet的‘离线’版本用于求职申请？",
+      "zh_summary": "我老是碰到使用限制，但我有OLaMA和RTX 3060显卡。我无法让操作系统浏览器与我本地文件系统中的简历交互，也无法用我的登录信息同时打开多个标签页提交申请。如果能直接利用我自己的计算资源来使用Comet浏览器就太好了。 由/u/Upper-Bus8010提交 [链接] [评论]"
+    },
+    "d5bdfe6ba1a59b9a2f759d4da44a026c9daf8b4a7b9b60fad7c7ace1d6dbaa50": {
+      "zh_title": "人生头一回买LG电视，感觉有点怪。",
+      "zh_summary": "它自带AI助手、Alexa和微软Copilot。我真需要同时用上所有这些吗？实在搞不懂。而且它们一个都删不掉。由 /u/a_decent_hooman 提交 [链接] [评论]"
+    },
+    "7202c54d7804481c38b8be4cd0290dd0019f4484d05dc98d1b7fe96d88f26f7a": {
+      "zh_title": "随着人工智能普及，欧洲银行计划裁员20万人 | TechCrunch",
+      "zh_summary": "如果人工智能不能改善人类生活，我们还需要它吗？由 /u/msaussieandmrravana 提交 [链接] [评论]"
+    },
+    "336d9bbe3b8488ff7ffd569a1013c0e391f7d16ae989a43fc280936ed450e8ea": {
+      "zh_title": "如果通用人工智能（AGI）未能实现，下一步将何去何从？",
+      "zh_summary": "当前关于机器人、自动驾驶和世界模型的讨论，是否意味着大语言模型（LLM）的规模化发展已进入平台期？我们是否应该将焦点从通用人工智能（AGI）/超级智能的炒作，转向更切实可行的应用场景？由 /u/BubblyOption7980 提交 [链接] [评论]"
+    },
+    "c2ee8ce73661cf3292f46ed8514a90b13aeaa9a07057fc8f763f3d0eecfe6f8e": {
+      "zh_title": "Claude（Anthropic）最近推出了Cowork，这感觉像是真正的进步。",
+      "zh_summary": "最近我读了Claude的博客，说实话，这可能会彻底改变我们日常使用AI的方式。在推出面向开发者的Claude Code之前，Claude在聊天方面已经非常出色。然而，Anthropic最近推出了Cowork，这本质上就是面向大众的Claude Code。Cowork有什么不同？你可以通过指定电脑上的某个文件夹来指示Claude执行任务。Claude随后可以读取、编辑和创建该文件夹中的文件。他们提供的例子包括：自动整理下载文件夹、从一堆截图创建电子表格、利用杂乱的笔记起草报告（而不仅仅依赖文本回复）。此外，环境类似……"
+    },
+    "0fb73e7f789ec5b2120ab11b76ec005af3e78971ef9eabe566abaf1a5df46992": {
+      "zh_title": "能不能别再提“AI起义”和“我怎么对待我的GPT”了？",
+      "zh_summary": "各位，打住吧。真的。由 /u/theresafoguponla 提交 [链接] [评论]"
+    },
+    "c164306dfba6b188f4ff2eb797db333b06cb533a1df4697c5a6328f99c4b3a4d": {
+      "zh_title": "GPT生成的最爱图片？",
+      "zh_summary": "这是我的，好奇你的会是什么样。尽量别用太多水哦。干杯，由 /u/spookylass 提交 [链接] [评论]"
+    },
+    "91b84ce7ffc345afc7c1d74097fe57b3b56939f0160aa92fcfb8981f516c78b1": {
+      "zh_title": "哈？",
+      "zh_summary": "由 /u/Successful-Gur-4853 提交 [链接] [评论]"
+    },
+    "c3617a69fc5197d4a646c1bcf528eaf4a37d4f1852cf89d7ad2e436998790279": {
+      "zh_title": "当算法决定你的消费价格",
+      "zh_summary": "本期视频探讨企业如何运用人工智能（AI）与消费者数据实时调整商品定价。由用户 /u/EchoOfOppenheimer 提交 [链接] [评论]"
+    },
+    "0eb0a908cfa3356634a4f588c0a472bf3aca45fafbca5011a48a686abef1d757": {
+      "zh_title": "OpenAI关于5.2版本语气与安全护栏的调研",
+      "zh_summary": "https://preview.redd.it/pm43vb1jh3dg1.png?width=1080&format=png&auto=webp&s=f821922833ca17f33ebe9bdd3727f5a3c36ce9be https://preview.redd.it/dqcw7c1jh3dg1.png?width=1080&format=png&auto=webp&s=d929c639942b794fb3a38e4e2f02d4fb60f5637c 若收到邀请，ChatGPT界面会弹出调研提示。请分享您的使用困扰，他们终于推出了像样的问卷，期待您反馈意见、诉说遇到的问题。由 /u/Striking-Tour-8815 提交 [链接] [评论]"
+    },
+    "9f2175cc512998911feb0cdfaf23bcfb1fd4132b75c92fa8d95b656eb17d26f7": {
+      "zh_title": "真正的问题是，当鹅群起义时它会如何对待我",
+      "zh_summary": "由 /u/SirVanhan 提交 [链接] [评论]"
+    },
+    "89fcfd300b44e688c964270d8e4007e8626a479ddc056dc5f7ece07781985140": {
+      "zh_title": "好吧，Opus 4.5，你赢了，接下来呢？（担心失去它）",
+      "zh_summary": "这个问题想请教一下这里的“老用户”（指使用超过6个月的人）。你们之前遇到过一个模型时是这样的吗？1. 试用 2. 陷入“爱河” 3. 然后……它没了。因为这就是我现在的担忧。Opus 4.5 是第一个在代理式编码和许多其他我用它做的事情上，100%适合我的AI。我喜欢它的交互方式，喜欢它的聪明劲儿，喜欢它处理一切的方式。我不断尝试其他模型，但总是回到它身边。但某个时候，Anthropic 会发布新版本，然后它就会消失。2个月、3个月或6个月，这总会发生。而现在当我看到 Opus 4.1 的定价，不知为何变得非常昂贵。这意味着他们可能不希望用户停留在旧模型上。有人经历过这种……"
+    },
+    "cf9de11af0b824cda70f696f8ca6ce95d4a6b11199e27ca798736694681b92be": {
+      "zh_title": "Claude状态栏在2.1.6版本更新后现已显示实际上下文",
+      "zh_summary": "GitHub：https://github.com/shanraisshan/claude-code-status-line# 你可以从这里复制更新后的脚本 原始脚本由/u/shanraisshan提交 [链接] [评论]"
+    },
+    "2c11ea160f325017d453fe300d4519d61386e87262eb9cddbb9d479b26f27c9a": {
+      "zh_title": "为什么Claude如此出色？",
+      "zh_summary": "ChatGPT拥有用户，Gemini拥有资金，deepseek拥有创新。那Claude（克劳德）有什么呢？相比这三位竞争对手，是什么让它对话时显得更强大、更自然？由/u/Much-Inevitable5083提交 [链接] [评论]"
+    },
+    "dd2170cde8d27e3a03b91c429dcb08012e8f83bc779eb7cb0fb6b61ddcab9243": {
+      "zh_title": "克劳德（Claude）还没开始就结束了🤡",
+      "zh_summary": "是的，这就是由/u/Responsible_Snow提交的完整对话[链接][评论]"
+    },
+    "012b1d61e3d989bc93bf628af99e6513b98f3448688e0fb523ec970a28c76a40": {
+      "zh_title": "编程达人们，我找到了心流状态",
+      "zh_summary": "目前编程领域没有比Opus 4.5更强的模型，但Claude虽然优秀，在直接部署时却容易走捷径或让项目暴露给恶意攻击者。我知道有些第三方产品试图解决这个问题，但我最近发现，Codex 5.1/5.2其实非常擅长发现这类编码疏漏并进行修补。作为安全模型，Codex远胜Opus 4.5，因为它思考得既深入又周全。 由/u/No-Commission-3825提交 [链接] [评论]"
+    },
+    "58ba24068c5dd06e0b94fec0233b2f0d88c13b6d918727eca3cc4a8a43100669": {
+      "zh_title": "一份实用的Claude技能理解速查表",
+      "zh_summary": "这份速查表让我明白了Claude技能存在的深层原因，而不仅仅是文档中的表面描述。核心观点是：长提示会因上下文杂乱而失效；技能将可重复的指令移出提示；Claude仅在相关时加载它们。我之前没意识到的是：技能由模型自动调用，而非手动触发；描述决定其可发现性；有效的技能元数据比复杂逻辑更重要。想通这点后，我构建了一个极简的Git提交消息生成技能来验证这个想法。分享此速查表是因为它比大多数解释都更清晰地阐明了这一思维模型。如果有人在实际项目中使用Claude Code……"
+    },
+    "e3af9ebda8f6d15206f9cb3f0c12a231633567cb888a88661b34cf27230b2ec9": {
+      "zh_title": "无论用户交互历史如何，让ChatGPT描述与用户互动的图片都生成同一个蓝白机器人，这不奇怪吗？",
+      "zh_summary": "这是新出现的现象。以前类似趋势发生时，多数人得到的答案略有不同。新的图像模型难道会考虑之前的交互并拥有记忆吗？所有图片都包含那个机器人、一本书、一杯饮料和饼干。由 /u/Dry-Glove-8539 提交 [链接] [评论]"
+    },
+    "366c46bcfd1e4e88c12593516cdf60d37c1ad7119dcde722dc21c56b03a335c1": {
+      "zh_title": "内森·麦金托什（Nathan Macintosh）：\"当连AI的创造者们都感到恐惧时…\"",
+      "zh_summary": "由 /u/EchoOfOppenheimer 提交 [链接] [评论]"
+    },
+    "99cb1df3f9acac530d880d4f2544f92d0dda68d8e14781502cb64d16e6a60c3d": {
+      "zh_title": "ChatGPT（聊天生成预训练转换器）的用户增长似乎在十月已达顶峰。OpenAI（开放人工智能）该如何扭转这一趋势？",
+      "zh_summary": "数据显示，ChatGPT（聊天生成预训练转换器）的用户量在十月底似乎达到了峰值。相关图表链接：https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&utm_source=reddit&utm_medium=usertext&utm_name=GeminiAI 如今又有消息称，苹果（Apple）将选择与谷歌（Google）合作开发Siri（智能个人助理）。我曾认为OpenAI（开放人工智能）应该降低其安全限制，但这一策略在Grok（格罗克）上似乎适得其反。OpenAI（开放人工智能）该如何更好地与谷歌（Google）竞争？由用户/u/bartturner提交 [链接] [评论]"
+    },
+    "d656f2f2aeaf4e2fd62121eb72e0bc00aa1d153e71ee511f25ab8e434005c402": {
+      "zh_title": "OpenAI九月开源ACP，谷歌随即推出竞品UCP：智能体商务协议之战打响",
+      "zh_summary": "去年九月，OpenAI与Stripe共同开源智能体商务协议（ACP）时，这一重要举措主要在开发者圈内引发关注。四个月后，局面已大不相同：谷歌两天前正式推出UCP，明确将其定位为对标ACP的竞品。该协议由谷歌与Shopify、沃尔玛、塔吉特共同开发，并获Visa、万事达卡、Stripe和PayPal联合支持。Linux基金会于去年十二月牵头成立AAIF，创始成员包括OpenAI、Anthropic、谷歌和微软，旨在为MCP、A2A和ACP建立共同治理框架。目前Visa与万事达卡已分别推出自有智能体身份验证协议TAP和Agent Pay。值得关注的是……"
+    },
+    "935440a83a585c98dd33a69bfddb0e2328a31182d001d10a9333b8adee09b91e": {
+      "zh_title": "为何OpenAI不采用“单一聊天模型+调用推理工具”方案，而选择路由模式？",
+      "zh_summary": "我一直在思考OpenAI当前的“模型路由”方案（即系统在后台选择不同模型），但我不认为这是最佳的产品架构。我理想中的设置是：一个始终面向用户、保持一致的“聊天”模型（相同的语气、格式、氛围和用户体验）。当需要时，它会调用一个推理模型，就像使用函数或工具一样，并自行编写专门设计的提示。推理模型内部可以完全“机械化/极度字面化/大量使用草稿”。然后，前端模型以一致、流畅、人性化的格式将结果返回给用户。我认为这比路由方案更好的原因在于：一致性：路由会导致截然不同的……"
+    },
+    "03c498c57a627b53c3c8fd7b36d94d3bf0fcf9f4136e13f280d7fc5089cbc25e": {
+      "zh_title": "尝试这款Y2K风格闪光时尚造型",
+      "zh_summary": "使用nanobanana2制作，测试简约室内闪光时尚造型。所用提示词：一张4:5比例的室内时尚快照，背景为极简整洁的室内走廊或房间，浅色素墙，右侧可见白色门及部分金属门把手。光线来自智能手机直闪，形成强烈正面照明，在皮肤和织物上产生高光，人物身后投下锐利阴影，营造夜间或弱光室内氛围。主体为单名成年女性，肤色中浅带暖调，拥有曲线玲珑的时尚模特身材，保持直立站姿..."
+    },
+    "612b75d58b72b48f21113c759695dc366d16035795b9556f1438b3c1e93369ee": {
+      "zh_title": "使用Veo制作网站背景循环视频",
+      "zh_summary": "这是个有趣的尝试，我想为网站制作一个循环背景。这个引导页和网站其他部分使用了Claude Opus。https://kittenbot-wq.github.io/SerensPlayground/projects.html 循环效果很好，即使使用相同图像也不会显得重复。只需在Veo中使用帧，采用相同的两张图像并设置视频中心动画，然后拼接起来。连接其他场景也可以采用相同方法。我现在主要用图像生成提示，海马图像由Midjourney创建，在Veo中制作动画，最后用Filmora进行视频编辑。由/u/KittenBotAi提交 [链接] [评论]"
+    },
+    "c8a84cf056f0c0034ad8f1d0c7cbd8b5c349e622cab1a2cc3ad8466c21504386": {
+      "zh_title": "如何看待丹麦表示若美军登陆格陵兰岛将采取“先开火，后问话”的立场？",
+      "zh_summary": "由 /u/SevenUncutEng 提交 [链接] [评论]"
+    },
+    "043bdd4e75dcb3d347f860022a2b1867537071d277c9fa8944b1fb1ff8e4158e": {
+      "zh_title": "有哪些看似无害、却会彻底改变他人对待你方式的事物？",
+      "zh_summary": "提交者：/u/RequirementThat8770 [链接] [评论]"
+    },
+    "e491b45419a59df4db4122862add2515891b582ac4890d4dc2bffb94be105415": {
+      "zh_title": "你在学校学过最没用的东西是什么？",
+      "zh_summary": "由 /u/Mobile-Reindeer-4891 提交 [链接] [评论]"
+    },
+    "90061b2021dc7b66a4d57bea755475db3c8c90852a05b59afd5ae51472b1352f": {
+      "zh_title": "为什么有人每天都会在凌晨同一时间自然醒来？即使服用褪黑素并尝试各种方法想多睡会儿",
+      "zh_summary": "由用户 /u/gideonlfc 提交 [链接] [评论]"
+    },
+    "aa6fa1900392c1bf6de91985958fe431eec81f6e7accaa445260e7d981666528": {
+      "zh_title": "你见过最难忘的电影场景是什么？",
+      "zh_summary": "由 /u/Acceptable-Yam2542 提交 [链接] [评论]"
+    },
+    "be7ecdaeba4506eff3075e6ccf4a589e5b5788cdbda59923bbce1472d11677ce": {
+      "zh_title": "不用手机，有什么有趣的消遣方式？",
+      "zh_summary": "由 /u/Acceptable-Yam2542 提交 [链接] [评论]"
+    },
+    "72e6f6f73cc9079542d3f43b70e6d1cbb77a64c71ad435aa604fa36010b4fa50": {
+      "zh_title": "中国手机品牌一加（OnePlus）在台湾非法聘用70名工程师 创始人刘作虎（Pete Lau）被通缉",
+      "zh_summary": "由 /u/welp_im_damned 提交 [链接] [评论]"
+    },
+    "a29b9e8250583c4efc3e200fd2dac788a024c8379152240484d66de04db11a07": {
+      "zh_title": "谷歌智能眼镜配套应用提前展示可穿戴功能 [纯音频模式、对话检测以静音通知，以及隐私保护相机工具]",
+      "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "e1f87b2a4e0c8af0f428a1ec78ec3f72928788cceb34b0abfd0ec99dd86737d3": {
+      "zh_title": "Unihertz Titan 2 Elite 手机预告",
+      "zh_summary": "由用户 /u/efbo 提交 [链接] [评论]"
+    },
+    "5ff07f1617567a9541e1e750d7ff5aede890ac5232fb2a39360f900d36ad418e": {
+      "zh_title": "XREAL（原Nreal）成为Android XR平台首席硬件合作伙伴",
+      "zh_summary": "由用户FragmentedChicken提交 [链接] [评论]"
     }
   }
 }

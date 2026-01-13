@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 14:02:09 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -318,6 +318,66 @@ Original:
 Hi all! I’m part of a research team studying digital afterlife/digital legacy services such as memorial platforms, legacy contacts, AI-based remembrance tools (e.g. 2wai app, HereAfter AI, Eternime, SafeBeyond, Everplans, You only Virtual, ForeverMissed). We’re looking to speak with people who: are currently using such services, or have used them in the past but stopped. If this sounds like you and you’d be open to chatting, please send me a DM for more details or contact me at [ male.marktg@cbs.dk ](mailto: male.marktg@cbs.dk ) Thanks! submitted by /u/digimmortalscholar [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qbm7fl</guid>
       <pubDate>Tue, 13 Jan 2026 08:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>人生头一回买LG电视，感觉有点怪。 / I bought an LG TV for the first time in my life, and it’s weird.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbmjgj/i_bought_an_lg_tv_for_the_first_time_in_my_life/</link>
+      <description>它自带AI助手、Alexa和微软Copilot。我真需要同时用上所有这些吗？实在搞不懂。而且它们一个都删不掉。由 /u/a_decent_hooman 提交 [链接] [评论]
+
+---
+
+Original:
+It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable. submitted by /u/a_decent_hooman [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbmjgj</guid>
+      <pubDate>Tue, 13 Jan 2026 09:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>人生头一回买LG电视，感觉有点怪。 / I bought an LG TV for the first time in my life, and it’s weird.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbmjl2/i_bought_an_lg_tv_for_the_first_time_in_my_life/</link>
+      <description>它自带AI助手、Alexa和微软Copilot。我真需要同时用上所有这些吗？实在搞不懂。而且它们一个都删不掉。由 /u/a_decent_hooman 提交 [链接] [评论]
+
+---
+
+Original:
+It has its own AI bot and Alexa and Microsoft Copilot. Do I need them all at the same time? I just don’t understand. None of them are removable. submitted by /u/a_decent_hooman [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbmjl2</guid>
+      <pubDate>Tue, 13 Jan 2026 09:01:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>随着人工智能普及，欧洲银行计划裁员20万人 | TechCrunch / European banks plan to cut 200,000 jobs as AI takes hold | TechCrunch</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbnflg/european_banks_plan_to_cut_200000_jobs_as_ai/</link>
+      <description>如果人工智能不能改善人类生活，我们还需要它吗？由 /u/msaussieandmrravana 提交 [链接] [评论]
+
+---
+
+Original:
+If AI does not improve human lives, who needs it? submitted by /u/msaussieandmrravana [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbnflg</guid>
+      <pubDate>Tue, 13 Jan 2026 09:58:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果通用人工智能（AGI）未能实现，下一步将何去何从？ / What's next if AGI does not happen?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbp0oc/whats_next_if_agi_does_not_happen/</link>
+      <description>当前关于机器人、自动驾驶和世界模型的讨论，是否意味着大语言模型（LLM）的规模化发展已进入平台期？我们是否应该将焦点从通用人工智能（AGI）/超级智能的炒作，转向更切实可行的应用场景？由 /u/BubblyOption7980 提交 [链接] [评论]
+
+---
+
+Original:
+Is all the talk about robotics, automated vehicles, and world models an acknowledgement that the LLM scaling era has plateaued? Is it time to focus on more realistic use cases than the AGI / Super-intelligence hype? submitted by /u/BubblyOption7980 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbp0oc</guid>
+      <pubDate>Tue, 13 Jan 2026 11:33:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude（Anthropic）最近推出了Cowork，这感觉像是真正的进步。 / Claude recently dropped Cowork, and this feels like a real step forward.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/</link>
+      <description>最近我读了Claude的博客，说实话，这可能会彻底改变我们日常使用AI的方式。在推出面向开发者的Claude Code之前，Claude在聊天方面已经非常出色。然而，Anthropic最近推出了Cowork，这本质上就是面向大众的Claude Code。Cowork有什么不同？你可以通过指定电脑上的某个文件夹来指示Claude执行任务。Claude随后可以读取、编辑和创建该文件夹中的文件。他们提供的例子包括：自动整理下载文件夹、从一堆截图创建电子表格、利用杂乱的笔记起草报告（而不仅仅依赖文本回复）。此外，环境类似……
+
+---
+
+Original:
+I recently read Claude's blog, and to be honest, this could really change how we use AI on a daily basis. Before we got Claude Code for developers, Claude was excellent at chats. However, Anthropic recently introduced Cowork, which is essentially Claude Code for everyone else. What differentiates Cowork? You instruct Claude to do something by pointing to a folder on your computer. The files in that folder can then be read, edited, and created by Claude. They provided Examples: Organize your Downloads folder automatically. Create a spreadsheet from a stack of screenshots. Instead of relying solely on text responses, draft a report using your messy notes. Additionally, the environment is simil…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbqiro</guid>
+      <pubDate>Tue, 13 Jan 2026 12:52:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

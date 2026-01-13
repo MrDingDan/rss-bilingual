@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:48:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 14:05:18 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -331,6 +331,66 @@ Original:
 For at least two days now, I've been observing something strange with ChatGPT. My default setting is 5.2, but no matter how many times I start a new chat and ask, even if the first sentence is "Hello, am I connected to 5.2 here?", the response is either 5.1 or 40. Only when I use the 5.2 thinking model is it actually 5.2. I know there are reroutings, but these are also marked as responses from a different model in the desktop app. It's not just a single response or a slightly longer chat; it consistently behaves like 5.1 or 40. It doesn't matter how many new chats I start or how serious the topic becomes (for example, the very high mortality rate among children from infectious diseases aroun…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbm6sg</guid>
       <pubDate>Tue, 13 Jan 2026 08:38:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何OpenAI不采用“单一聊天模型+调用推理工具”方案，而选择路由模式？ / Why doesn’t OpenAI use a “single chat model + call reasoning as a tool” instead of routing?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbn1g0/why_doesnt_openai_use_a_single_chat_model_call/</link>
+      <description>我一直在思考OpenAI当前的“模型路由”方案（即系统在后台选择不同模型），但我不认为这是最佳的产品架构。我理想中的设置是：一个始终面向用户、保持一致的“聊天”模型（相同的语气、格式、氛围和用户体验）。当需要时，它会调用一个推理模型，就像使用函数或工具一样，并自行编写专门设计的提示。推理模型内部可以完全“机械化/极度字面化/大量使用草稿”。然后，前端模型以一致、流畅、人性化的格式将结果返回给用户。我认为这比路由方案更好的原因在于：一致性：路由会导致截然不同的……
+
+---
+
+Original:
+I’ve been thinking about OpenAI’s current “model router” approach (where the system picks different models behind the scenes), and I’m not convinced it’s the best product architecture. My ideal setup would be: One consistent, front-facing “chat” model that always talks to the user (same tone, formatting, vibe, UX). When needed, it calls a reasoning model like a function/tool with a purpose-built prompt it writes itself. The reasoning model can be as “robotic / hyper-literal / scratchpad-heavy” as it wants internally. The front model then returns the result to the user in a consistent, chatty, human format. Why I think this would be better than routing: Consistency: Routing creates wildly dif…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbn1g0</guid>
+      <pubDate>Tue, 13 Jan 2026 09:33:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>无论用户交互历史如何，让ChatGPT描述与用户互动的图片都生成同一个蓝白机器人，这不奇怪吗？ / All of the images asking ChatGPT to describe interactions with the users generate the same white blue robot, no matter what the user interaction history is, isn't this odd?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbp8fu/all_of_the_images_asking_chatgpt_to_describe/</link>
+      <description>这是新出现的现象。以前类似趋势发生时，多数人得到的答案略有不同。新的图像模型难道会考虑之前的交互并拥有记忆吗？所有图片都包含那个机器人、一本书、一杯饮料和饼干。由 /u/Dry-Glove-8539 提交 [链接] [评论]
+
+---
+
+Original:
+This behavior is new, before when similar trends happened, mostly everyone got a bit different answers, seems does the new image model even consider previous interactions and have access to memory? Everything has that robot, a book, a cup with a drink, cookies. submitted by /u/Dry-Glove-8539 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbp8fu</guid>
+      <pubDate>Tue, 13 Jan 2026 11:45:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI九月开源ACP，谷歌随即推出竞品UCP：智能体商务协议之战打响 / OpenAI open-sourced ACP in September. Google just launched UCP as a direct competitor. Here's how the agent commerce protocol war is shaping up.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbpfga/openai_opensourced_acp_in_september_google_just/</link>
+      <description>去年九月，OpenAI与Stripe共同开源智能体商务协议（ACP）时，这一重要举措主要在开发者圈内引发关注。四个月后，局面已大不相同：谷歌两天前正式推出UCP，明确将其定位为对标ACP的竞品。该协议由谷歌与Shopify、沃尔玛、塔吉特共同开发，并获Visa、万事达卡、Stripe和PayPal联合支持。Linux基金会于去年十二月牵头成立AAIF，创始成员包括OpenAI、Anthropic、谷歌和微软，旨在为MCP、A2A和ACP建立共同治理框架。目前Visa与万事达卡已分别推出自有智能体身份验证协议TAP和Agent Pay。值得关注的是……
+
+---
+
+Original:
+When OpenAI open-sourced the Agentic Commerce Protocol with Stripe back in September, it felt like a significant move but didn't get much attention outside of dev circles. Four months later, the landscape looks very different: Google launched UCP two days ago - explicitly positioned as their answer to ACP. Co-developed with Shopify, Walmart, Target. Visa, Mastercard, Stripe, PayPal all endorsed it. Linux Foundation started AAIF in December with OpenAI, Anthropic, Google, and Microsoft as founding members. They're trying to create shared governance for MCP, A2A, and ACP. Visa and Mastercard both have their own agent authentication protocols live (TAP and Agent Pay respectively). What's intere…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbpfga</guid>
+      <pubDate>Tue, 13 Jan 2026 11:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT（聊天生成预训练转换器）的用户增长似乎在十月已达顶峰。OpenAI（开放人工智能）该如何扭转这一趋势？ / ChatGPT looks to have peaked in October. What can OpenAI do to change the trend?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbqatm/chatgpt_looks_to_have_peaked_in_october_what_can/</link>
+      <description>数据显示，ChatGPT（聊天生成预训练转换器）的用户量在十月底似乎达到了峰值。相关图表链接：https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=GeminiAI 如今又有消息称，苹果（Apple）将选择与谷歌（Google）合作开发Siri（智能个人助理）。我曾认为OpenAI（开放人工智能）应该降低其安全限制，但这一策略在Grok（格罗克）上似乎适得其反。OpenAI（开放人工智能）该如何更好地与谷歌（Google）竞争？由用户/u/bartturner提交 [链接] [评论]
+
+---
+
+Original:
+If you look at the data it looks like ChatGPT peaked in late October. https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Foujf2fu3npcg1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D3285a96ce84c398aa350580cc8547c9cb30b4713&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=GeminiAI Now we have the news that Apple is going with Google for Siri. I had thought what they should do is lower the guard rails. But that seems to have backfired for Grok. What can OpenAI do to better compete against Google? submitted by /u/bartturner [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbqatm</guid>
+      <pubDate>Tue, 13 Jan 2026 12:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>内森·麦金托什（Nathan Macintosh）："当连AI的创造者们都感到恐惧时…" / Nathan Macintosh: "When even the creators of AI are scared…"</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbqxph/nathan_macintosh_when_even_the_creators_of_ai_are/</link>
+      <description>由 /u/EchoOfOppenheimer 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/EchoOfOppenheimer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbqxph</guid>
+      <pubDate>Tue, 13 Jan 2026 13:12:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

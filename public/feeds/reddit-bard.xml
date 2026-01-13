@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:48:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 14:05:50 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -306,6 +306,30 @@ Original:
 submitted by /u/Abhi_mech007 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qbj1u2</guid>
       <pubDate>Tue, 13 Jan 2026 05:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用Veo制作网站背景循环视频 / Using Veo for looping videos on website backgrounds.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbmwdg/using_veo_for_looping_videos_on_website/</link>
+      <description>这是个有趣的尝试，我想为网站制作一个循环背景。这个引导页和网站其他部分使用了Claude Opus。https://kittenbot-wq.github.io/SerensPlayground/projects.html 循环效果很好，即使使用相同图像也不会显得重复。只需在Veo中使用帧，采用相同的两张图像并设置视频中心动画，然后拼接起来。连接其他场景也可以采用相同方法。我现在主要用图像生成提示，海马图像由Midjourney创建，在Veo中制作动画，最后用Filmora进行视频编辑。由/u/KittenBotAi提交 [链接] [评论]
+
+---
+
+Original:
+This was a fun experiment, I wanted to make a looping background for a website. Claude Opus for this splash page and the rest of website. https://kittenbot-wq.github.io/SerensPlayground/projects.html It loops well enough to not look repetitive for being the same images used. You can just use frames in veo and use the same two images and animate they center of the video, and then just paste them together. Another easy to connect scenes would probably use the same method. I mostly use images to prompt these days and the seahorse was created in midjourney then animated in Veo. Video edit in Filmora. submitted by /u/KittenBotAi [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbmwdg</guid>
+      <pubDate>Tue, 13 Jan 2026 09:23:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>尝试这款Y2K风格闪光时尚造型 / Tried this Y2K-inspired flash fashion look</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbqms8/tried_this_y2kinspired_flash_fashion_look/</link>
+      <description>使用nanobanana2制作，测试简约室内闪光时尚造型。所用提示词：一张4:5比例的室内时尚快照，背景为极简整洁的室内走廊或房间，浅色素墙，右侧可见白色门及部分金属门把手。光线来自智能手机直闪，形成强烈正面照明，在皮肤和织物上产生高光，人物身后投下锐利阴影，营造夜间或弱光室内氛围。主体为单名成年女性，肤色中浅带暖调，拥有曲线玲珑的时尚模特身材，保持直立站姿...
+
+---
+
+Original:
+Made this using nanobanana2 to test a simple indoor flash fashion look. Prompt used: An indoor fashion snapshot with a 4:5 aspect ratio, set in a minimal, uncluttered indoor hallway or room. The background features a plain light-colored wall, with a white door visible on the right side and a partially visible metallic door handle. The lighting is from a direct smartphone camera flash, creating harsh frontal illumination with strong highlights on the skin and fabric and sharp shadows cast behind the subject, giving a nighttime or low-light indoor mood. The subject is a single adult woman with a light-to-medium skin tone and warm undertones, a curvy, fashion-model physique. She is standing upr…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbqms8</guid>
+      <pubDate>Tue, 13 Jan 2026 12:58:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
