@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 17:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 18:48:29 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -356,6 +356,18 @@ Hi, I come from an MLOps and Software Engineering background and I’m currently
       <pubDate>Tue, 13 Jan 2026 11:00:29 +0000</pubDate>
     </item>
     <item>
+      <title>2026年的生成式AI不是技能……而是你必须掌握的完整技术栈 / GenAI in 2026 Isn’t a Skill… Its a Stack You Need to Master</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbp989/genai_in_2026_isnt_a_skill_its_a_stack_you_need/</link>
+      <description>生成式AI（GenAI）并非仅靠记忆提示词就能一劳永逸掌握的技能，它正演变为一种贯穿技术、执行与商业影响的全栈能力。提示词技巧仍有其价值，但可能只是未来所需能力中最小的一部分。真正的竞争优势在于理解大语言模型（LLM）的推理逻辑、如何将其与公司知识库结合，以及如何将它们串联成能实际工作而非仅生成文本的系统。这正是自动化、多智能体工作流和API/工具编排发挥作用的地方——这些技能将生成式AI从新奇技术转化为运营优势。但若缺少人的参与层：解释结果、获取支持并与不了解技术的团队沟通，这一切都将无法落地。
+
+---
+
+Original:
+Generative AI is not something you learn once by memorizing prompts its becoming a full-stack capability that spans tech, execution and business impact. Prompting is still useful, but its probably the smallest slice of what matters going forward. The real competitive edge comes from knowing how LLMs reason, how to ground them in company knowledge and how to chain them into systems that do work instead of just generating text. That’s where automation, multi-agent workflows and API/tool orchestration come in skills that turn GenAI from a novelty into an operational advantage. But none of it lands without the human layer: explaining results, getting buy-in and communicating with teams who don’t…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbp989</guid>
+      <pubDate>Tue, 13 Jan 2026 11:47:16 +0000</pubDate>
+    </item>
+    <item>
       <title>大语言模型评估：关键不在准确率，而在于选取合适的信号 / LLM Evaluation Isn’t About Accuracy Its About Picking the Right Signal</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbpjhn/llm_evaluation_isnt_about_accuracy_its_about/</link>
       <description>评估大语言模型听起来简单，但当你真正尝试在现实系统中衡量它们时，就会发现并非如此。仅凭准确率，很少能告诉你一个模型是否有用、可信，或者是否符合用户需求。不同的任务需要不同的信号——翻译、摘要、问答、推理和检索，如果用错了衡量标准，这些任务都会出问题。困惑度（Perplexity）对语言建模很有用，但对终端用户来说毫无意义。BLEU、ROUGE和METEOR在重叠度重要时能提供帮助，但当存在多个有效答案时就会失效。BERTScore更接近语义理解，但仍无法检测幻觉（hallucinations）。当涉及细微差别、清晰度或实用性时，人工评估依然必不可少，但它缓慢且昂贵。T…
@@ -363,9 +375,21 @@ Hi, I come from an MLOps and Software Engineering background and I’m currently
 ---
 
 Original:
-Evaluating LLMs sounds simple until you actually try to measure them in real-world systems. Accuracy alone rarely tells you whether a model is useful, trustworthy or aligned with what users need. Different tasks demand different signals translation, summarization, Q&amp;A, reasoning and retrieval all break if you judge them with the wrong metric. Perplexity is great for language modeling but meaningless for end users. BLEU, ROUGE and METEOR help when overlap matters but fail when multiple answers are valid. BERTScore moves closer to semantic understanding, but still can’t detect hallucinations. Human evaluation stays essential when nuance, clarity or utility matters but its slow and expensive. T…</description>
+Evaluating LLMs sounds simple until you actually try to measure them in real-world systems. Accuracy alone rarely tells you whether a model is useful, trustworthy or aligned with what users need. Different tasks demand different signals translation, summarization, Q&amp;amp;A, reasoning and retrieval all break if you judge them with the wrong metric. Perplexity is great for language modeling but meaningless for end users. BLEU, ROUGE and METEOR help when overlap matters but fail when multiple answers are valid. BERTScore moves closer to semantic understanding, but still can’t detect hallucinations. Human evaluation stays essential when nuance, clarity or utility matters but its slow and expensive. T…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbpjhn</guid>
       <pubDate>Tue, 13 Jan 2026 12:02:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>寻求合作 / Need Assistance</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbpxlp/need_assistance/</link>
+      <description>你好，我计划向企业销售AI语音机器人，希望寻找合作伙伴共同为客户开发。当然，我会提供优厚报酬。如果有人愿意教我制作方法，同样欢迎，我们可以通过Zoom或其他合适平台进行交流。我拥有GO HIGH LEVEL平台，但对数字技术和AI领域还比较陌生，仍在学习中。感谢你的时间。发布者：/u/Fortemuito [链接] [评论]
+
+---
+
+Original:
+Hello, I want to start selling AI voice bots to businesses. I want someone to partner with me to make them for customers. Of course I will pay good. I would also like someone to teach me to make them. If someone just wants to teach me, that would work too, and we could do it over zoom or whatever platform works best. I have GO HIGH LEVEL but I am new to digital technologies/AI so still learning. Thank you for your time. submitted by /u/Fortemuito [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbpxlp</guid>
+      <pubDate>Tue, 13 Jan 2026 12:23:08 +0000</pubDate>
     </item>
     <item>
       <title>热评：AI无需更聪明，关键在于可管控 / Hot take: AI doesn't need to get smarter. It needs to get governable.</title>
@@ -378,6 +402,18 @@ Original:
 The entire AI discourse is stuck on "how do we make it smarter / faster / more autonomous" when the actual bottleneck is "how do we make it usable in contexts where failure matters." Everyone's racing toward AGI while hospitals can't deploy a basic diagnostic assistant because they can't audit it. Factories can't put AI in robots because they can't prove it won't hallucinate a movement. Banks can't use it for customer-facing advice because regulators need reproducibility. The tool framing is the whole point. A table saw doesn't need to understand carpentry. It needs guards, a kill switch, and an operator who knows what they're doing. That's not less ambitious than AGI — it's what makes AI ac…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbq5ax</guid>
       <pubDate>Tue, 13 Jan 2026 12:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>实在受够了那些AI视频工具的广告……于是我测试了最常见的几款，看看它们到底行不行 / Soooo tired of AI video tool ads… So I tested most seen ones to see whether they actually work</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbqsb6/soooo_tired_of_ai_video_tool_ads_so_i_tested_most/</link>
+      <description>我的信息流里现在全是些号称“惊艳”的AI工具广告，但实际效果与宣传天差地别。我决定不再只是刷屏，而是真正对其中几款进行了实际压力测试，看看哪些真的管用。以下是我的真实感受：Descript（Descript）通过删除文字来编辑视频，这依然是目前最具“魔力”的体验。如果你做播客、操作流程视频或人物访谈，它能帮你省下大量时间。它主要用于优化已有的内容。Akool（网页版）我花了一点时间才上手。它的换脸效果稳定不出错，虚拟形象不像机器人，口型与配音也能精准匹配。Veo 3 | Google AI Studio（Veo 3 | Google AI Studio）Veo给人的感觉非常强大，……
+
+---
+
+Original:
+I’m at the point where my entire feed is just "mind-blowing" AI tools ads slop that look nothing like the actual product. I decided to stop scrolling and actually put a few of them through a real-world stress test to see which ones actually work. Here is my unfiltered take: Descript Editing video by just deleting text is still the most "magic" feeling here. If you’re doing podcasts, SOPs, or talking heads, it’s a massive time-saver. It’s for refining what already exists. Akool (web version) It took a bit longer to click for me. Face swaps that don’t glitch, avatars that don't look like robots, and dubbing that actually matches the lips. Veo 3 | Google AI Studio Veo feels extremely powerful,…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbqsb6</guid>
+      <pubDate>Tue, 13 Jan 2026 13:05:21 +0000</pubDate>
     </item>
     <item>
       <title>生产级AI智能体的真正挑战：不在模型本身 / The real challenge with production AI agents: it's not the models</title>
@@ -416,6 +452,18 @@ Hey everyone! Hope you are all doing well! I am about to add some AI Agents to o
       <pubDate>Tue, 13 Jan 2026 14:32:45 +0000</pubDate>
     </item>
     <item>
+      <title>我卖出了第一个智能体（Agent），接下来呢？ / I've sold my first Agent, now what?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbtc95/ive_sold_my_first_agent_now_what/</link>
+      <description>大约两个月前，一家公司联系我，说他们需要一个专门用于撰写公开招标提案的AI。考虑到大语言模型（LLM）固有的不确定性，我担心可能的结果，但还是决定接下这个项目。在初期阶段，我的指导原则是：迭代、迭代、再迭代。因此，我发布了一个定制GPT作为最小可行产品（MVP），供他们测试。通过反馈会议，我改进了暴露出的缺陷。大约一个月后，我成功交付了一个相当不错的定制GPT，他们对结果感到满意。然而，我完全不清楚他们如何使用这个智能体，这让我感到困扰。在这种情况下……
+
+---
+
+Original:
+A company contacted me around 2 months ago saying they needed an AI specifically to help them with writing public tenders proposals. Given the innate non-deterministic nature of LLMs I was worried about the possible outcome of this but, still, i decided to take the project. My guinding principle in the first phases has been Iterate, iterate, iterate. So i put out a custom GPT as an MVP to let them test it out. Done feedback sessions and improved upon fallacies that come out. In around 1 month I was able to give them a pretty good custom GPT and they are happy with the results. Still, I feel i have absolute 0 visibility on what they are doing with the agent and this bothers me. In this case f…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbtc95</guid>
+      <pubDate>Tue, 13 Jan 2026 14:52:09 +0000</pubDate>
+    </item>
+    <item>
       <title>打造一个FOSS、本地优先的Claude Cowork替代品 / Building a FOSS, local-first alternative to Claude Cowork</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbu3fz/building_a_foss_localfirst_alternative_to_claude/</link>
       <description>大家好，我正在开发一款应用，它包含AI工作区，每个工作区都有独立的虚拟文件系统，以及能够使用工具进行读写操作的智能体——这些功能对编程智能体来说很常见，但这款应用面向非编程任务，设置和使用都很简单。可以把它想象成Cursor，但拥有类似ChatGPT的用户界面，或者类似于Anthropic公司开发的Cowork。应用目前处于早期阶段，但已可用，至少可以作为ChatGPT的替代品。我非常期待大家的反馈。也欢迎大家随时提问，比如它的工作原理、面临的挑战等等。我目前的设想是将其部署在企业中，帮助优化特定工作流程——特别是那些重视数据和工作流程自主权的团队。在一个简洁的包装中构建定制智能体和集成……
@@ -450,6 +498,30 @@ Original:
 We are considering using voice agents in some capacity. Not sure if that means incoming new leads, not sure if we plan on using it on existing cold leads we've dealt with in the past. Our ideal client tends to be older so I'm a bit worried about the pushback. I know myself, I hate when I have to talk to an AI bot and I am comfortable with technology, so curious if anyone else has went through something similar when your clientele is older and interacted with voice agents and your experience. submitted by /u/bs_hoffman [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qbw3ah</guid>
       <pubDate>Tue, 13 Jan 2026 16:35:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT确实存在邓宁-克鲁格效应 / Chatgpt sure has the Dunning-Kruger effect</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbxqrv/chatgpt_sure_has_the_dunningkruger_effect/</link>
+      <description>“没问题，我来帮你搞定”。我在家庭实验室服务器上配置一些设置时，觉得可以找老朋友ChatGPT帮忙。它确实很积极！几个小时后，我发现这该死的机器人对一切都那么自信，表面看起来很聪明，但我意识到自己一直在兜圈子。它似乎对每件事都有75-90%的把握，但剩下的那点几乎总会出问题，而它从不意识到错误，只会继续下去。所以对于高级概念，我认为它还有很长的路要走。我越来越觉得，人工智能将成为蠢人的危险工具。 由/u/mrbluetrain提交 [链接] [评论]
+
+---
+
+Original:
+"Sure let me help you with that". Was setting up some config things on my homelab server and thought it could be a good thing to ask old pal chatgpt to help me out. It was sure as hell alright! After some hours I realized that this good damn bot is so farking sure of everything, and on the surface it seems very smart but then I realize I have been going around in circles. Its like 75-90% sure of everything but those last % almost always breaks it but it never realizes mistakes and just keep going. So for advanced concepts I would say it is still a long way to go. I more and more come to the conclusion that AI will be dangerous tool for idiots. submitted by /u/mrbluetrain [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbxqrv</guid>
+      <pubDate>Tue, 13 Jan 2026 17:42:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>A2A MCP 服务器：专为 A2A 协议打造的 MCP 服务器！ / A2A MCP server, an MCP server for the A2A protocol!</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbxsad/a2a_mcp_server_an_mcp_server_for_the_a2a_protocol/</link>
+      <description>过去一个月，我一直在开发一个 A2A MCP 服务器。该服务器可用于连接 A2A 服务器（远程代理）并发送消息。启动服务器时，需要提供一个或多个代理卡（Agent Card）URL，每个 URL 可设置自定义请求头用于身份验证、配置等。通过 list_available_agents 工具可查看代理及其技能，通过 send_message_to_agent 工具可向代理发送消息，而可能超出上下文负载的产物（Artifacts）可通过 view_text_artifact 和 view_data_artifact 工具查看。完整功能列表、快速入门及示例，请查看下方 GitHub 链接！由 /u/benclarkereddit 提交 [链接] [评论]
+
+---
+
+Original:
+For the past month I’ve been working on an A2A MCP server. The server can be used to connect and send messages to A2A Servers (remote agents). The server needs to be initialised with one or more Agent Card URLs, each of which can have custom headers for authentication, configuration, etc. Agents and their skills can be viewed with the list_available_agents tool, messages can be sent to the agents with the send_message_to_agent tool, and Artifacts that would overload the context can be viewed with view_text_artifact and view_data_artifact tools. For a full list of features, quick start, and examples, check out the GitHub below! submitted by /u/benclarkereddit [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbxsad</guid>
+      <pubDate>Tue, 13 Jan 2026 17:44:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

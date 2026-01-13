@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 17:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 18:49:51 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -356,6 +356,18 @@ Yes this is the entire conversation submitted by /u/Responsible_Snow [link] [com
       <pubDate>Tue, 13 Jan 2026 09:50:58 +0000</pubDate>
     </item>
     <item>
+      <title>我从 Cursor 转向 Claude Code（CLI）。关于子代理与隐性成本，这是我的心得。 / I moved from Cursor to Claude Code (CLI). Here is what I learned about Sub-agents &amp; Hidden Costs.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbov4s/i_moved_from_cursor_to_claude_code_cli_here_is/</link>
+      <description>和许多人一样，过去一年我一直专注于使用 Cursor 和 Windsurf（Cascade）。它们很棒，但感觉仍是“副驾驶”——我必须逐一接受每个差异、自己运行测试、手动提供上下文。我决定强迫自己使用 Claude Code（CLI 工具）一周，看看“智能代理”的热潮是否名副其实。以下是我的分析，供犹豫不决的读者参考：1. 范式转变：被动与主动 在 Cursor 中，我是驾驶员。在 Claude Code 中，我是架构师。最大的区别不是模型（都是 Sonnet 4.5），而是自主性。我可以告诉 CLI：“修复 auth.ts 中失败的测试”，它真的会运行 npm test、读取错误、编辑文件、重新运行测试……
+
+---
+
+Original:
+Like many of you, I've been glued to Cursor and Windsurf (Cascade) for the past year. They are amazing, but they still feel like "Copilots"—I have to accept every diff, run the tests myself, and feed the context manually. I decided to force myself to use Claude Code (the CLI tool) for a week to see if the "Agentic" hype was real. Here is my breakdown for anyone on the fence: 1. The Paradigm Shift: Passive vs. Active In Cursor, I am the driver. In Claude Code, I am the Architect. The biggest difference isn't the model (it's all Sonnet 4.5), it's the autonomy . I can tell the CLI: "Fix the failing tests in auth.ts" and it actually runs npm test , reads the error, edits the file, runs the test…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbov4s</guid>
+      <pubDate>Tue, 13 Jan 2026 11:24:37 +0000</pubDate>
+    </item>
+    <item>
       <title>一份实用的Claude技能理解速查表 / A useful cheatsheet for understanding Claude Skills</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpe91/a_useful_cheatsheet_for_understanding_claude/</link>
       <description>这份速查表让我明白了Claude技能存在的深层原因，而不仅仅是文档中的表面描述。核心观点是：长提示会因上下文杂乱而失效；技能将可重复的指令移出提示；Claude仅在相关时加载它们。我之前没意识到的是：技能由模型自动调用，而非手动触发；描述决定其可发现性；有效的技能元数据比复杂逻辑更重要。想通这点后，我构建了一个极简的Git提交消息生成技能来验证这个想法。分享此速查表是因为它比大多数解释都更清晰地阐明了这一思维模型。如果有人在实际项目中使用Claude Code……
@@ -418,12 +430,12 @@ Claude Code creator Boris Cherny: Claude code wrote 100% of Anthropic's new Clau
     <item>
       <title>GitHub文件夹显示为空但实际包含文件 / GitHub folders appear empty despite containing files</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbshv0/github_folders_appear_empty_despite_containing/</link>
-      <description>使用“从GitHub添加内容”功能时，我的仓库中所有文件夹都显示为空（0%），尽管它们在GitHub上实际包含文件。所有仓库均出现此问题。重现步骤：点击“从GitHub添加内容”→选择仓库→所有文件夹（.vscode、docs、e2e、src）均显示为空且无法展开。预期表现：文件夹应显示内容并允许选择文件。实际表现：文件夹显示0%且看似无文件。截图：https://preview.redd.it/ek7zee9qk4dg1.png?width=813&amp;format=png&amp;auto=webp&amp;s=6b6abdd374deca7b5c6a00d68a37e8e9ac17421d 提交者：/u/Odd_Establishment197 [链接] [评论]
+      <description>使用“从GitHub添加内容”功能时，我的仓库中所有文件夹都显示为空（0%），尽管它们在GitHub上实际包含文件。所有仓库均出现此问题。重现步骤：点击“从GitHub添加内容”→选择仓库→所有文件夹（.vscode、docs、e2e、src）均显示为空且无法展开。预期表现：文件夹应显示内容并允许选择文件。实际表现：文件夹显示0%且看似无文件。截图：https://preview.redd.it/ek7zee9qk4dg1.png?width=813&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6b6abdd374deca7b5c6a00d68a37e8e9ac17421d 提交者：/u/Odd_Establishment197 [链接] [评论]
 
 ---
 
 Original:
-When using the "Add content from GitHub" feature, all folders in my repository show as empty (0%) even though they contain files on GitHub. All Repositories. Steps to reproduce: Click "Add content from GitHub" Select the repository All folders (.vscode, docs, e2e, src) appear empty and cannot be expanded Expected behavior: Folders should display their contents and allow file selection Actual behavior: Folders show 0% and appear to have no files inside Screenshot: https://preview.redd.it/ek7zee9qk4dg1.png?width=813&amp;format=png&amp;auto=webp&amp;s=6b6abdd374deca7b5c6a00d68a37e8e9ac17421d submitted by /u/Odd_Establishment197 [link] [comments]</description>
+When using the "Add content from GitHub" feature, all folders in my repository show as empty (0%) even though they contain files on GitHub. All Repositories. Steps to reproduce: Click "Add content from GitHub" Select the repository All folders (.vscode, docs, e2e, src) appear empty and cannot be expanded Expected behavior: Folders should display their contents and allow file selection Actual behavior: Folders show 0% and appear to have no files inside Screenshot: https://preview.redd.it/ek7zee9qk4dg1.png?width=813&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6b6abdd374deca7b5c6a00d68a37e8e9ac17421d submitted by /u/Odd_Establishment197 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbshv0</guid>
       <pubDate>Tue, 13 Jan 2026 14:18:10 +0000</pubDate>
     </item>
@@ -462,6 +474,54 @@ Original:
 I thought yesterday was bad, it is one hour into my daily coding session and I’ve already hit the rate limit. I pay for the pro version and cannot even get a few hours of work in. Not sure WTF has happened, but I’ve decided to cancel my pro account and migrate to Gemini CLI. Super disappointed ☹️ submitted by /u/OliverIanOliver [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qbwkcv</guid>
       <pubDate>Tue, 13 Jan 2026 16:53:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>使用Claude生成C4图？ / C4 using Claude ?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbxyeb/c4_using_claude/</link>
+      <description>大家好，我正在尝试优化软件架构文档流程。最近在测试用Claude（特别是Claude Code）生成图表。目前的思路是让Claude生成C4图（上下文、容器或组件层级），输出为兼容格式文件（比如Mermaid或XML），再导入Draw.io（也叫diagrams.net）。请问社区里有人成功实现这个流程并取得好效果吗？你们的提示词策略是怎样的？是要求生成Mermaid代码、XML还是其他格式？生成的图表是否清晰易编辑，还是需要大量手动调整？任何……
+
+---
+
+Original:
+Hi everyone, I'm trying to streamline my software architecture documentation process. I've been experimenting with using Claude (specifically Claude Code) to generate diagrams. The current idea is to ask Claude to generate a C4 diagram (Context, Container, or Component level) as a compatible file format, probably a Mermaid or XML file, and then import that into Draw.io (also known as diagrams.net). Has anyone in this community successfully implemented this workflow and achieved good results? What was your prompt engineering strategy? Did you ask for Mermaid code, XML, or something else? Were the generated diagrams clean and easily editable, or did they require significant manual cleanup? Any…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbxyeb</guid>
+      <pubDate>Tue, 13 Jan 2026 17:50:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>每个Claude Code占用4GB内存，其他人也遇到这情况吗？ / Claude Code taking 4GB RAM per Claude, is anyone else getting this?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbz5xg/claude_code_taking_4gb_ram_per_claude_is_anyone/</link>
+      <description>我发现最近更新后，每个Claude Code都占用了大量内存。当我同时打开多个标签页时，这就成了问题。其他人也遇到类似情况吗？有没有什么变通方法或可选设置可以关闭？由 /u/bufalloo 提交
+
+---
+
+Original:
+I'm finding after the most recent update that Claude Codes are taking significant RAM per Claude. this becomes problematic when I'm running multiple tabs. is anyone else seeing similar behavior? are there any workarounds or optional settings to turn off? submitted by /u/bufalloo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbz5xg</guid>
+      <pubDate>Tue, 13 Jan 2026 18:32:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude代码中的Autocompact缓冲区到底是怎么工作的？ / how the hell does the Autocompact buffer in claude code work?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbz64o/how_the_hell_does_the_autocompact_buffer_in/</link>
+      <description>我不明白。为什么需要4.5万个token才能得到一个实际上大约5000个token的简要摘要？由/u/PRETTYsaveliev提交 [链接] [评论]
+
+---
+
+Original:
+I don't understand. Why does it need 45k tokens to get a brief summary which is actually like 5k tokens? submitted by /u/PRETTYsaveliev [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbz64o</guid>
+      <pubDate>Tue, 13 Jan 2026 18:33:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>只有在法国递归地区培育的，才算真正的递归自我改进。否则，那不过是冒泡的AI反馈循环罢了。 / It's only recursive self-improvement if it's grown in the Récursive region of France. Otherwise it's just sparkling AI feedback loops.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbz947/its_only_recursive_selfimprovement_if_its_grown/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbz947</guid>
+      <pubDate>Tue, 13 Jan 2026 18:36:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

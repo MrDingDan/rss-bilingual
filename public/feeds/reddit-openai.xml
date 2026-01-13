@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 17:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 18:50:25 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -436,9 +436,69 @@ Question is title basically, I have a 6 page pdf of SQL and python questions I w
 ---
 
 Original:
-Paying user for over 2 years, system is no longer reliable for any sort of work product. Feels like the business model is setup now to train new versions to produce the best click bate fluff answers. First paid model access was back in October of 23, before it was cool and trendy, good luck all, wishing the team at OpenAI gets back on track for useful Q&amp;A, research with correct up to date answers, the fact we have to argue with this LLM to get any correct information in 2026 is what broke me after months of trying. submitted by /u/GaulKareth [link] [comments]</description>
+Paying user for over 2 years, system is no longer reliable for any sort of work product. Feels like the business model is setup now to train new versions to produce the best click bate fluff answers. First paid model access was back in October of 23, before it was cool and trendy, good luck all, wishing the team at OpenAI gets back on track for useful Q&amp;amp;A, research with correct up to date answers, the fact we have to argue with this LLM to get any correct information in 2026 is what broke me after months of trying. submitted by /u/GaulKareth [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qbv7l9</guid>
       <pubDate>Tue, 13 Jan 2026 16:03:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI为何收购Torch App？完全找不到相关信息。 / Why did OpenAI purchase Torch App? Can't find much info on it at all.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbxrxg/why_did_openai_purchase_torch_app_cant_find_much/</link>
+      <description>如果有人了解更多情况，欢迎分享，目前完全找不到任何细节。由用户 /u/No-Conclusion9307 提交 [链接] [评论]
+
+---
+
+Original:
+Would love to hear if anyone knows more about this, can't find any details. submitted by /u/No-Conclusion9307 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbxrxg</guid>
+      <pubDate>Tue, 13 Jan 2026 17:44:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>困在罐中的饿鬼 / hungry ghost trapped in a jar</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbym6g/hungry_ghost_trapped_in_a_jar/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbym6g</guid>
+      <pubDate>Tue, 13 Jan 2026 18:13:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>那么，ChatGPT的未来究竟在何方？ / So just where does ChatGPT go from here?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbz80o/so_just_where_does_chatgpt_go_from_here/</link>
+      <description>就在一年前，ChatGPT还是众人热议的焦点，尤其是在这个子论坛里。说它最近几个月经历了180度大转弯，都算是轻描淡写了。这里的许多用户对这款产品真心感到不满，而现在Gemini却备受赞誉，甚至在这些子论坛里也是如此。一年前，Gemini还无人问津，如今却因Gemini 3和Nano Banana Pro等出色产品而疯狂走红。Gemini的市场份额在短短一年内从5%跃升至22%，这简直不可思议。我尤其注意到，在苹果宣布选择Gemini与Siri集成的官方帖子中，风向已经转变，就连那些专门讨论ChatGPT的子论坛里，评论也几乎……
+
+---
+
+Original:
+Just 1 year ago ChatGPT was all the hype, especially in places like this subreddit. To say they’ve had a 180 the last few months feels like an understatement. A lot of people here are genuinely unhappy with the product and now it’s Gemini getting so much praise, even in these subs. One year ago Gemini wasn’t even on people’s radars and now it’s hyped up like crazy due to Gemini 3 and Nano Banana Pro being such great products. For Gemini to go from taking up 5% of the market to 22% in one single year is wild. I noticed the shift especially in the official posts of the announcement of Apple choosing Gemini to integrate with Siri, and even in the subs dedicated to ChatGPT the comments were almo…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbz80o</guid>
+      <pubDate>Tue, 13 Jan 2026 18:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>只有在法国递归地区培育的，才算真正的递归自我改进。否则，那不过是冒泡的AI反馈循环罢了。 / It's only recursive self-improvement if it's grown in the Récursive region of France. Otherwise it's just sparkling AI feedback loops.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbz8iy/its_only_recursive_selfimprovement_if_its_grown/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbz8iy</guid>
+      <pubDate>Tue, 13 Jan 2026 18:35:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>你用过OpenAI最意想不到的实用功能是什么？ / What’s the most unexpectedly useful thing you’ve used OpenAI for?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbzi2j/whats_the_most_unexpectedly_useful_thing_youve/</link>
+      <description>我开始好奇，除了常见的“总结内容”或“写邮件”之外，人们还有哪些不太明显但真正能节省时间或优化工作流的用法？我指的是那些让人惊喜的、“我怎么没想到”的实用场景，比如用于构建SaaS、微SaaS、应用程序或自动化流程。很想借鉴大家的创意妙招。由 /u/Notalabel_4566 提交 [链接] [评论]
+
+---
+
+Original:
+I am starting to wonder what are some less obvious ways people are using it that actually save time or improve your workflow? Not the usual stuff like "summarize this" or "write an email" I mean the surprisingly useful, “why didn’t I think of that?” type use cases. like for building SaaS or Micro SaaS or app or automation Would love to steal your creative hacks. submitted by /u/Notalabel_4566 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbzi2j</guid>
+      <pubDate>Tue, 13 Jan 2026 18:44:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

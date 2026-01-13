@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:51:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 18:52:51 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -30,6 +30,42 @@ Original:
 Hello everyone! It's that time of the year again where I'll be away for a while. I really wanted to release the Tasker RC before Christmas, but I thought it would be a bit too risky because if anything goes wrong with the release I wouldn't be here to fix it. To compensate, I spent the past 3 days working on something that's cool by itself (at least IMO 😅) but can also be great for Tasker's future! Here's my gift to you: ADB Command Center Here's a demo video: https://youtu.be/PSNmHfQ8BIY This new app allows you to seamlessly connect to ADB Wifi directly on your phone, without the need for a PC and then run shell commands with elevated privileges! This means that you can now easily do privil…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1pqi34p</guid>
       <pubDate>Fri, 19 Dec 2025 10:44:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>相机气泡悬浮窗 / Camera Bubble Overlay</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qa16p0/camera_bubble_overlay/</link>
+      <description>我（在Gemini的帮助下）创建了一个任务，可以显示一个可拖动的圆形悬浮窗，实时展示前置摄像头画面。它适用于屏幕录制、演示……或纯粹娱乐。https://taskernet.com/shares/?user=AS35m8lXfdzrraa92oiqVOhfA8yJu3NAybngrnF7bN9M6PLys%2F%2F7RkEhQ57scKONUA%3D%3D&amp;id=Task%3ACamBubble 这是基于Java代码实现的，部分设置需在代码中调整。长按可关闭窗口。目前更接近原型阶段，但在我这里运行良好。使用风险请自行承担。由 /u/roncz 提交 [链接] [评论]
+
+---
+
+Original:
+I (with help of Gemini) have created a task that shows a dragable, round overlay showing the front camera image. It can be used for screen cast, demos, ... and for fun. https://taskernet.com/shares/?user=AS35m8lXfdzrraa92oiqVOhfA8yJu3NAybngrnF7bN9M6PLys%2F%2F7RkEhQ57scKONUA%3D%3D&amp;id=Task%3ACamBubble It is a Java code and you find some settings in the code. Long-press to close the window. It is more like a prototype but works for me. Use at your own risk. submitted by /u/roncz [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qa16p0</guid>
+      <pubDate>Sun, 11 Jan 2026 14:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>AutoWear 的“退出”功能 / AutoWear 'Exit' function</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qaqtx8/autowear_exit_function/</link>
+      <description>大家好。我在手表上设置了一个简单的菜单系统来控制一些智能家居的灯和开关。这些功能运行正常，但我还没找到退出菜单并显示表盘的方法。如果等待，它会超时返回，但有没有办法直接从屏幕退出，也就是返回表盘界面？感谢任何建议。 -mike 由 /u/wd4sgu 提交 [链接] [评论]
+
+---
+
+Original:
+Hello all. I've set up a simple menu system on my watch to control some smart home lights and switches. It works properly for those functions but I haven't been able to find a way to quit the menu and show the watchface. If I wait it will time out, but is there a way to exit from the screen, essentially to return to the watchface? Thanks for any suggestions. -mike submitted by /u/wd4sgu [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qaqtx8</guid>
+      <pubDate>Mon, 12 Jan 2026 09:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>AutoNotification 在 PlexAmp 应用上遇到的问题 / AutoNotification trouble with PlexAmp</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qax22t/autonotification_trouble_with_plexamp/</link>
+      <description>我正在使用“AutoNotification Media”查询操作从音乐应用中获取元数据，以创建自己的媒体小部件。但在 PlexAmp 应用上遇到了些问题：虽然能正确提取所有信息，但专辑封面似乎不会刷新。如果清除 AutoNotification 缓存，就能获取正确的封面，但之后每首歌返回的始终是同一张封面，除非再次清除缓存。其他应用都正常。有人知道该怎么解决吗？提交者：/u/bdanders [链接] [评论]
+
+---
+
+Original:
+I'm using the "AutoNotification Media" query action to get metadata from my music apps and create my own media widget. I'm having some trouble getting it to work properly with the PlexAmp app though. It can extract all the information correctly, but the album art doesn't seem to refresh. If I clear the AutoNotifcation cache then it will get the correct art, but every subsequent song always returns the same artwork until I clear the cache again. It works fine for other apps. Does anybody know what I can try to get this working? submitted by /u/bdanders [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qax22t</guid>
+      <pubDate>Mon, 12 Jan 2026 14:57:53 +0000</pubDate>
     </item>
     <item>
       <title>针对WiFi错误并需使用ADB的用户 / For those getting Wifi errors and having to use ADB</title>
@@ -78,6 +114,30 @@ Original:
 Yesterday out of nowhere, i've decided to try DeviceOwner permissions for Tasker, first removed all account, which didn't work. then uninstalled app, that didn't work. then decide to factory reset. Then successfully gave Tasker DeviceOwner permissions. Now didn't have the time to dig around with all the feature but I already had a "Kill App" scene in the camera notch which kills the foreground app. Now usually after killing the app I would remove that from the recent app. But after the DeviceOwner permissions I couldn't find the killed app in recent app. Is that for the DeviceOwner permissions? And what DeviceOwner permissions do you use, share if you can. Thanks. submitted by /u/zhSHADOW [l…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qblyws</guid>
       <pubDate>Tue, 13 Jan 2026 08:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何在锁定模式下控制小米Note 13 Pro的熄屏/变暗时间？ / Agir sur temps d'extinction/assombrissement Xiaomi note 13 prod en mode verrouillé ?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qbxvkt/agir_sur_temps_dextinctionassombrissement_xiaomi/</link>
+      <description>大家好！我是Tasker（及AutoNotification插件）社区的新手，即将完成我的第一个项目。我的目标是为某些关键通知设置自定义提醒，包括在NPD模式下（小米Note 13默认不支持）。针对配置的通知（在AutoNotification中使用正则表达式），预期行为包括：- 播放音量渐增的警报声：已通过警报流音乐实现；- 提供多种快速确认选项及定时自动确认：已完成；- 在警报未确认前保持屏幕常亮，包括锁定模式下……
+
+---
+
+Original:
+Bonjour à tous ! Nouveau venu dans la communauté et dans le monde de Tasker (+ plugin autonotification) je suis proche d'aboutir sur ma première réalisation. Mon but étant de faire une alerte personnalisée sur certaines notifications que je juge critique y compris en mode NPD (pas possible de base sur les Xiaomi note 13). Comportement attendu sur les notifications paramétrées (Regex dans autonotification) : - Emettre une alarme sonore avec volume croissant : ok via lecture musique en flux alarme - Proposer plusieurs possibilités d'acquittements rapides + un acquittement automatique temporisé : ok - Maintenir l'écran allumé y compris en mode verrouillée tant que l'alerte n'est pas acquittée C…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qbxvkt</guid>
+      <pubDate>Tue, 13 Jan 2026 17:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>功能请求 - 记住上次任务 / FEATURE REQUEST - Remember last task</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qbylzd/feature_request_remember_last_task/</link>
+      <description>如果能让Tasker记住最近打开的任务，并在重新打开应用时自动返回该任务，操作会更方便。提交者：/u/eXZeZe [链接] [评论]
+
+---
+
+Original:
+It would make things easier if I could set Tasker to remember the last opened task and it automatically returned to that task upon reopening the app. submitted by /u/eXZeZe [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qbylzd</guid>
+      <pubDate>Tue, 13 Jan 2026 18:13:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

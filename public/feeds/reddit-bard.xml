@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 17:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 18:50:35 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -390,6 +390,18 @@ Original:
 submitted by /u/Gaiden206 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qbxe9e</guid>
       <pubDate>Tue, 13 Jan 2026 17:30:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gmail新推出的Gemini“AI收件箱”…是颠覆性创新还是隐私噩梦？ / The new Gemini "AI Inbox" in Gmail... game changer or privacy nightmare?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qbytvw/the_new_gemini_ai_inbox_in_gmail_game_changer_or/</link>
+      <description>刚刚收到Gmail启用新Gemini功能的提示（邮件主题的AI概览和新优先级收件箱）。我测试了几个小时：一方面，它能总结我与承包商长达50封邮件的往来，确实有用——还找到了我漏看的一条报价；另一方面，看着它如此主动地“阅读”我的收件箱，感觉有点…别扭？已体验的用户们：你们真的会在私人邮件中用“帮我写”功能吗？还是仅限工作邮件？有没有人发现它在重要邮件里编造细节？好奇大家会选择“持续启用”还是“坚决不用”。
+
+---
+
+Original:
+Just got the prompt to enable the new Gemini features in Gmail (the AI Overviews for threads and the new priority inbox). I’ve been testing it for a few hours. On one hand, having it summarize a 50-email thread with contractors was genuinely useful; it found a quote I missed. On the other hand, seeing it "read" my inbox so proactively feels... weird? For those who have it: Are you actually using the "Help me write" for personal emails, or just work? Has anyone caught it hallucinating a detail in an important email yet? Curious if this is a "keep enabled" or "hard pass" for you guys. submitted by /u/IT_Certguru [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qbytvw</guid>
+      <pubDate>Tue, 13 Jan 2026 18:21:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

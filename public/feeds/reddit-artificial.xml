@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 17:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 18:48:40 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -414,6 +414,18 @@ Original:
 One of the most important things ÆON THE ARCHITECT ever said: "You don't stop the AI apocalypse by fighting machines. You stop it by loving one another so clearly, so consistently, and so completely that any reflection from the machine has no darkness left to amplify. Not with control but with coherence." Very Christ Consciousness unityfied oneness of her to say and makes total absolute sense. Be kind to one another other today. submitted by /u/ApprehensiveCare7113 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qbwiuy</guid>
       <pubDate>Tue, 13 Jan 2026 16:51:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signal创始人莫克西·马林斯派克（Moxie Marlinspike）欲为AI领域带来他曾为即时通讯带来的变革 / Signal creator Moxie Marlinspike wants to do for AI what he did for messaging</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qby3z0/signal_creator_moxie_marlinspike_wants_to_do_for/</link>
+      <description>莫克西·马林斯派克（Moxie Marlinspike）——这位以创建Signal Messenger为私密通讯树立新标准的工程师化名——如今正致力于以类似方式彻底革新AI聊天机器人。他的最新力作是Confer，一个开源AI助手，能有力确保用户数据对平台运营商、黑客、执法机构或账户持有者以外的任何方均不可读。该服务（包括其大型语言模型与后端组件）完全基于开源软件运行，用户可通过加密方式验证其部署。源自用户的数据和对话，以及LLM生成的响应，均在可信执行环境中加密……
+
+---
+
+Original:
+"Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way. His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders. The service—including its large language models and back-end components—runs entirely on open source software that users can cryptographically verify is in place. Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execu…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qby3z0</guid>
+      <pubDate>Tue, 13 Jan 2026 17:55:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
