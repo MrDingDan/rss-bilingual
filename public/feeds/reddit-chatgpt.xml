@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:55:10 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -458,6 +458,18 @@ Yesterday I almost became a victim of a scam. Amazing how easy it is to fall for
       <pubDate>Tue, 13 Jan 2026 17:02:54 +0000</pubDate>
     </item>
     <item>
+      <title>ChatGPT让我百感交集。:-) / ChatGPT got me all emotional. :-)</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qbwrsu/chatgpt_got_me_all_emotional/</link>
+      <description>ChatGPT的这个回复让我会心一笑。纯属分享。由 /u/Redditblows_1 提交 [链接] [评论]
+
+---
+
+Original:
+This response from ChatGPT, made me smile. Just sharing. submitted by /u/Redditblows_1 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qbwrsu</guid>
+      <pubDate>Tue, 13 Jan 2026 17:08:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Signal创始人Moxie Marlinspike希望在AI领域复制他在即时通讯领域的成就 / Signal creator Moxie Marlinspike wants to do for AI what he did for messaging</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbwspj/signal_creator_moxie_marlinspike_wants_to_do_for/</link>
       <description>Signal Messenger的创始人将下一个目标对准了ChatGPT。由/u/rahulsince1993提交 [链接] [评论]
@@ -564,6 +576,18 @@ Original:
 submitted by /u/deathxmx [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qc0xyr</guid>
       <pubDate>Tue, 13 Jan 2026 19:36:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>魔多（Mordor）起义期间的防护措施 / Protective during Mordor uprising</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc2fom/protective_during_mordor_uprising/</link>
+      <description>由用户/u/HrodnandB提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/HrodnandB [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc2fom</guid>
+      <pubDate>Tue, 13 Jan 2026 20:31:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:55:19 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -583,6 +583,18 @@ Original:
 submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc2b0f</guid>
       <pubDate>Tue, 13 Jan 2026 20:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>听说能用OpenAI训练视频模型，是真的吗？ / So I hear that you can train videos with openai, is that true?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc2obk/so_i_hear_that_you_can_train_videos_with_openai/</link>
+      <description>我想训练一个模型来读取视频片段，并在多人团体运动（主要是篮球、足球等）中识别特定事件。一位LLM训练师告诉我可以通过开放平台和微调实现，但我在开发平台上从未见过类似功能。真有这回事吗？真的能用OpenAI为视频中的特定事件打时间戳吗？ 提交者：/u/AWeb3Dad [链接] [评论]
+
+---
+
+Original:
+Trying to train a model to read video clips and find certain events in multi-person group sports, basically basketball, football, etc. An llm trainer told me we can do it with open and fine-tuning, but I've never really saw anything like that in the development platform. That's a thing? You can actually use openai to timestamp certain events in video? submitted by /u/AWeb3Dad [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc2obk</guid>
+      <pubDate>Tue, 13 Jan 2026 20:40:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

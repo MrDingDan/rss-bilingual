@@ -6,55 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:41:16 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 2026年的生成式AI不是技能……而是你必须掌握的完整技术栈 / GenAI in 2026 Isn’t a Skill… Its a Stack You Need to Master</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbp989/genai_in_2026_isnt_a_skill_its_a_stack_you_need/</link>
-      <description>生成式AI（GenAI）并非仅靠记忆提示词就能一劳永逸掌握的技能，它正演变为一种贯穿技术、执行与商业影响的全栈能力。提示词技巧仍有其价值，但可能只是未来所需能力中最小的一部分。真正的竞争优势在于理解大语言模型（LLM）的推理逻辑、如何将其与公司知识库结合，以及如何将它们串联成能实际工作而非仅生成文本的系统。这正是自动化、多智能体工作流和API/工具编排发挥作用的地方——这些技能将生成式AI从新奇技术转化为运营优势。但若缺少人的参与层：解释结果、获取支持并与不了解技术的团队沟通，这一切都将无法落地。
-
----
-
-Original:
-Generative AI is not something you learn once by memorizing prompts its becoming a full-stack capability that spans tech, execution and business impact. Prompting is still useful, but its probably the smallest slice of what matters going forward. The real competitive edge comes from knowing how LLMs reason, how to ground them in company knowledge and how to chain them into systems that do work instead of just generating text. That’s where automation, multi-agent workflows and API/tool orchestration come in skills that turn GenAI from a novelty into an operational advantage. But none of it lands without the human layer: explaining results, getting buy-in and communicating with teams who don’t…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbp989</guid>
-      <pubDate>Tue, 13 Jan 2026 11:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 当算法决定你的消费价格 / When algorithms decide what you pay</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbpah6/when_algorithms_decide_what_you_pay/</link>
-      <description>本期视频探讨企业如何运用人工智能（AI）与消费者数据实时调整商品定价。由用户 /u/EchoOfOppenheimer 提交 [链接] [评论]
-
----
-
-Original:
-This video explores how companies use Artificial Intelligence and consumer data to adjust prices in real time. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbpah6</guid>
-      <pubDate>Tue, 13 Jan 2026 11:49:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 一份实用的Claude技能理解速查表 / A useful cheatsheet for understanding Claude Skills</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpe91/a_useful_cheatsheet_for_understanding_claude/</link>
-      <description>这份速查表让我明白了Claude技能存在的深层原因，而不仅仅是文档中的表面描述。核心观点是：长提示会因上下文杂乱而失效；技能将可重复的指令移出提示；Claude仅在相关时加载它们。我之前没意识到的是：技能由模型自动调用，而非手动触发；描述决定其可发现性；有效的技能元数据比复杂逻辑更重要。想通这点后，我构建了一个极简的Git提交消息生成技能来验证这个想法。分享此速查表是因为它比大多数解释都更清晰地阐明了这一思维模型。如果有人在实际项目中使用Claude Code……
-
----
-
-Original:
-This cheatsheet helped me understand why Claude Skills exist, not just how they’re described in docs. The core idea: Long prompts break down because context gets noisy Skills move repeatable instructions out of the prompt Claude loads them only when relevant What wasn’t obvious to me before: Skills are model-invoked, not manually triggered The description is what makes or breaks discovery A valid SKILL MD matters more than complex logic After this clicked, I built a very small skill for generating Git commit messages just to test the idea. Sharing the cheatsheet here because it explains the mental model better than most explanations I’ve seen. If anyone’s using Claude Code in real projects,…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbpe91</guid>
-      <pubDate>Tue, 13 Jan 2026 11:55:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] OpenAI九月开源ACP，谷歌随即推出竞品UCP：智能体商务协议之战打响 / OpenAI open-sourced ACP in September. Google just launched UCP as a direct competitor. Here's how the agent commerce protocol war is shaping up.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qbpfga/openai_opensourced_acp_in_september_google_just/</link>
-      <description>去年九月，OpenAI与Stripe共同开源智能体商务协议（ACP）时，这一重要举措主要在开发者圈内引发关注。四个月后，局面已大不相同：谷歌两天前正式推出UCP，明确将其定位为对标ACP的竞品。该协议由谷歌与Shopify、沃尔玛、塔吉特共同开发，并获Visa、万事达卡、Stripe和PayPal联合支持。Linux基金会于去年十二月牵头成立AAIF，创始成员包括OpenAI、Anthropic、谷歌和微软，旨在为MCP、A2A和ACP建立共同治理框架。目前Visa与万事达卡已分别推出自有智能体身份验证协议TAP和Agent Pay。值得关注的是……
-
----
-
-Original:
-When OpenAI open-sourced the Agentic Commerce Protocol with Stripe back in September, it felt like a significant move but didn't get much attention outside of dev circles. Four months later, the landscape looks very different: Google launched UCP two days ago - explicitly positioned as their answer to ACP. Co-developed with Shopify, Walmart, Target. Visa, Mastercard, Stripe, PayPal all endorsed it. Linux Foundation started AAIF in December with OpenAI, Anthropic, Google, and Microsoft as founding members. They're trying to create shared governance for MCP, A2A, and ACP. Visa and Mastercard both have their own agent authentication protocols live (TAP and Agent Pay respectively). What's intere…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qbpfga</guid>
-      <pubDate>Tue, 13 Jan 2026 11:57:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 20:57:54 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 大语言模型评估：关键不在准确率，而在于选取合适的信号 / LLM Evaluation Isn’t About Accuracy Its About Picking the Right Signal</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbpjhn/llm_evaluation_isnt_about_accuracy_its_about/</link>
@@ -769,6 +721,18 @@ submitted by /u/Uhh_Clem [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 17:04:59 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] ChatGPT让我百感交集。:-) / ChatGPT got me all emotional. :-)</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qbwrsu/chatgpt_got_me_all_emotional/</link>
+      <description>ChatGPT的这个回复让我会心一笑。纯属分享。由 /u/Redditblows_1 提交 [链接] [评论]
+
+---
+
+Original:
+This response from ChatGPT, made me smile. Just sharing. submitted by /u/Redditblows_1 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qbwrsu</guid>
+      <pubDate>Tue, 13 Jan 2026 17:08:38 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_chatgpt] Signal创始人Moxie Marlinspike希望在AI领域复制他在即时通讯领域的成就 / Signal creator Moxie Marlinspike wants to do for AI what he did for messaging</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbwspj/signal_creator_moxie_marlinspike_wants_to_do_for/</link>
       <description>Signal Messenger的创始人将下一个目标对准了ChatGPT。由/u/rahulsince1993提交 [链接] [评论]
@@ -1455,6 +1419,42 @@ Original:
 As the title says, want to learn Ai agents development, automations, i know nothing about coding and all though i know the maths required for AIML Please suggest how to go about it? With AI agents development Any resources to learn about any computer language i want to learn it all submitted by /u/Ill-Lawfulness2129 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc2e6n</guid>
       <pubDate>Tue, 13 Jan 2026 20:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 魔多（Mordor）起义期间的防护措施 / Protective during Mordor uprising</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc2fom/protective_during_mordor_uprising/</link>
+      <description>由用户/u/HrodnandB提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/HrodnandB [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc2fom</guid>
+      <pubDate>Tue, 13 Jan 2026 20:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 听说能用OpenAI训练视频模型，是真的吗？ / So I hear that you can train videos with openai, is that true?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc2obk/so_i_hear_that_you_can_train_videos_with_openai/</link>
+      <description>我想训练一个模型来读取视频片段，并在多人团体运动（主要是篮球、足球等）中识别特定事件。一位LLM训练师告诉我可以通过开放平台和微调实现，但我在开发平台上从未见过类似功能。真有这回事吗？真的能用OpenAI为视频中的特定事件打时间戳吗？ 提交者：/u/AWeb3Dad [链接] [评论]
+
+---
+
+Original:
+Trying to train a model to read video clips and find certain events in multi-person group sports, basically basketball, football, etc. An llm trainer told me we can do it with open and fine-tuning, but I've never really saw anything like that in the development platform. That's a thing? You can actually use openai to timestamp certain events in video? submitted by /u/AWeb3Dad [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc2obk</guid>
+      <pubDate>Tue, 13 Jan 2026 20:40:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 埃隆·马斯克前女友：'X平台正在放大掠夺性和虐待性男性' / Elon Musk’s ex-girlfriend: ‘X is amplifying predatory and abusive men’</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qc2r39/elon_musks_exgirlfriend_x_is_amplifying_predatory/</link>
+      <description>作为马斯克第14个孩子母亲的阿什莉·圣克莱尔（Ashley St. Clair）表示，当Grok AI聊天机器人根据/u/TimesandSundayTimes提交的内容生成她的性化图像时，她感到'被侵犯'[链接][评论]
+
+---
+
+Original:
+Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her submitted by /u/TimesandSundayTimes [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qc2r39</guid>
+      <pubDate>Tue, 13 Jan 2026 20:43:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

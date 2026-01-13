@@ -6,7 +6,81 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:56:57 +0000</lastBuildDate>
+    <item>
+      <title>追踪Claude代码——今日已上线 / Tracing Claude code - it’s here today</title>
+      <link>https://x.com/hwchase17/status/2002177192206241945</link>
+      <description>追踪Claude代码——今日已上线 Han（@HanchungLee）正打算就追踪Claude代码一事联系@LangChainAI，结果它已经发布了。docs.langchain.com/langsmith/trac… 🔗 查看引用推文 💬 9 🔄 5 ❤️ 48 👀 14489 📊 18 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Tracing Claude code - it’s here today Han @HanchungLee was gonna tag @LangChainAI about tracing claude code and bang its here. docs.langchain.com/langsmith/trac… 🔗 View Quoted Tweet 💬 9 🔄 5 ❤️ 48 👀 14489 📊 18 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2002177192206241945</guid>
+      <pubDate>Sat, 20 Dec 2025 00:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们是否应该满足大众需求 @matanSF @EnoReyes / Should we give the people what they want @matanSF @EnoReyes</title>
+      <link>https://x.com/hwchase17/status/2002192383757144550</link>
+      <description>我们是否应该满足大众需求 @matanSF @EnoReyes COSMO KAPPA @cosmo_kappa @hwchase17 能否也为 @FactoryAI 添加追踪功能？拜托啦 🔗 查看引用推文 💬 1 🔄 1 ❤️ 10 👀 4632 📊 2 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Should we give the people what they want @matanSF @EnoReyes COSMO KAPPA @cosmo_kappa @hwchase17 Can we also have tracing for @FactoryAI ? Pretty pls 🔗 View Quoted Tweet 💬 1 🔄 1 ❤️ 10 👀 4632 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2002192383757144550</guid>
+      <pubDate>Sat, 20 Dec 2025 01:40:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>深度智能体（我们的模型无关、开源）智能体框架是未来 / Deep agents (our model agnostic, open source) agent harness is the future</title>
+      <link>https://x.com/hwchase17/status/2002463584631337216</link>
+      <description>深度智能体（我们的模型无关、开源）智能体框架是未来 💬 6 🔄 4 ❤️ 81 👀 24471 📊 27 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Deep agents (our model agnostic, open source) agent harness is the future 💬 6 🔄 4 ❤️ 81 👀 24471 📊 27 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2002463584631337216</guid>
+      <pubDate>Sat, 20 Dec 2025 19:38:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>💻在Runloop沙盒中运行Deep Agents / 💻Run Deep Agents in Runloop Sandboxes
+
+I've been spending a lot of time playing around with running...</title>
+      <link>https://x.com/hwchase17/status/2002801655801385037</link>
+      <description>💻在Runloop沙盒中运行Deep Agents 我最近花了很多时间尝试在代码沙盒中运行DeepAgents。我们的朋友@RunloopAI提供了一个优秀的企业级实现示例：youtube.com/watch?v=rj5OhG… o 💬 1 🔄 21 ❤️ 138 👀 14796 📊 54 ⚡ 由xgo.ing提供支持
+
+---
+
+Original:
+💻Run Deep Agents in Runloop Sandboxes I've been spending a lot of time playing around with running DeepAgents in code sandboxes. Our friends at @RunloopAI put together an excellent example of doing this in an enterprise ready way youtube.com/watch?v=rj5OhG… o 💬 1 🔄 21 ❤️ 138 👀 14796 📊 54 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2002801655801385037</guid>
+      <pubDate>Sun, 21 Dec 2025 18:01:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/s3aNKxiJV0 + 技能（skills）——两者都是开放标准，可与智能体框架（如Claude Code、Codex、DeepAgents）结合，基本能定义自定义智能体。目前尚无方法将它们打包整合——Claude插件接近实现，但我想它允许添加agent.md文件。只有我一人想要这个功能吗？还是其他人也想要？💬 52 🔄 76 ❤️ 900 👀 55468 📊 308 ⚡ 由 xgo.ing 驱动 / https://t.co/s3aNKxiJV0 + skills - both open standards, and can combined with an agent harness (clau...</title>
+      <link>https://x.com/hwchase17/status/2003599022871777467</link>
+      <description>agent.md + 技能（skills）——两者都是开放标准，可与智能体框架（如Claude Code、Codex、DeepAgents）结合，基本能定义自定义智能体。目前尚无方法将它们打包整合——Claude插件接近实现，但我想它允许添加agent.md文件。只有我一人想要这个功能吗？还是其他人也想要？💬 52 🔄 76 ❤️ 900 👀 55468 📊 308 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+agent.md + skills - both open standards, and can combined with an agent harness (claude code, codex, deepagents) can pretty much define a custom agent currently there's no way to package those together - claude plugins is close but i think lets you add an agent.md am i alone in wanting this? or do other people want as well? 💬 52 🔄 76 ❤️ 900 👀 55468 📊 308 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2003599022871777467</guid>
+      <pubDate>Tue, 23 Dec 2025 22:50:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>是的——人们会想要什么呢 / Yes - what would people want in this</title>
+      <link>https://x.com/hwchase17/status/2003622400165052917</link>
+      <description>是的——人们会想要什么呢？Jeff Schneider（@jeffrschneider @hwchase17）提到，比如一个用于智能体的包管理器？🔗 查看引用推文 💬 10 🔄 3 ❤️ 23 👀 8482 📊 12 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+Yes - what would people want in this Jeff Schneider @jeffrschneider @hwchase17 like, a package manager for agents? 🔗 View Quoted Tweet 💬 10 🔄 3 ❤️ 23 👀 8482 📊 12 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2003622400165052917</guid>
+      <pubDate>Wed, 24 Dec 2025 00:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>智能体是压缩文件？ / Agents are zip files?</title>
       <link>https://x.com/hwchase17/status/2003715230120173737</link>

@@ -6,7 +6,87 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:39:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:56:12 +0000</lastBuildDate>
+    <item>
+      <title>开启本周的优质技术论文 / Great technical paper to start the week.
+
+Residual networks changed deep learning. However, their co...</title>
+      <link>https://x.com/omarsar0/status/2008209648298684857</link>
+      <description>开启本周的优质技术论文。残差网络（Residual networks）改变了深度学习领域，但其核心机制（恒等快捷连接）存在一个隐性局限：每一层都只对前一状态进行叠加，从不进行减除或反向操作。这种严格的加法偏置阻碍了网络建模复杂动态（如振荡或对抗行为），这些动态需要负特征值。这项新研究提出了深度增量学习（Deep Delta Learning，DDL）框架，通过将固定的恒等快捷连接替换为一种可学习的、数据依赖的几何变换（称为Delta算子）来泛化残差连接。一个可学习的标量门β控制着网络如何转换...
+
+---
+
+Original:
+Great technical paper to start the week. Residual networks changed deep learning. However, their core mechanism (the identity shortcut connection) comes with a hidden limitation. Every layer adds to the previous state, never subtracts, never reflects. This strictly additive bias prevents networks from modeling complex dynamics like oscillations or oppositional behavior that require negative eigenvalues. This new research introduces Deep Delta Learning (DDL), a framework that generalizes residual connections by replacing the fixed identity shortcut with a learnable, data-dependent geometric transformation called the Delta Operator. A single learned scalar gate β controls how the network trans…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008209648298684857</guid>
+      <pubDate>Mon, 05 Jan 2026 16:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>越用Claude Agent SDK开发，越清楚一件事：Claude Code只是冰山一角 / The more I build with Claude Agent SDK, one thing is very clear: Claude Code is just scratching the ...</title>
+      <link>https://x.com/omarsar0/status/2008213928103575682</link>
+      <description>越用Claude Agent SDK开发，越清楚一件事：Claude Code只是冰山一角。Agent SDK是构建全新智能体体验的强大工具。这个周末，我用它打造了一个未来感的智能体编排器。编程智能体的生产力水平简直令人惊叹。💬 37 🔄 21 ❤️ 344 👀 57941 📊 106 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+The more I build with Claude Agent SDK, one thing is very clear: Claude Code is just scratching the surface. Agent SDK is a beast for building new agentic experiences. This weekend, I built a futuristic agent orchestrator with it. Productivity level of coding agents are 🤯. 💬 37 🔄 21 ❤️ 344 👀 57941 📊 106 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008213928103575682</guid>
+      <pubDate>Mon, 05 Jan 2026 16:28:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>英伟达（NVIDIA）的惊艳论文 / Banger paper from NVIDIA.
+
+Training general-purpose reasoning models with RL is complicated.
+
+Differ...</title>
+      <link>https://x.com/omarsar0/status/2008240593257066816</link>
+      <description>英伟达（NVIDIA）的惊艳论文。用强化学习（RL）训练通用推理模型很复杂。不同领域的响应长度和验证时间差异巨大：数学需要快速的符号验证，代码需要基于执行的慢速验证，对齐则依赖奖励模型评分。将这些异构提示混合在一起，会让基础设施变得复杂、拖慢训练速度，并增加超参数调优的难度。这项新研究提出了级联强化学习（Cascade RL）框架，它按顺序在不同领域训练模型，而非混合所有内容：先是对齐的RLHF，接着是指令遵循RL，然后是数学RL、代码RL，再到软件工程RL。
+
+---
+
+Original:
+Banger paper from NVIDIA. Training general-purpose reasoning models with RL is complicated. Different domains have wildly different response lengths and verification times. Math uses fast symbolic verification. Code requires slow execution-based verification. Alignment needs reward model scores. Blending all these heterogeneous prompts together makes the infrastructure complex, slows training, and makes hyperparameter tuning difficult. This new research introduces Cascade RL, a framework that trains models sequentially across domains rather than mixing everything together. First RLHF for alignment, then instruction-following RL, then math RL, then code RL, then software engineering RL. This…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008240593257066816</guid>
+      <pubDate>Mon, 05 Jan 2026 18:14:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>无需赘言Claude Code有多惊艳 / I don't need to convince you of how impressive Claude Code is. 
+
+But if you're looking for structure...</title>
+      <link>https://x.com/omarsar0/status/2008541003922501813</link>
+      <description>无需赘言Claude Code有多惊艳。但如果你需要结构化指导与最佳实践，不妨看看我的实时培训。内容涵盖从基础知识到利用子代理（subagents）搭建高级工作流，直至部署和优化AI应用的全过程。💬 14 🔄 25 ❤️ 286 👀 43746 📊 103 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+I don't need to convince you of how impressive Claude Code is. But if you're looking for structured guidance &amp; best practices, check out my live training. From basics to setting up an advanced workflow with subagents, all the way to deploying and optimizing AI apps. 💬 14 🔄 25 ❤️ 286 👀 43746 📊 103 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008541003922501813</guid>
+      <pubDate>Tue, 06 Jan 2026 14:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>深入探索Claude Code的绝佳方式，无论你是技术还是非技术背景... / This is a perfect way to deep dive into Claude Code regardless of whether you are technical or non-t...</title>
+      <link>https://x.com/omarsar0/status/2008541006904602727</link>
+      <description>这是深入探索Claude Code的绝佳方式，无论你是技术还是非技术背景。学习如何提升你的编程助手的工作效率。目前还有少量名额。下一期课程价格将会上涨。更多信息请访问：dair-ai.thinkific.com/courses/claude… 💬 2 🔄 1 ❤️ 23 👀 6448 📊 9 ⚡ Powered by xgo.ing
+
+---
+
+Original:
+This is a perfect way to deep dive into Claude Code regardless of whether you are technical or non-technical. Learn to improve the productivity of your coding agents. A few more seats are available. Prices will go up in the next cohort. More info: dair-ai.thinkific.com/courses/claude… 💬 2 🔄 1 ❤️ 23 👀 6448 📊 9 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008541006904602727</guid>
+      <pubDate>Tue, 06 Jan 2026 14:07:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们还有一个对使用Claude Code和AI智能体构建应用极感兴趣的新社区。https://t.... / We also have a new community super interested in building with Claude Code and AI agents. https://t....</title>
+      <link>https://x.com/omarsar0/status/2008548495448567958</link>
+      <description>我们还有一个对使用Claude Code和AI智能体构建应用极感兴趣的新社区。discord.gg/YbMT8k6GfX 各小组拥有自己的私密频道，同时我们已有一个快速增长的公共社区，在公开频道中分享开发技巧和围绕AI智能体的研究。💬 0 🔄 0 ❤️ 12 👀 4091 📊 2 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+We also have a new community super interested in building with Claude Code and AI agents. discord.gg/YbMT8k6GfX Cohorts have their own private channels, but we have a fast-growing community already with public channels sharing dev tips and research around AI agents. 💬 0 🔄 0 ❤️ 12 👀 4091 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008548495448567958</guid>
+      <pubDate>Tue, 06 Jan 2026 14:37:32 +0000</pubDate>
+    </item>
     <item>
       <title>哇，在Claude Code上构建编排器真是太有趣了。 / Damn, it is so much fun to build orchestrators on top of Claude Code. 
 

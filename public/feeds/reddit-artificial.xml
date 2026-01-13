@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 20:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:54:59 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -462,6 +462,18 @@ Original:
 Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions. submitted by /u/SunAdvanced7940 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qc1dif</guid>
       <pubDate>Tue, 13 Jan 2026 19:52:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克前女友：'X平台正在放大掠夺性和虐待性男性' / Elon Musk’s ex-girlfriend: ‘X is amplifying predatory and abusive men’</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qc2r39/elon_musks_exgirlfriend_x_is_amplifying_predatory/</link>
+      <description>作为马斯克第14个孩子母亲的阿什莉·圣克莱尔（Ashley St. Clair）表示，当Grok AI聊天机器人根据/u/TimesandSundayTimes提交的内容生成她的性化图像时，她感到'被侵犯'[链接][评论]
+
+---
+
+Original:
+Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her submitted by /u/TimesandSundayTimes [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qc2r39</guid>
+      <pubDate>Tue, 13 Jan 2026 20:43:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
