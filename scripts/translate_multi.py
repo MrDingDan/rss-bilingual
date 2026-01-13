@@ -152,18 +152,33 @@ def parse_time(entry) -> datetime:
                 pass
     return datetime.now(timezone.utc)
 
-def chat_completions_url(base: str) -> str:
+def chat_completions_urls(base: str) -> list[str]:
+    base = (base or "").rstrip("/")
+    urls = []
+
+    # 1) base 本身就是 .../v1
     if base.endswith("/v1"):
-        return base + "/chat/completions"
-    if base.endswith("/v1/"):
-        return base + "chat/completions"
-    return base + "/v1/chat/completions"
+        urls.append(base + "/chat/completions")
+    else:
+        # 2) OpenAI/多数兼容：.../v1/chat/completions
+        urls.append(base + "/v1/chat/completions")
+        # 3) DeepSeek 这类：.../chat/completions
+        urls.append(base + "/chat/completions")
+
+    # 去重保持顺序
+    seen = set()
+    out = []
+    for u in urls:
+        if u not in seen:
+            seen.add(u)
+            out.append(u)
+    return out
+
 
 def call_llm(prompt: str) -> str:
     if not (AI_BASE_URL and AI_API_KEY and AI_MODEL):
         raise RuntimeError("Missing AI_BASE_URL / AI_API_KEY / AI_MODEL")
 
-    url = chat_completions_url(AI_BASE_URL)
     headers = {"Authorization": f"Bearer {AI_API_KEY}", "Content-Type": "application/json"}
     payload = {
         "model": AI_MODEL,
@@ -173,10 +188,24 @@ def call_llm(prompt: str) -> str:
             {"role": "user", "content": prompt},
         ],
     }
-    resp = requests.post(url, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
-    resp.raise_for_status()
-    data = resp.json()
-    return data["choices"][0]["message"]["content"]
+
+    last_err = None
+    for url in chat_completions_urls(AI_BASE_URL):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=REQUEST_TIMEOUT)
+            # 404：换下一个 endpoint 继续试
+            if resp.status_code == 404:
+                last_err = RuntimeError(f"404 for {url}")
+                continue
+            resp.raise_for_status()
+            data = resp.json()
+            return data["choices"][0]["message"]["content"]
+        except Exception as e:
+            last_err = e
+            continue
+
+    raise RuntimeError(f"All chat endpoints failed. Last error: {last_err}")
+
 
 def translate_bilingual(title_en: str, summary_en: str, state) -> tuple[str, str]:
     title_en = (title_en or "").strip()
