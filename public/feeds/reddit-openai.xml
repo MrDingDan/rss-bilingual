@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - reddit_openai</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 06:27:47 +0000</lastBuildDate>
+    <item>
+      <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
+      <description>如今是成为开发者最好的时代。在开发者日[2025]上，我们推出了新一代工具和模型，帮助开发者更快地编写代码、更可靠地构建智能体，并在ChatGPT中扩展应用。欢迎就以下发布内容提问：AgentKit、Apps SDK、API中的Sora 2、API中的GPT-5 Pro、Codex。错过了我们的发布公告？观看回放：https://youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o&amp;si=nSbLbLDZO7o-NMmo。加入我们的团队参与问答，了解更多信息，时间为周四太平洋时间上午11点。当前回答问题的成员有：Dmitry Pimenov - u/dpim、Alexander Embiricos - u/embirico、Ruth Costigan - u/ruth_on_reddit、Christina Huang - u/Brief-Detective-9368、Rohan Meh…
+
+---
+
+Original:
+It’s the best time in history to be a builder. At DevDay [2025], we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in ChatGPT. Ask us questions about our launches such as: AgentKit Apps SDK Sora 2 in the API GPT-5 Pro in the API Codex Missed out on our announcements? Watch the replays: https://youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o&amp;si=nSbLbLDZO7o-NMmo Join our team for an AMA to ask questions and learn more, Thursday 11am PT. Answering Q's now are: Dmitry Pimenov - u/dpim Alexander Embiricos - u/embirico Ruth Costigan - u/ruth_on_reddit Christina Huang - u/Brief-Detective-9368 Rohan Meh…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1o1j23g</guid>
+      <pubDate>Wed, 08 Oct 2025 18:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sora 2 大型讨论帖（第三部分） / Sora 2 megathread (part 3)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1o8kmg9/sora_2_megathread_part_3/</link>
+      <description>上一个帖子因达到10万条评论上限而关闭。请勿尝试购买邀请码，谨防受骗。请勿尝试出售邀请码，否则将面临永久封禁。我们已在Discord设置了机器人来分发邀请码，若在此处评论中找不到邀请码，请加入Discord并查看 #sora-invite-codes 频道。该频道持续发布大量可用邀请码！更新：由于大量用户涌入导致Discord误判为机器人攻击而锁定服务器，现正等待Discord解锁。也可查看Chambers平台上的大型讨论帖获取邀请信息。由 /u/WithoutReason1729 提交 [链接] [评论]
+
+---
+
+Original:
+The last one hit the post limit of 100,000 comments. Do not try to buy codes. You will get scammed. Do not try to sell codes. You will get permanently banned. We have a bot set up to distribute invite codes in the Discord so join if you can't find codes in the comments here. Check the #sora-invite-codes channel. The Discord has dozens of invite codes available, with more being posted constantly! Update: Discord is down until Discord unlocks our server. The massive flood of joins caused the server to get locked because Discord thought we were botting lol. Also check the megathread on Chambers for invites. submitted by /u/WithoutReason1729 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1o8kmg9</guid>
+      <pubDate>Thu, 16 Oct 2025 22:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>官宣了 / It’s official</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qb79py/its_official/</link>
+      <description>https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ 分发战争结束了吗？OpenAI 唯一可靠的长期护城河曾是：- 用户习惯养成 - 成为“你提问的首选地”。苹果曾是唯一足够大的分发商，能够：- 中和谷歌搜索的主导地位 - 并赋予 OpenAI 操作系统层面的引力。而现在：- 谷歌拥有了搜索 + Gemini + 苹果分发渠道 - OpenAI 则拥有 ChatGPT + API +…… 只能寄望于监管机构或 OEM 厂商让步。根据谷歌的说法：“如果你使用 iPhone 或 Mac，从 iOS 26.4（预计在 2026 年 3 月左右）开始，你可能会看到一个由 Gemini 驱动的‘重新构想的 Siri’。这个版本旨在理解你的个人情境，在……
+
+---
+
+Original:
+https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ Is that the distribution war over? OpenAI’s only credible long-term moat was: -Consumer habit formation -Being the “first place you ask” Apple was the only distributor big enough to: -Neutralize Google search dominance -And give OpenAI OS-level gravity Instead: -Google now has Search + Gemini + Apple distribution -OpenAI has ChatGPT + APIs +… hoping regulators or OEMs blink According to Google: “If you use an iPhone or Mac, you'll likely see a "reimagined Siri" powered by Gemini starting with iOS 26.4 (expected around March 2026). This version is designed to understand your personal context, in…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qb79py</guid>
+      <pubDate>Mon, 12 Jan 2026 21:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果宣布下一代Siri将采用谷歌Gemini驱动，埃隆·马斯克对此表示不满 / Apple announces that next version of Siri would be powered using Google gemini. Elon Musk does not seem happy about it.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qb7dg6/apple_announces_that_next_version_of_siri_would/</link>
+      <description>据悉，苹果曾评估过Gemini、ChatGPT，可能还包括xAI的Grok。特斯拉CEO埃隆·马斯克在社交媒体平台X上发文称：“考虑到谷歌已拥有Android和Chrome，这似乎让谷歌获得了不合理的权力集中。”🤣 苹果与谷歌在联合声明中表示：“经过审慎评估，我们认为谷歌的技术能为苹果基础模型提供最强大的支持，并期待它为用户带来创新的新体验。”https://www.wcnc.com/article/news/nation-world/apple-google-gemini-siri-ai-features/507-575faa99-217e-498d-8f34-5455759113f8 由/u/jbcraigs提交 [链接] [评论]
+
+---
+
+Original:
+Seems like Gemini, ChatGPT and possibly xAI Grok were being evaluated. "This seems like an unreasonable concentration of power for Google, given that (they) also have Android and Chrome," Tesla ⁠CEO Elon Musk said in a post on social media platform X. 🤣 “After careful evaluation, we determined that Google’s technology provides the most capable foundation for Apple Foundation Models and we’re excited about the innovative new experiences it will unlock for our users,” the companies said in the statement. https://www.wcnc.com/article/news/nation-world/apple-google-gemini-siri-ai-features/507-575faa99-217e-498d-8f34-5455759113f8 submitted by /u/jbcraigs [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qb7dg6</guid>
+      <pubDate>Mon, 12 Jan 2026 21:10:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta与OpenAI称已瓦解与以色列公司相关的舆论操控活动 / Meta and OpenAI say they disrupted influence operations linked to lsraeli company</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbd60s/meta_and_openai_say_they_disrupted_influence/</link>
+      <description>由用户/soalone34提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/soalone34 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbd60s</guid>
+      <pubDate>Tue, 13 Jan 2026 00:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2 Pro智能体在MIT教授维护的基准库中创下新纪录 / GPT 5.2 Pro Agent Achieves new record on MIT professors library</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qbhvjb/gpt_52_pro_agent_achieves_new_record_on_mit/</link>
+      <description>我们开发了一款基于GPT-5.2 Pro的研究智能体，旨在攻克实验数学领域的问题，并计划在未来工作中将同一框架拓展至**计算物理学**。在首次部署中，该智能体在球体堆积问题（(n=11, N=432)）上取得了目前已知的最佳结果，该结果已通过Henry Cohn（MIT）维护的基准库验证。其策略成功突破了先前优化中难以解决的数值“卡滞”构型，将最佳已知余弦值提升至[ t ≈ 0.49422771 ]。值得注意的是，智能体仅通过约一小时的自主探索就实现了这一改进，优化了此前发现并……
+
+---
+
+Original:
+We developed a GPT-5.2-pro–powered research agent designed to attack problems in experimental mathematics, with an eye toward extending the same framework to **computational physics in future work. In its first deployment, the agent achieved a new best-known spherical packing for ((n=11, N=432)), a result now verified against the benchmark library maintained by Henry Cohn (MIT). Its strategy escaped a numerically “jammed” configuration that had resisted prior optimization, yielding a new best-known cosine value of [ t \approx 0.49422771. ] Notably, the agent arrived at this improvement within roughly one hour of autonomous exploration, refining a configuration whose previous discovery and op…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qbhvjb</guid>
+      <pubDate>Tue, 13 Jan 2026 04:31:10 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - reddit_ai_agents</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 06:23:30 +0000</lastBuildDate>
+    <item>
+      <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
+      <description>每周分享你的AI智能体与LLM应用成果！获赞最多的项目将入选我们的每周精选简报。由 /u/help-me-grow 提交 [链接] [评论]
+
+---
+
+Original:
+Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1q6kv0f</guid>
+      <pubDate>Wed, 07 Jan 2026 17:01:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布UCP——自Stripe以来在线购物的最大变革 / Google just dropped UCP — the biggest shift in online shopping since Stripe</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qap7ym/google_just_dropped_ucp_the_biggest_shift_in/</link>
+      <description>谷歌刚刚宣布了UCP（Universal Commerce Protocol，通用商务协议），其影响远超名称所示。UCP是一项开放标准，让AI代理能够真正购买商品，而不仅仅是推荐。想象一下：从产品发现→结账→支付，全程可在谷歌搜索AI模式和Gemini等AI工具内完成。有趣的是，这不仅是谷歌的尝试。合作伙伴包括：Shopify、沃尔玛（Walmart）、塔吉特（Target）、Etsy、Visa、万事达卡（Mastercard）、Stripe、美国运通（AmEx）。为何重要：AI代理正成为买家，而非助手；结账页面和销售漏斗可能逐渐消失；谁控制了AI发现，谁就控制了商务。这仿佛是AI驱动购物领域的“Stripe时刻”。谷歌表示商家……
+
+---
+
+Original:
+Google just announced UCP (Universal Commerce Protocol) and it feels like a bigger deal than the name suggests. UCP is an open standard that lets AI agents actually buy things , not just recommend them. Think: product discovery → checkout → payment, all handled inside AI tools like Google Search AI Mode and Gemini . The interesting part? This isn’t just Google experimenting. Partners include: Shopify, Walmart, Target, Etsy Visa, Mastercard, Stripe, AmEx Why this matters: AI agents are becoming buyers , not assistants Checkout pages and funnels could slowly disappear Whoever controls AI discovery controls commerce This feels like the Stripe moment for AI-driven shopping Google says merchants…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qap7ym</guid>
+      <pubDate>Mon, 12 Jan 2026 08:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI智能体是否已为你替代了整个工作流程？如果是，具体是如何实现的？ / Has an AI agent replaced an entire workflow for you yet? If so how?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qaqnyq/has_an_ai_agent_replaced_an_entire_workflow_for/</link>
+      <description>市场上AI智能体很多，但我觉得大多数还无法自主替代整个工作流程。实际上我发现，有时你花费的时间反而比手动完成全部工作更多。所以很好奇：AI智能体是否已经为你替代了整个工作流程？如果是，具体是如何实现的？ 提交者：/u/No-Marionberry8257 [链接] [评论]
+
+---
+
+Original:
+There are plenty of AI agents in the market but I feel like most fail at replacing the entire workflow autonomously. In-fact what I noticed was sometimes you end up spending more time than if you had just done the whole thing manually. So curious, has an AI agent replaced an entire workflow for you yet? If so how? submitted by /u/No-Marionberry8257 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qaqnyq</guid>
+      <pubDate>Mon, 12 Jan 2026 09:40:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>哪些文本转语音服务商真正适合语音助手？ / What text to speech providers are actually good for voice agents?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qb905w/what_text_to_speech_providers_are_actually_good/</link>
+      <description>我一直在尝试为我父亲的业务开发一个语音助手，但反复遇到类似问题：服务延迟远达不到宣传效果，端到端延迟大约1-1.2秒。这实在太慢了，而且大多数服务商价格过高。有什么建议吗？提交者：/u/Veta_Exceptional [链接] [评论]
+
+---
+
+Original:
+I've been experimenting with making an agent for my dad's business and I keep running into very similar issues where the latency is not anything close to what the provider is advertising. We're talking like ~1-1.2s end to end. It's way too slow and most providers are way too expensive. Any suggestions? submitted by /u/Veta_Exceptional [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qb905w</guid>
+      <pubDate>Mon, 12 Jan 2026 22:11:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>照片能否比文本主密码更安全？ / Could photos be safer than text-based master passwords?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qb9m44/could_photos_be_safer_than_textbased_master/</link>
+      <description>大家好👋 我们正在开发一款采用全新思路的密码管理器，很想知道大家的看法。用户不再使用文本主密码，而是通过一张自选照片结合视觉层进行身份验证。理念很简单：识别比记忆更容易。无需死记硬背字符，只需辨认个性化内容。第二个争议点：密码永不存储。不加密、不哈希、不进保险库。密码通过密码学原语、设备端验证和端到端加密技术按需实时生成。即使发生数据泄露，也根本没有密码数据库可被窃取。这引发了一个实质性问题：如果你……
+
+---
+
+Original:
+Hey folks 👋 We’ve been working on a password manager that takes a very different approach, and we’re genuinely curious what this community thinks. Instead of a text-based master password, users authenticate with a photo they choose, combined with a visual layer. The idea is simple: recognition is easier than recall. You don’t memorize strings, you recognize something personal. The second controversial part: passwords are never stored. Not encrypted. Not hashed. Not in a vault. Passwords are regenerated on demand using cryptographic primitives, on-device checks and end-to-end encryption. If there’s a breach, there’s literally no password database to dump. This raises a real question: If you w…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qb9m44</guid>
+      <pubDate>Mon, 12 Jan 2026 22:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Firecrawl在大规模数据提取方面表现不佳 / Firecrawl sucks for extraction at scale</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qbhfmc/firecrawl_sucks_for_extraction_at_scale/</link>
+      <description>最近，我在为一个RAG应用提取大量内容时，发现Firecrawl生成的Markdown片段导致向量数据库中的检索效果非常差。我真正需要的是大规模的结构化数据提取，而非Markdown格式。因此，我开发了一个工具，既能提取所需数据，又能在网站内容发生变化时及时通知用户。它的工作流程如下：1. 说明你需要提取哪些数据 2. 对任意URL执行数据提取 3. 工具监控这些数据的任何变动 4. 可通过webhook接收或GET方式获取由/u/Ready-Interest-1024提交的变更信息 [链接] [评论]
+
+---
+
+Original:
+Recently, I needed to extract lots of content for a RAG app, and the markdown chunks from Firecrawl lead to really poor retrieval in the vector DB. I just needed structured data extraction at scale not markdown, so I built a tool that extracts that data and updates you if anything changes on the site. Here's how it works: 1. Explain what data you want 2. Run that data extraction on any URL 3. Tool monitors any changes of this data 4. Can receive a webhook / GET the changes submitted by /u/Ready-Interest-1024 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qbhfmc</guid>
+      <pubDate>Tue, 13 Jan 2026 04:10:19 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

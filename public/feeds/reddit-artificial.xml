@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - reddit_artificial</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 06:24:20 +0000</lastBuildDate>
+    <item>
+      <title>研究人员称，尽管面临限制，中国正逐步缩小与美国的科技差距 / China is closing in on US technology lead despite constraints, AI researchers say</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qae670/china_is_closing_in_on_us_technology_lead_despite/</link>
+      <description>由 /u/esporx 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/esporx [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qae670</guid>
+      <pubDate>Sun, 11 Jan 2026 23:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能悖论：为何集中式AI遭遇“算力墙”，以及去中心化推理枢纽的解决方案 / The Intelligence Paradox: Why centralized AI is hitting a "Power Wall" and the case for decentralized inference hubs</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qb46h5/the_intelligence_paradox_why_centralized_ai_is/</link>
+      <description>随着我们迈向GPT-5.2及更高版本，美国集中式数据中心的能耗正成为物理层面的瓶颈。我的观点是：下一步并非追求“更大的模型”，而是通过智能路由连接区域化部署的专用推理枢纽。如果无法压缩模型规模，就必须优化用户访问路径。我想了解社区对LLM“边缘推理”的看法——未来会是单一的全球大脑，还是主权AI节点构成的碎片化网络？ 发布者：/u/Foreign-Job-8717 [链接] [评论]
+
+---
+
+Original:
+As we scale to GPT-5.2 and beyond, the energy footprint of centralized data centers in the US is becoming a physical limit. I'm theorizing that the next step isn't "bigger models," but smarter routing to specialized, regionally-hosted inference hubs. If we can't shrink the models, we must optimize the path to the user. I'm curious about the community's take on "Inference-at-the-edge" for LLMs. Is the future a single global brain, or a fragmented network of sovereign AI nodes? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qb46h5</guid>
+      <pubDate>Mon, 12 Jan 2026 19:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>协同工作：Claude Code 助你高效完成剩余任务 / Cowork: Claude Code for the rest of your work</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qb5xxv/cowork_claude_code_for_the_rest_of_your_work/</link>
+      <description>由 /u/eternviking 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/eternviking [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qb5xxv</guid>
+      <pubDate>Mon, 12 Jan 2026 20:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>五角大楼采用马斯克的Grok AI聊天机器人引发全球争议 / Pentagon is embracing Musk's Grok AI chatbot as it draws global outcry</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbi32n/pentagon_is_embracing_musks_grok_ai_chatbot_as_it/</link>
+      <description>由 /u/esporx 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/esporx [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbi32n</guid>
+      <pubDate>Tue, 13 Jan 2026 04:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic推出Cowork：无需编程技能也能使用Claude代码 / Anthropic Cowork Launches: Claude Code Without Coding Skills</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbic9o/anthropic_cowork_launches_claude_code_without/</link>
+      <description>由用户/u/i-drake提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/i-drake [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbic9o</guid>
+      <pubDate>Tue, 13 Jan 2026 04:54:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>每日AI快讯 2026年1月12日 / One-Minute Daily AI News 1/12/2026</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbjd7r/oneminute_daily_ai_news_1122026/</link>
+      <description>苹果与谷歌Gemini合作，为Siri引入AI功能。[1] Anthropic紧随OpenAI的ChatGPT Health之后，发布了医疗版Claude。[2] 现代汽车在CES上展示了会跳K-pop舞的机器狗和Atlas人形机器人。[3] 谷歌宣布了一项新协议，旨在利用AI智能体促进商业活动。[4] 来源：[1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/ 由 /u… 提交
+
+---
+
+Original:
+Apple teams up with Google Gemini for AI-powered Siri.[1] Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal.[2] Hyundai shows off K-pop dancing robot dogs and humanoid robot Atlas at CES.[3] Google announces a new protocol to facilitate commerce using AI agents.[4] Sources: [1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/ submitted by /u…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbjd7r</guid>
+      <pubDate>Tue, 13 Jan 2026 05:48:22 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - reddit_chatgpt</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 06:25:13 +0000</lastBuildDate>
+    <item>
+      <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
+      <description>为保持本版块在Sora 2发布期间的版面整洁，特开设此集中讨论帖，供对GPT-4o停用感到不满的用户交流。给怀念4o用户的建议：可先通过这个计算器查看家用电脑能运行哪些本地模型。开源模型完全免费，下载后无需担心模型突然被改得不符合你的喜好。确定能在本地运行的模型及量化版本后，可前往HuggingFace平台下载。由用户/u/WithoutReason1729提交 [链接] [评论]
+
+---
+
+Original:
+To keep the rest of the sub clear with the release of Sora 2, this is the new containment thread for people who are mad about GPT-4o being deprecated. Suggestion for people who miss 4o: Check this calculator to see what local models you can run on your home computer. Open weight models are completely free, and once you've downloaded them, you never have to worry about them suddenly being changed in a way you don't like. Once you've identified a model+quant you can run at home, go to HuggingFace and download it. submitted by /u/WithoutReason1729 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1nvea4p</guid>
+      <pubDate>Wed, 01 Oct 2025 17:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 更新说明 / Updates for ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/</link>
+      <description>此前我们为谨慎处理心理健康问题，对 ChatGPT 设置了较多限制。我们意识到这降低了许多无心理健康问题用户的使用体验，但鉴于该问题的严肃性，我们认为有必要这样做。目前，我们已能有效缓解严重的心理健康风险，并配备了新的工具，因此将在大多数情况下安全地放宽限制。几周后，我们计划推出新版 ChatGPT，允许用户设定更接近 4o 版本中广受欢迎的人格特质（我们希望新版会更出色！）。如果你希望 ChatGPT 以高度拟人的方式回应、使用大量表情符号，或表现得……
+
+---
+
+Original:
+We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right. Now that we have been able to mitigate the serious mental health issues and have new tools, we are going to be able to safely relax the restrictions in most cases. In a few weeks, we plan to put out a new version of ChatGPT that allows people to have a personality that behaves more like what people liked about 4o (we hope it will be better!). If you want your ChatGPT to respond in a very human-like way, or use a ton of emoji, or act lik…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1o6jins</guid>
+      <pubDate>Tue, 14 Oct 2025 16:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>这到底是什么玩意儿… / What the F is this…</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qas6dn/what_the_f_is_this/</link>
+      <description>由 /u/MukulIND 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MukulIND [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qas6dn</guid>
+      <pubDate>Mon, 12 Jan 2026 11:11:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤨 / 🤨</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qazi46/_/</link>
+      <description>由 /u/Constant_Tough_6446 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Constant_Tough_6446 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qazi46</guid>
+      <pubDate>Mon, 12 Jan 2026 16:28:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI检测器完全是骗局 / AI Detectors are a complete scam.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qb7tdl/ai_detectors_are_a_complete_scam/</link>
+      <description>这就是我认为AI检测器是骗局的原因之一。GPTZero将这句话标记为高AI概率：“你为什么这么想？”它竟然说“为什么”这个词是连词！！不，它是疑问副词，修饰动词短语“你这么想”。连这个都搞错，那它还能错成什么样？提交者：/u/stumpmtsr [链接] [评论]
+
+---
+
+Original:
+This is one of the reasons why I think AI detectors are a scam. GPTZero marked this sentence as high AI: "Why do you think that?" It said the word why is a conjunction!! No, it's an interrogative adverb, it's modifying the verb phrase, "do you think" If it's wrong with this, then what else can it be wrong with? submitted by /u/stumpmtsr [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qb7tdl</guid>
+      <pubDate>Mon, 12 Jan 2026 21:27:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>真高兴ChatGPT如此重视我的安全问题 / I'm just so glad chat GPT takes my safety seriously.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qbg8lv/im_just_so_glad_chat_gpt_takes_my_safety_seriously/</link>
+      <description>由用户/u/Parogarr提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Parogarr [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qbg8lv</guid>
+      <pubDate>Tue, 13 Jan 2026 03:14:34 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

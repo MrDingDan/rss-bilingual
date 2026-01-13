@@ -1,0 +1,206 @@
+{
+  "seen": {
+    "reddit-ai-agents::t3_1q6kv0f": 1768285344,
+    "reddit-ai-agents::t3_1qb905w": 1768285355,
+    "reddit-ai-agents::t3_1qap7ym": 1768285380,
+    "reddit-ai-agents::t3_1qbhfmc": 1768285390,
+    "reddit-ai-agents::t3_1qb9m44": 1768285402,
+    "reddit-ai-agents::t3_1qaqnyq": 1768285410,
+    "reddit-artificial::t3_1qbi32n": 1768285417,
+    "reddit-artificial::t3_1qbic9o": 1768285422,
+    "reddit-artificial::t3_1qbjd7r": 1768285440,
+    "reddit-artificial::t3_1qb5xxv": 1768285446,
+    "reddit-artificial::t3_1qae670": 1768285451,
+    "reddit-artificial::t3_1qb46h5": 1768285460,
+    "reddit-chatgpt::t3_1o6jins": 1768285469,
+    "reddit-chatgpt::t3_1nvea4p": 1768285478,
+    "reddit-chatgpt::t3_1qas6dn": 1768285494,
+    "reddit-chatgpt::t3_1qazi46": 1768285501,
+    "reddit-chatgpt::t3_1qb7tdl": 1768285508,
+    "reddit-chatgpt::t3_1qbg8lv": 1768285512,
+    "reddit-claudeai::t3_1pygdbz": 1768285525,
+    "reddit-claudeai::t3_1qb5r3y": 1768285540,
+    "reddit-claudeai::t3_1qbfbkf": 1768285554,
+    "reddit-claudeai::t3_1qb6gdx": 1768285572,
+    "reddit-claudeai::t3_1qawws1": 1768285579,
+    "reddit-claudeai::t3_1qbdk0q": 1768285586,
+    "reddit-openai::t3_1o8kmg9": 1768285602,
+    "reddit-openai::t3_1o1j23g": 1768285614,
+    "reddit-openai::t3_1qb7dg6": 1768285626,
+    "reddit-openai::t3_1qb79py": 1768285643,
+    "reddit-openai::t3_1qbd60s": 1768285651,
+    "reddit-openai::t3_1qbhvjb": 1768285667,
+    "reddit-bard::t3_1p0935y": 1768285682,
+    "reddit-bard::t3_11ys2mn": 1768285688,
+    "reddit-bard::t3_1qaxutj": 1768285696,
+    "reddit-bard::t3_1qb2ubn": 1768285703,
+    "reddit-bard::t3_1qb8t0e": 1768285707,
+    "reddit-bard::t3_1qbj1u2": 1768285711,
+    "reddit-askreddit::t3_1qb240z": 1768285716,
+    "reddit-askreddit::t3_1qb54df": 1768285721,
+    "reddit-askreddit::t3_1qau4uq": 1768285734,
+    "reddit-askreddit::t3_1qbgvsi": 1768285741
+  },
+  "translations": {
+    "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
+      "zh_title": "每周话题：项目展示",
+      "zh_summary": "每周分享你的AI智能体与LLM应用成果！获赞最多的项目将入选我们的每周精选简报。由 /u/help-me-grow 提交 [链接] [评论]"
+    },
+    "309a18bff8419c20329c6e4ecf7a642d75b80e3935062b071b3b0bb173b57335": {
+      "zh_title": "哪些文本转语音服务商真正适合语音助手？",
+      "zh_summary": "我一直在尝试为我父亲的业务开发一个语音助手，但反复遇到类似问题：服务延迟远达不到宣传效果，端到端延迟大约1-1.2秒。这实在太慢了，而且大多数服务商价格过高。有什么建议吗？提交者：/u/Veta_Exceptional [链接] [评论]"
+    },
+    "4ab33fd66e678039453436adf1cd080e5e433a9be456f057ae056fd3d64851cd": {
+      "zh_title": "谷歌发布UCP——自Stripe以来在线购物的最大变革",
+      "zh_summary": "谷歌刚刚宣布了UCP（Universal Commerce Protocol，通用商务协议），其影响远超名称所示。UCP是一项开放标准，让AI代理能够真正购买商品，而不仅仅是推荐。想象一下：从产品发现→结账→支付，全程可在谷歌搜索AI模式和Gemini等AI工具内完成。有趣的是，这不仅是谷歌的尝试。合作伙伴包括：Shopify、沃尔玛（Walmart）、塔吉特（Target）、Etsy、Visa、万事达卡（Mastercard）、Stripe、美国运通（AmEx）。为何重要：AI代理正成为买家，而非助手；结账页面和销售漏斗可能逐渐消失；谁控制了AI发现，谁就控制了商务。这仿佛是AI驱动购物领域的“Stripe时刻”。谷歌表示商家……"
+    },
+    "c530ead751cf20b52111e52f7d4ed4fd302d49083836270f5281e4fb787de6ed": {
+      "zh_title": "Firecrawl在大规模数据提取方面表现不佳",
+      "zh_summary": "最近，我在为一个RAG应用提取大量内容时，发现Firecrawl生成的Markdown片段导致向量数据库中的检索效果非常差。我真正需要的是大规模的结构化数据提取，而非Markdown格式。因此，我开发了一个工具，既能提取所需数据，又能在网站内容发生变化时及时通知用户。它的工作流程如下：1. 说明你需要提取哪些数据 2. 对任意URL执行数据提取 3. 工具监控这些数据的任何变动 4. 可通过webhook接收或GET方式获取由/u/Ready-Interest-1024提交的变更信息 [链接] [评论]"
+    },
+    "778d308df8e371ce9f362113201577d9339ff5a33de36d58f0b9c82020e0f96c": {
+      "zh_title": "照片能否比文本主密码更安全？",
+      "zh_summary": "大家好👋 我们正在开发一款采用全新思路的密码管理器，很想知道大家的看法。用户不再使用文本主密码，而是通过一张自选照片结合视觉层进行身份验证。理念很简单：识别比记忆更容易。无需死记硬背字符，只需辨认个性化内容。第二个争议点：密码永不存储。不加密、不哈希、不进保险库。密码通过密码学原语、设备端验证和端到端加密技术按需实时生成。即使发生数据泄露，也根本没有密码数据库可被窃取。这引发了一个实质性问题：如果你……"
+    },
+    "0bf14f6c2ca7b22b7b0489182a48ebec66a9471c1f2db8d33e6e4b49a795bf53": {
+      "zh_title": "AI智能体是否已为你替代了整个工作流程？如果是，具体是如何实现的？",
+      "zh_summary": "市场上AI智能体很多，但我觉得大多数还无法自主替代整个工作流程。实际上我发现，有时你花费的时间反而比手动完成全部工作更多。所以很好奇：AI智能体是否已经为你替代了整个工作流程？如果是，具体是如何实现的？ 提交者：/u/No-Marionberry8257 [链接] [评论]"
+    },
+    "776340e49c8172175b175d9a089c430847f85e88e26556be7b30ff6edb77d559": {
+      "zh_title": "五角大楼采用马斯克的Grok AI聊天机器人引发全球争议",
+      "zh_summary": "由 /u/esporx 提交 [链接] [评论]"
+    },
+    "6fa774a0a151d893e091cd768808bf7cb3cd0df7e4d483362796565d87ae766c": {
+      "zh_title": "Anthropic推出Cowork：无需编程技能也能使用Claude代码",
+      "zh_summary": "由用户/u/i-drake提交 [链接] [评论]"
+    },
+    "338f6da0936a37b6dd452bb258212026559abdbbf91fd7079523632f9e6a38d6": {
+      "zh_title": "每日AI快讯 2026年1月12日",
+      "zh_summary": "苹果与谷歌Gemini合作，为Siri引入AI功能。[1] Anthropic紧随OpenAI的ChatGPT Health之后，发布了医疗版Claude。[2] 现代汽车在CES上展示了会跳K-pop舞的机器狗和Atlas人形机器人。[3] 谷歌宣布了一项新协议，旨在利用AI智能体促进商业活动。[4] 来源：[1] https://www.mercurynews.com/2026/01/12/apple-teams-up-with-google-gemini-for-ai-powered-siri/ [2] https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/ [3] https://www.youtube.com/watch?v=G7oCXL4VxSE [4] https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/ 由 /u… 提交"
+    },
+    "03d54b03a11dbbf74e09a0f95a508e353be13725c6e8fc21c5fefcaead9a108a": {
+      "zh_title": "协同工作：Claude Code 助你高效完成剩余任务",
+      "zh_summary": "由 /u/eternviking 提交 [链接] [评论]"
+    },
+    "083c3fce713b671587e0bf05df5d935901e65f956de433b20daa9b8e20ffedca": {
+      "zh_title": "研究人员称，尽管面临限制，中国正逐步缩小与美国的科技差距",
+      "zh_summary": "由 /u/esporx 提交 [链接] [评论]"
+    },
+    "70868d91c6d168a3df9de5a5280855a4def09a52ebeb9708a502b14508c64073": {
+      "zh_title": "智能悖论：为何集中式AI遭遇“算力墙”，以及去中心化推理枢纽的解决方案",
+      "zh_summary": "随着我们迈向GPT-5.2及更高版本，美国集中式数据中心的能耗正成为物理层面的瓶颈。我的观点是：下一步并非追求“更大的模型”，而是通过智能路由连接区域化部署的专用推理枢纽。如果无法压缩模型规模，就必须优化用户访问路径。我想了解社区对LLM“边缘推理”的看法——未来会是单一的全球大脑，还是主权AI节点构成的碎片化网络？ 发布者：/u/Foreign-Job-8717 [链接] [评论]"
+    },
+    "dd72d571db7f4a358fa8e8328503835b8319801fec91954357922509a0c01799": {
+      "zh_title": "ChatGPT 更新说明",
+      "zh_summary": "此前我们为谨慎处理心理健康问题，对 ChatGPT 设置了较多限制。我们意识到这降低了许多无心理健康问题用户的使用体验，但鉴于该问题的严肃性，我们认为有必要这样做。目前，我们已能有效缓解严重的心理健康风险，并配备了新的工具，因此将在大多数情况下安全地放宽限制。几周后，我们计划推出新版 ChatGPT，允许用户设定更接近 4o 版本中广受欢迎的人格特质（我们希望新版会更出色！）。如果你希望 ChatGPT 以高度拟人的方式回应、使用大量表情符号，或表现得……"
+    },
+    "71838ffe0ac0e564c8219ef6279cd156d416e24013df017b399e904a1ef926aa": {
+      "zh_title": "GPT-4o/GPT-5 投诉集中讨论帖",
+      "zh_summary": "为保持本版块在Sora 2发布期间的版面整洁，特开设此集中讨论帖，供对GPT-4o停用感到不满的用户交流。给怀念4o用户的建议：可先通过这个计算器查看家用电脑能运行哪些本地模型。开源模型完全免费，下载后无需担心模型突然被改得不符合你的喜好。确定能在本地运行的模型及量化版本后，可前往HuggingFace平台下载。由用户/u/WithoutReason1729提交 [链接] [评论]"
+    },
+    "1636b2a2386afe3acf0e6f4a1183194a59b73bd40dc204e2977204885d2d4ba2": {
+      "zh_title": "这到底是什么玩意儿…",
+      "zh_summary": "由 /u/MukulIND 提交 [链接] [评论]"
+    },
+    "69cf3302cc94fe0ec757bdfcf133ea7284754a2518ed025e7f1d326be6149737": {
+      "zh_title": "🤨",
+      "zh_summary": "由 /u/Constant_Tough_6446 提交 [链接] [评论]"
+    },
+    "a73fbffd682ed7509c51d2ddf48abdd23e50dd0784b290ee9a24b1bb8d774dee": {
+      "zh_title": "AI检测器完全是骗局",
+      "zh_summary": "这就是我认为AI检测器是骗局的原因之一。GPTZero将这句话标记为高AI概率：“你为什么这么想？”它竟然说“为什么”这个词是连词！！不，它是疑问副词，修饰动词短语“你这么想”。连这个都搞错，那它还能错成什么样？提交者：/u/stumpmtsr [链接] [评论]"
+    },
+    "4261c410f8ff928ac44a1e2f8a2cdbc091127541447558a80f2ba6a542d2541c": {
+      "zh_title": "真高兴ChatGPT如此重视我的安全问题",
+      "zh_summary": "由用户/u/Parogarr提交 [链接] [评论]"
+    },
+    "0006ea887206182e4fc0ccf6aece71dc8c88183fab03432d29b2b5ce1b54ec55": {
+      "zh_title": "使用限制、Bug与性能讨论专帖 - 始于2025年12月29日",
+      "zh_summary": "为何设立性能、使用限制与Bug讨论专帖？本专帖通过汇集所有用户反馈，让大家随时了解他人的使用状况。重要的是，这将使本subreddit能够定期提供一份全面的AI生成总结报告，涵盖所有性能与Bug问题及使用体验，为包括Anthropic在内的所有人提供最大化的信息参考。同时，这也能腾出主版空间，让那些高效使用Claude的用户分享的精彩见解与创作获得更多关注。为何试图在此隐藏投诉？与先前专帖中某些说法相反，这里并非……"
+    },
+    "6fdbeabe64f45db094327bc5a2f55071213e0e9dad4b345d53d7f8dee698a479": {
+      "zh_title": "推出Cowork：Claude Code助力你的其他工作",
+      "zh_summary": "Cowork让你能像开发者使用Claude Code那样，轻松完成非技术任务。在Cowork中，你可以授权Claude访问电脑上的某个文件夹，Claude便能读取、编辑或创建其中的文件。设定任务后，Claude会制定计划并稳步执行，过程中随时与你保持沟通。在采取重要操作前，Claude会先征求你的意见，以便及时调整方向。Claude还能使用你现有的连接器（connectors），将其与外部信息源打通。对于需要浏览器操作的任务，你还可以将Cowork与Chrome中的Claude搭配使用。试试用Cowork来整理下载文件、将一堆截图整理成电子表格，或是把零散资料整合成初稿……"
+    },
+    "47838300b63420766fbb7deaabcc6385984dafe5e7f4f6f09db6cb85b26ee04e": {
+      "zh_title": "我司一位资深开发者正尝试搭建自动化流水线以取代现有开发人员…",
+      "zh_summary": "我们身处保险行业，这意味着我们的应用程序基本都是增删改查（CRUD）操作。公司在海外也有大量业务。这位同事正尝试利用Claude技能来解释我们的技术栈和业务领域，随后构建从JIRA到开发、测试、提交PR的自动化流程。目前公司有300名开发人员，他们主要的工作是领取JIRA任务单，根据需求进行开发并提交PR。考虑到保险业是成本敏感型行业，这种自动化流程导致大规模裁员的可能性有多大？ 发布者：/u/Mountain-Spend8697 [链接] [评论]"
+    },
+    "bab4199926cb71b9b501bad6c5e4e43ad54c5e00bb0dde4669035e697c690376": {
+      "zh_title": "Claude 刚刚推出 Cowork：面向非开发任务的 Claude 代码功能",
+      "zh_summary": "现在真的可以轻松办公了 :) Anthropic 刚刚发布了 Cowork——本质上是为非编程任务设计的 Claude 代码功能。所以，如果你一直在用 Claude 代码，并希望在日常工作中也能拥有同样智能的工作流，这就是了。Cowork 现已作为研究预览版，向 macOS 上的 Claude Max 订阅用户开放。你可以让 Claude 指向电脑上的某个文件夹，它就能在那里读取、编辑和创建文件，比普通聊天拥有更高的自主性。它会制定计划、执行任务，并在并行处理任务时随时向你汇报进度。他们给出的一些例子包括：∙ 自动整理下载文件夹 ∙ 根据截图创建电子表格 ∙ 根据零散笔记起草报告 它会与你协作……"
+    },
+    "7adcda6e1ba855e4911bc109b1acca9af8ff852507d67de9f98436d01efd0fd6": {
+      "zh_title": "让Claude完成所有工作，却在提交修改前将其从合著者中移除的行为如同",
+      "zh_summary": "由 /u/reversedu 提交 [链接] [评论]"
+    },
+    "5ae61d5bacb3c0702949fb356fac4816741b8e180939a2dfb33cf3fb0393d1b9": {
+      "zh_title": "Claude Cowork初体验视频：Cowork不可逆地删除了我11GB的文件💀",
+      "zh_summary": "之前拍摄了Claude Cowork与Claude Code的对比演示，但当Cowork执行了不可逆的rm -rf命令时，演示出了意外。是的，我知道它还在研究预览阶段。不，这些文件并不重要。:) 由/u/JamsusMaximus提交 [链接] [评论]"
+    },
+    "c323ea3c67ad7f944c700fa0dd25df1fc3d829a46dc7974bf2dbac70ee4b42d2": {
+      "zh_title": "Sora 2 大型讨论帖（第三部分）",
+      "zh_summary": "上一个帖子因达到10万条评论上限而关闭。请勿尝试购买邀请码，谨防受骗。请勿尝试出售邀请码，否则将面临永久封禁。我们已在Discord设置了机器人来分发邀请码，若在此处评论中找不到邀请码，请加入Discord并查看 #sora-invite-codes 频道。该频道持续发布大量可用邀请码！更新：由于大量用户涌入导致Discord误判为机器人攻击而锁定服务器，现正等待Discord解锁。也可查看Chambers平台上的大型讨论帖获取邀请信息。由 /u/WithoutReason1729 提交 [链接] [评论]"
+    },
+    "ea62bcb38147a2c4b11cd178ead2660c4b40eb04ace674175f48359918135086": {
+      "zh_title": "开发者日新品发布问答专场",
+      "zh_summary": "如今是成为开发者最好的时代。在开发者日[2025]上，我们推出了新一代工具和模型，帮助开发者更快地编写代码、更可靠地构建智能体，并在ChatGPT中扩展应用。欢迎就以下发布内容提问：AgentKit、Apps SDK、API中的Sora 2、API中的GPT-5 Pro、Codex。错过了我们的发布公告？观看回放：https://youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o&si=nSbLbLDZO7o-NMmo。加入我们的团队参与问答，了解更多信息，时间为周四太平洋时间上午11点。当前回答问题的成员有：Dmitry Pimenov - u/dpim、Alexander Embiricos - u/embirico、Ruth Costigan - u/ruth_on_reddit、Christina Huang - u/Brief-Detective-9368、Rohan Meh…"
+    },
+    "1c487f87b05ff2c458fed4002be0989f78abe88180d92c254fe568c47ffa1551": {
+      "zh_title": "苹果宣布下一代Siri将采用谷歌Gemini驱动，埃隆·马斯克对此表示不满",
+      "zh_summary": "据悉，苹果曾评估过Gemini、ChatGPT，可能还包括xAI的Grok。特斯拉CEO埃隆·马斯克在社交媒体平台X上发文称：“考虑到谷歌已拥有Android和Chrome，这似乎让谷歌获得了不合理的权力集中。”🤣 苹果与谷歌在联合声明中表示：“经过审慎评估，我们认为谷歌的技术能为苹果基础模型提供最强大的支持，并期待它为用户带来创新的新体验。”https://www.wcnc.com/article/news/nation-world/apple-google-gemini-siri-ai-features/507-575faa99-217e-498d-8f34-5455759113f8 由/u/jbcraigs提交 [链接] [评论]"
+    },
+    "19d1260a12660e7f024daec2934b98554163b9f2120232adbe04d5678d43ba14": {
+      "zh_title": "官宣了",
+      "zh_summary": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ 分发战争结束了吗？OpenAI 唯一可靠的长期护城河曾是：- 用户习惯养成 - 成为“你提问的首选地”。苹果曾是唯一足够大的分发商，能够：- 中和谷歌搜索的主导地位 - 并赋予 OpenAI 操作系统层面的引力。而现在：- 谷歌拥有了搜索 + Gemini + 苹果分发渠道 - OpenAI 则拥有 ChatGPT + API +…… 只能寄望于监管机构或 OEM 厂商让步。根据谷歌的说法：“如果你使用 iPhone 或 Mac，从 iOS 26.4（预计在 2026 年 3 月左右）开始，你可能会看到一个由 Gemini 驱动的‘重新构想的 Siri’。这个版本旨在理解你的个人情境，在……"
+    },
+    "6c9836e306017f54bc64b88daa31fa08d5136b5f398878d6b15fa15f0b806797": {
+      "zh_title": "Meta与OpenAI称已瓦解与以色列公司相关的舆论操控活动",
+      "zh_summary": "由用户/soalone34提交 [链接] [评论]"
+    },
+    "5aea2cfb3c389f2ebf4c39e850048a61e5b2bb174404340e694b4baea663b47f": {
+      "zh_title": "GPT-5.2 Pro智能体在MIT教授维护的基准库中创下新纪录",
+      "zh_summary": "我们开发了一款基于GPT-5.2 Pro的研究智能体，旨在攻克实验数学领域的问题，并计划在未来工作中将同一框架拓展至**计算物理学**。在首次部署中，该智能体在球体堆积问题（(n=11, N=432)）上取得了目前已知的最佳结果，该结果已通过Henry Cohn（MIT）维护的基准库验证。其策略成功突破了先前优化中难以解决的数值“卡滞”构型，将最佳已知余弦值提升至[ t ≈ 0.49422771 ]。值得注意的是，智能体仅通过约一小时的自主探索就实现了这一改进，优化了此前发现并……"
+    },
+    "22bbed5c89ba30c8a0b4170cc0db5fcd9662f7bf266b1f639ec1f0680f723e6b": {
+      "zh_title": "Gemini 3 Pro 模型卡发布",
+      "zh_summary": "https://preview.redd.it/2jw8t4tbzz1g1.png?width=897&format=png&auto=webp&s=9c141958e528c631397abe1665a68b918a787592 https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf -- 更新：原链接已失效，存档版本：https://archive.org/details/gemini-3-pro-model-card 由 /u/MrDher 提交 [链接] [评论]"
+    },
+    "eb525cf385820fb22efdfaf219248128ac30fb9ad882ccc6c1c604973bd13416": {
+      "zh_title": "✨/r/Bard Discord 服务器✨",
+      "zh_summary": "邀请链接：https://discord.gg/wqEFsfmusz 备用邀请：https://discord.gg/j6ygzd9rQy 由 /u/HOLUPREDICTIONS 提交 [链接] [评论]"
+    },
+    "3229f0d946ed90a34ae145876937d8a1596a75c56f56a8cedc61e0e57ab40a2f": {
+      "zh_title": "苹果确认谷歌Gemini将为新Siri功能提供支持 - 9to5Mac",
+      "zh_summary": "由 /u/Gaiden206 提交 [链接] [评论]"
+    },
+    "4b1e0e0fbacc6bb6fd146b0d1e78ae4b28f65f28a42458543e4cbc0e901d74dc": {
+      "zh_title": "AIStudio（AI工作室）不当内容屏蔽问题",
+      "zh_summary": "我目前遇到AIStudio（AI工作室）无故屏蔽内容的问题。即使回复“测试”这类简单内容也会被拦截，3.0专业版和极速版均受影响，而2.5专业版运行正常。是否有其他用户遇到类似情况？这导致3.0版本完全无法使用。发布者：/u/Shep_vas_Normandy [链接] [评论]"
+    },
+    "2efedbbbe3b6d65d39dca9b88b175fcd7ae9a7a8690b344a6ef9f86d127d40ff": {
+      "zh_title": "Gemini应用在不到两个月内生成10亿张Nano Banana Pro图像",
+      "zh_summary": "由/u/Gaiden206提交 [链接] [评论]"
+    },
+    "f7dce875749063aff20a7bedee77268aa34a57e176beaf88256719c9aac4b295": {
+      "zh_title": "苹果选择谷歌Gemini为今年推出的AI版Siri提供支持",
+      "zh_summary": "由用户/u/Abhi_mech007提交 [链接] [评论]"
+    },
+    "5de97e9dca5fc2f5d488047ddb4ea0296f4c529fcefe0bcc2558d8b2921b9385": {
+      "zh_title": "如果你私下认识移民海关执法局（ICE）探员，如今你们的关系如何？",
+      "zh_summary": "由用户 /u/Lokja 提交 [链接] [评论]"
+    },
+    "c893cdcfd00d116135f1610036ed4726e12577cf0436685f8173e5fc4199e201": {
+      "zh_title": "你对2026年最离谱、最疯狂的预测是什么，并且暗自相信它真的会发生？",
+      "zh_summary": "由 /u/Green_Salad1103 提交 [链接] [评论]"
+    },
+    "f1d14fc4fe97b3f789f0258229f414e8355f8392c38b7f31a5c2965892729745": {
+      "zh_title": "有哪些完全无害的事物，却会引发人们异常强烈的反应？",
+      "zh_summary": "由用户 /u/Psychological_Sky_58 提交 [链接] [评论]"
+    },
+    "16592b735c1f28bcb73cfbc06996099aba353c69ad4bda276ce9dd8d304f6ba5": {
+      "zh_title": "似乎人人都对90年代充满怀旧之情，但90年代有哪些糟糕之处？",
+      "zh_summary": "由 /u/HeavyRightFoot-TG 提交 [链接] [评论]"
+    }
+  }
+}

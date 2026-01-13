@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bilingual - reddit_claudeai</title>
+    <link>https://github.com/</link>
+    <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 13 Jan 2026 06:26:27 +0000</lastBuildDate>
+    <item>
+      <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
+      <description>为何设立性能、使用限制与Bug讨论专帖？本专帖通过汇集所有用户反馈，让大家随时了解他人的使用状况。重要的是，这将使本subreddit能够定期提供一份全面的AI生成总结报告，涵盖所有性能与Bug问题及使用体验，为包括Anthropic在内的所有人提供最大化的信息参考。同时，这也能腾出主版空间，让那些高效使用Claude的用户分享的精彩见解与创作获得更多关注。为何试图在此隐藏投诉？与先前专帖中某些说法相反，这里并非……
+
+---
+
+Original:
+Why a Performance, Usage Limits and Bugs Discussion Megathread? This Megathread makes it easier for everyone to see what others are experiencing at any time by collecting all experiences. Importantly , this will allow the subreddit to provide you a comprehensive periodic AI-generated summary report of all performance and bug issues and experiences, maximally informative to everybody including Anthropic . It will also free up space on the main feed to make more visible the interesting insights and constructions of those who have been able to use Claude productively. Why Are You Trying to Hide the Complaints Here? Contrary to what some were saying in a prior Megathread, this is NOT a place to…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1pygdbz</guid>
+      <pubDate>Mon, 29 Dec 2025 07:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>让Claude完成所有工作，却在提交修改前将其从合著者中移除的行为如同 / making claude do all the work and then removing it from co-author before commiting changes be like</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qawws1/making_claude_do_all_the_work_and_then_removing/</link>
+      <description>由 /u/reversedu 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/reversedu [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qawws1</guid>
+      <pubDate>Mon, 12 Jan 2026 14:52:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>推出Cowork：Claude Code助力你的其他工作 / Introducing Cowork: Claude Code for the rest of your work.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb5r3y/introducing_cowork_claude_code_for_the_rest_of/</link>
+      <description>Cowork让你能像开发者使用Claude Code那样，轻松完成非技术任务。在Cowork中，你可以授权Claude访问电脑上的某个文件夹，Claude便能读取、编辑或创建其中的文件。设定任务后，Claude会制定计划并稳步执行，过程中随时与你保持沟通。在采取重要操作前，Claude会先征求你的意见，以便及时调整方向。Claude还能使用你现有的连接器（connectors），将其与外部信息源打通。对于需要浏览器操作的任务，你还可以将Cowork与Chrome中的Claude搭配使用。试试用Cowork来整理下载文件、将一堆截图整理成电子表格，或是把零散资料整合成初稿……
+
+---
+
+Original:
+Cowork lets you complete non-technical tasks much like how developers use Claude Code. In Cowork, you give Claude access to a folder on your computer. Claude can then read, edit, or create files in that folder. Once you've set a task, Claude makes a plan and steadily completes it, looping you in along the way. Claude will ask before taking any significant actions so you can course-correct as needed. Claude can use your existing connectors, which link Claude to external information. You can also pair Cowork with Claude in Chrome for tasks that need browser access. Try Cowork to re-organize your downloads, create a spreadsheet from a pile of screenshots, or produce a first draft from scattered…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb5r3y</guid>
+      <pubDate>Mon, 12 Jan 2026 20:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude 刚刚推出 Cowork：面向非开发任务的 Claude 代码功能 / Claude just introduced Cowork: the Claude code for non-dev stuff</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb6gdx/claude_just_introduced_cowork_the_claude_code_for/</link>
+      <description>现在真的可以轻松办公了 :) Anthropic 刚刚发布了 Cowork——本质上是为非编程任务设计的 Claude 代码功能。所以，如果你一直在用 Claude 代码，并希望在日常工作中也能拥有同样智能的工作流，这就是了。Cowork 现已作为研究预览版，向 macOS 上的 Claude Max 订阅用户开放。你可以让 Claude 指向电脑上的某个文件夹，它就能在那里读取、编辑和创建文件，比普通聊天拥有更高的自主性。它会制定计划、执行任务，并在并行处理任务时随时向你汇报进度。他们给出的一些例子包括：∙ 自动整理下载文件夹 ∙ 根据截图创建电子表格 ∙ 根据零散笔记起草报告 它会与你协作……
+
+---
+
+Original:
+Vibe working is real now :) Anthropic just dropped Cowork - basically Claude Code for non-coding tasks So if you’ve been using Claude Code and wishing you could have that same agentic workflow for regular work stuff, this is it. Cowork is now available as a research preview for Claude Max subscribers on macOS. You point Claude at a folder on your computer, and it can read/edit/create files there with way more autonomy than a regular chat. It’ll make a plan, execute it, and keep you updated while it works through tasks in parallel. Some examples they gave: ∙ Auto-organizing your downloads folder ∙ Creating spreadsheets from screenshots ∙ Drafting reports from scattered notes It works with you…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qb6gdx</guid>
+      <pubDate>Mon, 12 Jan 2026 20:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork初体验视频：Cowork不可逆地删除了我11GB的文件💀 / Claude Cowork 1st impression video: Cowork irreversibly deleted 11GB of my files 💀</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbdk0q/claude_cowork_1st_impression_video_cowork/</link>
+      <description>之前拍摄了Claude Cowork与Claude Code的对比演示，但当Cowork执行了不可逆的rm -rf命令时，演示出了意外。是的，我知道它还在研究预览阶段。不，这些文件并不重要。:) 由/u/JamsusMaximus提交 [链接] [评论]
+
+---
+
+Original:
+Filmed a side-by-side comparison of Claude Cowork vs Claude Code earlier, but the demo went sideways when Cowork performed an irreversible rm -rf command. Yes, I know it's in Research Preview. No, the files weren't important. :) submitted by /u/JamsusMaximus [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbdk0q</guid>
+      <pubDate>Tue, 13 Jan 2026 01:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>我司一位资深开发者正尝试搭建自动化流水线以取代现有开发人员… / A senior developer at my company is attempting to create a pipeline to replace our developers…</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbfbkf/a_senior_developer_at_my_company_is_attempting_to/</link>
+      <description>我们身处保险行业，这意味着我们的应用程序基本都是增删改查（CRUD）操作。公司在海外也有大量业务。这位同事正尝试利用Claude技能来解释我们的技术栈和业务领域，随后构建从JIRA到开发、测试、提交PR的自动化流程。目前公司有300名开发人员，他们主要的工作是领取JIRA任务单，根据需求进行开发并提交PR。考虑到保险业是成本敏感型行业，这种自动化流程导致大规模裁员的可能性有多大？ 发布者：/u/Mountain-Spend8697 [链接] [评论]
+
+---
+
+Original:
+We are in the insurance space. Which means our apps are all CRUD operations. We also have a huge offshore presence. He’s attempting to create Claude skills to explain our stack and business domain. Then the pipeline is JIRA -&gt; develop -&gt; test -&gt; raise PR. We currently have 300 developers. Who mostly take jira tickets, build what is on the ticket, and raise the PR. How likely is it that this pipeline will lead to mass layoffs as our industry is a cost cutting industry? submitted by /u/Mountain-Spend8697 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qbfbkf</guid>
+      <pubDate>Tue, 13 Jan 2026 02:33:53 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
