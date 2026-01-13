@@ -6,7 +6,103 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:37:58 +0000</lastBuildDate>
+    <item>
+      <title>🫎LangSmith的实际应用 / 🫎LangSmith in the wild
+
+Cool to see developers sharing public links of their traces when they share...</title>
+      <link>https://x.com/hwchase17/status/1996979677777518931</link>
+      <description>🫎LangSmith的实际应用 看到开发者在分享新项目时公开他们的追踪链接，这真是太酷了！没有什么比直接查看智能体内部运行情况更好的了，这是理解智能体的绝佳方式 💬 4 🔄 2 ❤️ 36 👀 3644 📊 11 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+🫎LangSmith in the wild Cool to see developers sharing public links of their traces when they share new projects! Nothing better than seeing exactly whats going on under the hood of the agent, great way to understand an agent 💬 4 🔄 2 ❤️ 36 👀 3644 📊 11 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1996979677777518931</guid>
+      <pubDate>Fri, 05 Dec 2025 16:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们在 Terminal Bench 2 上对 DeepAgents CLI 进行了基准测试！ / We benchmarked DeepAgents CLI on Terminal Bench 2!
+
+See how it performs (on par with Claude Code) as...</title>
+      <link>https://x.com/hwchase17/status/1997015628180607096</link>
+      <description>我们在 Terminal Bench 2 上对 DeepAgents CLI 进行了基准测试！看看它的表现（与 Claude Code 相当）以及我们用于测试的开源设置 LangChain @LangChainAI 📊 在 Terminal Bench 2.0 上评估 DeepAgents CLI 📊 DeepAgents CLI 是一个基于 Deep Agents SDK 构建的编码代理，提供交互式终端界面，支持 shell 执行、文件系统工具和持久内存。它在实际任务中表现如何？我们进行了测试！在这篇博客文章中，我们涵盖：⚙️ DeepAgents CLI 是什么 📈 如何使用沙盒代理执行进行隔离评估 🔢 在 Terminal Bench 2.0 任务上的性能评估结果——得分 44.9% 和……
+
+---
+
+Original:
+We benchmarked DeepAgents CLI on Terminal Bench 2! See how it performs (on par with Claude Code) as well as the open source setup we used to do so LangChain @LangChainAI 📊 Evaluating DeepAgents CLI on Terminal Bench 2.0 📊 The DeepAgents CLI is a coding agent built on top of the Deep Agents SDK, offering an interactive terminal interface with shell execution, filesystem tools, and persistent memory. How well does it actually perform on real-world tasks? We put it to the test! In this blog post, we cover: ⚙️ What the DeepAgents CLI is 📈 How to run isolated evaluations with sandboxed agent execution 🔢 The results from evaluating performance across Terminal Bench 2.0 tasks - scores of 44.9% and…</description>
+      <guid isPermaLink="false">xgo-f299207d::1997015628180607096</guid>
+      <pubDate>Fri, 05 Dec 2025 18:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❓评估与可观测性在AI智能体与简单LLM应用中有何不同？ / ❓How are evals and observability different from AI agents compared to simpler LLM applications?
+
+Com...</title>
+      <link>https://x.com/hwchase17/status/1998176795737383033</link>
+      <description>❓评估与可观测性在AI智能体与简单LLM应用中有何不同？本周四，来和我与Nick一起探讨我们在实际中观察到的模式！活动将结合演示和最后的问答环节。https://t.co/XfOq4d2VPu 💬 6 🔄 10 ❤️ 68 👀 5640 📊 25 ⚡ Powered by xgo.ing
+
+---
+
+Original:
+❓How are evals and observability different from AI agents compared to simpler LLM applications? Come join me and Nick this Thursday as we discuss patterns we are seeing in the wild Will be a combo of presentation with a chunk of Q&amp;A at the end! https://t.co/XfOq4d2VPu 💬 6 🔄 10 ❤️ 68 👀 5640 📊 25 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998176795737383033</guid>
+      <pubDate>Mon, 08 Dec 2025 23:44:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>好话题 / good topic</title>
+      <link>https://x.com/hwchase17/status/1998192270366081256</link>
+      <description>好话题 Sherwood @realshcallaway @hwchase17 深度智能体的评估是个好话题 🔗 查看引用推文 💬 3 🔄 3 ❤️ 19 👀 6569 📊 6 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+good topic Sherwood @realshcallaway @hwchase17 Evals for deep agents is a good topic 🔗 View Quoted Tweet 💬 3 🔄 3 ❤️ 19 👀 6569 📊 6 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998192270366081256</guid>
+      <pubDate>Tue, 09 Dec 2025 00:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>让我想起：智能体（Agents）应该更有主见 作者：@Vtrivedy10 / Reminds me of: Agents should be more opinionated by @Vtrivedy10 
+
+https://t.co/evb6D39hJm</title>
+      <link>https://x.com/hwchase17/status/1998458835925905912</link>
+      <description>让我想起：智能体（Agents）应该更有主见 作者：@Vtrivedy10 vtrivedy.com/posts/agents-s… 💬 1 🔄 1 ❤️ 37 👀 11075 📊 12 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Reminds me of: Agents should be more opinionated by @Vtrivedy10 vtrivedy.com/posts/agents-s… 💬 1 🔄 1 ❤️ 37 👀 11075 📊 12 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998458835925905912</guid>
+      <pubDate>Tue, 09 Dec 2025 18:24:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦜认识Polly——你的智能体工程新AI助手 / 🦜Meet Polly - your new AI assistant for agent engineering
+
+We're launching Polly in LangSmith today...</title>
+      <link>https://x.com/hwchase17/status/1998809833693467100</link>
+      <description>🦜认识Polly——你的智能体工程新AI助手。今天我们已在LangSmith平台推出Polly。它能协助处理三种日益流行的智能体调试工作流：1. 调试追踪记录 2. 提示词优化建议 3. 对话分析 🧵 💬 17 🔄 15 ❤️ 63 👀 7752 📊 34 ⚡ 由xgo.ing提供支持
+
+---
+
+Original:
+🦜Meet Polly - your new AI assistant for agent engineering We're launching Polly in LangSmith today. It can help with three workflows that are becoming increasingly popular for debugging agents: 1. Debug a trace 2. Suggest prompt improvements 3. Analyze a conversation 🧵 💬 17 🔄 15 ❤️ 63 👀 7752 📊 34 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998809833693467100</guid>
+      <pubDate>Wed, 10 Dec 2025 17:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬分析对话 / 💬Analyze a conversation
+
+Agents often involve a lot of back and forth with the user - its not just ...</title>
+      <link>https://x.com/hwchase17/status/1998809837619286224</link>
+      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
+      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
+    </item>
     <item>
       <title>更多信息： / For more info:
 
@@ -25,20 +121,6 @@ We'...</title>
 Original:
 For more info: Blog on Polly: blog.langchain.com/debugging-deep… Video on Polly: youtube.com/watch?v=4Ox2gd… We're doing a webinar tmrw where we will talk more about Polly - join us there! luma.com/voz2b5h3 💬 0 🔄 0 ❤️ 10 👀 1211 📊 3 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::1998809838860861628</guid>
-      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬分析对话 / 💬Analyze a conversation
-
-Agents often involve a lot of back and forth with the user - its not just ...</title>
-      <link>https://x.com/hwchase17/status/1998809837619286224</link>
-      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
       <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
     </item>
     <item>

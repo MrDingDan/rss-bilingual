@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:35:59 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -582,6 +582,18 @@ Original:
 submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qc23bc</guid>
       <pubDate>Tue, 13 Jan 2026 20:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>请Anthropic给我们一个正常的语音输入功能 / Please anthropic just give us a normal voice input</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc2qbb/please_anthropic_just_give_us_a_normal_voice_input/</link>
+      <description>我实在不理解这个功能的设计逻辑。把ChatGPT做成桌面应用的唯一理由，就是能通过语音输入让你连续说话1到4分钟，让AI整理思路并执行操作。但这个语音输入各方面都很糟糕：默认设置居然是开启新对话，而且它作为操作系统上的一层实现。比如我口述内容后想插入链接，一点击浏览器，刚才口述的内容就全没了。它总是有延迟（至少动画效果如此），你根本不知道它是否已在工作。请Anthropic运用Claude Code技术，给我们一个正常的语音输入框。如果有人...
+
+---
+
+Original:
+I really don't understand the reasoning behind that feature. The ONLY reason to have ChatGPT as a desktop app is to have the voice input that let's you just talk for 1 to 4 minutes, have AI order your thoughts and do something with it. This voice input is just worse in every aspect. for some reason the default is to start a new chat it's implemented as a layer above your OS. So for example if I dictate something then want to put in a link or something and I click on my browser EVERYTHING I just dictated is gone. It is always delayed (or at least the animation is) so you have no idea if it is already working Please Anthropic use Claude Code and just give us a normal voice input field. If anyo…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc2qbb</guid>
+      <pubDate>Tue, 13 Jan 2026 20:42:28 +0000</pubDate>
     </item>
     <item>
       <title>项目知识库中的文件为何在中段被截断/丢失约百行内容？ / Files in project knowledge truncating around the middle/losing around a hundred lines?</title>

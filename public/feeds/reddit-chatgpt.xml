@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:49:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:35:50 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -612,6 +612,30 @@ Original:
 submitted by /u/HrodnandB [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qc2fom</guid>
       <pubDate>Tue, 13 Jan 2026 20:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>我的ChatGPT在对话中突然开始引用冯兹（Fonzie）的话……可我压根没提过冯兹，当时正在问关于小猫的事。 / My chatgpt suddenly started quoting Fonzie at me in a conversation... I've not once mentioned Fonzie, ever. I was asking about a kitten.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc3f9u/my_chatgpt_suddenly_started_quoting_fonzie_at_me/</link>
+      <description>由用户 /u/whatshisfaceboy 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/whatshisfaceboy [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc3f9u</guid>
+      <pubDate>Tue, 13 Jan 2026 21:08:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>绕过img.gen工具，直接用5.2T代码块构建像素精灵 / Bypassing img.gen tool to build sprites directly with 5.2T code blocks</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qc43u9/bypassing_imggen_tool_to_build_sprites_directly/</link>
+      <description>我使用5.2T模型，让它通过matplotlib绘制像素艺术，而非标准的图像生成工具。我发现5.2T用这种方法变得出奇地能干，使其成为创建风格统一精灵图的可行工具。以下截图展示了原创GPT概念与热门粉丝圈作品的混合。提示语：生成8个微型matplotlib像素艺术生物（每个16x16像素）。要求可爱且各不相同。使用不同颜色。可上网寻找灵感。确保像素平滑、多样、色彩丰富、富有魅力。由/u/Mary_ry提交 [链接] [评论]
+
+---
+
+Original:
+I took the 5.2T model and asked it to draw pixel art using matplotlib instead of the standard image generation tool. I’ve noticed that 5.2T has become surprisingly capable at this method, making it a viable tool for creating consistent sprites. The screenshots below show a mix of original GPT concepts and collections from popular fandoms. Prompt: Generate 8 tiny matplotlib pixel-art creatures (16x16 each). Make them kawaii and different. Use different colors. You may surf the web for inspiration. Make pixels smooth, different, colorful, charismatic. submitted by /u/Mary_ry [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qc43u9</guid>
+      <pubDate>Tue, 13 Jan 2026 21:34:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

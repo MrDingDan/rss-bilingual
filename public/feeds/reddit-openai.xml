@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:36:12 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -607,6 +607,30 @@ Original:
 Do you have that too? You keep losing laborious recordings in transcription... submitted by /u/Prestigiouspite [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc37fz</guid>
       <pubDate>Tue, 13 Jan 2026 21:00:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>让ChatGPT出美食测试题——这是否能证明它其他答案的可靠性？ / Asked ChatGPT for a food quiz - is this a testament to other answers it might give?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc4iyn/asked_chatgpt_for_a_food_quiz_is_this_a_testament/</link>
+      <description>几乎每道题都完全不对，而且图片里的品牌标识测试直接把答案全给出来了 😂 这可不是它最出色的作品，由 /u/cyberlounge 提交 [链接] [评论]
+
+---
+
+Original:
+Almost every question was completely incorrect, and the logo quiz gave all the answers in the images 😂 Not it’s finest work submitted by /u/cyberlounge [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc4iyn</guid>
+      <pubDate>Tue, 13 Jan 2026 21:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>有人知道是否有类似这个的替代选项吗？👇（提示词或其他大语言模型） / Does anyone know if there are similar options to this? 👇 (Prompt or other LLMS)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc4n72/does_anyone_know_if_there_are_similar_options_to/</link>
+      <description>我们在DeepGame层面已经有一些东西了（就是那个从GPT商店消失的旧版本，它在第四代模型时期有过超过100万次对话）。可能是其他AI或提示词方案，在2026年初我们有什么可用的吗？由 /u/Ok-Wealth4207 提交 [链接] [评论]
+
+---
+
+Original:
+We already have something at the DeepGame level (the old one that disappeared from the store of GPTs, it had more than 1 million conversations during the 4th model era). It could be other AIs or Prompts, do we have something in this early 2026? submitted by /u/Ok-Wealth4207 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc4n72</guid>
+      <pubDate>Tue, 13 Jan 2026 21:54:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

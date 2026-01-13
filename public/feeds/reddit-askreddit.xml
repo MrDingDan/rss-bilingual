@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:36:28 +0000</lastBuildDate>
     <item>
       <title>有哪些完全无害的事物，却会引发人们异常强烈的反应？ / What’s a totally harmless thing that triggers an oddly strong reaction in people?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qau4uq/whats_a_totally_harmless_thing_that_triggers_an/</link>
@@ -606,6 +606,18 @@ Original:
 submitted by /u/-Hiko- [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qc324z</guid>
       <pubDate>Tue, 13 Jan 2026 20:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>面对世界这团糟，有哪些事让你对未来保持乐观？ / With the absolute trash fire state of the world, what are some things that make you optimistic about the future?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc3pa3/with_the_absolute_trash_fire_state_of_the_world/</link>
+      <description>由用户 /u/-LevelsJerryLevels- 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/-LevelsJerryLevels- [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc3pa3</guid>
+      <pubDate>Tue, 13 Jan 2026 21:19:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 21:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:35:35 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -618,6 +618,18 @@ Original:
 Have anyone tried using 2 different llms on every step of workflow, maybe something like 1 model doing the real work and 2nd as a critique, verifying it. If individual llm has 98% accuracy, we should get 99.96 on each step, this probably should should significantly increase accuracy on 20+ step flows and be reliable, so anyone tried something similar what was the result? In addition we can do things like, at every step we give context on 2-3 further steps and goal so, llm accordingly generates output, plus well summarize past steps info so to keep context window short. submitted by /u/Direct_Head312 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc4bkm</guid>
       <pubDate>Tue, 13 Jan 2026 21:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>我真的需要一个框架吗？ / Do I really need a framework?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc5gdw/do_i_really_need_a_framework/</link>
+      <description>我凭直觉编写了一个具备自主能力的应用程序。它能根据触发器执行操作，并通过启发式分析决定采取何种行动。它能正常运行，也具备自主性。我事先并没有考虑要使用哪种框架。那么，不采用框架我错过了什么？由 /u/Future-Field 提交 [链接] [评论]
+
+---
+
+Original:
+I vibecoded an agentic application. It does things based on triggers, and decides what actions to take based on a heuristic analysis. It works. It's agentic. I didn't llthink before hand about what kind of framework to use. What have I missed by not using one? submitted by /u/Future-Field [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc5gdw</guid>
+      <pubDate>Tue, 13 Jan 2026 22:24:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
