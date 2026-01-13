@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:36:50 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -558,6 +558,42 @@ Original:
 For the past year, I've seen so many "no code" agent builders enter the market. Initially, I felt excited, but then I started using them. Despite all of these products claiming to be "no code" or "low code," there's actually a fairly steep learning curve to all of them. For example, take n8n. Building a simple receipt categorization app - taking receipts from your email and adding it to a spreadsheet - takes like 3 hours. It feels like the popularity of n8n is sustained by the army of AI consultants who are already experienced using n8n, and therefore use it for all their workflows. IMO, it doesn't need to be this way. LLMs have gotten good enough to build these workflows automatically, with…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc0yhj</guid>
       <pubDate>Tue, 13 Jan 2026 19:37:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>反向新闻推送的AI智能体浏览器 / Ai agent browser that is a reverse news(paper) feed</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc1amx/ai_agent_browser_that_is_a_reverse_newspaper_feed/</link>
+      <description>是时候拥有一个推送你想要、而非他人替你筛选的新闻源了吗？这款智能体浏览器能搜索网络、选择你的兴趣点、按需整理，并为你呈现内容概要。这与传统报纸的做法正好相反。在社区层面，它还能匹配志同道合的人，由/u/elwoodowd提交 [链接] [评论]
+
+---
+
+Original:
+Is it time for a feed that brings you the news you want, not the news selected for you? An agent browser that searches the web, choses your interests, curates it to your use, and presents you an outline of it. The opposite of what papers did. For community, it could match up, like minded people submitted by /u/elwoodowd [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc1amx</guid>
+      <pubDate>Tue, 13 Jan 2026 19:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>是否有类似Cline的CUA项目，下载后可直接使用并能连接本地llama.cpp服务器？ / Are there any CUA projects similar to Cline that can be used directly after downloading and can connect to the local llama.cpp server</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc1ztm/are_there_any_cua_projects_similar_to_cline_that/</link>
+      <description>我尝试按照CUA和Qwen3-VL的计算机使用文档进行部署，但实际效果似乎总是不如Cline。（我大部分代码都看不懂，只能依赖在线AI来编写和理解/u/BitOk4326提交的代码[链接][评论]）
+
+---
+
+Original:
+I tried to deploy it using the computer use documentation of CUA and Qwen3-VL, but the actual effect always seems to be not as good as that of Cline. (I can't understand most of the code and have to rely on online AI to write and understand code submitted by /u/BitOk4326 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc1ztm</guid>
+      <pubDate>Tue, 13 Jan 2026 20:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>我想学习AI智能体开发与自动化技术，有什么建议？该如何入门？ / I Want to learn Development of AI agents, automations Any suggestions? How to go about it?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc2e6n/i_want_to_learn_development_of_ai_agents/</link>
+      <description>如题所示，我想学习AI智能体开发和自动化技术。虽然我对编程一无所知，但了解人工智能与机器学习（AIML）所需的数学知识。请问该如何着手？关于AI智能体开发，是否有推荐的学习资源？另外，我也想学习相关的计算机语言，希望能全面掌握。提交者：/u/Ill-Lawfulness2129 [链接] [评论]
+
+---
+
+Original:
+As the title says, want to learn Ai agents development, automations, i know nothing about coding and all though i know the maths required for AIML Please suggest how to go about it? With AI agents development Any resources to learn about any computer language i want to learn it all submitted by /u/Ill-Lawfulness2129 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc2e6n</guid>
+      <pubDate>Tue, 13 Jan 2026 20:29:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:38:38 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -30,6 +30,30 @@ Original:
 Hello everyone! It's that time of the year again where I'll be away for a while. I really wanted to release the Tasker RC before Christmas, but I thought it would be a bit too risky because if anything goes wrong with the release I wouldn't be here to fix it. To compensate, I spent the past 3 days working on something that's cool by itself (at least IMO 😅) but can also be great for Tasker's future! Here's my gift to you: ADB Command Center Here's a demo video: https://youtu.be/PSNmHfQ8BIY This new app allows you to seamlessly connect to ADB Wifi directly on your phone, without the need for a PC and then run shell commands with elevated privileges! This means that you can now easily do privil…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1pqi34p</guid>
       <pubDate>Fri, 19 Dec 2025 10:44:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何应对安卓系统更新频繁导致功能失效的问题？ / How do you cope with android updates breaking things, all the time?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q7678i/how_do_you_cope_with_android_updates_breaking/</link>
+      <description>说实话，我最近有点沮丧。感觉安卓生态里不少知名厂商似乎总在阻止我们实现自动化操作。好不容易搭建好复杂的自动化流程，下一次安卓系统更新总会出问题——无论是WiFi或蓝牙触发的API变更，还是其他改动。大家是如何应对这种需要反复重建自动化流程的情况呢？ 由 /u/voxcon 提交 [链接] [评论]
+
+---
+
+Original:
+Hi, I'll be honest, i'm a bit frustrated. Recently i have the feeling that many known players in the android world are constantly trying to prevent us from being able to automate things. Once you get your complex automations working it's just a matter of time before the next android update breaks things, being it an API change for Wifi or Bluetooth triggers or something else. So how do you cope with this and the need for having to rebuild your automations over and over again. submitted by /u/voxcon [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q7678i</guid>
+      <pubDate>Thu, 08 Jan 2026 08:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>能否用Tasker根据拍摄地点重命名视频？ / Anyway to rename videos using tasker based on the location it was taken?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1q7c3qg/anyway_to_rename_videos_using_tasker_based_on_the/</link>
+      <description>能否用Tasker根据拍摄地点重命名视频？由/u/upnextcanada提交 [链接] [评论]
+
+---
+
+Original:
+Anyway to rename videos using tasker based on the location it was taken? submitted by /u/upnextcanada [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1q7c3qg</guid>
+      <pubDate>Thu, 08 Jan 2026 13:42:20 +0000</pubDate>
     </item>
     <item>
       <title>Tasker 6.6.17-rc版本出现严重任务积压问题 / Tasker 6.6.17-rc Getting Backed-Up Severely</title>

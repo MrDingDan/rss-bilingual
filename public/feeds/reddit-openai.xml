@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:38:02 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -511,6 +511,78 @@ Original:
 We’ve been running some stress tests on GPT-5.2’s function calling capabilities. Interestingly, even at temperature 0, we see a 2% variance in parameter extraction when the tool definitions are similar. In a production environment where we handle thousands of calls, this 2% is a nightmare for reliability. We’re moving towards a dual-pass validation system (one model to extract, another to verify). Is anyone else seeing this "schema drift" in 5.2, or have you found a way to "harden" the function definitions? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc0kj7</guid>
       <pubDate>Tue, 13 Jan 2026 19:22:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>法官敲定马斯克（Musk）与奥特曼（Altman）对决的庭审日期 / Judge sets trial date for Musk vs Altman showdown</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc1c9m/judge_sets_trial_date_for_musk_vs_altman_showdown/</link>
+      <description>由 /u/businessinsider 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/businessinsider [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc1c9m</guid>
+      <pubDate>Tue, 13 Jan 2026 19:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2 JSON模式在处理外文字符和不换行空格时出现编码错误（对比4o-mini版本） / GPT-5.2 JSON Mode encoding errors with foreign characters and NBSP (vs 4o-mini)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc1k4y/gpt52_json_mode_encoding_errors_with_foreign/</link>
+      <description>背景：我正在运行一个高并发的翻译处理流程，目标是使用 response_format={"type": "json_object"} 输出法语文本。问题：GPT-5.2 会产生编码异常并违反语法规则，而 4o-mini 版本能正确处理。不换行空格问题：模型输出字面字符串 "a0" 代替不换行空格（例如输出 "12a0000a0PCB" 而非 "12 000 PCB"）。字符丢失：它会删除或损坏标准的法语重音符号（如 é、è、à）。语法退步：忽略基本的省音规则（例如输出 "lavantage" 而非 "l'avantage"）。排查步骤：测试 gpt-4o-mini 版本：完全正常。温度参数调整：在 0 到 0.7 之间切换未见改善。
+
+---
+
+Original:
+Context: I am running a high-concurrency translation pipeline. The goal is outputting French text using response_format={"type": "json_object"} . The Issue: GPT-5.2 is hallucinating encoding artifacts and failing grammar rules that 4o-mini handles correctly. Non-breaking spaces: The model outputs literal "a0" strings in place of non-breaking spaces (e.g., outputs "12a0000a0PCB" instead of "12 000 PCB"). Character stripping: It strips or corrupts standard French accents (é, è, à). Grammar regression: Basic elision rules are ignored (e.g., "lavantage" instead of "l'avantage"). Troubleshooting: Tested gpt-4o-mini : Works perfectly. Temperature settings: Toggled between 0 and 0.7 with no change.…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc1k4y</guid>
+      <pubDate>Tue, 13 Jan 2026 19:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plano v0.4.2：通用v1/responses接口 + 信号功能（用于持续改进的追踪采样） / Plano v0.4.2: universal v1/responses + Signals (trace sampling for continuous improvement)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc1kw8/plano_v042_universal_v1responses_signals_trace/</link>
+      <description>大家好——很高兴发布Plano 0.4.2版本，新增了对任意大语言模型（LLM）的通用v1/responses API支持，以及信号（Signals）功能。前者顾名思义（这是一个通用v1/responses API，可用于任何LLM，并通过PostgreSQL支持状态管理），而后者则是独特的新特性。问题在于：智能体应用（即那些能够规划、调用工具并在多轮交互中迭代的LLM驱动系统）一旦部署，便难以改进。离线评估流程依赖人工挑选测试用例和手动检查，而生产环境中的可观测性则会产生海量追踪数据，却缺乏明确的问题定位指引（更不用说如何修复了）。解决方案：Plano信号是一种……
+
+---
+
+Original:
+Hey peeps - excited to launch Plano 0.4.2 - with support for a universal v1/responses API for any LLM and support for Signals. The former is rather self explanatory (a universal v1/responses API that can be used for any LLM with support for state via PostgreSQL), but the latter is something unique and new. The problem Agentic applications (LLM-driven systems that plan, call tools, and iterate across multiple turns) are difficult to improve once deployed. Offline evaluation work-flows depend on hand-picked test cases and manual inspection, while production observability yields overwhelming trace volumes with little guidance on where to look (not what to fix). The solution Plano Signals are a…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc1kw8</guid>
+      <pubDate>Tue, 13 Jan 2026 19:59:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas代理模式 #失败 / Atlas agent mode #fail</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc1ugl/atlas_agent_mode_fail/</link>
+      <description>好吧，到底怎样才算成功使用Atlas代理模式呢？目前我感觉唯一真正能用的方式就是让代理不停点击页面。虽然它已经在运行了，但这样真的对我有帮助吗？我并没有要求它做什么复杂任务，但按理说它应该能完成比如用谷歌搜索“西红柿”，然后登录我的谷歌表格页面记录相关信息这类操作。可实际上，如果不止是机械点击，它基本上就会失败，而且必须停留在同一个页面。有人用得更顺利吗？还是我要求太高了？ 发布者：/u/Electronic-Blood-885 [链接] [评论]
+
+---
+
+Original:
+OK, what is the successful way to use Atlas agent mode because as of right now I feel like the only way to really use. This is to have the agent click on the pages. I already am on but at the point is it really doing me any benefit I don’t ask you to do anything major, but you would think it would have the ability to be able to do a Google search for tomatoes and then log into my Google sheets page and information about tomatoes, but it seems like if it’s not just click click click it basically fails and it has to stay on the same page. Does anyone have more success or am I just asking too much? submitted by /u/Electronic-Blood-885 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc1ugl</guid>
+      <pubDate>Tue, 13 Jan 2026 20:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 正处在其多彩 iMac 阶段 / OpenAI is in its Colorful iMac Phase</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc226z/openai_is_in_its_colorful_imac_phase/</link>
+      <description>一位从未用过大语言模型、只想找烘焙食谱的足球妈妈，会乐于听到她用营养酵母替代奶酪的做法堪称天才。OpenAI 正在体育节目（大众观看最多的电视内容之一）中投放广告，推广健身计划生成功能——而早在很久以前，这个细分领域就已探索过此类用例。这感觉像是 ChatGPT 正转向更广泛的普通消费者用户群。不断的赞美、默认的确认偏误，这些都是对多数人有效的心理策略。但这种迎合……产品的简化……对“专业用户”来说却是障碍。我不需要这些。我想要……
+
+---
+
+Original:
+A soccer mom who’s never used an LLM and needs a baking recipe would love to hear she’s a genius for substituting cheese with nutritional yeast. OpenAI is running commercials during sports programming (some of the most watched TV by gen population) for work-out routine generation when everyone is this sub explored those kinds of use cases what now feels like forever ago. It feels like ChatGPT is moving towards a larger generalized consumer user base. The constant compliments. The confirmation bias by default. These are psychological tactics that do work on most the population. But this pandering… the dumbing down of the product… they’re hurdles for “pro users.” I don’t need that shit. I want…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc226z</guid>
+      <pubDate>Tue, 13 Jan 2026 20:17:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>万无一失 / Nothing could go wrong</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc2b0f/nothing_could_go_wrong/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc2b0f</guid>
+      <pubDate>Tue, 13 Jan 2026 20:26:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

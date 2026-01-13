@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:38:12 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -402,6 +402,18 @@ Original:
 Just got the prompt to enable the new Gemini features in Gmail (the AI Overviews for threads and the new priority inbox). I’ve been testing it for a few hours. On one hand, having it summarize a 50-email thread with contractors was genuinely useful; it found a quote I missed. On the other hand, seeing it "read" my inbox so proactively feels... weird? For those who have it: Are you actually using the "Help me write" for personal emails, or just work? Has anyone caught it hallucinating a detail in an important email yet? Curious if this is a "keep enabled" or "hard pass" for you guys. submitted by /u/IT_Certguru [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qbytvw</guid>
       <pubDate>Tue, 13 Jan 2026 18:21:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Nano香蕉专业版疯狂提示词 / Gemini Nano Banana Pro Crazy Prompt</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qc2ach/gemini_nano_banana_pro_crazy_prompt/</link>
+      <description>大家好，希望你们会喜欢这个提示词。提示词如下：一张全身、高分辨率的编辑照片，拍摄一位站在现代室内楼梯上的年轻成年女性，采用干净、当代的现实主义风格捕捉。画面感觉像在真实建筑空间中拍摄的精致生活方式或时尚照片，基调写实、观察性强，而非过度风格化。人物描述：一位年轻女性，面部特征匀称自然，表情沉着自信。她的脸部光线柔和，皮肤纹理清晰，轮廓自然，妆容淡雅以突显而非改变原有样貌——眉毛清晰，唇色中性，眼部轻微强调。她的目光正越过肩膀向后望去……
+
+---
+
+Original:
+Hii guys hopefully you will enjoy this prompt. Prompt 👇 A full-body, high-resolution editorial photograph of a young adult woman standing on a modern indoor staircase, captured with clean, contemporary realism. The image feels like a polished lifestyle or fashion photograph taken in a real architectural space, grounded and observational rather than stylized. Subject Description A young woman with balanced, natural facial features and a composed, confident expression. Her face is softly lit, with clear skin texture, natural contours, and subtle makeup that enhances rather than transforms—defined brows, neutral lips, and lightly emphasized eyes. Her gaze is directed back over her shoulder towa…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qc2ach</guid>
+      <pubDate>Tue, 13 Jan 2026 20:25:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

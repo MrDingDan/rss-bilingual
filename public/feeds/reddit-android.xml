@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:38:26 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -306,6 +306,18 @@ Original:
 submitted by /u/RaguSaucy96 [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qbxvcp</guid>
       <pubDate>Tue, 13 Jan 2026 17:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>日经亚洲：谷歌将在越南研发制造高端智能手机 / Google to develop, manufacture high-end smartphones in Vietnam, Nikkei Asia says</title>
+      <link>https://www.reddit.com/r/Android/comments/1qc25wx/google_to_develop_manufacture_highend_smartphones/</link>
+      <description>由用户 /u/FragmentedChicken 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FragmentedChicken [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qc25wx</guid>
+      <pubDate>Tue, 13 Jan 2026 20:21:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

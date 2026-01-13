@@ -6,7 +6,85 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:40:21 +0000</lastBuildDate>
+    <item>
+      <title>智能体是压缩文件？ / Agents are zip files?</title>
+      <link>https://x.com/hwchase17/status/2003715230120173737</link>
+      <description>智能体是压缩文件？Shreyans Bhansali（@askcodi @hwchase17）兄弟，我们都想要一个整洁的小压缩文件，能瞬间生成一整支智能体小队 🔗 查看引用推文 💬 5 🔄 1 ❤️ 12 👀 6624 📊 7 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Agents are zip files? Shreyans Bhansali @askcodi @hwchase17 bro we all want a neat lil zip file that spawns a whole agent squad 🔗 View Quoted Tweet 💬 5 🔄 1 ❤️ 12 👀 6624 📊 7 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2003715230120173737</guid>
+      <pubDate>Wed, 24 Dec 2025 06:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>非常喜欢 @opencode 的智能体规范：https://t.co/iypH9WacnJ / really like the agent spec from @opencode: https://t.co/iypH9WacnJ
+
+key feature i like (that as far ...</title>
+      <link>https://x.com/hwchase17/status/2003922408240304245</link>
+      <description>非常喜欢 @opencode 的智能体规范：opencode.ai/docs/agents/。我欣赏的一个关键特性（据我所知，Claude Code 和其他工具目前都不支持）是：能够将这里定义的智能体用作主智能体或子智能体。而 Claude Code 等工具只允许将智能体用作子智能体。如果我想把 Claude Code 改造成一个擅长编写 LangGraph 代码的智能体，我不需要子智能体，我想要的正是这样的功能。💬 15 🔄 19 ❤️ 299 👀 14905 📊 91 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+really like the agent spec from @opencode : opencode.ai/docs/agents/ key feature i like (that as far as i know claude code doesnt support, nor do others): the ability to use an agent defined here as the main agent OR as a subagent cc and others only let you use an agent as a subagent. if i want to turn cc into an agent that is really good at writing langgraph code, i dont want a subagent, i want something like this 💬 15 🔄 19 ❤️ 299 👀 14905 📊 91 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2003922408240304245</guid>
+      <pubDate>Wed, 24 Dec 2025 20:15:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>@thdxr 你是否考虑过让这里的智能体（agent）不只是个Markdown文件？我的使用场景是希望定义一个拥有专属技能、专属MCPs（模型上下文协议），甚至专属子智能体的智能体。虽然我看到一些类似功能的支持（例如 opencode.ai/docs/skills/#o…），但我觉得如果能让一个智能体成为一个文件夹之类的形式，把智能体专属的内容放在里面，会不会更模块化、更便于移植？💬 3 🔄 2 ❤️ 19 👀 4030 📊 9 ⚡ 由 xgo.ing 驱动 / @thdxr did you ever consider making agents here more than just a markdown file? use case being i wan...</title>
+      <link>https://x.com/hwchase17/status/2003924165100032083</link>
+      <description>@thdxr 你是否考虑过让这里的智能体（agent）不只是个Markdown文件？我的使用场景是希望定义一个拥有专属技能、专属MCPs（模型上下文协议），甚至专属子智能体的智能体。虽然我看到一些类似功能的支持（例如 opencode.ai/docs/skills/#o…），但我觉得如果能让一个智能体成为一个文件夹之类的形式，把智能体专属的内容放在里面，会不会更模块化、更便于移植？💬 3 🔄 2 ❤️ 19 👀 4030 📊 9 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+@thdxr did you ever consider making agents here more than just a markdown file? use case being i want to define an agent with own skills, own mcps, even own subagents i can see some support for things like this (eg opencode.ai/docs/skills/#o… ) but imo letting an agent be a folder or something and putting agent specific things there would be more modular and portable? 💬 3 🔄 2 ❤️ 19 👀 4030 📊 9 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2003924165100032083</guid>
+      <pubDate>Wed, 24 Dec 2025 20:22:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>想了解你今年如何使用AI吗？ / Want to get insights into how you used AI this year?
+
+🎁AI Wrapped 2025 is an agent that analyzes yo...</title>
+      <link>https://x.com/hwchase17/status/2006040402122461402</link>
+      <description>想了解你今年如何使用AI吗？🎁AI Wrapped 2025 是一个智能代理，它能分析你与Claude/ChatGPT的对话，并展示不同的聚类和子聚类。点击这里试试：wrapped.langchain.com H 💬 3 🔄 3 ❤️ 21 👀 6151 📊 10 ⚡ 由 xgo.ing 提供支持。
+
+---
+
+Original:
+Want to get insights into how you used AI this year? 🎁AI Wrapped 2025 is an agent that analyzes your conversations with Claude/ChatGPT and surfaces different clusters and subclusters Try it out here: wrapped.langchain.com H 💬 3 🔄 3 ❤️ 21 👀 6151 📊 10 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2006040402122461402</guid>
+      <pubDate>Tue, 30 Dec 2025 16:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>底层原理：这与LangSmith中的洞察智能体相同 / Under the hood this is the same insights agent inside LangSmith
+
+It's based on the Anthropic CLIO pa...</title>
+      <link>https://x.com/hwchase17/status/2006040627923017991</link>
+      <description>其底层原理与LangSmith中的洞察智能体相同，基于Anthropic的CLIO论文：anthropic.com/research/clio。LangChain（@LangChainAI）🎁AI年度总结2025：今年你实际用ChatGPT和Claude做了什么？（诚实回答）LangSmith洞察智能体能分析你的对话历史，揭示你未曾察觉的模式、趋势和异常聚类。在你的数据上试试：https://t.co/TzMF8fjGl3 🔗 查看引用推文 💬 0 🔄 0 ❤️ 8 👀 4326 📊 3 ⚡ 由xgo.ing驱动
+
+---
+
+Original:
+Under the hood this is the same insights agent inside LangSmith It's based on the Anthropic CLIO paper: anthropic.com/research/clio LangChain @LangChainAI 🎁AI Wrapped 2025 What did you actually use ChatGPT &amp; Claude for this year? (Be honest) LangSmith Insights agent can analyze your conversation history and surface the patterns, trends, and weird clusters you didn't know existed Try on your data: https://t.co/TzMF8fjGl3 🔗 View Quoted Tweet 💬 0 🔄 0 ❤️ 8 👀 4326 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2006040627923017991</guid>
+      <pubDate>Tue, 30 Dec 2025 16:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>正是如此 / Yes exactly</title>
+      <link>https://x.com/hwchase17/status/2006041609255735762</link>
+      <description>正是如此 COSMO KAPPA @cosmo_kappa @hwchase17 所以我能够导出类似Claude或GPT的完整历史记录。你是这个意思吗？我甚至不知道还有这个功能。🔗 查看引用推文 💬 0 🔄 0 ❤️ 4 👀 4704 📊 1 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Yes exactly COSMO KAPPA @cosmo_kappa @hwchase17 So I can export the whole history of like Claude or GPT. that's what you mean? I didn't even know there is a function to do that. 🔗 View Quoted Tweet 💬 0 🔄 0 ❤️ 4 👀 4704 📊 1 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2006041609255735762</guid>
+      <pubDate>Tue, 30 Dec 2025 16:36:04 +0000</pubDate>
+    </item>
     <item>
       <title>今年我是这样使用Claude的：产品思维、工程、烹饪与美食、智能体工程... / This is how I used Claude this year:
 - Product thinking

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:37:12 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -558,6 +558,18 @@ Original:
 Python Source Foundation: We are thrilled to announce that Anthropic has entered into a two-year partnership with the Python Software Foundation (PSF) to contribute a landmark total of $1.5 million to support the foundation's work, with an emphasis on Python ecosystem security. This investment will enable the PSF to make crucial security advances to CPython and the Python Package Index (PyPI) benefiting all users and it will also sustain the foundation's core work supporting the Python language, ecosystem and global community. Official Announcement submitted by /u/BuildwithVignesh [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qc0ru1</guid>
       <pubDate>Tue, 13 Jan 2026 19:30:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>哎哟 / Oof</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc23bc/oof/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc23bc</guid>
+      <pubDate>Tue, 13 Jan 2026 20:18:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

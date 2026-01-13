@@ -6,7 +6,87 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:39:28 +0000</lastBuildDate>
+    <item>
+      <title>哇，在Claude Code上构建编排器真是太有趣了。 / Damn, it is so much fun to build orchestrators on top of Claude Code. 
+
+You would think the terminal...</title>
+      <link>https://x.com/omarsar0/status/2008602885047939282</link>
+      <description>哇，在Claude Code上构建编排器真是太有趣了。你可能会认为终端就是终极操作工具，但其实在这之上还有巨大的潜力可以挖掘。比如可以搭建疯狂的系统，让编程智能体全天候运行。💬 26 🔄 7 ❤️ 151 👀 19077 📊 49 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Damn, it is so much fun to build orchestrators on top of Claude Code. You would think the terminal would be the ultimate operator. There is so much more alpha left to build on top of all of this. Include insane setups to have coding agents running all day. 💬 26 🔄 7 ❤️ 151 👀 19077 📊 49 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008602885047939282</guid>
+      <pubDate>Tue, 06 Jan 2026 18:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>我曾以为AI驱动的IDE之外，编程助手体验难有突破…… / I didn't think it was possible to have a better experience with coding agents beyond AI-powered IDEs...</title>
+      <link>https://x.com/omarsar0/status/2008603792502386988</link>
+      <description>我曾以为AI驱动的IDE之外，编程助手体验难有突破，直到Claude Code CLI出现。现在重点在于用户界面和编排能力，将你的电脑变成一台24小时不停歇的构建机器。这才只是开始。💬 1 🔄 0 ❤️ 23 👀 3148 📊 3 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+I didn't think it was possible to have a better experience with coding agents beyond AI-powered IDEs, then came Claude Code CLI. Now it's about the UIs and orchestration capabilities, and turning your computer into a 24-hour building machine. Just scratching the surface. 💬 1 🔄 0 ❤️ 23 👀 3148 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2008603792502386988</guid>
+      <pubDate>Tue, 06 Jan 2026 18:17:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>论规模效应的缓慢消亡 / "On the slow death of scaling."
+
+Is bigger always better? It's one of the most pressing questions gi...</title>
+      <link>https://x.com/omarsar0/status/2009030298147938577</link>
+      <description>《论规模效应的缓慢消亡》：更大是否总是更好？在当今投资激增和AI应用加速的背景下，这已成为最紧迫的问题之一。来自独一无二的@sarahookr的精彩文章。💬 6 🔄 10 ❤️ 68 👀 10388 📊 22 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+"On the slow death of scaling." Is bigger always better? It's one of the most pressing questions given the investment and the acceleration of AI adoption today. Great essay by the one and only @sarahookr . 💬 6 🔄 10 ❤️ 68 👀 10388 📊 22 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009030298147938577</guid>
+      <pubDate>Wed, 07 Jan 2026 22:32:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>https://t.co/Az6T9OSsHm / https://t.co/Az6T9OSsHm</title>
+      <link>https://x.com/omarsar0/status/2009030310500159850</link>
+      <description>papers.ssrn.com/sol3/papers.cf… 💬 0 🔄 1 ❤️ 5 👀 2677 📊 1 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+papers.ssrn.com/sol3/papers.cf… 💬 0 🔄 1 ❤️ 5 👀 2677 📊 1 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009030310500159850</guid>
+      <pubDate>Wed, 07 Jan 2026 22:32:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体（agent）工具时代正式来临！ / The era of agent harnesses is officially here!
+
+This means you can expect many devs vibe coding thei...</title>
+      <link>https://x.com/omarsar0/status/2009061265864262111</link>
+      <description>智能体（agent）工具时代正式来临！这意味着你将看到许多开发者兴致勃勃地开发自己的 Cursor。但这不一定非得是集成开发环境（IDE）或完整的命令行界面（CLI）工具。在 Claude Code 中，一个简单的 Ralph Wiggum 插件就能让你获得巨大优势。或者，如果你想更精准地控制智能体的行为，可以构建一个能访问基于 MCP 的看板（Kanban）的编程智能体。你会在 X 上看到许多类似概念的版本涌现。一场关于谁能打造出最佳智能体工具的竞赛正在进行，而新的产品和创新的智能体编排器也将从中诞生。但有一点很重要：要使用可定制且灵活的工具来构建。不要害怕随着……而不断演进你的工作流程和工具。
+
+---
+
+Original:
+The era of agent harnesses is officially here! This means you can expect many devs vibe coding their own Cursor. But it doesn’t need to be an IDE or full-blown CLI tool. A simple Ralph Wiggum plugin in Claude Code can already give you a huge edge. Or build a coding agent accessing an MCP-powered Kanban board if you want to be more in control of what the agent is doing. You will see many versions of similar concepts floating around X. There is a race for who builds the best agent harness and from that will emerge new products and novel agent orchestrators. But one thing is important. Build with tools that are customisable and flexible. Don’t be afraid to evolve your workflows and tools as you…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009061265864262111</guid>
+      <pubDate>Thu, 08 Jan 2026 00:35:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI编程助手真的会写测试吗？ / Do AI coding agents actually write tests?
+
+Testing is critical for software correctness and maintain...</title>
+      <link>https://x.com/omarsar0/status/2009269127773605993</link>
+      <description>AI编程助手真的会写测试吗？测试对软件的正确性和可维护性至关重要。随着自主代理越来越多地提交拉取请求，了解它们的测试行为变得十分必要。这项新研究通过分析AIDev数据集，探究了AI生成的拉取请求中测试代码的包含模式。研究人员考察了测试出现的频率、在PR生命周期中引入测试的时机，以及包含测试的PR与不含测试的PR之间的差异。研究结果揭示了有趣的现象：随着时间的推移，各AI代理生成的PR中包含测试的情况越来越普遍，这表明测试行为有所改进。但相比不含测试的PR，包含测试的PR往往规模更大、完成耗时更长……
+
+---
+
+Original:
+Do AI coding agents actually write tests? Testing is critical for software correctness and maintainability. As autonomous agents increasingly submit pull requests, understanding their testing behavior becomes essential. This new research analyzes the AIDev dataset to study test inclusion patterns in agent-generated pull requests. They examined how often tests appear, when they're introduced during the PR lifecycle, and how test-containing PRs differ from those without tests. The findings reveal interesting patterns. Test-containing PRs have become more common over time across agents, suggesting improved testing behavior. But these PRs tend to be larger and take longer to complete than non-te…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2009269127773605993</guid>
+      <pubDate>Thu, 08 Jan 2026 14:21:05 +0000</pubDate>
+    </item>
     <item>
       <title>终于有机会体验@karpathy的LLM Council（LLM委员会）了 / Finally got a chance to play around with @karpathy's LLM Council. 
 

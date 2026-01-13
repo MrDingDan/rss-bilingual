@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 19:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 20:37:03 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -450,6 +450,18 @@ Original:
 Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qc0xb4</guid>
       <pubDate>Tue, 13 Jan 2026 19:35:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>杰夫·贝索斯（Jeff Bezos）称AI泡沫如同工业泡沫 / Jeff Bezos Says the AI Bubble is Like the Industrial Bubble</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qc1dif/jeff_bezos_says_the_ai_bubble_is_like_the/</link>
+      <description>杰夫·贝索斯（Jeff Bezos）表示：类似2008年的金融泡沫纯粹有害，而像90年代生物科技那样的工业泡沫实则能造福社会。AI属于工业泡沫，而非金融泡沫——这是关键区别。投资者或许会亏钱，但尘埃落定后，创新成果依然会留存下来。由/u/SunAdvanced7940提交 [链接] [评论]
+
+---
+
+Original:
+Jeff Bezos: financial bubbles like 2008 are just bad. Industrial bubbles, like biotech in the 90s, can actually benefit society. AI is an industrial bubble, not a financial bubble – and that's an important distinction. Investors may lose money, but when the dust settles, we still get the inventions. submitted by /u/SunAdvanced7940 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qc1dif</guid>
+      <pubDate>Tue, 13 Jan 2026 19:52:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
