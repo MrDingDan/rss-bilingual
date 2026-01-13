@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:54:38 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -631,6 +631,42 @@ Original:
 We already have something at the DeepGame level (the old one that disappeared from the store of GPTs, it had more than 1 million conversations during the 4th model era). It could be other AIs or Prompts, do we have something in this early 2026? submitted by /u/Ok-Wealth4207 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc4n72</guid>
       <pubDate>Tue, 13 Jan 2026 21:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>我构建了一种让AI安全操作基础设施的方法 / I built a way to make infrastructure safe for AI</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc5shk/i_built_a_way_to_make_infrastructure_safe_for_ai/</link>
+      <description>我开发了一个平台，通过用Go API封装KVM/libvirt，让AI代理能在基础设施上工作。大多数AI工具仅停留在代码层面，因为给大语言模型（LLM）生产环境的root权限是疯狂的。fluid.sh创建了临时沙箱，代理可以在其中安全执行配置防火墙、重启服务或管理系统单元等任务。其工作原理是：使用qcow2写时复制（copy-on-write）后备文件，将基础镜像即时克隆到隔离沙箱中。代理在沙箱内拥有root权限。安全性通过临时SSH证书机构处理；代理使用短期证书进行身份验证。代理工作时，会构建一个Ansible剧本以复现任务。您可以审…
+
+---
+
+Original:
+I built a platform that lets AI agents work on infrastructure by wrapping KVM/libvirt with a Go API. Most AI tools stop at the codebase because giving an LLM root access to prod is crazy. fluid.sh creates ephemeral sandboxes where agents can execute tasks like configuring firewalls, restarting services, or managing systemd units safely. How it works: It uses qcow2 copy-on-write backing files to instantly clone base images into isolated sandboxes. The agent gets root access within the sandbox. Security is handled via an ephemeral SSH Certificate Authority; agents use short-lived certificates for authentication. As the agent works, it builds an Ansible playbook to replicate the task. You revie…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc5shk</guid>
+      <pubDate>Tue, 13 Jan 2026 22:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT 5.2 对比 Gemini 3 Pro / GPT 5.2 vs Gemini 3 Pro</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc5ted/gpt_52_vs_gemini_3_pro/</link>
+      <description>在微积分或三角学数学题解答上，哪个表现更好？我注意到Gemini在答案中表现出一种奇怪的自负，即使它计算得并不正确。当然，这可能只是我的个人感受。 由 /u/Neoniclide 提交 [链接] [评论]
+
+---
+
+Original:
+Which is better at solving math problems in Calculus or Trigonometry? I’ve noticed Gemini is strangely egotistical with its answers that it doesn’t calculate correctly. Could just be me though submitted by /u/Neoniclide [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc5ted</guid>
+      <pubDate>Tue, 13 Jan 2026 22:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>描绘我们互动感受的自由画面 / Create a free form picture of how our interactions feel.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc5vke/create_a_free_form_picture_of_how_our/</link>
+      <description>提交者：/u/ReginaldxFairfield [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ReginaldxFairfield [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc5vke</guid>
+      <pubDate>Tue, 13 Jan 2026 22:40:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

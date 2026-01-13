@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:55:38 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -224,6 +224,18 @@ submitted by /u/DazzlingpAd134 [link] [comments]</description>
       <pubDate>Mon, 12 Jan 2026 21:16:59 +0000</pubDate>
     </item>
     <item>
+      <title>我开发了Clipr：一个“数字书签保险库”，用于跨平台保存和整理社交媒体帖子。期待反馈！ / I built Clipr: A "Digital Bookmark Vault" to save and organize social media posts across all platforms. Looking for feedback!</title>
+      <link>https://www.reddit.com/r/Android/comments/1qbi60l/i_built_clipr_a_digital_bookmark_vault_to_save/</link>
+      <description>大家好！我想分享一个我正在开发的项目，叫做Clipr。我厌倦了“已保存”的帖子分散在五个不同的社交媒体应用中——比如在Instagram保存健身内容，在YouTube保存技术技巧，然后完全忘记它们在哪里。Clipr是一个简洁、优化深色模式的Android应用，作为你书签的中央枢纽。亮点包括：一键保存：使用Android原生分享菜单将链接直接发送到Clipr；自动分类：它能识别链接来自TikTok、Facebook还是X，并帮你放入正确的文件夹；清爽界面：我采用了时尚的高对比度深色主题，方便深夜浏览时保护眼睛。
+
+---
+
+Original:
+Hey everyone! I wanted to share a project I’ve been working on called Clipr . I got tired of having my "saved" posts spread across five different social media apps. I’d save a workout on Instagram and a tech tip on YouTube, and then completely forget where they were. Clipr is a simple, dark-mode-optimized Android app that acts as a central hub for your bookmarks. The cool parts: One-Tap Saving: Use the native Android share sheet to send links directly to Clipr. Automatic Sorting: It recognizes if the link is from TikTok, Facebook, or X and puts it in the right folder for you. Clean UI: I went for a trendy, high-contrast dark theme so it’s easy on the eyes during late-night scrolling sessions…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qbi60l</guid>
+      <pubDate>Tue, 13 Jan 2026 04:45:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Android 2026年1月谷歌系统更新亮点 / What’s new in Android's January 2026 Google System Updates</title>
       <link>https://www.reddit.com/r/Android/comments/1qblgan/whats_new_in_androids_january_2026_google_system/</link>
       <description>由 /u/IJagan 提交 [链接] [评论]
@@ -260,6 +272,30 @@ submitted by /u/FragmentedChicken [link] [comments]</description>
       <pubDate>Tue, 13 Jan 2026 08:17:02 +0000</pubDate>
     </item>
     <item>
+      <title>安卓至今没有防晕车功能，这太离谱了 / It's crazy that android still does not have the feature for motion sickness.</title>
+      <link>https://www.reddit.com/r/Android/comments/1qbn7u0/its_crazy_that_android_still_does_not_have_the/</link>
+      <description>我虽然非常讨厌苹果，但确实很怀念它的防晕车功能。我知道有人会说去应用商店下个App，但效果完全不一样。吐槽完毕 由/u/ging_hill提交 [链接] [评论]
+
+---
+
+Original:
+I absolutely hate apple but when thing that I really miss is the feature for motion sickness. Ik that you will say get an app from the playstore but it's just not the same. Rant over submitted by /u/ging_hill [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qbn7u0</guid>
+      <pubDate>Tue, 13 Jan 2026 09:44:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>在操作系统中关闭Gemini只是隐私作秀吗？ / Is turning off Gemini in the OS just Privacy theatre?</title>
+      <link>https://www.reddit.com/r/Android/comments/1qbp5x0/is_turning_off_gemini_in_the_os_just_privacy/</link>
+      <description>我看到有人发教程教如何关闭默认开启的Gemini功能。但这真的有效吗？还是说这只是让你感觉自己在采取行动，而谷歌（Google）其实仍在用你的数据训练他们的AI？由 /u/Impossible-End-3080 提交 [链接] [评论]
+
+---
+
+Original:
+I've seen some people posting tutorials of how to turn off Gemini, which is now on by default. But is this really effective or is it just giving you the sensation that you're doing something while google is still training their AI on your data? submitted by /u/Impossible-End-3080 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qbp5x0</guid>
+      <pubDate>Tue, 13 Jan 2026 11:41:50 +0000</pubDate>
+    </item>
+    <item>
       <title>中国手机品牌一加（OnePlus）在台湾非法聘用70名工程师 创始人刘作虎（Pete Lau）被通缉 / Chinese mobile phone brand OnePlus illegally hired 70 engineers in Taiwan Founder Liu Zuohu (Pete Lau) is wanted</title>
       <link>https://www.reddit.com/r/Android/comments/1qbq7l4/chinese_mobile_phone_brand_oneplus_illegally/</link>
       <description>由 /u/welp_im_damned 提交 [链接] [评论]
@@ -270,6 +306,30 @@ Original:
 submitted by /u/welp_im_damned [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qbq7l4</guid>
       <pubDate>Tue, 13 Jan 2026 12:37:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌宣布与苹果合作改进Siri / Google announces collaboration with Apple to improve Siri</title>
+      <link>https://www.reddit.com/r/Android/comments/1qbr33q/google_announces_collaboration_with_apple_to/</link>
+      <description>谷歌官方推文表示：“联合声明：苹果与谷歌已达成多年合作，下一代苹果基础模型将基于谷歌的Gemini模型和云技术。这些模型将支持未来的苹果智能功能，包括今年推出的更个性化的Siri。经过审慎评估，苹果认为谷歌的AI技术为苹果基础模型提供了最强大的基础，并期待其为苹果用户带来创新的新体验。苹果智能将继续在苹果设备和私有云计算上运行，同时保持苹果行业领先的隐私标准。”
+
+---
+
+Original:
+Here is the official tweet from Google: "Joint Statement: Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google's Gemini models and cloud technology. These models will help power future Apple Intelligence features, including a more personalized Siri coming this year. After careful evaluation, Apple determined that Google's Al technology provides the most capable foundation for Apple Foundation Models and is excited about the innovative new experiences it will unlock for Apple users. Apple Intelligence will continue to run on Apple devices and Private Cloud Compute, while maintaining Apple's industry-le…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qbr33q</guid>
+      <pubDate>Tue, 13 Jan 2026 13:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[指南] Poco F8 Ultra - 专业显示与动态设置（P3色域、零拖影、无暗部细节丢失） / [GUIDE] Poco F8 Ultra - Professional Display &amp; Motion Setup (P3 Color, Zero Ghosting, No Black Crush)</title>
+      <link>https://www.reddit.com/r/Android/comments/1qbsf8f/guide_poco_f8_ultra_professional_display_motion/</link>
+      <description>大家好，我花了很多时间精细调整Poco F8 Ultra，以充分发挥其顶级面板的每一分性能。如果你对DC调光很讲究，讨厌暗场中的阴影/拖影，并且想要真正的Display P3色域，这就是终极的“极限”设置。此配置能消除拖影，并提供即时触控响应。🛠 所需工具：Shizuku + LADB（或任何AOSP Shell/ashell）。开发者选项必须始终保持启用。1️⃣ “黄金”屏幕优化：实现完美动态与色彩映射的最关键命令（模式2是该面板唯一正确的选择）：settings put system screen_optimize_mode 2 2️⃣ 显示与相机专业…
+
+---
+
+Original:
+Hi everyone, I’ve spent a lot of time fine-tuning the Poco F8 Ultra to squeeze out every bit of performance from its top-tier panel. If you are meticulous about DC Dimming, hate shadows/smearing in dark scenes, and want the true Display P3 color range, this is the ultimate "Extreme" setup. This configuration eliminates ghosting and provides instant touch response. 🛠 Tools Needed: Shizuku + LADB (or any AOSP Shell/ashell). Developer Options must remain ENABLED at all times. 1️⃣ The "Golden" Screen Optimization The most critical command for perfect motion and color mapping (Mode 2 is the only correct one for this panel): settings put system screen_optimize_mode 2 2️⃣ Display &amp; Camera Professio…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qbsf8f</guid>
+      <pubDate>Tue, 13 Jan 2026 14:15:17 +0000</pubDate>
     </item>
     <item>
       <title>Pixel 6 与 Pixel 7 更新缺失：原因解析... / Pixel 6 and Pixel 7 Updates are Missing: Here’s What is Happening...</title>
@@ -306,6 +366,18 @@ Original:
 submitted by /u/RaguSaucy96 [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qbxvcp</guid>
       <pubDate>Tue, 13 Jan 2026 17:47:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>不想关联银行账户，我开发了一款注重隐私的小型开销追踪器 / Built a small privacy-first expense tracker because I didn’t want to link my bank accounts</title>
+      <link>https://www.reddit.com/r/Android/comments/1qc1ast/built_a_small_privacyfirst_expense_tracker/</link>
+      <description>我一直希望在不关联银行账户或上传数据到云端的情况下，更清晰地了解自己的开销，于是最终为自己开发了一款小型应用。它叫做 PennyPilot。其工作原理是以只读方式读取收据、账单和订阅邮件，然后在你的设备本地显示简洁的汇总信息。无需连接银行账户，没有广告，也没有那种“你应该少喝点咖啡”的说教感。主要关注点在于：隐私（所有数据都保留在本地）、清晰明了而非花哨的预测，以及发现你可能忘记的订阅和定期扣费项目。虽然它还处于早期阶段，但对我来说确实很有用，所以我想分享出来，或许对其他人也有帮助。对了，它还是开源软件（FOSS）！
+
+---
+
+Original:
+I’ve been trying to get a clearer picture of my spending without linking bank accounts or sending my data to the cloud, so I ended up building a small app for myself. It’s called PennyPilot . It works by reading receipts, bills, and subscription emails in a read-only way and then showing simple summaries locally on your device. No bank connections, no ads, no “you should spend less on coffee” energy. The focus is mostly on: privacy (everything stays local) clarity over fancy predictions spotting subscriptions and recurring charges you might forget about It’s still early, but it’s been genuinely useful for me, so I figured I’d share in case it’s helpful to others too. Hey, it's FOSS too!! Hap…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qc1ast</guid>
+      <pubDate>Tue, 13 Jan 2026 19:49:25 +0000</pubDate>
     </item>
     <item>
       <title>日经亚洲：谷歌将在越南研发制造高端智能手机 / Google to develop, manufacture high-end smartphones in Vietnam, Nikkei Asia says</title>

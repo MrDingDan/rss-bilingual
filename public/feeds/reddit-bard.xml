@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:54:49 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -450,6 +450,18 @@ Original:
 Source: Google Research submitted by /u/BuildwithVignesh [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qc534m</guid>
       <pubDate>Tue, 13 Jan 2026 22:10:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Home，是谁把前门敞开的？！（以及如何重置关联其他账户的Nest摄像头） / Google Home, who left the freaking front door open?! (And how to factory reset a nest cam linked to another account)</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qc62jx/google_home_who_left_the_freaking_front_door_open/</link>
+      <description>搬进新家后，我入手了一个Google Home，因为我们装了Nest恒温器和摄像头。我从之前的Alexa闹钟升级过来，高级账户能用Gemini搜索录像，但我没这功能……结果回家发现前门大开，所有猫都还在屋里……殊不知我们不在时它们经历了一场冒险。有只猫我找了20分钟没找到，只好翻看所有录像看她是不是溜出去了……你能看到我们离开的那一小时里，我的狗和一只猫在门里门外进进出出，我家哈士奇居然没跑远，这场景挺逗的，因为它们表现得好像这完全正常……
+
+---
+
+Original:
+I got a Google home after we moved into our new place because we had a nest thermostat, and camera installed. I upgraded from my Alexa clock, with the home premium account you can use gemini to search the video it records, I don't have that feature.... So, we come home to the front door wide open and all the cats still inside.. little did we know they actually had an adventure while we were gone. I couldn't find one cat for 20 minutes so I watched all the footage to see if she left... You can literally watch my dog and one of the cats go in and out of the door for the hour or so we were gone, my damned Husky didn't run off, its kinda hilarious because they act like its totally normal that th…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qc62jx</guid>
+      <pubDate>Tue, 13 Jan 2026 22:48:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:54:13 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -606,6 +606,30 @@ Original:
 I have a project with a story, we have all the documents we need like characters, timeliness etc etc and so far so good. Problem is, recently whenever I need to update a chapter in the knowledge and I ask it to review it, it says he can't see some lines because they're truncated. I upload docx files but the problem surges only once in a while, especially for chapters rather than "here's the doc about characters". I'm feeling dumb and I don't know what I'm doing wrong. Is it the docx format? Something else? Thnx in advance (P. S. I'm a pro user) submitted by /u/TheTideEbbs [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qc3q86</guid>
       <pubDate>Tue, 13 Jan 2026 21:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude的macOS应用：多账户管理、使用限制追踪、CLI集成与自动启动会话 / macOS app for Claude: Multi-profile management, Track Claude usage limits, CLI integration, and auto-start sessions</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc5v3h/macos_app_for_claude_multiprofile_management/</link>
+      <description>我一直在开发一款开源菜单栏应用，旨在解决我日常面临的问题：管理多个Claude账户并最大化可用使用窗口。多账户支持：为不同的Claude账户（工作、个人、测试、客户项目）创建无限数量的配置。每个配置拥有完全独立的凭据、设置和使用追踪。通过菜单栏即时切换，无需再手动管理不同账户。Claude Code CLI集成：如果你使用Claude Code并拥有多个账户，在菜单栏切换配置会自动更新系统钥匙串中的终端凭据。你的claude CLI命令将立即使用正确的账户。
+
+---
+
+Original:
+I've been working on an open-source menu bar app that solves a problem I faced daily: managing multiple Claude accounts and maximizing my available usage windows. Multi-Profile Support Create unlimited profiles for different Claude accounts (work, personal, testing, client projects). Each profile has completely isolated credentials, settings, and usage tracking. Switch between them instantly from the menu bar - no more manually managing different accounts. Claude Code CLI Integration If you use Claude Code with multiple accounts, switching profiles in the menu bar automatically updates your terminal credentials in the system Keychain. Your claude CLI commands instantly use the right account…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc5v3h</guid>
+      <pubDate>Tue, 13 Jan 2026 22:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic：推出Anthropic Labs（扩展版） / Anthropic: Introducing Anthropic Labs (Expansion)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc5vkj/anthropic_introducing_anthropic_labs_expansion/</link>
+      <description>来源：Anthropic（官方），由/u/BuildwithVignesh提交 [链接] [评论]
+
+---
+
+Original:
+Source: Anthropic(Official) submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc5vkj</guid>
+      <pubDate>Tue, 13 Jan 2026 22:40:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

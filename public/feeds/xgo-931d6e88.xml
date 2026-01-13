@@ -6,7 +6,41 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 22:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 22:55:57 +0000</lastBuildDate>
+    <item>
+      <title>AI开发者必读好文（建议收藏） / Great read for AI devs.
+
+(bookmark it)
+
+LLM agents are slow.
+
+The bottleneck in complex agentic syst...</title>
+      <link>https://x.com/omarsar0/status/2005799762252136537</link>
+      <description>AI开发者必读好文（建议收藏）。当前LLM智能体运行缓慢，复杂智能系统的瓶颈在于规划环节。仅生成任务规划就可能耗时25秒以上，规模扩大时问题会迅速加剧。真实数据集分析显示，LLM驱动智能体接收的请求中，约30%在语义上相同或相似。这篇新论文提出了AgentReuse机制——通过语义相似度缓存并检索已生成的规划方案。例如“预订明天合肥到北京的车票”与“预订周五长沙到上海的机票”这两个请求，参数虽不同，但任务结构完全一致，其规划步骤也是相同的……
+
+---
+
+Original:
+Great read for AI devs. (bookmark it) LLM agents are slow. The bottleneck in complex agentic systems today is the planning part. Plan generation alone can take 25+ seconds for task requests. This compounds fast at scale. Real-world dataset analysis shows about 30% of requests received by LLM-driven agents are semantically identical or similar. This new paper introduces AgentReuse, a plan reuse mechanism that caches and retrieves previously generated plans based on semantic similarity. Two requests like "Book a ticket from Hefei to Beijing for tomorrow" and "Book a ticket from Changsha to Shanghai for Friday" differ in parameters but share an identical task structure. The plan steps are the s…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2005799762252136537</guid>
+      <pubDate>Tue, 30 Dec 2025 00:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>一器足矣 / One Tool is Enough.
+
+When building AI agents, more tools often lead to more failure points.
+
+This ne...</title>
+      <link>https://x.com/omarsar0/status/2005999079265034729</link>
+      <description>构建AI智能体时，工具越多往往意味着故障点越多。这项新研究推出了RepoNavigator——一个仅配备单一执行感知工具“跳转”的大语言模型智能体。它能检索给定文件中任意符号的定义，模拟实际代码执行语义。研究发现，单个功能完备的工具优于多个按顺序执行的窄范围工具。RepoNavigator通过强化学习从预训练的Qwen模型端到端训练而成，无需闭源蒸馏。奖励机制结合了定位准确度（Dice分数）与工具调用成功率。在SWE-bench Verified基准测试中，其70亿参数模型的表现超越了140亿参数的基线模型。
+
+---
+
+Original:
+One Tool is Enough. When building AI agents, more tools often lead to more failure points. This new research introduces RepoNavigator, an LLM agent equipped with a single execution-aware tool: jump. It retrieves the definition of any symbol in a given file, mirroring actual code execution semantics. They find that a single capable tool outperforms multiple narrow-scope tools executed in sequence. RepoNavigator is trained end-to-end via RL directly from pretrained Qwen models, with no closed-source distillation required. The reward combines localization accuracy (Dice score) with tool-calling success rate. On SWE-bench Verified, the 7B model outperforms 14B baselines. The 14B model surpasses…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2005999079265034729</guid>
+      <pubDate>Tue, 30 Dec 2025 13:47:04 +0000</pubDate>
+    </item>
     <item>
       <title>论文：https://t.co/o0sHt02GGl
 学习在我们的学院构建高效AI智能体：https://t.co/gKtL... / Paper: https://t.co/o0sHt02GGl
