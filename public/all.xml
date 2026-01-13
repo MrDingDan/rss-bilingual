@@ -6,31 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:30:09 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_chatgpt] 试图从我儿子的官方宝可梦贴纸书中找出这个宝可梦的名字… / Trying to figure out this Pokémon name from my son’s official Pokémon sticker book…</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbtwhc/trying_to_figure_out_this_pokémon_name_from_my/</link>
-      <description>…感谢ChatGPT，由/u/lizardofhope提交 [链接] [评论]
-
----
-
-Original:
-… thanks ChatGPT submitted by /u/lizardofhope [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbtwhc</guid>
-      <pubDate>Tue, 13 Jan 2026 15:13:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 呃，Gemini（双子座）出问题了？ / umm gemini tweakin?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qbtykk/umm_gemini_tweakin/</link>
-      <description>由用户 /u/Ok-Mind-2629 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Ok-Mind-2629 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qbtykk</guid>
-      <pubDate>Tue, 13 Jan 2026 15:16:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 23:47:25 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 打造一个FOSS、本地优先的Claude Cowork替代品 / Building a FOSS, local-first alternative to Claude Cowork</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbu3fz/building_a_foss_localfirst_alternative_to_claude/</link>
@@ -1453,6 +1429,30 @@ Original:
 Over the last few days, ChatGPT feels noticeably worse to use. The answers are lower effort, often incorrect, and I frequently need to ask the same question multiple times to get a usable response. It sometimes doesn’t even know what day it is, gives overly simplistic or outright wrong solutions, and completely ignores things I clearly explained earlier or that were saved in memory long ago. This is especially frustrating because I’ve been on a Plus subscription for a long time. The recent drop in quality is so obvious that I’m genuinely considering canceling. Did something change recently, or am I the only one experiencing this? submitted by /u/crazyserb89 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc6yvk</guid>
       <pubDate>Tue, 13 Jan 2026 23:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 你饿的时候做过最夸张的事是什么？ / What’s the fattest thing you ever did because you were hungry?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qc71cv/whats_the_fattest_thing_you_ever_did_because_you/</link>
+      <description>由用户/u/Julie727提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Julie727 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qc71cv</guid>
+      <pubDate>Tue, 13 Jan 2026 23:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 别问 / Don't Ask</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc7h0j/dont_ask/</link>
+      <description>我想我们都知道实际发生了什么 由 /u/Interesting-Town-433 提交 [链接] [评论]
+
+---
+
+Original:
+I think we all know what's actually going on submitted by /u/Interesting-Town-433 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc7h0j</guid>
+      <pubDate>Tue, 13 Jan 2026 23:45:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

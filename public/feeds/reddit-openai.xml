@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:47:17 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -679,6 +679,18 @@ Original:
 Over the last few days, ChatGPT feels noticeably worse to use. The answers are lower effort, often incorrect, and I frequently need to ask the same question multiple times to get a usable response. It sometimes doesn’t even know what day it is, gives overly simplistic or outright wrong solutions, and completely ignores things I clearly explained earlier or that were saved in memory long ago. This is especially frustrating because I’ve been on a Plus subscription for a long time. The recent drop in quality is so obvious that I’m genuinely considering canceling. Did something change recently, or am I the only one experiencing this? submitted by /u/crazyserb89 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc6yvk</guid>
       <pubDate>Tue, 13 Jan 2026 23:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>别问 / Don't Ask</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qc7h0j/dont_ask/</link>
+      <description>我想我们都知道实际发生了什么 由 /u/Interesting-Town-433 提交 [链接] [评论]
+
+---
+
+Original:
+I think we all know what's actually going on submitted by /u/Interesting-Town-433 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qc7h0j</guid>
+      <pubDate>Tue, 13 Jan 2026 23:45:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
