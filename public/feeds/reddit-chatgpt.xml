@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:36:42 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1082,6 +1082,18 @@ Dear OpenAI Team, I’m writing this as someone who has been using your platform
       <pubDate>Wed, 14 Jan 2026 20:07:05 +0000</pubDate>
     </item>
     <item>
+      <title>四年后，同样的提示 / Same Prompt Four Years Later</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qczc2t/same_prompt_four_years_later/</link>
+      <description>由用户 /u/Algoartist 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Algoartist [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qczc2t</guid>
+      <pubDate>Wed, 14 Jan 2026 21:02:39 +0000</pubDate>
+    </item>
+    <item>
       <title>这太可怕了 / This is scary</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qd0anr/this_is_scary/</link>
       <description>这肯定会骗到很多人，看来网络上的东西没一样是真的。来源：Twitter，由/u/memerwala_londa提交
@@ -1092,6 +1104,18 @@ Original:
 This gonna catfish a lot ppl ,nothing on internet is real I guess Source : Twitter submitted by /u/memerwala_londa [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qd0anr</guid>
       <pubDate>Wed, 14 Jan 2026 21:39:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>破折号“赠品”已成往事，本月我又注意到这些新趋势 / the em dash giveaway is gone, here’s the new stuff i keep noticing this month</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd0i23/the_em_dash_giveaway_is_gone_heres_the_new_stuff/</link>
+      <description>上个月我发文讨论过破折号“赠品”已不复存在，那篇文章反响热烈。自那时起，我一直在刷屏浏览，并收集了更多我持续观察到的、奇怪却一致的表达迹象。以下是我本月的新发现：以“说实话？”作为句子开头，通常后面接的内容其实并不那么惊人地诚实；“你不是在想象”/“你并不孤单”/“你没有问题”/“你不软弱”——类似治疗师模式的话语；“你想和这个感受待一会儿吗？”/“你准备好深入探讨了吗？”——仿佛你刚坦白了一件改变人生的事；“关键在这里”/“最棒的部分是？”/“而这是大多数人忽略的部分”——那种强迫性的“我要尽可能清楚地说明这一点……”
+
+---
+
+Original:
+last month i posted about how the em dash “giveaway” is dead, and the post went crazy. since then i’ve been doom scrolling and collecting more of the weirdly consistent tells i keep seeing. here’s my new list for this month: “and honestly?” as a sentence starter, usually followed by something that isn’t really that crazy honest “you’re not imagining it” / “you’re not alone” / “you’re not broken” / “you’re not weak” therapist mode talk “do you want to sit with that for a while” / “are you ready to go deeper” as if you just confessed something life changing “here’s the kicker” / “and the best part?” / “and here’s the part most people miss” the compulsive “i’m going to state this as clearly as…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd0i23</guid>
+      <pubDate>Wed, 14 Jan 2026 21:46:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

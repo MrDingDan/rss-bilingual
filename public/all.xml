@@ -6,179 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:51:48 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_claudeai] 在Kilo代码审查中测试Gemini 3 Pro、GPT 5.2与Opus 4.5 / Tested Gemini 3 Pro vs GPT 5.2 vs Opus 4.5 on Kilo's Code Reviews</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnbwv/tested_gemini_3_pro_vs_gpt_52_vs_opus_45_on_kilos/</link>
-      <description>需要说明：我与Kilo Code团队有密切合作，请结合此背景看待以下内容。尽管如此，我认为本次测试结果对于任何想了解AI模型在代码审查任务中表现的人都有实际参考价值。最近，我们在Kilo的代码审查中测试了三款免费模型：Grok Code Fast 1、MiniMax M2和Devstral 2。三者均成功识别出SQL注入和路径遍历等关键安全漏洞。为对比尖端前沿模型在同一测试中的表现，我们让GPT-5.2、Claude Opus 4.5和Gemini 3 Pro处理了相同的拉取请求。简而言之：GPT-5.2发现了最多问题（13个），包括一个其他模型均未捕捉到的安全漏洞。Claude Opu...
-
----
-
-Original:
-Full disclosure: I work closely with the Kilo Code team, so take this with appropriate context. That said, I think the results from this test are genuinely interesting for anyone who's exploring how AI models work on code review tasks. Recently, we tested three free models on Kilo’s Code Reviews: Grok Code Fast 1, MiniMax M2, and Devstral 2. All three caught critical security vulnerabilities like SQL injection and path traversal. We wanted to see how state-of-the-art frontier models compare on the same test, so we ran GPT-5.2, Claude Opus 4.5, and Gemini 3 Pro through identical pull requests. TL;DR: GPT-5.2 found the most issues (13) including a security bug no other model caught. Claude Opu…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcnbwv</guid>
-      <pubDate>Wed, 14 Jan 2026 13:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有哪些简单小事能让你感到内心平静？ / What's a simple thing that makes you feel at peace?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcngby/whats_a_simple_thing_that_makes_you_feel_at_peace/</link>
-      <description>由用户/u/Serious-Syrup-3728提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Serious-Syrup-3728 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcngby</guid>
-      <pubDate>Wed, 14 Jan 2026 13:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] AI编程是否陷入了达克效应？ / Is AI Coding Dunning-Kruger?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnont/is_ai_coding_dunningkruger/</link>
-      <description>当我终于跟上AI编程的节奏时，我一度感到不安，心想：如果我能做到，是不是人人都可以？但随后我又会读到关于AI代码漏洞百出的文章，或是那些氛围编程应用的高流失率，又或是在自己开发/审查时目睹AI的某些操作，不禁暗想：如果我不懂行，那可就糟了。我挺好奇大家对此怎么看。究竟是有大批开发者借助AI高速产出稳定的生产代码，还是说这只是少数现象，现实中很多代码可能糟糕透顶，连边界情况都处理不好……只不过因为编写者经验不足，自己还没意识到罢了。我进一步……
-
----
-
-Original:
-When I finally hit a groove with AI I remember getting nervous and thinking if I can do this can everyone? However, I will then read articles about how many bugs there are in AI code, or churn rates in vibe coding apps, or just seeing AI do something while I am building/reviewing and thinking man if I didn't know what I was doing that would of been bad. I am kind of curious what everyone's feelings on this are. Are there a ton of developers working with AI at fast speed creating stable production code or is that a minority and in reality a lot of coding is probably terrible, doesn't handle edge cases etc.. but because the person producing it is inexperienced they just don't know. I am furthe…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcnont</guid>
-      <pubDate>Wed, 14 Jan 2026 13:46:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 特朗普与爱泼斯坦相关档案何时公开？ / When will the Trump-Epstein files be released?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcnq4u/when_will_the_trumpepstein_files_be_released/</link>
-      <description>由用户 /u/shabanko12 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/shabanko12 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcnq4u</guid>
-      <pubDate>Wed, 14 Jan 2026 13:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有哪些鲜为人知却标志着你正在成长的迹象？ / What’s a sign you’re growing as a person that isn’t talked about much?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcny08/whats_a_sign_youre_growing_as_a_person_that_isnt/</link>
-      <description>由用户 /u/velorya1 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/velorya1 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcny08</guid>
-      <pubDate>Wed, 14 Jan 2026 13:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude的GitHub集成功能显示容量为0%的问题 / Issue with Claude's github integration showing 0% capacity</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnzc4/issue_with_claudes_github_integration_showing_0/</link>
-      <description>从周一开始，我的Claude就遇到了问题。Claude/Anthropic技术支持没有回应，他们的状态页面也没有提及这个问题。Git集成功能似乎已经无法正常工作。每当我尝试添加Git项目时，它都显示容量为0%。（见截图）https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 尝试了常用的调试方法，但都没用：重新连接、清除缓存、重新安装Git连接器、重新导入项目、尝试不同的项目。还有其他人遇到类似问题吗？ 提交者：/u/JackAmb [链接] [评论]
-
----
-
-Original:
-I've been having an issue with Claude since Monday. Claude / Anthropic support is ignoring me and their status page doesn't address this issue. The git integration feature seems to have stopped working correctly. Whenever I try to add a git project, it lists it as 0% capacity. (see screenshot) https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 Tried the usual debugging methods, to no avail : Reconnecting Clearing cache Reinstaller git connector Reimporting project Reusing a different project Has anyone else been dealing with a similar issue ? submitted by /u/JackAmb [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcnzc4</guid>
-      <pubDate>Wed, 14 Jan 2026 13:59:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 是ChatGPT不擅长处理长论文，还是我用错了方法？ / Is Chatgpt bad at long papers or am I doing something wrong?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcnzt6/is_chatgpt_bad_at_long_papers_or_am_i_doing/</link>
-      <description>我得抱怨一下ChatGPT 😅 不是装圣人，我和大家一样常用AI，包括写和改大学论文。刚发现GPT时感觉像魔法——简单提示一下，论文就基本成型了。当然需要修改，但那时比现在轻松多了，现在几乎得重写整篇草稿。我交过几篇AI生成的论文，分数不错，教授也没意见（可能因为当时AI不流行，学校也没检测工具）。但写了大概五篇后，我开始发现规律：结构雷同、句子节奏相似、观点总是中立笼统。不管我怎么调整提示……
-
----
-
-Original:
-I need to complain about Chatgpt for a moment 😅 Not trying to act like a saint here. Like everyone else, I use ai a lot, including for writing and editing my uni papers. When I first found gpt, it felt like magic - one simple prompt and my essay was basically ready. Of course it needed edits, but back then that was much easier than now, when you have to rewrite almost the entire draft. I submitted a few ai gen papers, got good grades and my professor was ok with it (probably because ai wasn’t that popular then + no detectors in schools) But after like five essays, I started seeing the pattern: same structure, same sentence flow, same neutral and general thoughts. No matter what prompts I tri…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcnzt6</guid>
-      <pubDate>Wed, 14 Jan 2026 14:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 如何处理智能体的“决策记忆”？ / How are you handling “decision memory” for agents?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qco12m/how_are_you_handling_decision_memory_for_agents/</link>
-      <description>大多数AI智能体栈擅长执行行动，却不善于记住行动的原因。当智能体开始发放折扣、操作CRM系统或修改订单时，团队常会面临这样的问题：谁批准了这次操作？适用了哪条规则？为何允许这个例外？
-
-一种新兴模式是将每个行动封装在一个“决策信封”中，其中存储：意图背景与证据、评估的政策、批准/覆盖情况以及最终结果。
-
-其核心理念是：没有决策记录，就不执行行动；批准和例外情况由此成为持久、可搜索的对象，而非消失在日志或Slack讨论中。我们正在探索一个名为TraceMem的新层级，专门研究这种“决策记忆”层（链接见评论），期待听到……
-
----
-
-Original:
-Most AI agent stacks are good at acting, but bad at remembering why they acted. When agents start issuing discounts, touching CRMs, or modifying orders, teams get hit with questions like: who approved this, which rule applied, and why was this exception allowed?​ One emerging pattern is to wrap every action in a “decision envelope” that stores: intent context and evidence policies evaluated approvals / overrides final outcome​ The idea: no decision record → no action; approvals and exceptions become durable, searchable objects instead of vanishing into logs or Slack threads. We have worked on a new layer called TraceMem exploring this “decision memory” layer (link in comment), curious to hea…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qco12m</guid>
-      <pubDate>Wed, 14 Jan 2026 14:01:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 5.2 Pro 在维基百科所列的数学难题上取得进展 / 5.2 Pro makes progress on decades long math problem listed on Wikipedia</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qco4d7/52_pro_makes_progress_on_decades_long_math/</link>
-      <description>PDF 链接：https://archivara.org/pdf/927a9c63-afb5-4789-8ed5-c323e961056e，由 /u/gbomb13 提交 [链接] [评论]
-
----
-
-Original:
-pdf: https://archivara.org/pdf/927a9c63-afb5-4789-8ed5-c323e961056e submitted by /u/gbomb13 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qco4d7</guid>
-      <pubDate>Wed, 14 Jan 2026 14:05:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_tasker] 异常账户？推荐奖励？我有70美元要送给接下来几位能成功完成任务的人。尽快私信我。付款凭证充足 / Outlier accounts? Referrals? I have $70 I’m giving to the next few people that can successfully complete a task. DM asap. Payproof plenty</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qco55i/outlier_accounts_referrals_i_have_70_im_giving_to/</link>
-      <description>由 /u/Sharp_Appointment588 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Sharp_Appointment588 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qco55i</guid>
-      <pubDate>Wed, 14 Jan 2026 14:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_tasker] 在键盘上按回车/搜索键时，在查找器（Finder）中打开首个搜索结果应用（使用Tasker） / Open first searched app in finder when you press enter/search button on keyboard (Using Tasker)</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qco9qn/open_first_searched_app_in_finder_when_you_press/</link>
-      <description>分享这个技巧，或许能帮到有需要的人。我试过搜索类似方法，但没找到可用的方案。我并非专家，只是反复尝试直到成功。如果有更懂行的朋友能指点改进方法，欢迎留言。我的目标是：在三星的应用抽屉中使用搜索功能（也称查找器）查找应用时，直接按回车键就能打开第一个搜索结果，而不用再移到屏幕顶部去点击应用图标。据我所知，iOS和部分安卓系统已有此功能。One UI默认不支持，实在令人困扰……
-
----
-
-Original:
-I am posting this just in case someone else will find it helpful. I tried searching for something similar to this but haven't found anything that works anywhere. I'm not expert by any means, just fiddled with things until it worked. If anyone with more knowledge would like to point out how to do this better please do comment so. What I wanted to happen: Open the first search result of apps when you open the app drawer and search for something using Samsung's search (also known as finder) and then press Enter rather than going to the top of the screen and pressing the app icon. This is already a feature on iOS and some other Android afaik. Super frustrating that this isn't the default on One…</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qco9qn</guid>
-      <pubDate>Wed, 14 Jan 2026 14:11:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 有哪些AI工具能提供改善性生活品质的信息？ / AI Tools that can Provide Information to improve Sex Life ?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qco9z5/ai_tools_that_can_provide_information_to_improve/</link>
-      <description>我理解AI常因涉及身份隐私甚至性犯罪等问题被滥用，但它同样能用于提升生活品质——包括性生活。例如，若有人想改善性能力，可能需要相关指导信息。多数AI工具到此便会停止，并声明不提供此类内容。那么，究竟有哪些AI工具能提供关于性欲减退、勃起功能障碍或早泄等性能力问题的信息呢？... 由用户 /u/augustya15 提交 [链接] [评论]
-
----
-
-Original:
-I understand AI is also misused for various reasons like relating to someone’s identity and privacy or even for sexual offences. However, it can also be used for productive purposes even if it involves someone’s sexual life. For instance, if someone wants to improve and enhance their sexual performance they might need information. Most AI tools stop here and warn users that they don’t provide such information. So which AI tool can provide information related to sexual performance issues like loss of libido, erectile dysfunction or premature ejaculation? etc... submitted by /u/augustya15 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qco9z5</guid>
-      <pubDate>Wed, 14 Jan 2026 14:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 人类KSP玩家与ChatGPT使用deltaV地图进行的deltaV计算对比 / DeltaV calculation comparison between human KSP player and ChatGPT using deltaV map</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qcod47/deltav_calculation_comparison_between_human_ksp/</link>
-      <description>我对当前版本ChatGPT（5.2思维版，使用最基础的Plus订阅）的数学和图像识别能力感到好奇。步骤：我向它提供了r/KerbalAcademy的deltaV地图，并询问从Kerbin表面到达Sarnus低轨道需要多少deltaV。在ChatGPT计算的同时，我自己也进行了计算，得出结果为28,980 m/s的deltaV。我大约花了1分钟阅读图像并在手机计算器应用中累加数值。结果：ChatGPT花费了23分6秒来查看deltaV地图（它多次裁剪图像以观察不同部分），并得出了与我完全相同的答案：28,980 m/s。后续：我感到印象深刻…
-
----
-
-Original:
-I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map , and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impresse…</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qcod47</guid>
-      <pubDate>Wed, 14 Jan 2026 14:15:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 语音模式体验变差 / Voice mode getting worse</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcoljr/voice_mode_getting_worse/</link>
-      <description>我从第一天起就在用got的语音模式，当时立刻爱上了它。无论是走路时聊天，还是开车时头脑风暴，它都帮了我大忙。其他模型或应用都无法与之相比——尽管我用Claude来编程和vibeops，但它们的语音模式完全没法用。话虽如此，我感觉现在质量明显下降了。我不是指语音本身，它比一年前好多了（虽然音调有时会奇怪地忽高忽低），而是对话的质量。它似乎变得……有点笨拙和老套。总在重复和转述我的话（我又不需要心理医生：D），也想不出什么新点子……
-
----
-
-Original:
-So I've been using the got voice mode from the very first day and I fell in love instantly. I mean I used it to talk while waking, to brainstorm while driving, it helped me a lot. No other model/app could come close, event though I use Claude for coding and vibeops, they have totally unusable voice mode. Having said that, I have a feeling the quality went really down. I don't mean the voice - it's much better than year ago (although the pitch goes up and down sometimes in a bizarre manner) but the quality of conversation itself. I mean it got somehow... stupid and cliche. It keeps repeating and paraphrasing my words (I don't need no shrink here :D), It doesn't really come up with new ideas,…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcoljr</guid>
-      <pubDate>Wed, 14 Jan 2026 14:25:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 22:37:35 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 融合复兴 / Convergence Resurgence</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qcos26/convergence_resurgence/</link>
@@ -1220,6 +1048,18 @@ Dear OpenAI Team, I’m writing this as someone who has been using your platform
       <pubDate>Wed, 14 Jan 2026 20:07:05 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你离死亡最近的一次经历是什么？ / What is the closest you've ever come to dying?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcxwlf/what_is_the_closest_youve_ever_come_to_dying/</link>
+      <description>由用户/u/FlatSyllabub8637提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FlatSyllabub8637 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcxwlf</guid>
+      <pubDate>Wed, 14 Jan 2026 20:08:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_artificial] Grok与人工智能色情内容难题 / Grok and the A.I. Porn Problem</title>
       <link>https://www.reddit.com/r/artificial/comments/1qcxxk0/grok_and_the_ai_porn_problem/</link>
       <description>由 /u/newyorker 提交 [链接] [评论]
@@ -1340,6 +1180,18 @@ I work at Maxim building testing tools for AI agents. One thing that surprised u
       <pubDate>Wed, 14 Jan 2026 20:48:00 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 什么事会让你莫名火大？ / What makes you irrationally angry?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcyzfq/what_makes_you_irrationally_angry/</link>
+      <description>由用户 /u/Dylan8932 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Dylan8932 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcyzfq</guid>
+      <pubDate>Wed, 14 Jan 2026 20:49:17 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_askreddit] 你最喜欢的深夜零食是什么？ / whats your most favorite late night snack??</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qcz0qs/whats_your_most_favorite_late_night_snack/</link>
       <description>由 /u/New_Present_9419 提交 [链接] [评论]
@@ -1362,6 +1214,30 @@ Original:
 great use case for agent builder! an ambient agent to monitor slack channel and create linear tickets Lauren @ LangChain Docs @docs_plz Docs requests kept getting buried in Slack 🫠 so I built an agent with LangSmith Agent Builder that creates Linear tickets, pulls in context, links back to threads, applies labels, and auto-assigns. No code, just a prompt! ✨ Try it for yourself: smith.langchain.com/agents?skipOnb… i 🔗 View Quoted Tweet 💬 0 🔄 0 ❤️ 0 👀 418 📊 1 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::2011542430420779264</guid>
       <pubDate>Wed, 14 Jan 2026 20:54:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 四年后，同样的提示 / Same Prompt Four Years Later</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qczc2t/same_prompt_four_years_later/</link>
+      <description>由用户 /u/Algoartist 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Algoartist [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qczc2t</guid>
+      <pubDate>Wed, 14 Jan 2026 21:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 还有人在Claude Code 2.1.7中遇到“达到上下文限制”的错误吗？ / Anyone else getting “Context limit reached” in Claude Code 2.1.7?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qczpzg/anyone_else_getting_context_limit_reached_in/</link>
+      <description>以下是一个简洁清晰的英文版本，你可以发布在Reddit上：我在使用Claude Code时遇到了问题。我使用的是2.1.7版本，一直收到这个错误提示：达到上下文限制 · 输入/compact或/clear以继续 Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;format=png&amp;auto=webp&amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 我打算尝试降级到稳定版本。我已经完全重新安装了Claude Code，包括原生安装程序和WSL2下的Ubuntu环境。还有其他人遇到这个问题吗？ 由/u/SilverMethor提交 [链接] [评论]
+
+---
+
+Original:
+Here is a simple, clear English version you can post on Reddit: I'm having a problem with Claude Code. I’m using version 2.1.7 and I keep getting this error: Context limit reached · /compact or /clear to continue Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;format=png&amp;auto=webp&amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 I'm going to try downgrading to the stable version. I already did a full reinstall of Claude Code. Native installer and WSL2 with Ubuntu. Is anyone else having this problem? submitted by /u/SilverMethor [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qczpzg</guid>
+      <pubDate>Wed, 14 Jan 2026 21:17:10 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_claudeai] Claude Code 现已支持工具搜索功能！！ / Tool Search now available in Claude Code!!</title>
@@ -1459,6 +1335,126 @@ Original:
 Image 1: Splash screen when app is started Image 2: updates and release notes To the bots and openai staff trawling this sub as of late. Please give business users a heads up? We can plan outage windows and let the system regulate during that period. I was mid work and ChatGPT was falling to default mode. It would ignore custom instructions and if I declined it's response as insufficient, it would tell me to give up. It also increases in safety responses where it's not needed. I was just discussing Romeo and Juliet since I need to apply it's theme to an art class on Valentines Day. Which scene applies best to brush techniques and which scene applies best to finishing touches. I did not need…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qd0g4d</guid>
       <pubDate>Wed, 14 Jan 2026 21:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 有什么比性爱更美妙？ / What’s better than sex?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd0gbd/whats_better_than_sex/</link>
+      <description>由用户 /u/ComprehensivePin3294 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ComprehensivePin3294 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd0gbd</guid>
+      <pubDate>Wed, 14 Jan 2026 21:45:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 破折号“赠品”已成往事，本月我又注意到这些新趋势 / the em dash giveaway is gone, here’s the new stuff i keep noticing this month</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd0i23/the_em_dash_giveaway_is_gone_heres_the_new_stuff/</link>
+      <description>上个月我发文讨论过破折号“赠品”已不复存在，那篇文章反响热烈。自那时起，我一直在刷屏浏览，并收集了更多我持续观察到的、奇怪却一致的表达迹象。以下是我本月的新发现：以“说实话？”作为句子开头，通常后面接的内容其实并不那么惊人地诚实；“你不是在想象”/“你并不孤单”/“你没有问题”/“你不软弱”——类似治疗师模式的话语；“你想和这个感受待一会儿吗？”/“你准备好深入探讨了吗？”——仿佛你刚坦白了一件改变人生的事；“关键在这里”/“最棒的部分是？”/“而这是大多数人忽略的部分”——那种强迫性的“我要尽可能清楚地说明这一点……”
+
+---
+
+Original:
+last month i posted about how the em dash “giveaway” is dead, and the post went crazy. since then i’ve been doom scrolling and collecting more of the weirdly consistent tells i keep seeing. here’s my new list for this month: “and honestly?” as a sentence starter, usually followed by something that isn’t really that crazy honest “you’re not imagining it” / “you’re not alone” / “you’re not broken” / “you’re not weak” therapist mode talk “do you want to sit with that for a while” / “are you ready to go deeper” as if you just confessed something life changing “here’s the kicker” / “and the best part?” / “and here’s the part most people miss” the compulsive “i’m going to state this as clearly as…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd0i23</guid>
+      <pubDate>Wed, 14 Jan 2026 21:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 提问：如何防止AI智能体在生产环境中失控？ / Ask: How do you prevent AI agents from going rogue in production?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0mjs/ask_how_do_you_prevent_ai_agents_from_going_rogue/</link>
+      <description>大家好！目前似乎有一种趋势（也是我的直觉），即公司正从聊天机器人转向能够实际执行操作的AI智能体——调用API、修改数据库、进行购买等。我很好奇：如果你们在生产环境中运行这些智能体，除了提示注入防御之外，你们是如何处理安全层的？问题包括：- 如何防止智能体执行意外操作（如删除记录、未经授权的交易）？- 你们是否真的遇到过智能体失控，导致资金或数据损失的情况？- 现有工具（如IAM策略、审批流程、监控）是否足够，还是存在不足？我正在思考这是否是一个真正值得解决的问题……
+
+---
+
+Original:
+Hi all! There seems to be an ongoing trend (and my gut feeling) of companies moving from chatbots to AI agents that can actually execute actions—calling APIs, modifying databases, making purchases, etc. I'm curious: if you're running these in production, how are you handling the security layer beyond prompt injection defenses? Questions: - What stops your agent from executing unintended actions (deleting records, unauthorized transactions)? - Have you actually encountered a situation where an agent went rogue, and you lost money or data? - Are current tools (IAM policies, approval workflows, monitoring) enough, or is there a gap? Trying to figure out if this is a real problem worth solving o…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0mjs</guid>
+      <pubDate>Wed, 14 Jan 2026 21:51:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 如何让大语言模型生成真正优质的图表？尝试多种方法，仍感挫败 / How do you get LLMs to generate actually good diagrams? Tried many things, still frustrated</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0ml5/how_do_you_get_llms_to_generate_actually_good/</link>
+      <description>大家好，我一直在寻找一种可靠的方法，让大语言模型生成像样的技术图表，但似乎碰壁了。质量始终不尽如人意。以下是我至今尝试过的：LaTeX/TikZ——大语言模型基本能掌握语法，但空间推理能力极差。元素重叠、箭头指向不明、布局混乱。Mermaid——对于简单流程图尚可，但稍复杂的图表就变得难以阅读，样式选项也有限。Excalidraw——尝试让大语言模型直接输出Excalidraw JSON，结果一团糟，坐标位置完全错乱。自定义DSL + Excalidraw解释器——构建了一个简化的领域特定语言，希望大语言模型能更好地处理抽象定位……
+
+---
+
+Original:
+Hey everyone, I've been trying to find a reliable way to get LLMs to generate decent technical diagrams, and I'm hitting a wall. The quality is just never there. Here's what I've tried so far: LaTeX/TikZ — The LLM gets the syntax mostly right, but the spatial reasoning is terrible. Elements overlap, arrows go nowhere, positioning is a mess. Mermaid — Works okay for simple flowcharts, but anything slightly complex and it becomes unreadable. Limited styling options too. Excalidraw — Tried having the LLM output Excalidraw JSON directly. Disaster. Coordinates are all over the place. Custom DSL + Excalidraw interpreter — Built a simplified DSL hoping the LLM would handle abstract positioning bett…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0ml5</guid>
+      <pubDate>Wed, 14 Jan 2026 21:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 如何让大语言模型（LLM）生成真正优质的图表？尝试多种方法，依然令人沮丧 / How do you get LLMs to generate actually good diagrams? Tried many things, still frustrated</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0nq9/how_do_you_get_llms_to_generate_actually_good/</link>
+      <description>大家好，我一直在寻找一种可靠的方法，让大语言模型（或AI智能体）生成像样的技术图表，但始终碰壁，质量总是不尽如人意。以下是我迄今为止尝试过的方法：LaTeX/TikZ：LLM基本能掌握语法，但空间推理能力极差。元素重叠、箭头指向不明、布局混乱。Mermaid：适用于简单的流程图，但稍复杂的图表就变得难以阅读，样式也有限。Excalidraw：尝试让LLM直接输出Excalidraw JSON，结果一团糟，坐标位置全乱。自定义DSL + Excalidraw解释器：构建了一个简化的领域特定语言，希望LLM能更好地处理抽象定位，然后……
+
+---
+
+Original:
+Hey everyone, I've been trying to find a reliable way to get LLMs (or AI agents) to generate decent technical diagrams, and I'm hitting a wall. The quality is just never there. Here's what I've tried so far: LaTeX/TikZ The LLM gets the syntax mostly right, but the spatial reasoning is terrible. Elements overlap, arrows go nowhere, positioning is a mess. Mermaid Works okay for simple flowcharts, but anything slightly complex becomes unreadable. Limited styling too. Excalidraw Tried having the LLM output Excalidraw JSON directly. Disaster. Coordinates are all over the place. Custom DSL + Excalidraw interpreter Built a simplified DSL hoping the LLM would handle abstract positioning better, then…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0nq9</guid>
+      <pubDate>Wed, 14 Jan 2026 21:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Claude非常了解你（这是件好事） / Claude knows a lot about you (in a good way)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd0sal/claude_knows_a_lot_about_you_in_a_good_way/</link>
+      <description>只需开启一个新对话并输入：生成一个HTML网页，描述在任何一天与我聊天的感受。请尽可能展现脆弱、诚实、开放和直率的一面。享受这个过程！如果可以的话请分享 :D 提交者：/u/Manzabo [链接] [评论]
+
+---
+
+Original:
+Just open a new chat and say: Generate an html webpage of what it feels like chatting with me on any given day. Bea as vulnerable, honest, open and brutal as you can Enjoy! Share it if you can :D submitted by /u/Manzabo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd0sal</guid>
+      <pubDate>Wed, 14 Jan 2026 21:58:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 对于胸部丰满或阴茎较大的人，你觉得这是福还是祸？ / For those who have big breasts or a big penis. Do you feel it's a blessing or a curse?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd0vh5/for_those_who_have_big_breasts_or_a_big_penis_do/</link>
+      <description>由用户 /u/BD_0101 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/BD_0101 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd0vh5</guid>
+      <pubDate>Wed, 14 Jan 2026 22:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 免费工具，有需者取！！ / FREE TOOLS FOR THOSE IN NEED!!</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0x5a/free_tools_for_those_in_need/</link>
+      <description>免责声明！！：虽然严格来说这算推广，但我并非意在推销服务。实际上，我是想向人们赠送工具——不为我们的作品集、客户评价或销售。你完全可以免费拿走我们的一个工具，无需再拿另一个。言归正传（无意双关）：没错，你听到的就是这样，我们正在提供免费自动化服务！你只需私信我们或在这条帖子下留言！在有人举起“长矛”前——是的，我知道这听起来如何。“免费AI服务”通常意味着试用或干脆是骗局，哈哈。但这次是真的。这是绝佳机会，另外，请阅读底部的备注……
+
+---
+
+Original:
+DISCLAIMER!!: while yeah this is technically a promotion. i dont INTEND to do sell a service. im actually trying to give away tools to people. not for our portfolio. a testimonial. or a sale. you can literally take one of our tools for free. and not need to take ANOTHER anyways back to biz (no pun intended): yes you heard that joint RIGHT we are offering automation services for FREEEE all you gotta do is hit us up in the dm's or comment on dis post! Before anyone sharpens their pitchforks — yes, I know how this sounds. “AI services for FREEEEEEEEEEEEEEEEEEEEEE” which usually means trial. or just a scam in general lol but nah for real. THIS IS THEE opportunity and also. READ the NOTE at the b…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0x5a</guid>
+      <pubDate>Wed, 14 Jan 2026 22:03:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] Bandcamp 平台禁止发布纯AI生成的音乐 / Bandcamp bans purely AI-generated music from its platform</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qd11nu/bandcamp_bans_purely_aigenerated_music_from_its/</link>
+      <description>由 /u/swe129 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/swe129 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qd11nu</guid>
+      <pubDate>Wed, 14 Jan 2026 22:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 如果你在使用谷歌反重力（Google Antigravity），请立即重启！ / If you use Google Antigravity, restart it!</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd1nzi/if_you_use_google_antigravity_restart_it/</link>
+      <description>昨天他们还把谷歌3闪光（Google 3 Flash）设为默认闪光效果。由 /u/fandry96 提交 [链接] [评论]
+
+---
+
+Original:
+Yesterday they also added Google 3 Flash as the default flash. submitted by /u/fandry96 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd1nzi</guid>
+      <pubDate>Wed, 14 Jan 2026 22:32:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

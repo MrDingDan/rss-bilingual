@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:36:13 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1176,6 +1176,54 @@ Original:
 Hi, I'm very interested in a career of AI Agent Engineering. I'd love to hear stories of how you landed your Agent Engineering role. I started building AI Agents last year, and I'm getting hands on experience with a lot of sub-skills like prompt and context engineering, tool design, and skills. I'm curious to hear from others in this role about: General location (state/country is fine) Industry Do you have a technical degree like Computer Science, or IT? How many years experience with programming/software eng. before landing your role? Did you apply cold or was it through networking? Did having a project portfolio help? What do you think helped most to get the job? submitted by /u/reidkimbal…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qczslq</guid>
       <pubDate>Wed, 14 Jan 2026 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>提问：如何防止AI智能体在生产环境中失控？ / Ask: How do you prevent AI agents from going rogue in production?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0mjs/ask_how_do_you_prevent_ai_agents_from_going_rogue/</link>
+      <description>大家好！目前似乎有一种趋势（也是我的直觉），即公司正从聊天机器人转向能够实际执行操作的AI智能体——调用API、修改数据库、进行购买等。我很好奇：如果你们在生产环境中运行这些智能体，除了提示注入防御之外，你们是如何处理安全层的？问题包括：- 如何防止智能体执行意外操作（如删除记录、未经授权的交易）？- 你们是否真的遇到过智能体失控，导致资金或数据损失的情况？- 现有工具（如IAM策略、审批流程、监控）是否足够，还是存在不足？我正在思考这是否是一个真正值得解决的问题……
+
+---
+
+Original:
+Hi all! There seems to be an ongoing trend (and my gut feeling) of companies moving from chatbots to AI agents that can actually execute actions—calling APIs, modifying databases, making purchases, etc. I'm curious: if you're running these in production, how are you handling the security layer beyond prompt injection defenses? Questions: - What stops your agent from executing unintended actions (deleting records, unauthorized transactions)? - Have you actually encountered a situation where an agent went rogue, and you lost money or data? - Are current tools (IAM policies, approval workflows, monitoring) enough, or is there a gap? Trying to figure out if this is a real problem worth solving o…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0mjs</guid>
+      <pubDate>Wed, 14 Jan 2026 21:51:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何让大语言模型生成真正优质的图表？尝试多种方法，仍感挫败 / How do you get LLMs to generate actually good diagrams? Tried many things, still frustrated</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0ml5/how_do_you_get_llms_to_generate_actually_good/</link>
+      <description>大家好，我一直在寻找一种可靠的方法，让大语言模型生成像样的技术图表，但似乎碰壁了。质量始终不尽如人意。以下是我至今尝试过的：LaTeX/TikZ——大语言模型基本能掌握语法，但空间推理能力极差。元素重叠、箭头指向不明、布局混乱。Mermaid——对于简单流程图尚可，但稍复杂的图表就变得难以阅读，样式选项也有限。Excalidraw——尝试让大语言模型直接输出Excalidraw JSON，结果一团糟，坐标位置完全错乱。自定义DSL + Excalidraw解释器——构建了一个简化的领域特定语言，希望大语言模型能更好地处理抽象定位……
+
+---
+
+Original:
+Hey everyone, I've been trying to find a reliable way to get LLMs to generate decent technical diagrams, and I'm hitting a wall. The quality is just never there. Here's what I've tried so far: LaTeX/TikZ — The LLM gets the syntax mostly right, but the spatial reasoning is terrible. Elements overlap, arrows go nowhere, positioning is a mess. Mermaid — Works okay for simple flowcharts, but anything slightly complex and it becomes unreadable. Limited styling options too. Excalidraw — Tried having the LLM output Excalidraw JSON directly. Disaster. Coordinates are all over the place. Custom DSL + Excalidraw interpreter — Built a simplified DSL hoping the LLM would handle abstract positioning bett…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0ml5</guid>
+      <pubDate>Wed, 14 Jan 2026 21:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何让大语言模型（LLM）生成真正优质的图表？尝试多种方法，依然令人沮丧 / How do you get LLMs to generate actually good diagrams? Tried many things, still frustrated</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0nq9/how_do_you_get_llms_to_generate_actually_good/</link>
+      <description>大家好，我一直在寻找一种可靠的方法，让大语言模型（或AI智能体）生成像样的技术图表，但始终碰壁，质量总是不尽如人意。以下是我迄今为止尝试过的方法：LaTeX/TikZ：LLM基本能掌握语法，但空间推理能力极差。元素重叠、箭头指向不明、布局混乱。Mermaid：适用于简单的流程图，但稍复杂的图表就变得难以阅读，样式也有限。Excalidraw：尝试让LLM直接输出Excalidraw JSON，结果一团糟，坐标位置全乱。自定义DSL + Excalidraw解释器：构建了一个简化的领域特定语言，希望LLM能更好地处理抽象定位，然后……
+
+---
+
+Original:
+Hey everyone, I've been trying to find a reliable way to get LLMs (or AI agents) to generate decent technical diagrams, and I'm hitting a wall. The quality is just never there. Here's what I've tried so far: LaTeX/TikZ The LLM gets the syntax mostly right, but the spatial reasoning is terrible. Elements overlap, arrows go nowhere, positioning is a mess. Mermaid Works okay for simple flowcharts, but anything slightly complex becomes unreadable. Limited styling too. Excalidraw Tried having the LLM output Excalidraw JSON directly. Disaster. Coordinates are all over the place. Custom DSL + Excalidraw interpreter Built a simplified DSL hoping the LLM would handle abstract positioning better, then…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0nq9</guid>
+      <pubDate>Wed, 14 Jan 2026 21:53:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>免费工具，有需者取！！ / FREE TOOLS FOR THOSE IN NEED!!</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0x5a/free_tools_for_those_in_need/</link>
+      <description>免责声明！！：虽然严格来说这算推广，但我并非意在推销服务。实际上，我是想向人们赠送工具——不为我们的作品集、客户评价或销售。你完全可以免费拿走我们的一个工具，无需再拿另一个。言归正传（无意双关）：没错，你听到的就是这样，我们正在提供免费自动化服务！你只需私信我们或在这条帖子下留言！在有人举起“长矛”前——是的，我知道这听起来如何。“免费AI服务”通常意味着试用或干脆是骗局，哈哈。但这次是真的。这是绝佳机会，另外，请阅读底部的备注……
+
+---
+
+Original:
+DISCLAIMER!!: while yeah this is technically a promotion. i dont INTEND to do sell a service. im actually trying to give away tools to people. not for our portfolio. a testimonial. or a sale. you can literally take one of our tools for free. and not need to take ANOTHER anyways back to biz (no pun intended): yes you heard that joint RIGHT we are offering automation services for FREEEE all you gotta do is hit us up in the dm's or comment on dis post! Before anyone sharpens their pitchforks — yes, I know how this sounds. “AI services for FREEEEEEEEEEEEEEEEEEEEEE” which usually means trial. or just a scam in general lol but nah for real. THIS IS THEE opportunity and also. READ the NOTE at the b…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0x5a</guid>
+      <pubDate>Wed, 14 Jan 2026 22:03:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

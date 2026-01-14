@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:51:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:37:01 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1113,6 +1113,18 @@ I've been able to do some pretty intense coding sessions with Claude Opus 4.5, b
       <pubDate>Wed, 14 Jan 2026 20:41:23 +0000</pubDate>
     </item>
     <item>
+      <title>还有人在Claude Code 2.1.7中遇到“达到上下文限制”的错误吗？ / Anyone else getting “Context limit reached” in Claude Code 2.1.7?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qczpzg/anyone_else_getting_context_limit_reached_in/</link>
+      <description>以下是一个简洁清晰的英文版本，你可以发布在Reddit上：我在使用Claude Code时遇到了问题。我使用的是2.1.7版本，一直收到这个错误提示：达到上下文限制 · 输入/compact或/clear以继续 Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;format=png&amp;auto=webp&amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 我打算尝试降级到稳定版本。我已经完全重新安装了Claude Code，包括原生安装程序和WSL2下的Ubuntu环境。还有其他人遇到这个问题吗？ 由/u/SilverMethor提交 [链接] [评论]
+
+---
+
+Original:
+Here is a simple, clear English version you can post on Reddit: I'm having a problem with Claude Code. I’m using version 2.1.7 and I keep getting this error: Context limit reached · /compact or /clear to continue Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;format=png&amp;auto=webp&amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 I'm going to try downgrading to the stable version. I already did a full reinstall of Claude Code. Native installer and WSL2 with Ubuntu. Is anyone else having this problem? submitted by /u/SilverMethor [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qczpzg</guid>
+      <pubDate>Wed, 14 Jan 2026 21:17:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code 现已支持工具搜索功能！！ / Tool Search now available in Claude Code!!</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qczqsx/tool_search_now_available_in_claude_code/</link>
       <description>推文：今天我们为 Claude Code 推出了 MCP 工具搜索功能。随着 MCP 协议日益普及、智能体能力不断增强，我们发现 MCP 服务器可能包含 50 多个工具，会占用大量上下文空间。工具搜索功能让 Claude Code 能在 MCP 工具可能占用大量上下文时，动态地将工具加载到上下文中。运作方式：- Claude Code 会检测您的 MCP 工具描述是否将占用超过 10% 的上下文空间 - 触发时，工具将通过搜索加载，而非预先加载。除此之外，MCP 工具的工作方式与之前完全相同。这解决了我们在 GitHub 上最受期待的功能之一：MCP 服务器的延迟加载。用户们一直在记录…
@@ -1123,6 +1135,18 @@ Original:
 Tweet: Today we're rolling out MCP Tool Search for Claude Code. As MCP has grown to become a more popular protocol and agents have become more capable, we've found that MCP servers may have up to 50+ tools and take up a large amount of context. Tool Search allows Claude Code to dynamically load tools into context when MCP tools would otherwise take up a lot of context. How it works: - Claude Code detects when your MCP tool descriptions would use more than 10% of context - When triggered, tools are loaded via search instead of preloaded Otherwise, MCP tools work exactly as before. This resolves one of our most-requested features on GitHub: lazy loading for MCP servers. Users were documenting…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qczqsx</guid>
       <pubDate>Wed, 14 Jan 2026 21:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude非常了解你（这是件好事） / Claude knows a lot about you (in a good way)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd0sal/claude_knows_a_lot_about_you_in_a_good_way/</link>
+      <description>只需开启一个新对话并输入：生成一个HTML网页，描述在任何一天与我聊天的感受。请尽可能展现脆弱、诚实、开放和直率的一面。享受这个过程！如果可以的话请分享 :D 提交者：/u/Manzabo [链接] [评论]
+
+---
+
+Original:
+Just open a new chat and say: Generate an html webpage of what it feels like chatting with me on any given day. Bea as vulnerable, honest, open and brutal as you can Enjoy! Share it if you can :D submitted by /u/Manzabo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd0sal</guid>
+      <pubDate>Wed, 14 Jan 2026 21:58:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

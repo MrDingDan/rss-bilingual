@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:37:11 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -714,6 +714,18 @@ Original:
 submitted by /u/Gaiden206 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qd0dc2</guid>
       <pubDate>Wed, 14 Jan 2026 21:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果你在使用谷歌反重力（Google Antigravity），请立即重启！ / If you use Google Antigravity, restart it!</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd1nzi/if_you_use_google_antigravity_restart_it/</link>
+      <description>昨天他们还把谷歌3闪光（Google 3 Flash）设为默认闪光效果。由 /u/fandry96 提交 [链接] [评论]
+
+---
+
+Original:
+Yesterday they also added Google 3 Flash as the default flash. submitted by /u/fandry96 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd1nzi</guid>
+      <pubDate>Wed, 14 Jan 2026 22:32:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
