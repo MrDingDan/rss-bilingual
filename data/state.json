@@ -833,7 +833,9 @@
     "reddit-askreddit::t3_1qd1219": 1768433227,
     "reddit-askreddit::t3_1qcxl7p": 1768433231,
     "reddit-tasker::t3_1qd2neh": 1768433241,
-    "xgo-f299207d::2011563840933359903": 1768433252
+    "xgo-f299207d::2011563840933359903": 1768433252,
+    "reddit-chatgpt::t3_1qd2wrq": 1768434381,
+    "reddit-askreddit::t3_1qd1b09": 1768434387
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4135,6 +4137,14 @@
     "09bcc1232431207c5bfaacadd4a47b151b6b579ed67771eedd703392462805f6": {
       "zh_title": "确实可以使用LangSmith记录Claude Code的追踪日志！",
       "zh_summary": "确实可以使用LangSmith记录Claude Code的追踪日志！文档地址：docs.langchain.com/langsmith/trac… Muhammad Junaid @MJunaidshaukat @hwchase17 @sydneyrunkle @hwchase17 我在想是否能在CLI编码代理（特别是Claude Code）中使用langsmith追踪功能。观察其使用技能、子代理和后台任务的决定将会很有价值。🔗 查看引用推文 💬 3 🔄 3 ❤️ 4 👀 967 📊 4 ⚡ 由xgo.ing驱动"
+    },
+    "44d1d918d11163125ad996bb66178db532e5641356e3b0f1a4bae1ef6c4a77a7": {
+      "zh_title": "天呐",
+      "zh_summary": "生成一张你认为我日常生活中普通一天的图片。请尽可能诚实和透明地呈现。由 /u/ChangeTChannel 提交 [链接] [评论]"
+    },
+    "8d0957dd29ae3f30dd6a2bfdd47e659b571f0da279cd3c6a383e62d88ac4ec3a": {
+      "zh_title": "你有什么能快速入睡的有效方法？",
+      "zh_summary": "由 /u/Adventurous-Panda61 提交 [链接] [评论]"
     }
   }
 }

@@ -6,31 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:27:32 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_bard] 专业版型号无法使用 / Pro model doesn't work</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qcplan/pro_model_doesnt_work/</link>
-      <description>由用户 /u/Pechenka3000 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Pechenka3000 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qcplan</guid>
-      <pubDate>Wed, 14 Jan 2026 15:05:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 2018年对比2026年 / 2018 vs 2026</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcpr0m/2018_vs_2026/</link>
-      <description>由/u/MetaKnowing提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcpr0m</guid>
-      <pubDate>Wed, 14 Jan 2026 15:11:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 23:46:30 +0000</lastBuildDate>
     <item>
       <title>[reddit_chatgpt] 2018年对比2026年 / 2018 vs 2026</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qcprn4/2018_vs_2026/</link>
@@ -1373,6 +1349,18 @@ submitted by /u/Advanced-Pilot-3698 [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 22:08:13 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你有什么能快速入睡的有效方法？ / What’s your proven method to falling asleep instantly?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd1b09/whats_your_proven_method_to_falling_asleep/</link>
+      <description>由 /u/Adventurous-Panda61 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Adventurous-Panda61 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd1b09</guid>
+      <pubDate>Wed, 14 Jan 2026 22:18:02 +0000</pubDate>
+    </item>
+    <item>
       <title>[xgo_f299207d] 确实可以使用LangSmith记录Claude Code的追踪日志！ / you can indeed use LangSmith to log your Claude Code traces!
 
 docs: https://t.co/veDjBwu32K</title>
@@ -1457,6 +1445,18 @@ Original:
 Hello, I am wondering what is the typical input and output tokens ratio for agents you are developing. The following is the stats for one of the agents I built for my product after a number of runs. I have limits for output max tokens at 4096. Hence the ratio is very small. I'm wondering whether I should increase the output (obviously it increase input too as output will be part of history/context for the subsequent runs). What are people's thoughts? type value Input 5600543 Output 39005 I looked into github copilot models config for output, the typical ones are 16K, 64k, 128K for output. Note the models I am using support generating more than 4096 tokens definitely. submitted by /u/tangr208…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qd2v7j</guid>
       <pubDate>Wed, 14 Jan 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 天呐 / yikes</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd2wrq/yikes/</link>
+      <description>生成一张你认为我日常生活中普通一天的图片。请尽可能诚实和透明地呈现。由 /u/ChangeTChannel 提交 [链接] [评论]
+
+---
+
+Original:
+generate me an image of what you think a normal day in my life looks like. Be as honest and transparent as possible submitted by /u/ChangeTChannel [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd2wrq</guid>
+      <pubDate>Wed, 14 Jan 2026 23:21:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
