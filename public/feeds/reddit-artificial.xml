@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:40:22 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -570,6 +570,18 @@ Original:
 Like a lot of people here, I keep seeing new AI tools pop up every single day . Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qcjtln</guid>
       <pubDate>Wed, 14 Jan 2026 10:24:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>人类KSP玩家与ChatGPT使用deltaV地图进行的deltaV计算对比 / DeltaV calculation comparison between human KSP player and ChatGPT using deltaV map</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcod47/deltav_calculation_comparison_between_human_ksp/</link>
+      <description>我对当前版本ChatGPT（5.2思维版，使用最基础的Plus订阅）的数学和图像识别能力感到好奇。步骤：我向它提供了r/KerbalAcademy的deltaV地图，并询问从Kerbin表面到达Sarnus低轨道需要多少deltaV。在ChatGPT计算的同时，我自己也进行了计算，得出结果为28,980 m/s的deltaV。我大约花了1分钟阅读图像并在手机计算器应用中累加数值。结果：ChatGPT花费了23分6秒来查看deltaV地图（它多次裁剪图像以观察不同部分），并得出了与我完全相同的答案：28,980 m/s。后续：我感到印象深刻…
+
+---
+
+Original:
+I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map , and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impresse…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcod47</guid>
+      <pubDate>Wed, 14 Jan 2026 14:15:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:41:07 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -823,6 +823,30 @@ Original:
 The Guardian calls for urgent regulatory action against X and its AI chatbot, Grok, following a viral trend where users generated non-consensual "bikini" or nude images of women and children. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qclslw</guid>
       <pubDate>Wed, 14 Jan 2026 12:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>5.2 Pro 在维基百科所列的数学难题上取得进展 / 5.2 Pro makes progress on decades long math problem listed on Wikipedia</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qco4d7/52_pro_makes_progress_on_decades_long_math/</link>
+      <description>PDF 链接：https://archivara.org/pdf/927a9c63-afb5-4789-8ed5-c323e961056e，由 /u/gbomb13 提交 [链接] [评论]
+
+---
+
+Original:
+pdf: https://archivara.org/pdf/927a9c63-afb5-4789-8ed5-c323e961056e submitted by /u/gbomb13 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qco4d7</guid>
+      <pubDate>Wed, 14 Jan 2026 14:05:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>语音模式体验变差 / Voice mode getting worse</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcoljr/voice_mode_getting_worse/</link>
+      <description>我从第一天起就在用got的语音模式，当时立刻爱上了它。无论是走路时聊天，还是开车时头脑风暴，它都帮了我大忙。其他模型或应用都无法与之相比——尽管我用Claude来编程和vibeops，但它们的语音模式完全没法用。话虽如此，我感觉现在质量明显下降了。我不是指语音本身，它比一年前好多了（虽然音调有时会奇怪地忽高忽低），而是对话的质量。它似乎变得……有点笨拙和老套。总在重复和转述我的话（我又不需要心理医生：D），也想不出什么新点子……
+
+---
+
+Original:
+So I've been using the got voice mode from the very first day and I fell in love instantly. I mean I used it to talk while waking, to brainstorm while driving, it helped me a lot. No other model/app could come close, event though I use Claude for coding and vibeops, they have totally unusable voice mode. Having said that, I have a feeling the quality went really down. I don't mean the voice - it's much better than year ago (although the pitch goes up and down sometimes in a bizarre manner) but the quality of conversation itself. I mean it got somehow... stupid and cliche. It keeps repeating and paraphrasing my words (I don't need no shrink here :D), It doesn't really come up with new ideas,…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcoljr</guid>
+      <pubDate>Wed, 14 Jan 2026 14:25:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

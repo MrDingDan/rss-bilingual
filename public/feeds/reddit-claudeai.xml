@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:40:43 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -952,6 +952,18 @@ Original:
 When I finally hit a groove with AI I remember getting nervous and thinking if I can do this can everyone? However, I will then read articles about how many bugs there are in AI code, or churn rates in vibe coding apps, or just seeing AI do something while I am building/reviewing and thinking man if I didn't know what I was doing that would of been bad. I am kind of curious what everyone's feelings on this are. Are there a ton of developers working with AI at fast speed creating stable production code or is that a minority and in reality a lot of coding is probably terrible, doesn't handle edge cases etc.. but because the person producing it is inexperienced they just don't know. I am furthe…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcnont</guid>
       <pubDate>Wed, 14 Jan 2026 13:46:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude的GitHub集成功能显示容量为0%的问题 / Issue with Claude's github integration showing 0% capacity</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnzc4/issue_with_claudes_github_integration_showing_0/</link>
+      <description>从周一开始，我的Claude就遇到了问题。Claude/Anthropic技术支持没有回应，他们的状态页面也没有提及这个问题。Git集成功能似乎已经无法正常工作。每当我尝试添加Git项目时，它都显示容量为0%。（见截图）https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;format=png&amp;auto=webp&amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 尝试了常用的调试方法，但都没用：重新连接、清除缓存、重新安装Git连接器、重新导入项目、尝试不同的项目。还有其他人遇到类似问题吗？ 提交者：/u/JackAmb [链接] [评论]
+
+---
+
+Original:
+I've been having an issue with Claude since Monday. Claude / Anthropic support is ignoring me and their status page doesn't address this issue. The git integration feature seems to have stopped working correctly. Whenever I try to add a git project, it lists it as 0% capacity. (see screenshot) https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;format=png&amp;auto=webp&amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 Tried the usual debugging methods, to no avail : Reconnecting Clearing cache Reinstaller git connector Reimporting project Reusing a different project Has anyone else been dealing with a similar issue ? submitted by /u/JackAmb [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcnzc4</guid>
+      <pubDate>Wed, 14 Jan 2026 13:59:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

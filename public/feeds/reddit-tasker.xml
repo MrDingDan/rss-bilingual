@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:41:55 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -318,6 +318,30 @@ Original:
 Hello, I'm looking for a way to hide or disable FABs on the main UI. They are overlapping bottom profile and tasks toggles buttons. Tasker UI screenshot submitted by /u/CoooolRaoul [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qcgcbz</guid>
       <pubDate>Wed, 14 Jan 2026 06:46:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>异常账户？推荐奖励？我有70美元要送给接下来几位能成功完成任务的人。尽快私信我。付款凭证充足 / Outlier accounts? Referrals? I have $70 I’m giving to the next few people that can successfully complete a task. DM asap. Payproof plenty</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qco55i/outlier_accounts_referrals_i_have_70_im_giving_to/</link>
+      <description>由 /u/Sharp_Appointment588 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Sharp_Appointment588 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qco55i</guid>
+      <pubDate>Wed, 14 Jan 2026 14:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>在键盘上按回车/搜索键时，在查找器（Finder）中打开首个搜索结果应用（使用Tasker） / Open first searched app in finder when you press enter/search button on keyboard (Using Tasker)</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qco9qn/open_first_searched_app_in_finder_when_you_press/</link>
+      <description>分享这个技巧，或许能帮到有需要的人。我试过搜索类似方法，但没找到可用的方案。我并非专家，只是反复尝试直到成功。如果有更懂行的朋友能指点改进方法，欢迎留言。我的目标是：在三星的应用抽屉中使用搜索功能（也称查找器）查找应用时，直接按回车键就能打开第一个搜索结果，而不用再移到屏幕顶部去点击应用图标。据我所知，iOS和部分安卓系统已有此功能。One UI默认不支持，实在令人困扰……
+
+---
+
+Original:
+I am posting this just in case someone else will find it helpful. I tried searching for something similar to this but haven't found anything that works anywhere. I'm not expert by any means, just fiddled with things until it worked. If anyone with more knowledge would like to point out how to do this better please do comment so. What I wanted to happen: Open the first search result of apps when you open the app drawer and search for something using Samsung's search (also known as finder) and then press Enter rather than going to the top of the screen and pressing the app icon. This is already a feature on iOS and some other Android afaik. Super frustrating that this isn't the default on One…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qco9qn</guid>
+      <pubDate>Wed, 14 Jan 2026 14:11:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
