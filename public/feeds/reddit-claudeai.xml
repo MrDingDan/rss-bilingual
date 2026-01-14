@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 11:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:03:44 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -882,6 +882,18 @@ As I am sure you are aware, there is a major outage happening right now. I have 
       <pubDate>Wed, 14 Jan 2026 10:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>Claude代码简化插件内部揭秘：Anthropic如何保持自家代码库整洁 / Inside Claude’s Code-Simplifier Plugin: How Anthropic Keeps Its Own Codebase Clean</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qck6mj/inside_claudes_codesimplifier_plugin_how/</link>
+      <description>Anthropic内部开发了一款工具，能自动重构AI生成的代码，提升代码清晰度和可维护性。该工具由/u/jpcaparas提交分享。
+
+---
+
+Original:
+The internal Anthropic tool that automatically refactors AI-generated code for clarity and maintainability submitted by /u/jpcaparas [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qck6mj</guid>
+      <pubDate>Wed, 14 Jan 2026 10:46:32 +0000</pubDate>
+    </item>
+    <item>
       <title>我们完蛋了 / We are cooked</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qckv00/we_are_cooked/</link>
       <description>由 /u/baalm4 提交 [链接] [评论]
@@ -892,6 +904,54 @@ Original:
 submitted by /u/baalm4 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qckv00</guid>
       <pubDate>Wed, 14 Jan 2026 11:26:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude清楚自己的未知领域——数据证明了这一点（公开数据集） / Claude knows what it doesn't know - and the data proves it (open dataset)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcl2mk/claude_knows_what_it_doesnt_know_and_the_data/</link>
+      <description>过去六个月，我追踪了852次会话中AI的认知自我评估。在8.7万次观察后，结果显而易见：AI的置信度可以通过证据进行自我校准——而Claude是主要研究对象（数据占比超70%）。关键发现：- 91.3%的会话在执行任务过程中显示出知识提升 - 随着证据积累，校准方差下降62倍 - AI在任务开始时系统性低估自身知识，随后逐渐趋近真实水平 - 该模式在Claude、GPT、Gemini、Qwen、Mistral、Minimax及所有具备推理能力的AI中普遍成立。这与AI是否具备感知无关——这是基于实时知识掌握程度的功能性测量。就像温度计不会感知热量，但能测量温度……
+
+---
+
+Original:
+I've been tracking AI epistemic self-assessment across 852 sessions over 6 months. 87k observations later, the results are clear: AI confidence can be self calibrated with evidence - and Claude is the primary subject (70%+ of data). Key findings: - 91.3% of sessions showed knowledge improvement during task execution - Calibration variance drops 62× as evidence accumulates - AIs systematically underestimate knowledge at task start, then converge - Pattern holds across Claude, GPT, Gemini, Qwen, Mistral, Minimax, and any reasoning capable AI. This isn't about AI sentience - it's functional measurement based on knowledge possessed at the time. Like a thermometer doesn't feel hot but measures te…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcl2mk</guid>
+      <pubDate>Wed, 14 Jan 2026 11:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>今日新知：OpenAI有针对HIPAA合规的定制价格方案，Claude（Anthropic）未来是否也会推出类似服务？ / TIL that there's a custom price for OpenAI that's usable for HIPAA compliance, any chance Claude will do the same?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcm0c3/til_that_theres_a_custom_price_for_openai_thats/</link>
+      <description>我主要开发医疗健康系统/原型。想知道Claude（Anthropic）是否会沿相似方向推出相应服务，还是说我可能已经错过了相关消息。由/u/jumpDefendRoyal7530提交
+
+---
+
+Original:
+I mainly build healthcare systems / prototypes. Wondering if Claude is gonna release something similar along the line or I just missed it maybe. submitted by /u/jumpDefendRoyal7530 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcm0c3</guid>
+      <pubDate>Wed, 14 Jan 2026 12:28:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>在Kilo代码审查中测试Gemini 3 Pro、GPT 5.2与Opus 4.5 / Tested Gemini 3 Pro vs GPT 5.2 vs Opus 4.5 on Kilo's Code Reviews</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnbwv/tested_gemini_3_pro_vs_gpt_52_vs_opus_45_on_kilos/</link>
+      <description>需要说明：我与Kilo Code团队有密切合作，请结合此背景看待以下内容。尽管如此，我认为本次测试结果对于任何想了解AI模型在代码审查任务中表现的人都有实际参考价值。最近，我们在Kilo的代码审查中测试了三款免费模型：Grok Code Fast 1、MiniMax M2和Devstral 2。三者均成功识别出SQL注入和路径遍历等关键安全漏洞。为对比尖端前沿模型在同一测试中的表现，我们让GPT-5.2、Claude Opus 4.5和Gemini 3 Pro处理了相同的拉取请求。简而言之：GPT-5.2发现了最多问题（13个），包括一个其他模型均未捕捉到的安全漏洞。Claude Opu...
+
+---
+
+Original:
+Full disclosure: I work closely with the Kilo Code team, so take this with appropriate context. That said, I think the results from this test are genuinely interesting for anyone who's exploring how AI models work on code review tasks. Recently, we tested three free models on Kilo’s Code Reviews: Grok Code Fast 1, MiniMax M2, and Devstral 2. All three caught critical security vulnerabilities like SQL injection and path traversal. We wanted to see how state-of-the-art frontier models compare on the same test, so we ran GPT-5.2, Claude Opus 4.5, and Gemini 3 Pro through identical pull requests. TL;DR: GPT-5.2 found the most issues (13) including a security bug no other model caught. Claude Opu…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcnbwv</guid>
+      <pubDate>Wed, 14 Jan 2026 13:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI编程是否陷入了达克效应？ / Is AI Coding Dunning-Kruger?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnont/is_ai_coding_dunningkruger/</link>
+      <description>当我终于跟上AI编程的节奏时，我一度感到不安，心想：如果我能做到，是不是人人都可以？但随后我又会读到关于AI代码漏洞百出的文章，或是那些氛围编程应用的高流失率，又或是在自己开发/审查时目睹AI的某些操作，不禁暗想：如果我不懂行，那可就糟了。我挺好奇大家对此怎么看。究竟是有大批开发者借助AI高速产出稳定的生产代码，还是说这只是少数现象，现实中很多代码可能糟糕透顶，连边界情况都处理不好……只不过因为编写者经验不足，自己还没意识到罢了。我进一步……
+
+---
+
+Original:
+When I finally hit a groove with AI I remember getting nervous and thinking if I can do this can everyone? However, I will then read articles about how many bugs there are in AI code, or churn rates in vibe coding apps, or just seeing AI do something while I am building/reviewing and thinking man if I didn't know what I was doing that would of been bad. I am kind of curious what everyone's feelings on this are. Are there a ton of developers working with AI at fast speed creating stable production code or is that a minority and in reality a lot of coding is probably terrible, doesn't handle edge cases etc.. but because the person producing it is inexperienced they just don't know. I am furthe…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcnont</guid>
+      <pubDate>Wed, 14 Jan 2026 13:46:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

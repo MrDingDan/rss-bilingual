@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 11:50:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:01:59 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -858,6 +858,78 @@ Original:
 A lot of teams working with Laboratory Information Systems are starting to ask whether event-driven architecture is the future and honestly, it makes a ton of sense for environments where timing and traceability matter. Traditional request/response models work fine for static systems, but the moment you need samples triggering downstream steps, automatic notifications to clinicians, instrument data syncing in real time or quality flags firing workflows without waiting for batch updates, events become a game-changer. Event-driven LIS setups let every lab action sample received, test completed, instrument warning, physician request become a signal that kicks off the next workflow automatically…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcl5om</guid>
       <pubDate>Wed, 14 Jan 2026 11:43:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>电信专业应届生转向AI/自动化领域。这些入门项目合适吗？（使用n8n） / Recent Telecom Grad pivoting to AI/Automation. Are these good starter projects? (using n8n)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcl9rs/recent_telecom_grad_pivoting_to_aiautomation_are/</link>
+      <description>大家好，我是一名刚毕业的电信工程专业学生。目前刚入职一家公司，有机会深入接触人工智能和流程自动化。这和我所学专业略有不同，但我目前非常喜欢这份工作。我当前使用的主要工具是n8n，团队为我提出了三个入门练手项目。想请教大家：这些项目是否适合打基础？还是说我可能有些好高骛远？以下是项目规划：AI邮件分类与自动回复系统：分析收到的客服邮件并进行分类，根据意图发送相应的自动回复。网络托管...
+
+---
+
+Original:
+Hi everyone, I’m a recent Telecommunications Engineering graduate. I’ve just started working at a company where I’ve been given the opportunity to dive into AI and process automation. This is a bit of a shift from my degree, but I’m really enjoying it so far. My main tool right now is n8n , and my team has proposed three initial projects for me to cut my teeth on. I wanted to ask the community if these sound like solid projects to build a foundation, or if I might be biting off more than I can chew? Here is the roadmap: AI Email Classifier &amp; Auto-responder: Analyzing incoming support emails to categorize them and sending out the appropriate automated response based on the intent. Web-Hosted…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcl9rs</guid>
+      <pubDate>Wed, 14 Jan 2026 11:49:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>为我的首位客户每月节省50多个小时！ / Saved 50+ hours every month for my first client!</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qclly0/saved_50_hours_every_month_for_my_first_client/</link>
+      <description>我刚刚构建了第一个工作流，并免费提供给客户以积累作品集。我最近开始涉足工作流自动化领域，但发现没有声誉很难打入市场（不知为何人们总是不信任）。因此，我主动提出免费构建工作流，并打造了一个基于Apollo的潜在客户信息丰富引擎。我很自豪地说，这个工作流每周能为公司节省约50小时。在自动化之前，公司需要手动复制LinkedIn链接，逐一在Apollo中搜索，并将联系信息粘贴到Google Sheets中。现在，他们只需粘贴潜在客户的CSV文件，点击运行，工作流就能通过Apollo自动丰富每个联系人的信息（姓名、邮箱、公司、职位）……
+
+---
+
+Original:
+Just built my first workflow and gave it to a client for free to build my portfolio. I recently got started with workflow automation, but found it very hard to break in without a reputation (people just don’t trust for some reason). So I offered to build workflows for free and built a lead enrichment engine powered by Apollo. I’m very proud to say that this workflow saves the company ~50 hours a week. Before this automation, the company was manually copying LinkedIn URLs, searching Apollo one by one, and pasting contact info into Google Sheets. Now they can just paste a CSV of leads, hit run, and the workflow automatically enriches each contact through Apollo (name, email, company, title) an…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qclly0</guid>
+      <pubDate>Wed, 14 Jan 2026 12:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能是否正让人们在工作中变得不再重要，却未取代他们？ / Could AI be making people less relevant at work without replacing them?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcluv7/could_ai_be_making_people_less_relevant_at_work/</link>
+      <description>最近这个问题一直困扰着我。不是被解雇，也不是收到差评，而是……慢慢地被边缘化。越来越少的事情会征求你的意见。你的工作还在，但已不再是核心。事情在你不经意间就推进了，甚至不知道它们何时开始这样运转。我一直在想，这究竟是：• 一个正常的职业阶段，• 管理上的问题，• 还是自动化/人工智能悄然重塑工作流程所带来的影响。我并不想责怪技术或制造恐慌——只是试图了解是否其他人也有类似经历。真心希望听到真实的体验分享。阅读全文，链接在评论区。由 /u/Maximum_Ad2429 提交 [链接] [评论]
+
+---
+
+Original:
+This has been bothering me lately. Not getting fired. Not getting bad reviews. Just… slowly being less involved. Fewer decisions include you. Your work still exists, but it’s no longer central. Things move forward without you noticing when they started doing that. I keep wondering whether this is: • a normal career phase, • a management issue, • or a quiet effect of automation/AI reshaping how work flows. I’m not trying to blame technology or panic — just trying to understand if others have experienced this too. Would really like to hear honest experiences. Read the full article, link is in the comment box. submitted by /u/Maximum_Ad2429 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcluv7</guid>
+      <pubDate>Wed, 14 Jan 2026 12:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>开源AI通话助手 / Open-source AI calling agent</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcly5z/opensource_ai_calling_agent/</link>
+      <description>最近我在尝试开发基于SIP协议的AI通话助手。市面上已有Vapi AI、Telynx等供应商，但若同时处理多路通话，费用会变得很高。因此想寻找开源替代方案——如果有人能推荐成熟易用的开源AI通话/电话助手方案，帮助我快速搭建生产就绪的系统，那就太好了。实在不想花几周时间自己从头构建SIP或通话架构🥲 提交者：/u/e-lusifa-taehyung [链接] [评论]
+
+---
+
+Original:
+Recently i was working on making an ai calling agent over sip. And there are providers like vapi ai, telynx...etc. but the pricing becomes so high if we have multiple calls going on. So was looking for an open-source alternative if anyone can suggest which can help me build an production ready ai calling/telephony agent easily and I don't want to sit for weeks and build the sip or calling architecture by myself 🥲 submitted by /u/e-lusifa-taehyung [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcly5z</guid>
+      <pubDate>Wed, 14 Jan 2026 12:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>我在客服上浪费了几个小时。为什么这在印度仍是常态？ / I wasted hours on customer support. Why is this still normal in India?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcmizd/i_wasted_hours_on_customer_support_why_is_this/</link>
+      <description>今天我在客服上浪费了几个小时。这不是个人抱怨，而是数百万印度人经常遇到的模式。印度没有连接问题，而是客服问题。尝试取消宽带连接、争议账单或与真正的决策者通话，你都会损失数小时。不是因为问题复杂，而是因为无人回应。电话无人接听，自动语音系统兜圈子，工单存在却无人负责。令我担忧的不是问题本身，而是这已成为普遍接受的现象。如果公司能扩展到数百万用户，为何责任没有随之扩展？全球范围内，许多公司正在尝试AI驱动的接待……
+
+---
+
+Original:
+I wasted hours today on customer support. This is not a personal rant. It’s a pattern millions of Indians experience regularly. India does not have a connectivity problem. India has a customer support problem. Try cancelling a broadband connection. Try disputing a bill. Try speaking to a real decision-maker. You lose hours. Not because the issue is complex. But because no one responds. Calls go unanswered. IVRs go in circles. Tickets exist but with zero ownership. What worries me is not the issue itself. It’s how accepted this has become. If companies can scale to millions of users, why doesn’t accountability scale with them? Globally, many companies are experimenting with AI-powered recepti…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcmizd</guid>
+      <pubDate>Wed, 14 Jan 2026 12:54:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI代码审查工具值得尝试吗？ / AI code reviewers worth trying?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcmp5m/ai_code_reviewers_worth_trying/</link>
+      <description>有人真的对AI代码审查工具有过良好体验吗？目前我试过的大多数工具都过于关注差异对比，忽略了更广泛的上下文。比如相关文件、代码库规范，或者改动是否破坏了现有模式等问题，经常被忽略。由 /u/shrimpthatfriedrice 提交 [链接] [评论]
+
+---
+
+Original:
+Has anyone here actually had a good experience with AI code review tools? Most of what I’ve tried so far feels very diff-focused and misses broader context. Things like related files, repo conventions, or whether a change breaks an existing pattern often get ignored submitted by /u/shrimpthatfriedrice [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcmp5m</guid>
+      <pubDate>Wed, 14 Jan 2026 13:02:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

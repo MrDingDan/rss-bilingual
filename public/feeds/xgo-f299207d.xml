@@ -6,7 +6,7 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 11:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:05:53 +0000</lastBuildDate>
     <item>
       <title>面向情境工程的文件系统！ / Filesystems for context engineering!
 
@@ -104,6 +104,20 @@ Original:
       <pubDate>Wed, 10 Dec 2025 17:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>💬分析对话 / 💬Analyze a conversation
+
+Agents often involve a lot of back and forth with the user - its not just ...</title>
+      <link>https://x.com/hwchase17/status/1998809837619286224</link>
+      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
+      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
+    </item>
+    <item>
       <title>更多信息： / For more info:
 
 Blog on Polly: https://t.co/4UmT029pXT
@@ -121,20 +135,6 @@ We'...</title>
 Original:
 For more info: Blog on Polly: blog.langchain.com/debugging-deep… Video on Polly: youtube.com/watch?v=4Ox2gd… We're doing a webinar tmrw where we will talk more about Polly - join us there! luma.com/voz2b5h3 💬 0 🔄 0 ❤️ 10 👀 1211 📊 3 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::1998809838860861628</guid>
-      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬分析对话 / 💬Analyze a conversation
-
-Agents often involve a lot of back and forth with the user - its not just ...</title>
-      <link>https://x.com/hwchase17/status/1998809837619286224</link>
-      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
       <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
     </item>
     <item>

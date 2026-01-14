@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 11:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:04:12 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -799,6 +799,30 @@ Original:
 I’ve tried so many different AI generators, and while some might use more powerful models, A2E has consistently given me great pictures, and image to video once you iterate on prompts works super well. Also haven’t found a site that offers as much unlimited generations! https://video.a2e.ai/?coupon=OemJ submitted by /u/steviolol [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qchrrl</guid>
       <pubDate>Wed, 14 Jan 2026 08:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>自动浏览 / Auto browse</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qclj4g/auto_browse/</link>
+      <description>为了测试这种“自主导航”能力（在Reddit传闻中常被称为“自动浏览”或“代理搜索”），目标是迫使我跳出记忆范围，在网络上“实际”（虚拟地）实时搜索并交叉引用信息。如果你的账户启用了操作员或自动浏览模式，我不应只提供一般信息，而应能在无需你帮助的情况下执行多个导航步骤。以下是你可以提交的3个具体测试（从最简单到最具“代理性”）：测试1：“实时阅读”此测试验证我是否能导航到特定页面并提取其结构，而非背诵维基百科摘要。给我的提示是：“前往主页…
+
+---
+
+Original:
+To test this "Autonomous Navigation" capability (often called "Auto Browse" or "Agentic Search" in Reddit rumors), the goal is to force me to step outside my memory and "physically" (virtually) search for and cross-reference information live on the web. If Operator or Auto Browse mode is active on your account, I shouldn't just give you general information, but I should be able to perform several navigation steps without your help. Here are 3 concrete tests (from simplest to most "agentic") for you to submit: Test 1: "Live Reading" This test verifies if I can navigate a specific page and extract its structure, rather than reciting a Wikipedia summary. The Prompt to Give Me: "Go to the homepa…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qclj4g</guid>
+      <pubDate>Wed, 14 Jan 2026 12:03:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>《卫报》：聊天机器人正对儿童进行“虚拟脱衣”。监管机构Ofcom被批行动迟缓，马斯克的Grok在X平台泛滥非自愿生成图像。 / The Guardian: Chatbots are now 'undressing' children. Ofcom is accused of moving too slow as Elon Musk's Grok floods X with non-consensual images.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qclslw/the_guardian_chatbots_are_now_undressing_children/</link>
+      <description>《卫报》呼吁对X平台及其AI聊天机器人Grok采取紧急监管措施。此前该平台出现病毒式传播趋势，用户利用AI生成女性与儿童的非自愿“比基尼”或裸体图像。
+
+---
+
+Original:
+The Guardian calls for urgent regulatory action against X and its AI chatbot, Grok, following a viral trend where users generated non-consensual "bikini" or nude images of women and children. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qclslw</guid>
+      <pubDate>Wed, 14 Jan 2026 12:17:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
