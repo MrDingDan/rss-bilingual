@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 17:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:50:42 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -902,6 +902,18 @@ ChatGPT has been helping me work through a trauma that happened about 5 months a
       <pubDate>Wed, 14 Jan 2026 16:24:51 +0000</pubDate>
     </item>
     <item>
+      <title>和孩子一起玩毛绒玩具的趣味创意 / A fun thing to do with your kids' stuffed animals</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcs5s9/a_fun_thing_to_do_with_your_kids_stuffed_animals/</link>
+      <description>尽管我对使用AI心存顾虑（说实话，想到未来与它共存，我甚至感到有些不安），但我也已经用它做了一些既实用又有趣的事。这个点子我觉得值得分享。我给孩子们的毛绒玩具拍了一张非常简单的照片，然后在ChatGPT里输入一句简单的指令，就生成了这些图像。我本身是平面设计师出身，或许正因如此，反而对这样的成果印象深刻。俗气吗？当然。但它却在我孩子和我们家长心中激起了强烈的情感共鸣。孩子们的毛绒玩具是他们内心世界的重要部分，看到它们以这样的方式‘活’起来，确实很特别。以下是我用的指令：这些……
+
+---
+
+Original:
+Despite all my reservations about using AI (to be honest, I find it quite terrifying to imagine our future with it), I’ve also already used it for some useful and fun things. This one felt worth sharing with you. I took a very basic photo of my children’s stuffed animals and, with a simple prompt in ChatGPT, had these images created. I’m trained as a graphic designer, and despite, or even because of that background, I was very impressed by the result. Kitsch? Absolutely. But it evokes a lot of emotion in my children and in us as parents. Your children’s stuffed animals form an important part of their inner world. Seeing them come to life like this is quite special. This was my prompt: These…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcs5s9</guid>
+      <pubDate>Wed, 14 Jan 2026 16:41:09 +0000</pubDate>
+    </item>
+    <item>
       <title>你知道吗？ChatGPT 有独立的翻译页面 / Did you know ChatGPT has a standalone translator page?</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qcs7c5/did_you_know_chatgpt_has_a_standalone_translator/</link>
       <description>来源：ChatGPT 🔗：https://chatgpt.com/translate 由 /u/BuildwithVignesh 提交 [链接] [评论]
@@ -912,6 +924,42 @@ Original:
 Source: ChatGPT 🔗: https://chatgpt.com/translate submitted by /u/BuildwithVignesh [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qcs7c5</guid>
       <pubDate>Wed, 14 Jan 2026 16:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>老兄 / Dude</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qctikm/dude/</link>
+      <description>由 /u/LostSpace06 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/LostSpace06 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qctikm</guid>
+      <pubDate>Wed, 14 Jan 2026 17:30:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>反向卷腹——太吓人了 / Reverse Crunches- Scary</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcu174/reverse_crunches_scary/</link>
+      <description>我不太确定自己的反向卷腹动作是否正确，于是让它给我一张示意图，本以为它会从网上找一张。结果它给出了这个。由 /u/DaedalMI5 提交 [链接] [评论]
+
+---
+
+Original:
+I wasn’t sure I was doing reverse crunches correctly, so I asked it to give me an illustration expecting it to pull from the internet. This is what it gave me. submitted by /u/DaedalMI5 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcu174</guid>
+      <pubDate>Wed, 14 Jan 2026 17:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>领悟其中奥妙 / Groking this</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcuiuy/groking_this/</link>
+      <description>由用户 /u/Legen_unfiltered 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Legen_unfiltered [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcuiuy</guid>
+      <pubDate>Wed, 14 Jan 2026 18:06:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

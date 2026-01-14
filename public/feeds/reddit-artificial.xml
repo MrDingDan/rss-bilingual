@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 17:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:50:10 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -630,6 +630,18 @@ Original:
 submitted by /u/sksarkpoes3 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qcpxzs</guid>
       <pubDate>Wed, 14 Jan 2026 15:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>构建自主性：AI助手现代设计模式 / Architecting Autonomy: Modern Design Patterns for AI Assistants</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/</link>
+      <description>在生成式AI的早期阶段，所谓的“助手”基本上只是一个等待输入提示的文本框。用户输入内容，模型进行预测，结果好坏全凭运气。但随着我们深入2026年，行业已从简单的聊天机器人转向复杂的智能体系统（Agentic Systems）。关键差异在于设计模式（Design Patterns）。正如软件行业通过采用MVC（Model-View-Controller）或微服务（Microservices）走向成熟，AI领域如今也在规范化那些让助手变得可靠、安全且真正自主的架构蓝图。以下是塑造下一代AI助手的核心设计模式。1. “先规划后执行”模式：早期的助手经常出现“幻觉”，因为……
+
+---
+
+Original:
+In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems . 1 The difference lies in Design Patterns . Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" becaus…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcvi7y</guid>
+      <pubDate>Wed, 14 Jan 2026 18:41:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

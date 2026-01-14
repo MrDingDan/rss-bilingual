@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 17:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:51:16 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1012,6 +1012,33 @@ Original:
 submitted by /u/stumpyinc [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcs5ex</guid>
       <pubDate>Wed, 14 Jan 2026 16:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Billing Bug - €3,221 in duplicate charges, ZERO support response - BBB F rating - Warning to others</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcti7g/anthropic_billing_bug_3221_in_duplicate_charges/</link>
+      <description>{
+  "zh_title": "Anthropic（Anthropic）计费漏洞 - 重复扣款3221欧元，客服零回应 - BBB评级F - 警示他人",
+  "zh_summary": "我必须提醒大家注意Anthropic（Anthropic）的计费系统及其完全缺失的客户服务。\n## 事件经过：\n**2026年1月12日** - 我的银行卡因重复的“Gift Pro”订阅被扣款**1630.98欧元**：\n- 22.14欧元被扣**25次**（本应仅一次！）\n- 239.85欧元被扣2次\n- 132.84欧元被扣1次\n- 66.42欧元被扣2次\n- 332.10欧元被扣1次\n另有**1590.39欧元**仍标记为“逾期”待扣。\n**总计：3221.37欧元**，而本应是每月22.14欧元的订阅费。\n## Anthropic（Anthropic）确认漏洞：\n其官方状态页（status.claude.com）记录了**2026年1月8日至10日**的计费系统漏洞：\n&gt; “我们正在调查有关部分新客户订阅…”
+}
+
+---
+
+Original:
+I need to warn everyone about Anthropic's billing system and complete lack of customer service. ## WHAT HAPPENED: **January 12, 2026** - My card was charged **€1,630.98** for duplicate "Gift Pro" subscriptions: - €22.14 charged **25 times** (should be once!) - €239.85 charged 2 times - €132.84 charged 1 time - €66.42 charged 2 times - €332.10 charged 1 time Plus additional **€1,590.39** still marked "Overdue" attempting to charge. **TOTAL: €3,221.37** for what should be a €22.14 monthly subscription. ## ANTHROPIC CONFIRMED THE BUG: Their official status page (status.claude.com) documented a billing system bug **January 8-10, 2026**: &gt; "We are investigating reports that some new customer subs…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcti7g</guid>
+      <pubDate>Wed, 14 Jan 2026 17:30:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code开发了一款插件，将Claude Code的工作过程可视化为办公室中协作的智能体 / Claude Code built a plugin that visualizes the work Claude Code is doing as agents working in an office</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qctk1o/claude_code_built_a_plugin_that_visualizes_the/</link>
+      <description>来自沃顿商学院教授Ethan Mollick在X平台的分享，由/u/MetaKnowing提交[链接][评论]
+
+---
+
+Original:
+From Wharton professor Ethan Mollick on X submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qctk1o</guid>
+      <pubDate>Wed, 14 Jan 2026 17:31:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

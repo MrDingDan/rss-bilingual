@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 17:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:49:59 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1092,6 +1092,30 @@ Original:
 Anyone else tried asking your respective ai to estimate your iq based on usage history - questions asked, reasoning depth, corrections, pattern of thinking, etc.? If you are going to do it now, what all would you include in the prompt and what constraints or instructions would you include to make it avoid flattery and generic answers? I tell it to be more blunt, be a critic, straight forward, strict, no sugar coating, be an analyst etc. PS: No, I won't tell what it estimated mine to be🫣 submitted by /u/dr_yugapurusha [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcta12</guid>
       <pubDate>Wed, 14 Jan 2026 17:21:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体合规性监控 / Compliance Monitoring for Agents</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcv59k/compliance_monitoring_for_agents/</link>
+      <description>大家好——我正在为客户开发一些智能体，对方询问如何监控这些智能体的合规性。他们希望每个操作都能生成加密不可篡改的审计追踪记录，并且能够对智能体的操作执行合规策略（例如个人身份信息脱敏、支付卡行业数据安全标准认证等）。有其他人遇到过类似需求吗？大家是否认为这是人工智能治理的发展方向？谢谢。 发布者：/u/Purple-Statistician6 [链接] [评论]
+
+---
+
+Original:
+Hey everyone - I am building some agents for a client and was asked about how I monitor them for compliance. They want every action taken to have cryptographically immutable audit trails, and the ability to enforce compliance policies on agent actions (PII mask, PCI DSS assurance, etc). Has anyone else run in to this? Do people see this as where AI governance is heading? Thanks. submitted by /u/Purple-Statistician6 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcv59k</guid>
+      <pubDate>Wed, 14 Jan 2026 18:28:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 Labs / 11 Labs</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvn0x/11_labs/</link>
+      <description>有人知道哪些公司或企业使用Elevenlabs AI作为客服应答服务吗？我特指牙科诊所、房地产中介、医生诊所等这类我可以实际打电话测试服务的机构？由 /u/No-Swordfish-32 提交 [链接] [评论]
+
+---
+
+Original:
+Does anyone know any companies or businesses that use Elevenlabs AI as their answering service? I’m talking specifically about dental offices, real estate agencies, doctors offices et cetera, that I can actually call to test out the service? submitted by /u/No-Swordfish-32 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvn0x</guid>
+      <pubDate>Wed, 14 Jan 2026 18:46:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 17:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:52:00 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -849,6 +849,30 @@ So I've been using the got voice mode from the very first day and I fell in love
       <pubDate>Wed, 14 Jan 2026 14:25:37 +0000</pubDate>
     </item>
     <item>
+      <title>嘿，Sam，阿根廷星门（Stargate Argentina）在哪儿？ / Hey Sam, where is Stargate Argentina?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcpg5d/hey_sam_where_is_stargate_argentina/</link>
+      <description>由 /u/New-Thanks6222 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/New-Thanks6222 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcpg5d</guid>
+      <pubDate>Wed, 14 Jan 2026 14:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>在网站英雄区域嵌入自定义GPT / Embed Custom GPT as hero section on website</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcphan/embed_custom_gpt_as_hero_section_on_website/</link>
+      <description>我很想为自己的网站实现这个功能，类似Perplexity那样。我希望在页面顶部设置一个英雄区域，让用户能与我的自定义GPT互动（而非弹出式聊天窗口）。这能实现吗？根据初步研究，ChatGPT似乎无法直接支持。有没有人做过类似的功能？提交者：/u/Western-Trouble1407 [链接] [评论]
+
+---
+
+Original:
+I would love to do this for my website. Similar to perplexity. I want a hero section on the top of the page where users can interact with my custom GPT (not a pop up chat).. is this possible? From my initial research this can’t be done directly from Chat GPT. Has anyone done something similar? submitted by /u/Western-Trouble1407 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcphan</guid>
+      <pubDate>Wed, 14 Jan 2026 15:00:51 +0000</pubDate>
+    </item>
+    <item>
       <title>人工智能进展速度超出专家预期 / AI progress is advancing faster than experts expect</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qcpi7g/ai_progress_is_advancing_faster_than_experts/</link>
       <description>https://leap.forecastingresearch.org/reports/wave4 由 /u/MetaKnowing 提交 [链接] [评论]
@@ -919,6 +943,30 @@ Original:
 Built a Chrome extension (Swift Apply AI) that has a custom GPT agent as it's brain to help with form filling and tailoring resumes. it's an AI agent completes job applications on your behalf, autonomously. Save jobs from LinkedIn → Start AutoApply → ai goes to the career website and applies -&gt; you wake up to submitted job applications. Sounds too good to be true but it actually works. submitted by /u/West_Subject_8780 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qct8qq</guid>
       <pubDate>Wed, 14 Jan 2026 17:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>还有人经常用5.1而非5.2吗？GPT 5.2发布后，大家是否也遇到大量提示合并问题？ / Anyone else regularly use 5.1 instead of 5.2? Anyone else experience lots of merging of prompts since GPT 5.2 came out?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qctue1/anyone_else_regularly_use_51_instead_of_52_anyone/</link>
+      <description>我注意到自从5.2版本推出后，经常遇到提示合并的问题。比如，我会说修复问题A...然后我们处理问题B和C一会儿...接着遇到问题D的一些状况，进行一些排查...最后得出结论，我给出“好的，就这么办”（当然是概括说法），它却部分回答了问题D，然后又开始展示问题A之前的代码，并指示我再次应用针对问题A的代码修改。一切都混在一起了。即使在最新提示中发送代码，也无法将其限制在当前代码范围内。这个问题似乎是从5.2开始的，所以我又开始用回5.1。这种情况在5.1中不那么常见……
+
+---
+
+Original:
+I noticed when 5.2 came out that I was running into a lot of merging of prompt issues. So for example I'd say fix problem A.. then we'd work on problem B and C for a bit... then run into some issues with problem D and do some troubleshooting... then we'll come to a final conclusion and I'll give it the "okay do that" (paraphrasing of course) and it'll answer in part for problem D but then start showing me pre A code again and instructing me to apply code changes for problem A again. It just all mixes together. Sending the code in the latest prompt doesn't limit it in any way either to the current code. This seemed to start with 5.2 so I started using 5.1 thinking again. I don't see it as muc…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qctue1</guid>
+      <pubDate>Wed, 14 Jan 2026 17:42:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>天啊 / Oh man</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcvoh6/oh_man/</link>
+      <description>由（我觉得是？）X平台上的AIWarper使用Kling Motion Control制作，由/u/MetaKnowing提交 [链接] [评论]
+
+---
+
+Original:
+Made with Kling Motion Control by (I think?) AIWarper on X submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcvoh6</guid>
+      <pubDate>Wed, 14 Jan 2026 18:47:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

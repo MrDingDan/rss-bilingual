@@ -737,7 +737,26 @@
     "reddit-askreddit::t3_1qcq433": 1768412703,
     "reddit-askreddit::t3_1qcpell": 1768412707,
     "reddit-tasker::t3_1qcskpy": 1768412714,
-    "xgo-931d6e88::2011458960839352632": 1768412728
+    "xgo-931d6e88::2011458960839352632": 1768412728,
+    "reddit-ai-agents::t3_1qcvn0x": 1768416589,
+    "reddit-ai-agents::t3_1qcv59k": 1768416599,
+    "reddit-artificial::t3_1qcvi7y": 1768416609,
+    "reddit-chatgpt::t3_1qcu174": 1768416615,
+    "reddit-chatgpt::t3_1qcs5s9": 1768416626,
+    "reddit-chatgpt::t3_1qctikm": 1768416637,
+    "reddit-chatgpt::t3_1qcuiuy": 1768416641,
+    "reddit-claudeai::t3_1qcti7g": 1768416661,
+    "reddit-claudeai::t3_1qctk1o": 1768416676,
+    "reddit-openai::t3_1qcvoh6": 1768416688,
+    "reddit-openai::t3_1qctue1": 1768416699,
+    "reddit-openai::t3_1qcphan": 1768416708,
+    "reddit-openai::t3_1qcpg5d": 1768416720,
+    "reddit-bard::t3_1qcu4zm": 1768416730,
+    "reddit-bard::t3_1qcplan": 1768416735,
+    "reddit-askreddit::t3_1qcsljt": 1768416740,
+    "reddit-askreddit::t3_1qcp0ig": 1768416744,
+    "reddit-askreddit::t3_1qctxsc": 1768416748,
+    "reddit-askreddit::t3_1qcmhea": 1768416752
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3663,6 +3682,82 @@
     "5b0df984a22369e19322cc04325ca48304fd46e73562d93ca1d8e9dde78e1ef7": {
       "zh_title": "Meta Superintelligence Labs（Meta超级智能实验室）发布有趣论文：无需训练数据实现智能体进化",
       "zh_summary": "Meta Superintelligence Labs（Meta超级智能实验室）发表了一篇引人关注的论文，探讨无需训练数据即可实现智能体进化。这项研究指出，复杂的推理与搜索能力仅通过自我进化就能形成，挑战了人类监督对高级智能体能力不可或缺的假设。论文要点如下：自我进化的大型语言模型（LLMs）可通过生成自身训练问题来提升，无需依赖人工整理的数据。然而，现有的无数据框架多集中于数学、编程等狭窄领域。它们在开放域搜索智能体方面面临挑战，原因在于问题多样性有限，且需要大量计算资源……"
+    },
+    "69799f6261477be5df9dec69b4815edf6a22601ff46b1240e50872d7f7bd278f": {
+      "zh_title": "11 Labs",
+      "zh_summary": "有人知道哪些公司或企业使用Elevenlabs AI作为客服应答服务吗？我特指牙科诊所、房地产中介、医生诊所等这类我可以实际打电话测试服务的机构？由 /u/No-Swordfish-32 提交 [链接] [评论]"
+    },
+    "405ea0702ce8d98eb5063173ef9266f7fb016584bcf2213465fc8445f2e1e8b9": {
+      "zh_title": "智能体合规性监控",
+      "zh_summary": "大家好——我正在为客户开发一些智能体，对方询问如何监控这些智能体的合规性。他们希望每个操作都能生成加密不可篡改的审计追踪记录，并且能够对智能体的操作执行合规策略（例如个人身份信息脱敏、支付卡行业数据安全标准认证等）。有其他人遇到过类似需求吗？大家是否认为这是人工智能治理的发展方向？谢谢。 发布者：/u/Purple-Statistician6 [链接] [评论]"
+    },
+    "c2310a4fd7cdc9394b0081fbcf7170302e8aabd5016f516e7b3ef3fc0560ddd8": {
+      "zh_title": "构建自主性：AI助手现代设计模式",
+      "zh_summary": "在生成式AI的早期阶段，所谓的“助手”基本上只是一个等待输入提示的文本框。用户输入内容，模型进行预测，结果好坏全凭运气。但随着我们深入2026年，行业已从简单的聊天机器人转向复杂的智能体系统（Agentic Systems）。关键差异在于设计模式（Design Patterns）。正如软件行业通过采用MVC（Model-View-Controller）或微服务（Microservices）走向成熟，AI领域如今也在规范化那些让助手变得可靠、安全且真正自主的架构蓝图。以下是塑造下一代AI助手的核心设计模式。1. “先规划后执行”模式：早期的助手经常出现“幻觉”，因为……"
+    },
+    "bfdc685d148d7b59d65e11a5d4b08ed03d62a6c5324d75386df419957d5be0d1": {
+      "zh_title": "反向卷腹——太吓人了",
+      "zh_summary": "我不太确定自己的反向卷腹动作是否正确，于是让它给我一张示意图，本以为它会从网上找一张。结果它给出了这个。由 /u/DaedalMI5 提交 [链接] [评论]"
+    },
+    "9e8e92674cf183fba982e5a91d2010c12826b4b5ae0417f8f533bef228444362": {
+      "zh_title": "和孩子一起玩毛绒玩具的趣味创意",
+      "zh_summary": "尽管我对使用AI心存顾虑（说实话，想到未来与它共存，我甚至感到有些不安），但我也已经用它做了一些既实用又有趣的事。这个点子我觉得值得分享。我给孩子们的毛绒玩具拍了一张非常简单的照片，然后在ChatGPT里输入一句简单的指令，就生成了这些图像。我本身是平面设计师出身，或许正因如此，反而对这样的成果印象深刻。俗气吗？当然。但它却在我孩子和我们家长心中激起了强烈的情感共鸣。孩子们的毛绒玩具是他们内心世界的重要部分，看到它们以这样的方式‘活’起来，确实很特别。以下是我用的指令：这些……"
+    },
+    "9cb3b2483ca814a0070e85bfaf1964fea35fa7d94d2c5f925ff26101728f3c5f": {
+      "zh_title": "老兄",
+      "zh_summary": "由 /u/LostSpace06 提交 [链接] [评论]"
+    },
+    "419a8d3c3607a077468a071f8f36fb14ab1d2710d38ce579bcee8f4b5a16eccd": {
+      "zh_title": "领悟其中奥妙",
+      "zh_summary": "由用户 /u/Legen_unfiltered 提交 [链接] [评论]"
+    },
+    "336f089f4cd08f80cf12fd7254f9991e808b0e9e490e9416f8eb29b12b06fc98": {
+      "zh_title": "",
+      "zh_summary": "{\n  \"zh_title\": \"Anthropic（Anthropic）计费漏洞 - 重复扣款3221欧元，客服零回应 - BBB评级F - 警示他人\",\n  \"zh_summary\": \"我必须提醒大家注意Anthropic（Anthropic）的计费系统及其完全缺失的客户服务。\\n## 事件经过：\\n**2026年1月12日** - 我的银行卡因重复的“Gift Pro”订阅被扣款**1630.98欧元**：\\n- 22.14欧元被扣**25次**（本应仅一次！）\\n- 239.85欧元被扣2次\\n- 132.84欧元被扣1次\\n- 66.42欧元被扣2次\\n- 332.10欧元被扣1次\\n另有**1590.39欧元**仍标记为“逾期”待扣。\\n**总计：3221.37欧元**，而本应是每月22.14欧元的订阅费。\\n## Anthropic（Anthropic）确认漏洞：\\n其官方状态页（status.claude.com）记录了**2026年1月8日至10日**的计费系统漏洞：\\n> “我们正在调查有关部分新客户订阅…”\n}"
+    },
+    "41d2b952d32aa9a89f326868dd4c5e3f12acb3e91536c9dceae3cf8ee66a85d2": {
+      "zh_title": "Claude Code开发了一款插件，将Claude Code的工作过程可视化为办公室中协作的智能体",
+      "zh_summary": "来自沃顿商学院教授Ethan Mollick在X平台的分享，由/u/MetaKnowing提交[链接][评论]"
+    },
+    "a71ebcf5b77e830c8e00b6ef62986667e6a2f12019ffecf02bb23d8bf8125e2f": {
+      "zh_title": "天啊",
+      "zh_summary": "由（我觉得是？）X平台上的AIWarper使用Kling Motion Control制作，由/u/MetaKnowing提交 [链接] [评论]"
+    },
+    "97b6e88e7d6d2940a0933b58efca61ce8a5e9317104c37f1af6ccb0448a5c714": {
+      "zh_title": "还有人经常用5.1而非5.2吗？GPT 5.2发布后，大家是否也遇到大量提示合并问题？",
+      "zh_summary": "我注意到自从5.2版本推出后，经常遇到提示合并的问题。比如，我会说修复问题A...然后我们处理问题B和C一会儿...接着遇到问题D的一些状况，进行一些排查...最后得出结论，我给出“好的，就这么办”（当然是概括说法），它却部分回答了问题D，然后又开始展示问题A之前的代码，并指示我再次应用针对问题A的代码修改。一切都混在一起了。即使在最新提示中发送代码，也无法将其限制在当前代码范围内。这个问题似乎是从5.2开始的，所以我又开始用回5.1。这种情况在5.1中不那么常见……"
+    },
+    "49d087a5e38bec1ce7dd133a1e5c163ca3a72840c92fe4d0bd1d9e9d3afa127a": {
+      "zh_title": "在网站英雄区域嵌入自定义GPT",
+      "zh_summary": "我很想为自己的网站实现这个功能，类似Perplexity那样。我希望在页面顶部设置一个英雄区域，让用户能与我的自定义GPT互动（而非弹出式聊天窗口）。这能实现吗？根据初步研究，ChatGPT似乎无法直接支持。有没有人做过类似的功能？提交者：/u/Western-Trouble1407 [链接] [评论]"
+    },
+    "f3ea6c58b2429444e0c5f7cd882c0d4e70636b0c02a095e9d417f3376af478eb": {
+      "zh_title": "嘿，Sam，阿根廷星门（Stargate Argentina）在哪儿？",
+      "zh_summary": "由 /u/New-Thanks6222 提交 [链接] [评论]"
+    },
+    "709b222eb6f5f08ca41ae3823d39b1a70fa2c752fd5f507f5a027791cb4c2f04": {
+      "zh_title": "谷歌公布全球AI电影奖获奖者",
+      "zh_summary": "最高荣誉授予了来自突尼斯的富有远见的平面设计师兼电影制作人Zoubeir ElJlassi。他的影片《莉莉》讲述了一位孤独档案管理员的故事：他在一起肇事逃逸现场发现一个玩偶，生活由此被彻底打乱。影片揭示了物品是我们秘密的沉默见证者，最终促使主人公坦白真相并弥补过错。评审团表示——他不仅展示了工具的功能，更运用它们呈现了深刻动人的叙事。影片通过Veo实现电影级视觉，借助Flow进行精准控制，并运用Gemini处理视觉效果。获奖视频链接 AI电影奖提交者 /u/BuildwithVignesh [链接] [评论]"
+    },
+    "202b4c28e71647f06838a123637c6675eba58ac1aa0bab746fe7c18d41eae6a1": {
+      "zh_title": "专业版型号无法使用",
+      "zh_summary": "由用户 /u/Pechenka3000 提交 [链接] [评论]"
+    },
+    "cda6fe3ce9daf22a14b11e4d991ced09460f5c81f4dfa8fc84a59838267eca79": {
+      "zh_title": "你小时候记得的第一个重大新闻事件是什么？",
+      "zh_summary": "由 /u/Timely_Twist_8670 提交 [链接] [评论]"
+    },
+    "dc9cdbab617637cf335cfc26b8a80d4a3b4d40f0ba452ebffe9ed659c8bb6af2": {
+      "zh_title": "你家里最古老的物件是什么？",
+      "zh_summary": "由 /u/Frostedlogic4444 提交 [链接] [评论]"
+    },
+    "cbe777c790671cf74901153b327a52e05d437fc32a84e111bc0cd58544d15d4d": {
+      "zh_title": "有什么能立刻让你心情变好的事？",
+      "zh_summary": "由 /u/Suspicious_Story_807 提交 [链接] [评论]"
+    },
+    "3701b20c93564d01ec6f47e762135ebed94372c363f51ac2905766e40227c3ca": {
+      "zh_title": "你看过最无聊的电影是哪部？",
+      "zh_summary": "由 /u/VeryPteri 提交 [链接] [评论]"
     }
   }
 }

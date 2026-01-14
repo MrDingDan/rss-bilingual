@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 17:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:52:16 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -560,14 +560,26 @@ For the last week or so, the Gemini 3 flash latency just became ridiculous - API
       <pubDate>Wed, 14 Jan 2026 12:44:03 +0000</pubDate>
     </item>
     <item>
-      <title>Gemini 3 Pro——那个舔舐蜡笔零食窗口的家伙 / Gemini 3 Pro - The Crayon snacking window licker</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qcq930/gemini_3_pro_the_crayon_snacking_window_licker/</link>
-      <description>还有人觉得Gemini在处理现实任务时简直无可救药吗？https://preview.redd.it/uyugtpg53cdg1.png?width=1589&amp;format=png&amp;auto=webp&amp;s=ae442a26258f33287d9cccdc4cf5ef7313d37833 上面是一个编程示例……但说实话，我发现它在所有事情上都差不多。对于非编程人员来说——我们写代码是给机器看的。为了帮助我们（人类）理解代码，我们会写注释，通常像这样，以便我们或未来的开发者只需阅读注释就能理解代码：# 我们从用户磁盘加载图像文件。而Gemini只会胡编乱造些废话塞进代码里，尽管谷歌一直在吹嘘那惊人的100万token上下文窗口……Gemini简直是……
+      <title>专业版型号无法使用 / Pro model doesn't work</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcplan/pro_model_doesnt_work/</link>
+      <description>由用户 /u/Pechenka3000 提交 [链接] [评论]
 
 ---
 
 Original:
-Does anyone else find that Gemini is just hopeless at real world tasks? https://preview.redd.it/uyugtpg53cdg1.png?width=1589&amp;format=png&amp;auto=webp&amp;s=ae442a26258f33287d9cccdc4cf5ef7313d37833 The above is a coding example.. but I have to be honest, I find it similar for everything. For any none coders - when we write code, it is for the machine. To help us (people) understand the code, we write comments, normally things like this so that us/a future dev can understand the code just by reading a comment: # We load up an image file from the user's disk Gemini will just hallucinate gibberish into the code, and while Google keep going on about the amazing 1m token context window.. Gemini is absolut…</description>
+submitted by /u/Pechenka3000 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcplan</guid>
+      <pubDate>Wed, 14 Jan 2026 15:05:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3 Pro——那个舔舐蜡笔零食窗口的家伙 / Gemini 3 Pro - The Crayon snacking window licker</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcq930/gemini_3_pro_the_crayon_snacking_window_licker/</link>
+      <description>还有人觉得Gemini在处理现实任务时简直无可救药吗？https://preview.redd.it/uyugtpg53cdg1.png?width=1589&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ae442a26258f33287d9cccdc4cf5ef7313d37833 上面是一个编程示例……但说实话，我发现它在所有事情上都差不多。对于非编程人员来说——我们写代码是给机器看的。为了帮助我们（人类）理解代码，我们会写注释，通常像这样，以便我们或未来的开发者只需阅读注释就能理解代码：# 我们从用户磁盘加载图像文件。而Gemini只会胡编乱造些废话塞进代码里，尽管谷歌一直在吹嘘那惊人的100万token上下文窗口……Gemini简直是……
+
+---
+
+Original:
+Does anyone else find that Gemini is just hopeless at real world tasks? https://preview.redd.it/uyugtpg53cdg1.png?width=1589&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ae442a26258f33287d9cccdc4cf5ef7313d37833 The above is a coding example.. but I have to be honest, I find it similar for everything. For any none coders - when we write code, it is for the machine. To help us (people) understand the code, we write comments, normally things like this so that us/a future dev can understand the code just by reading a comment: # We load up an image file from the user's disk Gemini will just hallucinate gibberish into the code, and while Google keep going on about the amazing 1m token context window.. Gemini is absolut…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcq930</guid>
       <pubDate>Wed, 14 Jan 2026 15:30:33 +0000</pubDate>
     </item>
@@ -630,6 +642,18 @@ Original:
 submitted by /u/gsurfer04 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qctsw3</guid>
       <pubDate>Wed, 14 Jan 2026 17:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌公布全球AI电影奖获奖者 / Google announced the winner of the Global AI Film Award</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcu4zm/google_announced_the_winner_of_the_global_ai_film/</link>
+      <description>最高荣誉授予了来自突尼斯的富有远见的平面设计师兼电影制作人Zoubeir ElJlassi。他的影片《莉莉》讲述了一位孤独档案管理员的故事：他在一起肇事逃逸现场发现一个玩偶，生活由此被彻底打乱。影片揭示了物品是我们秘密的沉默见证者，最终促使主人公坦白真相并弥补过错。评审团表示——他不仅展示了工具的功能，更运用它们呈现了深刻动人的叙事。影片通过Veo实现电影级视觉，借助Flow进行精准控制，并运用Gemini处理视觉效果。获奖视频链接 AI电影奖提交者 /u/BuildwithVignesh [链接] [评论]
+
+---
+
+Original:
+The top honor went to Zoubeir ElJlassi, a visionary graphic designer and filmmaker from Tunisia. His film, Lily, tells the story of a lonely archivist whose life is upended by a doll found at the scene of a hit-and-run. The film shows that objects are silent witnesses to our secrets, eventually pushing the main character to confess and make things right. The jury — He didn't just showcase what the tools could do; he used them to serve a deeply moving narrative. Cinematic vision with Veo and Precision control with Flow and Visuals with Gemini Winning Video Link AI Film Award submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcu4zm</guid>
+      <pubDate>Wed, 14 Jan 2026 17:52:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
