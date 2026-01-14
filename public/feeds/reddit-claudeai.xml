@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 07:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:51:53 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -786,6 +786,18 @@ Original:
 A few months ago I was using Claude to code small Python scripts. I really liked how it handled Artifacts back then. It would: • Automatically open an Artifact • Write the full .py implementation into it • Let me click Download to get the file directly • And when I asked for changes, it would modify the existing file instead of rebuilding the whole thing every time I took a break for 2–3 months and just came back recently. I can’t seem to get that workflow anymore. Now Claude won’t open an Artifact at all. It also no longer offers downloads. Instead, it just spits out a big code block in the chat and I have to make the .py file manually. Not the end of the world, but the bigger issue is that…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcgbuz</guid>
       <pubDate>Wed, 14 Jan 2026 06:46:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>我让Claude Cowork打开Excalidraw并绘制光合作用示意图，这是它的成果 / I told Claude Cowork to open excalidraw and create a diagram of photosynthesis and this is what it made</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qch2ad/i_told_claude_cowork_to_open_excalidraw_and/</link>
+      <description>https://preview.redd.it/tp832wwyo9dg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=4e9a3bf65835c2dece3dd2de2ef9fa064b7ecaf7 由 /u/LittleJuggernaut7365 提交 [链接] [评论]
+
+---
+
+Original:
+https://preview.redd.it/tp832wwyo9dg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=4e9a3bf65835c2dece3dd2de2ef9fa064b7ecaf7 submitted by /u/LittleJuggernaut7365 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qch2ad</guid>
+      <pubDate>Wed, 14 Jan 2026 07:29:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
