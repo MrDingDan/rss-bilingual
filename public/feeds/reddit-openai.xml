@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 07:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 08:46:06 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -779,14 +779,26 @@ A conversation with my ChatGPT 5.2 companion (4.0 origin). Me: You can’t flatt
     <item>
       <title>ChatGPT与我 / ChatGPT and Me</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qche0p/chatgpt_and_me/</link>
-      <description>https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 这是用户/u/Bisibele分享的使用ChatGPT的方式 [链接] [评论]
+      <description>https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 这是用户/u/Bisibele分享的使用ChatGPT的方式 [链接] [评论]
 
 ---
 
 Original:
-https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 This is how I have used chatgpt submitted by /u/Bisibele [link] [comments]</description>
+https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 This is how I have used chatgpt submitted by /u/Bisibele [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qche0p</guid>
       <pubDate>Wed, 14 Jan 2026 07:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>更好的AI工具？ / Better AI tools?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qchrrl/better_ai_tools/</link>
+      <description>我试过很多不同的AI生成器，虽然有些可能使用更强大的模型，但A2E始终能给我出色的图片，而且一旦你优化提示词，从图像生成视频的效果也特别好。此外，还没发现哪个网站能提供如此多的无限生成次数！https://video.a2e.ai/?coupon=OemJ 由 /u/steviolol 提交 [链接] [评论]
+
+---
+
+Original:
+I’ve tried so many different AI generators, and while some might use more powerful models, A2E has consistently given me great pictures, and image to video once you iterate on prompts works super well. Also haven’t found a site that offers as much unlimited generations! https://video.a2e.ai/?coupon=OemJ submitted by /u/steviolol [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qchrrl</guid>
+      <pubDate>Wed, 14 Jan 2026 08:12:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

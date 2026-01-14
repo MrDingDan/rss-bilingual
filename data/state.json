@@ -631,7 +631,13 @@
     "reddit-claudeai::t3_1qch2ad": 1768377113,
     "reddit-openai::t3_1qche0p": 1768377123,
     "reddit-openai::t3_1qchcfc": 1768377140,
-    "reddit-openai::t3_1qchc9a": 1768377144
+    "reddit-openai::t3_1qchc9a": 1768377144,
+    "reddit-ai-agents::t3_1qci5yi": 1768380340,
+    "reddit-ai-agents::t3_1qchm4u": 1768380352,
+    "reddit-chatgpt::t3_1qchl67": 1768380357,
+    "reddit-openai::t3_1qchrrl": 1768380366,
+    "reddit-android::t3_1qchwq5": 1768380380,
+    "reddit-android::t3_1qchjpw": 1768380385
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3149,6 +3155,30 @@
     "f8f874dcc73ee8790361e16a244d4f85487cc99b957c1bdc2a36a1938895342a": {
       "zh_title": "AI泡沫比你想象的更严重",
       "zh_summary": "由 /u/EchoOfOppenheimer 提交 [链接] [评论]"
+    },
+    "308afc8a0ab432878029026d312254095009e32fc682173557f8cfc83f0c9b11": {
+      "zh_title": "打造了一个将通话自动转化为工单的智能代理",
+      "zh_summary": "我想分享一个最近的实验，它对于构建能够推理的自主代理（而非聊天界面或确定性工作流）非常有启发。我们团队一直遇到同样的问题：客户通话中常出现宝贵的见解，但许多小功能想法或错误报告在通话结束后就被遗忘了。当然，我们只想实现重要的部分，但遗漏的比我们期望的要多。因此，我们构建了一个代理，它能听取客户通话录音，判断何时需要采取行动，并在Linear中创建工单，并附带编码好的解决方案。第一周，这个代理就为我们实现了3个小功能改进。该代理的定义包含一个pr…"
+    },
+    "6505d4f9331b3cfe1e444063d8c94e2435637e4e13b7a30c9ada81d09deb7c19": {
+      "zh_title": "智能体原生编排在实践中如何运作",
+      "zh_summary": "围绕“AI智能体”最大的误解之一，是认为只需将模型投入任务，它就能神奇地变成一个强大的数字工作者。实际上，工程挑战不在于大语言模型（LLM）本身，而在于如何将智能体编排成可靠、可组合的系统，以运行端到端的工作流。以下是智能体原生编排在实践中的运作方式：1. 明确角色，而非单一AI 不是用一个模型处理所有事务，而是定义映射到具体职责的智能体角色：规划、执行、验证、工具使用等。这避免了上下文膨胀，并使调试具有确定性。2. 规范即契约 智能体不会读心……"
+    },
+    "c95a0962c936b741ce212abbe73da6f6c73b5ffa2fe8ed562064e2298b085c53": {
+      "zh_title": "兄弟这什么情况 😭",
+      "zh_summary": "由 /u/No_Repair_8378 提交 [链接] [评论]"
+    },
+    "2b5ed59e7a6b8c7664c7eafea01b9a19c5a12db0a6e88b9bcc0efe06e959d672": {
+      "zh_title": "更好的AI工具？",
+      "zh_summary": "我试过很多不同的AI生成器，虽然有些可能使用更强大的模型，但A2E始终能给我出色的图片，而且一旦你优化提示词，从图像生成视频的效果也特别好。此外，还没发现哪个网站能提供如此多的无限生成次数！https://video.a2e.ai/?coupon=OemJ 由 /u/steviolol 提交 [链接] [评论]"
+    },
+    "dfcd74055775404210cb97e325db01beeb2d9696e487e2ae0082d7b4b82e8e21": {
+      "zh_title": "我开发了一款基于物理铰链驱动的折纸模拟器",
+      "zh_summary": "由用户 /u/maxwase 提交 [链接] [评论]"
+    },
+    "cf63bdd6eadf524bb0179d9d97e3ba03ab3ff1e2daecc0e1f24a807d5f563ad6": {
+      "zh_title": "谷歌确认Android系统漏洞导致音量键问题",
+      "zh_summary": "由 /u/rkhunter_ 提交 [链接] [评论]"
     }
   }
 }

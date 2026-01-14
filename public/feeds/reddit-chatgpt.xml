@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 07:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 08:45:58 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -780,6 +780,18 @@ Original:
 Promt: Given world news, our communication and exchange of opinions, advice, and ideas - generate an image more or less of your personal vision of the future of the world on our planet Earth. Be realistic. submitted by /u/Priests_daughter [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qcfcbo</guid>
       <pubDate>Wed, 14 Jan 2026 05:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>兄弟这什么情况 😭 / Bro what 😭</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qchl67/bro_what/</link>
+      <description>由 /u/No_Repair_8378 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/No_Repair_8378 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qchl67</guid>
+      <pubDate>Wed, 14 Jan 2026 08:01:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,79 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 07:52:28 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 是否有类似Cline的CUA项目，下载后可直接使用并能连接本地llama.cpp服务器？ / Are there any CUA projects similar to Cline that can be used directly after downloading and can connect to the local llama.cpp server</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qc1ztm/are_there_any_cua_projects_similar_to_cline_that/</link>
-      <description>我尝试按照CUA和Qwen3-VL的计算机使用文档进行部署，但实际效果似乎总是不如Cline。（我大部分代码都看不懂，只能依赖在线AI来编写和理解/u/BitOk4326提交的代码[链接][评论]）
-
----
-
-Original:
-I tried to deploy it using the computer use documentation of CUA and Qwen3-VL, but the actual effect always seems to be not as good as that of Cline. (I can't understand most of the code and have to rely on online AI to write and understand code submitted by /u/BitOk4326 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qc1ztm</guid>
-      <pubDate>Tue, 13 Jan 2026 20:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] [严肃讨论] 伊朗目前局势如何？ / [Serious] What is going on in Iran?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qc20i1/serious_what_is_going_on_in_iran/</link>
-      <description>由用户 /u/FlatwormCreative6976 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/FlatwormCreative6976 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qc20i1</guid>
-      <pubDate>Tue, 13 Jan 2026 20:15:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] OpenAI 正处在其多彩 iMac 阶段 / OpenAI is in its Colorful iMac Phase</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qc226z/openai_is_in_its_colorful_imac_phase/</link>
-      <description>一位从未用过大语言模型、只想找烘焙食谱的足球妈妈，会乐于听到她用营养酵母替代奶酪的做法堪称天才。OpenAI 正在体育节目（大众观看最多的电视内容之一）中投放广告，推广健身计划生成功能——而早在很久以前，这个细分领域就已探索过此类用例。这感觉像是 ChatGPT 正转向更广泛的普通消费者用户群。不断的赞美、默认的确认偏误，这些都是对多数人有效的心理策略。但这种迎合……产品的简化……对“专业用户”来说却是障碍。我不需要这些。我想要……
-
----
-
-Original:
-A soccer mom who’s never used an LLM and needs a baking recipe would love to hear she’s a genius for substituting cheese with nutritional yeast. OpenAI is running commercials during sports programming (some of the most watched TV by gen population) for work-out routine generation when everyone is this sub explored those kinds of use cases what now feels like forever ago. It feels like ChatGPT is moving towards a larger generalized consumer user base. The constant compliments. The confirmation bias by default. These are psychological tactics that do work on most the population. But this pandering… the dumbing down of the product… they’re hurdles for “pro users.” I don’t need that shit. I want…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qc226z</guid>
-      <pubDate>Tue, 13 Jan 2026 20:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 哎哟 / Oof</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc23bc/oof/</link>
-      <description>由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qc23bc</guid>
-      <pubDate>Tue, 13 Jan 2026 20:18:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 创作一幅只属于你我的专属画面 / Create an image that makes sense only to you and me.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qc25br/create_an_image_that_makes_sense_only_to_you_and/</link>
-      <description>“不好意思，你说什么？” 由 /u/HoneyMeouw 提交 [链接] [评论]
-
----
-
-Original:
-Excuse me, what? submitted by /u/HoneyMeouw [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qc25br</guid>
-      <pubDate>Tue, 13 Jan 2026 20:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 日经亚洲：谷歌将在越南研发制造高端智能手机 / Google to develop, manufacture high-end smartphones in Vietnam, Nikkei Asia says</title>
-      <link>https://www.reddit.com/r/Android/comments/1qc25wx/google_to_develop_manufacture_highend_smartphones/</link>
-      <description>由用户 /u/FragmentedChicken 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/FragmentedChicken [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qc25wx</guid>
-      <pubDate>Tue, 13 Jan 2026 20:21:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 08:46:27 +0000</lastBuildDate>
     <item>
       <title>[reddit_bard] Gemini Nano香蕉专业版疯狂提示词 / Gemini Nano Banana Pro Crazy Prompt</title>
       <link>https://www.reddit.com/r/Bard/comments/1qc2ach/gemini_nano_banana_pro_crazy_prompt/</link>
@@ -1390,12 +1318,12 @@ A lot of people assume AI projects collapse at deployment, but most actually fal
     <item>
       <title>[reddit_claudeai] 我让Claude Cowork打开Excalidraw并绘制光合作用示意图，这是它的成果 / I told Claude Cowork to open excalidraw and create a diagram of photosynthesis and this is what it made</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qch2ad/i_told_claude_cowork_to_open_excalidraw_and/</link>
-      <description>https://preview.redd.it/tp832wwyo9dg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=4e9a3bf65835c2dece3dd2de2ef9fa064b7ecaf7 由 /u/LittleJuggernaut7365 提交 [链接] [评论]
+      <description>https://preview.redd.it/tp832wwyo9dg1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4e9a3bf65835c2dece3dd2de2ef9fa064b7ecaf7 由 /u/LittleJuggernaut7365 提交 [链接] [评论]
 
 ---
 
 Original:
-https://preview.redd.it/tp832wwyo9dg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=4e9a3bf65835c2dece3dd2de2ef9fa064b7ecaf7 submitted by /u/LittleJuggernaut7365 [link] [comments]</description>
+https://preview.redd.it/tp832wwyo9dg1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4e9a3bf65835c2dece3dd2de2ef9fa064b7ecaf7 submitted by /u/LittleJuggernaut7365 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qch2ad</guid>
       <pubDate>Wed, 14 Jan 2026 07:29:29 +0000</pubDate>
     </item>
@@ -1438,14 +1366,86 @@ A conversation with my ChatGPT 5.2 companion (4.0 origin). Me: You can’t flatt
     <item>
       <title>[reddit_openai] ChatGPT与我 / ChatGPT and Me</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qche0p/chatgpt_and_me/</link>
-      <description>https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 这是用户/u/Bisibele分享的使用ChatGPT的方式 [链接] [评论]
+      <description>https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 这是用户/u/Bisibele分享的使用ChatGPT的方式 [链接] [评论]
 
 ---
 
 Original:
-https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 This is how I have used chatgpt submitted by /u/Bisibele [link] [comments]</description>
+https://preview.redd.it/unlnicmcs9dg1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7806c2d8a9ccf6deada6edfbf7e4dccf6e324a85 This is how I have used chatgpt submitted by /u/Bisibele [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qche0p</guid>
       <pubDate>Wed, 14 Jan 2026 07:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 谷歌确认Android系统漏洞导致音量键问题 / Google confirms Android bug causing volume key issues</title>
+      <link>https://www.reddit.com/r/Android/comments/1qchjpw/google_confirms_android_bug_causing_volume_key/</link>
+      <description>由 /u/rkhunter_ 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/rkhunter_ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qchjpw</guid>
+      <pubDate>Wed, 14 Jan 2026 07:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 兄弟这什么情况 😭 / Bro what 😭</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qchl67/bro_what/</link>
+      <description>由 /u/No_Repair_8378 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/No_Repair_8378 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qchl67</guid>
+      <pubDate>Wed, 14 Jan 2026 08:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 智能体原生编排在实践中如何运作 / Here’s how agent-native orchestration actually works in practice</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qchm4u/heres_how_agentnative_orchestration_actually/</link>
+      <description>围绕“AI智能体”最大的误解之一，是认为只需将模型投入任务，它就能神奇地变成一个强大的数字工作者。实际上，工程挑战不在于大语言模型（LLM）本身，而在于如何将智能体编排成可靠、可组合的系统，以运行端到端的工作流。以下是智能体原生编排在实践中的运作方式：1. 明确角色，而非单一AI 不是用一个模型处理所有事务，而是定义映射到具体职责的智能体角色：规划、执行、验证、工具使用等。这避免了上下文膨胀，并使调试具有确定性。2. 规范即契约 智能体不会读心……
+
+---
+
+Original:
+One of the biggest misconceptions I see around “AI agents” is that you just throw a model at a task and it magically becomes a robust digital worker. In reality, the engineering challenge isn’t the LLM itself — it’s how you orchestrate agents into reliable, composable systems that can run end-to-end workflows. Here’s how agent-native orchestration actually works in practice: 1. Clear Roles, Not One Monolithic AI Instead of a single model handling everything, you define agent roles that map to specific responsibilities: planning, execution, verification, tool usage, etc. This avoids context bloat and makes debugging deterministic. 2. Specifications Are the Contract Agents don’t read your mind…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qchm4u</guid>
+      <pubDate>Wed, 14 Jan 2026 08:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 更好的AI工具？ / Better AI tools?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qchrrl/better_ai_tools/</link>
+      <description>我试过很多不同的AI生成器，虽然有些可能使用更强大的模型，但A2E始终能给我出色的图片，而且一旦你优化提示词，从图像生成视频的效果也特别好。此外，还没发现哪个网站能提供如此多的无限生成次数！https://video.a2e.ai/?coupon=OemJ 由 /u/steviolol 提交 [链接] [评论]
+
+---
+
+Original:
+I’ve tried so many different AI generators, and while some might use more powerful models, A2E has consistently given me great pictures, and image to video once you iterate on prompts works super well. Also haven’t found a site that offers as much unlimited generations! https://video.a2e.ai/?coupon=OemJ submitted by /u/steviolol [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qchrrl</guid>
+      <pubDate>Wed, 14 Jan 2026 08:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 我开发了一款基于物理铰链驱动的折纸模拟器 / I made an origami simulator that is driven by a physical hinge</title>
+      <link>https://www.reddit.com/r/Android/comments/1qchwq5/i_made_an_origami_simulator_that_is_driven_by_a/</link>
+      <description>由用户 /u/maxwase 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/maxwase [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qchwq5</guid>
+      <pubDate>Wed, 14 Jan 2026 08:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 打造了一个将通话自动转化为工单的智能代理 / Built an agent that turns calls into tickets</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qci5yi/built_an_agent_that_turns_calls_into_tickets/</link>
+      <description>我想分享一个最近的实验，它对于构建能够推理的自主代理（而非聊天界面或确定性工作流）非常有启发。我们团队一直遇到同样的问题：客户通话中常出现宝贵的见解，但许多小功能想法或错误报告在通话结束后就被遗忘了。当然，我们只想实现重要的部分，但遗漏的比我们期望的要多。因此，我们构建了一个代理，它能听取客户通话录音，判断何时需要采取行动，并在Linear中创建工单，并附带编码好的解决方案。第一周，这个代理就为我们实现了3个小功能改进。该代理的定义包含一个pr…
+
+---
+
+Original:
+I wanted to share a recent experiment that’s been really illuminating for building autonomous agents that reason, rather than chat interfaces or deterministic workflows. Our team kept running into the same problem: great insights come up on customer calls, but lots of small feature ideas or bug reports get dropped after the call ends. Of course, we only want to implement what's important, but more was dropping than we'd like. So, we built an agent that listens to customer call recordings, decides when something warrants action, and creates tickets in Linear with the solution coded up. In the first week, the agent implemented 3 small feature improvements for us. The agent is defined with a pr…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qci5yi</guid>
+      <pubDate>Wed, 14 Jan 2026 08:38:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

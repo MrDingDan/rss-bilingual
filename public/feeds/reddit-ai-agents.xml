@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 07:51:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 08:45:52 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -762,6 +762,30 @@ Original:
 A lot of people assume AI projects collapse at deployment, but most actually fall apart right at the start because teams jump in without clearly defining the business decision they’re trying to improve and end up chasing accuracy instead of outcomes, skipping the messy reality that most of the work is data prep, iteration and building something simple enough to ship and maintain instead of obsessing over clever models that never reach production. What really matters is knowing that training isn’t a one-time milestone, evaluation has to look beyond accuracy into risk and edge cases, and deployment only counts when ownership, monitoring and updates are real, not aspirational otherwise you’re j…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcgp2c</guid>
       <pubDate>Wed, 14 Jan 2026 07:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体原生编排在实践中如何运作 / Here’s how agent-native orchestration actually works in practice</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qchm4u/heres_how_agentnative_orchestration_actually/</link>
+      <description>围绕“AI智能体”最大的误解之一，是认为只需将模型投入任务，它就能神奇地变成一个强大的数字工作者。实际上，工程挑战不在于大语言模型（LLM）本身，而在于如何将智能体编排成可靠、可组合的系统，以运行端到端的工作流。以下是智能体原生编排在实践中的运作方式：1. 明确角色，而非单一AI 不是用一个模型处理所有事务，而是定义映射到具体职责的智能体角色：规划、执行、验证、工具使用等。这避免了上下文膨胀，并使调试具有确定性。2. 规范即契约 智能体不会读心……
+
+---
+
+Original:
+One of the biggest misconceptions I see around “AI agents” is that you just throw a model at a task and it magically becomes a robust digital worker. In reality, the engineering challenge isn’t the LLM itself — it’s how you orchestrate agents into reliable, composable systems that can run end-to-end workflows. Here’s how agent-native orchestration actually works in practice: 1. Clear Roles, Not One Monolithic AI Instead of a single model handling everything, you define agent roles that map to specific responsibilities: planning, execution, verification, tool usage, etc. This avoids context bloat and makes debugging deterministic. 2. Specifications Are the Contract Agents don’t read your mind…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qchm4u</guid>
+      <pubDate>Wed, 14 Jan 2026 08:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>打造了一个将通话自动转化为工单的智能代理 / Built an agent that turns calls into tickets</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qci5yi/built_an_agent_that_turns_calls_into_tickets/</link>
+      <description>我想分享一个最近的实验，它对于构建能够推理的自主代理（而非聊天界面或确定性工作流）非常有启发。我们团队一直遇到同样的问题：客户通话中常出现宝贵的见解，但许多小功能想法或错误报告在通话结束后就被遗忘了。当然，我们只想实现重要的部分，但遗漏的比我们期望的要多。因此，我们构建了一个代理，它能听取客户通话录音，判断何时需要采取行动，并在Linear中创建工单，并附带编码好的解决方案。第一周，这个代理就为我们实现了3个小功能改进。该代理的定义包含一个pr…
+
+---
+
+Original:
+I wanted to share a recent experiment that’s been really illuminating for building autonomous agents that reason, rather than chat interfaces or deterministic workflows. Our team kept running into the same problem: great insights come up on customer calls, but lots of small feature ideas or bug reports get dropped after the call ends. Of course, we only want to implement what's important, but more was dropping than we'd like. So, we built an agent that listens to customer call recordings, decides when something warrants action, and creates tickets in Linear with the solution coded up. In the first week, the agent implemented 3 small feature improvements for us. The agent is defined with a pr…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qci5yi</guid>
+      <pubDate>Wed, 14 Jan 2026 08:38:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
