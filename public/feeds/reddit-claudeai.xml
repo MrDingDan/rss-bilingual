@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 22:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:54:17 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1115,12 +1115,12 @@ I've been able to do some pretty intense coding sessions with Claude Opus 4.5, b
     <item>
       <title>还有人在Claude Code 2.1.7中遇到“达到上下文限制”的错误吗？ / Anyone else getting “Context limit reached” in Claude Code 2.1.7?</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qczpzg/anyone_else_getting_context_limit_reached_in/</link>
-      <description>以下是一个简洁清晰的英文版本，你可以发布在Reddit上：我在使用Claude Code时遇到了问题。我使用的是2.1.7版本，一直收到这个错误提示：达到上下文限制 · 输入/compact或/clear以继续 Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;format=png&amp;auto=webp&amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 我打算尝试降级到稳定版本。我已经完全重新安装了Claude Code，包括原生安装程序和WSL2下的Ubuntu环境。还有其他人遇到这个问题吗？ 由/u/SilverMethor提交 [链接] [评论]
+      <description>以下是一个简洁清晰的英文版本，你可以发布在Reddit上：我在使用Claude Code时遇到了问题。我使用的是2.1.7版本，一直收到这个错误提示：达到上下文限制 · 输入/compact或/clear以继续 Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 我打算尝试降级到稳定版本。我已经完全重新安装了Claude Code，包括原生安装程序和WSL2下的Ubuntu环境。还有其他人遇到这个问题吗？ 由/u/SilverMethor提交 [链接] [评论]
 
 ---
 
 Original:
-Here is a simple, clear English version you can post on Reddit: I'm having a problem with Claude Code. I’m using version 2.1.7 and I keep getting this error: Context limit reached · /compact or /clear to continue Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;format=png&amp;auto=webp&amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 I'm going to try downgrading to the stable version. I already did a full reinstall of Claude Code. Native installer and WSL2 with Ubuntu. Is anyone else having this problem? submitted by /u/SilverMethor [link] [comments]</description>
+Here is a simple, clear English version you can post on Reddit: I'm having a problem with Claude Code. I’m using version 2.1.7 and I keep getting this error: Context limit reached · /compact or /clear to continue Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 I'm going to try downgrading to the stable version. I already did a full reinstall of Claude Code. Native installer and WSL2 with Ubuntu. Is anyone else having this problem? submitted by /u/SilverMethor [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qczpzg</guid>
       <pubDate>Wed, 14 Jan 2026 21:17:10 +0000</pubDate>
     </item>
@@ -1135,6 +1135,18 @@ Original:
 Tweet: Today we're rolling out MCP Tool Search for Claude Code. As MCP has grown to become a more popular protocol and agents have become more capable, we've found that MCP servers may have up to 50+ tools and take up a large amount of context. Tool Search allows Claude Code to dynamically load tools into context when MCP tools would otherwise take up a lot of context. How it works: - Claude Code detects when your MCP tool descriptions would use more than 10% of context - When triggered, tools are loaded via search instead of preloaded Otherwise, MCP tools work exactly as before. This resolves one of our most-requested features on GitHub: lazy loading for MCP servers. Users were documenting…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qczqsx</guid>
       <pubDate>Wed, 14 Jan 2026 21:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>花一周时间研究后，我整理了一份Claude Cowork资源、评测与替代方案清单 / Compiled a list of Claude Cowork resources, reviews, and alternatives after spending a week researching</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd0q3o/compiled_a_list_of_claude_cowork_resources/</link>
+      <description>我一直在考虑是否值得每月花100美元升级Cowork，因此过去一周查阅了各种评测、教程和替代方案。现将发现分享出来，供有同样困惑的朋友参考。官方资源：- Anthropic博客文章：claude.com/blog/cowork-research-preview - Claude帮助中心：support.claude.com/en/articles/13345190独立评测与聚合网站：- Simon Willison的第一印象：simonwillison.net/2026/Jan/12/claude-cowork/ - Coworker Code（评测+对比）：cowork-code.com开源替代方案：- Block开发的Goose：github.com/block/goose - Krafton开发的KIRA：github.com/krafton-ai/kira - TerminaI：github.com/Prof-Harita/terminaI YouTube评测：…
+
+---
+
+Original:
+I've been trying to figure out if Cowork is worth the $100/mo upgrade, so I spent the past week going through reviews, tutorials, and alternatives. Sharing what I found in case others are in the same boat. Official Resources: - Anthropic blog post: claude.com/blog/cowork-research-preview - Claude Help Center: support.claude.com/en/articles/13345190 Independent Reviews &amp; Aggregators: - Simon Willison's first impressions: simonwillison.net/2026/Jan/12/claude-cowork/ - Coworker Code (reviews + comparisons): cowork-code.com Open Source Alternatives: - Goose by Block: github.com/block/goose - KIRA by Krafton: github.com/krafton-ai/kira - TerminaI: github.com/Prof-Harita/terminaI YouTube Reviews:…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd0q3o</guid>
+      <pubDate>Wed, 14 Jan 2026 21:55:44 +0000</pubDate>
     </item>
     <item>
       <title>Claude非常了解你（这是件好事） / Claude knows a lot about you (in a good way)</title>

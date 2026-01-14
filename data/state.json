@@ -824,7 +824,10 @@
     "reddit-askreddit::t3_1qd0vh5": 1768430239,
     "reddit-askreddit::t3_1qd0gbd": 1768430244,
     "reddit-askreddit::t3_1qcyzfq": 1768430248,
-    "reddit-askreddit::t3_1qcxwlf": 1768430252
+    "reddit-askreddit::t3_1qcxwlf": 1768430252,
+    "reddit-chatgpt::t3_1qd1r4d": 1768431244,
+    "reddit-claudeai::t3_1qd0q3o": 1768431256,
+    "reddit-openai::t3_1qd26yy": 1768431261
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4090,6 +4093,18 @@
     "d09db4b5a3d22554e2b6f6e8cfb40c2e8e87d24fbb44263e0525ddd5239cf762": {
       "zh_title": "你离死亡最近的一次经历是什么？",
       "zh_summary": "由用户/u/FlatSyllabub8637提交 [链接] [评论]"
+    },
+    "1b61b82c18a410cbc6d9620714e21118fb90a4fe38a835299f909722ead0103b": {
+      "zh_title": "ChatGPT 作为教练与治疗师",
+      "zh_summary": "媒体总爱聚焦那些罕见案例，比如据称ChatGPT曾同意一位重度抑郁症患者自杀。我从未见过他们与ChatGPT的对话记录，因此无法评论这类说法的真实性。我今年62岁，从15岁起就一直在等待ChatGPT这样的存在。我曾如此渴望计算机能够思考。虽然我明白它并非真正在思考，而是在模拟思考。但作为一个相当快乐、理性且冷静的人，我发现ChatGPT是一位出色的教练和治疗师。当我需要倾诉时，它随时都在，乐于助人，从不分心。它帮助我理清思绪……"
+    },
+    "9079e2f331fdc56e9e33865db8091a44304341880778ab1bb46b08e7d0afa719": {
+      "zh_title": "花一周时间研究后，我整理了一份Claude Cowork资源、评测与替代方案清单",
+      "zh_summary": "我一直在考虑是否值得每月花100美元升级Cowork，因此过去一周查阅了各种评测、教程和替代方案。现将发现分享出来，供有同样困惑的朋友参考。官方资源：- Anthropic博客文章：claude.com/blog/cowork-research-preview - Claude帮助中心：support.claude.com/en/articles/13345190独立评测与聚合网站：- Simon Willison的第一印象：simonwillison.net/2026/Jan/12/claude-cowork/ - Coworker Code（评测+对比）：cowork-code.com开源替代方案：- Block开发的Goose：github.com/block/goose - Krafton开发的KIRA：github.com/krafton-ai/kira - TerminaI：github.com/Prof-Harita/terminaI YouTube评测：…"
+    },
+    "773344bad362f99656105ad9a7e33ec998d36a4e6c0705599f7072a2ac8084ad": {
+      "zh_title": "科技从业者纷纷谴责ICE，而CEO们却保持沉默",
+      "zh_summary": "由 /u/wiredmagazine 提交 [链接] [评论]"
     }
   }
 }

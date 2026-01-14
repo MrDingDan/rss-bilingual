@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 22:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:54:21 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1016,6 +1016,18 @@ Original:
 Image 1: Splash screen when app is started Image 2: updates and release notes To the bots and openai staff trawling this sub as of late. Please give business users a heads up? We can plan outage windows and let the system regulate during that period. I was mid work and ChatGPT was falling to default mode. It would ignore custom instructions and if I declined it's response as insufficient, it would tell me to give up. It also increases in safety responses where it's not needed. I was just discussing Romeo and Juliet since I need to apply it's theme to an art class on Valentines Day. Which scene applies best to brush techniques and which scene applies best to finishing touches. I did not need…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qd0g4d</guid>
       <pubDate>Wed, 14 Jan 2026 21:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>科技从业者纷纷谴责ICE，而CEO们却保持沉默 / Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd26yy/tech_workers_are_condemning_ice_even_as_their/</link>
+      <description>由 /u/wiredmagazine 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/wiredmagazine [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd26yy</guid>
+      <pubDate>Wed, 14 Jan 2026 22:52:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

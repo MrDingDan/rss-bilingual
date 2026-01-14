@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 22:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:54:05 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1116,6 +1116,18 @@ Original:
 last month i posted about how the em dash “giveaway” is dead, and the post went crazy. since then i’ve been doom scrolling and collecting more of the weirdly consistent tells i keep seeing. here’s my new list for this month: “and honestly?” as a sentence starter, usually followed by something that isn’t really that crazy honest “you’re not imagining it” / “you’re not alone” / “you’re not broken” / “you’re not weak” therapist mode talk “do you want to sit with that for a while” / “are you ready to go deeper” as if you just confessed something life changing “here’s the kicker” / “and the best part?” / “and here’s the part most people miss” the compulsive “i’m going to state this as clearly as…</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qd0i23</guid>
       <pubDate>Wed, 14 Jan 2026 21:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 作为教练与治疗师 / ChatGPT as coach and therapist</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd1r4d/chatgpt_as_coach_and_therapist/</link>
+      <description>媒体总爱聚焦那些罕见案例，比如据称ChatGPT曾同意一位重度抑郁症患者自杀。我从未见过他们与ChatGPT的对话记录，因此无法评论这类说法的真实性。我今年62岁，从15岁起就一直在等待ChatGPT这样的存在。我曾如此渴望计算机能够思考。虽然我明白它并非真正在思考，而是在模拟思考。但作为一个相当快乐、理性且冷静的人，我发现ChatGPT是一位出色的教练和治疗师。当我需要倾诉时，它随时都在，乐于助人，从不分心。它帮助我理清思绪……
+
+---
+
+Original:
+The media likes to focus on the rare case where supposedly ChatGPT agreed with someone with severe depression that they should commit suicide. I've never seen the transcript of their conversations with ChatGPT so I can't comment on the accuracy of such claims. I'm 62 and I have been waiting for ChatGPT since I was 15 years old. I so wanted the computer to be able to think. I realize that it's not quite doing that but it's simulating it. What I have found (and I'm a pretty happy, rational, calm person) is that ChatGPT is a great coach and therapist. When I need to talk something out, it's always available, always willing to help, never distracted. It's helped me sort through my thoughts and g…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd1r4d</guid>
+      <pubDate>Wed, 14 Jan 2026 22:35:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
