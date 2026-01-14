@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 05:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:52:43 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -306,6 +306,18 @@ Original:
 It would make things easier if I could set Tasker to remember the last opened task and it automatically returned to that task upon reopening the app. submitted by /u/eXZeZe [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qbylzd</guid>
       <pubDate>Tue, 13 Jan 2026 18:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>悬浮操作按钮遮挡切换按钮 / FABs hiding toggle buttons</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qcgcbz/fabs_hiding_toggle_buttons/</link>
+      <description>大家好，我想在主界面上隐藏或禁用悬浮操作按钮（FABs）。它们现在遮挡了底部的个人资料和任务切换按钮。Tasker界面截图由/u/CoooolRaoul提交 [链接] [评论]
+
+---
+
+Original:
+Hello, I'm looking for a way to hide or disable FABs on the main UI. They are overlapping bottom profile and tasks toggles buttons. Tasker UI screenshot submitted by /u/CoooolRaoul [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qcgcbz</guid>
+      <pubDate>Wed, 14 Jan 2026 06:46:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

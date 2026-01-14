@@ -608,7 +608,18 @@
     "reddit-bard::t3_1qcep6i": 1768369080,
     "reddit-askreddit::t3_1qcd76p": 1768369087,
     "reddit-askreddit::t3_1qcdknl": 1768369091,
-    "reddit-askreddit::t3_1qcds5l": 1768369100
+    "reddit-askreddit::t3_1qcds5l": 1768369100,
+    "reddit-ai-agents::t3_1qcfxa1": 1768373419,
+    "reddit-artificial::t3_1qcfdh1": 1768373435,
+    "reddit-artificial::t3_1qcfcm6": 1768373448,
+    "reddit-chatgpt::t3_1qcfcbo": 1768373454,
+    "reddit-claudeai::t3_1qcfn52": 1768373481,
+    "reddit-claudeai::t3_1qcfm25": 1768373486,
+    "reddit-openai::t3_1qcgbpk": 1768373503,
+    "reddit-askreddit::t3_1qce65k": 1768373516,
+    "reddit-askreddit::t3_1qcf0s7": 1768373546,
+    "reddit-askreddit::t3_1qcemxy": 1768373556,
+    "reddit-tasker::t3_1qcgcbz": 1768373563
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3034,6 +3045,50 @@
     "2bd32048803ce3a6f3f06a9f971798b36a008a87e0b8b8d1502dae4cad449402": {
       "zh_title": "你小时候相信过最傻的事情是什么？",
       "zh_summary": "由 /u/InterestingScore100 提交 [链接] [评论]"
+    },
+    "2679e4743e42dd60d01d0dfee333fcb0fdc95634e28ab806425b438f729db273": {
+      "zh_title": "智能体AI让企业真正看到投资回报",
+      "zh_summary": "大多数使用AI的公司仍停留在早期阶段：传统AI能预测销售趋势或欺诈风险，但繁重工作仍需人工完成；生成式AI虽能生成草稿、代码或内容，却无法自主推动进程。真正的突破在于智能体AI（Agentic AI），这类系统不仅能思考或生成内容，更能协调工作流、调用API、端到端完成任务，将AI从聪明的助手转变为自主执行者。挑战在于，许多团队不知如何将复杂的业务流程转化为自主智能体可处理的形式，这也是理解……"
+    },
+    "3978c43b482131b066fdf21479e70b5c9659414dc2fcb9bb01bed357f567e3d0": {
+      "zh_title": "每日AI新闻一分钟 2026年1月13日",
+      "zh_summary": "Slackbot，即Salesforce旗下企业通讯平台Slack内置的自动化助手，正作为AI智能体进入新时代。[1] 五角大楼特别工作组将部署AI驱动的无人机系统（UAS）来捕获其他无人机。[2] 斯坦福研究人员利用AI监测罕见癌症。[3] Anthropic发布Cowork，作为Claude的本地文件系统智能体，用于日常办公。[4] 来源：[1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/20…"
+    },
+    "d198c9b018d213f2a1d69288bfe8167a5da15651e42022df9626a4c0b04f9c2c": {
+      "zh_title": "谷歌从被ChatGPT“颠覆”，到拥有顶尖大语言模型并在硬件（TPU）领域与英伟达抗衡。叙事已彻底改变",
+      "zh_summary": "过去一年，公众对谷歌的叙事已发生重大转变。（这里强调“公众”，是因为密切关注谷歌动态的人可能早有预见。）由于谷歌收入主要来自广告业务，大语言模型（LLM）侵蚀其市场份额的现象曾引发对其未来盈利能力的质疑。随后又出现了出售Chrome浏览器的风波。但谷歌凭借Gemini 3实现了强势回归，其自研的TPU芯片也用于该模型的训练。如今的主流观点认为，谷歌已成为人工智能时代最具优势的企业。 由用户/u/No_Turnip_1023提交 [链接] [评论]"
+    },
+    "6fd10cdb08d4ac3a89e8a1f63f1b4786094ff946c20e7d8ed5eb2546fa1c6192": {
+      "zh_title": "你的ChatGPT看到了怎样的未来？☢️",
+      "zh_summary": "提示：根据世界新闻、我们的交流以及观点、建议和想法的交换——生成一幅或多或少反映你个人对地球未来愿景的图像。请保持现实。由 /u/Priests_daughter 提交 [链接] [评论]"
+    },
+    "1d30bce3b2462cdd3c9af2faa850c7b7f7adb3425708675059135f53b285eb45": {
+      "zh_title": "我让Claude为自己打造一个笼子（沙箱），以便安全地使用--dangerously-skip-permissions运行",
+      "zh_summary": "和许多人一样，我也曾对`--dangerously-skip-permissions`功能心动不已。它确实能提升效率——不再需要批准每一个文件修改。但每次手指悬停在回车键上时，我总会想象Claude决定“清理”我的主目录的场景。于是，我请Claude来解决这个问题。提示1：研究苹果官网关于虚拟化的内容 https://developer.apple.com/documentation/virtualization，我们在Mac上使用Claude代码时如何利用这一点？提示2：我希望这个过程足够简单，比如运行cldyo或cldyo -c就能启动Claude……"
+    },
+    "63359101f4bb9e99009d7dab89565ca1f2f9442243cd941adc1ef16892028680": {
+      "zh_title": "用Claude制作了一款小游戏",
+      "zh_summary": "我用Opus 4.5制作了一款3D太空弹弓投篮游戏，这是我第一次尝试开发游戏。欢迎大家来体验，并告诉我你的想法。由/u/Emojinapp提交 [链接] [评论]"
+    },
+    "192f69eaee52d92bf643e123109cb2be4dce0801b5017b329262ebba72e466bd": {
+      "zh_title": "请以图片形式展示你目前所了解关于我的一切信息",
+      "zh_summary": "我收到了这张图片，非常不错。由 /u/Extension-Public5270 提交 [链接] [评论]"
+    },
+    "04f08ebccd6b311bf5ab7f58e0e5fbeb07fe28e66656502d5b43a39c6437f134": {
+      "zh_title": "有哪些成年后的问题，是之前没人提醒过你的？",
+      "zh_summary": "由用户/u/Good-Music-3315提交 [链接] [评论]"
+    },
+    "344bffacd2590dde84c10434d97fbd84ded3cfade2019ce62026f657531b84d8": {
+      "zh_title": "有哪些作品让你百看不厌？",
+      "zh_summary": "由用户 /u/high_kew 提交 [链接] [评论]"
+    },
+    "2193d767576e2f34da81ada41259af91f753ec116545231b1e71778828b3aca1": {
+      "zh_title": "史上最伟大的鼓手是谁？",
+      "zh_summary": "由 /u/skamatiks671 提交 [链接] [评论]"
+    },
+    "843fb238f7fa6a5539d5ea96ec6125c842de68d4e067f362bfb8071c9cfc8500": {
+      "zh_title": "悬浮操作按钮遮挡切换按钮",
+      "zh_summary": "大家好，我想在主界面上隐藏或禁用悬浮操作按钮（FABs）。它们现在遮挡了底部的个人资料和任务切换按钮。Tasker界面截图由/u/CoooolRaoul提交 [链接] [评论]"
     }
   }
 }

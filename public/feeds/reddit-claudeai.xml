@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 05:37:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:51:27 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -750,6 +750,30 @@ Original:
 submitted by /u/drewjamesandre [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qce3r2</guid>
       <pubDate>Wed, 14 Jan 2026 04:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>用Claude制作了一款小游戏 / Built a small game with Claude</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcfm25/built_a_small_game_with_claude/</link>
+      <description>我用Opus 4.5制作了一款3D太空弹弓投篮游戏，这是我第一次尝试开发游戏。欢迎大家来体验，并告诉我你的想法。由/u/Emojinapp提交 [链接] [评论]
+
+---
+
+Original:
+I built a 3d outerspace slingshot hoop game with opus 4.5, my very first time making a game. Kindly check it out and tell me when you think. submitted by /u/Emojinapp [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcfm25</guid>
+      <pubDate>Wed, 14 Jan 2026 06:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>我让Claude为自己打造一个笼子（沙箱），以便安全地使用--dangerously-skip-permissions运行 / I asked Claude to build its own cage (sandbox) so I could run it with --dangerously-skip-permissions safely</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcfn52/i_asked_claude_to_build_its_own_cage_sandbox_so_i/</link>
+      <description>和许多人一样，我也曾对`--dangerously-skip-permissions`功能心动不已。它确实能提升效率——不再需要批准每一个文件修改。但每次手指悬停在回车键上时，我总会想象Claude决定“清理”我的主目录的场景。于是，我请Claude来解决这个问题。提示1：研究苹果官网关于虚拟化的内容 https://developer.apple.com/documentation/virtualization，我们在Mac上使用Claude代码时如何利用这一点？提示2：我希望这个过程足够简单，比如运行cldyo或cldyo -c就能启动Claude……
+
+---
+
+Original:
+I asked Claude to build its own cage (sandbox) so I could run it with --dangerously-skip-permissions safely Like many of you, I've been tempted by `--dangerously-skip-permissions`. The productivity boost is real - no more approving every single file edit. But every time my finger hovered over Enter, I imagined Claude deciding my home directory needed "cleaning up." So I asked Claude to solve this problem. Prompt 1: research the apple site about virtualization https://developer.apple.com/documentation/virtualization how could we leverage this when working with claude code in mac? Prompt 2 : i want this to be just easy for example i want to run cldyo or cldyo -c and that is like starting claud…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcfn52</guid>
+      <pubDate>Wed, 14 Jan 2026 06:07:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

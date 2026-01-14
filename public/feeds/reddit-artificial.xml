@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 05:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:50:48 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -534,6 +534,30 @@ Original:
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875 submitted by /u/jferments [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qceq2y</guid>
       <pubDate>Wed, 14 Jan 2026 05:17:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌从被ChatGPT“颠覆”，到拥有顶尖大语言模型并在硬件（TPU）领域与英伟达抗衡。叙事已彻底改变 / Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/</link>
+      <description>过去一年，公众对谷歌的叙事已发生重大转变。（这里强调“公众”，是因为密切关注谷歌动态的人可能早有预见。）由于谷歌收入主要来自广告业务，大语言模型（LLM）侵蚀其市场份额的现象曾引发对其未来盈利能力的质疑。随后又出现了出售Chrome浏览器的风波。但谷歌凭借Gemini 3实现了强势回归，其自研的TPU芯片也用于该模型的训练。如今的主流观点认为，谷歌已成为人工智能时代最具优势的企业。 由用户/u/No_Turnip_1023提交 [链接] [评论]
+
+---
+
+Original:
+The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era. submitted by /u/No_Turnip_1023 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcfcm6</guid>
+      <pubDate>Wed, 14 Jan 2026 05:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>每日AI新闻一分钟 2026年1月13日 / One-Minute Daily AI News 1/13/2026</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcfdh1/oneminute_daily_ai_news_1132026/</link>
+      <description>Slackbot，即Salesforce旗下企业通讯平台Slack内置的自动化助手，正作为AI智能体进入新时代。[1] 五角大楼特别工作组将部署AI驱动的无人机系统（UAS）来捕获其他无人机。[2] 斯坦福研究人员利用AI监测罕见癌症。[3] Anthropic发布Cowork，作为Claude的本地文件系统智能体，用于日常办公。[4] 来源：[1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/20…
+
+---
+
+Original:
+Slackbot , the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/20…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcfdh1</guid>
+      <pubDate>Wed, 14 Jan 2026 05:52:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

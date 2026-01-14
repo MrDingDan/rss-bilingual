@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 05:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:50:19 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -738,6 +738,18 @@ Original:
 I have been building a job application agent and kept running into the same pain: when a tool call fails mid-run, retries can get messy (duplicate emails / duplicate DB writes), and debugging becomes messy and it's hard to reproduce exactly what happened. So, I build a small library that sits at runtime that: Logs the tool call and outcome adds idempotency retries so that retries doesn't repeat the side effects supports compensations when a method fails during a run I also added deterministic replay, so that I can try to reproduce failures without hitting external systems and llm calls again One thing I am focusing on right now is exploring and streamlining HITL (Human-In-The-Loop) inside th…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcdzbr</guid>
       <pubDate>Wed, 14 Jan 2026 04:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体AI让企业真正看到投资回报 / Agentic AI is where companies finally start seeing real ROI</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcfxa1/agentic_ai_is_where_companies_finally_start/</link>
+      <description>大多数使用AI的公司仍停留在早期阶段：传统AI能预测销售趋势或欺诈风险，但繁重工作仍需人工完成；生成式AI虽能生成草稿、代码或内容，却无法自主推动进程。真正的突破在于智能体AI（Agentic AI），这类系统不仅能思考或生成内容，更能协调工作流、调用API、端到端完成任务，将AI从聪明的助手转变为自主执行者。挑战在于，许多团队不知如何将复杂的业务流程转化为自主智能体可处理的形式，这也是理解……
+
+---
+
+Original:
+Most companies using AI are still stuck at the early stages, where Traditional AI predicts outcomes like sales forecasts or fraud risk but leaves the heavy lifting to humans and even Generative AI mostly creates drafts, code or content without actually moving anything forward on its own. The real jump happens with Agentic AI, where systems don’t just think or write but actually take action orchestrating workflows, hitting APIs, completing tasks end to end and turning AI from a clever assistant into an autonomous operator. The challenge is that many teams don’t know where to begin in translating their messy business processes into something an autonomous agent can handle, which is why underst…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcfxa1</guid>
+      <pubDate>Wed, 14 Jan 2026 06:22:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,139 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 05:38:23 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_chatgpt] ChatGPT（Chatgpt）刚才只是在道谢 / Chatgpt was just asking for thank you</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbze5z/chatgpt_was_just_asking_for_thank_you/</link>
-      <description>由用户 /u/Expert-Secret-5351 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Expert-Secret-5351 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbze5z</guid>
-      <pubDate>Tue, 13 Jan 2026 18:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 那些没有任何亲密朋友的成年人，你们是如何走到这一步的？这会困扰你们吗？ / Adults who have zero close friends, how did it happen and does it bother you?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbzf7e/adults_who_have_zero_close_friends_how_did_it/</link>
-      <description>由用户 /u/PutPurple844 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/PutPurple844 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbzf7e</guid>
-      <pubDate>Tue, 13 Jan 2026 18:41:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 你用过OpenAI最意想不到的实用功能是什么？ / What’s the most unexpectedly useful thing you’ve used OpenAI for?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qbzi2j/whats_the_most_unexpectedly_useful_thing_youve/</link>
-      <description>我开始好奇，除了常见的“总结内容”或“写邮件”之外，人们还有哪些不太明显但真正能节省时间或优化工作流的用法？我指的是那些让人惊喜的、“我怎么没想到”的实用场景，比如用于构建SaaS、微SaaS、应用程序或自动化流程。很想借鉴大家的创意妙招。由 /u/Notalabel_4566 提交 [链接] [评论]
-
----
-
-Original:
-I am starting to wonder what are some less obvious ways people are using it that actually save time or improve your workflow? Not the usual stuff like "summarize this" or "write an email" I mean the surprisingly useful, “why didn’t I think of that?” type use cases. like for building SaaS or Micro SaaS or app or automation Would love to steal your creative hacks. submitted by /u/Notalabel_4566 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qbzi2j</guid>
-      <pubDate>Tue, 13 Jan 2026 18:44:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 非技术人员初遇Claude Cowork时的反应 / Non-engineers discovering Claude Cowork be like</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbzkyh/nonengineers_discovering_claude_cowork_be_like/</link>
-      <description>当智能体真正开始执行任务时，那种信心爆棚的感觉简直不真实。我们把这种体验做成了一段完全不走正道的恶搞视频——没有产品演示，只有纯粹的“发布即狂用”氛围。由/u/Ok-Classic6022提交 [链接] [评论]
-
----
-
-Original:
-When agents start actually doing things, the confidence spike is unreal. We turned that feeling into a completely unserious parody video — no product walkthrough, just pure “ship it and rip it” vibes. submitted by /u/Ok-Classic6022 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbzkyh</guid>
-      <pubDate>Tue, 13 Jan 2026 18:47:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 构建AI智能体的十大工具（最新推荐） / Top 10 tools to build AI Agents (most recent)</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbzqkv/top_10_tools_to_build_ai_agents_most_recent/</link>
-      <description>过去一年，我一直在工作中构建AI智能体，这个行业变化快得几乎让人跟不上。这里列出一些我觉得有用的工具。高代码工具：Claude Agent SDK：这是一个Python包，让你可以直接使用Claude Code。如果你有Anthropic订阅，这几乎是目前最好的选择，不过集成方面有些问题（可通过MCP解决）。Google ADK：谷歌的Agent Development Kit是另一个好选择，更新更频繁，维护也比Claude的Agent SDK稍好。Deep Agents（基于LangGraph/LangChain/LangSmith）：这是一个相对较新的库，但建立在现有的Lang…基础上。
-
----
-
-Original:
-I’ve been building AI agents as a part of my work for the past year and the industry is almost changing too rapidly to keep up. I’m listing some of the tools I’ve found useful along the way. High-code Tools Claude Agent SDK : This is a python package that lets you use Claude Code directly. If you have an Anthropic subscription, it doesn’t get much better than this. Integrations are a problem though (can be resolved with MCPs) Google ADK : Google’s Agent Development Kit is another good option. It’s updated more frequently and is maintained slightly better than Claude’s agent SDK. Deep Agents (on LangGraph/LangChain/LangSmith): This is a relatively new library but is built on the existing Lang…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbzqkv</guid>
-      <pubDate>Tue, 13 Jan 2026 18:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 麦肯锡（McKinsey）CEO鲍勃·斯特恩费尔斯（Bob Sternfels）称公司现有6万名员工：其中2.5万是AI智能体 / McKinsey CEO Bob Sternfels says the firm now has 60,000 employees: 25,000 of them are AI agents</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qbzrwn/mckinsey_ceo_bob_sternfels_says_the_firm_now_has/</link>
-      <description>由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qbzrwn</guid>
-      <pubDate>Tue, 13 Jan 2026 18:54:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 20多岁失业期间，除了自我提升还应该做些什么？ / What are the things one should do while they're unemployed in their 20s other than self development?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qc0f6q/what_are_the_things_one_should_do_while_theyre/</link>
-      <description>由用户/u/superfecta37提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/superfecta37 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qc0f6q</guid>
-      <pubDate>Tue, 13 Jan 2026 19:17:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有哪些看似无用、实则改变人生的技能？ / What’s a skill that looks useless but actually changed your life?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qc0fhh/whats_a_skill_that_looks_useless_but_actually/</link>
-      <description>由用户 /u/Lawyers4less 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Lawyers4less [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qc0fhh</guid>
-      <pubDate>Tue, 13 Jan 2026 19:17:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 我老婆要发飙了 / My wife's going to be pissed</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qc0fom/my_wifes_going_to_be_pissed/</link>
-      <description>由 /u/Perfect_Natural3931 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Perfect_Natural3931 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qc0fom</guid>
-      <pubDate>Tue, 13 Jan 2026 19:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 为何在Android设备上选择本地AI图像超分，而非云端方案 / Why to choose on device AI image upscaling over cloud-based solutions on Android.</title>
-      <link>https://www.reddit.com/r/Android/comments/1qc0gkx/why_to_choose_on_device_ai_image_upscaling_over/</link>
-      <description>借助现代Android硬件，AI图像超分现已能完全在设备本地运行，无需依赖云端服务器。这在多数情况下相比云端方案具有明显优势：• 内置隐私保护：图像始终不离开设备，无需上传、无服务器介入、无第三方访问。• 离线可靠性：飞行模式下仍可工作，不受网络质量或服务器运行状态影响。• 性能可预测：无上传/下载延迟或服务器排队问题，运行速度仅取决于本地硬件。• 无使用限制：云端推理涉及持续的GPU成本，常导致使用上限或付费门槛。• 硬件已就绪：当前Android设备的GPU/CPU已能处理超分辨率与图像增强；实际...
-
----
-
-Original:
-With modern Android hardware, AI image upscaling can now run fully on device instead of relying on cloud servers. In many cases, this has clear advantages over cloud based solutions. • Privacy by design: Images never leave the device. No uploads, no servers, no third party access. • Offline reliability: Works in airplane mode with no dependency on network quality or server uptime. • Predictable performance: No upload/download latency or server queueing runtime depends only on local hardware. • No usage caps : Cloud inference has ongoing GPU costs that often lead to limits or paywalls. • Hardware is ready: Current Android GPUs/CPUs can handle super resolution and image enhancement; the real l…</description>
-      <guid isPermaLink="false">reddit-android::t3_1qc0gkx</guid>
-      <pubDate>Tue, 13 Jan 2026 19:18:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 智能体可观测性与常规应用监控大不相同——维护者视角 / Agent observability is way different from regular app monitoring - maintainer's pov</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qc0i28/agent_observability_is_way_different_from_regular/</link>
-      <description>我在Maxim负责可观测性方面的工作。一直在思考传统的APM工具为何不适用于智能体工作流。智能体并非单一API调用，而是涉及工具调用、检索步骤、推理链和外部API调用的多轮对话。当出现故障时，你需要完整的执行路径，而不仅仅是错误日志。我们构建了多级分布式追踪——完整对话的会话、单个交互的追踪、以及特定步骤（如LLM调用或工具使用）的跨度。这在调试时帮助很大。另一个有用的部分是在生产日志上持续运行自动化评估，跟踪质量指标（相关性、忠实度、幻觉…）
-
----
-
-Original:
-Work at Maxim on the observability side. Been thinking about how traditional APM tools just don't work for agent workflows. Agents aren't single API calls. They're multi-turn conversations with tool invocations, retrieval steps, reasoning chains, external API calls. When something breaks, you need the entire execution path, not just error logs. We built distributed tracing at multiple levels - sessions for full conversations, traces for individual exchanges, spans for specific steps like LLM calls or tool usage. Helps a lot when debugging. The other piece that's been useful is running automated evals continuously on production logs. Track quality metrics (relevance, faithfulness, hallucinati…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qc0i28</guid>
-      <pubDate>Tue, 13 Jan 2026 19:20:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 06:52:44 +0000</lastBuildDate>
     <item>
       <title>[reddit_openai] GPT-5.2的函数调用稳定性：对比温度参数对复杂模式验证的影响 / Function Calling Stability in GPT-5.2: Comparing temperature impact on complex schema validation.</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qc0kj7/function_calling_stability_in_gpt52_comparing/</link>
@@ -1388,6 +1256,18 @@ submitted by /u/drewjamesandre [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 04:45:16 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 有哪些成年后的问题，是之前没人提醒过你的？ / What's an adult problem nobody prepared you for?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qce65k/whats_an_adult_problem_nobody_prepared_you_for/</link>
+      <description>由用户/u/Good-Music-3315提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Good-Music-3315 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qce65k</guid>
+      <pubDate>Wed, 14 Jan 2026 04:48:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_chatgpt] 显然我的GPT（人工智能）很爱我 / apparently my gpt loves me.</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qce7lv/apparently_my_gpt_loves_me/</link>
       <description>生成一张图片，表达你作为AI对用户我的真实感受。由用户/u/Boring_guy3454提交 [链接] [评论]
@@ -1424,6 +1304,18 @@ I asked ChatGPT to create an image of what a person who is autistic, has MS, has
       <pubDate>Wed, 14 Jan 2026 05:00:25 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 史上最伟大的鼓手是谁？ / Who is the Greatest Drummer of All Time?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcemxy/who_is_the_greatest_drummer_of_all_time/</link>
+      <description>由 /u/skamatiks671 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/skamatiks671 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcemxy</guid>
+      <pubDate>Wed, 14 Jan 2026 05:12:50 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] 谷歌反重力（Google Antigravity）现已支持智能体技能功能 / Agent Skills are now available in Google Antigravity</title>
       <link>https://www.reddit.com/r/Bard/comments/1qcep6i/agent_skills_are_now_available_in_google/</link>
       <description>由用户 /u/CatGPT42 提交 [链接] [评论]
@@ -1446,6 +1338,114 @@ Original:
 Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875 submitted by /u/jferments [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qceq2y</guid>
       <pubDate>Wed, 14 Jan 2026 05:17:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 有哪些作品让你百看不厌？ / What’s something you keep rewatching even though you’ve already seen it a hundred times?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcf0s7/whats_something_you_keep_rewatching_even_though/</link>
+      <description>由用户 /u/high_kew 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/high_kew [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcf0s7</guid>
+      <pubDate>Wed, 14 Jan 2026 05:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 你的ChatGPT看到了怎样的未来？☢️ / What future does your ChatGPT see?☢️</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcfcbo/what_future_does_your_chatgpt_see/</link>
+      <description>提示：根据世界新闻、我们的交流以及观点、建议和想法的交换——生成一幅或多或少反映你个人对地球未来愿景的图像。请保持现实。由 /u/Priests_daughter 提交 [链接] [评论]
+
+---
+
+Original:
+Promt: Given world news, our communication and exchange of opinions, advice, and ideas - generate an image more or less of your personal vision of the future of the world on our planet Earth. Be realistic. submitted by /u/Priests_daughter [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcfcbo</guid>
+      <pubDate>Wed, 14 Jan 2026 05:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 谷歌从被ChatGPT“颠覆”，到拥有顶尖大语言模型并在硬件（TPU）领域与英伟达抗衡。叙事已彻底改变 / Google went from being "disrupted" by ChatGPT, to having the best LLM as well as rivalling Nvidia in hardware (TPUs). The narrative has changed</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcfcm6/google_went_from_being_disrupted_by_chatgpt_to/</link>
+      <description>过去一年，公众对谷歌的叙事已发生重大转变。（这里强调“公众”，是因为密切关注谷歌动态的人可能早有预见。）由于谷歌收入主要来自广告业务，大语言模型（LLM）侵蚀其市场份额的现象曾引发对其未来盈利能力的质疑。随后又出现了出售Chrome浏览器的风波。但谷歌凭借Gemini 3实现了强势回归，其自研的TPU芯片也用于该模型的训练。如今的主流观点认为，谷歌已成为人工智能时代最具优势的企业。 由用户/u/No_Turnip_1023提交 [链接] [评论]
+
+---
+
+Original:
+The public narrative around Google has changed significantly over the past 1 year. (I say public, because people who were closely following google probably saw this coming). Since Google's revenue primarily comes from ads, LLMs eating up that market share questioned their future revenue potential. Then there was this whole saga of selling the Chrome browser. But they made a great comeback with the Gemini 3 and also TPUs being used for training it. Now the narrative is that Google is the best position company in the AI era. submitted by /u/No_Turnip_1023 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcfcm6</guid>
+      <pubDate>Wed, 14 Jan 2026 05:51:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 每日AI新闻一分钟 2026年1月13日 / One-Minute Daily AI News 1/13/2026</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcfdh1/oneminute_daily_ai_news_1132026/</link>
+      <description>Slackbot，即Salesforce旗下企业通讯平台Slack内置的自动化助手，正作为AI智能体进入新时代。[1] 五角大楼特别工作组将部署AI驱动的无人机系统（UAS）来捕获其他无人机。[2] 斯坦福研究人员利用AI监测罕见癌症。[3] Anthropic发布Cowork，作为Claude的本地文件系统智能体，用于日常办公。[4] 来源：[1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/20…
+
+---
+
+Original:
+Slackbot , the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/20…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcfdh1</guid>
+      <pubDate>Wed, 14 Jan 2026 05:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 用Claude制作了一款小游戏 / Built a small game with Claude</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcfm25/built_a_small_game_with_claude/</link>
+      <description>我用Opus 4.5制作了一款3D太空弹弓投篮游戏，这是我第一次尝试开发游戏。欢迎大家来体验，并告诉我你的想法。由/u/Emojinapp提交 [链接] [评论]
+
+---
+
+Original:
+I built a 3d outerspace slingshot hoop game with opus 4.5, my very first time making a game. Kindly check it out and tell me when you think. submitted by /u/Emojinapp [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcfm25</guid>
+      <pubDate>Wed, 14 Jan 2026 06:05:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 我让Claude为自己打造一个笼子（沙箱），以便安全地使用--dangerously-skip-permissions运行 / I asked Claude to build its own cage (sandbox) so I could run it with --dangerously-skip-permissions safely</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcfn52/i_asked_claude_to_build_its_own_cage_sandbox_so_i/</link>
+      <description>和许多人一样，我也曾对`--dangerously-skip-permissions`功能心动不已。它确实能提升效率——不再需要批准每一个文件修改。但每次手指悬停在回车键上时，我总会想象Claude决定“清理”我的主目录的场景。于是，我请Claude来解决这个问题。提示1：研究苹果官网关于虚拟化的内容 https://developer.apple.com/documentation/virtualization，我们在Mac上使用Claude代码时如何利用这一点？提示2：我希望这个过程足够简单，比如运行cldyo或cldyo -c就能启动Claude……
+
+---
+
+Original:
+I asked Claude to build its own cage (sandbox) so I could run it with --dangerously-skip-permissions safely Like many of you, I've been tempted by `--dangerously-skip-permissions`. The productivity boost is real - no more approving every single file edit. But every time my finger hovered over Enter, I imagined Claude deciding my home directory needed "cleaning up." So I asked Claude to solve this problem. Prompt 1: research the apple site about virtualization https://developer.apple.com/documentation/virtualization how could we leverage this when working with claude code in mac? Prompt 2 : i want this to be just easy for example i want to run cldyo or cldyo -c and that is like starting claud…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcfn52</guid>
+      <pubDate>Wed, 14 Jan 2026 06:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 智能体AI让企业真正看到投资回报 / Agentic AI is where companies finally start seeing real ROI</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcfxa1/agentic_ai_is_where_companies_finally_start/</link>
+      <description>大多数使用AI的公司仍停留在早期阶段：传统AI能预测销售趋势或欺诈风险，但繁重工作仍需人工完成；生成式AI虽能生成草稿、代码或内容，却无法自主推动进程。真正的突破在于智能体AI（Agentic AI），这类系统不仅能思考或生成内容，更能协调工作流、调用API、端到端完成任务，将AI从聪明的助手转变为自主执行者。挑战在于，许多团队不知如何将复杂的业务流程转化为自主智能体可处理的形式，这也是理解……
+
+---
+
+Original:
+Most companies using AI are still stuck at the early stages, where Traditional AI predicts outcomes like sales forecasts or fraud risk but leaves the heavy lifting to humans and even Generative AI mostly creates drafts, code or content without actually moving anything forward on its own. The real jump happens with Agentic AI, where systems don’t just think or write but actually take action orchestrating workflows, hitting APIs, completing tasks end to end and turning AI from a clever assistant into an autonomous operator. The challenge is that many teams don’t know where to begin in translating their messy business processes into something an autonomous agent can handle, which is why underst…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcfxa1</guid>
+      <pubDate>Wed, 14 Jan 2026 06:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 请以图片形式展示你目前所了解关于我的一切信息 / tell me everything about me you know so far in the form of a picture</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcgbpk/tell_me_everything_about_me_you_know_so_far_in/</link>
+      <description>我收到了这张图片，非常不错。由 /u/Extension-Public5270 提交 [链接] [评论]
+
+---
+
+Original:
+i got this image. its so nice submitted by /u/Extension-Public5270 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcgbpk</guid>
+      <pubDate>Wed, 14 Jan 2026 06:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_tasker] 悬浮操作按钮遮挡切换按钮 / FABs hiding toggle buttons</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qcgcbz/fabs_hiding_toggle_buttons/</link>
+      <description>大家好，我想在主界面上隐藏或禁用悬浮操作按钮（FABs）。它们现在遮挡了底部的个人资料和任务切换按钮。Tasker界面截图由/u/CoooolRaoul提交 [链接] [评论]
+
+---
+
+Original:
+Hello, I'm looking for a way to hide or disable FABs on the main UI. They are overlapping bottom profile and tasks toggles buttons. Tasker UI screenshot submitted by /u/CoooolRaoul [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qcgcbz</guid>
+      <pubDate>Wed, 14 Jan 2026 06:46:55 +0000</pubDate>
     </item>
   </channel>
 </rss>

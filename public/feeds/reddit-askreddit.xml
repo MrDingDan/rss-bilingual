@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 05:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:52:36 +0000</lastBuildDate>
     <item>
       <title>有哪些完全无害的事物，却会引发人们异常强烈的反应？ / What’s a totally harmless thing that triggers an oddly strong reaction in people?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qau4uq/whats_a_totally_harmless_thing_that_triggers_an/</link>
@@ -834,6 +834,42 @@ Original:
 submitted by /u/InterestingScore100 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qcds5l</guid>
       <pubDate>Wed, 14 Jan 2026 04:28:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>有哪些成年后的问题，是之前没人提醒过你的？ / What's an adult problem nobody prepared you for?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qce65k/whats_an_adult_problem_nobody_prepared_you_for/</link>
+      <description>由用户/u/Good-Music-3315提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Good-Music-3315 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qce65k</guid>
+      <pubDate>Wed, 14 Jan 2026 04:48:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>史上最伟大的鼓手是谁？ / Who is the Greatest Drummer of All Time?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcemxy/who_is_the_greatest_drummer_of_all_time/</link>
+      <description>由 /u/skamatiks671 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/skamatiks671 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcemxy</guid>
+      <pubDate>Wed, 14 Jan 2026 05:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>有哪些作品让你百看不厌？ / What’s something you keep rewatching even though you’ve already seen it a hundred times?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcf0s7/whats_something_you_keep_rewatching_even_though/</link>
+      <description>由用户 /u/high_kew 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/high_kew [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcf0s7</guid>
+      <pubDate>Wed, 14 Jan 2026 05:33:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
