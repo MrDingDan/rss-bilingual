@@ -827,7 +827,13 @@
     "reddit-askreddit::t3_1qcxwlf": 1768430252,
     "reddit-chatgpt::t3_1qd1r4d": 1768431244,
     "reddit-claudeai::t3_1qd0q3o": 1768431256,
-    "reddit-openai::t3_1qd26yy": 1768431261
+    "reddit-openai::t3_1qd26yy": 1768431261,
+    "reddit-ai-agents::t3_1qd2v7j": 1768433213,
+    "reddit-openai::t3_1qd2cbl": 1768433221,
+    "reddit-askreddit::t3_1qd1219": 1768433227,
+    "reddit-askreddit::t3_1qcxl7p": 1768433231,
+    "reddit-tasker::t3_1qd2neh": 1768433241,
+    "xgo-f299207d::2011563840933359903": 1768433252
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4105,6 +4111,30 @@
     "773344bad362f99656105ad9a7e33ec998d36a4e6c0705599f7072a2ac8084ad": {
       "zh_title": "科技从业者纷纷谴责ICE，而CEO们却保持沉默",
       "zh_summary": "由 /u/wiredmagazine 提交 [链接] [评论]"
+    },
+    "38ece93bcb71ca282b5ffd4fcd49fbb10d03d04e14a332b63968edda48bb2167": {
+      "zh_title": "输入与输出令牌的比例",
+      "zh_summary": "你好，我想了解你们正在开发的智能体（agent）通常的输入与输出令牌比例是多少。以下是我为自家产品构建的某个智能体经过多次运行后的统计数据。我将输出最大令牌数限制在4096，因此比例非常小。我在考虑是否应该增加输出限制（显然这也会增加输入量，因为输出会成为后续运行的历史/上下文的一部分）。大家对此有什么看法？类型 数值 输入 5600543 输出 39005 我查看了GitHub Copilot模型的输出配置，典型的输出限制是16K、64K、128K。请注意，我使用的模型肯定支持生成超过4096个令牌。由 /u/tangr208 提交"
+    },
+    "ea57360be294b6e8782f94f40b984ccc52135e1edaf623d4dc76926c28d9d409": {
+      "zh_title": "OpenAI与Cerebras达成百亿美元合作，加速AI发展",
+      "zh_summary": "由用户/u/Own_Amoeba_5710提交 [链接] [评论]"
+    },
+    "91de3c768d8cdd577d4ead84b7aafdfbee0ce60a78e4fdc4c8d61dc59a9b82ae": {
+      "zh_title": "美国没钱投入医疗保健、应对生活成本上涨，却有钱买格陵兰岛，你怎么看？",
+      "zh_summary": "由用户 /u/Advanced-Pilot-3698 提交 [链接] [评论]"
+    },
+    "b81719e44f61c14c531ed7d7ba02b85bbcb1bfe1a7428c997c0cd89354771b41": {
+      "zh_title": "你在成人视频里看过最搞笑的评论是什么？",
+      "zh_summary": "由用户 /u/tallcree 提交 [链接] [评论]"
+    },
+    "8079948657327d6628f14c7f9ae40a793f7f856e5ef75055a619e8c162b35a1f": {
+      "zh_title": "能否为蓝牙连接设置退出任务？",
+      "zh_summary": "我换了新手机，在设置退出任务时遇到了问题。我创建了一个基于蓝牙连接的配置文件，当手机连接到车载蓝牙时，会自动启动音乐应用并将音量调到最大。但断开蓝牙连接后，我希望它能将音量调回一格。我似乎找不到添加退出任务的方法。长按所有可见选项都只显示添加新任务或取消关联任务的选项，就是没有添加退出任务。请问我漏掉了什么步骤？感谢。由 /u/kelemvor33 提交 [链接] [评论]"
+    },
+    "09bcc1232431207c5bfaacadd4a47b151b6b579ed67771eedd703392462805f6": {
+      "zh_title": "确实可以使用LangSmith记录Claude Code的追踪日志！",
+      "zh_summary": "确实可以使用LangSmith记录Claude Code的追踪日志！文档地址：docs.langchain.com/langsmith/trac… Muhammad Junaid @MJunaidshaukat @hwchase17 @sydneyrunkle @hwchase17 我在想是否能在CLI编码代理（特别是Claude Code）中使用langsmith追踪功能。观察其使用技能、子代理和后台任务的决定将会很有价值。🔗 查看引用推文 💬 3 🔄 3 ❤️ 4 👀 967 📊 4 ⚡ 由xgo.ing驱动"
     }
   }
 }

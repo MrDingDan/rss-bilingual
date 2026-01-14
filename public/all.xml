@@ -6,79 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 22:54:26 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 有没有工具/插件能为智能体阅读的所有内容生成行内注释？ / Is there a tool/plugin that generates in line comments for everything the agent reads?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcp3qw/is_there_a_toolplugin_that_generates_in_line/</link>
-      <description>虽然感觉这种工具应该早就有人开发出来了，但我一直没找到。我说的不是外部文档（比如Markdown文件），而是指除非我明确要求生成文档和行内注释，否则智能体在大量搜索和阅读时不会把思考过程记录下来。我希望在等待上下文限制重置时能浏览代码，如果有个工具能自动将思考过程捕获为行内注释会非常实用。有人知道这类工具吗？提交者：/u/Standard-Fisherman-5 [链接] [评论]
-
----
-
-Original:
-I can’t find anything despite it seeming like something people would have already invented. I’m not talking about external documentation as markdown files, but unless I ask specifically to make documentation and inline comments, agents will do a lot of searching and reading without writing the thoughts down anywhere. I would like to go through the code while I wait for the context limits to reset, and having some tool that automatically captures the thoughts as in line comments would be very useful. Anyone know of any tool? submitted by /u/Standard-Fisherman-5 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcp3qw</guid>
-      <pubDate>Wed, 14 Jan 2026 14:46:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 人体最迷人的地方是什么？ / What is the most fascinating thing about the human body?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcp9m6/what_is_the_most_fascinating_thing_about_the/</link>
-      <description>由 /u/PancakeBully 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/PancakeBully [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcp9m6</guid>
-      <pubDate>Wed, 14 Jan 2026 14:52:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 究竟谁从ICE突击行动中获利——为何此事鲜少被讨论？ / Who is actually profiting from ICE raids — and why isn’t this discussed more?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcpell/who_is_actually_profiting_from_ice_raids_and_why/</link>
-      <description>由 /u/Sensitive_Studio_247 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Sensitive_Studio_247 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcpell</guid>
-      <pubDate>Wed, 14 Jan 2026 14:57:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 嘿，Sam，阿根廷星门（Stargate Argentina）在哪儿？ / Hey Sam, where is Stargate Argentina?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcpg5d/hey_sam_where_is_stargate_argentina/</link>
-      <description>由 /u/New-Thanks6222 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/New-Thanks6222 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcpg5d</guid>
-      <pubDate>Wed, 14 Jan 2026 14:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 在网站英雄区域嵌入自定义GPT / Embed Custom GPT as hero section on website</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcphan/embed_custom_gpt_as_hero_section_on_website/</link>
-      <description>我很想为自己的网站实现这个功能，类似Perplexity那样。我希望在页面顶部设置一个英雄区域，让用户能与我的自定义GPT互动（而非弹出式聊天窗口）。这能实现吗？根据初步研究，ChatGPT似乎无法直接支持。有没有人做过类似的功能？提交者：/u/Western-Trouble1407 [链接] [评论]
-
----
-
-Original:
-I would love to do this for my website. Similar to perplexity. I want a hero section on the top of the page where users can interact with my custom GPT (not a pop up chat).. is this possible? From my initial research this can’t be done directly from Chat GPT. Has anyone done something similar? submitted by /u/Western-Trouble1407 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcphan</guid>
-      <pubDate>Wed, 14 Jan 2026 15:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 人工智能进展速度超出专家预期 / AI progress is advancing faster than experts expect</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcpi7g/ai_progress_is_advancing_faster_than_experts/</link>
-      <description>https://leap.forecastingresearch.org/reports/wave4 由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-https://leap.forecastingresearch.org/reports/wave4 submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcpi7g</guid>
-      <pubDate>Wed, 14 Jan 2026 15:01:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 23:27:32 +0000</lastBuildDate>
     <item>
       <title>[reddit_bard] 专业版型号无法使用 / Pro model doesn't work</title>
       <link>https://www.reddit.com/r/Bard/comments/1qcplan/pro_model_doesnt_work/</link>
@@ -976,6 +904,18 @@ We get asked a bunch about multi-agent architectures, usually when teams want to
       <pubDate>Wed, 14 Jan 2026 19:44:45 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你在成人视频里看过最搞笑的评论是什么？ / What's the funniest comment you read on a porn vid?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcxl7p/whats_the_funniest_comment_you_read_on_a_porn_vid/</link>
+      <description>由用户 /u/tallcree 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/tallcree [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcxl7p</guid>
+      <pubDate>Wed, 14 Jan 2026 19:57:13 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] OpenAI 开发者体验团队确认 GPT-5.2-Codex 已上线 API 用于编程任务 / OpenAI DevEx confirms GPT-5.2-Codex is Live in the API for coding tasks</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qcxnas/openai_devex_confirms_gpt52codex_is_live_in_the/</link>
       <description>由 /u/BuildwithVignesh 提交 [链接] [评论]
@@ -1421,6 +1361,32 @@ submitted by /u/swe129 [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 22:07:49 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 美国没钱投入医疗保健、应对生活成本上涨，却有钱买格陵兰岛，你怎么看？ / There is no money for Healthcare, help with cost of living in the U.S. etc, but there is money to buy Greenland, what are your thoughts?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd1219/there_is_no_money_for_healthcare_help_with_cost/</link>
+      <description>由用户 /u/Advanced-Pilot-3698 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Advanced-Pilot-3698 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd1219</guid>
+      <pubDate>Wed, 14 Jan 2026 22:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[xgo_f299207d] 确实可以使用LangSmith记录Claude Code的追踪日志！ / you can indeed use LangSmith to log your Claude Code traces!
+
+docs: https://t.co/veDjBwu32K</title>
+      <link>https://x.com/hwchase17/status/2011563840933359903</link>
+      <description>确实可以使用LangSmith记录Claude Code的追踪日志！文档地址：docs.langchain.com/langsmith/trac… Muhammad Junaid @MJunaidshaukat @hwchase17 @sydneyrunkle @hwchase17 我在想是否能在CLI编码代理（特别是Claude Code）中使用langsmith追踪功能。观察其使用技能、子代理和后台任务的决定将会很有价值。🔗 查看引用推文 💬 3 🔄 3 ❤️ 4 👀 967 📊 4 ⚡ 由xgo.ing驱动
+
+---
+
+Original:
+you can indeed use LangSmith to log your Claude Code traces! docs: docs.langchain.com/langsmith/trac… Muhammad Junaid @MJunaidshaukat @hwchase17 @sydneyrunkle @hwchase17 I wonder if we can use langsmith tracing with CLI Coding Agents particularly Claude Code. Looking at the decision to use skills, subagents, background tasks will be gold. 🔗 View Quoted Tweet 💬 3 🔄 3 ❤️ 4 👀 967 📊 4 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011563840933359903</guid>
+      <pubDate>Wed, 14 Jan 2026 22:19:27 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] 如果你在使用谷歌反重力（Google Antigravity），请立即重启！ / If you use Google Antigravity, restart it!</title>
       <link>https://www.reddit.com/r/Bard/comments/1qd1nzi/if_you_use_google_antigravity_restart_it/</link>
       <description>昨天他们还把谷歌3闪光（Google 3 Flash）设为默认闪光效果。由 /u/fandry96 提交 [链接] [评论]
@@ -1455,6 +1421,42 @@ Original:
 submitted by /u/wiredmagazine [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qd26yy</guid>
       <pubDate>Wed, 14 Jan 2026 22:52:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] OpenAI与Cerebras达成百亿美元合作，加速AI发展 / OpenAI Cerebras Deal: $10 Billion Partnership for Faster AI</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd2cbl/openai_cerebras_deal_10_billion_partnership_for/</link>
+      <description>由用户/u/Own_Amoeba_5710提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Own_Amoeba_5710 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd2cbl</guid>
+      <pubDate>Wed, 14 Jan 2026 22:58:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_tasker] 能否为蓝牙连接设置退出任务？ / Can I create an exit task for a Bluetooth connection?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qd2neh/can_i_create_an_exit_task_for_a_bluetooth/</link>
+      <description>我换了新手机，在设置退出任务时遇到了问题。我创建了一个基于蓝牙连接的配置文件，当手机连接到车载蓝牙时，会自动启动音乐应用并将音量调到最大。但断开蓝牙连接后，我希望它能将音量调回一格。我似乎找不到添加退出任务的方法。长按所有可见选项都只显示添加新任务或取消关联任务的选项，就是没有添加退出任务。请问我漏掉了什么步骤？感谢。由 /u/kelemvor33 提交 [链接] [评论]
+
+---
+
+Original:
+I got a new phone and I'm having trouble setting up an exit task. I have a profile using the BT connection so that when my phone connects to my car it can launch a music app and raise the volume up all the way. When it disconnects from that Bluetooth device I want it to put the volume back down to one. I can't seem to figure out how to add an exit task. I tried long tapping on on everything I can see and just get options to add another task or unlink a task but not add an exit task. What am I missing? Thanks. submitted by /u/kelemvor33 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qd2neh</guid>
+      <pubDate>Wed, 14 Jan 2026 23:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 输入与输出令牌的比例 / Ratio between input and output tokens</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd2v7j/ratio_between_input_and_output_tokens/</link>
+      <description>你好，我想了解你们正在开发的智能体（agent）通常的输入与输出令牌比例是多少。以下是我为自家产品构建的某个智能体经过多次运行后的统计数据。我将输出最大令牌数限制在4096，因此比例非常小。我在考虑是否应该增加输出限制（显然这也会增加输入量，因为输出会成为后续运行的历史/上下文的一部分）。大家对此有什么看法？类型 数值 输入 5600543 输出 39005 我查看了GitHub Copilot模型的输出配置，典型的输出限制是16K、64K、128K。请注意，我使用的模型肯定支持生成超过4096个令牌。由 /u/tangr208 提交
+
+---
+
+Original:
+Hello, I am wondering what is the typical input and output tokens ratio for agents you are developing. The following is the stats for one of the agents I built for my product after a number of runs. I have limits for output max tokens at 4096. Hence the ratio is very small. I'm wondering whether I should increase the output (obviously it increase input too as output will be part of history/context for the subsequent runs). What are people's thoughts? type value Input 5600543 Output 39005 I looked into github copilot models config for output, the typical ones are 16K, 64k, 128K for output. Note the models I am using support generating more than 4096 tokens definitely. submitted by /u/tangr208…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd2v7j</guid>
+      <pubDate>Wed, 14 Jan 2026 23:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

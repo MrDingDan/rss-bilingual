@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 22:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 23:26:54 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1224,6 +1224,18 @@ Original:
 DISCLAIMER!!: while yeah this is technically a promotion. i dont INTEND to do sell a service. im actually trying to give away tools to people. not for our portfolio. a testimonial. or a sale. you can literally take one of our tools for free. and not need to take ANOTHER anyways back to biz (no pun intended): yes you heard that joint RIGHT we are offering automation services for FREEEE all you gotta do is hit us up in the dm's or comment on dis post! Before anyone sharpens their pitchforks — yes, I know how this sounds. “AI services for FREEEEEEEEEEEEEEEEEEEEEE” which usually means trial. or just a scam in general lol but nah for real. THIS IS THEE opportunity and also. READ the NOTE at the b…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qd0x5a</guid>
       <pubDate>Wed, 14 Jan 2026 22:03:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>输入与输出令牌的比例 / Ratio between input and output tokens</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd2v7j/ratio_between_input_and_output_tokens/</link>
+      <description>你好，我想了解你们正在开发的智能体（agent）通常的输入与输出令牌比例是多少。以下是我为自家产品构建的某个智能体经过多次运行后的统计数据。我将输出最大令牌数限制在4096，因此比例非常小。我在考虑是否应该增加输出限制（显然这也会增加输入量，因为输出会成为后续运行的历史/上下文的一部分）。大家对此有什么看法？类型 数值 输入 5600543 输出 39005 我查看了GitHub Copilot模型的输出配置，典型的输出限制是16K、64K、128K。请注意，我使用的模型肯定支持生成超过4096个令牌。由 /u/tangr208 提交
+
+---
+
+Original:
+Hello, I am wondering what is the typical input and output tokens ratio for agents you are developing. The following is the stats for one of the agents I built for my product after a number of runs. I have limits for output max tokens at 4096. Hence the ratio is very small. I'm wondering whether I should increase the output (obviously it increase input too as output will be part of history/context for the subsequent runs). What are people's thoughts? type value Input 5600543 Output 39005 I looked into github copilot models config for output, the typical ones are 16K, 64k, 128K for output. Note the models I am using support generating more than 4096 tokens definitely. submitted by /u/tangr208…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd2v7j</guid>
+      <pubDate>Wed, 14 Jan 2026 23:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
