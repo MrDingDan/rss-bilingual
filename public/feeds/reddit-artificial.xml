@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 08:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 11:50:42 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -558,6 +558,18 @@ Original:
 Slackbot , the automated assistant baked into the Salesforce-owned corporate messaging platform Slack, is entering a new era as an AI agent.[1] Pentagon task force to deploy AI-powered UAS systems to capture drones.[2] Stanford researchers use AI to monitor rare cancer.[3] Anthropic Releases Cowork As Claude’s Local File System Agent For Everyday Work.[4] Sources: [1] https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/ [2] https://www.defensenews.com/unmanned/2026/01/13/pentagon-task-force-to-deploy-ai-powered-uas-systems-to-capture-drones/ [3] https://www.almanacnews.com/health-care/2026/01/13/stanford-researchers-use-ai-to-monitor-rare-cancer/ [4] https://www.marktechpost.com/20…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qcfdh1</guid>
       <pubDate>Wed, 14 Jan 2026 05:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>厌倦了寻找优质AI工具？我创建了“顶级AI网站” / I got tired of hunting for good AI tools, so I made"top ai sites"</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcjtln/i_got_tired_of_hunting_for_good_ai_tools_so_i/</link>
+      <description>和这里的许多人一样，我每天都会看到新的AI工具涌现。有些很棒，有些半成品，有些一个月后就消失了。在收藏了许多零散的网站后，我意识到没有一个简洁、集中的地方可以探索可靠的AI工具，而不被噪音干扰。于是，我最终创建了top-ai-sites.com。它是什么？这是一个精心策划的AI网站和工具目录，组织有序，让你能真正找到有用的东西，而不是无休止地滚动浏览。它的不同之处：🔍 手工挑选的AI工具（非自动抓取的垃圾内容）🧠 涵盖多个类别：写作、编程、设计、生产力等 🚀 当你只想寻找灵感或特定解决方案时，浏览便捷 🆓 免费使用……
+
+---
+
+Original:
+Like a lot of people here, I keep seeing new AI tools pop up every single day . Some are amazing, some are half-baked, and some disappear a month later. After bookmarking many random sites, I realized there wasn’t a clean, centralized place to explore solid AI tools without the noise. So I ended up building top-ai-sites.com What it is A curated directory of AI websites and tools, organized so you can actually find something useful instead of scrolling endlessly. What makes it different 🔍 Hand-picked AI tools (not auto-scraped junk) 🧠 Covers multiple categories: writing, coding, design, productivity, and more 🚀 Easy to browse when you just want inspiration or a specific solution 🆓 Free to use…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcjtln</guid>
+      <pubDate>Wed, 14 Jan 2026 10:24:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

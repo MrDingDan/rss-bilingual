@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 08:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 11:51:13 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -792,6 +792,42 @@ Original:
 submitted by /u/No_Repair_8378 [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qchl67</guid>
       <pubDate>Wed, 14 Jan 2026 08:01:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>看起来调皮还是狡猾？🫡 / Looks naughty or devious?🫡</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcj4qn/looks_naughty_or_devious/</link>
+      <description>由 /u/ClerkIll6659 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ClerkIll6659 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcj4qn</guid>
+      <pubDate>Wed, 14 Jan 2026 09:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>先来做个合理性检查 / "Let's sanity check this first "</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcjzef/lets_sanity_check_this_first/</link>
+      <description>我明明只是在问手机故障排除的建议，它还是用上了这个说法。难道只有我遇到这种情况吗？到底什么是合理性检查，为什么每件事都需要它？我发誓现在每次和它对话都会出现这个词。https://chatgpt.com/share/696771b8-b494-8013-9b1f-690abfcc9f40 https://chatgpt.com/share/69677197-ba1c-8013-b5d9-72c8ce1841dc 由 /u/Relevant-Ad6374 提交 [链接] [评论]
+
+---
+
+Original:
+I'm literally asking for phone troubleshooting tips and it's still on with this phrase. Am I the only one? What even is a sanity check and why does everything need it?? I swear it is in every conversation i have with it now. https://chatgpt.com/share/696771b8-b494-8013-9b1f-690abfcc9f40 https://chatgpt.com/share/69677197-ba1c-8013-b5d9-72c8ce1841dc submitted by /u/Relevant-Ad6374 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcjzef</guid>
+      <pubDate>Wed, 14 Jan 2026 10:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>麦肯锡（McKinsey）两万员工实为AI智能体 / 20,000 McKinsey Workforce is Actually AI Agents</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qck530/20000_mckinsey_workforce_is_actually_ai_agents/</link>
+      <description>由 /u/ImpressiveContest283 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ImpressiveContest283 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qck530</guid>
+      <pubDate>Wed, 14 Jan 2026 10:43:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

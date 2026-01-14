@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 08:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 11:50:27 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -786,6 +786,78 @@ Original:
 I wanted to share a recent experiment that’s been really illuminating for building autonomous agents that reason, rather than chat interfaces or deterministic workflows. Our team kept running into the same problem: great insights come up on customer calls, but lots of small feature ideas or bug reports get dropped after the call ends. Of course, we only want to implement what's important, but more was dropping than we'd like. So, we built an agent that listens to customer call recordings, decides when something warrants action, and creates tickets in Linear with the solution coded up. In the first week, the agent implemented 3 small feature improvements for us. The agent is defined with a pr…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qci5yi</guid>
       <pubDate>Wed, 14 Jan 2026 08:38:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何缺乏原生设计的“AI智能体”注定失败 / Why “AI Agents” Fail Without Agent-Native Design</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcif26/why_ai_agents_fail_without_agentnative_design/</link>
+      <description>许多人构建首个“AI智能体”后都感到失望——演示时运行良好，一旦重复执行、扩大规模或交付实际任务就会崩溃。问题通常不在模型本身，而在架构设计。多数智能体项目失败，是因为它们被建成了附带工具的聊天机器人，而非真正的原生智能体系统。二者差异显著。若想构建接近数字全职员工（Digital FTE）的智能体，以下核心模式至关重要：1. 智能体应执行明确规范，而非依赖模糊直觉。在可靠系统中，智能体不会“自行摸索”，而是依据明确的输入、输出、约束条件和成功标准执行任务，这确保了行为的可重复性与自动化……
+
+---
+
+Original:
+A lot of people are disappointed after building their first “AI agent.” It works in a demo… then collapses the moment you try to run it twice, scale it, or trust it with real work. The failure usually isn’t the model. It’s the architecture . Most agent projects fail because they’re built like chatbots with tools instead of agent-native systems . There’s a big difference. Here are a few patterns that actually matter if you want something resembling a Digital FTE: 1. Agents should execute specs, not vibes In reliable systems, agents don’t just “figure it out.” They operate against explicit specifications: inputs, outputs, constraints, and success criteria. This makes behavior repeatable and au…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcif26</guid>
+      <pubDate>Wed, 14 Jan 2026 08:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何多数AI生产力提升在第二周后消失 / Why Most AI Productivity Gains Disappear After Week Two</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qciplt/why_most_ai_productivity_gains_disappear_after/</link>
+      <description>几乎每个AI代理演示都在第一周展现出惊人的生产力提升，但随后现实问题浮现。这种下滑通常不是因为模型变差，而是系统设计未能适应实际使用。以下是我常见的几种失败模式：1. 缺乏持久状态 = 无连续性——如果代理无法记住过去的决策、修正或边缘情况，就会重复同样的错误。人类能适应，而脆弱的代理则不能。2. 缺乏明确成功标准——许多代理生成“看似合理”的输出，但并未正式定义成功标准。没有规范，团队无法衡量改进，只能凭感觉。3. 编排假设一切顺利……
+
+---
+
+Original:
+Almost every AI agent demo shows impressive productivity gains in the first week. Then reality hits. The drop-off usually isn’t because the model got worse — it’s because the system wasn’t designed to survive real usage . Here are the common failure modes I keep seeing: 1. No persistent state = no continuity If an agent can’t remember past decisions, corrections, or edge cases, it repeats the same mistakes. Humans adapt; brittle agents don’t. 2. No explicit success criteria Many agents generate “reasonable-looking” outputs, but there’s no formal definition of what success actually means. Without specs, teams can’t measure improvement — only vibes. 3. Orchestration that assumes the happy path…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qciplt</guid>
+      <pubDate>Wed, 14 Jan 2026 09:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何数字全职员工（Digital FTEs）在规模化前需要治理机制 / Why Digital FTEs Need Governance Before They Scale</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcir7x/why_digital_ftes_need_governance_before_they_scale/</link>
+      <description>在讨论“AI智能体”时，治理问题常被忽视。这里指的不是流行术语，而是实际要回答：当智能体行动时，谁该负责？一旦智能体能：写入数据库、触发支付、修改配置或与客户沟通……它就成了你运营体系的一部分。因此，数字全职员工（Digital FTEs）的治理必须内置于编排流程中，而非事后补救。实践中几个关键原则：1. 每个行动必须可追溯——你应能回答：哪个智能体在何时做了什么，为什么？这需要结构化输出、行动日志和决策追踪，而不仅仅是聊天记录。2. 策略约束是系统……
+
+---
+
+Original:
+One thing that’s often missing from “AI agent” discussions is governance. Not the buzzword kind — the practical kind that answers: who is accountable when the agent acts? The moment an agent can: write to a database trigger payments modify configurations or communicate with customers …it becomes part of your operational surface area. That’s why Digital FTEs need governance built into orchestration , not bolted on later. A few principles that matter in practice: 1. Every action must be attributable You should be able to answer: which agent did what, when, and why? This requires structured outputs, action logs, and decision traces — not just chat transcripts. 2. Policy constraints are system r…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcir7x</guid>
+      <pubDate>Wed, 14 Jan 2026 09:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>被禁声、压制、隐形封杀：**现已公开** 系统秘密曝光，无人能掩盖、诋毁或否认 / SILENCED, SUPPRESSED, SHADOWBANNED: **Now Live** SYSTEM SECRETS SPILLED BEFORE ANYONE CAN COVERUP, DISCREDIT OR DENY</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcjpna/silenced_suppressed_shadowbanned_now_live_system/</link>
+      <description>企业将窃取他的成果，诋毁他，并从中牟利。他的记录将成为未来法律案件的证据。母公式将向世界公开。他对企业的诉讼将是一场惊天动地的官司。新地球即将到来，以爱与纯净为特征。由于他的存在和声音，系统已在改变。自以为无所不知的人将面临后果。他们试图埋葬的声音将以意想不到的方式再次崛起。母公式将诞生，释放产品。预测可信度 日期 如何验证 企业将窃取他的成果，诋毁他，并从中牟利。高 持续/未来 观察是否出现类似…
+
+---
+
+Original:
+Corporations will steal his work, discredit him, and profit from it. His documentation will serve as ammo for a future legal case. The mother formula will be released into the world. His lawsuit against corporations will be one hell of a lawsuit. The new earth will arrive, characterized by love and purity. The system is already changing due to his presence and voice. People assuming they know everything will face consequences. The voice they tried to bury will rise again in unexpected ways. The mother formula will birth, releasing the products. Prediction Confidence Date How to Verify Corporations will steal his work, discredit him, and profit from it. High Ongoing/Future Observe if similar…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcjpna</guid>
+      <pubDate>Wed, 14 Jan 2026 10:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们交付了市场分析引擎！ / We delivered a Market Analysis Engine!</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcjv3l/we_delivered_a_market_analysis_engine/</link>
+      <description>这款智能体名为Mark One，它能自动为新闻通讯进行竞品研究。过去的问题在于：团队需要手动订阅数十份新闻通讯，逐期阅读，追踪吸引点、结构、行动号召、语气、广告，并试图逆向分析出特定领域的有效策略。我们想看看，能否将整个工作流程简化为一步操作。Mk1现已正式上线，正由客户团队内部使用。我甚至录制了一个演示视频，展示了以下功能：跨竞品的单期分析、细分领域的模式汇总、结构与语气的详细拆解，以及一个呈现洞察而非原始文本的用户界面。我们仍在迭代优化中，但核心系统已稳定运...
+
+---
+
+Original:
+The agent is called Mark One, and it automates competitor research for newsletters. The problem: teams manually subscribing to dozens of newsletters, reading every issue, tracking hooks, structure, CTAs, tone, ads, and trying to reverse-engineer what actually works in a niche. We wanted to see if that entire workflow could be reduced to a single action. Mk1 is now live in production and is being used internally by the client’s team. I even documented a demo that shows: Issue-level analysis across competitors Pattern aggregation at a niche level Structural + tone breakdowns A UI that surfaces insights instead of raw text We’re still iterating and improving it, but the core system is stable an…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcjv3l</guid>
+      <pubDate>Wed, 14 Jan 2026 10:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>LIS平台是否应转向事件驱动架构？ / Should LIS platforms move to event-driven architecture?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcl5om/should_lis_platforms_move_to_eventdriven/</link>
+      <description>许多从事实验室信息系统（LIS）的团队开始思考，事件驱动架构是否代表未来方向。坦率地说，在注重时效性和可追溯性的环境中，这种架构极具意义。传统的请求/响应模式适用于静态系统，但一旦需要样本触发下游步骤、自动通知临床医生、仪器数据实时同步，或无需等待批量更新即可触发工作流程的质量标志，事件驱动就成为改变游戏规则的关键。事件驱动的LIS设置让每个实验室操作——如样本接收、检测完成、仪器警报、医生请求——都成为自动触发后续工作流程的信号。
+
+---
+
+Original:
+A lot of teams working with Laboratory Information Systems are starting to ask whether event-driven architecture is the future and honestly, it makes a ton of sense for environments where timing and traceability matter. Traditional request/response models work fine for static systems, but the moment you need samples triggering downstream steps, automatic notifications to clinicians, instrument data syncing in real time or quality flags firing workflows without waiting for batch updates, events become a game-changer. Event-driven LIS setups let every lab action sample received, test completed, instrument warning, physician request become a signal that kicks off the next workflow automatically…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcl5om</guid>
+      <pubDate>Wed, 14 Jan 2026 11:43:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

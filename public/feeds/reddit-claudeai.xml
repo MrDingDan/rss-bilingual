@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 08:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 11:52:29 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -798,6 +798,100 @@ Original:
 https://preview.redd.it/tp832wwyo9dg1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4e9a3bf65835c2dece3dd2de2ef9fa064b7ecaf7 submitted by /u/LittleJuggernaut7365 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qch2ad</guid>
       <pubDate>Wed, 14 Jan 2026 07:29:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们不再是开发者，而是代码审查员 / We are not developers anymore, we are reviewers.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qci80g/we_are_not_developers_anymore_we_are_reviewers/</link>
+      <description>最近我注意到一个趋势（在我自己和同事身上都有体现），即对软件开发的热情似乎在消退，我想我已经找到了原因。我们常说大语言模型（LLM）很棒，因为它们处理了那些“枯燥的部分”，让我们能专注于宏观设计。但问题在于：虽然架构仍由开发者决定，但具体实现现在却由AI来完成。而我逐渐意识到，实现过程其实才是乐趣所在。以下是我对为何这会消磨工作乐趣的看法：编写与审查：编程曾是一种创造性活动。你会进入“心流状态”，解决微观问题，从无到有地构建事物。而现在的工作流程是：先……
+
+---
+
+Original:
+I’ve noticed a trend lately (both in myself and colleagues) where the passion for software development seems to be fading, and I think I’ve pinpointed why. We often say that LLMs are great because they handle the "boring stuff" while we focus on the big picture. But here is the problem: while the Architecture is still decided by the developer, the Implementation is now done by the AI. And I’m starting to realize that the implementation was actually the fun part. Here is my theory on why this is draining the joy out of the job: Writing vs. Reviewing: coding used to be a creative act. You enter a "flow state," solving micro-problems and building something from nothing. Now, the workflow is: Pr…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qci80g</guid>
+      <pubDate>Wed, 14 Jan 2026 08:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于AI编程的讨论是否忽略了这一点：你可以轻松创建个人应用，从而减少购买或订阅同类功能应用的需求？ / Is discourse around coding with AI sleeping on the fact that you can easily create your own apps for personal usage, reducing the need to buy/subscribe to an app with that functionality?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcixrm/is_discourse_around_coding_with_ai_sleeping_on/</link>
+      <description>今天早上我亲身经历了一个例子：我看到一个视频展示了一种叫做RSVP的“速读”技巧，它通过应用程序逐字显示文本，让你能比平时读得更快。我找了一下能实现这个功能的桌面应用，发现最流行的应用（Spreeder）要价47欧元。于是我去找了Claude，请Opus 4.5用Python写一个具有相同功能的应用。我写了一个相当简短直接的提示：“早上好Claude，请帮我用Python编写一个速读应用。它应具备以下功能：能粘贴任意长度的文本并阅读；能加载PDF文件……”
+
+---
+
+Original:
+Real life example that I've been through this morning: I saw a video showing off 'speed reading' using a technique called RSVP that involves an application showing you a text word by word to enable you to read it more quickly than you might otherwise be able to. I had a look for a desktop app that could do this and it seems the most popular app to do this (Spreeder) costs 47€. So I went to Claude and asked Opus 4.5 to write me an app in Python with the same functionality. I wrote a pretty short and simple prompt: Good morning Claude, I'd like you to please code me a speed reading app in Python. The features it should have are: Able to paste text of any length and read it. Able to load pdfs o…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcixrm</guid>
+      <pubDate>Wed, 14 Jan 2026 09:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>浏览可下载Claude代码助手技能目录，最推荐哪个网站？ / What is the most recommended website for browsing a catalog of downloadable Claude Code Agent Skills?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcj27k/what_is_the_most_recommended_website_for_browsing/</link>
+      <description>以下是我目前整理的列表，但除了官方Claude技能外，哪些最值得信赖？
+
+官方Anthropic / Claude代码文档
+https://code.claude.com/docs/en/skills
+https://github.com/anthropics/skills
+
+主要聚合平台/可搜索市场
+https://skillsmp.com/
+https://claudeskills.ai/
+https://skillstore.io/
+https://www.claudeskillsmarket.com/
+https://claudeskillhub.com/
+https://www.claudeskill.site/en
+https://skills.pub/en
+https://skills.pub/en
+
+Claude代码插件/市场探索工具
+https://claudemarketplaces.com/
+https://claude-plugins.dev/skills
+
+其他/精选或垂直平台
+https://mithery.ai/skills
+https://github.com/travisvn/awesome-claude-skil…
+
+---
+
+Original:
+Here’s the list I’ve put together so far, but which ones are the most trustworthy besides the official Claude skills? Official Anthropic / Claude Code Docs https://code.claude.com/docs/en/skills https://github.com/anthropics/skills Primary Aggregators / Searchable Marketplaces https://skillsmp.com/ https://claudeskills.ai/ https://skillstore.io/ https://www.claudeskillsmarket.com/ https://claudeskillhub.com/ https://www.claudeskill.site/en https://skills.pub/en https://skills.pub/en Claude Code Plugin / Marketplace Explorers https://claudemarketplaces.com/ https://claude-plugins.dev/skills Other / Curated or Niche Hubs https://mithery.ai/skills https://github.com/travisvn/awesome-claude-skil…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcj27k</guid>
+      <pubDate>Wed, 14 Jan 2026 09:35:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>重大服务中断 / Major outage</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcj764/major_outage/</link>
+      <description>由 /u/Balance- 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Balance- [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcj764</guid>
+      <pubDate>Wed, 14 Jan 2026 09:44:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>失败请求仍计入使用额度 / Failed prompts count towards usage limits</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qck5or/failed_prompts_count_towards_usage_limits/</link>
+      <description>相信大家已经注意到当前服务出现了严重中断。我在检查Claude是否宕机前尝试发送了几次提示，这些请求全部失败了。然而，这已经消耗了我接下来5小时内34%的使用额度（我持有专业版账户）。我联系了技术支持，AI聊天机器人这样回复：“我理解您对服务故障期间损失使用额度感到沮丧。但很遗憾，消耗额度的失败请求通常无法退款，即使是由服务中断引起的。”抱歉，但这简直荒谬至极。这完全是他们自身的问题，绝不应该因此扣除我们的使用额度。
+
+---
+
+Original:
+As I am sure you are aware, there is a major outage happening right now. I have tried prompting a few times before checking whether Claude is down, and all of the prompts failed. Nevertheless, this has used up 34% of my usage limits for the next 5 hours (I have a pro account) I have reached out to support and the AI chatbot said this: "I understand your frustration about losing usage limits during the service incident. Unfortunately, failed requests that consume usage limits typically aren't refunded, even when they're caused by service disruptions." I am sorry but this is absolutely ridiculous. It is an issue on their end so they absolutely should not be eating up our usage limits for this.…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qck5or</guid>
+      <pubDate>Wed, 14 Jan 2026 10:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们完蛋了 / We are cooked</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qckv00/we_are_cooked/</link>
+      <description>由 /u/baalm4 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/baalm4 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qckv00</guid>
+      <pubDate>Wed, 14 Jan 2026 11:26:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

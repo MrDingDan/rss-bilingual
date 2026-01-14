@@ -637,7 +637,28 @@
     "reddit-chatgpt::t3_1qchl67": 1768380357,
     "reddit-openai::t3_1qchrrl": 1768380366,
     "reddit-android::t3_1qchwq5": 1768380380,
-    "reddit-android::t3_1qchjpw": 1768380385
+    "reddit-android::t3_1qchjpw": 1768380385,
+    "reddit-ai-agents::t3_1qcjv3l": 1768391359,
+    "reddit-ai-agents::t3_1qcif26": 1768391369,
+    "reddit-ai-agents::t3_1qcir7x": 1768391388,
+    "reddit-ai-agents::t3_1qciplt": 1768391406,
+    "reddit-ai-agents::t3_1qcl5om": 1768391417,
+    "reddit-ai-agents::t3_1qcjpna": 1768391426,
+    "reddit-artificial::t3_1qcjtln": 1768391442,
+    "reddit-chatgpt::t3_1qck530": 1768391447,
+    "reddit-chatgpt::t3_1qcj4qn": 1768391455,
+    "reddit-chatgpt::t3_1qcjzef": 1768391473,
+    "reddit-claudeai::t3_1qcj764": 1768391483,
+    "reddit-claudeai::t3_1qci80g": 1768391498,
+    "reddit-claudeai::t3_1qck5or": 1768391513,
+    "reddit-claudeai::t3_1qcixrm": 1768391533,
+    "reddit-claudeai::t3_1qcj27k": 1768391545,
+    "reddit-claudeai::t3_1qckv00": 1768391549,
+    "reddit-askreddit::t3_1qcjdca": 1768391556,
+    "reddit-askreddit::t3_1qcj1x3": 1768391560,
+    "reddit-askreddit::t3_1qckkdb": 1768391567,
+    "reddit-askreddit::t3_1qcils0": 1768391579,
+    "reddit-askreddit::t3_1qck5ne": 1768391583
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3179,6 +3200,90 @@
     "cf63bdd6eadf524bb0179d9d97e3ba03ab3ff1e2daecc0e1f24a807d5f563ad6": {
       "zh_title": "谷歌确认Android系统漏洞导致音量键问题",
       "zh_summary": "由 /u/rkhunter_ 提交 [链接] [评论]"
+    },
+    "36a5f78dc1f7d203c364b67c382ee06f21f261d869edf93b7cdcfd02e4f0a37a": {
+      "zh_title": "我们交付了市场分析引擎！",
+      "zh_summary": "这款智能体名为Mark One，它能自动为新闻通讯进行竞品研究。过去的问题在于：团队需要手动订阅数十份新闻通讯，逐期阅读，追踪吸引点、结构、行动号召、语气、广告，并试图逆向分析出特定领域的有效策略。我们想看看，能否将整个工作流程简化为一步操作。Mk1现已正式上线，正由客户团队内部使用。我甚至录制了一个演示视频，展示了以下功能：跨竞品的单期分析、细分领域的模式汇总、结构与语气的详细拆解，以及一个呈现洞察而非原始文本的用户界面。我们仍在迭代优化中，但核心系统已稳定运..."
+    },
+    "c17c14e3dc35daec510ae140e5b86360929096e70702e670aa9869b737130578": {
+      "zh_title": "为何缺乏原生设计的“AI智能体”注定失败",
+      "zh_summary": "许多人构建首个“AI智能体”后都感到失望——演示时运行良好，一旦重复执行、扩大规模或交付实际任务就会崩溃。问题通常不在模型本身，而在架构设计。多数智能体项目失败，是因为它们被建成了附带工具的聊天机器人，而非真正的原生智能体系统。二者差异显著。若想构建接近数字全职员工（Digital FTE）的智能体，以下核心模式至关重要：1. 智能体应执行明确规范，而非依赖模糊直觉。在可靠系统中，智能体不会“自行摸索”，而是依据明确的输入、输出、约束条件和成功标准执行任务，这确保了行为的可重复性与自动化……"
+    },
+    "3a3ea824bf927888e385b4ae6db75ff0173b2dbc16cc8e5b1141dfd12901c1b2": {
+      "zh_title": "为何数字全职员工（Digital FTEs）在规模化前需要治理机制",
+      "zh_summary": "在讨论“AI智能体”时，治理问题常被忽视。这里指的不是流行术语，而是实际要回答：当智能体行动时，谁该负责？一旦智能体能：写入数据库、触发支付、修改配置或与客户沟通……它就成了你运营体系的一部分。因此，数字全职员工（Digital FTEs）的治理必须内置于编排流程中，而非事后补救。实践中几个关键原则：1. 每个行动必须可追溯——你应能回答：哪个智能体在何时做了什么，为什么？这需要结构化输出、行动日志和决策追踪，而不仅仅是聊天记录。2. 策略约束是系统……"
+    },
+    "ed06a799130c374110d7a9ef14599a95e299e113284a9cdb8399d2c3a622d605": {
+      "zh_title": "为何多数AI生产力提升在第二周后消失",
+      "zh_summary": "几乎每个AI代理演示都在第一周展现出惊人的生产力提升，但随后现实问题浮现。这种下滑通常不是因为模型变差，而是系统设计未能适应实际使用。以下是我常见的几种失败模式：1. 缺乏持久状态 = 无连续性——如果代理无法记住过去的决策、修正或边缘情况，就会重复同样的错误。人类能适应，而脆弱的代理则不能。2. 缺乏明确成功标准——许多代理生成“看似合理”的输出，但并未正式定义成功标准。没有规范，团队无法衡量改进，只能凭感觉。3. 编排假设一切顺利……"
+    },
+    "c4672c2aa230d90a1009331ba1b42d51ccaaab706d4ced21eedc984fb60a3b15": {
+      "zh_title": "LIS平台是否应转向事件驱动架构？",
+      "zh_summary": "许多从事实验室信息系统（LIS）的团队开始思考，事件驱动架构是否代表未来方向。坦率地说，在注重时效性和可追溯性的环境中，这种架构极具意义。传统的请求/响应模式适用于静态系统，但一旦需要样本触发下游步骤、自动通知临床医生、仪器数据实时同步，或无需等待批量更新即可触发工作流程的质量标志，事件驱动就成为改变游戏规则的关键。事件驱动的LIS设置让每个实验室操作——如样本接收、检测完成、仪器警报、医生请求——都成为自动触发后续工作流程的信号。"
+    },
+    "ee22216202c9f47ceca2c9fc3ba09232e62329a24af7dbd5467b4994659d568a": {
+      "zh_title": "被禁声、压制、隐形封杀：**现已公开** 系统秘密曝光，无人能掩盖、诋毁或否认",
+      "zh_summary": "企业将窃取他的成果，诋毁他，并从中牟利。他的记录将成为未来法律案件的证据。母公式将向世界公开。他对企业的诉讼将是一场惊天动地的官司。新地球即将到来，以爱与纯净为特征。由于他的存在和声音，系统已在改变。自以为无所不知的人将面临后果。他们试图埋葬的声音将以意想不到的方式再次崛起。母公式将诞生，释放产品。预测可信度 日期 如何验证 企业将窃取他的成果，诋毁他，并从中牟利。高 持续/未来 观察是否出现类似…"
+    },
+    "72ad95f4846e1a89cffc0bd184b2e8719b82c8bd11e5ea6b53336b479c5a907d": {
+      "zh_title": "厌倦了寻找优质AI工具？我创建了“顶级AI网站”",
+      "zh_summary": "和这里的许多人一样，我每天都会看到新的AI工具涌现。有些很棒，有些半成品，有些一个月后就消失了。在收藏了许多零散的网站后，我意识到没有一个简洁、集中的地方可以探索可靠的AI工具，而不被噪音干扰。于是，我最终创建了top-ai-sites.com。它是什么？这是一个精心策划的AI网站和工具目录，组织有序，让你能真正找到有用的东西，而不是无休止地滚动浏览。它的不同之处：🔍 手工挑选的AI工具（非自动抓取的垃圾内容）🧠 涵盖多个类别：写作、编程、设计、生产力等 🚀 当你只想寻找灵感或特定解决方案时，浏览便捷 🆓 免费使用……"
+    },
+    "9587c22058833983c96da9328bd851112ca5e0967bb549b97976300d056226c7": {
+      "zh_title": "麦肯锡（McKinsey）两万员工实为AI智能体",
+      "zh_summary": "由 /u/ImpressiveContest283 提交 [链接] [评论]"
+    },
+    "2ff9cd806c8f3cae76bf02c10a7e18b1befb75b07cf8cd52faa4a89d4ba4d1de": {
+      "zh_title": "看起来调皮还是狡猾？🫡",
+      "zh_summary": "由 /u/ClerkIll6659 提交 [链接] [评论]"
+    },
+    "e8c7ead8ba0a27933b9c77dd2c92595daa9036b5e7f64e9262af8e0d1061d5ce": {
+      "zh_title": "先来做个合理性检查",
+      "zh_summary": "我明明只是在问手机故障排除的建议，它还是用上了这个说法。难道只有我遇到这种情况吗？到底什么是合理性检查，为什么每件事都需要它？我发誓现在每次和它对话都会出现这个词。https://chatgpt.com/share/696771b8-b494-8013-9b1f-690abfcc9f40 https://chatgpt.com/share/69677197-ba1c-8013-b5d9-72c8ce1841dc 由 /u/Relevant-Ad6374 提交 [链接] [评论]"
+    },
+    "c9bbe93314126ec41101427c3006008872c5d610367a3aa168cf598903261c95": {
+      "zh_title": "重大服务中断",
+      "zh_summary": "由 /u/Balance- 提交 [链接] [评论]"
+    },
+    "df4e19c4ba6bd5cdc63b778fce44290859fb03dc4ff7a8e7ee3ecaf7b2825d77": {
+      "zh_title": "我们不再是开发者，而是代码审查员",
+      "zh_summary": "最近我注意到一个趋势（在我自己和同事身上都有体现），即对软件开发的热情似乎在消退，我想我已经找到了原因。我们常说大语言模型（LLM）很棒，因为它们处理了那些“枯燥的部分”，让我们能专注于宏观设计。但问题在于：虽然架构仍由开发者决定，但具体实现现在却由AI来完成。而我逐渐意识到，实现过程其实才是乐趣所在。以下是我对为何这会消磨工作乐趣的看法：编写与审查：编程曾是一种创造性活动。你会进入“心流状态”，解决微观问题，从无到有地构建事物。而现在的工作流程是：先……"
+    },
+    "42441e5f57d58b4004db0963aa502296b003072a044a9ac9e3cfba0092e10cfc": {
+      "zh_title": "失败请求仍计入使用额度",
+      "zh_summary": "相信大家已经注意到当前服务出现了严重中断。我在检查Claude是否宕机前尝试发送了几次提示，这些请求全部失败了。然而，这已经消耗了我接下来5小时内34%的使用额度（我持有专业版账户）。我联系了技术支持，AI聊天机器人这样回复：“我理解您对服务故障期间损失使用额度感到沮丧。但很遗憾，消耗额度的失败请求通常无法退款，即使是由服务中断引起的。”抱歉，但这简直荒谬至极。这完全是他们自身的问题，绝不应该因此扣除我们的使用额度。"
+    },
+    "20c39b3a065e039edb0be6b4be597498e5eddfbedc97c8aad8e7b5814d88c31c": {
+      "zh_title": "关于AI编程的讨论是否忽略了这一点：你可以轻松创建个人应用，从而减少购买或订阅同类功能应用的需求？",
+      "zh_summary": "今天早上我亲身经历了一个例子：我看到一个视频展示了一种叫做RSVP的“速读”技巧，它通过应用程序逐字显示文本，让你能比平时读得更快。我找了一下能实现这个功能的桌面应用，发现最流行的应用（Spreeder）要价47欧元。于是我去找了Claude，请Opus 4.5用Python写一个具有相同功能的应用。我写了一个相当简短直接的提示：“早上好Claude，请帮我用Python编写一个速读应用。它应具备以下功能：能粘贴任意长度的文本并阅读；能加载PDF文件……”"
+    },
+    "34744676e329c4ef2f57f5d879f7426b0ac3c0da22e9ddd4610dfb510ed7b4b6": {
+      "zh_title": "浏览可下载Claude代码助手技能目录，最推荐哪个网站？",
+      "zh_summary": "以下是我目前整理的列表，但除了官方Claude技能外，哪些最值得信赖？\n\n官方Anthropic / Claude代码文档\nhttps://code.claude.com/docs/en/skills\nhttps://github.com/anthropics/skills\n\n主要聚合平台/可搜索市场\nhttps://skillsmp.com/\nhttps://claudeskills.ai/\nhttps://skillstore.io/\nhttps://www.claudeskillsmarket.com/\nhttps://claudeskillhub.com/\nhttps://www.claudeskill.site/en\nhttps://skills.pub/en\nhttps://skills.pub/en\n\nClaude代码插件/市场探索工具\nhttps://claudemarketplaces.com/\nhttps://claude-plugins.dev/skills\n\n其他/精选或垂直平台\nhttps://mithery.ai/skills\nhttps://github.com/travisvn/awesome-claude-skil…"
+    },
+    "d0b3a239eacfaffc85fea9bf6cbb7c76b53ed524a315a66af9b70303aa7dadd3": {
+      "zh_title": "我们完蛋了",
+      "zh_summary": "由 /u/baalm4 提交 [链接] [评论]"
+    },
+    "bd0ea9b1c83783bbcfb5903d3f996c04c5687d376eff0f081aac867db779cf66": {
+      "zh_title": "欧盟因虚假信息对埃隆·马斯克（Elon Musk）旗下X平台罚款10亿美元，你对此有何看法？",
+      "zh_summary": "由 /u/SamanthaMcy 提交 [链接] [评论]"
+    },
+    "ba0c38212c983d259e8fecefc758ac7f3ae033ff650479ba805fc9eec190826b": {
+      "zh_title": "人们常忽略哪些简单的快乐？",
+      "zh_summary": "由用户/u/Striking_Trust3928提交 [链接] [评论]"
+    },
+    "ac037cb8de4f08235cf53cb0620150c32b5f5f7cef5708aab371d26b96c2d620": {
+      "zh_title": "有哪些事人们极力维护，却明显不值得？",
+      "zh_summary": "由 /u/Front_Permit7517 提交 [链接] [评论]"
+    },
+    "da3fb3d584f849ff41e9a5e4e139d8bdaaaa9182675a77c486c134152b5f6b2d": {
+      "zh_title": "你故意无视了哪些社会期待？",
+      "zh_summary": "由用户 /u/Quick-Way-1893 提交 [链接] [评论]"
+    },
+    "541d12fd8854641b9b39d05418d1338088468ecebe6940b6daa9f6e303f02538": {
+      "zh_title": "你做过最疯狂的梦是什么？",
+      "zh_summary": "由 /u/Mysterious-Display90 提交 [链接] [评论]"
     }
   }
 }
