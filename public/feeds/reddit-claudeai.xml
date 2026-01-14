@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:36:24 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -774,6 +774,18 @@ Original:
 I asked Claude to build its own cage (sandbox) so I could run it with --dangerously-skip-permissions safely Like many of you, I've been tempted by `--dangerously-skip-permissions`. The productivity boost is real - no more approving every single file edit. But every time my finger hovered over Enter, I imagined Claude deciding my home directory needed "cleaning up." So I asked Claude to solve this problem. Prompt 1: research the apple site about virtualization https://developer.apple.com/documentation/virtualization how could we leverage this when working with claude code in mac? Prompt 2 : i want this to be just easy for example i want to run cldyo or cldyo -c and that is like starting claud…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcfn52</guid>
       <pubDate>Wed, 14 Jan 2026 06:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude不再生成项目文件了吗？ / Does Claude no longer create artifacts?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcgbuz/does_claude_no_longer_create_artifacts/</link>
+      <description>几个月前，我用Claude编写小型Python脚本时，很喜欢它处理项目文件的方式。它会：• 自动打开一个项目文件 • 将完整的.py实现代码写入其中 • 允许我点击下载直接获取文件 • 当我提出修改要求时，它会修改现有文件，而不是每次重新生成。我中断了两三个月，最近刚回来使用，却发现这个工作流程似乎不见了。现在Claude完全不会打开项目文件，也不再提供下载选项。它只是在聊天中输出一大段代码块，我得手动创建.py文件。这倒不是大问题，但更关键的是……
+
+---
+
+Original:
+A few months ago I was using Claude to code small Python scripts. I really liked how it handled Artifacts back then. It would: • Automatically open an Artifact • Write the full .py implementation into it • Let me click Download to get the file directly • And when I asked for changes, it would modify the existing file instead of rebuilding the whole thing every time I took a break for 2–3 months and just came back recently. I can’t seem to get that workflow anymore. Now Claude won’t open an Artifact at all. It also no longer offers downloads. Instead, it just spits out a big code block in the chat and I have to make the .py file manually. Not the end of the world, but the bigger issue is that…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcgbuz</guid>
+      <pubDate>Wed, 14 Jan 2026 06:46:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

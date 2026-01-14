@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:35:52 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -750,6 +750,18 @@ Original:
 Most companies using AI are still stuck at the early stages, where Traditional AI predicts outcomes like sales forecasts or fraud risk but leaves the heavy lifting to humans and even Generative AI mostly creates drafts, code or content without actually moving anything forward on its own. The real jump happens with Agentic AI, where systems don’t just think or write but actually take action orchestrating workflows, hitting APIs, completing tasks end to end and turning AI from a clever assistant into an autonomous operator. The challenge is that many teams don’t know where to begin in translating their messy business processes into something an autonomous agent can handle, which is why underst…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcfxa1</guid>
       <pubDate>Wed, 14 Jan 2026 06:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何多数AI项目在部署前就已失败 / Why most AI projects fail long before deployment</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcgp2c/why_most_ai_projects_fail_long_before_deployment/</link>
+      <description>许多人以为AI项目是在部署阶段崩溃的，但实际上大多数项目从一开始就失败了——团队往往在没有明确要优化的业务决策时就匆忙投入，最终追求的是准确率而非实际成果，却忽略了大部分工作其实是数据准备、迭代以及构建足够简单可交付和维护的方案，而非执着于那些永远无法上线的复杂模型。关键在于要认识到训练不是一次性的里程碑，评估必须超越准确率去考量风险和边缘情况，而部署只有在所有权、监控和更新真正落实而非空想时才有效，否则你只是在……
+
+---
+
+Original:
+A lot of people assume AI projects collapse at deployment, but most actually fall apart right at the start because teams jump in without clearly defining the business decision they’re trying to improve and end up chasing accuracy instead of outcomes, skipping the messy reality that most of the work is data prep, iteration and building something simple enough to ship and maintain instead of obsessing over clever models that never reach production. What really matters is knowing that training isn’t a one-time milestone, evaluation has to look beyond accuracy into risk and edge cases, and deployment only counts when ownership, monitoring and updates are real, not aspirational otherwise you’re j…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcgp2c</guid>
+      <pubDate>Wed, 14 Jan 2026 07:07:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

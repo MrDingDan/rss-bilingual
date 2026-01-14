@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:51:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:36:53 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -510,6 +510,18 @@ Original:
 submitted by /u/CatGPT42 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcep6i</guid>
       <pubDate>Wed, 14 Jan 2026 05:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>她是真有名气…还是镜头让她看起来如此？ / Is she famous… or did the cameras make her look that way?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcgkih/is_she_famous_or_did_the_cameras_make_her_look/</link>
+      <description>可曾想过被狗仔队狂热围拍是什么感觉？🌆 Nanobanana 捕捉到这位时髦女性走过欧洲街头的瞬间，四周闪光灯此起彼伏。你对背景中那些模糊的摄影师身影有何看法？使用的提示词：超写实狗仔队风格镜头，将上传图片呈现为一位漫步欧洲城市的时髦年轻女性。浅棕色长发，淡妆，灰色 oversized 西装外套，金色耳环。模糊背景中有摄影师使用闪光灯。自然日光，清晰的面部细节，真实的纹理质感，自然流露的高级时尚感，自信的全身姿态。由 /u/aintshefree 提交 [链接] [评论]
+
+---
+
+Original:
+Ever wonder what it’s like to be caught in a paparazzi frenzy? 🌆 Nanobanana captures this stylish woman walking through European streets, cameras flashing everywhere. What's your take on the blurred photographers in the background? Prompt used: Ultra-realistic paparazzi-style shot of uploaded image as a stylish young woman walking in a European city. Long light brown hair, minimal makeup, grey oversized blazer, gold hoops. Photographers flash cameras in the blurred background. Natural daylight, sharp facial details, realistic textures, candid high-fashion energy, confident full-body pose. submitted by /u/aintshefree [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcgkih</guid>
+      <pubDate>Wed, 14 Jan 2026 06:59:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

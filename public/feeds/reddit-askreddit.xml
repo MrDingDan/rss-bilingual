@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:37:08 +0000</lastBuildDate>
     <item>
       <title>有哪些完全无害的事物，却会引发人们异常强烈的反应？ / What’s a totally harmless thing that triggers an oddly strong reaction in people?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qau4uq/whats_a_totally_harmless_thing_that_triggers_an/</link>
@@ -824,6 +824,18 @@ submitted by /u/Frostedlogic4444 [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 04:18:31 +0000</pubDate>
     </item>
     <item>
+      <title>你在夜店见过的最奇怪的事是什么？ / What was the weirdest thing you’ve seen while clubbing?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcdpum/what_was_the_weirdest_thing_youve_seen_while/</link>
+      <description>由用户 /u/energyaddict27 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/energyaddict27 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcdpum</guid>
+      <pubDate>Wed, 14 Jan 2026 04:25:32 +0000</pubDate>
+    </item>
+    <item>
       <title>你小时候相信过最傻的事情是什么？ / What’s the dumbest thing you believed as a kid?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qcds5l/whats_the_dumbest_thing_you_believed_as_a_kid/</link>
       <description>由 /u/InterestingScore100 提交 [链接] [评论]
@@ -870,6 +882,18 @@ Original:
 submitted by /u/high_kew [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qcf0s7</guid>
       <pubDate>Wed, 14 Jan 2026 05:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果这是你在地球上的最后一餐，你会吃什么？ / If it were your last meal on Earth, what would you eat?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcg6rq/if_it_were_your_last_meal_on_earth_what_would_you/</link>
+      <description>由用户 /u/DebuggingMyLife_ 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/DebuggingMyLife_ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcg6rq</guid>
+      <pubDate>Wed, 14 Jan 2026 06:37:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

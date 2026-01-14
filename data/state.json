@@ -619,7 +619,15 @@
     "reddit-askreddit::t3_1qce65k": 1768373516,
     "reddit-askreddit::t3_1qcf0s7": 1768373546,
     "reddit-askreddit::t3_1qcemxy": 1768373556,
-    "reddit-tasker::t3_1qcgcbz": 1768373563
+    "reddit-tasker::t3_1qcgcbz": 1768373563,
+    "reddit-ai-agents::t3_1qcgp2c": 1768376151,
+    "reddit-chatgpt::t3_1qcdcyh": 1768376161,
+    "reddit-claudeai::t3_1qcgbuz": 1768376183,
+    "reddit-openai::t3_1qch3qs": 1768376195,
+    "reddit-bard::t3_1qcgkih": 1768376213,
+    "reddit-askreddit::t3_1qcdpum": 1768376217,
+    "reddit-askreddit::t3_1qcg6rq": 1768376227,
+    "xgo-f299207d::2011320821210558807": 1768376241
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3089,6 +3097,38 @@
     "843fb238f7fa6a5539d5ea96ec6125c842de68d4e067f362bfb8071c9cfc8500": {
       "zh_title": "悬浮操作按钮遮挡切换按钮",
       "zh_summary": "大家好，我想在主界面上隐藏或禁用悬浮操作按钮（FABs）。它们现在遮挡了底部的个人资料和任务切换按钮。Tasker界面截图由/u/CoooolRaoul提交 [链接] [评论]"
+    },
+    "8223e1eedd339eed7214cf8b3fed8f0b4db969b3a26bba7dc1a3f70c6e357ef0": {
+      "zh_title": "为何多数AI项目在部署前就已失败",
+      "zh_summary": "许多人以为AI项目是在部署阶段崩溃的，但实际上大多数项目从一开始就失败了——团队往往在没有明确要优化的业务决策时就匆忙投入，最终追求的是准确率而非实际成果，却忽略了大部分工作其实是数据准备、迭代以及构建足够简单可交付和维护的方案，而非执着于那些永远无法上线的复杂模型。关键在于要认识到训练不是一次性的里程碑，评估必须超越准确率去考量风险和边缘情况，而部署只有在所有权、监控和更新真正落实而非空想时才有效，否则你只是在……"
+    },
+    "0aebfbbc664ac8d2580cf9368fa169f4febf6106c7ac7bba6d32cc9e181baedd": {
+      "zh_title": "三大顶尖AI模型均“自宫”",
+      "zh_summary": "由 /u/FrickinLardCarcass 提交 [链接] [评论]"
+    },
+    "b14923dcb3c9e5dc2bba8d5c24296691bc8a0f850b8a3e4a344a181aa10cf107": {
+      "zh_title": "Claude不再生成项目文件了吗？",
+      "zh_summary": "几个月前，我用Claude编写小型Python脚本时，很喜欢它处理项目文件的方式。它会：• 自动打开一个项目文件 • 将完整的.py实现代码写入其中 • 允许我点击下载直接获取文件 • 当我提出修改要求时，它会修改现有文件，而不是每次重新生成。我中断了两三个月，最近刚回来使用，却发现这个工作流程似乎不见了。现在Claude完全不会打开项目文件，也不再提供下载选项。它只是在聊天中输出一大段代码块，我得手动创建.py文件。这倒不是大问题，但更关键的是……"
+    },
+    "73f0c57aad2d0e1e9cdb501f453f87b14e9dbee61f3defbfe5e544525008d762": {
+      "zh_title": "哪种OpenAI模型最适合图像理解？（图像转文本）",
+      "zh_summary": "我正在做一个项目，每天给模型提供日常图片，让它根据图片生成物体、动词和描述词。我想比较不同的GPT模型，目前只试过4.1-mini，我对这些模型一无所知，如果有人能告诉我哪些模型效果更好，我会很感激！:) 任何帮助都欢迎！由 /u/brittneyshpears 提交 [链接] [评论]"
+    },
+    "ef83a9e7f4b6df0f977068d84322456e3acca37e50203b488f030578be7f0e49": {
+      "zh_title": "她是真有名气…还是镜头让她看起来如此？",
+      "zh_summary": "可曾想过被狗仔队狂热围拍是什么感觉？🌆 Nanobanana 捕捉到这位时髦女性走过欧洲街头的瞬间，四周闪光灯此起彼伏。你对背景中那些模糊的摄影师身影有何看法？使用的提示词：超写实狗仔队风格镜头，将上传图片呈现为一位漫步欧洲城市的时髦年轻女性。浅棕色长发，淡妆，灰色 oversized 西装外套，金色耳环。模糊背景中有摄影师使用闪光灯。自然日光，清晰的面部细节，真实的纹理质感，自然流露的高级时尚感，自信的全身姿态。由 /u/aintshefree 提交 [链接] [评论]"
+    },
+    "fe02e12cfdfa9a8be052eb2c886ebdbfb66a4fee3e3aa1b2c8bc68f51eea9980": {
+      "zh_title": "你在夜店见过的最奇怪的事是什么？",
+      "zh_summary": "由用户 /u/energyaddict27 提交 [链接] [评论]"
+    },
+    "0905126a407fbf28f68939f8e1a4a738dfc030d4220d8d5104adc88a469b81ad": {
+      "zh_title": "如果这是你在地球上的最后一餐，你会吃什么？",
+      "zh_summary": "由用户 /u/DebuggingMyLife_ 提交 [链接] [评论]"
+    },
+    "55f73805cd58506063b06de784749b54d872c1ccd5428c1b877e4aa76ffcb5c4": {
+      "zh_title": "langsmith",
+      "zh_summary": "langsmith Ugo Di Profio @metropol 这听起来没错。我不了解有专门用于“痕迹工程”的工具。目前已经有这类工具了吗？🔗 查看引用推文 💬 2 🔄 0 ❤️ 1 👀 729 📊 2 ⚡ 由 xgo.ing 驱动"
     }
   }
 }

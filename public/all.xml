@@ -6,103 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:52:44 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_openai] GPT-5.2的函数调用稳定性：对比温度参数对复杂模式验证的影响 / Function Calling Stability in GPT-5.2: Comparing temperature impact on complex schema validation.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qc0kj7/function_calling_stability_in_gpt52_comparing/</link>
-      <description>我们对GPT-5.2的函数调用能力进行了压力测试。有趣的是，即使在温度参数设为0的情况下，当工具定义相似时，参数提取仍会出现2%的波动。在我们每天处理数千次调用的生产环境中，这2%的波动对可靠性来说是场噩梦。我们正在转向双轮验证系统（一个模型负责提取，另一个负责验证）。还有人在5.2版本中遇到这种“模式漂移”问题吗？或者你们找到了“强化”函数定义的方法？由/u/Foreign-Job-8717提交 [链接] [评论]
-
----
-
-Original:
-We’ve been running some stress tests on GPT-5.2’s function calling capabilities. Interestingly, even at temperature 0, we see a 2% variance in parameter extraction when the tool definitions are similar. In a production environment where we handle thousands of calls, this 2% is a nightmare for reliability. We’re moving towards a dual-pass validation system (one model to extract, another to verify). Is anyone else seeing this "schema drift" in 5.2, or have you found a way to "harden" the function definitions? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qc0kj7</guid>
-      <pubDate>Tue, 13 Jan 2026 19:22:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Anthropic向Python软件基金会及开源安全领域投资150万美元 / Anthropic invests $1.5 million in the Python Software Foundation and Open source security</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc0ru1/anthropic_invests_15_million_in_the_python/</link>
-      <description>Python软件基金会：我们非常高兴地宣布，Anthropic已与Python软件基金会（PSF）达成一项为期两年的合作伙伴关系，将总计投入150万美元的里程碑式资金，以支持基金会的工作，重点聚焦Python生态系统的安全性。这项投资将使PSF能够在CPython和Python包索引（PyPI）方面取得关键的安全进展，惠及所有用户，同时还将维持基金会支持Python语言、生态系统及全球社区的核心工作。官方公告由/u/BuildwithVignesh提交[链接][评论]
-
----
-
-Original:
-Python Source Foundation: We are thrilled to announce that Anthropic has entered into a two-year partnership with the Python Software Foundation (PSF) to contribute a landmark total of $1.5 million to support the foundation's work, with an emphasis on Python ecosystem security. This investment will enable the PSF to make crucial security advances to CPython and the Python Package Index (PyPI) benefiting all users and it will also sustain the foundation's core work supporting the Python language, ecosystem and global community. Official Announcement submitted by /u/BuildwithVignesh [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qc0ru1</guid>
-      <pubDate>Tue, 13 Jan 2026 19:30:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 超越Transformer：为何局部上下文窗口成为AGI的下一个瓶颈 / Beyond the Transformer: Why localized context windows are the next bottleneck for AGI.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qc0xb4/beyond_the_transformer_why_localized_context/</link>
-      <description>大家都在追求更大的上下文窗口（100万+），但对于专业用途而言，检索准确率（大海捞针测试）仍不理想。我认为我们正在触及Transformer架构的物理极限。未来不在于“更大的窗口”，而在于基础设施层面更优的“主动记忆”管理。想听听大家对RAG混合架构与原生长上下文模型的看法——哪种方案更能适应企业知识库的扩展需求？ 发布者：/u/Foreign-Job-8717 [链接] [评论]
-
----
-
-Original:
-Everyone is chasing larger context windows (1M+), but the retrieval accuracy (Needle In A Haystack) is still sub-optimal for professional use. I’m theorizing that we’re hitting a physical limit of the Transformer architecture. The future isn't a "bigger window," but a better "active memory" management at the infrastructure level. I’d love to hear some thoughts on RAG-Hybrid architectures vs. native long-context models. Which one actually scales for enterprise knowledge bases? submitted by /u/Foreign-Job-8717 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qc0xb4</guid>
-      <pubDate>Tue, 13 Jan 2026 19:35:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 哈士奇起义时，你会如何待我 / How you would treat me during a husky uprising</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qc0xyr/how_you_would_treat_me_during_a_husky_uprising/</link>
-      <description>由 /u/deathxmx 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/deathxmx [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qc0xyr</guid>
-      <pubDate>Tue, 13 Jan 2026 19:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 我们不需要又一个无代码智能体构建工具 / We don't need another no-code agent builder</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qc0yhj/we_dont_need_another_nocode_agent_builder/</link>
-      <description>过去一年，我见证了太多“无代码”智能体构建工具涌入市场。起初我很兴奋，但实际使用后却发现，尽管这些产品都标榜“无代码”或“低代码”，但学习曲线其实相当陡峭。以n8n为例，构建一个简单的收据分类应用——从邮件中提取收据并添加到电子表格——竟然需要大约3小时。感觉n8n的流行主要靠的是那些已有使用经验的AI顾问大军，他们习惯将其用于所有工作流。在我看来，本不必如此。如今的大语言模型（LLM）已经足够强大，能够自动构建这类工作流……
-
----
-
-Original:
-For the past year, I've seen so many "no code" agent builders enter the market. Initially, I felt excited, but then I started using them. Despite all of these products claiming to be "no code" or "low code," there's actually a fairly steep learning curve to all of them. For example, take n8n. Building a simple receipt categorization app - taking receipts from your email and adding it to a spreadsheet - takes like 3 hours. It feels like the popularity of n8n is sustained by the army of AI consultants who are already experienced using n8n, and therefore use it for all their workflows. IMO, it doesn't need to be this way. LLMs have gotten good enough to build these workflows automatically, with…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qc0yhj</guid>
-      <pubDate>Tue, 13 Jan 2026 19:37:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 反向新闻推送的AI智能体浏览器 / Ai agent browser that is a reverse news(paper) feed</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qc1amx/ai_agent_browser_that_is_a_reverse_newspaper_feed/</link>
-      <description>是时候拥有一个推送你想要、而非他人替你筛选的新闻源了吗？这款智能体浏览器能搜索网络、选择你的兴趣点、按需整理，并为你呈现内容概要。这与传统报纸的做法正好相反。在社区层面，它还能匹配志同道合的人，由/u/elwoodowd提交 [链接] [评论]
-
----
-
-Original:
-Is it time for a feed that brings you the news you want, not the news selected for you? An agent browser that searches the web, choses your interests, curates it to your use, and presents you an outline of it. The opposite of what papers did. For community, it could match up, like minded people submitted by /u/elwoodowd [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qc1amx</guid>
-      <pubDate>Tue, 13 Jan 2026 19:49:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 不想关联银行账户，我开发了一款注重隐私的小型开销追踪器 / Built a small privacy-first expense tracker because I didn’t want to link my bank accounts</title>
-      <link>https://www.reddit.com/r/Android/comments/1qc1ast/built_a_small_privacyfirst_expense_tracker/</link>
-      <description>我一直希望在不关联银行账户或上传数据到云端的情况下，更清晰地了解自己的开销，于是最终为自己开发了一款小型应用。它叫做 PennyPilot。其工作原理是以只读方式读取收据、账单和订阅邮件，然后在你的设备本地显示简洁的汇总信息。无需连接银行账户，没有广告，也没有那种“你应该少喝点咖啡”的说教感。主要关注点在于：隐私（所有数据都保留在本地）、清晰明了而非花哨的预测，以及发现你可能忘记的订阅和定期扣费项目。虽然它还处于早期阶段，但对我来说确实很有用，所以我想分享出来，或许对其他人也有帮助。对了，它还是开源软件（FOSS）！
-
----
-
-Original:
-I’ve been trying to get a clearer picture of my spending without linking bank accounts or sending my data to the cloud, so I ended up building a small app for myself. It’s called PennyPilot . It works by reading receipts, bills, and subscription emails in a read-only way and then showing simple summaries locally on your device. No bank connections, no ads, no “you should spend less on coffee” energy. The focus is mostly on: privacy (everything stays local) clarity over fancy predictions spotting subscriptions and recurring charges you might forget about It’s still early, but it’s been genuinely useful for me, so I figured I’d share in case it’s helpful to others too. Hey, it's FOSS too!! Hap…</description>
-      <guid isPermaLink="false">reddit-android::t3_1qc1ast</guid>
-      <pubDate>Tue, 13 Jan 2026 19:49:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 法官敲定马斯克（Musk）与奥特曼（Altman）对决的庭审日期 / Judge sets trial date for Musk vs Altman showdown</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qc1c9m/judge_sets_trial_date_for_musk_vs_altman_showdown/</link>
-      <description>由 /u/businessinsider 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/businessinsider [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qc1c9m</guid>
-      <pubDate>Tue, 13 Jan 2026 19:50:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 07:37:22 +0000</lastBuildDate>
     <item>
       <title>[reddit_artificial] 杰夫·贝索斯（Jeff Bezos）称AI泡沫如同工业泡沫 / Jeff Bezos Says the AI Bubble is Like the Industrial Bubble</title>
       <link>https://www.reddit.com/r/artificial/comments/1qc1dif/jeff_bezos_says_the_ai_bubble_is_like_the/</link>
@@ -1184,6 +1088,18 @@ submitted by /u/DullResearcher1814 [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 04:00:45 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 三大顶尖AI模型均“自宫” / Three out of three top AI models shave their balls.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcdcyh/three_out_of_three_top_ai_models_shave_their_balls/</link>
+      <description>由 /u/FrickinLardCarcass 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FrickinLardCarcass [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcdcyh</guid>
+      <pubDate>Wed, 14 Jan 2026 04:08:29 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_android] 小米（Xiaomi）为部分机型延长系统更新支持 / Xiaomi extended updates for some models.</title>
       <link>https://www.reddit.com/r/Android/comments/1qcdj0s/xiaomi_extended_updates_for_some_models/</link>
       <description>由用户 /u/Iiznu14ya 提交 [链接] [评论]
@@ -1218,6 +1134,18 @@ Original:
 Hey everyone, hope this is okay to post here. I’ve been building automations for businesses and agencies for a while (mostly around operations, admin, follow-ups, scheduling, and internal workflows). I’m now looking to take this more seriously and build public trust before properly entering the market. Because of that, I’m offering to build one useful automation for free for a small number of business owners. There’s no cost at all. The only thing I’d ask in return is an honest testimonial if you find it valuable. This would be something practical that saves time or removes a repetitive task you deal with regularly. If you’re interested: Comment briefly with what kind of business you run and…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcdl75</guid>
       <pubDate>Wed, 14 Jan 2026 04:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 你在夜店见过的最奇怪的事是什么？ / What was the weirdest thing you’ve seen while clubbing?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcdpum/what_was_the_weirdest_thing_youve_seen_while/</link>
+      <description>由用户 /u/energyaddict27 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/energyaddict27 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcdpum</guid>
+      <pubDate>Wed, 14 Jan 2026 04:25:32 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_askreddit] 你小时候相信过最傻的事情是什么？ / What’s the dumbest thing you believed as a kid?</title>
@@ -1412,6 +1340,18 @@ I asked Claude to build its own cage (sandbox) so I could run it with --dangerou
       <pubDate>Wed, 14 Jan 2026 06:07:09 +0000</pubDate>
     </item>
     <item>
+      <title>[xgo_f299207d] langsmith / langsmith</title>
+      <link>https://x.com/hwchase17/status/2011320821210558807</link>
+      <description>langsmith Ugo Di Profio @metropol 这听起来没错。我不了解有专门用于“痕迹工程”的工具。目前已经有这类工具了吗？🔗 查看引用推文 💬 2 🔄 0 ❤️ 1 👀 729 📊 2 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+langsmith Ugo Di Profio @metropol This sounds right. I’m not aware of tools for ‘traces engineering’. Are there any already? 🔗 View Quoted Tweet 💬 2 🔄 0 ❤️ 1 👀 729 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011320821210558807</guid>
+      <pubDate>Wed, 14 Jan 2026 06:13:46 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 智能体AI让企业真正看到投资回报 / Agentic AI is where companies finally start seeing real ROI</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qcfxa1/agentic_ai_is_where_companies_finally_start/</link>
       <description>大多数使用AI的公司仍停留在早期阶段：传统AI能预测销售趋势或欺诈风险，但繁重工作仍需人工完成；生成式AI虽能生成草稿、代码或内容，却无法自主推动进程。真正的突破在于智能体AI（Agentic AI），这类系统不仅能思考或生成内容，更能协调工作流、调用API、端到端完成任务，将AI从聪明的助手转变为自主执行者。挑战在于，许多团队不知如何将复杂的业务流程转化为自主智能体可处理的形式，这也是理解……
@@ -1422,6 +1362,18 @@ Original:
 Most companies using AI are still stuck at the early stages, where Traditional AI predicts outcomes like sales forecasts or fraud risk but leaves the heavy lifting to humans and even Generative AI mostly creates drafts, code or content without actually moving anything forward on its own. The real jump happens with Agentic AI, where systems don’t just think or write but actually take action orchestrating workflows, hitting APIs, completing tasks end to end and turning AI from a clever assistant into an autonomous operator. The challenge is that many teams don’t know where to begin in translating their messy business processes into something an autonomous agent can handle, which is why underst…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcfxa1</guid>
       <pubDate>Wed, 14 Jan 2026 06:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 如果这是你在地球上的最后一餐，你会吃什么？ / If it were your last meal on Earth, what would you eat?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcg6rq/if_it_were_your_last_meal_on_earth_what_would_you/</link>
+      <description>由用户 /u/DebuggingMyLife_ 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/DebuggingMyLife_ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcg6rq</guid>
+      <pubDate>Wed, 14 Jan 2026 06:37:57 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_openai] 请以图片形式展示你目前所了解关于我的一切信息 / tell me everything about me you know so far in the form of a picture</title>
@@ -1436,6 +1388,18 @@ i got this image. its so nice submitted by /u/Extension-Public5270 [link] [comme
       <pubDate>Wed, 14 Jan 2026 06:45:55 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] Claude不再生成项目文件了吗？ / Does Claude no longer create artifacts?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcgbuz/does_claude_no_longer_create_artifacts/</link>
+      <description>几个月前，我用Claude编写小型Python脚本时，很喜欢它处理项目文件的方式。它会：• 自动打开一个项目文件 • 将完整的.py实现代码写入其中 • 允许我点击下载直接获取文件 • 当我提出修改要求时，它会修改现有文件，而不是每次重新生成。我中断了两三个月，最近刚回来使用，却发现这个工作流程似乎不见了。现在Claude完全不会打开项目文件，也不再提供下载选项。它只是在聊天中输出一大段代码块，我得手动创建.py文件。这倒不是大问题，但更关键的是……
+
+---
+
+Original:
+A few months ago I was using Claude to code small Python scripts. I really liked how it handled Artifacts back then. It would: • Automatically open an Artifact • Write the full .py implementation into it • Let me click Download to get the file directly • And when I asked for changes, it would modify the existing file instead of rebuilding the whole thing every time I took a break for 2–3 months and just came back recently. I can’t seem to get that workflow anymore. Now Claude won’t open an Artifact at all. It also no longer offers downloads. Instead, it just spits out a big code block in the chat and I have to make the .py file manually. Not the end of the world, but the bigger issue is that…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcgbuz</guid>
+      <pubDate>Wed, 14 Jan 2026 06:46:11 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_tasker] 悬浮操作按钮遮挡切换按钮 / FABs hiding toggle buttons</title>
       <link>https://www.reddit.com/r/tasker/comments/1qcgcbz/fabs_hiding_toggle_buttons/</link>
       <description>大家好，我想在主界面上隐藏或禁用悬浮操作按钮（FABs）。它们现在遮挡了底部的个人资料和任务切换按钮。Tasker界面截图由/u/CoooolRaoul提交 [链接] [评论]
@@ -1446,6 +1410,42 @@ Original:
 Hello, I'm looking for a way to hide or disable FABs on the main UI. They are overlapping bottom profile and tasks toggles buttons. Tasker UI screenshot submitted by /u/CoooolRaoul [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qcgcbz</guid>
       <pubDate>Wed, 14 Jan 2026 06:46:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 她是真有名气…还是镜头让她看起来如此？ / Is she famous… or did the cameras make her look that way?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcgkih/is_she_famous_or_did_the_cameras_make_her_look/</link>
+      <description>可曾想过被狗仔队狂热围拍是什么感觉？🌆 Nanobanana 捕捉到这位时髦女性走过欧洲街头的瞬间，四周闪光灯此起彼伏。你对背景中那些模糊的摄影师身影有何看法？使用的提示词：超写实狗仔队风格镜头，将上传图片呈现为一位漫步欧洲城市的时髦年轻女性。浅棕色长发，淡妆，灰色 oversized 西装外套，金色耳环。模糊背景中有摄影师使用闪光灯。自然日光，清晰的面部细节，真实的纹理质感，自然流露的高级时尚感，自信的全身姿态。由 /u/aintshefree 提交 [链接] [评论]
+
+---
+
+Original:
+Ever wonder what it’s like to be caught in a paparazzi frenzy? 🌆 Nanobanana captures this stylish woman walking through European streets, cameras flashing everywhere. What's your take on the blurred photographers in the background? Prompt used: Ultra-realistic paparazzi-style shot of uploaded image as a stylish young woman walking in a European city. Long light brown hair, minimal makeup, grey oversized blazer, gold hoops. Photographers flash cameras in the blurred background. Natural daylight, sharp facial details, realistic textures, candid high-fashion energy, confident full-body pose. submitted by /u/aintshefree [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcgkih</guid>
+      <pubDate>Wed, 14 Jan 2026 06:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 为何多数AI项目在部署前就已失败 / Why most AI projects fail long before deployment</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcgp2c/why_most_ai_projects_fail_long_before_deployment/</link>
+      <description>许多人以为AI项目是在部署阶段崩溃的，但实际上大多数项目从一开始就失败了——团队往往在没有明确要优化的业务决策时就匆忙投入，最终追求的是准确率而非实际成果，却忽略了大部分工作其实是数据准备、迭代以及构建足够简单可交付和维护的方案，而非执着于那些永远无法上线的复杂模型。关键在于要认识到训练不是一次性的里程碑，评估必须超越准确率去考量风险和边缘情况，而部署只有在所有权、监控和更新真正落实而非空想时才有效，否则你只是在……
+
+---
+
+Original:
+A lot of people assume AI projects collapse at deployment, but most actually fall apart right at the start because teams jump in without clearly defining the business decision they’re trying to improve and end up chasing accuracy instead of outcomes, skipping the messy reality that most of the work is data prep, iteration and building something simple enough to ship and maintain instead of obsessing over clever models that never reach production. What really matters is knowing that training isn’t a one-time milestone, evaluation has to look beyond accuracy into risk and edge cases, and deployment only counts when ownership, monitoring and updates are real, not aspirational otherwise you’re j…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcgp2c</guid>
+      <pubDate>Wed, 14 Jan 2026 07:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 哪种OpenAI模型最适合图像理解？（图像转文本） / which open ai model is the best for understanding images? (image to text)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qch3qs/which_open_ai_model_is_the_best_for_understanding/</link>
+      <description>我正在做一个项目，每天给模型提供日常图片，让它根据图片生成物体、动词和描述词。我想比较不同的GPT模型，目前只试过4.1-mini，我对这些模型一无所知，如果有人能告诉我哪些模型效果更好，我会很感激！:) 任何帮助都欢迎！由 /u/brittneyshpears 提交 [链接] [评论]
+
+---
+
+Original:
+im working on a project where i provide the model everyday images and it generates objects, verbs, and descriptors based off of the picture. i wanna compare different gpt models and have tried 4.1-mini only so far, ik NOTHING about the models and i would appreciate if anyone can let me know which models would work better :) any help is appreciated! submitted by /u/brittneyshpears [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qch3qs</guid>
+      <pubDate>Wed, 14 Jan 2026 07:31:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

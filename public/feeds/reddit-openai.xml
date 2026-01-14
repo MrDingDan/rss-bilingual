@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 06:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:36:36 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -739,6 +739,18 @@ Original:
 i got this image. its so nice submitted by /u/Extension-Public5270 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qcgbpk</guid>
       <pubDate>Wed, 14 Jan 2026 06:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>哪种OpenAI模型最适合图像理解？（图像转文本） / which open ai model is the best for understanding images? (image to text)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qch3qs/which_open_ai_model_is_the_best_for_understanding/</link>
+      <description>我正在做一个项目，每天给模型提供日常图片，让它根据图片生成物体、动词和描述词。我想比较不同的GPT模型，目前只试过4.1-mini，我对这些模型一无所知，如果有人能告诉我哪些模型效果更好，我会很感激！:) 任何帮助都欢迎！由 /u/brittneyshpears 提交 [链接] [评论]
+
+---
+
+Original:
+im working on a project where i provide the model everyday images and it generates objects, verbs, and descriptors based off of the picture. i wanna compare different gpt models and have tried 4.1-mini only so far, ik NOTHING about the models and i would appreciate if anyone can let me know which models would work better :) any help is appreciated! submitted by /u/brittneyshpears [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qch3qs</guid>
+      <pubDate>Wed, 14 Jan 2026 07:31:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
