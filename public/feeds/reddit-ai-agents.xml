@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 20:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 21:32:58 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1164,6 +1164,18 @@ Original:
 I work at Maxim building testing tools for AI agents. One thing that surprised us early on - hallucinations are way more insidious than simple bugs. Regular software bugs are binary. Either the code works or it doesn't. But agents hallucinate with full confidence. They'll invent statistics, cite non-existent sources, contradict themselves across turns, and sound completely authoritative doing it. We built multi-level detection because hallucinations show up differently depending on where you look. Sometimes it's a single span (like a bad retrieval step). Sometimes it's across an entire conversation where context drifts and the agent starts making stuff up. The evaluation approach we landed o…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcyy7j</guid>
       <pubDate>Wed, 14 Jan 2026 20:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>你是如何获得AI智能体工程师职位的？ / How did you land your AI Agent Engineering role?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qczslq/how_did_you_land_your_ai_agent_engineering_role/</link>
+      <description>大家好，我对AI智能体工程师这个职业非常感兴趣。很想听听大家是如何获得智能体工程师职位的故事。我去年开始构建AI智能体，并在提示与上下文工程、工具设计、技能等许多子技能方面积累了实践经验。我很好奇想听听从事这一职位的其他人分享：大致地点（州或国家即可）、所在行业、是否拥有计算机科学或IT等技术学位、在获得该职位前有多少年编程/软件工程经验、是直接申请还是通过人脉推荐、项目作品集是否有帮助，以及你认为对获得这份工作帮助最大的是什么？由 /u/reidkimbal 提交
+
+---
+
+Original:
+Hi, I'm very interested in a career of AI Agent Engineering. I'd love to hear stories of how you landed your Agent Engineering role. I started building AI Agents last year, and I'm getting hands on experience with a lot of sub-skills like prompt and context engineering, tool design, and skills. I'm curious to hear from others in this role about: General location (state/country is fine) Industry Do you have a technical degree like Computer Science, or IT? How many years experience with programming/software eng. before landing your role? Did you apply cold or was it through networking? Did having a project portfolio help? What do you think helped most to get the job? submitted by /u/reidkimbal…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qczslq</guid>
+      <pubDate>Wed, 14 Jan 2026 21:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

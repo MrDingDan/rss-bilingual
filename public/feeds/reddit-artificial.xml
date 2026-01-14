@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 20:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 21:33:09 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -666,6 +666,18 @@ Original:
 submitted by /u/newyorker [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qcxxk0</guid>
       <pubDate>Wed, 14 Jan 2026 20:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何在使用AI时保持匿名，同时让它了解你的过往提问？ / How do you use AI but not be known but, it can reference and be aware of your past questions?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qd02jc/how_do_you_use_ai_but_not_be_known_but_it_can/</link>
+      <description>也就是说，系统会分配某种标识符给你，但它或其背后的公司永远不会知道你的真实身份。没有Cookie，没有追踪等。可能只知道你是一位白人女性，有两个孩子，喜欢狗、骑行、商业和烘焙蛋糕等。这样它就能了解你并提供更有帮助的服务，但不知道你的具体身份。换句话说：保持私密性，但并非完全匿名且每次会话都会被遗忘。目前我能找到的选项只有使用Apple Intelligence（尚未成熟，或许等Gemini完全整合后…）或在VPN下创建一个匿名Google账户（我没有VPN）并用它来使用Gemini。但一旦你断开VPN，Google就会拼凑出线索并知道你是谁。如果我使用…
+
+---
+
+Original:
+So, some kind of identifier is assigned to you but it or its corporate overlords never know who you are. No cookies, no tracking, etc. Maybe just a white, female, 2 kids, interested in dogs, biking, business, making cakes, etc. So it knows you and is more helpful that way but not who you are specifically. IOW: privately but not total and forgotten anonymity with each session. The only options I can find are to use Apple Intelligence (not ready for prime time, maybe when Gemini is fully integrated…) or create an anonymous Google account while on a VPN (don't have one) and just use that with Gemini. But the second you are off the VPN, Google will connect the dots and know who you are. If I use…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qd02jc</guid>
+      <pubDate>Wed, 14 Jan 2026 21:30:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
