@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:47:50 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -534,6 +534,18 @@ Original:
 submitted by /u/archon810 [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qcwixx</guid>
       <pubDate>Wed, 14 Jan 2026 19:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>一加15（Oneplus 15）体验分享 / Oneplus 15 Is....</title>
+      <link>https://www.reddit.com/r/Android/comments/1qcwpyz/oneplus_15_is/</link>
+      <description>我平时几乎不在网上写东西，连评论都很少发，更别说在Reddit发帖了（我甚至不用Reddit）。但最近我买了一部一加15（之前用的是三星Z Fold 5，再之前是Nothing Phone 2、1和一加8T）。简单来说，相机表现很棒：总有人喜欢抱怨，但一加15的相机非常出色，我敢打赌在盲测中没人能把它和iPhone 17 Pro Max、三星S25 Ultra或OPPO Find X9 Pro等机型区分开。系统体验极其流畅：我原本喜欢Nothing OS的简洁，但感觉有些平淡；One UI简直糟糕——优化不足，为了堆功能而牺牲了打磨。但2026年的OxygenOS（OOS）用起来太舒服了，速度快得惊人，而且……
+
+---
+
+Original:
+I usually NEVER write anything online. Not even comments, let alone reddit posts (I dont even use reddit) But I recently bought a oneplus 15 (from a z fold 5, and previous to that Nothing phone 2, 1, &amp; oneplus 8t). And wow To keep it brief The cameras are good: People like to complain. The cameras are exceptional and Id bet on a blind test no one will spot out the op15 out of from an iphone 17 pro max, s25u, find x 9 pro etc... The os feels so damn polished. I really liked the simplicity of nothing os. But it felt bland, One UI is straight trash; unoptimized &amp; felt like it was cutting corners with polishing for the sake of features. But oos in 2026 feels soooo good. INSANELY fast, and the an…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qcwpyz</guid>
+      <pubDate>Wed, 14 Jan 2026 19:25:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

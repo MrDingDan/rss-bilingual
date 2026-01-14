@@ -772,7 +772,14 @@
     "reddit-android::t3_1qckmbk": 1768419031,
     "reddit-android::t3_1qchsvz": 1768419040,
     "reddit-android::t3_1qcdr7a": 1768419045,
-    "xgo-f299207d::2011503746312987128": 1768419058
+    "xgo-f299207d::2011503746312987128": 1768419058,
+    "reddit-chatgpt::t3_1qcwy8n": 1768420021,
+    "reddit-chatgpt::t3_1qcwkpa": 1768420025,
+    "reddit-chatgpt::t3_1qcwtr3": 1768420028,
+    "reddit-chatgpt::t3_1qcx33p": 1768420038,
+    "reddit-claudeai::t3_1qcubn0": 1768420050,
+    "reddit-askreddit::t3_1qcw2v5": 1768420058,
+    "reddit-android::t3_1qcwpyz": 1768420070
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3830,6 +3837,34 @@
     "8f6d55bd7cc46c366af1b39ddb83e248d79bae51d0130c824ca153f0d7417bcf": {
       "zh_title": "Agent Builder 引擎盖下藏着不少酷炫功能：",
       "zh_summary": "Agent Builder 引擎盖下藏着不少酷炫功能：1. 由深度智能体（Deep Agents）驱动 2. 智能体即文件系统 3. 内置记忆功能 4. 触发器将其转化为环境智能体（Ambient Agent） 5. 提供用于审核和批准智能体工作的信息流 6. 支持 MCPs、技能和子智能体 LangChain @LangChain 🤖LangSmith Agent Builder 技术亮点 昨日我们发布了 LangSmith Agent Builder。以下是其内部运作的快速技术概览（从记忆功能到创新的用户体验）：您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 1 🔄 3 ❤️ 9 👀 954 📊 3 ⚡ 由 xgo.ing 驱动"
+    },
+    "ffec6f061743936706ce3c0dc5a30c62d1c83657feb8633711d5fc91d4042bcc": {
+      "zh_title": "《怪奇物语》第九集",
+      "zh_summary": "这件事确实令人心惊，不仅因为被名人诈骗，还涉及演员的知识产权问题。由 /u/ukbeasts 提交 [链接] [评论]"
+    },
+    "90190c24adc809e3c927e993b3d8c3a4b72543b011a3ba1409b6fd4db299f38b": {
+      "zh_title": "如果超级英雄真实存在，这些照片就是证据",
+      "zh_summary": "由用户 /u/Griexus 提交 [链接] [评论]"
+    },
+    "df9441dd180653535eb2c49f50e5a4dbc45850cb796842c7faf0e1150125ef9e": {
+      "zh_title": "操纵对AI确实有效",
+      "zh_summary": "😂😂 由 /u/data_user_ 提交 [链接] [评论]"
+    },
+    "dee0541608f4bf287d19859f945cd95891e246bd43205f95c06bc1b12dcf8c36": {
+      "zh_title": "字面意思",
+      "zh_summary": "由 /u/LittleFortunex 提交 [链接] [评论]"
+    },
+    "a83f5d464c2cd319465a5a3482e291bdc29110cfb13bba1a20c241aa97de74d5": {
+      "zh_title": "Claude Code - 实现简单'编排'的最简方法：一个智能体编程，另一个审阅？",
+      "zh_summary": "什么？我想实现一个工作流：一个智能体担任软件开发，另一个审阅代码。当审阅者接受代码时，开发才算完成。我在GitHub上看到Claude Code的插件，但对像我这样的AI新手来说，它们看起来太复杂了。关键在于不同的'上下文'——不能只是用两个Opus模型，一个写代码并说'这是高级开发水平'，另一个说'我也会这么写，所以是高级水平'，因为这样只是同一个模型重复了两次。为什么？我之前用Opus 4.5时，不确定是否喜欢代码质量（我有几年软件开发经验），所以把它复制粘贴到免费的ChatGPT里……"
+    },
+    "581524fc6d84e0d274d118341dd717b456d1dd0c0f2f404b1d706a9cf0b73f8c": {
+      "zh_title": "史上最佳电子游戏是哪款？",
+      "zh_summary": "由用户/u/INTERESTandAMBITIONS提交 [链接] [评论]"
+    },
+    "d8ad79dabfb80e915b5c697f21c9906893688c70522f79cedb04f869661e24be": {
+      "zh_title": "一加15（Oneplus 15）体验分享",
+      "zh_summary": "我平时几乎不在网上写东西，连评论都很少发，更别说在Reddit发帖了（我甚至不用Reddit）。但最近我买了一部一加15（之前用的是三星Z Fold 5，再之前是Nothing Phone 2、1和一加8T）。简单来说，相机表现很棒：总有人喜欢抱怨，但一加15的相机非常出色，我敢打赌在盲测中没人能把它和iPhone 17 Pro Max、三星S25 Ultra或OPPO Find X9 Pro等机型区分开。系统体验极其流畅：我原本喜欢Nothing OS的简洁，但感觉有些平淡；One UI简直糟糕——优化不足，为了堆功能而牺牲了打磨。但2026年的OxygenOS（OOS）用起来太舒服了，速度快得惊人，而且……"
     }
   }
 }

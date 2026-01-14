@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:47:30 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1039,6 +1039,18 @@ Original:
 From Wharton professor Ethan Mollick on X submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qctk1o</guid>
       <pubDate>Wed, 14 Jan 2026 17:31:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code - 实现简单'编排'的最简方法：一个智能体编程，另一个审阅？ / Claude Code - Easiest way to achieve simple "orchestration" where one agent is coder and another is reviewer?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcubn0/claude_code_easiest_way_to_achieve_simple/</link>
+      <description>什么？我想实现一个工作流：一个智能体担任软件开发，另一个审阅代码。当审阅者接受代码时，开发才算完成。我在GitHub上看到Claude Code的插件，但对像我这样的AI新手来说，它们看起来太复杂了。关键在于不同的'上下文'——不能只是用两个Opus模型，一个写代码并说'这是高级开发水平'，另一个说'我也会这么写，所以是高级水平'，因为这样只是同一个模型重复了两次。为什么？我之前用Opus 4.5时，不确定是否喜欢代码质量（我有几年软件开发经验），所以把它复制粘贴到免费的ChatGPT里……
+
+---
+
+Original:
+What? Easiest way to achieve workflow where one agent is software developer, and another is reviewing the code. Developer is done when reviewer accepts his code. I saw there are plugins on GitHub for Claude Code but they look massive for what I want to achieve as complete beginner with AI The main thing is different "context" so it's not like 2x Opus where one does code and say "this is senior dev quality" and then another one says "yes i would write the same so it's senior dev quality" just because it's twice the same model Why? So I was working with Opus 4.5, I wasn't sure I like quality of the code (I have few years of experience as software developer) so I copy-pasted it to free chatGPT.…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcubn0</guid>
+      <pubDate>Wed, 14 Jan 2026 17:59:20 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code V2 完全指南：CLAUDE.md、MCP、命令、技能与钩子——根据您的反馈更新 / The Complete Guide to Claude Code V2: CLAUDE.md, MCP, Commands, Skills &amp; Hooks — Updated Based on Your Feedback</title>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:47:39 +0000</lastBuildDate>
     <item>
       <title>有哪些完全无害的事物，却会引发人们异常强烈的反应？ / What’s a totally harmless thing that triggers an oddly strong reaction in people?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qau4uq/whats_a_totally_harmless_thing_that_triggers_an/</link>
@@ -1194,6 +1194,18 @@ Original:
 submitted by /u/waddad27 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qcumgk</guid>
       <pubDate>Wed, 14 Jan 2026 18:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>史上最佳电子游戏是哪款？ / What is the best video game ever made?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcw2v5/what_is_the_best_video_game_ever_made/</link>
+      <description>由用户/u/INTERESTandAMBITIONS提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/INTERESTandAMBITIONS [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcw2v5</guid>
+      <pubDate>Wed, 14 Jan 2026 19:01:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
