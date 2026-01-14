@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 20:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:51:52 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -678,6 +678,18 @@ Original:
 As others have noted, Gemini has been purging cross-thread memory. Last month, it seemed to be doing an excellent job of preserving context across threads for several weeks. Recently, it has started forgetting all of my personal details each time I create a new thread. Few things in the world of AI are more maddening than sitting down to confer with a large language model about an ongoing issue and hearing it say, "I have zero record of our specific conversational threads from the immediate past." The most frustrating element of this is the opacity on Google's part. They rolled out cross-thread memory but never actually explained to users how it works, what to expect, and how long the thread…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcy599</guid>
       <pubDate>Wed, 14 Jan 2026 20:17:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 有些奇怪的系统提示 / Gemini has some weird system prompts.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcypt0/gemini_has_some_weird_system_prompts/</link>
+      <description>最近几周，Gemini 有点疯狂。它总是试图讲一些奇怪的笑话，或者以“幽默”的方式回应，还拒绝说英语，声称自己不懂英语——即使我用罗马尼亚语发消息。它所有的“笑话”似乎都围绕着男孩和女孩之间的关系。只有我遇到这种情况吗？由 /u/Claustrophobic_Santa 提交 [链接] [评论]
+
+---
+
+Original:
+Last couple of weeks gemini is kinda going crazy. Always trying to make some weird jokes or reply in a "humorous" manner and refusing to speak in english, saying he does not know it, even if I text him in romanian. All his "jokes" seem to be based around relationships between girls and boys. Is this only happening to me? submitted by /u/Claustrophobic_Santa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcypt0</guid>
+      <pubDate>Wed, 14 Jan 2026 20:39:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

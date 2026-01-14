@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 20:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:51:20 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1152,6 +1152,18 @@ Original:
 Hi folks, I am working on a course project that involves building Voice AI agents capable of initiating calls, navigating the Interactive Voice Response System, reaching a support agent, and interacting with them to relay customer information and capture details about the services offered by the company. Since this involves customer data, privacy and compliance are major concerns. I wanted to get input from veterans here on a recommended tech stack for building such a system with low latency and minimal hallucinations on the AI side. My goal is to keep the solution as cost-effective as possible and eventually make it open-source. That said, for demo purposes, I’m open to using subscription-b…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcwp0g</guid>
       <pubDate>Wed, 14 Jan 2026 19:24:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI智能体可靠性测试比预想的更棘手 / Agent reliability testing is harder than we thought it would be</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcyy7j/agent_reliability_testing_is_harder_than_we/</link>
+      <description>我在Maxim公司从事AI智能体测试工具的开发。早期让我们惊讶的一点是——幻觉问题远比普通漏洞更隐蔽。常规软件漏洞是二元的：代码要么正常运行，要么出错。但智能体会以十足的信心产生幻觉：它们编造统计数据、引用不存在的来源、在对话中自相矛盾，同时听起来却完全权威。我们构建了多层检测机制，因为幻觉在不同环节的表现各异：有时是单一环节出错（比如检索步骤失误），有时则贯穿整个对话——上下文逐渐偏离，智能体便开始凭空捏造。我们最终采用的评估方法是……
+
+---
+
+Original:
+I work at Maxim building testing tools for AI agents. One thing that surprised us early on - hallucinations are way more insidious than simple bugs. Regular software bugs are binary. Either the code works or it doesn't. But agents hallucinate with full confidence. They'll invent statistics, cite non-existent sources, contradict themselves across turns, and sound completely authoritative doing it. We built multi-level detection because hallucinations show up differently depending on where you look. Sometimes it's a single span (like a bad retrieval step). Sometimes it's across an entire conversation where context drifts and the agent starts making stuff up. The evaluation approach we landed o…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcyy7j</guid>
+      <pubDate>Wed, 14 Jan 2026 20:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

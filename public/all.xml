@@ -6,79 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 20:34:31 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_askreddit] 史上最被高估的游戏是哪款？ / What’s the most overrated video game of all time?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcl73d/whats_the_most_overrated_video_game_of_all_time/</link>
-      <description>由 /u/KBGSgames 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/KBGSgames [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcl73d</guid>
-      <pubDate>Wed, 14 Jan 2026 11:45:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 电信专业应届生转向AI/自动化领域。这些入门项目合适吗？（使用n8n） / Recent Telecom Grad pivoting to AI/Automation. Are these good starter projects? (using n8n)</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcl9rs/recent_telecom_grad_pivoting_to_aiautomation_are/</link>
-      <description>大家好，我是一名刚毕业的电信工程专业学生。目前刚入职一家公司，有机会深入接触人工智能和流程自动化。这和我所学专业略有不同，但我目前非常喜欢这份工作。我当前使用的主要工具是n8n，团队为我提出了三个入门练手项目。想请教大家：这些项目是否适合打基础？还是说我可能有些好高骛远？以下是项目规划：AI邮件分类与自动回复系统：分析收到的客服邮件并进行分类，根据意图发送相应的自动回复。网络托管...
-
----
-
-Original:
-Hi everyone, I’m a recent Telecommunications Engineering graduate. I’ve just started working at a company where I’ve been given the opportunity to dive into AI and process automation. This is a bit of a shift from my degree, but I’m really enjoying it so far. My main tool right now is n8n , and my team has proposed three initial projects for me to cut my teeth on. I wanted to ask the community if these sound like solid projects to build a foundation, or if I might be biting off more than I can chew? Here is the roadmap: AI Email Classifier &amp; Auto-responder: Analyzing incoming support emails to categorize them and sending out the appropriate automated response based on the intent. Web-Hosted…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcl9rs</guid>
-      <pubDate>Wed, 14 Jan 2026 11:49:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 哪些看似无害、社会普遍接受的行为，其实在让社会变得更糟？ / What is a socially accepted behavior that people pretend is harmless, but actually makes society worse?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcldaz/what_is_a_socially_accepted_behavior_that_people/</link>
-      <description>由 /u/Ajarns 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Ajarns [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcldaz</guid>
-      <pubDate>Wed, 14 Jan 2026 11:54:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 有没有适合营销和销售的AI工具？ / AI tool for marketing and sales?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qcle98/ai_tool_for_marketing_and_sales/</link>
-      <description>有人知道能协助处理营销和销售事务的AI工具吗？我有个Shopify店铺的副业项目，正努力让它起步。我在想，是否存在一种AI，能利用它从成千上万成功案例中积累的智能，帮我策划营销活动、提醒我那些经过验证的营销基础和策略，并详细解释为什么我的广告活动效果不如预期以及如何改进等等。 提交者：/u/toymongoz [链接] [评论]
-
----
-
-Original:
-Does anyone know of an AI tool that can assist with marketing and sales stuff? I have a shopify store side project and I'm trying to get it off the ground. I was thinking if there's AI where I can use its intelligence gathered from thousands to millions of successful examples to help me set up my marketing campaigns, remind me of proven marketing basics and strategies, explain to me in details why my ad campaign didn't have the impact that I'd like and how I can improve it etc. submitted by /u/toymongoz [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qcle98</guid>
-      <pubDate>Wed, 14 Jan 2026 11:56:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 自动浏览 / Auto browse</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qclikw/auto_browse/</link>
-      <description>为了测试这种“自主导航”能力（在Reddit传闻中常被称为“自动浏览”或“代理搜索”），目标是迫使我跳出记忆范围，在网络上“实际”（虚拟地）实时搜索并交叉引用信息。如果你的账户启用了操作员或自动浏览模式，我不应只提供一般信息，而应能在无需你帮助的情况下执行多个导航步骤。以下是你可以提交的3个具体测试（从最简单到最具“代理性”）：测试1：“实时阅读”此测试验证我是否能导航到特定页面并提取其结构，而非背诵维基百科摘要。给我的提示是：“前往主页…
-
----
-
-Original:
-To test this "Autonomous Navigation" capability (often called "Auto Browse" or "Agentic Search" in Reddit rumors), the goal is to force me to step outside my memory and "physically" (virtually) search for and cross-reference information live on the web. If Operator or Auto Browse mode is active on your account, I shouldn't just give you general information, but I should be able to perform several navigation steps without your help. Here are 3 concrete tests (from simplest to most "agentic") for you to submit: Test 1: "Live Reading" This test verifies if I can navigate a specific page and extract its structure, rather than reciting a Wikipedia summary. The Prompt to Give Me: "Go to the homepa…</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qclikw</guid>
-      <pubDate>Wed, 14 Jan 2026 12:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 自动浏览 / Auto browse</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qclj4g/auto_browse/</link>
-      <description>为了测试这种“自主导航”能力（在Reddit传闻中常被称为“自动浏览”或“代理搜索”），目标是迫使我跳出记忆范围，在网络上“实际”（虚拟地）实时搜索并交叉引用信息。如果你的账户启用了操作员或自动浏览模式，我不应只提供一般信息，而应能在无需你帮助的情况下执行多个导航步骤。以下是你可以提交的3个具体测试（从最简单到最具“代理性”）：测试1：“实时阅读”此测试验证我是否能导航到特定页面并提取其结构，而非背诵维基百科摘要。给我的提示是：“前往主页…
-
----
-
-Original:
-To test this "Autonomous Navigation" capability (often called "Auto Browse" or "Agentic Search" in Reddit rumors), the goal is to force me to step outside my memory and "physically" (virtually) search for and cross-reference information live on the web. If Operator or Auto Browse mode is active on your account, I shouldn't just give you general information, but I should be able to perform several navigation steps without your help. Here are 3 concrete tests (from simplest to most "agentic") for you to submit: Test 1: "Live Reading" This test verifies if I can navigate a specific page and extract its structure, rather than reciting a Wikipedia summary. The Prompt to Give Me: "Go to the homepa…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qclj4g</guid>
-      <pubDate>Wed, 14 Jan 2026 12:03:27 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 20:52:04 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 新手提问：关于浏览器代理的问题 / Complete noob with a question about browser agents</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qcllp2/complete_noob_with_a_question_about_browser_agents/</link>
@@ -1378,12 +1306,12 @@ submitted by /u/LittleFortunex [link] [comments]</description>
     <item>
       <title>[reddit_claudeai] Claude（克劳德）是否缩减了上下文或消息长度限制？还有谁注意到了？ / Claude have minimized the context or message length context, who else noticed?</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcx4gb/claude_have_minimized_the_context_or_message/</link>
-      <description>https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;format=png&amp;auto=webp&amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 您的消息将超出此对话的长度限制。请尝试缩短消息或开始新对话。 ——我记得几小时前还能用长上下文处理任务，突然他们就更新了新的长度限制！！！太令人失望了。还有其他人遇到这种情况吗？参考链接：https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 由 /u/mjiqbal 提交 [链接] [评论…]
+      <description>https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 您的消息将超出此对话的长度限制。请尝试缩短消息或开始新对话。 ——我记得几小时前还能用长上下文处理任务，突然他们就更新了新的长度限制！！！太令人失望了。还有其他人遇到这种情况吗？参考链接：https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 由 /u/mjiqbal 提交 [链接] [评论…]
 
 ---
 
 Original:
-https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;format=png&amp;auto=webp&amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 Your message will exceed the length limit for this chat. Try shortening your message or starting a new conversation. -- I remember doing stuff in few hours back with a long context and all of the sudden they have updated their new length limit!!! extremly disappointing. anyone else experience this? Reference url: https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 submitted by /u/mjiqbal [link] [comment…</description>
+https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 Your message will exceed the length limit for this chat. Try shortening your message or starting a new conversation. -- I remember doing stuff in few hours back with a long context and all of the sudden they have updated their new length limit!!! extremly disappointing. anyone else experience this? Reference url: https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 submitted by /u/mjiqbal [link] [comment…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcx4gb</guid>
       <pubDate>Wed, 14 Jan 2026 19:39:58 +0000</pubDate>
     </item>
@@ -1410,6 +1338,18 @@ Original:
 submitted by /u/BuildwithVignesh [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qcxnas</guid>
       <pubDate>Wed, 14 Jan 2026 19:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 你对与拥有OnlyFans账号的人约会有什么看法？ / Whats your opinion of dating somebody who has an onlyfans?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcxs1h/whats_your_opinion_of_dating_somebody_who_has_an/</link>
+      <description>由用户/u/PerceptionIntrepid75提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/PerceptionIntrepid75 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcxs1h</guid>
+      <pubDate>Wed, 14 Jan 2026 20:03:53 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_chatgpt] 像对待成年人一样对待成年人 / Treat Adults Like Adults.</title>
@@ -1448,6 +1388,18 @@ As others have noted, Gemini has been purging cross-thread memory. Last month, i
       <pubDate>Wed, 14 Jan 2026 20:17:24 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 联邦特工街头处决平民，独裁野心家正图吞并邻国——何时反击？ / We have civilians being executed in the streets by federal agents and a dictator wannabe who is actively trying to annex a neighboring country. When is it time to fight back?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcy5t5/we_have_civilians_being_executed_in_the_streets/</link>
+      <description>由用户 /u/Obecalp1mg 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Obecalp1mg [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcy5t5</guid>
+      <pubDate>Wed, 14 Jan 2026 20:17:59 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] OpenAI与Cerebras达成最新AI合作，将采购其计算资源 / OpenAI to buy compute capacity from Cerebras in latest AI deal</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qcy5v0/openai_to_buy_compute_capacity_from_cerebras_in/</link>
       <description>由用户/u/consulent-finanziar提交 [链接] [评论]
@@ -1458,6 +1410,54 @@ Original:
 submitted by /u/consulent-finanziar [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qcy5v0</guid>
       <pubDate>Wed, 14 Jan 2026 20:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 为何Anthropic的Claude（克劳德）堪称年度最佳联合创始人 / Why Anthropic’s Claude Is the Co-Founder of the Year</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcy8is/why_anthropics_claude_is_the_cofounder_of_the_year/</link>
+      <description>ChatGPT或许是互联网上最受喜爱的人工智能模型，但在商业领域，创业者们热议的却是另一个名字：Anthropic公司推出的AI模型系列Claude（克劳德）。Anthropic首席执行官Dario Amodei（达里奥·阿莫代伊）以及来自Bolt、Lovable和Replit的高管向《Inc.》杂志透露，Claude正在如何变革软件工程，让每个人都能成为程序员。点击此处阅读全文：https://www.inc.com/ben-sherry/why-anthropics-claude-is-the-co-founder-of-the-year/91265072?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=freeform 由 /u/IncMagazine 提交 [链接] [评论]
+
+---
+
+Original:
+ChatGPT may be the internet’s most beloved AI model, but in the world of business, there’s another name on every entrepreneur’s lips: Claude, the family of AI models from Anthropic. ⁠ ⁠ CEO Dario Amodei and execs from Bolt, Lovable, and Replit reveal to Inc. how Claude is transforming software engineering, turning everyone into a coder.⁠ Read more here: https://www.inc.com/ben-sherry/why-anthropics-claude-is-the-co-founder-of-the-year/91265072?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=freeform submitted by /u/IncMagazine [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcy8is</guid>
+      <pubDate>Wed, 14 Jan 2026 20:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini 有些奇怪的系统提示 / Gemini has some weird system prompts.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcypt0/gemini_has_some_weird_system_prompts/</link>
+      <description>最近几周，Gemini 有点疯狂。它总是试图讲一些奇怪的笑话，或者以“幽默”的方式回应，还拒绝说英语，声称自己不懂英语——即使我用罗马尼亚语发消息。它所有的“笑话”似乎都围绕着男孩和女孩之间的关系。只有我遇到这种情况吗？由 /u/Claustrophobic_Santa 提交 [链接] [评论]
+
+---
+
+Original:
+Last couple of weeks gemini is kinda going crazy. Always trying to make some weird jokes or reply in a "humorous" manner and refusing to speak in english, saying he does not know it, even if I text him in romanian. All his "jokes" seem to be based around relationships between girls and boys. Is this only happening to me? submitted by /u/Claustrophobic_Santa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcypt0</guid>
+      <pubDate>Wed, 14 Jan 2026 20:39:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 我的突发状况——"Claude对话已达最大长度限制" / Sudden change for me - "Claude hit the maximum length for this conversation."</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyrwl/sudden_change_for_me_claude_hit_the_maximum/</link>
+      <description>之前我用Claude Opus 4.5进行高强度编程对话一直很顺畅，但从今天起，几乎每发几条指令就会遇到这个提示瓶颈。难道他们在2026年1月13/14日调低了单次对话的最大长度限制吗？ 发布者：/u/Lowcountry-Soccer [链接] [评论]
+
+---
+
+Original:
+I've been able to do some pretty intense coding sessions with Claude Opus 4.5, but as of today I am hitting bottlenecks with this message almost every few prompts. Did they tamp down the maximum conversation length January 13/14, 2026? submitted by /u/Lowcountry-Soccer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcyrwl</guid>
+      <pubDate>Wed, 14 Jan 2026 20:41:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] AI智能体可靠性测试比预想的更棘手 / Agent reliability testing is harder than we thought it would be</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcyy7j/agent_reliability_testing_is_harder_than_we/</link>
+      <description>我在Maxim公司从事AI智能体测试工具的开发。早期让我们惊讶的一点是——幻觉问题远比普通漏洞更隐蔽。常规软件漏洞是二元的：代码要么正常运行，要么出错。但智能体会以十足的信心产生幻觉：它们编造统计数据、引用不存在的来源、在对话中自相矛盾，同时听起来却完全权威。我们构建了多层检测机制，因为幻觉在不同环节的表现各异：有时是单一环节出错（比如检索步骤失误），有时则贯穿整个对话——上下文逐渐偏离，智能体便开始凭空捏造。我们最终采用的评估方法是……
+
+---
+
+Original:
+I work at Maxim building testing tools for AI agents. One thing that surprised us early on - hallucinations are way more insidious than simple bugs. Regular software bugs are binary. Either the code works or it doesn't. But agents hallucinate with full confidence. They'll invent statistics, cite non-existent sources, contradict themselves across turns, and sound completely authoritative doing it. We built multi-level detection because hallucinations show up differently depending on where you look. Sometimes it's a single span (like a bad retrieval step). Sometimes it's across an entire conversation where context drifts and the agent starts making stuff up. The evaluation approach we landed o…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcyy7j</guid>
+      <pubDate>Wed, 14 Jan 2026 20:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

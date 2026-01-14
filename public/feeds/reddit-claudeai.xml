@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 20:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:51:39 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1067,14 +1067,38 @@ The Complete Guide to Claude Code V2: Global CLAUDE.md, MCP Servers, Commands, S
     <item>
       <title>Claude（克劳德）是否缩减了上下文或消息长度限制？还有谁注意到了？ / Claude have minimized the context or message length context, who else noticed?</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcx4gb/claude_have_minimized_the_context_or_message/</link>
-      <description>https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;format=png&amp;auto=webp&amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 您的消息将超出此对话的长度限制。请尝试缩短消息或开始新对话。 ——我记得几小时前还能用长上下文处理任务，突然他们就更新了新的长度限制！！！太令人失望了。还有其他人遇到这种情况吗？参考链接：https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 由 /u/mjiqbal 提交 [链接] [评论…]
+      <description>https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 您的消息将超出此对话的长度限制。请尝试缩短消息或开始新对话。 ——我记得几小时前还能用长上下文处理任务，突然他们就更新了新的长度限制！！！太令人失望了。还有其他人遇到这种情况吗？参考链接：https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 由 /u/mjiqbal 提交 [链接] [评论…]
 
 ---
 
 Original:
-https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;format=png&amp;auto=webp&amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 Your message will exceed the length limit for this chat. Try shortening your message or starting a new conversation. -- I remember doing stuff in few hours back with a long context and all of the sudden they have updated their new length limit!!! extremly disappointing. anyone else experience this? Reference url: https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 submitted by /u/mjiqbal [link] [comment…</description>
+https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 Your message will exceed the length limit for this chat. Try shortening your message or starting a new conversation. -- I remember doing stuff in few hours back with a long context and all of the sudden they have updated their new length limit!!! extremly disappointing. anyone else experience this? Reference url: https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 submitted by /u/mjiqbal [link] [comment…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcx4gb</guid>
       <pubDate>Wed, 14 Jan 2026 19:39:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何Anthropic的Claude（克劳德）堪称年度最佳联合创始人 / Why Anthropic’s Claude Is the Co-Founder of the Year</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcy8is/why_anthropics_claude_is_the_cofounder_of_the_year/</link>
+      <description>ChatGPT或许是互联网上最受喜爱的人工智能模型，但在商业领域，创业者们热议的却是另一个名字：Anthropic公司推出的AI模型系列Claude（克劳德）。Anthropic首席执行官Dario Amodei（达里奥·阿莫代伊）以及来自Bolt、Lovable和Replit的高管向《Inc.》杂志透露，Claude正在如何变革软件工程，让每个人都能成为程序员。点击此处阅读全文：https://www.inc.com/ben-sherry/why-anthropics-claude-is-the-co-founder-of-the-year/91265072?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=freeform 由 /u/IncMagazine 提交 [链接] [评论]
+
+---
+
+Original:
+ChatGPT may be the internet’s most beloved AI model, but in the world of business, there’s another name on every entrepreneur’s lips: Claude, the family of AI models from Anthropic. ⁠ ⁠ CEO Dario Amodei and execs from Bolt, Lovable, and Replit reveal to Inc. how Claude is transforming software engineering, turning everyone into a coder.⁠ Read more here: https://www.inc.com/ben-sherry/why-anthropics-claude-is-the-co-founder-of-the-year/91265072?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=freeform submitted by /u/IncMagazine [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcy8is</guid>
+      <pubDate>Wed, 14 Jan 2026 20:20:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>我的突发状况——"Claude对话已达最大长度限制" / Sudden change for me - "Claude hit the maximum length for this conversation."</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyrwl/sudden_change_for_me_claude_hit_the_maximum/</link>
+      <description>之前我用Claude Opus 4.5进行高强度编程对话一直很顺畅，但从今天起，几乎每发几条指令就会遇到这个提示瓶颈。难道他们在2026年1月13/14日调低了单次对话的最大长度限制吗？ 发布者：/u/Lowcountry-Soccer [链接] [评论]
+
+---
+
+Original:
+I've been able to do some pretty intense coding sessions with Claude Opus 4.5, but as of today I am hitting bottlenecks with this message almost every few prompts. Did they tamp down the maximum conversation length January 13/14, 2026? submitted by /u/Lowcountry-Soccer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcyrwl</guid>
+      <pubDate>Wed, 14 Jan 2026 20:41:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -789,7 +789,13 @@
     "reddit-bard::t3_1qcy599": 1768422846,
     "reddit-askreddit::t3_1qcw469": 1768422851,
     "xgo-f299207d::2011524909261078882": 1768422863,
-    "xgo-f299207d::2011522472613724350": 1768422870
+    "xgo-f299207d::2011522472613724350": 1768422870,
+    "reddit-ai-agents::t3_1qcyy7j": 1768423880,
+    "reddit-claudeai::t3_1qcyrwl": 1768423888,
+    "reddit-claudeai::t3_1qcy8is": 1768423899,
+    "reddit-bard::t3_1qcypt0": 1768423911,
+    "reddit-askreddit::t3_1qcy5t5": 1768423917,
+    "reddit-askreddit::t3_1qcxs1h": 1768423921
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3915,6 +3921,30 @@
     "5d2628d2a74a5e4fa4c3551832c4fdcddaacd66f871ee8fb76ce76b6336cf41e": {
       "zh_title": "喜欢“长视野智能体”这个术语",
       "zh_summary": "喜欢“长视野智能体”这个术语，它们确实在编码领域开始崭露头角，某些时刻甚至让人感觉像是“通用人工智能”。期待2026年看到每个行业都出现长视野智能体。Pat Grady（@gradypb） x.com/i/article/2011… 🔗 查看引用推文 💬 3 🔄 2 ❤️ 6 👀 1220 📊 4 ⚡ 由 xgo.ing 驱动"
+    },
+    "62b004654944f948abaf0f8c0aace5127a721cae14629376916f350007a12631": {
+      "zh_title": "AI智能体可靠性测试比预想的更棘手",
+      "zh_summary": "我在Maxim公司从事AI智能体测试工具的开发。早期让我们惊讶的一点是——幻觉问题远比普通漏洞更隐蔽。常规软件漏洞是二元的：代码要么正常运行，要么出错。但智能体会以十足的信心产生幻觉：它们编造统计数据、引用不存在的来源、在对话中自相矛盾，同时听起来却完全权威。我们构建了多层检测机制，因为幻觉在不同环节的表现各异：有时是单一环节出错（比如检索步骤失误），有时则贯穿整个对话——上下文逐渐偏离，智能体便开始凭空捏造。我们最终采用的评估方法是……"
+    },
+    "01a8e504161e921d48e6c8af2d8c55024bc524e685f771d83d28c1c0145453e5": {
+      "zh_title": "我的突发状况——\"Claude对话已达最大长度限制\"",
+      "zh_summary": "之前我用Claude Opus 4.5进行高强度编程对话一直很顺畅，但从今天起，几乎每发几条指令就会遇到这个提示瓶颈。难道他们在2026年1月13/14日调低了单次对话的最大长度限制吗？ 发布者：/u/Lowcountry-Soccer [链接] [评论]"
+    },
+    "390c067bc63232fd2737cb7b8e1eb852875a9c51b8b54a7ee9f3ca2e122e4b5f": {
+      "zh_title": "为何Anthropic的Claude（克劳德）堪称年度最佳联合创始人",
+      "zh_summary": "ChatGPT或许是互联网上最受喜爱的人工智能模型，但在商业领域，创业者们热议的却是另一个名字：Anthropic公司推出的AI模型系列Claude（克劳德）。Anthropic首席执行官Dario Amodei（达里奥·阿莫代伊）以及来自Bolt、Lovable和Replit的高管向《Inc.》杂志透露，Claude正在如何变革软件工程，让每个人都能成为程序员。点击此处阅读全文：https://www.inc.com/ben-sherry/why-anthropics-claude-is-the-co-founder-of-the-year/91265072?utm_source=reddit&utm_medium=social&utm_campaign=freeform 由 /u/IncMagazine 提交 [链接] [评论]"
+    },
+    "54e2d02eee025770ac67992dbce304686e1fd97f8fe69887a97fbb3a95caaa1b": {
+      "zh_title": "Gemini 有些奇怪的系统提示",
+      "zh_summary": "最近几周，Gemini 有点疯狂。它总是试图讲一些奇怪的笑话，或者以“幽默”的方式回应，还拒绝说英语，声称自己不懂英语——即使我用罗马尼亚语发消息。它所有的“笑话”似乎都围绕着男孩和女孩之间的关系。只有我遇到这种情况吗？由 /u/Claustrophobic_Santa 提交 [链接] [评论]"
+    },
+    "be0e1bfb72dcb4f1e44be223ba716b0abc5d2667cafd57792ff35367cdf48a75": {
+      "zh_title": "联邦特工街头处决平民，独裁野心家正图吞并邻国——何时反击？",
+      "zh_summary": "由用户 /u/Obecalp1mg 提交 [链接] [评论]"
+    },
+    "9a09d652cfbb25a3508c0c3452530e3d030fdc316628d17deb416a5d8b513457": {
+      "zh_title": "你对与拥有OnlyFans账号的人约会有什么看法？",
+      "zh_summary": "由用户/u/PerceptionIntrepid75提交 [链接] [评论]"
     }
   }
 }
