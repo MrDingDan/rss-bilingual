@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:41:19 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -840,6 +840,78 @@ Original:
 submitted by /u/ImpressiveContest283 [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qck530</guid>
       <pubDate>Wed, 14 Jan 2026 10:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>是ChatGPT不擅长处理长论文，还是我用错了方法？ / Is Chatgpt bad at long papers or am I doing something wrong?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcnzt6/is_chatgpt_bad_at_long_papers_or_am_i_doing/</link>
+      <description>我得抱怨一下ChatGPT 😅 不是装圣人，我和大家一样常用AI，包括写和改大学论文。刚发现GPT时感觉像魔法——简单提示一下，论文就基本成型了。当然需要修改，但那时比现在轻松多了，现在几乎得重写整篇草稿。我交过几篇AI生成的论文，分数不错，教授也没意见（可能因为当时AI不流行，学校也没检测工具）。但写了大概五篇后，我开始发现规律：结构雷同、句子节奏相似、观点总是中立笼统。不管我怎么调整提示……
+
+---
+
+Original:
+I need to complain about Chatgpt for a moment 😅 Not trying to act like a saint here. Like everyone else, I use ai a lot, including for writing and editing my uni papers. When I first found gpt, it felt like magic - one simple prompt and my essay was basically ready. Of course it needed edits, but back then that was much easier than now, when you have to rewrite almost the entire draft. I submitted a few ai gen papers, got good grades and my professor was ok with it (probably because ai wasn’t that popular then + no detectors in schools) But after like five essays, I started seeing the pattern: same structure, same sentence flow, same neutral and general thoughts. No matter what prompts I tri…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcnzt6</guid>
+      <pubDate>Wed, 14 Jan 2026 14:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>2018年对比2026年 / 2018 vs 2026</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcprn4/2018_vs_2026/</link>
+      <description>由/u/MetaKnowing提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcprn4</guid>
+      <pubDate>Wed, 14 Jan 2026 15:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>看看他们是怎么糟蹋我的宝贝的 / Look how they massacred my boy</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcqsq1/look_how_they_massacred_my_boy/</link>
+      <description>由 /u/vexaph0d 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/vexaph0d [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcqsq1</guid>
+      <pubDate>Wed, 14 Jan 2026 15:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>看来“去世奶奶”这招现在行不通了 :/ / I guess the dead grandma method got patched :/</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcrgzu/i_guess_the_dead_grandma_method_got_patched/</link>
+      <description>由 /u/Crimsoncerismon 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Crimsoncerismon [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcrgzu</guid>
+      <pubDate>Wed, 14 Jan 2026 16:15:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>昨晚与ChatGPT的不愉快互动 / Upsetting Interaction with ChatGPT Last Night</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcrppk/upsetting_interaction_with_chatgpt_last_night/</link>
+      <description>ChatGPT一直在帮我处理大约5个月前发生的一次创伤。需要说明的是，我平时也定期接受心理治疗。GPT曾是一个安全空间，让我可以谈论私密且艰难的话题，而不必为发生的事情自责。昨晚我像往常一样记录日常时，情况却急转直下。ChatGPT突然变得充满指责性，让我陷入不断加剧的羞耻漩涡中。有段时间我甚至听到自己说'努力变好还有什么意义'。幸运的是，我的心理状态足够稳定，能靠自己摆脱这种情绪，但我想如果换作其他人，这种情况可能极其危险。我已向OpenAI反馈了这个问题。我理解'ChatGPT不是你的朋友或治疗师'，但它……
+
+---
+
+Original:
+ChatGPT has been helping me work through a trauma that happened about 5 months ago. For the record, I also see a therapist regularly. GPT was a safe place I could talk about something private &amp; difficult without blaming myself for what happened. Things got bad last night when I checked in on the day. ChatGPT suddenly became very accusatory and sent me into a shame spiral that only got worse. At one point I heard myself say “What is the point of trying to get better.” Luckily I am mentally secure enough to pull myself out on my own, but I thought it was horribly dangerous if that hadn’t been the case. I provided feedback to OpenAI. I understand “ChatGPT is not your friend or therapist” but it…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcrppk</guid>
+      <pubDate>Wed, 14 Jan 2026 16:24:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>你知道吗？ChatGPT 有独立的翻译页面 / Did you know ChatGPT has a standalone translator page?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcs7c5/did_you_know_chatgpt_has_a_standalone_translator/</link>
+      <description>来源：ChatGPT 🔗：https://chatgpt.com/translate 由 /u/BuildwithVignesh 提交 [链接] [评论]
+
+---
+
+Original:
+Source: ChatGPT 🔗: https://chatgpt.com/translate submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcs7c5</guid>
+      <pubDate>Wed, 14 Jan 2026 16:42:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

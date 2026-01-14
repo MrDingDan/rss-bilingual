@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:42:57 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -847,6 +847,78 @@ Original:
 So I've been using the got voice mode from the very first day and I fell in love instantly. I mean I used it to talk while waking, to brainstorm while driving, it helped me a lot. No other model/app could come close, event though I use Claude for coding and vibeops, they have totally unusable voice mode. Having said that, I have a feeling the quality went really down. I don't mean the voice - it's much better than year ago (although the pitch goes up and down sometimes in a bizarre manner) but the quality of conversation itself. I mean it got somehow... stupid and cliche. It keeps repeating and paraphrasing my words (I don't need no shrink here :D), It doesn't really come up with new ideas,…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qcoljr</guid>
       <pubDate>Wed, 14 Jan 2026 14:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能进展速度超出专家预期 / AI progress is advancing faster than experts expect</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcpi7g/ai_progress_is_advancing_faster_than_experts/</link>
+      <description>https://leap.forecastingresearch.org/reports/wave4 由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+https://leap.forecastingresearch.org/reports/wave4 submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcpi7g</guid>
+      <pubDate>Wed, 14 Jan 2026 15:01:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>2018年对比2026年 / 2018 vs 2026</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcpr0m/2018_vs_2026/</link>
+      <description>由/u/MetaKnowing提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcpr0m</guid>
+      <pubDate>Wed, 14 Jan 2026 15:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>尝试重新激活工作区遇阻，因超额扣费问题卡壳 / Trying to get workspace reactivated - stuck by overcharging</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcqih7/trying_to_get_workspace_reactivated_stuck_by/</link>
+      <description>我所在公司有一份年度订阅，最近尝试续费时被拒，原因是费用高达1700美元。公司所有者想转为月度订阅，OpenAI客服告知唯一方法是让订阅到期/停用，然后重新激活为月度订阅。我们让它到期了。之后一直尝试以两个席位重新激活月度订阅，但反复遇到‘支付页面出错，请重试’。尝试了多张信用卡，联系客服却总是收到同样的复制粘贴回复，让我们重复已完成的五个步骤。今早还联系了银行……
+
+---
+
+Original:
+The company I worked for had an annual subscription that recently tried to renew - the renewal was rejected, because it was for $1700. Owner wanted to move to monthly subscription, was told by OpenAI support that the only way to do this was to let the subscription run out/be deactivated, and then to reactivate as a monthly subscription. We allowed it to run out. Have since been trying to reactivate as a monthly subscription with 2 seats, but repeatedly am faced with ‘the payments page encountered an error. Please try again’. Tried multiple cards, reached out to support and keep getting the same copy paste response telling me to go through 5 steps we have gone through. Called bank this mornin…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcqih7</guid>
+      <pubDate>Wed, 14 Jan 2026 15:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们对比了GPT-4与Claude、PaLM及专业工具在生产支持自动化中的表现，结果令人意外 / We evaluated GPT-4 against Claude, PaLM, and specialized tools for production support automation. The winner surprised us.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcs2wk/we_evaluated_gpt4_against_claude_palm_and/</link>
+      <description>我们花了十周时间评估支持系统的AI工具，结果发现之前的认知大多有误。供应商演示看似完美：数据整洁、响应迅速、一切运行无瑕。但用实际生产数据测试时，40%的查询完全失败。我们首先用最杂乱的数据测试所有工具——电商目录充斥着拼写错误、分类混乱和边缘案例。演示从未揭示的是：使用真实数据时，那些“完美”方案竟连基础搜索都无法处理。我们差点在集成成本上犯下大错，曾发现一款看似完美的支持AI工具……
+
+---
+
+Original:
+We just spent 10 weeks evaluating AI tools for our support system and honestly, most of what we thought we knew was wrong. The vendor demos looked perfect. Clean data, instant responses, everything working flawlessly. Then we tested with our actual production data and watched 40% of queries fail completely. We started by throwing our ugliest data at every tool first. Our e-commerce catalog was a mess of misspellings, inconsistent categories, and weird edge cases. The demos never showed us that, when we tested with real data, suddenly the "perfect" solution couldn't handle basic searches. We almost made a huge mistake with integration costs. Found this amazing support AI that seemed perfect u…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcs2wk</guid>
+      <pubDate>Wed, 14 Jan 2026 16:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>你知道吗？ChatGPT 有独立的翻译页面 / Did you know ChatGPT has a standalone translator page?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcs3jm/did_you_know_chatgpt_has_a_standalone_translator/</link>
+      <description>来源：ChatGPT 🔗：https://chatgpt.com/translate 由 /u/BuildwithVignesh 提交 [链接] [评论]
+
+---
+
+Original:
+Source: ChatGPT 🔗: https://chatgpt.com/translate submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcs3jm</guid>
+      <pubDate>Wed, 14 Jan 2026 16:38:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>开发了一款Chrome扩展，让AI代理替你自动申请工作 / Built a Chrome extension where an AI agent literally applies to jobs for you autonomously</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qct8qq/built_a_chrome_extension_where_an_ai_agent/</link>
+      <description>开发了一款Chrome扩展（Swift Apply AI），其核心是一个定制的GPT代理，用于协助填写表格和定制简历。这款AI代理能代表你自主完成职位申请。从LinkedIn保存职位 → 启动自动申请 → AI前往招聘网站并提交申请 → 醒来时申请已提交。听起来好得不像真的，但它确实有效。由 /u/West_Subject_8780 提交 [链接] [评论]
+
+---
+
+Original:
+Built a Chrome extension (Swift Apply AI) that has a custom GPT agent as it's brain to help with form filling and tailoring resumes. it's an AI agent completes job applications on your behalf, autonomously. Save jobs from LinkedIn → Start AutoApply → ai goes to the career website and applies -&gt; you wake up to submitted job applications. Sounds too good to be true but it actually works. submitted by /u/West_Subject_8780 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qct8qq</guid>
+      <pubDate>Wed, 14 Jan 2026 17:20:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

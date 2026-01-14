@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:40:13 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -368,6 +368,18 @@ Is all the talk about robotics, automated vehicles, and world models an acknowle
       <pubDate>Tue, 13 Jan 2026 11:33:26 +0000</pubDate>
     </item>
     <item>
+      <title>研究显示：近四分之一香港学生离了AI就完不成作业 / Nearly 1 in 4 Hong Kong students can’t finish homework without AI, study shows</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qbp4dl/nearly_1_in_4_hong_kong_students_cant_finish/</link>
+      <description>由用户 /u/PartitaDminor 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/PartitaDminor [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qbp4dl</guid>
+      <pubDate>Tue, 13 Jan 2026 11:39:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude（Anthropic）最近推出了Cowork，这感觉像是真正的进步。 / Claude recently dropped Cowork, and this feels like a real step forward.</title>
       <link>https://www.reddit.com/r/artificial/comments/1qbqiro/claude_recently_dropped_cowork_and_this_feels/</link>
       <description>最近我读了Claude的博客，说实话，这可能会彻底改变我们日常使用AI的方式。在推出面向开发者的Claude Code之前，Claude在聊天方面已经非常出色。然而，Anthropic最近推出了Cowork，这本质上就是面向大众的Claude Code。Cowork有什么不同？你可以通过指定电脑上的某个文件夹来指示Claude执行任务。Claude随后可以读取、编辑和创建该文件夹中的文件。他们提供的例子包括：自动整理下载文件夹、从一堆截图创建电子表格、利用杂乱的笔记起草报告（而不仅仅依赖文本回复）。此外，环境类似……
@@ -560,6 +572,18 @@ Slackbot , the automated assistant baked into the Salesforce-owned corporate mes
       <pubDate>Wed, 14 Jan 2026 05:52:47 +0000</pubDate>
     </item>
     <item>
+      <title>可能问得有点傻，但为什么AI这么招人恨？ / I might sound stupid, but why is AI so hated?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcjqon/i_might_sound_stupid_but_why_is_ai_so_hated/</link>
+      <description>过去这一年，我在网上看到好多人都在骂AI。这是为什么呢？是因为他们怕AI抢走工作还是怎么的？ 由 /u/Comfortable-Pick8804 提交 [链接] [评论]
+
+---
+
+Original:
+So this past year, ive seen so many people on the internet hating on ai. Why is it that? Is it cause they dont want ai taking their jobs or something? submitted by /u/Comfortable-Pick8804 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcjqon</guid>
+      <pubDate>Wed, 14 Jan 2026 10:19:12 +0000</pubDate>
+    </item>
+    <item>
       <title>厌倦了寻找优质AI工具？我创建了“顶级AI网站” / I got tired of hunting for good AI tools, so I made"top ai sites"</title>
       <link>https://www.reddit.com/r/artificial/comments/1qcjtln/i_got_tired_of_hunting_for_good_ai_tools_so_i/</link>
       <description>和这里的许多人一样，我每天都会看到新的AI工具涌现。有些很棒，有些半成品，有些一个月后就消失了。在收藏了许多零散的网站后，我意识到没有一个简洁、集中的地方可以探索可靠的AI工具，而不被噪音干扰。于是，我最终创建了top-ai-sites.com。它是什么？这是一个精心策划的AI网站和工具目录，组织有序，让你能真正找到有用的东西，而不是无休止地滚动浏览。它的不同之处：🔍 手工挑选的AI工具（非自动抓取的垃圾内容）🧠 涵盖多个类别：写作、编程、设计、生产力等 🚀 当你只想寻找灵感或特定解决方案时，浏览便捷 🆓 免费使用……
@@ -572,6 +596,18 @@ Like a lot of people here, I keep seeing new AI tools pop up every single day . 
       <pubDate>Wed, 14 Jan 2026 10:24:15 +0000</pubDate>
     </item>
     <item>
+      <title>有没有适合营销和销售的AI工具？ / AI tool for marketing and sales?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcle98/ai_tool_for_marketing_and_sales/</link>
+      <description>有人知道能协助处理营销和销售事务的AI工具吗？我有个Shopify店铺的副业项目，正努力让它起步。我在想，是否存在一种AI，能利用它从成千上万成功案例中积累的智能，帮我策划营销活动、提醒我那些经过验证的营销基础和策略，并详细解释为什么我的广告活动效果不如预期以及如何改进等等。 提交者：/u/toymongoz [链接] [评论]
+
+---
+
+Original:
+Does anyone know of an AI tool that can assist with marketing and sales stuff? I have a shopify store side project and I'm trying to get it off the ground. I was thinking if there's AI where I can use its intelligence gathered from thousands to millions of successful examples to help me set up my marketing campaigns, remind me of proven marketing basics and strategies, explain to me in details why my ad campaign didn't have the impact that I'd like and how I can improve it etc. submitted by /u/toymongoz [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcle98</guid>
+      <pubDate>Wed, 14 Jan 2026 11:56:22 +0000</pubDate>
+    </item>
+    <item>
       <title>人类KSP玩家与ChatGPT使用deltaV地图进行的deltaV计算对比 / DeltaV calculation comparison between human KSP player and ChatGPT using deltaV map</title>
       <link>https://www.reddit.com/r/artificial/comments/1qcod47/deltav_calculation_comparison_between_human_ksp/</link>
       <description>我对当前版本ChatGPT（5.2思维版，使用最基础的Plus订阅）的数学和图像识别能力感到好奇。步骤：我向它提供了r/KerbalAcademy的deltaV地图，并询问从Kerbin表面到达Sarnus低轨道需要多少deltaV。在ChatGPT计算的同时，我自己也进行了计算，得出结果为28,980 m/s的deltaV。我大约花了1分钟阅读图像并在手机计算器应用中累加数值。结果：ChatGPT花费了23分6秒来查看deltaV地图（它多次裁剪图像以观察不同部分），并得出了与我完全相同的答案：28,980 m/s。后续：我感到印象深刻…
@@ -582,6 +618,18 @@ Original:
 I was curious about the math and vision skills of the current incarnation of ChatGPT (5.2 thinking, on the cheapest Plus subscription). - Steps: I fed it the r/KerbalAcademy deltaV map , and asked it how much it would cost me to reach Sarnus low orbit from Kerbin surface. Then while ChatGPT was working I did the calculation myself, and arrived at 28 980 m/s deltaV. It took me maybe 1 minute to read the image and add the numbers in the calculator app on my phone. - Results: It took ChatGPT 23 minutes and 6 seconds to inspect the deltaV map (it cropped the image multiple times to look at various parts of it), and it arrived at the exact same answer I did, 28 980 m/s. - Follow-up: I am impresse…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qcod47</guid>
       <pubDate>Wed, 14 Jan 2026 14:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>参议院通过法案，允许受害者就Grok AI生成色情图像提起诉讼 / Senate passes bill letting victims sue over Grok AI explicit images</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcpxzs/senate_passes_bill_letting_victims_sue_over_grok/</link>
+      <description>由用户 /u/sksarkpoes3 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/sksarkpoes3 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcpxzs</guid>
+      <pubDate>Wed, 14 Jan 2026 15:19:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

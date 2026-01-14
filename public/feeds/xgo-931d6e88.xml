@@ -6,7 +6,7 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:45:29 +0000</lastBuildDate>
     <item>
       <title>AI开发者必读好文（建议收藏） / Great read for AI devs.
 
@@ -697,6 +697,18 @@ Original:
 These features are also in Cowork. I still prefer to use Claude Code via the terminal, but this is going to allow more folks with non-technical backgrounds get in the action. Smart move because teams can now use whatever flavor of Claude Code they feel comfortable with. 💬 1 🔄 0 ❤️ 5 👀 1333 📊 1 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-931d6e88::2011112571504373851</guid>
       <pubDate>Tue, 13 Jan 2026 16:26:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta Superintelligence Labs（Meta超级智能实验室）发布有趣论文：无需训练数据实现智能体进化 / Super interesting paper from Meta Superintelligence Labs on evolving agents without training data.</title>
+      <link>https://x.com/omarsar0/status/2011458960839352632</link>
+      <description>Meta Superintelligence Labs（Meta超级智能实验室）发表了一篇引人关注的论文，探讨无需训练数据即可实现智能体进化。这项研究指出，复杂的推理与搜索能力仅通过自我进化就能形成，挑战了人类监督对高级智能体能力不可或缺的假设。论文要点如下：自我进化的大型语言模型（LLMs）可通过生成自身训练问题来提升，无需依赖人工整理的数据。然而，现有的无数据框架多集中于数学、编程等狭窄领域。它们在开放域搜索智能体方面面临挑战，原因在于问题多样性有限，且需要大量计算资源……
+
+---
+
+Original:
+Super interesting paper from Meta Superintelligence Labs on evolving agents without training data. DAIR.AI @dair_ai Super interesting paper from Meta Superintelligence Labs. This work suggests complex reasoning and search capabilities can emerge solely through self-evolution, challenging the assumption that human supervision is necessary for advanced agent abilities. Let's break down the paper: Self-evolving LLMs can improve without human-curated data by generating their own training problems. However, existing data-free frameworks focus on narrow domains like math and coding. They struggle with open-domain search agents due to limited question diversity and the massive compute required for…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011458960839352632</guid>
+      <pubDate>Wed, 14 Jan 2026 15:22:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:41:59 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -956,14 +956,62 @@ When I finally hit a groove with AI I remember getting nervous and thinking if I
     <item>
       <title>Claude的GitHub集成功能显示容量为0%的问题 / Issue with Claude's github integration showing 0% capacity</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnzc4/issue_with_claudes_github_integration_showing_0/</link>
-      <description>从周一开始，我的Claude就遇到了问题。Claude/Anthropic技术支持没有回应，他们的状态页面也没有提及这个问题。Git集成功能似乎已经无法正常工作。每当我尝试添加Git项目时，它都显示容量为0%。（见截图）https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;format=png&amp;auto=webp&amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 尝试了常用的调试方法，但都没用：重新连接、清除缓存、重新安装Git连接器、重新导入项目、尝试不同的项目。还有其他人遇到类似问题吗？ 提交者：/u/JackAmb [链接] [评论]
+      <description>从周一开始，我的Claude就遇到了问题。Claude/Anthropic技术支持没有回应，他们的状态页面也没有提及这个问题。Git集成功能似乎已经无法正常工作。每当我尝试添加Git项目时，它都显示容量为0%。（见截图）https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 尝试了常用的调试方法，但都没用：重新连接、清除缓存、重新安装Git连接器、重新导入项目、尝试不同的项目。还有其他人遇到类似问题吗？ 提交者：/u/JackAmb [链接] [评论]
 
 ---
 
 Original:
-I've been having an issue with Claude since Monday. Claude / Anthropic support is ignoring me and their status page doesn't address this issue. The git integration feature seems to have stopped working correctly. Whenever I try to add a git project, it lists it as 0% capacity. (see screenshot) https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;format=png&amp;auto=webp&amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 Tried the usual debugging methods, to no avail : Reconnecting Clearing cache Reinstaller git connector Reimporting project Reusing a different project Has anyone else been dealing with a similar issue ? submitted by /u/JackAmb [link] [comments]</description>
+I've been having an issue with Claude since Monday. Claude / Anthropic support is ignoring me and their status page doesn't address this issue. The git integration feature seems to have stopped working correctly. Whenever I try to add a git project, it lists it as 0% capacity. (see screenshot) https://preview.redd.it/wmz0e3v5mbdg1.png?width=1119&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f52467d3b7ab8c2219679cfb42f05e36d2432a0 Tried the usual debugging methods, to no avail : Reconnecting Clearing cache Reinstaller git connector Reimporting project Reusing a different project Has anyone else been dealing with a similar issue ? submitted by /u/JackAmb [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcnzc4</guid>
       <pubDate>Wed, 14 Jan 2026 13:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>音乐整理助手技能 / Music Organizer Skill</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcq1hb/music_organizer_skill/</link>
+      <description>我一直在开发一个Claude Code技能，它能将杂乱无章的音乐文件夹整理成规范的结构。觉得你们中有些人可能会觉得有用。它的功能是：你指定一个装满音乐文件的文件夹，它会：扫描所有文件（FLAC、MP3、M4A、WAV、AIFF、OGG、APE、WV、DSD等）；从内嵌标签、文件夹名提取元数据，或通过MusicBrainz/Discogs在线查找；按“艺术家/年份 - 专辑[音质]/01 - 曲目.扩展名”结构重组；处理CUE+单文件专辑，将其分割为独立音轨；处理重复文件、多碟专辑、合集和散装单曲。在执行任何操作前，它会显示所有计划移动的模拟预览，供你审核……
+
+---
+
+Original:
+Been working on a Claude Code skill that takes a messy folder of music files and organizes them into a proper structure. Thought some of you might find it useful. What it does You point it at a folder full of music files and it: Scans everything (FLAC, MP3, M4A, WAV, AIFF, OGG, APE, WV, DSD, etc.) Extracts metadata from embedded tags, folder names, or looks it up online via MusicBrainz/Discogs Reorganizes into Artist/Year - Album [QUALITY]/01 - Track.ext structure Handles CUE+single file albums by splitting them into individual tracks Deals with duplicates, multi-disc albums, compilations, and loose singles It shows you a dry-run of all planned moves before doing anything, so you can review…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcq1hb</guid>
+      <pubDate>Wed, 14 Jan 2026 15:22:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>是我的错觉吗？OpenAI Codex 5.2 现在是不是比 Claude Code 更强了？ / Is it just me, or is OpenAI Codex 5.2 better than Claude Code now?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcqdar/is_it_just_me_or_is_openai_codex_52_better_than/</link>
+      <description>是我的错觉吗？大家有没有发现 Codex 5.2（高思维模式）的输出质量明显更好？我之前调试三个问题，Opus 4.5 用掉了会话使用量的 50%，却一个都没解决。换成 Codex 5.2（高思维模式）后，它一次性就修复了所有三个 bug。我本地非代码工作也用 Claude Code，但最近几天 Codex 5.2 的表现一直优于 Claude。Gemini 3 Pro 给出的回复最差，完全无法接受或不够准确。不知道发生了什么，它刚推出时可能处于最佳状态，现在感觉回复质量甚至不如 2.0 Flash。 由 /u/efficialabs 提交 [链接] [评论]
+
+---
+
+Original:
+Is it just me, or are you also noticing that Codex 5.2 (High Thinking) gives much better output? I had to debug three issues. Opus 4.5 used 50% of the session usage. Nothing was fixed. I switched to Codex 5.2 (High Thinking). It fixed all three bugs in one shot. I also use Claude Code for my local non-code work. Codex 5.2 has been beating Claude for the last few days. Gemini 3 Pro is giving the worst responses. The responses are not acceptable or accurate at all. I do not know what happened. It was probably at its best when it launched. Now its responses feel even worse than 2.0 Flash. submitted by /u/efficialabs [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcqdar</guid>
+      <pubDate>Wed, 14 Jan 2026 15:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>何必费心？ / Why bother?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcrfak/why_bother/</link>
+      <description>由 /u/armored_strawberries 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/armored_strawberries [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcrfak</guid>
+      <pubDate>Wed, 14 Jan 2026 16:14:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果厌倦了Claude总提问，告诉它你午饭后回来检查就行！ / If you're ever tired of Claude asking you questions, just tell it you will check back in after lunch!</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcs5ex/if_youre_ever_tired_of_claude_asking_you/</link>
+      <description>由 /u/stumpyinc 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/stumpyinc [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcs5ex</guid>
+      <pubDate>Wed, 14 Jan 2026 16:40:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

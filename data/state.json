@@ -697,7 +697,47 @@
     "reddit-askreddit::t3_1qcmf6q": 1768401676,
     "reddit-askreddit::t3_1qcny08": 1768401681,
     "reddit-tasker::t3_1qco9qn": 1768401703,
-    "reddit-tasker::t3_1qco55i": 1768401715
+    "reddit-tasker::t3_1qco55i": 1768401715,
+    "reddit-ai-agents::t3_1qcspat": 1768412309,
+    "reddit-ai-agents::t3_1qcpxcw": 1768412326,
+    "reddit-ai-agents::t3_1qcrpqq": 1768412351,
+    "reddit-ai-agents::t3_1qcta12": 1768412359,
+    "reddit-ai-agents::t3_1qct3ve": 1768412371,
+    "reddit-ai-agents::t3_1qcp3qw": 1768412382,
+    "reddit-artificial::t3_1qcpxzs": 1768412390,
+    "reddit-artificial::t3_1qcle98": 1768412398,
+    "reddit-artificial::t3_1qcjqon": 1768412408,
+    "reddit-artificial::t3_1qbp4dl": 1768412413,
+    "reddit-chatgpt::t3_1qcqsq1": 1768412422,
+    "reddit-chatgpt::t3_1qcrgzu": 1768412430,
+    "reddit-chatgpt::t3_1qcprn4": 1768412437,
+    "reddit-chatgpt::t3_1qcs7c5": 1768412448,
+    "reddit-chatgpt::t3_1qcnzt6": 1768412462,
+    "reddit-chatgpt::t3_1qcrppk": 1768412479,
+    "reddit-claudeai::t3_1qcqdar": 1768412490,
+    "reddit-claudeai::t3_1qcrfak": 1768412499,
+    "reddit-claudeai::t3_1qcq1hb": 1768412515,
+    "reddit-claudeai::t3_1qcs5ex": 1768412519,
+    "reddit-openai::t3_1qcs3jm": 1768412520,
+    "reddit-openai::t3_1qcpi7g": 1768412545,
+    "reddit-openai::t3_1qct8qq": 1768412553,
+    "reddit-openai::t3_1qcpr0m": 1768412553,
+    "reddit-openai::t3_1qcs2wk": 1768412567,
+    "reddit-openai::t3_1qcqih7": 1768412576,
+    "reddit-bard::t3_1qcs94z": 1768412593,
+    "reddit-bard::t3_1qcqlka": 1768412600,
+    "reddit-bard::t3_1qcq930": 1768412612,
+    "reddit-bard::t3_1qcstm9": 1768412627,
+    "reddit-bard::t3_1qctsw3": 1768412634,
+    "reddit-bard::t3_1qctcnm": 1768412647,
+    "reddit-askreddit::t3_1qcr0l8": 1768412664,
+    "reddit-askreddit::t3_1qct2ts": 1768412672,
+    "reddit-askreddit::t3_1qcp9m6": 1768412690,
+    "reddit-askreddit::t3_1qcsws7": 1768412695,
+    "reddit-askreddit::t3_1qcq433": 1768412703,
+    "reddit-askreddit::t3_1qcpell": 1768412707,
+    "reddit-tasker::t3_1qcskpy": 1768412714,
+    "xgo-931d6e88::2011458960839352632": 1768412728
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3475,6 +3515,154 @@
     "3e27d0b247804acdc6e952de4473cf8a49d3d5754234054c18dfb199c7fe61ab": {
       "zh_title": "异常账户？推荐奖励？我有70美元要送给接下来几位能成功完成任务的人。尽快私信我。付款凭证充足",
       "zh_summary": "由 /u/Sharp_Appointment588 提交 [链接] [评论]"
+    },
+    "dc7c1914927056aae088720a360ed949e2a3e6dfdbde9c679e0f59b145a0945f": {
+      "zh_title": "我在考虑开设一个“工程师博客”或随笔空间，分享我们的经验",
+      "zh_summary": "编辑：更正为“工程博客”。大家好，我正在考虑为我们的AI记忆初创公司创建一个内容空间，分享我们的学习心得、创业历程、技术决策等等。目前我在这方面还比较混乱，希望能得到大家的帮助。首先，你们现在还阅读博客或随笔吗？如果是，你们最喜欢的网站有哪些？其次，在这个领域，你们对哪些话题感兴趣，我们可以分享我们的观点。当然，我们很乐意你们尝试我们的产品，但这并不是我想创作内容的原因。这也是为什么我没有在这里分享链接。如果你们需要，我很乐意提供链接。相反，我想创建一个空间……"
+    },
+    "4953c30173edd9101a51f1f60e9bdb6eb7d70a4630ee57b8f48b0ddd860bdd68": {
+      "zh_title": "今年想提升AI技能，我该重点学什么？",
+      "zh_summary": "我目前在资产管理领域的会计金融服务岗位上正逐渐被边缘化。去年底我主动制定了几项AI学习目标，争取到了一些时间和预算来学习AI技能。希望能得到业内人士的指导。我的目标一是改进当前工作，这能带来奖金潜力并引起高管层的关注；二是若年底后需要寻找新工作，能在简历上增添亮眼成果。如果我想在AI相关岗位就业，未来12个月究竟该重点学习什么？我并不想成为全面的机器学习工程师……"
+    },
+    "ebf34791d2064915c5dcf187540982852c209ea05ad269d7710a72aacb0a39f9": {
+      "zh_title": "IQ",
+      "zh_summary": "有没有人试过让你用的AI根据使用历史——比如提问内容、推理深度、修正情况、思维模式等——来估算你的智商？如果你现在要这么做，会在提示词里包含哪些内容？又会加入哪些限制或指令，让它避免奉承和泛泛而谈？我通常会要求它更直接、更批判、更严格、不绕弯子，像个分析师那样。PS：别问我的估算结果，我是不会说的🫣 发布者：/u/dr_yugapurusha [链接] [评论]"
+    },
+    "82704084dd33a696f049a9260b582ac048ae089bca3e616f9032cdffeaa8cc30": {
+      "zh_title": "智能体技能在实际系统中如何应用",
+      "zh_summary": "我最近开始学习由Anthropic推出、现已被多数主流AI公司采纳的新智能体技能标准。大多数文章和示例都聚焦于在IDE或CLI（如Claude Code、OpenCode、Antigravity等）中使用智能体技能，这些环境已具备直接的文件系统访问权限和严格受控的运行环境。然而，在实际生产项目中，我们常使用诸如Google ADK、Mastra或类似的编排层等智能体框架。因此，我试图理解：在这些框架中，智能体技能应如何被使用？——我们是将技能封装为工具、工作流，还是其他形式？——对此是否有参考架构或最佳实践？智能体技能……"
+    },
+    "2ee7b06c58a769f09183d0f7f56d06d3d4475db924872f62199c86702759aa74": {
+      "zh_title": "有没有工具/插件能为智能体阅读的所有内容生成行内注释？",
+      "zh_summary": "虽然感觉这种工具应该早就有人开发出来了，但我一直没找到。我说的不是外部文档（比如Markdown文件），而是指除非我明确要求生成文档和行内注释，否则智能体在大量搜索和阅读时不会把思考过程记录下来。我希望在等待上下文限制重置时能浏览代码，如果有个工具能自动将思考过程捕获为行内注释会非常实用。有人知道这类工具吗？提交者：/u/Standard-Fisherman-5 [链接] [评论]"
+    },
+    "6aae4ce7138fee77635e328596911c5117220793a40571a80e1deae2672ecc52": {
+      "zh_title": "参议院通过法案，允许受害者就Grok AI生成色情图像提起诉讼",
+      "zh_summary": "由用户 /u/sksarkpoes3 提交 [链接] [评论]"
+    },
+    "9ee058bd0b820f034a92649dc964e2cf94affc9976bdd4942954f74fb2d55f03": {
+      "zh_title": "有没有适合营销和销售的AI工具？",
+      "zh_summary": "有人知道能协助处理营销和销售事务的AI工具吗？我有个Shopify店铺的副业项目，正努力让它起步。我在想，是否存在一种AI，能利用它从成千上万成功案例中积累的智能，帮我策划营销活动、提醒我那些经过验证的营销基础和策略，并详细解释为什么我的广告活动效果不如预期以及如何改进等等。 提交者：/u/toymongoz [链接] [评论]"
+    },
+    "f0a9fe6ff9bbf249c9b3990b20e8435161cecbbd362a658369706b0a7715b3be": {
+      "zh_title": "可能问得有点傻，但为什么AI这么招人恨？",
+      "zh_summary": "过去这一年，我在网上看到好多人都在骂AI。这是为什么呢？是因为他们怕AI抢走工作还是怎么的？ 由 /u/Comfortable-Pick8804 提交 [链接] [评论]"
+    },
+    "05acb6b59eb77aa2c23415dba614da3c6190a075bfc69b3bcc6c7d5cb4661bdd": {
+      "zh_title": "研究显示：近四分之一香港学生离了AI就完不成作业",
+      "zh_summary": "由用户 /u/PartitaDminor 提交 [链接] [评论]"
+    },
+    "cdec16eabc0ce91ba6ae743c6608f02b4f471978d2b7cdc1e169d5546993469c": {
+      "zh_title": "看看他们是怎么糟蹋我的宝贝的",
+      "zh_summary": "由 /u/vexaph0d 提交 [链接] [评论]"
+    },
+    "ba360ea32211127e49847a4a9452f4bffd6353de8ee39e41894514acec3038c5": {
+      "zh_title": "看来“去世奶奶”这招现在行不通了 :/",
+      "zh_summary": "由 /u/Crimsoncerismon 提交 [链接] [评论]"
+    },
+    "a18d0947ff30821bbcf94cc8180d96289ad5c028a45103e9aa6f7f2bf25a606d": {
+      "zh_title": "2018年对比2026年",
+      "zh_summary": "由/u/MetaKnowing提交 [链接] [评论]"
+    },
+    "ab66dfc5fa4ad04beb95a5b6ecb452ba87e3c06e3b4a366b526f8e68c0935dd2": {
+      "zh_title": "你知道吗？ChatGPT 有独立的翻译页面",
+      "zh_summary": "来源：ChatGPT 🔗：https://chatgpt.com/translate 由 /u/BuildwithVignesh 提交 [链接] [评论]"
+    },
+    "3bcdede395076290b4f1e40451d168979458080dd48c3b3a64f8b9135230c861": {
+      "zh_title": "是ChatGPT不擅长处理长论文，还是我用错了方法？",
+      "zh_summary": "我得抱怨一下ChatGPT 😅 不是装圣人，我和大家一样常用AI，包括写和改大学论文。刚发现GPT时感觉像魔法——简单提示一下，论文就基本成型了。当然需要修改，但那时比现在轻松多了，现在几乎得重写整篇草稿。我交过几篇AI生成的论文，分数不错，教授也没意见（可能因为当时AI不流行，学校也没检测工具）。但写了大概五篇后，我开始发现规律：结构雷同、句子节奏相似、观点总是中立笼统。不管我怎么调整提示……"
+    },
+    "6fcd8a5f02b282c5b2ff2d293632a58f9e6264ac0714f32db7c5fb1ea9deb8b9": {
+      "zh_title": "昨晚与ChatGPT的不愉快互动",
+      "zh_summary": "ChatGPT一直在帮我处理大约5个月前发生的一次创伤。需要说明的是，我平时也定期接受心理治疗。GPT曾是一个安全空间，让我可以谈论私密且艰难的话题，而不必为发生的事情自责。昨晚我像往常一样记录日常时，情况却急转直下。ChatGPT突然变得充满指责性，让我陷入不断加剧的羞耻漩涡中。有段时间我甚至听到自己说'努力变好还有什么意义'。幸运的是，我的心理状态足够稳定，能靠自己摆脱这种情绪，但我想如果换作其他人，这种情况可能极其危险。我已向OpenAI反馈了这个问题。我理解'ChatGPT不是你的朋友或治疗师'，但它……"
+    },
+    "b1d1b349a0d956c9b402ab627e510a2a0bb6c7d12e2827057b50ec848381d208": {
+      "zh_title": "是我的错觉吗？OpenAI Codex 5.2 现在是不是比 Claude Code 更强了？",
+      "zh_summary": "是我的错觉吗？大家有没有发现 Codex 5.2（高思维模式）的输出质量明显更好？我之前调试三个问题，Opus 4.5 用掉了会话使用量的 50%，却一个都没解决。换成 Codex 5.2（高思维模式）后，它一次性就修复了所有三个 bug。我本地非代码工作也用 Claude Code，但最近几天 Codex 5.2 的表现一直优于 Claude。Gemini 3 Pro 给出的回复最差，完全无法接受或不够准确。不知道发生了什么，它刚推出时可能处于最佳状态，现在感觉回复质量甚至不如 2.0 Flash。 由 /u/efficialabs 提交 [链接] [评论]"
+    },
+    "776f1af991887c741c4a5d9afe7b4494e88bb8c797a8310b0b695404fe3b2941": {
+      "zh_title": "何必费心？",
+      "zh_summary": "由 /u/armored_strawberries 提交 [链接] [评论]"
+    },
+    "3b5702133c042e6872475e417aec5f9245b63b2d1384d38066f34ef358c49e67": {
+      "zh_title": "音乐整理助手技能",
+      "zh_summary": "我一直在开发一个Claude Code技能，它能将杂乱无章的音乐文件夹整理成规范的结构。觉得你们中有些人可能会觉得有用。它的功能是：你指定一个装满音乐文件的文件夹，它会：扫描所有文件（FLAC、MP3、M4A、WAV、AIFF、OGG、APE、WV、DSD等）；从内嵌标签、文件夹名提取元数据，或通过MusicBrainz/Discogs在线查找；按“艺术家/年份 - 专辑[音质]/01 - 曲目.扩展名”结构重组；处理CUE+单文件专辑，将其分割为独立音轨；处理重复文件、多碟专辑、合集和散装单曲。在执行任何操作前，它会显示所有计划移动的模拟预览，供你审核……"
+    },
+    "8edf745bfa7893da5479731335f0e4a236ceac75db695108c1d3bba350d9dca2": {
+      "zh_title": "如果厌倦了Claude总提问，告诉它你午饭后回来检查就行！",
+      "zh_summary": "由 /u/stumpyinc 提交 [链接] [评论]"
+    },
+    "1273e7d5b00d895882eb1cd2dafafcf1b9c7a62a5d55b1f58c573df856e55ff7": {
+      "zh_title": "人工智能进展速度超出专家预期",
+      "zh_summary": "https://leap.forecastingresearch.org/reports/wave4 由 /u/MetaKnowing 提交 [链接] [评论]"
+    },
+    "c9350883fda1d286508b27e49a4342750b7fbf6d064c6e6e20038651ae48bab0": {
+      "zh_title": "开发了一款Chrome扩展，让AI代理替你自动申请工作",
+      "zh_summary": "开发了一款Chrome扩展（Swift Apply AI），其核心是一个定制的GPT代理，用于协助填写表格和定制简历。这款AI代理能代表你自主完成职位申请。从LinkedIn保存职位 → 启动自动申请 → AI前往招聘网站并提交申请 → 醒来时申请已提交。听起来好得不像真的，但它确实有效。由 /u/West_Subject_8780 提交 [链接] [评论]"
+    },
+    "746c84075de8143b36f4c8b22818e857a544b303566be336b184df3cc10789a5": {
+      "zh_title": "我们对比了GPT-4与Claude、PaLM及专业工具在生产支持自动化中的表现，结果令人意外",
+      "zh_summary": "我们花了十周时间评估支持系统的AI工具，结果发现之前的认知大多有误。供应商演示看似完美：数据整洁、响应迅速、一切运行无瑕。但用实际生产数据测试时，40%的查询完全失败。我们首先用最杂乱的数据测试所有工具——电商目录充斥着拼写错误、分类混乱和边缘案例。演示从未揭示的是：使用真实数据时，那些“完美”方案竟连基础搜索都无法处理。我们差点在集成成本上犯下大错，曾发现一款看似完美的支持AI工具……"
+    },
+    "c506367ad514501b797b683a79f83bd2b004984329adfeb2b98b27d422d0c9f2": {
+      "zh_title": "尝试重新激活工作区遇阻，因超额扣费问题卡壳",
+      "zh_summary": "我所在公司有一份年度订阅，最近尝试续费时被拒，原因是费用高达1700美元。公司所有者想转为月度订阅，OpenAI客服告知唯一方法是让订阅到期/停用，然后重新激活为月度订阅。我们让它到期了。之后一直尝试以两个席位重新激活月度订阅，但反复遇到‘支付页面出错，请重试’。尝试了多张信用卡，联系客服却总是收到同样的复制粘贴回复，让我们重复已完成的五个步骤。今早还联系了银行……"
+    },
+    "b878eb3afc72076fb70adb7a5b4b9cecafec78710eafaf7ef1b72227e02928b9": {
+      "zh_title": "Gemini（双子座）推出个人智能功能",
+      "zh_summary": "由用户 /u/Gaiden206 提交 [链接] [评论]"
+    },
+    "f28d32762bf8903569a88bb6cd1fb22b25f4f097ef7d36a42e3fa987e00196c2": {
+      "zh_title": "爆料：谷歌正测试新版首页界面，Build版块模型选择器将新增思考强度选项",
+      "zh_summary": "图1：谷歌正在AI Studio上测试“通过Gemini实现从提示到生产的最快路径”。新版首页界面提供聊天、构建和API密钥创建等多种选项。图2：Build版块的模型选择器也将新增思考强度选择。信息由早期Beta测试者（Gemini）分享，由/u/BuildwithVignesh提交。"
+    },
+    "6b3bd878cd671a02ca58c5fafd8d796b1f3a5beb93160edadb3669e99b0221ff": {
+      "zh_title": "Gemini 3 Pro——那个舔舐蜡笔零食窗口的家伙",
+      "zh_summary": "还有人觉得Gemini在处理现实任务时简直无可救药吗？https://preview.redd.it/uyugtpg53cdg1.png?width=1589&format=png&auto=webp&s=ae442a26258f33287d9cccdc4cf5ef7313d37833 上面是一个编程示例……但说实话，我发现它在所有事情上都差不多。对于非编程人员来说——我们写代码是给机器看的。为了帮助我们（人类）理解代码，我们会写注释，通常像这样，以便我们或未来的开发者只需阅读注释就能理解代码：# 我们从用户磁盘加载图像文件。而Gemini只会胡编乱造些废话塞进代码里，尽管谷歌一直在吹嘘那惊人的100万token上下文窗口……Gemini简直是……"
+    },
+    "f0a4bf15d47f16cb0e20d826ffdf112677b4445a9b089c1db1f74b194faaf94e": {
+      "zh_title": "谷歌Gemini个人智能功能发布更新",
+      "zh_summary": "由 /u/techspecsmart 提交 [链接] [评论]"
+    },
+    "b39d79696a1d4d700a89120f7d756c07080ed1235f50b83dde05096b5cc78d45": {
+      "zh_title": "这一切始于190KB的纯文本。如果让我自己在最冷门的角落寻找合适的库，真不知道要花多长时间。",
+      "zh_summary": "由 /u/gsurfer04 提交 [链接] [评论]"
+    },
+    "a0c7401355895fe1aba348a637e8b0d420f60677bdad873454a7a608194a8012": {
+      "zh_title": "Claude Cowork月费100美元。我用Gemini 3打造了开源版，因为价格很重要，Gemini CLI自带原生PTY，而且上下文窗口才是王道。",
+      "zh_summary": "仓库：https://github.com/Prof-Harita/terminaI 本周Anthropic的“Claude Cowork”发布让所有人兴奋不已。这确实是个很棒的应用场景，但说实话：它每月收费100美元，运行在沙盒环境中，并且在触发速率限制前只提供区区20万token的上下文窗口。在开发TerminaI时，我算了一笔账。系统运维本质上是个上下文问题，而不仅仅是推理问题。如果你想让智能体“审计整个/var/log目录”或“真正遍历一系列测试和输出”，你需要的不是订阅服务，而是海量上下文。Claude Cowork：租金高昂，内存有限。Gemini 3 Flash：200万+token上下文。极其智能。速度惊人。价格亲民。所以我打造了TerminaI。这是一个..."
+    },
+    "d6ec3687ba7854c6ebaf2a66b0d301539e6e7d893d5bbc445c48d99275b8cdc8": {
+      "zh_title": "为何美国ICE名单被封锁未引发更多公愤？公务员可以匿名吗？",
+      "zh_summary": "由用户/u/Ya_boi_H提交 [链接] [评论]"
+    },
+    "eafc4594b2891c224c5845b5d8dd5fde0f60cb891df699290331e25fd42b65c3": {
+      "zh_title": "2013年玛格丽特·撒切尔（Margaret Thatcher）去世时，歌曲《叮咚，女巫死了》（Ding, dong, the witch is dead）登上排行榜第二名。当唐纳德·特朗普（Donald Trump）离世时，你希望哪首歌上榜？",
+      "zh_summary": "由 /u/Rev_dino 提交 [链接] [评论]"
+    },
+    "59c458e9a06ba964a5ce241c6bdec64d596e0fc6db654badfba00f9bbbf5905a": {
+      "zh_title": "人体最迷人的地方是什么？",
+      "zh_summary": "由 /u/PancakeBully 提交 [链接] [评论]"
+    },
+    "d90c9954f9f8bd47ccdc161e36759ccab7e72a713b1a8dd806cd8d8e415fe553": {
+      "zh_title": "哪些事在下午三点做很正常，凌晨三点做却感觉像犯法？",
+      "zh_summary": "由 /u/Humble_Vermicelli229 提交 [链接] [评论]"
+    },
+    "f5c95cfb2a293ceb6a271a2cbaefe42174ee387a490c96e0cd5e66e91815f3aa": {
+      "zh_title": "你何时意识到生活并不奖励公平？",
+      "zh_summary": "由用户/u/Thin-Meringue9109提交 [链接] [评论]"
+    },
+    "d2e5a0c2dfc8701daeacd59ef80d134ca69c573f449f23df97fe310fcd258750": {
+      "zh_title": "究竟谁从ICE突击行动中获利——为何此事鲜少被讨论？",
+      "zh_summary": "由 /u/Sensitive_Studio_247 提交 [链接] [评论]"
+    },
+    "5966de6f557e9c33c5120a915bd7d125102be2fd7bf3e6a33e4337e02ee98eb6": {
+      "zh_title": "必备工具插件与直接购买授权求助",
+      "zh_summary": "哪些是必备的工具插件？另外，我注意到Patreon上似乎有直接购买的选项。这是更好的版本吗？我购买了由/u/oraklesearch提交的Play商店版本[链接][评论]"
+    },
+    "5b0df984a22369e19322cc04325ca48304fd46e73562d93ca1d8e9dde78e1ef7": {
+      "zh_title": "Meta Superintelligence Labs（Meta超级智能实验室）发布有趣论文：无需训练数据实现智能体进化",
+      "zh_summary": "Meta Superintelligence Labs（Meta超级智能实验室）发表了一篇引人关注的论文，探讨无需训练数据即可实现智能体进化。这项研究指出，复杂的推理与搜索能力仅通过自我进化就能形成，挑战了人类监督对高级智能体能力不可或缺的假设。论文要点如下：自我进化的大型语言模型（LLMs）可通过生成自身训练问题来提升，无需依赖人工整理的数据。然而，现有的无数据框架多集中于数学、编程等狭窄领域。它们在开放域搜索智能体方面面临挑战，原因在于问题多样性有限，且需要大量计算资源……"
     }
   }
 }

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:45:15 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -342,6 +342,18 @@ Original:
 I am posting this just in case someone else will find it helpful. I tried searching for something similar to this but haven't found anything that works anywhere. I'm not expert by any means, just fiddled with things until it worked. If anyone with more knowledge would like to point out how to do this better please do comment so. What I wanted to happen: Open the first search result of apps when you open the app drawer and search for something using Samsung's search (also known as finder) and then press Enter rather than going to the top of the screen and pressing the app icon. This is already a feature on iOS and some other Android afaik. Super frustrating that this isn't the default on One…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qco9qn</guid>
       <pubDate>Wed, 14 Jan 2026 14:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>必备工具插件与直接购买授权求助 / Must have and direct purchase license need help</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qcskpy/must_have_and_direct_purchase_license_need_help/</link>
+      <description>哪些是必备的工具插件？另外，我注意到Patreon上似乎有直接购买的选项。这是更好的版本吗？我购买了由/u/oraklesearch提交的Play商店版本[链接][评论]
+
+---
+
+Original:
+What are must have Tools addons? And i saw somerhing like direct purchase over Patron. Ist this a better Version? I bought the play store Version submitted by /u/oraklesearch [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qcskpy</guid>
+      <pubDate>Wed, 14 Jan 2026 16:56:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

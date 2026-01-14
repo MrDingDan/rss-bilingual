@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 14:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:44:08 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -558,6 +558,78 @@ Original:
 For the last week or so, the Gemini 3 flash latency just became ridiculous - API requests that would take seconds now take over 5 minutes. I've tried to use minimal thinking level but that doesn't really help. Does anyone else have this problem? Did anything change with their infrastructure or w/e? submitted by /u/imso3k [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcmbdj</guid>
       <pubDate>Wed, 14 Jan 2026 12:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3 Pro——那个舔舐蜡笔零食窗口的家伙 / Gemini 3 Pro - The Crayon snacking window licker</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcq930/gemini_3_pro_the_crayon_snacking_window_licker/</link>
+      <description>还有人觉得Gemini在处理现实任务时简直无可救药吗？https://preview.redd.it/uyugtpg53cdg1.png?width=1589&amp;format=png&amp;auto=webp&amp;s=ae442a26258f33287d9cccdc4cf5ef7313d37833 上面是一个编程示例……但说实话，我发现它在所有事情上都差不多。对于非编程人员来说——我们写代码是给机器看的。为了帮助我们（人类）理解代码，我们会写注释，通常像这样，以便我们或未来的开发者只需阅读注释就能理解代码：# 我们从用户磁盘加载图像文件。而Gemini只会胡编乱造些废话塞进代码里，尽管谷歌一直在吹嘘那惊人的100万token上下文窗口……Gemini简直是……
+
+---
+
+Original:
+Does anyone else find that Gemini is just hopeless at real world tasks? https://preview.redd.it/uyugtpg53cdg1.png?width=1589&amp;format=png&amp;auto=webp&amp;s=ae442a26258f33287d9cccdc4cf5ef7313d37833 The above is a coding example.. but I have to be honest, I find it similar for everything. For any none coders - when we write code, it is for the machine. To help us (people) understand the code, we write comments, normally things like this so that us/a future dev can understand the code just by reading a comment: # We load up an image file from the user's disk Gemini will just hallucinate gibberish into the code, and while Google keep going on about the amazing 1m token context window.. Gemini is absolut…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcq930</guid>
+      <pubDate>Wed, 14 Jan 2026 15:30:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>爆料：谷歌正测试新版首页界面，Build版块模型选择器将新增思考强度选项 / LEAK: Google is testing a New homepage UI &amp; Model selector on Build section will get a new Thinking effort (Option)</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcqlka/leak_google_is_testing_a_new_homepage_ui_model/</link>
+      <description>图1：谷歌正在AI Studio上测试“通过Gemini实现从提示到生产的最快路径”。新版首页界面提供聊天、构建和API密钥创建等多种选项。图2：Build版块的模型选择器也将新增思考强度选择。信息由早期Beta测试者（Gemini）分享，由/u/BuildwithVignesh提交。
+
+---
+
+Original:
+Image-1: Google is testing "The fastest path from prompt to production with Gemini" on AI Studio. A new homepage UI to select from various options like Chat, Build and API Key creation. Image-2: Model selector on the Build section will get a new Thinking effort selection, too. Shared by early Beta Testers(Gemini) submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcqlka</guid>
+      <pubDate>Wed, 14 Jan 2026 15:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini（双子座）推出个人智能功能 / Gemini introduces Personal Intelligence</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcs94z/gemini_introduces_personal_intelligence/</link>
+      <description>由用户 /u/Gaiden206 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcs94z</guid>
+      <pubDate>Wed, 14 Jan 2026 16:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌Gemini个人智能功能发布更新 / Google Gemini Personal Intelligence Feature Launch Update</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcstm9/google_gemini_personal_intelligence_feature/</link>
+      <description>由 /u/techspecsmart 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/techspecsmart [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcstm9</guid>
+      <pubDate>Wed, 14 Jan 2026 17:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork月费100美元。我用Gemini 3打造了开源版，因为价格很重要，Gemini CLI自带原生PTY，而且上下文窗口才是王道。 / Claude Cowork is $100/mo. I built the Open Source version on Gemini 3 because price matters, Gemini CLI has native PTY, and Context Window is King.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qctcnm/claude_cowork_is_100mo_i_built_the_open_source/</link>
+      <description>仓库：https://github.com/Prof-Harita/terminaI 本周Anthropic的“Claude Cowork”发布让所有人兴奋不已。这确实是个很棒的应用场景，但说实话：它每月收费100美元，运行在沙盒环境中，并且在触发速率限制前只提供区区20万token的上下文窗口。在开发TerminaI时，我算了一笔账。系统运维本质上是个上下文问题，而不仅仅是推理问题。如果你想让智能体“审计整个/var/log目录”或“真正遍历一系列测试和输出”，你需要的不是订阅服务，而是海量上下文。Claude Cowork：租金高昂，内存有限。Gemini 3 Flash：200万+token上下文。极其智能。速度惊人。价格亲民。所以我打造了TerminaI。这是一个...
+
+---
+
+Original:
+Repo: https://github.com/Prof-Harita/terminaI Everyone is freaking out about Anthropic's "Claude Cowork" launch this week. It’s a great use case, but let's be real: it costs $100/month, runs in a sandbox, and gives you a tiny 200k context window before it hits rate limits. While building TerminaI, I ran the math. System Operations is a Context Problem, not just a Reasoning problem. If you want an agent to "audit my entire /var/log " or "really iterate through a range of tests and outputs," you don't need a subscription. You need massive context. Claude Cowork: High rent, small memory. Gemini 3 Flash: 2M+ Token Context. Extremely smart. Insane speed. Dirt cheap. So I built TerminaI. It’s a So…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qctcnm</guid>
+      <pubDate>Wed, 14 Jan 2026 17:24:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>这一切始于190KB的纯文本。如果让我自己在最冷门的角落寻找合适的库，真不知道要花多长时间。 / This started with 190 kB of plain text. I don't know how long this would have taken if I had to track down the right libraries myself in the smallest niches.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qctsw3/this_started_with_190_kb_of_plain_text_i_dont/</link>
+      <description>由 /u/gsurfer04 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/gsurfer04 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qctsw3</guid>
+      <pubDate>Wed, 14 Jan 2026 17:40:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
