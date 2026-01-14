@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:29:52 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1039,6 +1039,18 @@ Original:
 From Wharton professor Ethan Mollick on X submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qctk1o</guid>
       <pubDate>Wed, 14 Jan 2026 17:31:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code V2 完全指南：CLAUDE.md、MCP、命令、技能与钩子——根据您的反馈更新 / The Complete Guide to Claude Code V2: CLAUDE.md, MCP, Commands, Skills &amp; Hooks — Updated Based on Your Feedback</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcwckg/the_complete_guide_to_claude_code_v2_claudemd_mcp/</link>
+      <description>Claude Code V2 完全指南：全局 CLAUDE.md、MCP 服务器、命令、技能、钩子，以及为何单一用途聊天很重要 🎉 根据社区反馈更新。这是之前爆火指南的 V2 版本。衷心感谢 u/headset38、u/tulensrma、u/jcheroske 以及所有评论者。你们指出 CLAUDE.md 规则只是 Claude 可能忽略的建议——你们是对的。此版本新增了第 7 部分：技能与钩子，涵盖了强制执行层。V2 的新内容：- 第 7 部分：技能与钩子——对行为建议的确定性强制执行 - 附带即用模板、钩子和技能的 GitHub 仓库。TL;DR：您的全局 ~/.claude/CLAUDE.md 是一个安全守门员，可防止安全…
+
+---
+
+Original:
+The Complete Guide to Claude Code V2: Global CLAUDE.md, MCP Servers, Commands, Skills, Hooks, and Why Single-Purpose Chats Matter 🎉 Updated Based on Community Feedback This is V2 of the guide that went viral. Huge thanks to u/headset38 , u/tulensrma , u/jcheroske , and everyone who commented. You pointed out that CLAUDE.md rules are suggestions Claude can ignore — and you were right. This version adds Part 7: Skills &amp; Hooks covering the enforcement layer. What's new in V2: - Part 7: Skills &amp; Hooks — deterministic enforcement over behavioral suggestion - GitHub repo with ready-to-use templates, hooks, and skills TL;DR: Your global ~/.claude/CLAUDE.md is a security gatekeeper that prevents sec…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcwckg</guid>
+      <pubDate>Wed, 14 Jan 2026 19:11:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

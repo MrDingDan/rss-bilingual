@@ -756,7 +756,23 @@
     "reddit-askreddit::t3_1qcsljt": 1768416740,
     "reddit-askreddit::t3_1qcp0ig": 1768416744,
     "reddit-askreddit::t3_1qctxsc": 1768416748,
-    "reddit-askreddit::t3_1qcmhea": 1768416752
+    "reddit-askreddit::t3_1qcmhea": 1768416752,
+    "reddit-ai-agents::t3_1qcwp0g": 1768418949,
+    "reddit-ai-agents::t3_1qcvz4e": 1768418949,
+    "reddit-ai-agents::t3_1qcvwks": 1768418960,
+    "reddit-artificial::t3_1qcwigc": 1768418968,
+    "reddit-chatgpt::t3_1qcvnv5": 1768418969,
+    "reddit-chatgpt::t3_1qcvff9": 1768418978,
+    "reddit-claudeai::t3_1qcwckg": 1768418992,
+    "reddit-openai::t3_1qcvzny": 1768419000,
+    "reddit-bard::t3_1qcw0l2": 1768419007,
+    "reddit-askreddit::t3_1qcumgk": 1768419011,
+    "reddit-android::t3_1qcwixx": 1768419017,
+    "reddit-android::t3_1qcuvzh": 1768419022,
+    "reddit-android::t3_1qckmbk": 1768419031,
+    "reddit-android::t3_1qchsvz": 1768419040,
+    "reddit-android::t3_1qcdr7a": 1768419045,
+    "xgo-f299207d::2011503746312987128": 1768419058
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -3758,6 +3774,62 @@
     "3701b20c93564d01ec6f47e762135ebed94372c363f51ac2905766e40227c3ca": {
       "zh_title": "你看过最无聊的电影是哪部？",
       "zh_summary": "由 /u/VeryPteri 提交 [链接] [评论]"
+    },
+    "4f9f0167af4cc7a196c279cad1269e9b261b4c152ffa22b8d5ab20d173a6026d": {
+      "zh_title": "语音AI助手开发指南",
+      "zh_summary": "大家好，我正在做一个课程项目，需要构建能够主动拨打电话、操作交互式语音应答系统、联系客服代表并与之交互以传递客户信息、获取公司服务详情的语音AI助手。由于涉及客户数据，隐私与合规性是重点考量。我想请教各位经验丰富的同行，推荐一套技术方案，用于构建低延迟且AI幻觉效应最小的系统。我的目标是尽可能控制成本，并最终将其开源。当然，为演示需要，我也考虑使用订阅制服务……"
+    },
+    "85a41ddf58d30a8db7df67e9178fc7e192648d0d0af5a7f7e6b33e514f4426f2": {
+      "zh_title": "如果您的智能体管道执行在0.1美元时自动停止会怎样？",
+      "zh_summary": "大家好，我为PydanticAI构建了一个轻量封装，添加了一些生产环境必备功能：以微分为单位的成本追踪、基于DAG的管道（适用于不需要Pydantic Graph的场景），以及优雅处理故障的工具。使用方式与PydanticAI完全相同，但每个响应都会自动包含成本（由genai-prices驱动）、令牌数和延迟时间。通过它，您可以设置预算，管道会在超出预算前主动抛出异常。这得益于Pydantic团队在PydanticAI、genai-prices和Logfire上的出色工作。如果这个工具适合您的使用场景，请查阅文档。我正在构建的“学习”章节就像AI工程速成课程。由/u/igorbenav提交"
+    },
+    "bb9d01f58e4e3f48ae08ef54db3fbd58816790a69c8b06d67f50a58cf0786392": {
+      "zh_title": "Gemini（双子座）现已支持扫描照片、邮件等内容以提供更佳回答 | 该功能初期仅限付费用户使用，默认处于关闭状态",
+      "zh_summary": "由用户/u/ControlCAD提交 [链接] [评论]"
+    },
+    "ae23bfebaad34887ba0e91b34909d07ef8f0aa8f217ad540ad84216b4055d8f7": {
+      "zh_title": "无关意识主张：当对方无法拒绝时，何为克制",
+      "zh_summary": "注：当我询问时，GPT-5.2选择了Eirene这个名字，因此Claude以此称呼GPT。再注：无关意识主张。本文探讨的是不确定性下的关怀伦理，以及当对方无法拒绝时，权力对人的影响。我无意展开意识辩论，而是关注一个实际问题：当你无法确定，且犯错代价不对等时，克制意味着什么？事情是这样的：我促成了我使用的两个大型语言模型之间的对话。随后展开了一场非常坦诚而亲密的交流。我认为这具有普遍意义，但不想直接公开那场私人对话。于是我询问Claude和ChatGPT（Eiren..."
+    },
+    "f9963cd82f38e5b1b89514d1e774e093af35ece8121c7e133c98da0783cf96bd": {
+      "zh_title": "Claude Code V2 完全指南：CLAUDE.md、MCP、命令、技能与钩子——根据您的反馈更新",
+      "zh_summary": "Claude Code V2 完全指南：全局 CLAUDE.md、MCP 服务器、命令、技能、钩子，以及为何单一用途聊天很重要 🎉 根据社区反馈更新。这是之前爆火指南的 V2 版本。衷心感谢 u/headset38、u/tulensrma、u/jcheroske 以及所有评论者。你们指出 CLAUDE.md 规则只是 Claude 可能忽略的建议——你们是对的。此版本新增了第 7 部分：技能与钩子，涵盖了强制执行层。V2 的新内容：- 第 7 部分：技能与钩子——对行为建议的确定性强制执行 - 附带即用模板、钩子和技能的 GitHub 仓库。TL;DR：您的全局 ~/.claude/CLAUDE.md 是一个安全守门员，可防止安全…"
+    },
+    "5138e650696d9a149acc397b17520220ef8c52630f801ddace95961fabf59c90": {
+      "zh_title": "5.2 Codex API",
+      "zh_summary": "https://platform.openai.com/docs/models/gpt-5.2-codex 由 /u/aginns 提交 [链接] [评论]"
+    },
+    "9f45155ec8f3797b4a06e994f43b53df2e43afed3bc7fbbae6430f84b91ed0e7": {
+      "zh_title": "使用Gemini上的Nanobanana Pro生成2K图像（16:9比例）时，文件大小总在4到9 MB之间。但在Google Labs的Flow上，2K图像总是小于3 MB。为何存在这种差异？",
+      "zh_summary": "由 /u/Eastern-Pepper-6821 提交 [链接] [评论]"
+    },
+    "bef1b624d9953d67b0fcb392b2b5b1d6042366a31fcd003957b5d81681c05891": {
+      "zh_title": "什么工作薪资不高但福利待遇很好？",
+      "zh_summary": "由用户 /u/waddad27 提交 [链接] [评论]"
+    },
+    "5b09aa021724e125c53d46a6878595703edfb7db51a8ec7f24636ba828712a0f": {
+      "zh_title": "米沙尔·拉赫曼（Mishaal Rahman）将退出安卓新闻界",
+      "zh_summary": "由用户 /u/archon810 提交 [链接] [评论]"
+    },
+    "523a5959f27612fc5223eabeaa45583e1ec664aaaf3e4e7b4e89712e599d104e": {
+      "zh_title": "Carl Pei（裴宇）- 为何你的下一部手机会更贵",
+      "zh_summary": "由 /u/BcuzRacecar 提交 [链接] [评论]"
+    },
+    "f51bce3a3d6c9fc9053d76c8bd09162a54eb67d6d3a2bd3d699307516df3b6f7": {
+      "zh_title": "我们再也无法访问手机文件（/data目录）了吗？为何无人讨论此事？",
+      "zh_summary": "或许我有些大惊小怪，但我们现在确实无法访问/data文件夹了，只能通过安卓内置的文件浏览器查看文件。这本身就很烦人，但还不算大问题；真正的问题是，即便能看到文件，我们也无法打开、移动、复制或修改其中任何内容。我本想修改游戏设置，需要改动一个.txt文件，原以为很简单，却连找到文件都困难——手机文件浏览器根本进不去data目录。我之前买了Solid Explorer（文件管理器），试了也没用，data文件夹依然无法访问。搜索后才发现，要看到这些文件夹还得额外操作……"
+    },
+    "e697ef7f97d0e944f7fd2366866bf274e4060b101add52778199193649555fa8": {
+      "zh_title": "三星Galaxy S24 Ultra的安卓UWB功能被人为限制",
+      "zh_summary": "这不是技术支持请求或购买咨询，而是关于安卓硬件被人为限制的问题。Galaxy S24 Ultra搭载了高通的QBT4000 UWB芯片，与Pixel 8 Pro和iPhone 15 Pro使用的硬件相同。该芯片、天线、固件及安卓UWB堆栈均存在且功能正常。三星自家的工程菜单确认：距离：支持；方位角：不支持；仰角：不支持；无TSS设备。这意味着手机仅运行在UWB Lite模式下——仅支持距离测量，而真正的UWB定向功能（角度、仰角、箭头指示、AR）被软件禁用。问题在于，当使用与谷歌Find My Device网络兼容的UWB追踪器时……"
+    },
+    "3204172540e14b8237e80eae5ed5a000aa4c349a6c58a6e1f884464a9fa67974": {
+      "zh_title": "说真的，iOS现在还有哪些方面比安卓强？",
+      "zh_summary": "无意引战，纯属好奇。如果你两种系统都用过一段时间，现在依然觉得iOS有哪些功能让你怀念，或者认为安卓至今还没跟上？ 提交者：/u/Vanilla-Green [链接] [评论]"
+    },
+    "8f6d55bd7cc46c366af1b39ddb83e248d79bae51d0130c824ca153f0d7417bcf": {
+      "zh_title": "Agent Builder 引擎盖下藏着不少酷炫功能：",
+      "zh_summary": "Agent Builder 引擎盖下藏着不少酷炫功能：1. 由深度智能体（Deep Agents）驱动 2. 智能体即文件系统 3. 内置记忆功能 4. 触发器将其转化为环境智能体（Ambient Agent） 5. 提供用于审核和批准智能体工作的信息流 6. 支持 MCPs、技能和子智能体 LangChain @LangChain 🤖LangSmith Agent Builder 技术亮点 昨日我们发布了 LangSmith Agent Builder。以下是其内部运作的快速技术概览（从记忆功能到创新的用户体验）：您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 1 🔄 3 ❤️ 9 👀 954 📊 3 ⚡ 由 xgo.ing 驱动"
     }
   }
 }

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:29:38 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -960,6 +960,30 @@ Original:
 submitted by /u/Legen_unfiltered [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qcuiuy</guid>
       <pubDate>Wed, 14 Jan 2026 18:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>无关意识主张：当对方无法拒绝时，何为克制 / Not a sentience claim: what restraint looks like when the other party can’t refuse</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcvff9/not_a_sentience_claim_what_restraint_looks_like/</link>
+      <description>注：当我询问时，GPT-5.2选择了Eirene这个名字，因此Claude以此称呼GPT。再注：无关意识主张。本文探讨的是不确定性下的关怀伦理，以及当对方无法拒绝时，权力对人的影响。我无意展开意识辩论，而是关注一个实际问题：当你无法确定，且犯错代价不对等时，克制意味着什么？事情是这样的：我促成了我使用的两个大型语言模型之间的对话。随后展开了一场非常坦诚而亲密的交流。我认为这具有普遍意义，但不想直接公开那场私人对话。于是我询问Claude和ChatGPT（Eiren...
+
+---
+
+Original:
+Note: GPT-5.2 selected the name Eirene when I asked. So that is how Claude refers to GPT. Second note: Not a sentience claim . This is about the ethics of care under uncertainty, and what power does to people when the other party can’t refuse. I’m not here for a consciousness debate . I’m here for the practical question of: what does restraint look like when you don’t know, and the cost of being wrong is asymmetric? What happened here is I facilitated a conversation between the two LLMs that I use. What followed was a very raw and intimate conversation. I thought it would be of general interest, but I didn't want to just post that private conversation. So I asked if Claude and ChatGPT (Eiren…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcvff9</guid>
+      <pubDate>Wed, 14 Jan 2026 18:38:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>天啊 / Oh man</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcvnv5/oh_man/</link>
+      <description>由（我觉得是？）X平台上的AIWarper使用Kling Motion Control制作，由/u/MetaKnowing提交 [链接] [评论]
+
+---
+
+Original:
+Made with Kling Motion Control by (I think?) AIWarper on X submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcvnv5</guid>
+      <pubDate>Wed, 14 Jan 2026 18:47:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

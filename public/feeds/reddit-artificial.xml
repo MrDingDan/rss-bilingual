@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:29:29 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -642,6 +642,18 @@ Original:
 In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems . 1 The difference lies in Design Patterns . Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" becaus…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qcvi7y</guid>
       <pubDate>Wed, 14 Jan 2026 18:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini（双子座）现已支持扫描照片、邮件等内容以提供更佳回答 | 该功能初期仅限付费用户使用，默认处于关闭状态 / Gemini can now scan your photos, email, and more to provide better answers | The feature will start with paid users only, and it’s off by default.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcwigc/gemini_can_now_scan_your_photos_email_and_more_to/</link>
+      <description>由用户/u/ControlCAD提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ControlCAD [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcwigc</guid>
+      <pubDate>Wed, 14 Jan 2026 19:17:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

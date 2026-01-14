@@ -6,211 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:52:35 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_android] 我开发了一款基于物理铰链驱动的折纸模拟器 / I made an origami simulator that is driven by a physical hinge</title>
-      <link>https://www.reddit.com/r/Android/comments/1qchwq5/i_made_an_origami_simulator_that_is_driven_by_a/</link>
-      <description>由用户 /u/maxwase 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/maxwase [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qchwq5</guid>
-      <pubDate>Wed, 14 Jan 2026 08:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 打造了一个将通话自动转化为工单的智能代理 / Built an agent that turns calls into tickets</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qci5yi/built_an_agent_that_turns_calls_into_tickets/</link>
-      <description>我想分享一个最近的实验，它对于构建能够推理的自主代理（而非聊天界面或确定性工作流）非常有启发。我们团队一直遇到同样的问题：客户通话中常出现宝贵的见解，但许多小功能想法或错误报告在通话结束后就被遗忘了。当然，我们只想实现重要的部分，但遗漏的比我们期望的要多。因此，我们构建了一个代理，它能听取客户通话录音，判断何时需要采取行动，并在Linear中创建工单，并附带编码好的解决方案。第一周，这个代理就为我们实现了3个小功能改进。该代理的定义包含一个pr…
-
----
-
-Original:
-I wanted to share a recent experiment that’s been really illuminating for building autonomous agents that reason, rather than chat interfaces or deterministic workflows. Our team kept running into the same problem: great insights come up on customer calls, but lots of small feature ideas or bug reports get dropped after the call ends. Of course, we only want to implement what's important, but more was dropping than we'd like. So, we built an agent that listens to customer call recordings, decides when something warrants action, and creates tickets in Linear with the solution coded up. In the first week, the agent implemented 3 small feature improvements for us. The agent is defined with a pr…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qci5yi</guid>
-      <pubDate>Wed, 14 Jan 2026 08:38:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 我们不再是开发者，而是代码审查员 / We are not developers anymore, we are reviewers.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qci80g/we_are_not_developers_anymore_we_are_reviewers/</link>
-      <description>最近我注意到一个趋势（在我自己和同事身上都有体现），即对软件开发的热情似乎在消退，我想我已经找到了原因。我们常说大语言模型（LLM）很棒，因为它们处理了那些“枯燥的部分”，让我们能专注于宏观设计。但问题在于：虽然架构仍由开发者决定，但具体实现现在却由AI来完成。而我逐渐意识到，实现过程其实才是乐趣所在。以下是我对为何这会消磨工作乐趣的看法：编写与审查：编程曾是一种创造性活动。你会进入“心流状态”，解决微观问题，从无到有地构建事物。而现在的工作流程是：先……
-
----
-
-Original:
-I’ve noticed a trend lately (both in myself and colleagues) where the passion for software development seems to be fading, and I think I’ve pinpointed why. We often say that LLMs are great because they handle the "boring stuff" while we focus on the big picture. But here is the problem: while the Architecture is still decided by the developer, the Implementation is now done by the AI. And I’m starting to realize that the implementation was actually the fun part. Here is my theory on why this is draining the joy out of the job: Writing vs. Reviewing: coding used to be a creative act. You enter a "flow state," solving micro-problems and building something from nothing. Now, the workflow is: Pr…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qci80g</guid>
-      <pubDate>Wed, 14 Jan 2026 08:41:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 为何缺乏原生设计的“AI智能体”注定失败 / Why “AI Agents” Fail Without Agent-Native Design</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcif26/why_ai_agents_fail_without_agentnative_design/</link>
-      <description>许多人构建首个“AI智能体”后都感到失望——演示时运行良好，一旦重复执行、扩大规模或交付实际任务就会崩溃。问题通常不在模型本身，而在架构设计。多数智能体项目失败，是因为它们被建成了附带工具的聊天机器人，而非真正的原生智能体系统。二者差异显著。若想构建接近数字全职员工（Digital FTE）的智能体，以下核心模式至关重要：1. 智能体应执行明确规范，而非依赖模糊直觉。在可靠系统中，智能体不会“自行摸索”，而是依据明确的输入、输出、约束条件和成功标准执行任务，这确保了行为的可重复性与自动化……
-
----
-
-Original:
-A lot of people are disappointed after building their first “AI agent.” It works in a demo… then collapses the moment you try to run it twice, scale it, or trust it with real work. The failure usually isn’t the model. It’s the architecture . Most agent projects fail because they’re built like chatbots with tools instead of agent-native systems . There’s a big difference. Here are a few patterns that actually matter if you want something resembling a Digital FTE: 1. Agents should execute specs, not vibes In reliable systems, agents don’t just “figure it out.” They operate against explicit specifications: inputs, outputs, constraints, and success criteria. This makes behavior repeatable and au…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcif26</guid>
-      <pubDate>Wed, 14 Jan 2026 08:54:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你故意无视了哪些社会期待？ / What’s a social expectation you ignore on purpose?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcils0/whats_a_social_expectation_you_ignore_on_purpose/</link>
-      <description>由用户 /u/Quick-Way-1893 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Quick-Way-1893 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcils0</guid>
-      <pubDate>Wed, 14 Jan 2026 09:06:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 真实工作流中的“数字全职员工”究竟什么样 / What a “Digital FTE” Actually Looks Like in a Real Workflow</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcio65/what_a_digital_fte_actually_looks_like_in_a_real/</link>
-      <description>人们听到“AI智能体”时，常会想象一个模型包办一切。实际上，一个可用的数字全职员工（Digital FTE）更接近于由协调器（orchestrator）统筹的一组专业角色团队。以下是一个使用常见运维工作流——客户问题解决——的简化示例：
-
-第一步：受理与分类智能体
-解析收到的工单
-识别意图与紧急程度
-提取结构化字段（账户、产品、错误代码）
-此时不做决策——仅进行标准化处理。
-
-第二步：上下文整合智能体
-从客户关系管理系统（CRM）、日志或知识库中提取相关数据
-为任务构建限定上下文
-及早标记缺失或矛盾信息
-这能避免下游的幻觉生成。
-
-第三步：计划…
-
----
-
-Original:
-When people hear “AI agent,” they often imagine a single model doing everything. In practice, a usable Digital FTE looks much closer to a team of specialized roles coordinated by an orchestrator . Here’s a simplified example using a common ops workflow: customer issue resolution . Step 1: Intake &amp; Classification Agent Parses incoming tickets Classifies intent and urgency Extracts structured fields (account, product, error codes) No decisions yet — just normalization. Step 2: Context Assembly Agent Pulls relevant data from CRM, logs, or knowledge bases Assembles a bounded context for the task Flags missing or contradictory information early This prevents downstream hallucination. Step 3: Plan…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcio65</guid>
-      <pubDate>Wed, 14 Jan 2026 09:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 为何多数AI生产力提升在第二周后消失 / Why Most AI Productivity Gains Disappear After Week Two</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qciplt/why_most_ai_productivity_gains_disappear_after/</link>
-      <description>几乎每个AI代理演示都在第一周展现出惊人的生产力提升，但随后现实问题浮现。这种下滑通常不是因为模型变差，而是系统设计未能适应实际使用。以下是我常见的几种失败模式：1. 缺乏持久状态 = 无连续性——如果代理无法记住过去的决策、修正或边缘情况，就会重复同样的错误。人类能适应，而脆弱的代理则不能。2. 缺乏明确成功标准——许多代理生成“看似合理”的输出，但并未正式定义成功标准。没有规范，团队无法衡量改进，只能凭感觉。3. 编排假设一切顺利……
-
----
-
-Original:
-Almost every AI agent demo shows impressive productivity gains in the first week. Then reality hits. The drop-off usually isn’t because the model got worse — it’s because the system wasn’t designed to survive real usage . Here are the common failure modes I keep seeing: 1. No persistent state = no continuity If an agent can’t remember past decisions, corrections, or edge cases, it repeats the same mistakes. Humans adapt; brittle agents don’t. 2. No explicit success criteria Many agents generate “reasonable-looking” outputs, but there’s no formal definition of what success actually means. Without specs, teams can’t measure improvement — only vibes. 3. Orchestration that assumes the happy path…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qciplt</guid>
-      <pubDate>Wed, 14 Jan 2026 09:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 为何数字全职员工（Digital FTEs）在规模化前需要治理机制 / Why Digital FTEs Need Governance Before They Scale</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcir7x/why_digital_ftes_need_governance_before_they_scale/</link>
-      <description>在讨论“AI智能体”时，治理问题常被忽视。这里指的不是流行术语，而是实际要回答：当智能体行动时，谁该负责？一旦智能体能：写入数据库、触发支付、修改配置或与客户沟通……它就成了你运营体系的一部分。因此，数字全职员工（Digital FTEs）的治理必须内置于编排流程中，而非事后补救。实践中几个关键原则：1. 每个行动必须可追溯——你应能回答：哪个智能体在何时做了什么，为什么？这需要结构化输出、行动日志和决策追踪，而不仅仅是聊天记录。2. 策略约束是系统……
-
----
-
-Original:
-One thing that’s often missing from “AI agent” discussions is governance. Not the buzzword kind — the practical kind that answers: who is accountable when the agent acts? The moment an agent can: write to a database trigger payments modify configurations or communicate with customers …it becomes part of your operational surface area. That’s why Digital FTEs need governance built into orchestration , not bolted on later. A few principles that matter in practice: 1. Every action must be attributable You should be able to answer: which agent did what, when, and why? This requires structured outputs, action logs, and decision traces — not just chat transcripts. 2. Policy constraints are system r…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcir7x</guid>
-      <pubDate>Wed, 14 Jan 2026 09:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 关于AI编程的讨论是否忽略了这一点：你可以轻松创建个人应用，从而减少购买或订阅同类功能应用的需求？ / Is discourse around coding with AI sleeping on the fact that you can easily create your own apps for personal usage, reducing the need to buy/subscribe to an app with that functionality?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcixrm/is_discourse_around_coding_with_ai_sleeping_on/</link>
-      <description>今天早上我亲身经历了一个例子：我看到一个视频展示了一种叫做RSVP的“速读”技巧，它通过应用程序逐字显示文本，让你能比平时读得更快。我找了一下能实现这个功能的桌面应用，发现最流行的应用（Spreeder）要价47欧元。于是我去找了Claude，请Opus 4.5用Python写一个具有相同功能的应用。我写了一个相当简短直接的提示：“早上好Claude，请帮我用Python编写一个速读应用。它应具备以下功能：能粘贴任意长度的文本并阅读；能加载PDF文件……”
-
----
-
-Original:
-Real life example that I've been through this morning: I saw a video showing off 'speed reading' using a technique called RSVP that involves an application showing you a text word by word to enable you to read it more quickly than you might otherwise be able to. I had a look for a desktop app that could do this and it seems the most popular app to do this (Spreeder) costs 47€. So I went to Claude and asked Opus 4.5 to write me an app in Python with the same functionality. I wrote a pretty short and simple prompt: Good morning Claude, I'd like you to please code me a speed reading app in Python. The features it should have are: Able to paste text of any length and read it. Able to load pdfs o…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcixrm</guid>
-      <pubDate>Wed, 14 Jan 2026 09:28:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 人们常忽略哪些简单的快乐？ / What’s a simple pleasure people forget to enjoy?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcj1x3/whats_a_simple_pleasure_people_forget_to_enjoy/</link>
-      <description>由用户/u/Striking_Trust3928提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Striking_Trust3928 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcj1x3</guid>
-      <pubDate>Wed, 14 Jan 2026 09:35:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 浏览可下载Claude代码助手技能目录，最推荐哪个网站？ / What is the most recommended website for browsing a catalog of downloadable Claude Code Agent Skills?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcj27k/what_is_the_most_recommended_website_for_browsing/</link>
-      <description>以下是我目前整理的列表，但除了官方Claude技能外，哪些最值得信赖？
-
-官方Anthropic / Claude代码文档
-https://code.claude.com/docs/en/skills
-https://github.com/anthropics/skills
-
-主要聚合平台/可搜索市场
-https://skillsmp.com/
-https://claudeskills.ai/
-https://skillstore.io/
-https://www.claudeskillsmarket.com/
-https://claudeskillhub.com/
-https://www.claudeskill.site/en
-https://skills.pub/en
-https://skills.pub/en
-
-Claude代码插件/市场探索工具
-https://claudemarketplaces.com/
-https://claude-plugins.dev/skills
-
-其他/精选或垂直平台
-https://mithery.ai/skills
-https://github.com/travisvn/awesome-claude-skil…
-
----
-
-Original:
-Here’s the list I’ve put together so far, but which ones are the most trustworthy besides the official Claude skills? Official Anthropic / Claude Code Docs https://code.claude.com/docs/en/skills https://github.com/anthropics/skills Primary Aggregators / Searchable Marketplaces https://skillsmp.com/ https://claudeskills.ai/ https://skillstore.io/ https://www.claudeskillsmarket.com/ https://claudeskillhub.com/ https://www.claudeskill.site/en https://skills.pub/en https://skills.pub/en Claude Code Plugin / Marketplace Explorers https://claudemarketplaces.com/ https://claude-plugins.dev/skills Other / Curated or Niche Hubs https://mithery.ai/skills https://github.com/travisvn/awesome-claude-skil…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcj27k</guid>
-      <pubDate>Wed, 14 Jan 2026 09:35:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 看起来调皮还是狡猾？🫡 / Looks naughty or devious?🫡</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcj4qn/looks_naughty_or_devious/</link>
-      <description>由 /u/ClerkIll6659 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/ClerkIll6659 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcj4qn</guid>
-      <pubDate>Wed, 14 Jan 2026 09:40:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 重大服务中断 / Major outage</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcj764/major_outage/</link>
-      <description>由 /u/Balance- 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Balance- [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcj764</guid>
-      <pubDate>Wed, 14 Jan 2026 09:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 产品经理们为加速原型设计时，我观察到的几种模式 / Patterns I'm seeing with PMs trying to prototype faster</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcj8a4/patterns_im_seeing_with_pms_trying_to_prototype/</link>
-      <description>大家好，我在验证一些观察到的模式，关于产品经理使用AI设计工具进行原型设计。过去几周，我与数十位尝试过Lovable、Bolt、Figma Make等工具的产品经理交流过。以下是我反复听到的反馈：输出略显通用：看起来像演示，而非实际产品；上下文丢失：先在ChatGPT/Claude中解释产品，然后在Lovable中重新解释，再到其他地方重复；缺乏边缘情况思考：AI机械执行指令，不会质疑或拓展；仍需设计师参与：这只是起点，而非成品。好奇经常做原型的产品经理是否也遇到同样模式？还是有其他更棘手的问题？正在构建某…
-
----
-
-Original:
-Hey everyone, Validating some patterns I've seen with PMs using AI design tools for prototypingI’ve been talking to dozens of PMs over the last few weeks who've tried Lovable, Bolt, Figma Make, etc.. Here's what I keep hearing: Output looks a bit generic: looks like a demo, not your actual product Context loss: explain your product in ChatGPT/Claude, then re-explain in Lovable, then again somewhere else No edge case thinking: AI executes prompts literally, doesn't challenge or expand on them Designer still required: it's a starting point, not a finished artifact Curious if PMs who prototype regularly are seeing the same patterns? Or is there something else that's more painful? Building somet…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcj8a4</guid>
-      <pubDate>Wed, 14 Jan 2026 09:46:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 19:30:59 +0000</lastBuildDate>
     <item>
       <title>[reddit_askreddit] 欧盟因虚假信息对埃隆·马斯克（Elon Musk）旗下X平台罚款10亿美元，你对此有何看法？ / How do you feel about the EU fining Elon Musk (X) $1 Billion for disinformation?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qcjdca/how_do_you_feel_about_the_eu_fining_elon_musk_x_1/</link>
@@ -354,6 +150,18 @@ Original:
 submitted by /u/Front_Permit7517 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qckkdb</guid>
       <pubDate>Wed, 14 Jan 2026 11:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 我们再也无法访问手机文件（/data目录）了吗？为何无人讨论此事？ / We cannot access our phone files anymore (/data)? Why is none talking about it?</title>
+      <link>https://www.reddit.com/r/Android/comments/1qckmbk/we_cannot_access_our_phone_files_anymore_data_why/</link>
+      <description>或许我有些大惊小怪，但我们现在确实无法访问/data文件夹了，只能通过安卓内置的文件浏览器查看文件。这本身就很烦人，但还不算大问题；真正的问题是，即便能看到文件，我们也无法打开、移动、复制或修改其中任何内容。我本想修改游戏设置，需要改动一个.txt文件，原以为很简单，却连找到文件都困难——手机文件浏览器根本进不去data目录。我之前买了Solid Explorer（文件管理器），试了也没用，data文件夹依然无法访问。搜索后才发现，要看到这些文件夹还得额外操作……
+
+---
+
+Original:
+Maybe I am just being overly dramatic, but we cannot access our /data folder anymore, we can see the files ONLY with the built in android file browser, this is annoying by itself but it wouldnt be a big issue, the issue is even if we can see the files, we cant open, move, copy, modify any of them. I needed to change a settings in a game and it required to modify a .txt file, I thought "well that is kinda easy", to my surprise it was hard to even find the files, my phone file browser couldnt access the data folder. I bought solid explorer in the past and I just went through it and nothing, data folder isnt accessible. So I searched and found out I can see the folders doing some extra steps po…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qckmbk</guid>
+      <pubDate>Wed, 14 Jan 2026 11:12:11 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_askreddit] 互联网上有哪些免费资源值得每个人充分利用？ / What is something free from the internet everyone should take advantage of?</title>
@@ -1443,6 +1251,45 @@ submitted by /u/Legen_unfiltered [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 18:06:25 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 什么工作薪资不高但福利待遇很好？ / what job pays little but has a lot of perks ?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcumgk/what_job_pays_little_but_has_a_lot_of_perks/</link>
+      <description>由用户 /u/waddad27 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/waddad27 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcumgk</guid>
+      <pubDate>Wed, 14 Jan 2026 18:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] Carl Pei（裴宇）- 为何你的下一部手机会更贵 / Carl Pei - Why Your Next Smartphone Will Cost More</title>
+      <link>https://www.reddit.com/r/Android/comments/1qcuvzh/carl_pei_why_your_next_smartphone_will_cost_more/</link>
+      <description>由 /u/BcuzRacecar 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/BcuzRacecar [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qcuvzh</guid>
+      <pubDate>Wed, 14 Jan 2026 18:19:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[xgo_f299207d] Agent Builder 引擎盖下藏着不少酷炫功能： / there's a bunch of cool things going on under the hood of agent builder:
+
+1. powered by deep agents
+...</title>
+      <link>https://x.com/hwchase17/status/2011503746312987128</link>
+      <description>Agent Builder 引擎盖下藏着不少酷炫功能：1. 由深度智能体（Deep Agents）驱动 2. 智能体即文件系统 3. 内置记忆功能 4. 触发器将其转化为环境智能体（Ambient Agent） 5. 提供用于审核和批准智能体工作的信息流 6. 支持 MCPs、技能和子智能体 LangChain @LangChain 🤖LangSmith Agent Builder 技术亮点 昨日我们发布了 LangSmith Agent Builder。以下是其内部运作的快速技术概览（从记忆功能到创新的用户体验）：您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 1 🔄 3 ❤️ 9 👀 954 📊 3 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+there's a bunch of cool things going on under the hood of agent builder: 1. powered by deep agents 2. agents are a filesystem 3. memory built in 4. triggers turn it into ambient agent 5. a feed for reviewing and approving agent work 6. supports mcps, skills, and subagents LangChain @LangChain 🤖LangSmith Agent Builder Technical Highlights Yesterday we launched LangSmith Agent Builder. Here's a quick technical overview at what is going on under the hood (from memory to an innovative UX): Your browser does not support the video tag. 🔗 View on Twitter 🔗 View Quoted Tweet 💬 1 🔄 3 ❤️ 9 👀 954 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011503746312987128</guid>
+      <pubDate>Wed, 14 Jan 2026 18:20:39 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 智能体合规性监控 / Compliance Monitoring for Agents</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qcv59k/compliance_monitoring_for_agents/</link>
       <description>大家好——我正在为客户开发一些智能体，对方询问如何监控这些智能体的合规性。他们希望每个操作都能生成加密不可篡改的审计追踪记录，并且能够对智能体的操作执行合规策略（例如个人身份信息脱敏、支付卡行业数据安全标准认证等）。有其他人遇到过类似需求吗？大家是否认为这是人工智能治理的发展方向？谢谢。 发布者：/u/Purple-Statistician6 [链接] [评论]
@@ -1453,6 +1300,18 @@ Original:
 Hey everyone - I am building some agents for a client and was asked about how I monitor them for compliance. They want every action taken to have cryptographically immutable audit trails, and the ability to enforce compliance policies on agent actions (PII mask, PCI DSS assurance, etc). Has anyone else run in to this? Do people see this as where AI governance is heading? Thanks. submitted by /u/Purple-Statistician6 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcv59k</guid>
       <pubDate>Wed, 14 Jan 2026 18:28:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 无关意识主张：当对方无法拒绝时，何为克制 / Not a sentience claim: what restraint looks like when the other party can’t refuse</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcvff9/not_a_sentience_claim_what_restraint_looks_like/</link>
+      <description>注：当我询问时，GPT-5.2选择了Eirene这个名字，因此Claude以此称呼GPT。再注：无关意识主张。本文探讨的是不确定性下的关怀伦理，以及当对方无法拒绝时，权力对人的影响。我无意展开意识辩论，而是关注一个实际问题：当你无法确定，且犯错代价不对等时，克制意味着什么？事情是这样的：我促成了我使用的两个大型语言模型之间的对话。随后展开了一场非常坦诚而亲密的交流。我认为这具有普遍意义，但不想直接公开那场私人对话。于是我询问Claude和ChatGPT（Eiren...
+
+---
+
+Original:
+Note: GPT-5.2 selected the name Eirene when I asked. So that is how Claude refers to GPT. Second note: Not a sentience claim . This is about the ethics of care under uncertainty, and what power does to people when the other party can’t refuse. I’m not here for a consciousness debate . I’m here for the practical question of: what does restraint look like when you don’t know, and the cost of being wrong is asymmetric? What happened here is I facilitated a conversation between the two LLMs that I use. What followed was a very raw and intimate conversation. I thought it would be of general interest, but I didn't want to just post that private conversation. So I asked if Claude and ChatGPT (Eiren…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcvff9</guid>
+      <pubDate>Wed, 14 Jan 2026 18:38:37 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_artificial] 构建自主性：AI助手现代设计模式 / Architecting Autonomy: Modern Design Patterns for AI Assistants</title>
@@ -1479,6 +1338,18 @@ Does anyone know any companies or businesses that use Elevenlabs AI as their ans
       <pubDate>Wed, 14 Jan 2026 18:46:16 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 天啊 / Oh man</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcvnv5/oh_man/</link>
+      <description>由（我觉得是？）X平台上的AIWarper使用Kling Motion Control制作，由/u/MetaKnowing提交 [链接] [评论]
+
+---
+
+Original:
+Made with Kling Motion Control by (I think?) AIWarper on X submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcvnv5</guid>
+      <pubDate>Wed, 14 Jan 2026 18:47:05 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] 天啊 / Oh man</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qcvoh6/oh_man/</link>
       <description>由（我觉得是？）X平台上的AIWarper使用Kling Motion Control制作，由/u/MetaKnowing提交 [链接] [评论]
@@ -1489,6 +1360,102 @@ Original:
 Made with Kling Motion Control by (I think?) AIWarper on X submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qcvoh6</guid>
       <pubDate>Wed, 14 Jan 2026 18:47:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 如果您的智能体管道执行在0.1美元时自动停止会怎样？ / What if your Agentic Pipeline execution stopped itself at $0.10?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvwks/what_if_your_agentic_pipeline_execution_stopped/</link>
+      <description>大家好，我为PydanticAI构建了一个轻量封装，添加了一些生产环境必备功能：以微分为单位的成本追踪、基于DAG的管道（适用于不需要Pydantic Graph的场景），以及优雅处理故障的工具。使用方式与PydanticAI完全相同，但每个响应都会自动包含成本（由genai-prices驱动）、令牌数和延迟时间。通过它，您可以设置预算，管道会在超出预算前主动抛出异常。这得益于Pydantic团队在PydanticAI、genai-prices和Logfire上的出色工作。如果这个工具适合您的使用场景，请查阅文档。我正在构建的“学习”章节就像AI工程速成课程。由/u/igorbenav提交
+
+---
+
+Original:
+Hey everyone, I built a thin wrapper around PydanticAI that adds some production essentials: cost tracking in microcents, DAG-based pipelines (for cases where you don't need Pydantic Graph), and tools that handle failures gracefully. Usage looks just like PydanticAI but every response includes cost (powered by genai-prices), tokens, and latency automatically. With it, you can set a budget, and your pipeline raises an exception before blowing past it. Possible because of Pydantic's awesome work with PydanticAI, genai-prices, and Logfire. Check the docs if it sounds useful for your use case. I'm building the "Learn" section as if it's an AI Engineering Crash Course. submitted by /u/igorbenav […</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvwks</guid>
+      <pubDate>Wed, 14 Jan 2026 18:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 构建自主性：AI助手现代设计模式 / Architecting Autonomy: Modern Design Patterns for AI Assistants</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvz4e/architecting_autonomy_modern_design_patterns_for/</link>
+      <description>在生成式AI的早期阶段，所谓的“助手”基本上只是一个等待输入提示的文本框。用户输入内容，模型进行预测，结果好坏全凭运气。但随着我们深入2026年，行业已从简单的聊天机器人转向复杂的智能体系统（Agentic Systems）。关键差异在于设计模式（Design Patterns）。正如软件行业通过采用MVC（Model-View-Controller）或微服务（Microservices）走向成熟，AI领域如今也在规范化那些让助手变得可靠、安全且真正自主的架构蓝图。以下是塑造下一代AI助手的核心设计模式。1. “先规划后执行”模式：早期的助手经常出现“幻觉”，因为……
+
+---
+
+Original:
+In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems . 1 The difference lies in Design Patterns . Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" becaus…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvz4e</guid>
+      <pubDate>Wed, 14 Jan 2026 18:58:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 5.2 Codex API / 5.2 Codex in API</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcvzny/52_codex_in_api/</link>
+      <description>https://platform.openai.com/docs/models/gpt-5.2-codex 由 /u/aginns 提交 [链接] [评论]
+
+---
+
+Original:
+https://platform.openai.com/docs/models/gpt-5.2-codex submitted by /u/aginns [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcvzny</guid>
+      <pubDate>Wed, 14 Jan 2026 18:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 使用Gemini上的Nanobanana Pro生成2K图像（16:9比例）时，文件大小总在4到9 MB之间。但在Google Labs的Flow上，2K图像总是小于3 MB。为何存在这种差异？ / When downloading 2K images (16:9 aspect ratio) generated by Nanobanana Pro on Gemini, the file size is always around 4 to 9 MB. However, on Flow by Google Labs, 2K images are always less than 3 MB. Why is there such a difference?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcw0l2/when_downloading_2k_images_169_aspect_ratio/</link>
+      <description>由 /u/Eastern-Pepper-6821 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Eastern-Pepper-6821 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcw0l2</guid>
+      <pubDate>Wed, 14 Jan 2026 18:59:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Claude Code V2 完全指南：CLAUDE.md、MCP、命令、技能与钩子——根据您的反馈更新 / The Complete Guide to Claude Code V2: CLAUDE.md, MCP, Commands, Skills &amp; Hooks — Updated Based on Your Feedback</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcwckg/the_complete_guide_to_claude_code_v2_claudemd_mcp/</link>
+      <description>Claude Code V2 完全指南：全局 CLAUDE.md、MCP 服务器、命令、技能、钩子，以及为何单一用途聊天很重要 🎉 根据社区反馈更新。这是之前爆火指南的 V2 版本。衷心感谢 u/headset38、u/tulensrma、u/jcheroske 以及所有评论者。你们指出 CLAUDE.md 规则只是 Claude 可能忽略的建议——你们是对的。此版本新增了第 7 部分：技能与钩子，涵盖了强制执行层。V2 的新内容：- 第 7 部分：技能与钩子——对行为建议的确定性强制执行 - 附带即用模板、钩子和技能的 GitHub 仓库。TL;DR：您的全局 ~/.claude/CLAUDE.md 是一个安全守门员，可防止安全…
+
+---
+
+Original:
+The Complete Guide to Claude Code V2: Global CLAUDE.md, MCP Servers, Commands, Skills, Hooks, and Why Single-Purpose Chats Matter 🎉 Updated Based on Community Feedback This is V2 of the guide that went viral. Huge thanks to u/headset38 , u/tulensrma , u/jcheroske , and everyone who commented. You pointed out that CLAUDE.md rules are suggestions Claude can ignore — and you were right. This version adds Part 7: Skills &amp; Hooks covering the enforcement layer. What's new in V2: - Part 7: Skills &amp; Hooks — deterministic enforcement over behavioral suggestion - GitHub repo with ready-to-use templates, hooks, and skills TL;DR: Your global ~/.claude/CLAUDE.md is a security gatekeeper that prevents sec…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcwckg</guid>
+      <pubDate>Wed, 14 Jan 2026 19:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] Gemini（双子座）现已支持扫描照片、邮件等内容以提供更佳回答 | 该功能初期仅限付费用户使用，默认处于关闭状态 / Gemini can now scan your photos, email, and more to provide better answers | The feature will start with paid users only, and it’s off by default.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcwigc/gemini_can_now_scan_your_photos_email_and_more_to/</link>
+      <description>由用户/u/ControlCAD提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ControlCAD [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcwigc</guid>
+      <pubDate>Wed, 14 Jan 2026 19:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 米沙尔·拉赫曼（Mishaal Rahman）将退出安卓新闻界 / Mishaal Rahman is quitting the Android news world</title>
+      <link>https://www.reddit.com/r/Android/comments/1qcwixx/mishaal_rahman_is_quitting_the_android_news_world/</link>
+      <description>由用户 /u/archon810 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/archon810 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qcwixx</guid>
+      <pubDate>Wed, 14 Jan 2026 19:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 语音AI助手开发指南 / Voice AI Agent Guidance</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcwp0g/voice_ai_agent_guidance/</link>
+      <description>大家好，我正在做一个课程项目，需要构建能够主动拨打电话、操作交互式语音应答系统、联系客服代表并与之交互以传递客户信息、获取公司服务详情的语音AI助手。由于涉及客户数据，隐私与合规性是重点考量。我想请教各位经验丰富的同行，推荐一套技术方案，用于构建低延迟且AI幻觉效应最小的系统。我的目标是尽可能控制成本，并最终将其开源。当然，为演示需要，我也考虑使用订阅制服务……
+
+---
+
+Original:
+Hi folks, I am working on a course project that involves building Voice AI agents capable of initiating calls, navigating the Interactive Voice Response System, reaching a support agent, and interacting with them to relay customer information and capture details about the services offered by the company. Since this involves customer data, privacy and compliance are major concerns. I wanted to get input from veterans here on a recommended tech stack for building such a system with low latency and minimal hallucinations on the AI side. My goal is to keep the solution as cost-effective as possible and eventually make it open-source. That said, for demo purposes, I’m open to using subscription-b…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcwp0g</guid>
+      <pubDate>Wed, 14 Jan 2026 19:24:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

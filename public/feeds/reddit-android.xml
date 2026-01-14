@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:30:46 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -440,6 +440,18 @@ submitted by /u/Iiznu14ya [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 04:16:22 +0000</pubDate>
     </item>
     <item>
+      <title>说真的，iOS现在还有哪些方面比安卓强？ / Honestly, what does iOS still do better than Android?</title>
+      <link>https://www.reddit.com/r/Android/comments/1qcdr7a/honestly_what_does_ios_still_do_better_than/</link>
+      <description>无意引战，纯属好奇。如果你两种系统都用过一段时间，现在依然觉得iOS有哪些功能让你怀念，或者认为安卓至今还没跟上？ 提交者：/u/Vanilla-Green [链接] [评论]
+
+---
+
+Original:
+No brand wars. Genuinely curious. If you’ve used both for a while, what’s the one iOS thing you still miss or think Android hasn’t matched yet? submitted by /u/Vanilla-Green [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qcdr7a</guid>
+      <pubDate>Wed, 14 Jan 2026 04:27:25 +0000</pubDate>
+    </item>
+    <item>
       <title>谷歌确认Android系统漏洞导致音量键问题 / Google confirms Android bug causing volume key issues</title>
       <link>https://www.reddit.com/r/Android/comments/1qchjpw/google_confirms_android_bug_causing_volume_key/</link>
       <description>由 /u/rkhunter_ 提交 [链接] [评论]
@@ -450,6 +462,18 @@ Original:
 submitted by /u/rkhunter_ [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qchjpw</guid>
       <pubDate>Wed, 14 Jan 2026 07:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>三星Galaxy S24 Ultra的安卓UWB功能被人为限制 / Android UWB is being artificially restricted on Galaxy S24 Ultra</title>
+      <link>https://www.reddit.com/r/Android/comments/1qchsvz/android_uwb_is_being_artificially_restricted_on/</link>
+      <description>这不是技术支持请求或购买咨询，而是关于安卓硬件被人为限制的问题。Galaxy S24 Ultra搭载了高通的QBT4000 UWB芯片，与Pixel 8 Pro和iPhone 15 Pro使用的硬件相同。该芯片、天线、固件及安卓UWB堆栈均存在且功能正常。三星自家的工程菜单确认：距离：支持；方位角：不支持；仰角：不支持；无TSS设备。这意味着手机仅运行在UWB Lite模式下——仅支持距离测量，而真正的UWB定向功能（角度、仰角、箭头指示、AR）被软件禁用。问题在于，当使用与谷歌Find My Device网络兼容的UWB追踪器时……
+
+---
+
+Original:
+This is not a tech support request or a buying question. This is about artificially restricted hardware on Android. The Galaxy S24 Ultra contains Qualcomm’s QBT4000 UWB chip — the same hardware used by the Pixel 8 Pro and iPhone 15 Pro. The chip, antennas, firmware and Android UWB stack are all present and functional. Samsung’s own engineering menus confirm: Copiar código Distance: Supported Azimuth: Not Supported Elevation: Not Supported NO TSS DEVICE That means the phone runs in UWB Lite mode — distance measurement only — while true UWB direction finding (angle, elevation, arrows, AR) is disabled by software. The problem When using a UWB tracker compatible with Google’s Find My Device netw…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qchsvz</guid>
+      <pubDate>Wed, 14 Jan 2026 08:14:31 +0000</pubDate>
     </item>
     <item>
       <title>我开发了一款基于物理铰链驱动的折纸模拟器 / I made an origami simulator that is driven by a physical hinge</title>
@@ -464,6 +488,18 @@ submitted by /u/maxwase [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 08:21:20 +0000</pubDate>
     </item>
     <item>
+      <title>我们再也无法访问手机文件（/data目录）了吗？为何无人讨论此事？ / We cannot access our phone files anymore (/data)? Why is none talking about it?</title>
+      <link>https://www.reddit.com/r/Android/comments/1qckmbk/we_cannot_access_our_phone_files_anymore_data_why/</link>
+      <description>或许我有些大惊小怪，但我们现在确实无法访问/data文件夹了，只能通过安卓内置的文件浏览器查看文件。这本身就很烦人，但还不算大问题；真正的问题是，即便能看到文件，我们也无法打开、移动、复制或修改其中任何内容。我本想修改游戏设置，需要改动一个.txt文件，原以为很简单，却连找到文件都困难——手机文件浏览器根本进不去data目录。我之前买了Solid Explorer（文件管理器），试了也没用，data文件夹依然无法访问。搜索后才发现，要看到这些文件夹还得额外操作……
+
+---
+
+Original:
+Maybe I am just being overly dramatic, but we cannot access our /data folder anymore, we can see the files ONLY with the built in android file browser, this is annoying by itself but it wouldnt be a big issue, the issue is even if we can see the files, we cant open, move, copy, modify any of them. I needed to change a settings in a game and it required to modify a .txt file, I thought "well that is kinda easy", to my surprise it was hard to even find the files, my phone file browser couldnt access the data folder. I bought solid explorer in the past and I just went through it and nothing, data folder isnt accessible. So I searched and found out I can see the folders doing some extra steps po…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qckmbk</guid>
+      <pubDate>Wed, 14 Jan 2026 11:12:11 +0000</pubDate>
+    </item>
+    <item>
       <title>三星将6年旗舰更新政策下放至入门级：新款Galaxy A07 5G / Samsung brings 6-year flagship update policy to the budget entry-level with the new Galaxy A07 5G</title>
       <link>https://www.reddit.com/r/Android/comments/1qcn22c/samsung_brings_6year_flagship_update_policy_to/</link>
       <description>由用户 /u/Lost-Usual-2119 提交 [链接] [评论]
@@ -474,6 +510,30 @@ Original:
 submitted by /u/Lost-Usual-2119 [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qcn22c</guid>
       <pubDate>Wed, 14 Jan 2026 13:19:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carl Pei（裴宇）- 为何你的下一部手机会更贵 / Carl Pei - Why Your Next Smartphone Will Cost More</title>
+      <link>https://www.reddit.com/r/Android/comments/1qcuvzh/carl_pei_why_your_next_smartphone_will_cost_more/</link>
+      <description>由 /u/BcuzRacecar 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/BcuzRacecar [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qcuvzh</guid>
+      <pubDate>Wed, 14 Jan 2026 18:19:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>米沙尔·拉赫曼（Mishaal Rahman）将退出安卓新闻界 / Mishaal Rahman is quitting the Android news world</title>
+      <link>https://www.reddit.com/r/Android/comments/1qcwixx/mishaal_rahman_is_quitting_the_android_news_world/</link>
+      <description>由用户 /u/archon810 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/archon810 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qcwixx</guid>
+      <pubDate>Wed, 14 Jan 2026 19:18:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

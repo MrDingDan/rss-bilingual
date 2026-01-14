@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:30:12 +0000</lastBuildDate>
     <item>
       <title>有哪些完全无害的事物，却会引发人们异常强烈的反应？ / What’s a totally harmless thing that triggers an oddly strong reaction in people?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qau4uq/whats_a_totally_harmless_thing_that_triggers_an/</link>
@@ -1182,6 +1182,18 @@ Original:
 submitted by /u/Suspicious_Story_807 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qctxsc</guid>
       <pubDate>Wed, 14 Jan 2026 17:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>什么工作薪资不高但福利待遇很好？ / what job pays little but has a lot of perks ?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcumgk/what_job_pays_little_but_has_a_lot_of_perks/</link>
+      <description>由用户 /u/waddad27 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/waddad27 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcumgk</guid>
+      <pubDate>Wed, 14 Jan 2026 18:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

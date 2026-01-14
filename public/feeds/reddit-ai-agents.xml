@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:29:20 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1116,6 +1116,42 @@ Original:
 Does anyone know any companies or businesses that use Elevenlabs AI as their answering service? I’m talking specifically about dental offices, real estate agencies, doctors offices et cetera, that I can actually call to test out the service? submitted by /u/No-Swordfish-32 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcvn0x</guid>
       <pubDate>Wed, 14 Jan 2026 18:46:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果您的智能体管道执行在0.1美元时自动停止会怎样？ / What if your Agentic Pipeline execution stopped itself at $0.10?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvwks/what_if_your_agentic_pipeline_execution_stopped/</link>
+      <description>大家好，我为PydanticAI构建了一个轻量封装，添加了一些生产环境必备功能：以微分为单位的成本追踪、基于DAG的管道（适用于不需要Pydantic Graph的场景），以及优雅处理故障的工具。使用方式与PydanticAI完全相同，但每个响应都会自动包含成本（由genai-prices驱动）、令牌数和延迟时间。通过它，您可以设置预算，管道会在超出预算前主动抛出异常。这得益于Pydantic团队在PydanticAI、genai-prices和Logfire上的出色工作。如果这个工具适合您的使用场景，请查阅文档。我正在构建的“学习”章节就像AI工程速成课程。由/u/igorbenav提交
+
+---
+
+Original:
+Hey everyone, I built a thin wrapper around PydanticAI that adds some production essentials: cost tracking in microcents, DAG-based pipelines (for cases where you don't need Pydantic Graph), and tools that handle failures gracefully. Usage looks just like PydanticAI but every response includes cost (powered by genai-prices), tokens, and latency automatically. With it, you can set a budget, and your pipeline raises an exception before blowing past it. Possible because of Pydantic's awesome work with PydanticAI, genai-prices, and Logfire. Check the docs if it sounds useful for your use case. I'm building the "Learn" section as if it's an AI Engineering Crash Course. submitted by /u/igorbenav […</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvwks</guid>
+      <pubDate>Wed, 14 Jan 2026 18:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>构建自主性：AI助手现代设计模式 / Architecting Autonomy: Modern Design Patterns for AI Assistants</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvz4e/architecting_autonomy_modern_design_patterns_for/</link>
+      <description>在生成式AI的早期阶段，所谓的“助手”基本上只是一个等待输入提示的文本框。用户输入内容，模型进行预测，结果好坏全凭运气。但随着我们深入2026年，行业已从简单的聊天机器人转向复杂的智能体系统（Agentic Systems）。关键差异在于设计模式（Design Patterns）。正如软件行业通过采用MVC（Model-View-Controller）或微服务（Microservices）走向成熟，AI领域如今也在规范化那些让助手变得可靠、安全且真正自主的架构蓝图。以下是塑造下一代AI助手的核心设计模式。1. “先规划后执行”模式：早期的助手经常出现“幻觉”，因为……
+
+---
+
+Original:
+In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems . 1 The difference lies in Design Patterns . Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" becaus…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvz4e</guid>
+      <pubDate>Wed, 14 Jan 2026 18:58:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>语音AI助手开发指南 / Voice AI Agent Guidance</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcwp0g/voice_ai_agent_guidance/</link>
+      <description>大家好，我正在做一个课程项目，需要构建能够主动拨打电话、操作交互式语音应答系统、联系客服代表并与之交互以传递客户信息、获取公司服务详情的语音AI助手。由于涉及客户数据，隐私与合规性是重点考量。我想请教各位经验丰富的同行，推荐一套技术方案，用于构建低延迟且AI幻觉效应最小的系统。我的目标是尽可能控制成本，并最终将其开源。当然，为演示需要，我也考虑使用订阅制服务……
+
+---
+
+Original:
+Hi folks, I am working on a course project that involves building Voice AI agents capable of initiating calls, navigating the Interactive Voice Response System, reaching a support agent, and interacting with them to relay customer information and capture details about the services offered by the company. Since this involves customer data, privacy and compliance are major concerns. I wanted to get input from veterans here on a recommended tech stack for building such a system with low latency and minimal hallucinations on the AI side. My goal is to keep the solution as cost-effective as possible and eventually make it open-source. That said, for demo purposes, I’m open to using subscription-b…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcwp0g</guid>
+      <pubDate>Wed, 14 Jan 2026 19:24:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
