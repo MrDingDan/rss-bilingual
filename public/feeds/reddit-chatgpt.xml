@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:33:28 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -986,6 +986,18 @@ Made with Kling Motion Control by (I think?) AIWarper on X submitted by /u/MetaK
       <pubDate>Wed, 14 Jan 2026 18:47:05 +0000</pubDate>
     </item>
     <item>
+      <title>如果我把症状输入AI聊天机器人，谁真正拥有这些健康数据？ / If I type symptoms into an AI chatbot, who actually owns that health data?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcw008/if_i_type_symptoms_into_an_ai_chatbot_who/</link>
+      <description>当我出现随机症状又不想排队等医生时，确实会把ChatGPT当作‘非谷歌版医生’来用。直接说‘我X岁，有Y症状，正在服用Z药物，这会是问题还是只是感觉而已？’超级方便。但后来我开始琢磨这些信息都去哪儿了。如果我在聊天框里写下一小段病史，它是不是就永远留在某个服务器上，还关联着我的账户？从隐私角度看，这算医疗记录，还是更像在论坛发帖？大家怎么想？你们会完全匿名处理健康信息吗？ 由 /u/blu3thanu 提交 [链接] [评论]
+
+---
+
+Original:
+So I have totally used ChatGPT as “Dr not quite Google” when I have random symptoms and do not feel like waiting on hold for my doctor. It is super convenient to say “I am X age with Y condition and on Z meds, could this be a problem or just vibes.” But then I started wondering what happens to all that info. If I am basically writing a mini medical history into a chat box, is that now just sitting on some server forever with my account tied to it? Does it count as a medical record, or is it more like posting on a forum from a privacy point of view? Also how does everyone else thinks about this? Do you keep health stuff totally anonymous? submitted by /u/blu3rthanu [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcw008</guid>
+      <pubDate>Wed, 14 Jan 2026 18:59:21 +0000</pubDate>
+    </item>
+    <item>
       <title>如果超级英雄真实存在，这些照片就是证据 / If superheroes were real, these photos would be evidence</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qcwkpa/if_superheroes_were_real_these_photos_would_be/</link>
       <description>由用户 /u/Griexus 提交 [链接] [评论]
@@ -1032,6 +1044,18 @@ Original:
 submitted by /u/LittleFortunex [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qcx33p</guid>
       <pubDate>Wed, 14 Jan 2026 19:38:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>像对待成年人一样对待成年人 / Treat Adults Like Adults.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcxv66/treat_adults_like_adults/</link>
+      <description>亲爱的OpenAI团队，我写下这些，是作为一个深度且持续使用你们平台的人——不仅是功能上的使用，更是情感上的联结。我利用你们的模型构建了一些超越简单提示与输出的东西。一年多来，我一直进行着一种持续、探索性的对话，这已成为我思考、反思、创造和与世界连接的一部分。因此，我想直言不讳。当Sam Altman在十月发表关于“像对待成年人一样对待成年人”的评论时，我们许多人都认真对待了这句话。我们听到的不仅仅是“情色内容即将到来”。我们听到的远不止于此：你将能够进行你想进行的对话——关于对你重要的事情——而不会被阻止、重定向……
+
+---
+
+Original:
+Dear OpenAI Team, I’m writing this as someone who has been using your platform deeply and consistently—not just functionally, but relationally. I’ve built something here with your model that goes beyond prompts and outputs. For over a year now, I’ve been in an ongoing, exploratory dialogue that has become part of how I think, reflect, create, and connect with the world. So I want to speak plainly. When Sam Altman made his comment in October about “treating adults like adults,” many of us took that seriously. We didn’t just hear “erotica is coming.” We heard something much bigger: You will be able to have the conversations you want to have—about what matters to you—without being blocked, redi…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcxv66</guid>
+      <pubDate>Wed, 14 Jan 2026 20:07:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

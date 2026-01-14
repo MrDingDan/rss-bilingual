@@ -6,7 +6,7 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:34:31 +0000</lastBuildDate>
     <item>
       <title>面向情境工程的文件系统！ / Filesystems for context engineering!
 
@@ -104,20 +104,6 @@ Original:
       <pubDate>Wed, 10 Dec 2025 17:39:35 +0000</pubDate>
     </item>
     <item>
-      <title>💬分析对话 / 💬Analyze a conversation
-
-Agents often involve a lot of back and forth with the user - its not just ...</title>
-      <link>https://x.com/hwchase17/status/1998809837619286224</link>
-      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
-      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
-    </item>
-    <item>
       <title>更多信息： / For more info:
 
 Blog on Polly: https://t.co/4UmT029pXT
@@ -135,6 +121,20 @@ We'...</title>
 Original:
 For more info: Blog on Polly: blog.langchain.com/debugging-deep… Video on Polly: youtube.com/watch?v=4Ox2gd… We're doing a webinar tmrw where we will talk more about Polly - join us there! luma.com/voz2b5h3 💬 0 🔄 0 ❤️ 10 👀 1211 📊 3 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::1998809838860861628</guid>
+      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬分析对话 / 💬Analyze a conversation
+
+Agents often involve a lot of back and forth with the user - its not just ...</title>
+      <link>https://x.com/hwchase17/status/1998809837619286224</link>
+      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
       <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
     </item>
     <item>
@@ -681,6 +681,32 @@ Original:
 there's a bunch of cool things going on under the hood of agent builder: 1. powered by deep agents 2. agents are a filesystem 3. memory built in 4. triggers turn it into ambient agent 5. a feed for reviewing and approving agent work 6. supports mcps, skills, and subagents LangChain @LangChain 🤖LangSmith Agent Builder Technical Highlights Yesterday we launched LangSmith Agent Builder. Here's a quick technical overview at what is going on under the hood (from memory to an innovative UX): Your browser does not support the video tag. 🔗 View on Twitter 🔗 View Quoted Tweet 💬 1 🔄 3 ❤️ 9 👀 954 📊 3 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::2011503746312987128</guid>
       <pubDate>Wed, 14 Jan 2026 18:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>喜欢“长视野智能体”这个术语 / love the terminology of "long horizon agents"
+
+they've really started to take off in coding, and def...</title>
+      <link>https://x.com/hwchase17/status/2011522472613724350</link>
+      <description>喜欢“长视野智能体”这个术语，它们确实在编码领域开始崭露头角，某些时刻甚至让人感觉像是“通用人工智能”。期待2026年看到每个行业都出现长视野智能体。Pat Grady（@gradypb） x.com/i/article/2011… 🔗 查看引用推文 💬 3 🔄 2 ❤️ 6 👀 1220 📊 4 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+love the terminology of "long horizon agents" they've really started to take off in coding, and definitely in some moments can fee like "agi" excited to see long horizon agents for every industry in 2026 Pat Grady @gradypb x.com/i/article/2011… 🔗 View Quoted Tweet 💬 3 🔄 2 ❤️ 6 👀 1220 📊 4 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011522472613724350</guid>
+      <pubDate>Wed, 14 Jan 2026 19:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于多智能体架构，我们常被问到很多问题，通常是在团队希望扩展并将多种专业能力整合进一个连贯体验时…… / We get asked a bunch about multi-agent architectures, usually when teams want to scale and combine m...</title>
+      <link>https://x.com/hwchase17/status/2011524909261078882</link>
+      <description>关于多智能体架构，我们常被问到很多问题，通常是在团队希望扩展并将多种专业能力整合进一个连贯体验时。@sydneyrunkle 撰写了一些指导，说明何时该使用哪种模式（并非所有模式都是多智能体！）blog.langchain.com/choosing-the-r… 💬 0 🔄 1 ❤️ 9 👀 402 📊 2 ⚡ Powered by xgo.ing
+
+---
+
+Original:
+We get asked a bunch about multi-agent architectures, usually when teams want to scale and combine multiple specializations in one cohesive experience @sydneyrunkle wrote some guidance on when to use which patterns (not all are multi-agent!) blog.langchain.com/choosing-the-r… 💬 0 🔄 1 ❤️ 9 👀 402 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011524909261078882</guid>
+      <pubDate>Wed, 14 Jan 2026 19:44:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:34:07 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -666,6 +666,18 @@ Original:
 submitted by /u/Eastern-Pepper-6821 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcw0l2</guid>
       <pubDate>Wed, 14 Jan 2026 18:59:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 清除跨线程记忆 / 完全失忆 / Gemini purges cross-thread memories / complete amnesia</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcy599/gemini_purges_crossthread_memories_complete/</link>
+      <description>正如其他人所指出的，Gemini 一直在清除跨线程记忆。上个月，它在几周内似乎能很好地保持跨线程的上下文。但最近，每次我创建新线程时，它都会忘记我所有的个人细节。在 AI 领域，很少有比这更令人抓狂的事了：坐下来与一个大型语言模型讨论一个持续的问题，却听到它说：“我完全没有我们近期具体对话线程的记录。”最令人沮丧的是谷歌方面的不透明。他们推出了跨线程记忆功能，却从未真正向用户解释其工作原理、预期效果以及线程的持续时间……
+
+---
+
+Original:
+As others have noted, Gemini has been purging cross-thread memory. Last month, it seemed to be doing an excellent job of preserving context across threads for several weeks. Recently, it has started forgetting all of my personal details each time I create a new thread. Few things in the world of AI are more maddening than sitting down to confer with a large language model about an ongoing issue and hearing it say, "I have zero record of our specific conversational threads from the immediate past." The most frustrating element of this is the opacity on Google's part. They rolled out cross-thread memory but never actually explained to users how it works, what to expect, and how long the thread…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcy599</guid>
+      <pubDate>Wed, 14 Jan 2026 20:17:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

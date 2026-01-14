@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:33:42 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1063,6 +1063,18 @@ Original:
 The Complete Guide to Claude Code V2: Global CLAUDE.md, MCP Servers, Commands, Skills, Hooks, and Why Single-Purpose Chats Matter 🎉 Updated Based on Community Feedback This is V2 of the guide that went viral. Huge thanks to u/headset38 , u/tulensrma , u/jcheroske , and everyone who commented. You pointed out that CLAUDE.md rules are suggestions Claude can ignore — and you were right. This version adds Part 7: Skills &amp; Hooks covering the enforcement layer. What's new in V2: - Part 7: Skills &amp; Hooks — deterministic enforcement over behavioral suggestion - GitHub repo with ready-to-use templates, hooks, and skills TL;DR: Your global ~/.claude/CLAUDE.md is a security gatekeeper that prevents sec…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcwckg</guid>
       <pubDate>Wed, 14 Jan 2026 19:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude（克劳德）是否缩减了上下文或消息长度限制？还有谁注意到了？ / Claude have minimized the context or message length context, who else noticed?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcx4gb/claude_have_minimized_the_context_or_message/</link>
+      <description>https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;format=png&amp;auto=webp&amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 您的消息将超出此对话的长度限制。请尝试缩短消息或开始新对话。 ——我记得几小时前还能用长上下文处理任务，突然他们就更新了新的长度限制！！！太令人失望了。还有其他人遇到这种情况吗？参考链接：https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 由 /u/mjiqbal 提交 [链接] [评论…]
+
+---
+
+Original:
+https://preview.redd.it/64o0a1i8bddg1.png?width=575&amp;format=png&amp;auto=webp&amp;s=9340a6a0533cb09c822496ec5c16048bca0aa261 Your message will exceed the length limit for this chat. Try shortening your message or starting a new conversation. -- I remember doing stuff in few hours back with a long context and all of the sudden they have updated their new length limit!!! extremly disappointing. anyone else experience this? Reference url: https://support.claude.com/en/articles/8606394-how-large-is-the-context-window-on-paid-claude-plans#h_9172002f0a https://preview.redd.it/nevoplv6bddg1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=67df12ec835c50902649e2028d38b803d0bc1d49 submitted by /u/mjiqbal [link] [comment…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcx4gb</guid>
+      <pubDate>Wed, 14 Jan 2026 19:39:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

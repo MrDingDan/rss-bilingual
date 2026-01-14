@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 19:47:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:33:57 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -979,6 +979,30 @@ Original:
 https://platform.openai.com/docs/models/gpt-5.2-codex submitted by /u/aginns [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qcvzny</guid>
       <pubDate>Wed, 14 Jan 2026 18:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 开发者体验团队确认 GPT-5.2-Codex 已上线 API 用于编程任务 / OpenAI DevEx confirms GPT-5.2-Codex is Live in the API for coding tasks</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcxnas/openai_devex_confirms_gpt52codex_is_live_in_the/</link>
+      <description>由 /u/BuildwithVignesh 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcxnas</guid>
+      <pubDate>Wed, 14 Jan 2026 19:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI与Cerebras达成最新AI合作，将采购其计算资源 / OpenAI to buy compute capacity from Cerebras in latest AI deal</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcy5v0/openai_to_buy_compute_capacity_from_cerebras_in/</link>
+      <description>由用户/u/consulent-finanziar提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/consulent-finanziar [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcy5v0</guid>
+      <pubDate>Wed, 14 Jan 2026 20:18:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
