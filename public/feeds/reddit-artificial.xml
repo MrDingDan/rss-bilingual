@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:03:11 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -474,6 +474,54 @@ Original:
 Ashley St. Clair, who is the mother of Musk’s 14th child, said she felt ‘violated’ when the Grok AI chatbot generated sexualised images of her submitted by /u/TimesandSundayTimes [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qc2r39</guid>
       <pubDate>Tue, 13 Jan 2026 20:43:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>“耗水量争论”是否也让你感到厌烦？ / Is the "Water Argument" getting on anyone else's nerves?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qc8vl7/is_the_water_argument_getting_on_anyone_elses/</link>
+      <description>日常生活中，周围的人总爱抱怨在ChatGPT或Gemini上每执行一次提示会消耗多少水，这让我不胜其烦。如果真那么在意，不如先别吃肉——每生产一磅牛肉就要消耗1200加仑甚至更多的水。拜托，这种斤斤计较能不能停一停？ 由 /u/Fluid-Volume4213 提交 [链接] [评论]
+
+---
+
+Original:
+In my daily life those around me always complain about how much water is used when we do a single prompt on chatGPT or Gemini, I just get annoyed now. If it bothers you so much, stop eating meat, every pound of beef is costs 1200 gallons of water or more. Like, can we stop the scorekeeping yet? submitted by /u/Fluid-Volume4213 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qc8vl7</guid>
+      <pubDate>Wed, 14 Jan 2026 00:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>zai-org/GLM-Image · Hugging Face / zai-org/GLM-Image · Hugging Face</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qcazo8/zaiorgglmimage_hugging_face/</link>
+      <description>Z.ai（GLM的创建者）发布了一款开放权重的图像生成模型，其基准测试表现与Nano Banana 2等领先模型相当。"GLM-Image采用混合自回归+扩散解码器架构。在通用图像生成质量上，GLM-Image与主流潜在扩散方法持平，但在文本渲染和知识密集型生成场景中展现出显著优势。它在需要精确语义理解和复杂信息表达的任务上表现尤为出色，同时保持了高保真度和细粒度细节生成的强大能力。除了文生图……
+
+---
+
+Original:
+Z.ai (creators of GLM) have released an open weight image generation model that is showing benchmark performance competitive with leading models like Nano Banana 2. "GLM-Image is an image generation model adopts a hybrid autoregressive + diffusion decoder architecture. In general image generation quality, GLM‑Image aligns with mainstream latent diffusion approaches, but it shows significant advantages in text-rendering and knowledge‑intensive generation scenarios. It performs especially well in tasks requiring precise semantic understanding and complex information expression, while maintaining strong capabilities in high‑fidelity and fine‑grained detail generation. In addition to text‑to‑ima…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qcazo8</guid>
+      <pubDate>Wed, 14 Jan 2026 02:18:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>苹果（Apple）创作者工作室登场：挑战Adobe的全新创意套件 / Apple Creator Studio Is Here: A New Creative Suite Challenging Adobe</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qccvkb/apple_creator_studio_is_here_a_new_creative_suite/</link>
+      <description>这会挑战Adobe Creative Cloud吗？由 /u/i-drake 提交 [链接] [评论]
+
+---
+
+Original:
+Could this challenge Abobe Creative Cloud? submitted by /u/i-drake [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qccvkb</guid>
+      <pubDate>Wed, 14 Jan 2026 03:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bandcamp 禁止所有AI生成的音乐 / Bandcamp Bans All Music Made with AI</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qccxaw/bandcamp_bans_all_music_made_with_ai/</link>
+      <description>由 /u/Sky-Dancer8791 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Sky-Dancer8791 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qccxaw</guid>
+      <pubDate>Wed, 14 Jan 2026 03:47:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

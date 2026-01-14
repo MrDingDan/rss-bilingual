@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:47:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:05:25 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -608,6 +608,18 @@ I have a project with a story, we have all the documents we need like characters
       <pubDate>Tue, 13 Jan 2026 21:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>FreeBlocks——一款由Claude协助开发的手机游戏，无广告，支持离线运行 / FreeBlocks – a mobile game built with Claude, no ads, works offline</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc4vy7/freeblocks_a_mobile_game_built_with_claude_no_ads/</link>
+      <description>上周我卧病在床，想玩一款经典的打砖块游戏，但所有这类游戏的广告都让人难以忍受。于是，我决定在Claude的帮助下自己开发一款。现在分享出来，希望其他人也能玩到。游戏名为FreeBlocks。无广告支持离线运行——可安装为网页应用（菜单中有说明）针对移动设备优化，但在任何浏览器中都能流畅运行如果你的手机较旧，可以尝试调整图形设置——在我女友那台用了十年的安卓手机上，关闭部分特效后运行依然流畅链接：huud.net如果你喜欢这款游戏并想支持这个项目，可以选择捐赠。期待听到你的反馈！如果你对开发细节感兴趣……
+
+---
+
+Original:
+I was sick in bed last week and wanted to play one of those classic brick breaker games. But the ads in all of them were just unbearable. So I decided to build my own, with Claude's help. I thought I'd share it, so other's can play it too. It's called FreeBlocks. No ads Works offline – you can install it as a web app (instructions in the menu) Optimized for mobile, but runs fine in any browser If you have an older phone, try the graphics settings – runs smoothly on my girlfriend's 10-year-old Android with some effects disabled Link: huud.net If you enjoy it and want to support the project, there's a donate option. Would love to hear what you think! If you're interested in details on the proc…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc4vy7</guid>
+      <pubDate>Tue, 13 Jan 2026 22:04:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Anthropic刚推出每月100美元的“Claude Cowork”，我上周已构建开源版本（免费） / Anthropic just launched "Claude Cowork" for $100/mo. I built the Open Source version last week (for free)</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qc5g4s/anthropic_just_launched_claude_cowork_for_100mo_i/</link>
       <description>仓库：https://github.com/Prof-Harita/terminaI 新闻：昨天，Anthropic推出了Claude Cowork——一个能控制你桌面的智能体。它每月收费100美元，并将你的数据流传输至其云端。讽刺的是：我其实在7天前就完成了这个完全相同的工具。我坚信，在适当的防护机制下，这类工具或Claude Cowork是计算机的自然演进。项目：它名为TerminaI，是一个主权优先、本地优先的系统操作器。Cowork与TerminaI对比：Cowork：依赖云端，每月100美元，安全机制不透明。TerminaI：在本地硬件运行，免费（Apache 2.0协议），并使用“系统2”策略引擎，在执行危险操作前请求许可。“无限”差异……
@@ -642,6 +654,66 @@ Original:
 Source: Anthropic(Official) submitted by /u/BuildwithVignesh [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qc5vkj</guid>
       <pubDate>Tue, 13 Jan 2026 22:40:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>需要他人意见：当前面对对AI编码期望过高的利益相关者 / Need opinions from others. Currently dealing with stakeholders who have really high expectations with AI coding</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qc9fgu/need_opinions_from_others_currently_dealing_with/</link>
+      <description>我遇到一些跟风AI编码的利益相关者，他们本身并非工程师。团队中其他成员（实际是工程师）则持反对意见，认为除了‘让AI包办一切’外，还需要更多审查和人工指导。这些利益相关者显然曾用ChatGPT和Claude/Cursor尝试过AI编码，并独立创建过应用——尽管都是原型。他们以为我们能转向一个用AI写需求、读文档、生成全部代码并使其运行，甚至修复所有bug的系统，从而将责任更多地转移到测试环节。我想听听其他人对此的看法……
+
+---
+
+Original:
+I have stakeholders who are riding the AI coding bandwagon. They are not engineers themselves. I have other people on my team (who actually ARE engineers) who push back and say there’s a lot more work put into this rather “let AI do everything” that there needs to be more reviews and handholding. Stakeholders have apparently dabbled in AI coding with ChatGPT and Claude/Cursor. They’ve created apps themselves in a silo, apparently. But all prototypes. They think we can move to a system that uses AI to write specs, read the docs, create all that code and make it work. Fix all the bugs, etc. then shifting the responsibility to be more on testing. I’d like more opinions about this from other peo…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qc9fgu</guid>
+      <pubDate>Wed, 14 Jan 2026 01:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>我是如何迫使AI在40章里保持角色沉默的（杜绝'AI漂移'） / How I forced an AI to keep a character silent for 40 chapters (no 'AI drift')</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qca4fs/how_i_forced_an_ai_to_keep_a_character_silent_for/</link>
+      <description>我一直过度专注于长篇小说的'逻辑锁定'。大多数AI工具（如Sudo、Claude Projects等）最终都会忘记角色约束，因为它们依赖概率而非硬性规则。我构建了一个名为Novarrium的系统，采用数据库优先的方法。引擎并非通过'提示'让AI记住某个角色是哑巴，而是在输出前根据'故事圣经'过滤内容。我刚刚对一个6万字的作品进行了压力测试，主角设定为生理上无法说话。结果零幻觉、零'他微笑着说'的桥段。对于创作'困难'或非套路角色的作者，我很好奇：你们的AI总会打破哪条规则？由/u/IndependentG…提交
+
+---
+
+Original:
+I’ve been overly focused on Logic-Locking' for long-form novels. Most AI tools (Sudo, Claude Projects, etc.) eventually forget character constraints because they rely on probability, not hard rules. I built a system called Novarrium that uses a database-first approach. Instead of 'prompting' the AI to remember a character is mute, the engine literally filters the output against a 'Story Bible' before it prints. I just stress-tested it on a 60k-word run with a protagonist who physically can't speak. Zero hallucinations. Zero he said with a smile moments. For anyone writing 'difficult' or non-trope characters, I'm curious: what's the one rule your AI always breaks? submitted by /u/IndependentG…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qca4fs</guid>
+      <pubDate>Wed, 14 Jan 2026 01:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>11个月深度使用Claude Code后，我的十大编程技巧 / My Top 10 Claude Code Tips from 11 Months of Intense Usage</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcan9z/my_top_10_claude_code_tips_from_11_months_of/</link>
+      <description>自Claude Code发布以来，过去11个月我一直在深度使用它，甚至整理了一份包含40多个技巧的清单。在这里，我想分享我认为最重要的10个技巧，帮助你踏上这段旅程。1. 精简提供的上下文：给定的上下文越长，其表现越差。因此，请务必学习不同的方法来精简提供的上下文。入门的一个简单方法是：每当开始一个新主题时，开启一个新的对话。另一个快速技巧是：在第一次对话中，找出需要编辑哪些文件来解决问题；在第二次全新对话中，精确确定如何编辑它们。记住，AI的上下文就像牛奶一样……
+
+---
+
+Original:
+I've been using Claude Code intensely over the past 11 months since its launch, and I've even compiled a list of 40+ tips . Here, I wanted to share what I think are the 10 most important ones to get you started on this journey. 1. Minimize the provided context The longer the given context, the worse it performs. So make sure to learn different ways of minimizing the provided context. The simple one to get started with is starting a fresh conversation whenever you start a new topic. Another quick one is: In the first conversation, find which files you need to edit to solve your problem In the second, fresh conversation, figure out how to edit them exactly Remember, AI context is like milk; it…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcan9z</guid>
+      <pubDate>Wed, 14 Jan 2026 02:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code最近在创建tmpclaude-cwd文件吗？ / Claude Code recently creating tmpclaude-cwd files?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcbwqz/claude_code_recently_creating_tmpclaudecwd_files/</link>
+      <description>过去几个月从未出现这种情况，直到最近几天才发生。通常当Claude规划时，它会将这些文件添加到我的代码仓库中，这很烦人，因为会弄乱暂存文件。我认为这些文件本不应该被创建，而应临时存储在服务器或仓库之外的某个地方。我们不应该需要将它们加入gitignore，因为自Claude Code（Anthropic）发布以来从未有过这种需求。请修复此问题。提交者：/u/pizzae [链接] [评论]
+
+---
+
+Original:
+This never used to happen for months until the last few days. Usually when claude is planning its adding these files to my repo which is annoying as its cluttering my staging files. I don't think they're supposed to be created but rather stored temporarily in the server or somewhere that isn't part of the repo. I shouldn't have to gitignore these as we never had to ever since the release of Claude Code Anthropic please fix this submitted by /u/pizzae [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcbwqz</guid>
+      <pubDate>Wed, 14 Jan 2026 03:00:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>自主智能编码元年，开局一片光明！ / The Year of Autonomous Agentic Coding is starting off bright indeed!</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qccm6a/the_year_of_autonomous_agentic_coding_is_starting/</link>
+      <description>过去八个月里，我一直在开发自主AI编程工具，但始终不确定自己是否在触碰Anthropic不愿被突破的边界。持久循环？多日任务？智能体衍生智能体？感觉就像在灰色地带摸索。这一切始于创意写作……我一直认为……嗯……还是言归正传吧。比如基于状态的文件检查点、一次性撰写完整章节……总之，我始终不确定自己的做法是否合规，或者是否违反了某些规则……最终，我将学到的状态机和循环知识，真正应用到了自主智能体循环中。随后……Anthropic发布了……
+
+---
+
+Original:
+For the past 8 months, I've been building autonomous AI development tools, never quite sure if I was pushing boundaries Anthropic didn't want pushed. Persistent loops? Multi-day missions? Agents spawning agents? It felt like I was operating in a gray area. It all started with creative writing... I've long held that... Well... Actually, let me stay on track here. You know, state based file checkpoints, writing full chapters at a time using... Anyways, I was never quite sure if I was in the clear. Or if I was breaking some rule... Well, I took what I learned about State Based machines and loops, and I started actually implementing them into autonomous agentic loops. Then... Anthropic release s…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qccm6a</guid>
+      <pubDate>Wed, 14 Jan 2026 03:32:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

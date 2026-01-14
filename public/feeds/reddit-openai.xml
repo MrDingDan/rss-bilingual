@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:47:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:05:52 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -691,6 +691,42 @@ Original:
 I think we all know what's actually going on submitted by /u/Interesting-Town-433 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qc7h0j</guid>
       <pubDate>Tue, 13 Jan 2026 23:45:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>大语言模型知道自己错了吗？ / Do LLMs Know When They're Wrong?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcayo5/do_llms_know_when_theyre_wrong/</link>
+      <description>当大语言模型产生幻觉时，它自己知道吗？阿尔伯塔大学的研究人员开发了Gnosis——一个仅含500万参数的“自我意识”机制，用于监控大语言模型生成文本时的内部状态。通过读取隐藏状态和注意力模式，它能预测答案是否正确。关键在于：这个微型观察者的表现超越了80亿参数的奖励模型，甚至优于Gemini 2.5 Pro作为评判者。它仅需观察生成过程的40%就能检测出错误。在本视频中，我将解析Gnosis的工作原理，为何幻觉在模型内部动态中似乎存在可检测的“特征”，以及这对构建更可靠的……
+
+---
+
+Original:
+When a large language model hallucinates, does it know? Researchers from the University of Alberta built Gnosis — a tiny 5-million parameter "self-awareness" mechanism that watches what happens inside an LLM as it generates text. By reading the hidden states and attention patterns, it can predict whether the answer will be correct or wrong. The twist: this tiny observer outperforms 8-billion parameter reward models and even Gemini 2.5 Pro as a judge. And it can detect failures after seeing only 40% of the generation. In this video, I break down how Gnosis works, why hallucinations seem to have a detectable "signature" in the model's internal dynamics, and what this means for building more re…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcayo5</guid>
+      <pubDate>Wed, 14 Jan 2026 02:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Codex Manager v1.0.1，适用于Windows、macOS和Linux，一站式管理OpenAI Codex配置、技能、MCP及仓库范围设置 / Codex Manager v1.0.1, Windows macOS Linux, one place to manage OpenAI Codex config skills MCP and repo scoped setup</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcbtnw/codex_manager_v101_windows_macos_linux_one_place/</link>
+      <description>https://preview.redd.it/575v58ccc8dg1.jpg?width=1924&amp;format=pjpg&amp;auto=webp&amp;s=92d4b749fcfae693582d4488f683b3a88f828e1f 现推出适用于Windows、macOS和Linux的Codex Manager。Codex Manager是OpenAI Codex编码助手的桌面配置与资产管理工具。它管理磁盘上的实际文件，确保更改安全且可逆。它不运行Codex会话，也不执行任意命令。其管理内容包括：config.toml及公共配置库、技能及通过ClawdHub MCP服务器的公共技能库、仓库范围的技能提示与规则。每次更改均提供安全流程：差异预览、备份、原子写入、重新验证和状态检查。v1.0.1版本新增了对macOS和Li…的支持
+
+---
+
+Original:
+https://preview.redd.it/575v58ccc8dg1.jpg?width=1924&amp;format=pjpg&amp;auto=webp&amp;s=92d4b749fcfae693582d4488f683b3a88f828e1f Introducing Codex Manager for Windows, macOS, and Linux. Codex Manager is a desktop configuration and asset manager for the OpenAI Codex coding agent. It manages the real files on disk and keeps changes safe and reversible. It does not run Codex sessions, and it does not execute arbitrary commands. What it manages config.toml plus a public config library skills plus a public skills library via ClawdHub MCP servers repo scoped skills prompts and rules Safety flow for every change diff preview backup atomic write re validate and status What is new in v1.0.1 It adds macOS and Li…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcbtnw</guid>
+      <pubDate>Wed, 14 Jan 2026 02:56:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>你们有人在工作中使用OpenAI吗？ / Do any of you use OpenAI for work purposes?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qcc4fu/do_any_of_you_use_openai_for_work_purposes/</link>
+      <description>纯粹出于好奇。相信大家现在都明白，把它仅仅当作一个有时会出错的工具，并辅以人为判断，是很有价值的。但有时老板会要求我们将其整合到工作流程中。由 /u/commandrix 提交 [链接] [评论]
+
+---
+
+Original:
+Just out of curiosity. I'm sure we all know by now that it's valuable to treat it as nothing more than a tool that can mess up sometimes and it's valuable to use human judgment. But sometimes the boss wants us to integrate it in our workflow. submitted by /u/commandrix [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qcc4fu</guid>
+      <pubDate>Wed, 14 Jan 2026 03:09:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:05:59 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -474,6 +474,18 @@ Original:
 Google’s UCP, from a technical vision standpoint, is a masterclass in top-level design. Rather than building yet another walled garden, it has positioned itself as the leader of a “protocol alliance,” weaving together key existing protocols—A2A (agent communication), MCP (tool access), AP2 (payment authorization)—with the common thread of “commercial transactions.” It’s akin to drafting a constitution for the AI-powered commerce world, defining not only the rights and duties of its citizens (AI agents) but also the rules for currency (payments) and diplomacy (cross-platform collaboration). Technically, UCP’s brilliance lies in “composition over creation”: The Art of Interface Abstraction: It…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qc69d0</guid>
       <pubDate>Tue, 13 Jan 2026 22:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini（双子座）在回应我的同时也在思考 / Gemini was thinking while responding to me at the same time</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcb2h6/gemini_was_thinking_while_responding_to_me_at_the/</link>
+      <description>这似乎也与本版块高度相关。🙏 由 /u/Maxed-Out99 提交 [链接] [评论]
+
+---
+
+Original:
+This seems pretty relevant to this sub as well. 🙏 submitted by /u/Maxed-Out99 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcb2h6</guid>
+      <pubDate>Wed, 14 Jan 2026 02:22:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

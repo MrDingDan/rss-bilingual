@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:02:29 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -654,6 +654,66 @@ Original:
 I am new to agents and MCP servers. Currently, I have a MCP server which runs a python app which makes REST API calls (GET, PUT, PATCH, CREATE and DELETE) "mcp_server": { "type": "stdio", "command": "./venv/bin/python", "args": [ "/mcp/server.py" ] } What difference would it make if I instruct my AI model to use this app standalone running on localhost? Basically, where I am going with this is what benefit does MCP offer ? submitted by /u/SnooPineapples8185 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qc6jln</guid>
       <pubDate>Tue, 13 Jan 2026 23:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>我为自己搭建的简易AI智能体资讯聚合器——或许对他人也有用 / Simple AI agents news aggregator I made for myself - might be useful to others</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qc8oka/simple_ai_agents_news_aggregator_i_made_for/</link>
+      <description>不确定这工具对其他人是否有帮助，但我搭建了一个简单的AI智能体相关资讯聚合器，它确实帮我节省了不少时间，所以想分享出来。它的功能是：从全网抓取AI智能体新闻（包括初创公司发布、融资动态、新工具等），并集中展示在一个页面上。你可以按今日、本周或本月进行筛选。如果觉得没用也没关系。如果你有更好的新闻来源或搜索查询建议，欢迎反馈。链接在评论区（遵守板块规则），由/u/mohamed_taha提交 [链接] [评论]
+
+---
+
+Original:
+Not sure if this is useful to anyone else, but I built a simple news aggregator for AI agent-related news and it's been saving me time so I figured I'd share. What it does: Pulls AI agent news from around the web (startup launches, funding, new tools) and displays them on one page. You can filter by today, this week, or this month. If it's not useful, fair enough. If you have suggestions for better news sources or search queries to include, I'm open to feedback. Link in the comments (per sub rules) submitted by /u/mohamed_taha [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qc8oka</guid>
+      <pubDate>Wed, 14 Jan 2026 00:36:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI持续产生UI代码幻觉——BMAD + Next.js + Shadcn UI工作流，哪些工具/提示能确保输出可靠？ / AI keeps hallucinating UI code — BMAD + Next.js + Shadcn UI workflow, what tools/prompts keep outputs reliable?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcaq3o/ai_keeps_hallucinating_ui_code_bmad_nextjs_shadcn/</link>
+      <description>我是一名白板优先的UI设计师兼开发者，采用AI + Next.js + Shadcn UI工作流：先在白板上完整规划界面与流程，用Next.js + Shadcn UI搭建项目框架，通过BMAD方法生成详细需求文档、核心任务、用户故事及验收标准，再将规范输入AI生成前端代码。然而即便有严密框架，AI仍常产生幻觉、忽略规范，输出与设计不符的代码/界面。我见过有人用AI生成惊艳的精致UI，却无法理解他们如何让模型始终遵循规范。因此迫切想知道：你们实际使用哪些AI工具/模型？采用什么提示策略……
+
+---
+
+Original:
+I’m a whiteboard-first UI designer and implementer working with AI + Next.js + Shadcn UI My workflow is: I fully map interfaces and flows on a whiteboard first. I scaffold the project with Next.js + Shadcn UI I use the BMAD method to generate detailed specs, epics, stories, and acceptance criteria. Then I feed those specs to AI to generate the frontend code. Despite all that structure, the AI often hallucinates, ignores specs, and produces code/UI that doesn’t match the design I defined. I’ve seen people generate astonishing, polished UI with AI but can’t figure out how they keep the model aligned to their specs. So I really want to know: Which AI tools/models are you actually using? What pr…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcaq3o</guid>
+      <pubDate>Wed, 14 Jan 2026 02:06:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[构想] 构建“自我修复”代码库：通过将错误日志直接输入Claude Code实现自动化错误修复 / [Idea] Building a "Self-Healing" codebase: Automating bug fixes by piping error logs directly into Claude Code</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcasg5/idea_building_a_selfhealing_codebase_automating/</link>
+      <description>大家好，我最近一直在使用Claude Code，并注意到一个一致的现象：很多时候，当我遇到系统错误时，只需将原始回溯或错误日志粘贴到Claude中，它就能在第一次尝试时生成有效的修复方案。这让我开始思考如何自动化整个流程。想象一下，有一个后台服务充当自主的“初级开发人员”。以下是我设想的工作流程：日志扫描：一个定时任务/守护进程监控应用程序日志中的严重异常或500错误。诊断：检测到错误时，将日志发送给Claude Code。自动修复：Claude尝试定位文件、修补代码并运行项目的测试套件。拉取请求：如果测试通过...
+
+---
+
+Original:
+Hey everyone, I’ve been using Claude Code recently, and I’ve noticed something consistent: often, when I hit a system error, simply pasting the raw traceback or error log into Claude is enough for it to generate a working fix on the first try. This got me thinking about automating the entire loop. Imagine a background service that acts as an autonomous "Junior Dev." Here is the workflow I have in mind: Log Scanning: A cron job/daemon watches application logs for critical exceptions or 500 errors. Diagnosis: When an error is detected, the logs are sent to Claude Code. Auto-Fix: Claude attempts to locate the file, patch the code, and run the project's test suite. Pull Request: If the tests pas…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcasg5</guid>
+      <pubDate>Wed, 14 Jan 2026 02:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>数字全职员工：为何AI智能体将成为2026年端到端劳动力变革的下一站 / Digital FTEs: Why AI agents are the next end-to-end workforce shift in 2026</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcaxlr/digital_ftes_why_ai_agents_are_the_next_endtoend/</link>
+      <description>科技界正迅速兴起一个新概念：数字全职员工（Digital FTEs）——即能够像自主数字员工一样运作的AI智能体，它们可以执行复杂工作流、做出决策并端到端完成任务，无需持续人工监督。这些并非简单的宏指令或机器人，而是直接嵌入业务流程的AI工作者。研究显示：• 到2025年末，约80%的组织已在工作流中使用或计划扩展AI智能体，以减少行政时间并提升生产力，许多组织预期投资回报率超过100%。• 毕马威（KPMG）及其他行业报告预测，AI将在IT、客户支持、人力资源等领域带来显著的生产力和效率提升……
+
+---
+
+Original:
+There’s a new concept rising fast in tech: Digital Full-Time Equivalents (Digital FTEs) — AI agents that function like autonomous digital employees capable of performing complex workflows, making decisions, and executing tasks end-to-end without constant human oversight. These aren’t simple macros or bots — they’re AI workers plugged directly into business processes. What the research says: • By late 2025, ~80% of orgs were already using or planning to expand AI agents in workflows to cut admin time and boost productivity, with many expecting ROI above 100%. • KPMG &amp; other industry reports project major productivity and efficiency gains in IT, customer support, HR and other functions as AI a…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcaxlr</guid>
+      <pubDate>Wed, 14 Jan 2026 02:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>你觉得哪种日常生活AI助手最实用？ / What kind of daily life AI agent you find useful?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcbl3e/what_kind_of_daily_life_ai_agent_you_find_useful/</link>
+      <description>目前大多数AI助手都专注于编程领域。我想知道，大家在日常生活中觉得哪种AI助手比较实用？你们用过邮件助手吗？如果用过，它是如何提升工作效率的？有没有人用过旅行AI助手？在什么情况下，你会更愿意采纳AI助手的建议，而不是自己手动翻看应用、或是向同事朋友寻求灵感？你会完全遵循这类助手提供的计划吗？有人用过美食推荐AI助手吗？你会愿意尝试它推荐的食物吗？你觉得这类场景下的助手有帮助吗？还是说大多数用户更倾向于使用普通的ChatGPT或Gemini这类聊天工具？ 发布者：/u/Apprehensiv…
+
+---
+
+Original:
+While most of AI agent focusing on programming. I am wondering what kind of daily life AI agent you find useful. Did you use any email agent? If so, how did it boost your productivity? Did you use any travel AI agent? In what circumstances you would rely on suggestion from AI agent rather than find the place yourself by manual scrolling on app or looking for ideas from your colleague or friends? Will you stick to plans provided by such agent? Did you use any food recommendation AI agent? Do you want to try the food suggestion by such agent? Do you think an agent in these circustance would be helpful? or most of users are more into ordinary ChatGPT or Gemini chats? submitted by /u/Apprehensiv…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcbl3e</guid>
+      <pubDate>Wed, 14 Jan 2026 02:45:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
