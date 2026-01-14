@@ -6,91 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 04:59:29 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_askreddit] 如果民主党人想要全民医保，我们有深蓝州，各州可以控制自己的预算和税收，全民医保优势明显，为何深蓝州不推行全州范围的全民医保？ / If Democrats want universal healthcare, we have states that are deep blue, states have control over their own budgets and taxation, and universal healthcare would be so advantageous, why don’t deeply democrat run states implement a statewide universal healthcare?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbysgu/if_democrats_want_universal_healthcare_we_have/</link>
-      <description>由 /u/Silver_Wings3 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Silver_Wings3 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbysgu</guid>
-      <pubDate>Tue, 13 Jan 2026 18:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] Gmail新推出的Gemini“AI收件箱”…是颠覆性创新还是隐私噩梦？ / The new Gemini "AI Inbox" in Gmail... game changer or privacy nightmare?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qbytvw/the_new_gemini_ai_inbox_in_gmail_game_changer_or/</link>
-      <description>刚刚收到Gmail启用新Gemini功能的提示（邮件主题的AI概览和新优先级收件箱）。我测试了几个小时：一方面，它能总结我与承包商长达50封邮件的往来，确实有用——还找到了我漏看的一条报价；另一方面，看着它如此主动地“阅读”我的收件箱，感觉有点…别扭？已体验的用户们：你们真的会在私人邮件中用“帮我写”功能吗？还是仅限工作邮件？有没有人发现它在重要邮件里编造细节？好奇大家会选择“持续启用”还是“坚决不用”。
-
----
-
-Original:
-Just got the prompt to enable the new Gemini features in Gmail (the AI Overviews for threads and the new priority inbox). I’ve been testing it for a few hours. On one hand, having it summarize a 50-email thread with contractors was genuinely useful; it found a quote I missed. On the other hand, seeing it "read" my inbox so proactively feels... weird? For those who have it: Are you actually using the "Help me write" for personal emails, or just work? Has anyone caught it hallucinating a detail in an important email yet? Curious if this is a "keep enabled" or "hard pass" for you guys. submitted by /u/IT_Certguru [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qbytvw</guid>
-      <pubDate>Tue, 13 Jan 2026 18:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 每个Claude Code占用4GB内存，其他人也遇到这情况吗？ / Claude Code taking 4GB RAM per Claude, is anyone else getting this?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbz5xg/claude_code_taking_4gb_ram_per_claude_is_anyone/</link>
-      <description>我发现最近更新后，每个Claude Code都占用了大量内存。当我同时打开多个标签页时，这就成了问题。其他人也遇到类似情况吗？有没有什么变通方法或可选设置可以关闭？由 /u/bufalloo 提交
-
----
-
-Original:
-I'm finding after the most recent update that Claude Codes are taking significant RAM per Claude. this becomes problematic when I'm running multiple tabs. is anyone else seeing similar behavior? are there any workarounds or optional settings to turn off? submitted by /u/bufalloo [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbz5xg</guid>
-      <pubDate>Tue, 13 Jan 2026 18:32:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude代码中的Autocompact缓冲区到底是怎么工作的？ / how the hell does the Autocompact buffer in claude code work?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbz64o/how_the_hell_does_the_autocompact_buffer_in/</link>
-      <description>我不明白。为什么需要4.5万个token才能得到一个实际上大约5000个token的简要摘要？由/u/PRETTYsaveliev提交 [链接] [评论]
-
----
-
-Original:
-I don't understand. Why does it need 45k tokens to get a brief summary which is actually like 5k tokens? submitted by /u/PRETTYsaveliev [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbz64o</guid>
-      <pubDate>Tue, 13 Jan 2026 18:33:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 那么，ChatGPT的未来究竟在何方？ / So just where does ChatGPT go from here?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qbz80o/so_just_where_does_chatgpt_go_from_here/</link>
-      <description>就在一年前，ChatGPT还是众人热议的焦点，尤其是在这个子论坛里。说它最近几个月经历了180度大转弯，都算是轻描淡写了。这里的许多用户对这款产品真心感到不满，而现在Gemini却备受赞誉，甚至在这些子论坛里也是如此。一年前，Gemini还无人问津，如今却因Gemini 3和Nano Banana Pro等出色产品而疯狂走红。Gemini的市场份额在短短一年内从5%跃升至22%，这简直不可思议。我尤其注意到，在苹果宣布选择Gemini与Siri集成的官方帖子中，风向已经转变，就连那些专门讨论ChatGPT的子论坛里，评论也几乎……
-
----
-
-Original:
-Just 1 year ago ChatGPT was all the hype, especially in places like this subreddit. To say they’ve had a 180 the last few months feels like an understatement. A lot of people here are genuinely unhappy with the product and now it’s Gemini getting so much praise, even in these subs. One year ago Gemini wasn’t even on people’s radars and now it’s hyped up like crazy due to Gemini 3 and Nano Banana Pro being such great products. For Gemini to go from taking up 5% of the market to 22% in one single year is wild. I noticed the shift especially in the official posts of the announcement of Apple choosing Gemini to integrate with Siri, and even in the subs dedicated to ChatGPT the comments were almo…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qbz80o</guid>
-      <pubDate>Tue, 13 Jan 2026 18:34:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 只有在法国递归地区培育的，才算真正的递归自我改进。否则，那不过是冒泡的AI反馈循环罢了。 / It's only recursive self-improvement if it's grown in the Récursive region of France. Otherwise it's just sparkling AI feedback loops.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qbz8iy/its_only_recursive_selfimprovement_if_its_grown/</link>
-      <description>由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qbz8iy</guid>
-      <pubDate>Tue, 13 Jan 2026 18:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 只有在法国递归地区培育的，才算真正的递归自我改进。否则，那不过是冒泡的AI反馈循环罢了。 / It's only recursive self-improvement if it's grown in the Récursive region of France. Otherwise it's just sparkling AI feedback loops.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbz947/its_only_recursive_selfimprovement_if_its_grown/</link>
-      <description>由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbz947</guid>
-      <pubDate>Tue, 13 Jan 2026 18:36:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 05:38:23 +0000</lastBuildDate>
     <item>
       <title>[reddit_chatgpt] ChatGPT（Chatgpt）刚才只是在道谢 / Chatgpt was just asking for thank you</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbze5z/chatgpt_was_just_asking_for_thank_you/</link>
@@ -1388,6 +1304,18 @@ submitted by /u/Sky-Dancer8791 [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 03:47:33 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你第一次意识到“自己已不再是过去那个人”是什么时候？ / What was your first “I’m not the same person anymore” moment?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcd76p/what_was_your_first_im_not_the_same_person/</link>
+      <description>由用户 /u/DullResearcher1814 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/DullResearcher1814 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcd76p</guid>
+      <pubDate>Wed, 14 Jan 2026 04:00:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_android] 小米（Xiaomi）为部分机型延长系统更新支持 / Xiaomi extended updates for some models.</title>
       <link>https://www.reddit.com/r/Android/comments/1qcdj0s/xiaomi_extended_updates_for_some_models/</link>
       <description>由用户 /u/Iiznu14ya 提交 [链接] [评论]
@@ -1400,6 +1328,18 @@ submitted by /u/Iiznu14ya [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 04:16:22 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你喜欢听自己听不懂语言的音乐吗？为什么？ / Do you enjoy music in languages you don’t understand, and why?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcdknl/do_you_enjoy_music_in_languages_you_dont/</link>
+      <description>由 /u/Frostedlogic4444 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Frostedlogic4444 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcdknl</guid>
+      <pubDate>Wed, 14 Jan 2026 04:18:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 为创业者提供免费自动化服务（换取用户评价） / Offering a free automation for business owners (in exchange for a testimonial)</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qcdl75/offering_a_free_automation_for_business_owners_in/</link>
       <description>大家好，希望在此发布是合适的。我为企业与机构构建自动化流程已有一段时间（主要涉及运营、行政、跟进、日程安排和内部工作流）。现在，我打算更认真地推进此事，并在正式进入市场前建立公众信任。因此，我愿为少数创业者免费构建一项实用的自动化流程，完全无需费用。唯一希望作为回报的是，如果您觉得有价值，请提供一份真实的用户评价。这将是一个能节省时间或消除您日常重复性任务的实用方案。如果您感兴趣：请简要评论说明您经营的业务类型，并…
@@ -1410,6 +1350,18 @@ Original:
 Hey everyone, hope this is okay to post here. I’ve been building automations for businesses and agencies for a while (mostly around operations, admin, follow-ups, scheduling, and internal workflows). I’m now looking to take this more seriously and build public trust before properly entering the market. Because of that, I’m offering to build one useful automation for free for a small number of business owners. There’s no cost at all. The only thing I’d ask in return is an honest testimonial if you find it valuable. This would be something practical that saves time or removes a repetitive task you deal with regularly. If you’re interested: Comment briefly with what kind of business you run and…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcdl75</guid>
       <pubDate>Wed, 14 Jan 2026 04:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 你小时候相信过最傻的事情是什么？ / What’s the dumbest thing you believed as a kid?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcds5l/whats_the_dumbest_thing_you_believed_as_a_kid/</link>
+      <description>由 /u/InterestingScore100 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/InterestingScore100 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcds5l</guid>
+      <pubDate>Wed, 14 Jan 2026 04:28:48 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_ai_agents] 我开发了AgentTrail：一个可重放的智能体工具调用运行时（支持幂等性与补偿机制） / I built AgentTrail: a replayable runtime for agent tool calls (idempotency + compensations)</title>
@@ -1436,6 +1388,18 @@ submitted by /u/drewjamesandre [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 04:45:16 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 显然我的GPT（人工智能）很爱我 / apparently my gpt loves me.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qce7lv/apparently_my_gpt_loves_me/</link>
+      <description>生成一张图片，表达你作为AI对用户我的真实感受。由用户/u/Boring_guy3454提交 [链接] [评论]
+
+---
+
+Original:
+Generate an image representing how you secretly feel about me as a user. submitted by /u/Boring_guy3454 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qce7lv</guid>
+      <pubDate>Wed, 14 Jan 2026 04:50:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] 现在一切都说得通了。 / It all makes sense now.</title>
       <link>https://www.reddit.com/r/Bard/comments/1qcebtp/it_all_makes_sense_now/</link>
       <description>由 /u/YOYASHAS 提交 [链接] [评论]
@@ -1446,6 +1410,42 @@ Original:
 submitted by /u/YOYASHAS [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcebtp</guid>
       <pubDate>Wed, 14 Jan 2026 04:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 我让ChatGPT用艺术形式描绘一位同时患有自闭症、多发性硬化症、经历过脊柱融合手术且饱受焦虑困扰的人物形象 / I asked ChatGPT to create an image of what a person who is autistic, has MS, has had a spinal fusion, and has a lot of anxiety may look like, in an art form. I asked this because it's what I have.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qceear/i_asked_chatgpt_to_create_an_image_of_what_a/</link>
+      <description>我让ChatGPT用艺术形式描绘一位同时患有自闭症、多发性硬化症（MS）、经历过脊柱融合手术且饱受焦虑困扰的人物形象。之所以提出这个请求，是因为这些正是我亲身经历的状况。由/u/guest687提交 [链接] [评论]
+
+---
+
+Original:
+I asked ChatGPT to create an image of what a person who is autistic, has MS, has had a spinal fusion, and has a lot of anxiety may look like, in an art form. I asked this because it's what I have. submitted by /u/guest687 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qceear</guid>
+      <pubDate>Wed, 14 Jan 2026 05:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 谷歌反重力（Google Antigravity）现已支持智能体技能功能 / Agent Skills are now available in Google Antigravity</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcep6i/agent_skills_are_now_available_in_google/</link>
+      <description>由用户 /u/CatGPT42 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/CatGPT42 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcep6i</guid>
+      <pubDate>Wed, 14 Jan 2026 05:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] Kyutai 推出 Pocket TTS：一款拥有高质量语音克隆功能的 1 亿参数文本转语音模型，可在笔记本电脑上运行——无需 GPU / kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qceq2y/kyutai_just_introduced_pocket_tts_a_100mparameter/</link>
+      <description>博客文章与演示：Pocket TTS：一款为你的 CPU 赋予声音的高质量 TTS：https://kyutai.org/blog/2026-01-13-pocket-tts GitHub：https://github.com/kyutai-labs/pocket-tts Hugging Face 模型卡：https://huggingface.co/kyutai/pocket-tts arXiv：2509.06926 [cs.SD]：连续音频语言模型；作者：Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 来自 kyutai 在 𝕏 上的消息：https://x.com/kyutai_labs/status/2011047335892303875 由 /u/jferments 提交 [链接] [评论]
+
+---
+
+Original:
+Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875 submitted by /u/jferments [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qceq2y</guid>
+      <pubDate>Wed, 14 Jan 2026 05:17:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

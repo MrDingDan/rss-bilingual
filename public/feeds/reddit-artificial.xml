@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 04:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 05:37:35 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -522,6 +522,18 @@ Original:
 submitted by /u/Sky-Dancer8791 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qccxaw</guid>
       <pubDate>Wed, 14 Jan 2026 03:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kyutai 推出 Pocket TTS：一款拥有高质量语音克隆功能的 1 亿参数文本转语音模型，可在笔记本电脑上运行——无需 GPU / kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qceq2y/kyutai_just_introduced_pocket_tts_a_100mparameter/</link>
+      <description>博客文章与演示：Pocket TTS：一款为你的 CPU 赋予声音的高质量 TTS：https://kyutai.org/blog/2026-01-13-pocket-tts GitHub：https://github.com/kyutai-labs/pocket-tts Hugging Face 模型卡：https://huggingface.co/kyutai/pocket-tts arXiv：2509.06926 [cs.SD]：连续音频语言模型；作者：Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 来自 kyutai 在 𝕏 上的消息：https://x.com/kyutai_labs/status/2011047335892303875 由 /u/jferments 提交 [链接] [评论]
+
+---
+
+Original:
+Blog post with demo: Pocket TTS: A high quality TTS that gives your CPU a voice: https://kyutai.org/blog/2026-01-13-pocket-tts GitHub: https://github.com/kyutai-labs/pocket-tts Hugging Face Model Card: https://huggingface.co/kyutai/pocket-tts arXiv:2509.06926 [cs.SD]: Continuous Audio Language Models; Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 From kyutai on 𝕏: https://x.com/kyutai_labs/status/2011047335892303875 submitted by /u/jferments [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qceq2y</guid>
+      <pubDate>Wed, 14 Jan 2026 05:17:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

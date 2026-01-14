@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 04:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 05:38:00 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -498,6 +498,18 @@ Original:
 submitted by /u/YOYASHAS [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcebtp</guid>
       <pubDate>Wed, 14 Jan 2026 04:56:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌反重力（Google Antigravity）现已支持智能体技能功能 / Agent Skills are now available in Google Antigravity</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcep6i/agent_skills_are_now_available_in_google/</link>
+      <description>由用户 /u/CatGPT42 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/CatGPT42 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcep6i</guid>
+      <pubDate>Wed, 14 Jan 2026 05:16:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

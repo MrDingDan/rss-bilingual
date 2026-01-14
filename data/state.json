@@ -601,7 +601,14 @@
     "reddit-askreddit::t3_1qc7pxp": 1768366751,
     "reddit-askreddit::t3_1qc7a7x": 1768366756,
     "reddit-askreddit::t3_1qccsgc": 1768366761,
-    "reddit-android::t3_1qcdj0s": 1768366766
+    "reddit-android::t3_1qcdj0s": 1768366766,
+    "reddit-artificial::t3_1qceq2y": 1768369055,
+    "reddit-chatgpt::t3_1qceear": 1768369063,
+    "reddit-chatgpt::t3_1qce7lv": 1768369073,
+    "reddit-bard::t3_1qcep6i": 1768369080,
+    "reddit-askreddit::t3_1qcd76p": 1768369087,
+    "reddit-askreddit::t3_1qcdknl": 1768369091,
+    "reddit-askreddit::t3_1qcds5l": 1768369100
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -2999,6 +3006,34 @@
     "c5f2e9cd55b22cba26680b85cc50a014b12cde5f2bf11633533e622aa1994400": {
       "zh_title": "小米（Xiaomi）为部分机型延长系统更新支持",
       "zh_summary": "由用户 /u/Iiznu14ya 提交 [链接] [评论]"
+    },
+    "cc92abefc4507223566771d10173e6fb2e8f053b0a87e0eaee998bad63454740": {
+      "zh_title": "Kyutai 推出 Pocket TTS：一款拥有高质量语音克隆功能的 1 亿参数文本转语音模型，可在笔记本电脑上运行——无需 GPU",
+      "zh_summary": "博客文章与演示：Pocket TTS：一款为你的 CPU 赋予声音的高质量 TTS：https://kyutai.org/blog/2026-01-13-pocket-tts GitHub：https://github.com/kyutai-labs/pocket-tts Hugging Face 模型卡：https://huggingface.co/kyutai/pocket-tts arXiv：2509.06926 [cs.SD]：连续音频语言模型；作者：Simon Rouard, Manu Orsini, Axel Roebel, Neil Zeghidour, Alexandre Défossez https://arxiv.org/abs/2509.06926 来自 kyutai 在 𝕏 上的消息：https://x.com/kyutai_labs/status/2011047335892303875 由 /u/jferments 提交 [链接] [评论]"
+    },
+    "b3f570b2ec7fc7ebac6825f7d1be9d7985a3dc520e19b275665276a2f8228336": {
+      "zh_title": "我让ChatGPT用艺术形式描绘一位同时患有自闭症、多发性硬化症、经历过脊柱融合手术且饱受焦虑困扰的人物形象",
+      "zh_summary": "我让ChatGPT用艺术形式描绘一位同时患有自闭症、多发性硬化症（MS）、经历过脊柱融合手术且饱受焦虑困扰的人物形象。之所以提出这个请求，是因为这些正是我亲身经历的状况。由/u/guest687提交 [链接] [评论]"
+    },
+    "d2d4188c30677490a8e64b7aa6bc73b14bc99471449c2fdda7534a45c00b23b8": {
+      "zh_title": "显然我的GPT（人工智能）很爱我",
+      "zh_summary": "生成一张图片，表达你作为AI对用户我的真实感受。由用户/u/Boring_guy3454提交 [链接] [评论]"
+    },
+    "5704c2ab3ab4d1566f92f7b366474f0b5ded17b9696d2e5918eb777da4ce5f3f": {
+      "zh_title": "谷歌反重力（Google Antigravity）现已支持智能体技能功能",
+      "zh_summary": "由用户 /u/CatGPT42 提交 [链接] [评论]"
+    },
+    "d8e073ccc34435d27b4f0ba93b2f74c87518e2f5756c316c378df42b1afc2b61": {
+      "zh_title": "你第一次意识到“自己已不再是过去那个人”是什么时候？",
+      "zh_summary": "由用户 /u/DullResearcher1814 提交 [链接] [评论]"
+    },
+    "8a2c02b034a3070cad0e5e380c58c16724d0b869ddde0519a2da1b2eac090967": {
+      "zh_title": "你喜欢听自己听不懂语言的音乐吗？为什么？",
+      "zh_summary": "由 /u/Frostedlogic4444 提交 [链接] [评论]"
+    },
+    "2bd32048803ce3a6f3f06a9f971798b36a008a87e0b8b8d1502dae4cad449402": {
+      "zh_title": "你小时候相信过最傻的事情是什么？",
+      "zh_summary": "由 /u/InterestingScore100 提交 [链接] [评论]"
     }
   }
 }
