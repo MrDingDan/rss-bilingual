@@ -587,7 +587,21 @@
     "reddit-askreddit::t3_1qcav6k": 1768363586,
     "reddit-askreddit::t3_1qc6fjv": 1768363591,
     "reddit-android::t3_1qca7ij": 1768363596,
-    "reddit-android::t3_1qca8j1": 1768363600
+    "reddit-android::t3_1qca8j1": 1768363600,
+    "reddit-ai-agents::t3_1qcdl75": 1768366676,
+    "reddit-ai-agents::t3_1qcdzbr": 1768366685,
+    "reddit-chatgpt::t3_1qcaxnb": 1768366692,
+    "reddit-claudeai::t3_1qccsp7": 1768366704,
+    "reddit-claudeai::t3_1qce3r2": 1768366708,
+    "reddit-claudeai::t3_1qcb86r": 1768366718,
+    "reddit-bard::t3_1qcebtp": 1768366725,
+    "reddit-askreddit::t3_1qcbztw": 1768366729,
+    "reddit-askreddit::t3_1qca244": 1768366733,
+    "reddit-askreddit::t3_1qc9g1t": 1768366742,
+    "reddit-askreddit::t3_1qc7pxp": 1768366751,
+    "reddit-askreddit::t3_1qc7a7x": 1768366756,
+    "reddit-askreddit::t3_1qccsgc": 1768366761,
+    "reddit-android::t3_1qcdj0s": 1768366766
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -2929,6 +2943,62 @@
     "acf9c1243ff2e096846bdd90cdcccf556c703417626c0497deaac3c52fa2fd22": {
       "zh_title": "Kotlin 2026 发展现状",
       "zh_summary": "由 /u/dev_newsletter 提交 [链接] [评论]"
+    },
+    "281ebe6f67c4ee35b41f67136714c3ac5d47f61f716853ae438827c335544225": {
+      "zh_title": "为创业者提供免费自动化服务（换取用户评价）",
+      "zh_summary": "大家好，希望在此发布是合适的。我为企业与机构构建自动化流程已有一段时间（主要涉及运营、行政、跟进、日程安排和内部工作流）。现在，我打算更认真地推进此事，并在正式进入市场前建立公众信任。因此，我愿为少数创业者免费构建一项实用的自动化流程，完全无需费用。唯一希望作为回报的是，如果您觉得有价值，请提供一份真实的用户评价。这将是一个能节省时间或消除您日常重复性任务的实用方案。如果您感兴趣：请简要评论说明您经营的业务类型，并…"
+    },
+    "9c9ba69266e0c0483c2e7bd78ae66b9ccf85e741d65c1ba0e9e4aa98eb83256d": {
+      "zh_title": "我开发了AgentTrail：一个可重放的智能体工具调用运行时（支持幂等性与补偿机制）",
+      "zh_summary": "在开发求职申请智能体时，我反复遇到一个痛点：当工具调用中途失败时，重试容易引发混乱（如重复发送邮件或重复写入数据库），调试过程也变得繁琐，难以精确复现问题。为此，我构建了一个轻量级运行时库，它能：记录工具调用及其结果、通过幂等性重试避免副作用重复、在运行中方法失败时支持补偿操作。我还加入了确定性重放功能，以便在不重复调用外部系统和LLM的情况下复现故障。目前，我正在重点探索并优化其中的人机协同（HITL）流程……"
+    },
+    "05577a38f0720112abb9df798d9ad9f6e7dff863568412531f3e99b9333528ff": {
+      "zh_title": "我让ChatGPT生成一张最惊艳的胖猫图片，结果诞生了这位美丽的猫公主",
+      "zh_summary": "由用户 /u/InkognitoCheeto 提交 [链接] [评论]"
+    },
+    "ba31705c94280f0f1dc3ae8da70a7388a9648955a176167867951a32b6d4aa79": {
+      "zh_title": "有人找到方法阻止Claude说“那个短语”了吗",
+      "zh_summary": "由 /u/CurveSudden1104 提交 [链接] [评论]"
+    },
+    "501964f26e9f966421cff153b39983be674c105b67a5671378e76937eab3e658": {
+      "zh_title": "1月15日的我",
+      "zh_summary": "由 /u/drewjamesandre 提交 [链接] [评论]"
+    },
+    "c233578b8e9374ff063f35646bd49c4fabd9354cac7e7ce64c5b9dcef07b5833": {
+      "zh_title": "昨天我整理了200个AI Claude技能，今天已超1000个",
+      "zh_summary": "昨天，我保存了大约200个AI/Claude技能。我本无意刻意收集，但由于日常工作频繁使用AI工具，久而久之自然收藏了许多提示、代码库、代码片段和共享技能集。后来我决定坐下来认真整理已有内容，这一过程让我明显意识到：一旦开始留意，数量增长得极快。经过进一步收集和整理，清单在一天内从约200个激增至1000多个技能。有趣的是，随着内容增加，一些问题也愈发清晰。**1. 许多技能本质雷同，仅表述不同** 当数量足够多时，某些模式便难以忽视……"
+    },
+    "678acf3c9f11015e550c7d9ba7e2a78d15ca2a16c4d1aa4bcf2d157bd1cf6cf3": {
+      "zh_title": "现在一切都说得通了。",
+      "zh_summary": "由 /u/YOYASHAS 提交 [链接] [评论]"
+    },
+    "a21046bdf8bb7f67d605d06551b7e41e88dcfe52850be5c6c6470cc13542402e": {
+      "zh_title": "当年欺负你的那个孩子后来怎么样了？",
+      "zh_summary": "由用户 /u/Specific_Image_737 提交 [链接] [评论]"
+    },
+    "4efdfa0343fd7f4e7fe0a1040b2589a244e623482eebc8680b8b9d4746e2dfca": {
+      "zh_title": "你见过最快的离婚有多快？",
+      "zh_summary": "由用户/u/GoatBlue03提交 [链接] [评论]"
+    },
+    "d23695d5de785befa9f5bc511449a95c33d81f38f9800730539fea6393fc3ce6": {
+      "zh_title": "还记得智能手机出现前生活的人们：那时真的更好，还是仅仅不同？",
+      "zh_summary": "由用户 /u/arose_1 提交 [链接] [评论]"
+    },
+    "350efdfb14f4c5f291a0e225001fd7545a48909f6fb668bbb52895848bd5709d": {
+      "zh_title": "你的自信从何而来？",
+      "zh_summary": "由 /u/RedHeadHashira 提交 [链接] [评论]"
+    },
+    "414e7d14d1323ed1b421029e7bd1d8e22e55e01dc9c0395937280c4ac1b7aa51": {
+      "zh_title": "面试中哪些‘危险信号’会让你直接放弃机会？",
+      "zh_summary": "由用户 /u/DreamWalker3232 提交 [链接] [评论]"
+    },
+    "21dc0fb51aeeb79a3a6014a82b6f9b728e1b41598d9df7846298b61ecdb5ad89": {
+      "zh_title": "你最不认同哪句名言或谚语？",
+      "zh_summary": "由用户 /u/Fun_Butterscotch3303 提交 [链接] [评论]"
+    },
+    "c5f2e9cd55b22cba26680b85cc50a014b12cde5f2bf11633533e622aa1994400": {
+      "zh_title": "小米（Xiaomi）为部分机型延长系统更新支持",
+      "zh_summary": "由用户 /u/Iiznu14ya 提交 [链接] [评论]"
     }
   }
 }

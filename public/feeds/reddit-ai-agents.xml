@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 04:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:58:05 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -714,6 +714,30 @@ Original:
 While most of AI agent focusing on programming. I am wondering what kind of daily life AI agent you find useful. Did you use any email agent? If so, how did it boost your productivity? Did you use any travel AI agent? In what circumstances you would rely on suggestion from AI agent rather than find the place yourself by manual scrolling on app or looking for ideas from your colleague or friends? Will you stick to plans provided by such agent? Did you use any food recommendation AI agent? Do you want to try the food suggestion by such agent? Do you think an agent in these circustance would be helpful? or most of users are more into ordinary ChatGPT or Gemini chats? submitted by /u/Apprehensiv…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qcbl3e</guid>
       <pubDate>Wed, 14 Jan 2026 02:45:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>为创业者提供免费自动化服务（换取用户评价） / Offering a free automation for business owners (in exchange for a testimonial)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcdl75/offering_a_free_automation_for_business_owners_in/</link>
+      <description>大家好，希望在此发布是合适的。我为企业与机构构建自动化流程已有一段时间（主要涉及运营、行政、跟进、日程安排和内部工作流）。现在，我打算更认真地推进此事，并在正式进入市场前建立公众信任。因此，我愿为少数创业者免费构建一项实用的自动化流程，完全无需费用。唯一希望作为回报的是，如果您觉得有价值，请提供一份真实的用户评价。这将是一个能节省时间或消除您日常重复性任务的实用方案。如果您感兴趣：请简要评论说明您经营的业务类型，并…
+
+---
+
+Original:
+Hey everyone, hope this is okay to post here. I’ve been building automations for businesses and agencies for a while (mostly around operations, admin, follow-ups, scheduling, and internal workflows). I’m now looking to take this more seriously and build public trust before properly entering the market. Because of that, I’m offering to build one useful automation for free for a small number of business owners. There’s no cost at all. The only thing I’d ask in return is an honest testimonial if you find it valuable. This would be something practical that saves time or removes a repetitive task you deal with regularly. If you’re interested: Comment briefly with what kind of business you run and…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcdl75</guid>
+      <pubDate>Wed, 14 Jan 2026 04:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>我开发了AgentTrail：一个可重放的智能体工具调用运行时（支持幂等性与补偿机制） / I built AgentTrail: a replayable runtime for agent tool calls (idempotency + compensations)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qcdzbr/i_built_agenttrail_a_replayable_runtime_for_agent/</link>
+      <description>在开发求职申请智能体时，我反复遇到一个痛点：当工具调用中途失败时，重试容易引发混乱（如重复发送邮件或重复写入数据库），调试过程也变得繁琐，难以精确复现问题。为此，我构建了一个轻量级运行时库，它能：记录工具调用及其结果、通过幂等性重试避免副作用重复、在运行中方法失败时支持补偿操作。我还加入了确定性重放功能，以便在不重复调用外部系统和LLM的情况下复现故障。目前，我正在重点探索并优化其中的人机协同（HITL）流程……
+
+---
+
+Original:
+I have been building a job application agent and kept running into the same pain: when a tool call fails mid-run, retries can get messy (duplicate emails / duplicate DB writes), and debugging becomes messy and it's hard to reproduce exactly what happened. So, I build a small library that sits at runtime that: Logs the tool call and outcome adds idempotency retries so that retries doesn't repeat the side effects supports compensations when a method fails during a run I also added deterministic replay, so that I can try to reproduce failures without hitting external systems and llm calls again One thing I am focusing on right now is exploring and streamlining HITL (Human-In-The-Loop) inside th…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qcdzbr</guid>
+      <pubDate>Wed, 14 Jan 2026 04:38:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

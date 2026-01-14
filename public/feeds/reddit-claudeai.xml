@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 04:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:58:38 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -692,6 +692,18 @@ I've been using Claude Code intensely over the past 11 months since its launch, 
       <pubDate>Wed, 14 Jan 2026 02:03:21 +0000</pubDate>
     </item>
     <item>
+      <title>昨天我整理了200个AI Claude技能，今天已超1000个 / I went through 200 AI Claude skills yesterday. Today it’s already over 1000.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcb86r/i_went_through_200_ai_claude_skills_yesterday/</link>
+      <description>昨天，我保存了大约200个AI/Claude技能。我本无意刻意收集，但由于日常工作频繁使用AI工具，久而久之自然收藏了许多提示、代码库、代码片段和共享技能集。后来我决定坐下来认真整理已有内容，这一过程让我明显意识到：一旦开始留意，数量增长得极快。经过进一步收集和整理，清单在一天内从约200个激增至1000多个技能。有趣的是，随着内容增加，一些问题也愈发清晰。**1. 许多技能本质雷同，仅表述不同** 当数量足够多时，某些模式便难以忽视……
+
+---
+
+Original:
+esterday, I had around 200 AI / Claude skills saved. I didn’t plan to collect them. I use AI tools daily for work, so over time I naturally bookmarked prompts, repos, gists, and shared skill collections. At some point, I decided to actually sit down and review what I had. That review process made something obvious: once you start paying attention, the number grows _very_ fast. After spending more time collecting and reviewing, the list jumped from about 200 to over 1000 skills in a single day. And interestingly, the more I added, the clearer a few problems became. **1. Many skills are essentially the same idea, just phrased differently** With enough volume, patterns become impossible to igno…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcb86r</guid>
+      <pubDate>Wed, 14 Jan 2026 02:29:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code最近在创建tmpclaude-cwd文件吗？ / Claude Code recently creating tmpclaude-cwd files?</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcbwqz/claude_code_recently_creating_tmpclaudecwd_files/</link>
       <description>过去几个月从未出现这种情况，直到最近几天才发生。通常当Claude规划时，它会将这些文件添加到我的代码仓库中，这很烦人，因为会弄乱暂存文件。我认为这些文件本不应该被创建，而应临时存储在服务器或仓库之外的某个地方。我们不应该需要将它们加入gitignore，因为自Claude Code（Anthropic）发布以来从未有过这种需求。请修复此问题。提交者：/u/pizzae [链接] [评论]
@@ -714,6 +726,30 @@ Original:
 For the past 8 months, I've been building autonomous AI development tools, never quite sure if I was pushing boundaries Anthropic didn't want pushed. Persistent loops? Multi-day missions? Agents spawning agents? It felt like I was operating in a gray area. It all started with creative writing... I've long held that... Well... Actually, let me stay on track here. You know, state based file checkpoints, writing full chapters at a time using... Anyways, I was never quite sure if I was in the clear. Or if I was breaking some rule... Well, I took what I learned about State Based machines and loops, and I started actually implementing them into autonomous agentic loops. Then... Anthropic release s…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qccm6a</guid>
       <pubDate>Wed, 14 Jan 2026 03:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>有人找到方法阻止Claude说“那个短语”了吗 / anyone found a way to stop Claude from saying "the phrase"</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qccsp7/anyone_found_a_way_to_stop_claude_from_saying_the/</link>
+      <description>由 /u/CurveSudden1104 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/CurveSudden1104 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qccsp7</guid>
+      <pubDate>Wed, 14 Jan 2026 03:41:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>1月15日的我 / me on jan 15</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qce3r2/me_on_jan_15/</link>
+      <description>由 /u/drewjamesandre 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/drewjamesandre [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qce3r2</guid>
+      <pubDate>Wed, 14 Jan 2026 04:45:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

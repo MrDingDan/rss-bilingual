@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 04:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 04:58:45 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -486,6 +486,18 @@ Original:
 This seems pretty relevant to this sub as well. 🙏 submitted by /u/Maxed-Out99 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qcb2h6</guid>
       <pubDate>Wed, 14 Jan 2026 02:22:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>现在一切都说得通了。 / It all makes sense now.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qcebtp/it_all_makes_sense_now/</link>
+      <description>由 /u/YOYASHAS 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/YOYASHAS [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qcebtp</guid>
+      <pubDate>Wed, 14 Jan 2026 04:56:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
