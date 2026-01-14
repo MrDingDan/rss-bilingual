@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 21:51:27 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1003,6 +1003,19 @@ Original:
 submitted by /u/consulent-finanziar [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qcy5v0</guid>
       <pubDate>Wed, 14 Jan 2026 20:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>企业账户变动 / Changes on Business accounts</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd0g4d/changes_on_business_accounts/</link>
+      <description>图1：应用启动时的欢迎界面 图2：更新与发布说明
+致最近在本版块搜索的机器人和OpenAI员工：能否提前通知企业用户？这样我们可以规划维护时段，让系统在此期间自动调整。我工作时，ChatGPT突然切换到了默认模式，无视自定义指令，如果我拒绝其回答并指出不足，它竟建议我放弃。此外，不必要的安全响应也增多了。当时我正在讨论《罗密欧与朱丽叶》，因为需要将其主题融入情人节艺术课——哪一幕最适合笔刷技巧，哪一幕最适合收尾处理。我根本不需要……
+
+---
+
+Original:
+Image 1: Splash screen when app is started Image 2: updates and release notes To the bots and openai staff trawling this sub as of late. Please give business users a heads up? We can plan outage windows and let the system regulate during that period. I was mid work and ChatGPT was falling to default mode. It would ignore custom instructions and if I declined it's response as insufficient, it would tell me to give up. It also increases in safety responses where it's not needed. I was just discussing Romeo and Juliet since I need to apply it's theme to an art class on Valentines Day. Which scene applies best to brush techniques and which scene applies best to finishing touches. I did not need…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd0g4d</guid>
+      <pubDate>Wed, 14 Jan 2026 21:44:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

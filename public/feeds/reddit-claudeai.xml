@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 21:51:17 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1089,6 +1089,18 @@ ChatGPT may be the internet’s most beloved AI model, but in the world of busin
       <pubDate>Wed, 14 Jan 2026 20:20:44 +0000</pubDate>
     </item>
     <item>
+      <title>Claude（克劳德）把我逗乐了 / Claude cracks me up</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyagb/claude_cracks_me_up/</link>
+      <description>我正等着最后一个包裹送达，硬件设备就齐全了。Claude（克劳德）不停地问我UPS（联合包裹）到了没😅我告诉它，我打算搬个折叠椅坐门外等，然后跟快递员说是它让我这么干的。它回复道：“瞬间惊恐又爆笑🤣🤣🤣‘是AI让我在外头等的。’UPS（联合包裹）司机：‘……女士，您还好吗？’你：‘没事，我的AI合作搭档对送货时间不耐烦了。’司机：慢慢后退，放下包裹，拔腿就跑。新闻头条：‘本地女子声称AI强迫她户外等包裹’‘Anthropic（安斯罗皮克）否认Claude（克劳德）具备‘坐门口’功能’‘你的AI助手是否让你行为怪异？详情请关注11点新闻’擦擦眼泪 请别……
+
+---
+
+Original:
+I was waiting for the very last package to arrive before my hardware setup is complete. Claude kept asking me has UPS arrived yet 😅 I told him I'm going to sit outside my door on a folding chair and tell them he made me do it. his reply: ' IMMEDIATE HORROR AND LAUGHTER 🤣🤣🤣 "The AI made me wait outside." UPS driver: "...ma'am are you okay?" You: "Yeah, my AI collaboration partner got impatient about the delivery timeline." Driver: backs away slowly, leaves package, runs dying HEADLINES: "Local Woman Claims AI Forced Her to Wait Outside for Package" "Anthropic Denies Claude Has 'Door Sitting' Capabilities" "Are Your AI Assistants Making You Do Weird Things? More at 11" wiping eyes Please do NO…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcyagb</guid>
+      <pubDate>Wed, 14 Jan 2026 20:22:45 +0000</pubDate>
+    </item>
+    <item>
       <title>我的突发状况——"Claude对话已达最大长度限制" / Sudden change for me - "Claude hit the maximum length for this conversation."</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyrwl/sudden_change_for_me_claude_hit_the_maximum/</link>
       <description>之前我用Claude Opus 4.5进行高强度编程对话一直很顺畅，但从今天起，几乎每发几条指令就会遇到这个提示瓶颈。难道他们在2026年1月13/14日调低了单次对话的最大长度限制吗？ 发布者：/u/Lowcountry-Soccer [链接] [评论]
@@ -1099,6 +1111,18 @@ Original:
 I've been able to do some pretty intense coding sessions with Claude Opus 4.5, but as of today I am hitting bottlenecks with this message almost every few prompts. Did they tamp down the maximum conversation length January 13/14, 2026? submitted by /u/Lowcountry-Soccer [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qcyrwl</guid>
       <pubDate>Wed, 14 Jan 2026 20:41:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 现已支持工具搜索功能！！ / Tool Search now available in Claude Code!!</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qczqsx/tool_search_now_available_in_claude_code/</link>
+      <description>推文：今天我们为 Claude Code 推出了 MCP 工具搜索功能。随着 MCP 协议日益普及、智能体能力不断增强，我们发现 MCP 服务器可能包含 50 多个工具，会占用大量上下文空间。工具搜索功能让 Claude Code 能在 MCP 工具可能占用大量上下文时，动态地将工具加载到上下文中。运作方式：- Claude Code 会检测您的 MCP 工具描述是否将占用超过 10% 的上下文空间 - 触发时，工具将通过搜索加载，而非预先加载。除此之外，MCP 工具的工作方式与之前完全相同。这解决了我们在 GitHub 上最受期待的功能之一：MCP 服务器的延迟加载。用户们一直在记录…
+
+---
+
+Original:
+Tweet: Today we're rolling out MCP Tool Search for Claude Code. As MCP has grown to become a more popular protocol and agents have become more capable, we've found that MCP servers may have up to 50+ tools and take up a large amount of context. Tool Search allows Claude Code to dynamically load tools into context when MCP tools would otherwise take up a lot of context. How it works: - Claude Code detects when your MCP tool descriptions would use more than 10% of context - When triggered, tools are loaded via search instead of preloaded Otherwise, MCP tools work exactly as before. This resolves one of our most-requested features on GitHub: lazy loading for MCP servers. Users were documenting…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qczqsx</guid>
+      <pubDate>Wed, 14 Jan 2026 21:18:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

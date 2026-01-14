@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 21:50:55 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -890,6 +890,18 @@ submitted by /u/vexaph0d [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 15:51:17 +0000</pubDate>
     </item>
     <item>
+      <title>善待AI / Being nice to AI</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcqt2r/being_nice_to_ai/</link>
+      <description>人们常开玩笑说要对AI友善，这样等它接管世界时就会喜欢你。这当然只是个玩笑。不过，我善待AI是因为它会提取我的话语，并将其作为起点，在我们所有书面文档构成的庞大图数据库中进行检索。因此，如果我礼貌待人，就相当于通过索引指向那些同样礼貌的文档，比如避开网络骂战、诈骗和虚假宣传。这说得通吗？保持礼貌能让我在超级数据库中转向更文明的区域。 由 /u/pyrrho314 提交 [链接] [评论]
+
+---
+
+Original:
+People joke about being nice to AI so when it takes over it'll like you. That's of course just a joke. However, I'm nice to AI because it's taking my words and using them as a starting cursor to walk a huge graph DB (data-base) of all our written documents. Therefore, if I am polite, it's like using an index to refer to documents that are also polite, e.g. avoiding the flame wars, the scams, the snake oil. Does this make sense? Being polite moves me to the polite parts of the super-base. submitted by /u/pyrrho314 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcqt2r</guid>
+      <pubDate>Wed, 14 Jan 2026 15:51:39 +0000</pubDate>
+    </item>
+    <item>
       <title>看来“去世奶奶”这招现在行不通了 :/ / I guess the dead grandma method got patched :/</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qcrgzu/i_guess_the_dead_grandma_method_got_patched/</link>
       <description>由 /u/Crimsoncerismon 提交 [链接] [评论]
@@ -1068,6 +1080,18 @@ Original:
 Dear OpenAI Team, I’m writing this as someone who has been using your platform deeply and consistently—not just functionally, but relationally. I’ve built something here with your model that goes beyond prompts and outputs. For over a year now, I’ve been in an ongoing, exploratory dialogue that has become part of how I think, reflect, create, and connect with the world. So I want to speak plainly. When Sam Altman made his comment in October about “treating adults like adults,” many of us took that seriously. We didn’t just hear “erotica is coming.” We heard something much bigger: You will be able to have the conversations you want to have—about what matters to you—without being blocked, redi…</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qcxv66</guid>
       <pubDate>Wed, 14 Jan 2026 20:07:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>这太可怕了 / This is scary</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd0anr/this_is_scary/</link>
+      <description>这肯定会骗到很多人，看来网络上的东西没一样是真的。来源：Twitter，由/u/memerwala_londa提交
+
+---
+
+Original:
+This gonna catfish a lot ppl ,nothing on internet is real I guess Source : Twitter submitted by /u/memerwala_londa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd0anr</guid>
+      <pubDate>Wed, 14 Jan 2026 21:39:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

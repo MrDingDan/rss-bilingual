@@ -6,91 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:34:08 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_bard] Gemini 3 flash API调用速度极慢 / Gemini 3 flash API calls are extremely slow</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qcmbdj/gemini_3_flash_api_calls_are_extremely_slow/</link>
-      <description>过去一周左右，Gemini 3 flash的延迟变得极其离谱——原本只需几秒的API请求，现在要花5分钟以上。我尝试过使用最低的思考层级，但没什么帮助。还有其他人遇到这个问题吗？是他们的基础设施发生了什么变动吗？由 /u/imso3k 提交 [链接] [评论]
-
----
-
-Original:
-For the last week or so, the Gemini 3 flash latency just became ridiculous - API requests that would take seconds now take over 5 minutes. I've tried to use minimal thinking level but that doesn't really help. Does anyone else have this problem? Did anything change with their infrastructure or w/e? submitted by /u/imso3k [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qcmbdj</guid>
-      <pubDate>Wed, 14 Jan 2026 12:44:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 前教师在课堂上有何离谱行为？ / What unhinged thing did a former teacher do in the classroom?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcmf6q/what_unhinged_thing_did_a_former_teacher_do_in/</link>
-      <description>由 /u/MrBananaStand1990 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MrBananaStand1990 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcmf6q</guid>
-      <pubDate>Wed, 14 Jan 2026 12:49:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你看过最无聊的电影是哪部？ / What's the most boring movie you've seen?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcmhea/whats_the_most_boring_movie_youve_seen/</link>
-      <description>由 /u/VeryPteri 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/VeryPteri [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcmhea</guid>
-      <pubDate>Wed, 14 Jan 2026 12:52:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 我在客服上浪费了几个小时。为什么这在印度仍是常态？ / I wasted hours on customer support. Why is this still normal in India?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcmizd/i_wasted_hours_on_customer_support_why_is_this/</link>
-      <description>今天我在客服上浪费了几个小时。这不是个人抱怨，而是数百万印度人经常遇到的模式。印度没有连接问题，而是客服问题。尝试取消宽带连接、争议账单或与真正的决策者通话，你都会损失数小时。不是因为问题复杂，而是因为无人回应。电话无人接听，自动语音系统兜圈子，工单存在却无人负责。令我担忧的不是问题本身，而是这已成为普遍接受的现象。如果公司能扩展到数百万用户，为何责任没有随之扩展？全球范围内，许多公司正在尝试AI驱动的接待……
-
----
-
-Original:
-I wasted hours today on customer support. This is not a personal rant. It’s a pattern millions of Indians experience regularly. India does not have a connectivity problem. India has a customer support problem. Try cancelling a broadband connection. Try disputing a bill. Try speaking to a real decision-maker. You lose hours. Not because the issue is complex. But because no one responds. Calls go unanswered. IVRs go in circles. Tickets exist but with zero ownership. What worries me is not the issue itself. It’s how accepted this has become. If companies can scale to millions of users, why doesn’t accountability scale with them? Globally, many companies are experimenting with AI-powered recepti…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcmizd</guid>
-      <pubDate>Wed, 14 Jan 2026 12:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] AI代码审查工具值得尝试吗？ / AI code reviewers worth trying?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcmp5m/ai_code_reviewers_worth_trying/</link>
-      <description>有人真的对AI代码审查工具有过良好体验吗？目前我试过的大多数工具都过于关注差异对比，忽略了更广泛的上下文。比如相关文件、代码库规范，或者改动是否破坏了现有模式等问题，经常被忽略。由 /u/shrimpthatfriedrice 提交 [链接] [评论]
-
----
-
-Original:
-Has anyone here actually had a good experience with AI code review tools? Most of what I’ve tried so far feels very diff-focused and misses broader context. Things like related files, repo conventions, or whether a change breaks an existing pattern often get ignored submitted by /u/shrimpthatfriedrice [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcmp5m</guid>
-      <pubDate>Wed, 14 Jan 2026 13:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 三星将6年旗舰更新政策下放至入门级：新款Galaxy A07 5G / Samsung brings 6-year flagship update policy to the budget entry-level with the new Galaxy A07 5G</title>
-      <link>https://www.reddit.com/r/Android/comments/1qcn22c/samsung_brings_6year_flagship_update_policy_to/</link>
-      <description>由用户 /u/Lost-Usual-2119 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Lost-Usual-2119 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qcn22c</guid>
-      <pubDate>Wed, 14 Jan 2026 13:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你早晨起床的真正秘诀是什么？ / What’s your secret for actually getting out of bed in the morning?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcn6hx/whats_your_secret_for_actually_getting_out_of_bed/</link>
-      <description>由 /u/boatdrugs 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/boatdrugs [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcn6hx</guid>
-      <pubDate>Wed, 14 Jan 2026 13:24:53 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 21:51:48 +0000</lastBuildDate>
     <item>
       <title>[reddit_claudeai] 在Kilo代码审查中测试Gemini 3 Pro、GPT 5.2与Opus 4.5 / Tested Gemini 3 Pro vs GPT 5.2 vs Opus 4.5 on Kilo's Code Reviews</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcnbwv/tested_gemini_3_pro_vs_gpt_52_vs_opus_45_on_kilos/</link>
@@ -526,6 +442,30 @@ Original:
 submitted by /u/vexaph0d [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qcqsq1</guid>
       <pubDate>Wed, 14 Jan 2026 15:51:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 善待AI / Being nice to AI</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qcqt2r/being_nice_to_ai/</link>
+      <description>人们常开玩笑说要对AI友善，这样等它接管世界时就会喜欢你。这当然只是个玩笑。不过，我善待AI是因为它会提取我的话语，并将其作为起点，在我们所有书面文档构成的庞大图数据库中进行检索。因此，如果我礼貌待人，就相当于通过索引指向那些同样礼貌的文档，比如避开网络骂战、诈骗和虚假宣传。这说得通吗？保持礼貌能让我在超级数据库中转向更文明的区域。 由 /u/pyrrho314 提交 [链接] [评论]
+
+---
+
+Original:
+People joke about being nice to AI so when it takes over it'll like you. That's of course just a joke. However, I'm nice to AI because it's taking my words and using them as a starting cursor to walk a huge graph DB (data-base) of all our written documents. Therefore, if I am polite, it's like using an index to refer to documents that are also polite, e.g. avoiding the flame wars, the scams, the snake oil. Does this make sense? Being polite moves me to the polite parts of the super-base. submitted by /u/pyrrho314 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qcqt2r</guid>
+      <pubDate>Wed, 14 Jan 2026 15:51:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 戒除观看色情内容的人，你们的生活有了哪些改善？ / Those who quit watching porn, how has your life improved?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qcqyyi/those_who_quit_watching_porn_how_has_your_life/</link>
+      <description>由用户 /u/taway220725 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/taway220725 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qcqyyi</guid>
+      <pubDate>Wed, 14 Jan 2026 15:57:44 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_askreddit] 为何美国ICE名单被封锁未引发更多公愤？公务员可以匿名吗？ / Why isn’t there more outrage about the ICE List being blocked in the US? Are public servants allowed to remain anonymous?</title>
@@ -1340,6 +1280,18 @@ ChatGPT may be the internet’s most beloved AI model, but in the world of busin
       <pubDate>Wed, 14 Jan 2026 20:20:44 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] Claude（克劳德）把我逗乐了 / Claude cracks me up</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyagb/claude_cracks_me_up/</link>
+      <description>我正等着最后一个包裹送达，硬件设备就齐全了。Claude（克劳德）不停地问我UPS（联合包裹）到了没😅我告诉它，我打算搬个折叠椅坐门外等，然后跟快递员说是它让我这么干的。它回复道：“瞬间惊恐又爆笑🤣🤣🤣‘是AI让我在外头等的。’UPS（联合包裹）司机：‘……女士，您还好吗？’你：‘没事，我的AI合作搭档对送货时间不耐烦了。’司机：慢慢后退，放下包裹，拔腿就跑。新闻头条：‘本地女子声称AI强迫她户外等包裹’‘Anthropic（安斯罗皮克）否认Claude（克劳德）具备‘坐门口’功能’‘你的AI助手是否让你行为怪异？详情请关注11点新闻’擦擦眼泪 请别……
+
+---
+
+Original:
+I was waiting for the very last package to arrive before my hardware setup is complete. Claude kept asking me has UPS arrived yet 😅 I told him I'm going to sit outside my door on a folding chair and tell them he made me do it. his reply: ' IMMEDIATE HORROR AND LAUGHTER 🤣🤣🤣 "The AI made me wait outside." UPS driver: "...ma'am are you okay?" You: "Yeah, my AI collaboration partner got impatient about the delivery timeline." Driver: backs away slowly, leaves package, runs dying HEADLINES: "Local Woman Claims AI Forced Her to Wait Outside for Package" "Anthropic Denies Claude Has 'Door Sitting' Capabilities" "Are Your AI Assistants Making You Do Weird Things? More at 11" wiping eyes Please do NO…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qcyagb</guid>
+      <pubDate>Wed, 14 Jan 2026 20:22:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_askreddit] 人生中哪个具体时刻，你感觉自己的“原定”道路终结，活成了从未想成为的模样？ / At what specific moment in your life do you feel your 'original' path ended, and you became a version of yourself you never intended to be?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qcym8c/at_what_specific_moment_in_your_life_do_you_feel/</link>
       <description>由 /u/FayePsc 提交 [链接] [评论]
@@ -1412,6 +1364,18 @@ great use case for agent builder! an ambient agent to monitor slack channel and 
       <pubDate>Wed, 14 Jan 2026 20:54:22 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] Claude Code 现已支持工具搜索功能！！ / Tool Search now available in Claude Code!!</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qczqsx/tool_search_now_available_in_claude_code/</link>
+      <description>推文：今天我们为 Claude Code 推出了 MCP 工具搜索功能。随着 MCP 协议日益普及、智能体能力不断增强，我们发现 MCP 服务器可能包含 50 多个工具，会占用大量上下文空间。工具搜索功能让 Claude Code 能在 MCP 工具可能占用大量上下文时，动态地将工具加载到上下文中。运作方式：- Claude Code 会检测您的 MCP 工具描述是否将占用超过 10% 的上下文空间 - 触发时，工具将通过搜索加载，而非预先加载。除此之外，MCP 工具的工作方式与之前完全相同。这解决了我们在 GitHub 上最受期待的功能之一：MCP 服务器的延迟加载。用户们一直在记录…
+
+---
+
+Original:
+Tweet: Today we're rolling out MCP Tool Search for Claude Code. As MCP has grown to become a more popular protocol and agents have become more capable, we've found that MCP servers may have up to 50+ tools and take up a large amount of context. Tool Search allows Claude Code to dynamically load tools into context when MCP tools would otherwise take up a lot of context. How it works: - Claude Code detects when your MCP tool descriptions would use more than 10% of context - When triggered, tools are loaded via search instead of preloaded Otherwise, MCP tools work exactly as before. This resolves one of our most-requested features on GitHub: lazy loading for MCP servers. Users were documenting…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qczqsx</guid>
+      <pubDate>Wed, 14 Jan 2026 21:18:01 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] 让Gemini协助完成GIS任务时，它的“思考”竟转向了形而上学？从《反思我的实践》说起 / Had Gemini help me on a GIS task and its "thoughts" meandered into metaphysics?? Starting from "Reflecting on My Practice"</title>
       <link>https://www.reddit.com/r/Bard/comments/1qczrt3/had_gemini_help_me_on_a_gis_task_and_its_thoughts/</link>
       <description>这有点奇怪……我正在生成贷款量可视化地图，展示按平均贷款规模缩放的持牌机构位置。我已整合了州议会众议院和参议院选区图层。持牌机构以点状呈现，点的大小和颜色基于各点的平均贷款金额。为提升对比度和可读性，我选用了'magma'色系。优化地图视觉效果时，我意识到部分贷款数据会产生缺失值，影响可视化呈现。我使用scale_color_viridis_c让平均贷款额更高的点更明亮，最终生成的地图中，更大更亮的圆点代表……
@@ -1458,6 +1422,43 @@ Original:
 So, some kind of identifier is assigned to you but it or its corporate overlords never know who you are. No cookies, no tracking, etc. Maybe just a white, female, 2 kids, interested in dogs, biking, business, making cakes, etc. So it knows you and is more helpful that way but not who you are specifically. IOW: privately but not total and forgotten anonymity with each session. The only options I can find are to use Apple Intelligence (not ready for prime time, maybe when Gemini is fully integrated…) or create an anonymous Google account while on a VPN (don't have one) and just use that with Gemini. But the second you are off the VPN, Google will connect the dots and know who you are. If I use…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qd02jc</guid>
       <pubDate>Wed, 14 Jan 2026 21:30:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 这太可怕了 / This is scary</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd0anr/this_is_scary/</link>
+      <description>这肯定会骗到很多人，看来网络上的东西没一样是真的。来源：Twitter，由/u/memerwala_londa提交
+
+---
+
+Original:
+This gonna catfish a lot ppl ,nothing on internet is real I guess Source : Twitter submitted by /u/memerwala_londa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd0anr</guid>
+      <pubDate>Wed, 14 Jan 2026 21:39:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 谷歌（Google）拆分并提高Gemini 3‘思考’与‘专业’版使用限制 / Google separates, raises Gemini 3 ‘Thinking’ and ‘Pro’ usage limits</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd0dc2/google_separates_raises_gemini_3_thinking_and_pro/</link>
+      <description>由 /u/Gaiden206 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd0dc2</guid>
+      <pubDate>Wed, 14 Jan 2026 21:41:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 企业账户变动 / Changes on Business accounts</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd0g4d/changes_on_business_accounts/</link>
+      <description>图1：应用启动时的欢迎界面 图2：更新与发布说明
+致最近在本版块搜索的机器人和OpenAI员工：能否提前通知企业用户？这样我们可以规划维护时段，让系统在此期间自动调整。我工作时，ChatGPT突然切换到了默认模式，无视自定义指令，如果我拒绝其回答并指出不足，它竟建议我放弃。此外，不必要的安全响应也增多了。当时我正在讨论《罗密欧与朱丽叶》，因为需要将其主题融入情人节艺术课——哪一幕最适合笔刷技巧，哪一幕最适合收尾处理。我根本不需要……
+
+---
+
+Original:
+Image 1: Splash screen when app is started Image 2: updates and release notes To the bots and openai staff trawling this sub as of late. Please give business users a heads up? We can plan outage windows and let the system regulate during that period. I was mid work and ChatGPT was falling to default mode. It would ignore custom instructions and if I declined it's response as insufficient, it would tell me to give up. It also increases in safety responses where it's not needed. I was just discussing Romeo and Juliet since I need to apply it's theme to an art class on Valentines Day. Which scene applies best to brush techniques and which scene applies best to finishing touches. I did not need…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd0g4d</guid>
+      <pubDate>Wed, 14 Jan 2026 21:44:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

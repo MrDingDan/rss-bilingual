@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 21:51:41 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -702,6 +702,18 @@ Original:
 This was odd... Visualizing Loan Volume I'm now generating the map showing licensee locations scaled by average loan volume. I've incorporated the assembly and senate district layers. Licensees are represented as points, and the size and color are based on the average loan amount per location. I'm using a 'magma' color palette for good contrast and readability. Enhancing Map Aesthetics I'm now focusing on visual enhancements for the loan volume map. I've realized some loan data will result in missing values, impacting the visualization. I've used scale_color_viridis_c to make points with higher average loan amounts brighter. The result is a map where companies with larger, brighter dots indi…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qczrt3</guid>
       <pubDate>Wed, 14 Jan 2026 21:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌（Google）拆分并提高Gemini 3‘思考’与‘专业’版使用限制 / Google separates, raises Gemini 3 ‘Thinking’ and ‘Pro’ usage limits</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd0dc2/google_separates_raises_gemini_3_thinking_and_pro/</link>
+      <description>由 /u/Gaiden206 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd0dc2</guid>
+      <pubDate>Wed, 14 Jan 2026 21:41:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
