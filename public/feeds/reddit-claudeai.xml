@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 14:38:23 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1404,6 +1404,30 @@ Original:
 Im on Claude Pro plan. I love the product but just burning through too many tokens way too quickly lately and its seriously holding me back. I've literally gotta currently wait for 3 days before my usage limit resets:( Anyone using it in conjunction with Gemini? If so what's your workflow? Im seriously tempted to use it to fill in the holes in lost productivity time and continue implementing planned features whilst waiting on my Claude limits to reset. I've built a very complex app with purely Claude (c++) and im worried that adding another LLM into the mix right might screw things up or start creating disjointed code (or skewing my core code structures due to the different methodology and m…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdjgcq</guid>
       <pubDate>Thu, 15 Jan 2026 13:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款工具，能自动管理git工作树和Docker沙箱，用于并行运行Claude Code代理并追踪其运行、空闲或等待状态 / I built a tool that auto-manages git worktrees and Docker sandboxes for running parallel Claude Code agents and tracking which ones are running vs idle vs waiting for you</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdkjh7/i_built_a_tool_that_automanages_git_worktrees_and/</link>
+      <description>我频繁使用Claude Code时，一直遇到同一个问题：我想在不同功能或bug上同时运行多个代理，但它们会因为git冲突和混乱的状态而相互干扰。我还希望能在使用--dangerously-skip-permissions时，避免Claude意外操作搞乱我的笔记本电脑。因此，我开发了Agent of Empires（aoe）——一个终端会话管理器，让你能在独立的git工作树和可选的Docker沙箱中并行启动多个Claude Code会话。它提供可视化TUI面板，集中管理所有代理会话；自动创建git工作树——每个代理拥有独立分支和工作目录，杜绝冲突；文档…
+
+---
+
+Original:
+I've been using Claude Code heavily and kept running into the same problem: I wanted to run multiple agents simultaneously on different features/bugs, but they'd step on each other's toes with git conflicts and messy state. I also wanted to use --dangerously-skip-permissions without risking Claude messing up my laptop by doing something accidentally. So I built Agent of Empires (aoe) — a terminal session manager that lets you spin up parallel Claude Code sessions, each in its own isolated git worktree and optional Docker sandbox. Visual TUI dashboard to manage all your agent sessions in one place Automatic git worktrees — each agent gets its own branch and working directory, no conflicts Doc…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdkjh7</guid>
+      <pubDate>Thu, 15 Jan 2026 14:10:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude（克劳德）20分钟就帮我做好了应用，我却花了三周还部署不上 / Claude built my app in 20 minutes. I've spent 3 weeks trying to deploy it.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdkjtq/claude_built_my_app_in_20_minutes_ive_spent_3/</link>
+      <description>我快崩溃了。用Claude（克劳德）做了个客服助手——在我本地跑得特别顺，能处理查询、连数据库，返回的结果完全符合需求。演示给团队看，大家都很兴奋。可一到部署就出问题：先是环境变量加载不了，解决了；接着生产环境里向量存储连接超时（本地却正常），也搞定了；然后发现API密钥居然暴露在客户端包里，又花一天重构。现在又遇到个极端情况：助手直接……卡住。没报错、没超时，就是无限加载。AI部分挺简单，其他所有事简直要命。我开发水平还行，但……
+
+---
+
+Original:
+I'm losing my mind here. Built this customer service agent with Claude - works beautifully on my machine. Handles queries, connects to my database, returns exactly what I need. Demo'd it to my team and everyone was hyped. Then I try to deploy it. First it was environment variables not loading. Fixed that. Then the vector store connection times out in production but works fine locally. Fixed that too. Then I discover my API keys were basically exposed in the client bundle. Spent a day restructuring that. Now I'm dealing with some edge case where the agent just... hangs. No error. No timeout. Just infinite loading. The AI part was easy. Everything else is killing me. I'm a decent developer but…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdkjtq</guid>
+      <pubDate>Thu, 15 Jan 2026 14:11:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

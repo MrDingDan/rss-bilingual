@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:51:28 +0000</lastBuildDate>
-    <item>
-      <title>开源布莱恩·约翰逊（Bryan Johnson）AI：基于证据的补充剂追踪工具 / Open-source Bryan Johnson AI for evidence-based Supplements tracking</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qaz7c9/opensource_bryan_johnson_ai_for_evidencebased/</link>
-      <description>我每天服用补充剂，也在不同社群中交流，为自己的“补充剂组合”获取大量建议。身边的朋友们同样在用补充剂，毕竟我们都三十多岁了……你懂的，年纪渐长。一段时间后，我开始发现建议相互矛盾，有点担心，于是开始查阅在线医学研究平台。筛选海量研究、获取结果、对比并记录，这简直是数小时的苦差事，所以我决定采用智能体（Agent）方案！我构建了一个补充剂研究AI智能体，它能：搜索数百万篇医学研究论文和临床试验数据库；分析来自DailyMed、PubMed等平台的补充剂研究；突出显示作用机制、研究规模、局限性……
-
----
-
-Original:
-I use supplements daily, I'm in different communities leveling up and getting tons of advice for my "stack". I have friends too that use supplements because we're all in our mid 30s...you know we are getting old. After a while, i start to see conflicting advice, got a bit worried and started checking medical research platforms online. Sifting through so many studies, getting the results, comparing and documenting them is hours of brutal work so I decided to go the Agent way! I built a Supplements research AI agent that: Searches millions of medical research papers &amp; clinical trials databases Analyzes studies on supplements from DailyMed, PubMed Highlights mechanisms, study size, limitations…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qaz7c9</guid>
-      <pubDate>Mon, 12 Jan 2026 16:17:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 14:37:44 +0000</lastBuildDate>
     <item>
       <title>如何长期记录复杂的内部系统？Loom对我们不再适用了。 / How do you document complex internal systems long-term? Loom stopped working for us.</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qb369e/how_do_you_document_complex_internal_systems/</link>
@@ -1464,6 +1452,18 @@ Original:
 We kept seeing the same questions asked: “What tone do we use?”, “Did this campaign work before?”, “Who’s this for?” So we trained a marketing-focused agent on our real docs and past work. It’s less about automation, more about memory. Has anyone tried building agents that act as institutional brains rather than task bots? Real human answers, please 🙏🏽 submitted by /u/LLFounder [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdjr6o</guid>
       <pubDate>Thu, 15 Jan 2026 13:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>需要免费模型 / need free models</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdl3uy/need_free_models/</link>
+      <description>我正在开发一个项目，需要利用大语言模型（LLM）来分析整个代码库，或者至少分析几个重要文件或README文件，然后撰写总结性内容。我需要一些可以免费使用的模型。我已经尝试过GPT OSS 120B和Qwen3-32B，但在Groq上遇到了令牌限制。请推荐几个替代方案，让我不受令牌大小和速率限制的影响。提交者：/u/Ivory_26 [链接] [评论]
+
+---
+
+Original:
+i am creating a project, which needs llm to analyse entire codebase or atleast few important files or readme files, and then write a summary type thing, i need some models which i an use for free. i have tried gpt oss 120b and qwen3-32b, i got token limited by groq. please tell me few alternatives so that i am not limited by token sizes and rate limits submitted by /u/Ivory_26 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdl3uy</guid>
+      <pubDate>Thu, 15 Jan 2026 14:33:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 14:38:47 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -834,6 +834,30 @@ Original:
 submitted by /u/ArgumentConscious202 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdjcl8</guid>
       <pubDate>Thu, 15 Jan 2026 13:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>我的工具发布已进入封闭评审阶段！ / Closed Review for my tool launch!</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdkg4p/closed_review_for_my_tool_launch/</link>
+      <description>由 /u/Deep-Firefighter-279 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Deep-Firefighter-279 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdkg4p</guid>
+      <pubDate>Thu, 15 Jan 2026 14:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌（Google）区分Gemini 3 Pro与Flash版本的使用限额 / Google separates Gemini 3 Pro and Flash usage limits</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdkpbi/google_separates_gemini_3_pro_and_flash_usage/</link>
+      <description>谷歌现已将Gemini 3 Pro与Thinking（Flash）版本的使用限额分开管理；Flash版本现拥有独立于Pro版本的专属限额。由/u/dadakoglu提交 [链接] [评论]
+
+---
+
+Original:
+Google is separating the usage limits for Gemini 3 Pro and Thinking (Flash); Flash now has its own limit independent of Pro. submitted by /u/dadakoglu [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdkpbi</guid>
+      <pubDate>Thu, 15 Jan 2026 14:17:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

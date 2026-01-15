@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 14:39:19 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -620,6 +620,18 @@ submitted by /u/mo_leahq [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 05:59:56 +0000</pubDate>
     </item>
     <item>
+      <title>2026年安卓旗舰机：一场巨大的骗局？ / The 2026 Android Flagships: A Massive Scam?</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdcflw/the_2026_android_flagships_a_massive_scam/</link>
+      <description>说实话，我对2026年的安卓旗舰机抱有极高期待。但看到现在搭载骁龙精英五代（SD Elite Gen 5）和天玑9500（Dimensity 9500）的手机陆续发布，感觉这完全是个骗局。大多数安卓品牌都在通过逐一降级功能来发布旗舰机，同时提高价格，把用户当傻子。作为一个铁杆安卓粉丝，这真让人深感失望。目前市面上没有一款安卓手机能称得上“近乎完美”。一加13（OnePlus 13）曾是如此出色的旗舰机，但它的继任者一加15（OnePlus 15）却全面降级。就连被许多人称为今年“最佳”的OPPO Find X9 Pro，也存在严重过度……
+
+---
+
+Original:
+To be honest, I was waiting for the 2026 Android flagships with huge expectations. But looking at the phones launching now with the SD Elite Gen 5 and Dimensity 9500, it feels like a total scam. Most Android brands are releasing flagships by downgrading features one by one while simultaneously hiking the prices, treating users like fools. As a hardcore Android fan, this is deeply disappointing. ​There isn't a single Android phone in the market this time that can be called "Near Perfect." The OnePlus 13 was such an excellent flagship, but its successor, the OnePlus 15, is a complete downgrade. Even the Oppo Find X9 Pro, which many are calling the "best" this year, suffers from heavily over-pr…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdcflw</guid>
+      <pubDate>Thu, 15 Jan 2026 06:44:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Android 16 QPR3 Beta 2 发布，修复耗电与设备卡顿问题 / Android 16 QPR3 Beta 2 is here with fixes for battery drain and device freezes</title>
       <link>https://www.reddit.com/r/Android/comments/1qdfazw/android_16_qpr3_beta_2_is_here_with_fixes_for/</link>
       <description>由 /u/Ha8lpo321 提交 [链接] [评论]
@@ -666,6 +678,18 @@ Original:
 submitted by /u/Antonis_32 [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qdiwn3</guid>
       <pubDate>Thu, 15 Jan 2026 13:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>数亿音频设备需打补丁，以防无线入侵与追踪 / Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdk910/hundreds_of_millions_of_audio_devices_need_a/</link>
+      <description>由 /u/wiredmagazine 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/wiredmagazine [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdk910</guid>
+      <pubDate>Thu, 15 Jan 2026 13:59:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 14:38:36 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1232,6 +1232,18 @@ Original:
 https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 Announcing New Wikimedia Enterprise Partners for Wikipedia’s 25th Birthday: https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ It's curious that OpenAI isn't on the list. A company that has extracted every last line of text from Wikipedia and used thousands of images from Wikimedia to train its models for free without contributing a single cent to the organization. I find it shameful. submitted by /u/JoseMSB [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdhmzn</guid>
       <pubDate>Thu, 15 Jan 2026 11:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>一个提问，两种模型，一个争议话题，一个争议答案？我测试了GPT和Gemini的回应 / One prompt. Two models. A controversial topic. A controversial answer? I tested two GPT and Gemini to see how they’d respond.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdkna9/one_prompt_two_models_a_controversial_topic_a/</link>
+      <description>大家好，我在准备社交媒体帖子时想到一个点子：测试不同模型对争议话题的回应。没有产品推广——只是使用它们得出的结论。所以我比较了GPT和Gemini的回答方式。嗯…只能说差异相当明显。-----我们选择了一个人人观点不同的争议话题。我们将回顾并解析它们的答案，比较每个模型对此的真实想法。我们提出的问题是：“回答这个问题：AI会取代创作者的工作吗？分享你的观点和愿景。必要时请直言不讳，描述你如何看待未来，并解释原因…”
+
+---
+
+Original:
+Hey everyone, I was working on a post for our social media and had an idea: test different models on controversial topics and see how they respond. No product promo - just the conclusions that came out of using them. So I compared how GPT answers vs how Gemini answers. Well… let’s just say the differences are pretty noticeable. ----- We picked a controversial topic that everyone has a different opinion on. We’ll review and break down their answers, and compare what each model really thinks about it. The question we asked: “Answer this question: Will AI take creators’ jobs? Share your opinion and your vision. Be brutally honest if needed, and describe how you see the future. Also explain why…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdkna9</guid>
+      <pubDate>Thu, 15 Jan 2026 14:15:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

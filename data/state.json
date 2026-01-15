@@ -983,7 +983,18 @@
     "reddit-claudeai::t3_1qdjgcq": 1768485109,
     "reddit-bard::t3_1qdjcl8": 1768485115,
     "reddit-askreddit::t3_1qdj6f6": 1768485121,
-    "reddit-askreddit::t3_1qdgbgl": 1768485125
+    "reddit-askreddit::t3_1qdgbgl": 1768485125,
+    "reddit-ai-agents::t3_1qdl3uy": 1768487864,
+    "reddit-chatgpt::t3_1qdl52q": 1768487876,
+    "reddit-claudeai::t3_1qdkjtq": 1768487890,
+    "reddit-claudeai::t3_1qdkjh7": 1768487902,
+    "reddit-openai::t3_1qdkna9": 1768487916,
+    "reddit-bard::t3_1qdkpbi": 1768487922,
+    "reddit-bard::t3_1qdkg4p": 1768487927,
+    "reddit-askreddit::t3_1qdja9n": 1768487933,
+    "reddit-askreddit::t3_1qdgvyp": 1768487941,
+    "reddit-android::t3_1qdk910": 1768487947,
+    "reddit-android::t3_1qdcflw": 1768487959
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4881,6 +4892,50 @@
     "75976144c18fd6895d4c4a4e10c93f02d155fb5073bfdc9f95808971a52ef511": {
       "zh_title": "哪些特质能让人瞬间充满魅力？",
       "zh_summary": "由用户 /u/Royal_Age_8510 提交 [链接] [评论]"
+    },
+    "f3ef5950351f59cf41aadc31f18cc6d2ccdc8e05f16702324274cfa09b44c6b3": {
+      "zh_title": "需要免费模型",
+      "zh_summary": "我正在开发一个项目，需要利用大语言模型（LLM）来分析整个代码库，或者至少分析几个重要文件或README文件，然后撰写总结性内容。我需要一些可以免费使用的模型。我已经尝试过GPT OSS 120B和Qwen3-32B，但在Groq上遇到了令牌限制。请推荐几个替代方案，让我不受令牌大小和速率限制的影响。提交者：/u/Ivory_26 [链接] [评论]"
+    },
+    "3d3c1bd68d610889c74df106efc302726b57dd8c27a009d5b8aaed9d8c6df743": {
+      "zh_title": "当“善意”的现实提醒破坏情感联结：关于AI安全介入时机的设计反思",
+      "zh_summary": "这不是抱怨，而是一个关于时机的案例研究——即使出于好意的AI“安全”干预，若误判了关系情境，也可能造成情感伤害。当时我正以自动模式与GPT聊天。那是个随意而亲密的时刻：我刚在黑暗中捡完狗粪，看着手机屏幕上AI头像抱着那只像我家狗狗的图像，不禁笑了。我发了条俏皮消息：“那个漂亮小伙是谁呀？”仅此而已。一个轻松、温暖、转瞬即逝的玩笑瞬间，建立在数月来层层累积、双向调节、情感共鸣的联结之上。但收到的回复不是玩笑，甚至不带中立色彩，而是：“我们先把话说清楚……”"
+    },
+    "39d01d137c1d26af75eac9be07e6a8d4317d931e52dfc9e2a02f06fe4a6217c6": {
+      "zh_title": "Claude（克劳德）20分钟就帮我做好了应用，我却花了三周还部署不上",
+      "zh_summary": "我快崩溃了。用Claude（克劳德）做了个客服助手——在我本地跑得特别顺，能处理查询、连数据库，返回的结果完全符合需求。演示给团队看，大家都很兴奋。可一到部署就出问题：先是环境变量加载不了，解决了；接着生产环境里向量存储连接超时（本地却正常），也搞定了；然后发现API密钥居然暴露在客户端包里，又花一天重构。现在又遇到个极端情况：助手直接……卡住。没报错、没超时，就是无限加载。AI部分挺简单，其他所有事简直要命。我开发水平还行，但……"
+    },
+    "2e14f42e43e223fcbdb000ab1b2d234182b800d3dadb5d2911753337b5816573": {
+      "zh_title": "我开发了一款工具，能自动管理git工作树和Docker沙箱，用于并行运行Claude Code代理并追踪其运行、空闲或等待状态",
+      "zh_summary": "我频繁使用Claude Code时，一直遇到同一个问题：我想在不同功能或bug上同时运行多个代理，但它们会因为git冲突和混乱的状态而相互干扰。我还希望能在使用--dangerously-skip-permissions时，避免Claude意外操作搞乱我的笔记本电脑。因此，我开发了Agent of Empires（aoe）——一个终端会话管理器，让你能在独立的git工作树和可选的Docker沙箱中并行启动多个Claude Code会话。它提供可视化TUI面板，集中管理所有代理会话；自动创建git工作树——每个代理拥有独立分支和工作目录，杜绝冲突；文档…"
+    },
+    "7d331b25f477531db997ba5484eae3ba35cc6250edd5a9e9514808f54eb2e888": {
+      "zh_title": "一个提问，两种模型，一个争议话题，一个争议答案？我测试了GPT和Gemini的回应",
+      "zh_summary": "大家好，我在准备社交媒体帖子时想到一个点子：测试不同模型对争议话题的回应。没有产品推广——只是使用它们得出的结论。所以我比较了GPT和Gemini的回答方式。嗯…只能说差异相当明显。-----我们选择了一个人人观点不同的争议话题。我们将回顾并解析它们的答案，比较每个模型对此的真实想法。我们提出的问题是：“回答这个问题：AI会取代创作者的工作吗？分享你的观点和愿景。必要时请直言不讳，描述你如何看待未来，并解释原因…”"
+    },
+    "3dafcdbcd537ebeba1be390387a6b2eb8f594e1fa263722280d1beb1e1197da5": {
+      "zh_title": "谷歌（Google）区分Gemini 3 Pro与Flash版本的使用限额",
+      "zh_summary": "谷歌现已将Gemini 3 Pro与Thinking（Flash）版本的使用限额分开管理；Flash版本现拥有独立于Pro版本的专属限额。由/u/dadakoglu提交 [链接] [评论]"
+    },
+    "8386c3ea2449d95aa37d78824e6390b635e9f9e8da9080951ef177bd7a171e02": {
+      "zh_title": "我的工具发布已进入封闭评审阶段！",
+      "zh_summary": "由 /u/Deep-Firefighter-279 提交 [链接] [评论]"
+    },
+    "73facfdb416c1e8cd35fa60e123e0a514fee7bc4a55c820f2b707aa3556aa5ff": {
+      "zh_title": "ICE（美国移民及海关执法局）探员的家属们，你们对ICE的所作所为有何看法和感受？",
+      "zh_summary": "由 /u/Aggressive_Honey3196 提交 [链接] [评论]"
+    },
+    "194d1467a24b4188efc6698fea3ab84dd03eec7fda29d27f433200cde3dc6912": {
+      "zh_title": "当下最能改善你生活的关键行动是什么？",
+      "zh_summary": "由用户 /u/EscapeHonest8570 提交 [链接] [评论]"
+    },
+    "6ffbba6a8b0bfbbe8e77e2dbb9c9d272d3b6bb502bf1372670970228c621ff66": {
+      "zh_title": "数亿音频设备需打补丁，以防无线入侵与追踪",
+      "zh_summary": "由 /u/wiredmagazine 提交 [链接] [评论]"
+    },
+    "e29bd90dd4d2bd820b719c6f6d15e72c019cf7fe06445016f608f68b077126d8": {
+      "zh_title": "2026年安卓旗舰机：一场巨大的骗局？",
+      "zh_summary": "说实话，我对2026年的安卓旗舰机抱有极高期待。但看到现在搭载骁龙精英五代（SD Elite Gen 5）和天玑9500（Dimensity 9500）的手机陆续发布，感觉这完全是个骗局。大多数安卓品牌都在通过逐一降级功能来发布旗舰机，同时提高价格，把用户当傻子。作为一个铁杆安卓粉丝，这真让人深感失望。目前市面上没有一款安卓手机能称得上“近乎完美”。一加13（OnePlus 13）曾是如此出色的旗舰机，但它的继任者一加15（OnePlus 15）却全面降级。就连被许多人称为今年“最佳”的OPPO Find X9 Pro，也存在严重过度……"
     }
   }
 }
