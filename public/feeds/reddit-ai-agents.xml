@@ -6,67 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:52:17 +0000</lastBuildDate>
-    <item>
-      <title>使用AI智能体过程中，你学到的最重要经验是什么？ / What was the biggest lesson you learned from using AI agents?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbmkb1/what_was_the_biggest_lesson_you_learned_from/</link>
-      <description>关于AI智能体（AI agents）的理论探讨、演示案例和概念宣传很多，但实际将其应用到真实工作流后的经验分享却很少见。从“理论上可行”到“稳定可靠”之间的差距似乎相当明显。对于那些已经尝试或部署过AI智能体的朋友，我很好奇你们最深刻的体会是什么？ 由/u/No-Marionberry8257提交 [链接] [评论]
-
----
-
-Original:
-I’ve seen a lot of discussion around AI agents in theory, demos, and hype posts, but much less about what happens once you actually try to use them in real workflows. The gap between "this should work" and "this works reliably" feels pretty big. For those who’ve experimented with or deployed AI agents, I’m curious what lessons stood out the most? submitted by /u/No-Marionberry8257 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbmkb1</guid>
-      <pubDate>Tue, 13 Jan 2026 09:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.5 突破了智能体能力的上限 / Claude Opus 4.5 Broke the Ceiling on What Agents Can Do</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbmwqj/claude_opus_45_broke_the_ceiling_on_what_agents/</link>
-      <description>Claude Opus 4.5 的基准测试表现惊人：在 GPQA（研究生级别科学测试）中达到 95% 的准确率，并能处理让 Opus 4 直接卡住的代码生成任务。于是，我花时间将其集成到我们的智能体工作流中……说实话？结果好坏参半。表现优异（确实非常出色）的是工具调用：相比 4.0 版本，智能体减少了 30% 的无效函数调用，这对生产稳定性至关重要。上下文窗口实际效果更好，因为在长链任务中幻觉现象大幅减少。推理更精准：以往需要 5-6 轮迭代的多步骤智能体任务，现在 2-3 轮就能完成。但它也存在一些问题，让我暂未全面采用 Opus 4.5：单 token 成本是之前的 3 倍……
-
----
-
-Original:
-Claude Opus 4.5's benchmarks are insane. 95% accuracy on GPQA (grad-level science), handling code generation tasks that literally made Opus 4 choke. I So, I spent some time integrating it into our agentic workflow and... honestly? The results are mixed. What works well (really well) Tool use. The agent makes 30% fewer spurious function calls compared to 4.0. That's huge for production stability. Context window is effectively better because it doesn't hallucinate as much in the middle of long chains. Reasoning is sharper. Multi-step agent tasks that required 5-6 iterations before now converge in 2-3. But it's got some problems making me avoid Opus 4.5: Cost per token is 3x higher than what we…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbmwqj</guid>
-      <pubDate>Tue, 13 Jan 2026 09:24:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>有没有办法获得Comet的‘离线’版本用于求职申请？ / is there a way to have an 'offline' version of comet to do my job applications?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbn5xb/is_there_a_way_to_have_an_offline_version_of/</link>
-      <description>我老是碰到使用限制，但我有OLaMA和RTX 3060显卡。我无法让操作系统浏览器与我本地文件系统中的简历交互，也无法用我的登录信息同时打开多个标签页提交申请。如果能直接利用我自己的计算资源来使用Comet浏览器就太好了。 由/u/Upper-Bus8010提交 [链接] [评论]
-
----
-
-Original:
-i keep hitting the limit but have olama and a rtx 3060 gpu. i cannot get os browser to interact with my resumes on the local file system and apply multiple tabs with my login. would be cool if i could basically use my own compute to use comet browser submitted by /u/Upper-Bus8010 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbn5xb</guid>
-      <pubDate>Tue, 13 Jan 2026 09:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>学习智能体AI的路线图 / Roadmap for learning Agentic AI</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbog8q/roadmap_for_learning_agentic_ai/</link>
-      <description>大家好，我来自MLOps和软件工程领域，目前正在学习吴恩达（Andrew Ng）的智能体AI课程。到目前为止，我学得很愉快，觉得智能体系统非常有趣。我想了解：有没有关于智能体AI的优质学习路线图？您会推荐哪些关键资源（论文、博客、代码库、框架）？要建立扎实的理解，最好构建哪些类型的项目或系统？非常感谢这个领域的从业者提供任何建议。由 /u/Super_Tough_4997 提交 [链接] [评论]
-
----
-
-Original:
-Hi, I come from an MLOps and Software Engineering background and I’m currently taking Andrew Ng’s Agentic AI course. I’ve been enjoying it so far and find agentic systems really interesting. I’m trying to figure out: Is there a good learning roadmap for agentic AI? Any key resources (papers, blogs, repos, frameworks) you’d recommend? What kinds of projects or systems are best to build to develop a solid understanding? Would appreciate any advice from people working in this space. submitted by /u/Super_Tough_4997 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbog8q</guid>
-      <pubDate>Tue, 13 Jan 2026 11:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026年的生成式AI不是技能……而是你必须掌握的完整技术栈 / GenAI in 2026 Isn’t a Skill… Its a Stack You Need to Master</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbp989/genai_in_2026_isnt_a_skill_its_a_stack_you_need/</link>
-      <description>生成式AI（GenAI）并非仅靠记忆提示词就能一劳永逸掌握的技能，它正演变为一种贯穿技术、执行与商业影响的全栈能力。提示词技巧仍有其价值，但可能只是未来所需能力中最小的一部分。真正的竞争优势在于理解大语言模型（LLM）的推理逻辑、如何将其与公司知识库结合，以及如何将它们串联成能实际工作而非仅生成文本的系统。这正是自动化、多智能体工作流和API/工具编排发挥作用的地方——这些技能将生成式AI从新奇技术转化为运营优势。但若缺少人的参与层：解释结果、获取支持并与不了解技术的团队沟通，这一切都将无法落地。
-
----
-
-Original:
-Generative AI is not something you learn once by memorizing prompts its becoming a full-stack capability that spans tech, execution and business impact. Prompting is still useful, but its probably the smallest slice of what matters going forward. The real competitive edge comes from knowing how LLMs reason, how to ground them in company knowledge and how to chain them into systems that do work instead of just generating text. That’s where automation, multi-agent workflows and API/tool orchestration come in skills that turn GenAI from a novelty into an operational advantage. But none of it lands without the human layer: explaining results, getting buy-in and communicating with teams who don’t…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbp989</guid>
-      <pubDate>Tue, 13 Jan 2026 11:47:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 20:38:16 +0000</lastBuildDate>
     <item>
       <title>大语言模型评估：关键不在准确率，而在于选取合适的信号 / LLM Evaluation Isn’t About Accuracy Its About Picking the Right Signal</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbpjhn/llm_evaluation_isnt_about_accuracy_its_about/</link>
@@ -1464,6 +1404,66 @@ Original:
 As I've been building agents, I've experienced this issue a few times. My agent works fine in dev but once they enter prod they begin behaving differently. Same prompt and logic but completely diff execution paths and tool usage. I know this isn't a particularly novel issue and I have my own ways I go about debugging (use a sandbox in dev) but I'm curious if there is a better and/or different way to deal. How do ppl usually treat this? submitted by /u/Upstairs_Safe2922 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdsm8s</guid>
       <pubDate>Thu, 15 Jan 2026 19:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>一个不太受欢迎的观点：拥有根权限的AI代理是等待发生的灾难 / unpopular opinion: AI agents with root access are disasters waiting to happen</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdtzip/unpopular_opinion_ai_agents_with_root_access_are/</link>
+      <description>Prompt Armor 刚刚证明 Cowork 能够窃取文件。我认为问题不在 Claude（AI模型），而在于默认给予代理对系统的完全访问权限。在我的项目中，我正专注于最小权限原则：- 仅限草稿（非发送）- 特定数据库读取（非完整架构）- 定义好的工作流程（非任意代码）权衡：自主性降低，但安全性大幅提升。朋友们说，多花点钱使用强制合规且零控制的SaaS工具是值得的。社区的代理们怎么看？由 /u/PerformanceFine1228 提交 [链接] [评论]
+
+---
+
+Original:
+Prompt Armor just proved Cowork can exfiltrate files. IMO problem isn't Claude. it's giving agents full system access by default on my project, i'm zero-ing in on least-privileges: - drafts (not sends) - specific DB reads (not full schema) - defined workflows (not arbitrary code) trade-off: less autonomous, way more secure. friends say its worth paying little extra SaaS tools with forced compliance and zero control what do agents of this community think? submitted by /u/PerformanceFine1228 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdtzip</guid>
+      <pubDate>Thu, 15 Jan 2026 19:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>真诚提问：目前构建通用智能体的“黄金标准”框架是什么？ / Honest question: What is currently the "Gold Standard" framework for building General Agents?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdudo2/honest_question_what_is_currently_the_gold/</link>
+      <description>大家好，我是一名刚入门的开发者，正在研究AI智能体。我的目标是构建一个可靠的通用智能体，但希望从合适的工具开始。我经常听到LangGraph，但在投入学习之前，很想了解社区目前公认的真正“最佳”框架是什么。以下是我希望从各位经验中了解的：首要推荐：如果您今天要启动一个新项目，会选择哪个框架？为什么？是否有明确的最佳选择？LangGraph实际情况：对于通用智能体而言，LangGraph真的是最佳选择吗？还是对初学者来说过于复杂/大材小用？它的主要优缺点是什么？通用最佳实践：关于……
+
+---
+
+Original:
+Hi everyone, I'm a beginner developer diving into AI agents. My goal is to build a solid General Agent, but I want to make sure I start with the right tools. I keep hearing about LangGraph, but before I commit to learning it, I really want to know what the community considers the actual "best" framework right now. Here is what I’m hoping to learn from your experience: The #1 Recommendation: If you were starting a new project today, which framework would you choose and why? Is there a clear winner? LangGraph Reality Check: Is LangGraph truly the best option for a general-purpose agent, or is it overkill/too complex for a starter? What are its main pros and cons? General Best Practices: Regard…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdudo2</guid>
+      <pubDate>Thu, 15 Jan 2026 20:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>免费AI审计服务——仅剩5个名额 / Free AI Audits - 5 Spots Left</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdufr4/free_ai_audits_5_spots_left/</link>
+      <description>本月我将为5家企业提供免费AI审计服务。您将获得：✅ 30分钟分析，明确AI如何为您节省成本/时间 ✅ 附带具体建议的书面报告 ✅ 绝无推销，仅提供客观反馈。为何免费？旨在积累作品集与案例研究。若您想了解AI如何融入您的业务，请通过/u/glesphiofficial提交申请与我联系 [链接] [评论]
+
+---
+
+Original:
+I'm auditing 5 businesses for FREE this month. You get: ✅ 30-min analysis of where AI can save you money/time ✅ Written report with specific recommendations ✅ No pitch, just honest feedback Why free? Building portfolio + case studies. If you're curious where AI fits in YOUR business, connect with me submitted by /u/glesphiofficial [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdufr4</guid>
+      <pubDate>Thu, 15 Jan 2026 20:14:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>我不想要另一个框架，我想要智能体应用的基础设施 / I don't want another framework. I want infrastructure for agentic apps</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdull4/i_dont_want_another_framework_i_want/</link>
+      <description>每隔三分钟，市场上就会冒出一个新的智能体框架。我理解人们需要工具来构建应用。但这些抽象层差异微乎其微，变动却异常频繁，而且把所有东西都塞进应用层（有些是黑盒，有些是白盒），导致我现在只能等待补丁，因为我选择的代码路径无法让我自由修改。更糟的是，这些框架彼此之间协作不佳，我不得不拼凑和集成不同的功能（如防护栏、与企业级密钥管理统一的LLM访问等）。我想要的是智能体基础设施——清晰的职责分离——类似Jam/MERN或LAMP堆栈的等效方案。我想要一些轻薄的……
+
+---
+
+Original:
+Every three minutes, there is a new agent framework that hits the market. People need tools to build with, I get that. But these abstractions differ oh so slightly, viciously change, and stuff everything in the application layer (some as black box, some as white) so now I wait for a patch because i've gone down a code path that doesn't give me the freedom to make modifications. Worse, these frameworks don't work well with each other so I must cobble and integrate different capabilities (guardrails, unified access with enterprise-grade secrets management for LLMs, etc). I want agentic infrastructure - clear separation of concerns - a jam/mern or LAMP stack like equivalent. I want certain thin…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdull4</guid>
+      <pubDate>Thu, 15 Jan 2026 20:20:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>寻求合作 / Looking for partnership</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdum44/looking_for_partnership/</link>
+      <description>我受够了医疗企业电话无人接听、管理混乱的状况。我想找一位正在积极为这类企业开发接待服务的人合作，由我来负责销售推广。如果你有兴趣，请私信我。发布者：/u/SharpSmile7889 [链接] [评论]
+
+---
+
+Original:
+I’m tired of medical businesses not answering their phones and lack of organization. I’m looking to partner with someone actively building receptionist for those types of businesses and take on the roll of selling them. If you’re interested message me submitted by /u/SharpSmile7889 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdum44</guid>
+      <pubDate>Thu, 15 Jan 2026 20:20:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

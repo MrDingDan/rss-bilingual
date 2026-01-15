@@ -6,55 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:52:39 +0000</lastBuildDate>
-    <item>
-      <title>推出Cowork：Claude Code助力你的其他工作 / Introducing Cowork: Claude Code for the rest of your work.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb5r3y/introducing_cowork_claude_code_for_the_rest_of/</link>
-      <description>Cowork让你能像开发者使用Claude Code那样，轻松完成非技术任务。在Cowork中，你可以授权Claude访问电脑上的某个文件夹，Claude便能读取、编辑或创建其中的文件。设定任务后，Claude会制定计划并稳步执行，过程中随时与你保持沟通。在采取重要操作前，Claude会先征求你的意见，以便及时调整方向。Claude还能使用你现有的连接器（connectors），将其与外部信息源打通。对于需要浏览器操作的任务，你还可以将Cowork与Chrome中的Claude搭配使用。试试用Cowork来整理下载文件、将一堆截图整理成电子表格，或是把零散资料整合成初稿……
-
----
-
-Original:
-Cowork lets you complete non-technical tasks much like how developers use Claude Code. In Cowork, you give Claude access to a folder on your computer. Claude can then read, edit, or create files in that folder. Once you've set a task, Claude makes a plan and steadily completes it, looping you in along the way. Claude will ask before taking any significant actions so you can course-correct as needed. Claude can use your existing connectors, which link Claude to external information. You can also pair Cowork with Claude in Chrome for tasks that need browser access. Try Cowork to re-organize your downloads, create a spreadsheet from a pile of screenshots, or produce a first draft from scattered…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb5r3y</guid>
-      <pubDate>Mon, 12 Jan 2026 20:10:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude 刚刚推出 Cowork：面向非开发任务的 Claude 代码功能 / Claude just introduced Cowork: the Claude code for non-dev stuff</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb6gdx/claude_just_introduced_cowork_the_claude_code_for/</link>
-      <description>现在真的可以轻松办公了 :) Anthropic 刚刚发布了 Cowork——本质上是为非编程任务设计的 Claude 代码功能。所以，如果你一直在用 Claude 代码，并希望在日常工作中也能拥有同样智能的工作流，这就是了。Cowork 现已作为研究预览版，向 macOS 上的 Claude Max 订阅用户开放。你可以让 Claude 指向电脑上的某个文件夹，它就能在那里读取、编辑和创建文件，比普通聊天拥有更高的自主性。它会制定计划、执行任务，并在并行处理任务时随时向你汇报进度。他们给出的一些例子包括：∙ 自动整理下载文件夹 ∙ 根据截图创建电子表格 ∙ 根据零散笔记起草报告 它会与你协作……
-
----
-
-Original:
-Vibe working is real now :) Anthropic just dropped Cowork - basically Claude Code for non-coding tasks So if you’ve been using Claude Code and wishing you could have that same agentic workflow for regular work stuff, this is it. Cowork is now available as a research preview for Claude Max subscribers on macOS. You point Claude at a folder on your computer, and it can read/edit/create files there with way more autonomy than a regular chat. It’ll make a plan, execute it, and keep you updated while it works through tasks in parallel. Some examples they gave: ∙ Auto-organizing your downloads folder ∙ Creating spreadsheets from screenshots ∙ Drafting reports from scattered notes It works with you…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb6gdx</guid>
-      <pubDate>Mon, 12 Jan 2026 20:36:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Cowork看起来太棒了——你认为这会导致许多初创公司失败吗？ / Claude Cowork looks amazing—do you think this could cause many startups to fail?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb6yzx/claude_cowork_looks_amazingdo_you_think_this/</link>
-      <description>这就像终于有了一个超级助手随时协助你：电脑操作、浏览器使用、终端操作。我知道这会消耗大量token，但效果看起来真不错:D。不过，这可能也会让许多初创公司倒闭。然而，这是我们在开发任何产品前都必须考虑的平台风险。X平台原帖：https://x.com/claudeai/status/2010805682434666759 由/u/luongnv-com提交 [链接] [评论]
-
----
-
-Original:
-It likes you finally have a super agent assist you everywhere: - computer use - browser use - terminal use I know that will cost us lots of tokens, but it looks so good :D. This could also shut down many startups, unfortunately. However, it’s a platform risk we must consider before building anything. Original post on X: https://x.com/claudeai/status/2010805682434666759 submitted by /u/luongnv-com [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb6yzx</guid>
-      <pubDate>Mon, 12 Jan 2026 20:55:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>苹果明明已有ChatGPT，却依然选择了谷歌。只字未提Claude，这让人不禁思考整个AI格局。 / Apple already had ChatGPT. They chose Google anyway. No mention of Claude. Makes you wonder about the whole AI landscape.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb79n3/apple_already_had_chatgpt_they_chose_google/</link>
-      <description>苹果刚刚宣布其AI基础将建立在谷歌的Gemini之上。有趣的是，他们其实早在2024年6月就已集成了ChatGPT。经过一番“审慎评估”，最终还是选了谷歌。这让我不禁思考这对整个AI格局意味着什么。已知信息包括：苹果此前已在用谷歌TPU进行训练（2048块TPUv5p芯片）；他们选择Gemini来打造新的“个性化Siri”；消息一出，谷歌市值一度触及4万亿美元；而OpenAI/ChatGPT现在只是一个可选功能，不再是基础。我推测Gemini胜出的原因在于规模化成本：苹果每年出货2.47亿部iPhone，在这种体量下，即使单次查询成本微乎其微，累积起来也能省下数十亿。Gemini Flash更是...
-
----
-
-Original:
-so apple just announced they're building their AI foundation on google's gemini. the interesting part? they already had chatgpt integrated since june 2024. they did a "careful evaluation" and chose google anyway. got me thinking about what this means for the broader AI landscape. what we know: apple was already training on google TPUs (2,048 TPUv5p chips) they chose gemini for the new "personalized siri" google briefly hit $4 trillion market cap on the news openai/chatgpt is now just an optional feature, not the foundation my theory on why gemini won: cost at scale. apple ships 247 million iphones per year. at that volume, even tiny per-query savings compound to billions. gemini flash is mul…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb79n3</guid>
-      <pubDate>Mon, 12 Jan 2026 21:06:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 20:39:03 +0000</lastBuildDate>
     <item>
       <title>一位转型氛围编程者的九条心得 / 9 tips from a developer gone vibecoder</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qb90zq/9_tips_from_a_developer_gone_vibecoder/</link>
@@ -1442,6 +1394,18 @@ I am trying to write a custom connector/MCP and having some trouble trying to fi
       <pubDate>Thu, 15 Jan 2026 17:12:19 +0000</pubDate>
     </item>
     <item>
+      <title>等待令牌... / Waiting for tokens ...</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdqne7/waiting_for_tokens/</link>
+      <description>由 /u/cr1spyfries 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/cr1spyfries [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdqne7</guid>
+      <pubDate>Thu, 15 Jan 2026 17:57:27 +0000</pubDate>
+    </item>
+    <item>
       <title>大规模测试提示词很混乱——这是我们为此构建的解决方案 / Testing prompts at scale is messy - here's what we built for it</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qdrywj/testing_prompts_at_scale_is_messy_heres_what_we/</link>
       <description>在Maxim从事提示词工具开发工作。很快意识到提示词测试与常规软件测试大不相同。对于代码，测试编写一次，结果无非通过或失败。而提示词改动一个词，整个输出分布就可能突然改变。加之大型语言模型具有不确定性，同一提示词会产生不同结果。我们为此构建了一个测试框架，支持最多同时比较五个提示词变体，可在同一数据集上测试不同措辞、模型和参数。版本控制功能完整记录每次变更历史，支持版本间差异对比，精确查看改动内容。这在提示词性能倒退需要排查时尤其有帮助。
@@ -1452,6 +1416,18 @@ Original:
 Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdrywj</guid>
       <pubDate>Thu, 15 Jan 2026 18:44:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude企业版 - 主要所有者可下载团队聊天记录 / Claude Enterprise - Primary Owner can download team chats</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdsvej/claude_enterprise_primary_owner_can_download_team/</link>
+      <description>大家好，你们知道这个吗？"团队版和企业版用户流程相同，但主要所有者可以通过设置→数据管理导出全团队数据。" "Claude基于邮件的数据导出如何运作：Claude采用简单的邮件系统进行数据导出。前往设置→隐私→导出数据，点击导出按钮，然后等待包含下载链接的邮件。链接会在24小时内送达，并在24小时后失效，请及时下载。无论您使用的是Claude免费版、专业版（20美元/月）还是Max版（100-200美元/月），流程都相同。团队版和企业版用户流程相同，但主要所有者可以通过设置→数据管理导出全团队数据。难道我是……"
+
+---
+
+Original:
+hey all, were you aware of this? "Team and Enterprise users have the same process, though Primary Owners can export team-wide data through Settings → Data management ." "How Claude’s Email-Based Export Works Claude uses a simple email system for data exports. Go to Settings → Privacy → Export data , click the export button, and wait for an email with your download link. The link arrives within 24 hours and expires after another 24 hours, so download promptly. This works the same whether you’re on Claude Free, Pro ($20/month), or Max ($100-200/month). Team and Enterprise users have the same process, though Primary Owners can export team-wide data through Settings → Data management . Am I the…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdsvej</guid>
+      <pubDate>Thu, 15 Jan 2026 19:16:32 +0000</pubDate>
     </item>
     <item>
       <title>我有一支由7个Claude组成的“团队”为我工作——在IntelliJ中使用Claude编码助手需要注意什么？ / I have a "Team" of 7-claudes working for me - What should I know about using Claude coding agent in IntelliJ?</title>
@@ -1478,6 +1454,30 @@ Original:
 I run a small dev team at a B2C startup. We have 5 main repositories with lots of microservices. Half my team loves Claude Code for their day-to-day work. Recently we started using multi-repo workspaces and it completely changed how we debug cross-service issues. Paste a Sentry error, and the AI traces the issue across all repositories — frontend, backend, CMS, AI services — and suggests coordinated changes across multiple services at once. This completely changed how developers work. For months, everyone had "their" repos. Now people commit everywhere. Nobody asks "whose code is this?" — they just see the entire codebase as one thing. The developers on my team who use Claude Code are now as…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdt91d</guid>
       <pubDate>Thu, 15 Jan 2026 19:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenPoo 发布——专注桌面体验 / Introducing OpenPoo - Desktop Focused Experience</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdtq2v/introducing_openpoo_desktop_focused_experience/</link>
+      <description>如果你同时使用多个终端和不同AI助手，这个工具能帮你节省时间。我厌倦了在终端里反复输入Claude代码，于是修改了OpenCode桌面应用，让它更适合多任务处理。无需终端，只需桌面应用。它拥有美观的主题配色、便捷的鼠标操作功能和多面板布局，支持使用Claude Code。提供适用于Windows/Mac/Linux的脚本，可轻松安装和启动。
+
+---
+
+Original:
+if you use a bunch of terminals at the same time, and different agents, this will be a time saver I got tired of using a bunch of claude codes in terminals, so I modified the opencode desktop app for more multi-tasking No terminal. Just the desktop app. Beautiful theme colors, mouse functionality for ease of use, and multiple panels Can use claude code There is a script for windows/mac/linux you can use to install/launch easily https://github.com/joyi-ai/openpoo https://x.com/joyi_ai https://reddit.com/link/1qdtq2v/video/8blzc33gbkdg1/player https://preview.redd.it/m2m97yqqekdg1.png?width=2203&amp;format=png&amp;auto=webp&amp;s=7f458cd0bbf81504c76bbf42c847ecd371c02c98 https://preview.redd.it/occguxvrekd…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdtq2v</guid>
+      <pubDate>Thu, 15 Jan 2026 19:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude聊天（网页界面）Opus版本近2-3天常在思考过程中中断且不回复 / Claude Chat (Web Interface) Opus is often stopping mid-think without delivering a response 2-3 days.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qduq2u/claude_chat_web_interface_opus_is_often_stopping/</link>
+      <description>我主要用Claude进行法律研究项目。近2-3天遇到一个问题：输入提示后，Claude会开始思考，随后直接停止，不给出任何回复。没有错误提示，也未达到使用限制。这常发生在聊天中的第一个问题，所以我认为不是限制问题。切换到Sonnet版本能解决，但我想要Opus！最近2-3天有其他人网页界面遇到此问题吗？我知道之前有过服务中断，但官方已宣布解决。有什么解决方案或变通方法？还是只能等待修复？ 提交者 /u/BrainlessActusReus…
+
+---
+
+Original:
+I use Claude primarily to do Projects for legal research. I've been having an issue the past 2-3 days where I will enter a prompt and Claude will be thinking about it and then just stop without giving me any sort of reply. No error, no limit reached. This is often on the first question in a chat, so I don't think it's a limit issue. Switching to Sonnet eliminates the issue, but I want my Opus! Has anyone else been experiencing this issue on the web interface or otherwise the last 2-3 days? I know there was an service disruption, but it seems as though that officially resolved. Any solutions or workarounds or should I just wait for it to hopefully get fixed? submitted by /u/BrainlessActusReus…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qduq2u</guid>
+      <pubDate>Thu, 15 Jan 2026 20:25:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

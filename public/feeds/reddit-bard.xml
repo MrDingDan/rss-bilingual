@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 20:39:25 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -966,6 +966,30 @@ Original:
 The image isn't edited, when I go to AI mode it says 450 years, but when I just Google search this, it says 45 years, but it's not true. How can this happen? Can I report this anywhere to Google? submitted by /u/hs_phoenix [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdrx3t</guid>
       <pubDate>Thu, 15 Jan 2026 18:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>“以人为本”的SERP变革：为何2026年一篇随意的社区帖子排名超过我的优化支柱页面？ / ​The "Human-First" SERP Shift: Why a random community post is outranking my optimized pillar pages in 2026?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdu50k/the_humanfirst_serp_shift_why_a_random_community/</link>
+      <description>我从事SEO专业已有一段时间，但最近的SERP波动让我重新思考一切。我注意到一个显著趋势：谷歌正优先展示“未经过滤”的真实用户体验，而非传统的细分网站结构。举个例子，我最近看到一篇简单、原生态的社区帖子在不到5小时内获得了6.6k次浏览。它未经优化，没有反向链接，也缺乏技术标记。然而，它几乎瞬间触达了61%的美国受众。与此同时，我那些高质量、有研究支撑的文章却长时间卡在索引队列中，或难以跻身前十名。这似乎意味着E-E-A-T的权重评估发生了根本性转变——谷歌似乎更信任“人类真实反馈”而非……
+
+---
+
+Original:
+I’ve been an SEO specialist for a while now, but the recent SERP volatility is making me rethink everything. I’m seeing a massive trend where Google is prioritizing 'unfiltered' human experiences over traditional niche site structures. ​For context, I recently saw a simple, raw community post hit 6.6k views in less than 5 hours. It wasn't optimized, had no backlinks, and zero technical markup. Yet, it reached a 61% US-based audience almost instantly. Meanwhile, my high-quality, research-backed articles are sitting in the indexing queue or struggling to break the top 10 for weeks. ​This feels like a permanent shift in how E-E-A-T is being weighted—Google seems to trust 'human noise' more than…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdu50k</guid>
+      <pubDate>Thu, 15 Jan 2026 20:02:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>测试Gemini 3 Flash与Gemini 3 Pro的上下文窗口：Google AI Pro用户的上下文窗口并非32k / Testing Gemini 3 Flash and Gemini 3 Pro context window: The context window is not 32k for Google AI Pro users.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdub4j/testing_gemini_3_flash_and_gemini_3_pro_context/</link>
+      <description>几天前，有帖子称上下文窗口已缩减至32k。但我无法复现这一结果。首先，我通过学生身份免费获得了Google AI Pro账户。我向Gemini输入了251472个字符（约6.07万词元），分5条消息发送，每条约1.2万词元，内容一半是西班牙语一半是英语，包括四篇维基百科文章和一篇角色扮演的背景设定。我在第一篇文本的开头段落隐藏了一个“针”。然后，我要求它在我发出其他指令前，一律回复“pan con queso”。我在Gemini 3 Flash和Gemini 3 Pro上都进行了测试。3 Flash仅对第一条消息回复了我要求的句子，它决…
+
+---
+
+Original:
+A couple of days ago, we got this post stating that the context window got reduced to 32k. However, I have not been able to replicate these results. First of all, I have a Google AI Pro account I got for free as an student. I fed 251472 characters (60.7k tokens) to Gemini, in 5 messages of around 12k tokens each, one half in Spanish and another in English, the texts were four wikipedia articles and one lore bible of a roleplay. I also hid a needle in the first paragraphs of the first text. Then, I told it to just answer "pan con queso" to them until I said otherwise. Tried it both on Gemini 3 Flash and Gemini 3 Pro. 3 Flash answered the sentence I asked for just to the first message, it deci…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdub4j</guid>
+      <pubDate>Thu, 15 Jan 2026 20:09:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:52:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 20:38:25 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -828,6 +828,18 @@ Original:
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves s…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qdr06k</guid>
       <pubDate>Thu, 15 Jan 2026 18:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>你可能用错了编码助手 / Why you are (probably) using coding agents wrong</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdubfv/why_you_are_probably_using_coding_agents_wrong/</link>
+      <description>大多数人可能用错了编码助手。我再说一遍：他们把这些助手当作聪明、自主的队友或初级开发者，指望它们有自己的意愿和直觉，然后纳闷为什么输出结果混乱、不一致，或者存在各种明显或隐晦的错误。编码助手并非“更好的ChatGPT”。正确使用编码助手编写代码时，应将自己视为其执行的协调者，而不是让它独立思考，指望“基于自定义领域和我的代码库完成任务，让它运行起来”。你必须定义结构、约束、规则和期望。编码助手只是在这个框架内运行。ChatGPT、Gemini等之所以能单独工作，是因为它们内置了强大的……
+
+---
+
+Original:
+Most people probably use coding agents wrong. There I said it again. They treat agents like smart, autonomous teammates/junior dev with their own volition and intuition and then wonder why the output is chaotic, inconsistent, or subtly/less subtly broken. An agent is not a “better ChatGPT.” The correct mental model when using agent to write your code is to be an orchestrator of its execution , not let it be independent thinker and expecting "here is a task based on custom domain and my own codebase, make it work". You have to define the structure, constraints, rules, and expectations. The agent just runs inside that box. ChatGPT, Gemini, etc. work alone because they come with heavy built-in…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdubfv</guid>
+      <pubDate>Thu, 15 Jan 2026 20:09:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

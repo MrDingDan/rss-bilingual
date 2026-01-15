@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 20:40:02 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -608,6 +608,18 @@ submitted by /u/noobqns [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 05:33:36 +0000</pubDate>
     </item>
     <item>
+      <title>有人成功在安卓设备上运行《荒野大镖客2》（RDR2） / Someone got RDR2 running on android</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdbhhs/someone_got_rdr2_running_on_android/</link>
+      <description>这是视频验证，通过类似WINE的翻译层实现。链接：https://www.reddit.com/r/EmulationOnAndroid/s/DAHSEbYx0x 由 /u/Trick-Studio3179 提交 [链接] [评论]
+
+---
+
+Original:
+Here is the video proof, its via a translation layer, similar to WINE Link: https://www.reddit.com/r/EmulationOnAndroid/s/DAHSEbYx0x submitted by /u/Trick-Studio3179 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdbhhs</guid>
+      <pubDate>Thu, 15 Jan 2026 05:53:00 +0000</pubDate>
+    </item>
+    <item>
       <title>谷歌Pixel 10a价格与发布日期一同泄露 / Google Pixel 10a price leaks along with its release date</title>
       <link>https://www.reddit.com/r/Android/comments/1qdbm42/google_pixel_10a_price_leaks_along_with_its/</link>
       <description>由/u/mo_leahq提交 [链接] [评论]
@@ -620,6 +632,18 @@ submitted by /u/mo_leahq [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 05:59:56 +0000</pubDate>
     </item>
     <item>
+      <title>快速提问：手机存储空间已满，需要录制视频时，你会怎么做？ / Quick question: when your phone storage is full and you need to record video, what do you do?</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdbshz/quick_question_when_your_phone_storage_is_full/</link>
+      <description>快速提问：手机存储空间已满，需要录制视频时，你会怎么做？（正在构建某个项目，需要验证），谢谢。由 /u/Bitter-Vanilla2556 提交 [链接] [评论]
+
+---
+
+Original:
+Quick question: when your phone storage is full and you need to record video, what do you do? (Building something and need validation), thanks. submitted by /u/Bitter-Vanilla2556 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdbshz</guid>
+      <pubDate>Thu, 15 Jan 2026 06:09:11 +0000</pubDate>
+    </item>
+    <item>
       <title>2026年安卓旗舰机：一场巨大的骗局？ / The 2026 Android Flagships: A Massive Scam?</title>
       <link>https://www.reddit.com/r/Android/comments/1qdcflw/the_2026_android_flagships_a_massive_scam/</link>
       <description>说实话，我对2026年的安卓旗舰机抱有极高期待。但看到现在搭载骁龙精英五代（SD Elite Gen 5）和天玑9500（Dimensity 9500）的手机陆续发布，感觉这完全是个骗局。大多数安卓品牌都在通过逐一降级功能来发布旗舰机，同时提高价格，把用户当傻子。作为一个铁杆安卓粉丝，这真让人深感失望。目前市面上没有一款安卓手机能称得上“近乎完美”。一加13（OnePlus 13）曾是如此出色的旗舰机，但它的继任者一加15（OnePlus 15）却全面降级。就连被许多人称为今年“最佳”的OPPO Find X9 Pro，也存在严重过度……
@@ -630,6 +654,18 @@ Original:
 To be honest, I was waiting for the 2026 Android flagships with huge expectations. But looking at the phones launching now with the SD Elite Gen 5 and Dimensity 9500, it feels like a total scam. Most Android brands are releasing flagships by downgrading features one by one while simultaneously hiking the prices, treating users like fools. As a hardcore Android fan, this is deeply disappointing. ​There isn't a single Android phone in the market this time that can be called "Near Perfect." The OnePlus 13 was such an excellent flagship, but its successor, the OnePlus 15, is a complete downgrade. Even the Oppo Find X9 Pro, which many are calling the "best" this year, suffers from heavily over-pr…</description>
       <guid isPermaLink="false">reddit-android::t3_1qdcflw</guid>
       <pubDate>Thu, 15 Jan 2026 06:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>某个无聊的夜晚，我竟发布了一款安卓真心话大冒险游戏 / I was bored one night and somehow ended up publishing a Android Truth or Dare game</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdf7c5/i_was_bored_one_night_and_somehow_ended_up/</link>
+      <description>这并非计划之中。我本该开发一款效率应用，却因朋友一句“现在的真心话大冒险真无聊，每次都是同样的问题”而深夜打开了Android Studio。这句话莫名让我较真起来。于是我做了一个极简版本：两个按钮、粗糙的界面、硬编码的问题。虽然能运行，但感觉很呆板。后来我开始折腾它：针对朋友和情侣的不同相处模式添加了多种玩法；加入防问题重复的逻辑；可依然缺乏惊喜。直到某次我加入了一个假的“面部扫描”功能——它只是停顿一秒，然后随机决定玩家必须说真话还是可以撒谎。这当然不是真的……
+
+---
+
+Original:
+This wasn’t planned. I was supposed to be working on a productivity app and instead ended up opening Android Studio at night because a friend said, “Truth or Dare is boring now. Same questions every time.” That sentence annoyed me more than it should have. So I made a really basic version. Two buttons. Ugly UI. Hardcoded questions. It worked, but it felt dead. Then I started messing with it. Added different modes because people act very differently with friends vs couples. Added logic so questions wouldn’t repeat. Still felt predictable. At some point I added this fake “face scan” thing that just waits a second and randomly decides whether you have to tell the truth or can lie. It’s not real…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdf7c5</guid>
+      <pubDate>Thu, 15 Jan 2026 09:34:35 +0000</pubDate>
     </item>
     <item>
       <title>Android 16 QPR3 Beta 2 发布，修复耗电与设备卡顿问题 / Android 16 QPR3 Beta 2 is here with fixes for battery drain and device freezes</title>
@@ -692,6 +728,18 @@ submitted by /u/wiredmagazine [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 13:59:39 +0000</pubDate>
     </item>
     <item>
+      <title>我打造了一种手机优先的远程录制与运行PC自动化流程的方法 / I built a phone-first way to record and run PC automations remotely</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdl57q/i_built_a_phonefirst_way_to_record_and_run_pc/</link>
+      <description>大家好！我是一名安卓开发者，想分享一个刚发布的功能，并希望获得一些真实的反馈。我一直在开发一款安卓应用，让你可以通过手机控制和自动化电脑上的操作。在最新更新中，我添加了直接在PC上录制工作流程，然后从手机上运行这些相同流程的功能。实际上，这意味着：你可以录制自己打开应用、点击操作、输入文字、使用快捷键的过程；录制内容会发送到你的手机；从手机上，你可以随时在PC上重放整个流程。整个过程无需编写脚本，基本上就是“一次录制，随时重放”。我开发这个功能，是因为我一直在两个极端之间摇摆：重…
+
+---
+
+Original:
+Hey all! I’m an Android dev and wanted to share a feature I just released and get some honest feedback. I’ve been working on an Android app that lets you control and automate actions on your PC from your phone. In the latest update, I added the ability to record workflows directly on the PC and then run those same workflows from the phone. In practice, this means: You can record yourself opening apps, clicking around, typing, using shortcuts That recording gets sent to your phone From the phone, you can replay the whole process on the PC whenever you want There’s no scripting involved. It’s basically “do it once, replay it later”. I built this because I kept bouncing between two extremes: Re…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdl57q</guid>
+      <pubDate>Thu, 15 Jan 2026 14:35:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Android 16 QPR3 Beta 2 悄然推出最近任务菜单降级 / Android 16 QPR3 Beta 2 quietly rolls out a Recents menu downgrade</title>
       <link>https://www.reddit.com/r/Android/comments/1qdm64d/android_16_qpr3_beta_2_quietly_rolls_out_a/</link>
       <description>由 /u/DiplomatikEmunetey 提交 [链接] [评论]
@@ -702,6 +750,18 @@ Original:
 submitted by /u/DiplomatikEmunetey [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qdm64d</guid>
       <pubDate>Thu, 15 Jan 2026 15:14:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 26.3 暗示 iPhone 与 Android 设备间的短信互通功能即将改进 / iOS 26.3 Hints at Improved iPhone-to-Android Texting Coming Soon</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdmf4h/ios_263_hints_at_improved_iphonetoandroid_texting/</link>
+      <description>由 /u/urbanglowcam 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/urbanglowcam [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdmf4h</guid>
+      <pubDate>Thu, 15 Jan 2026 15:24:13 +0000</pubDate>
     </item>
     <item>
       <title>联发科（MediaTek）发布天玑（Dimensity）9500s与8500芯片，提升旗舰及高端智能手机性能、游戏体验与能效 / MediaTek Unveils Dimensity 9500s and Dimensity 8500 to Propel Performance, Gaming and Efficiency in Flagship and Premium Smartphones</title>

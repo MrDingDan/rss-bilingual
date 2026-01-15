@@ -6,7 +6,7 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:52:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 20:40:12 +0000</lastBuildDate>
     <item>
       <title>AI开发者必读好文（建议收藏） / Great read for AI devs.
 
@@ -753,6 +753,22 @@ Original:
 Simple memory solution for long-horizon tasks. DAIR.AI @dair_ai Autonomous Memory Management in LLM Agents LLM agents struggle with long-horizon tasks due to context bloat. As interaction history grows, computational costs explode, latency increases, and reasoning degrades from distraction by irrelevant past errors. The standard approach is append-only: every thought, tool call, and response permanently accumulates. This works for short tasks but guarantees failure for complex exploration. This research introduces Focus, an agent-centric architecture inspired by slime mold (Physarum polycephalum). The biological insight: organisms do not retain perfect records of every movement through a maz…</description>
       <guid isPermaLink="false">xgo-931d6e88::2011815942129430940</guid>
       <pubDate>Thu, 15 Jan 2026 15:01:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cursor对长期运行智能体的深刻见解：规划就是一切 / This is great insight from Cursor on long-running agents.
+
+It turns out planning is all you need.
+
+O...</title>
+      <link>https://x.com/omarsar0/status/2011823468468379782</link>
+      <description>Cursor对长期运行智能体的见解非常深刻。事实证明，规划就是一切。严肃来说，规划对于高效利用AI智能体至关重要。这与我让Claude Code有效处理长期任务的方法一致。（关于Claude Code的更多想法在文末）首先，我们来讨论Cursor文章中的见解。当前多智能体系统的最大问题在于协调与沟通。Cursor提出的解决方案是细致规划。我同意，应对这一挑战的最佳方式就是做好细致规划。规划器可以探索代码库并创建任务，然后生成子规划器来……
+
+---
+
+Original:
+This is great insight from Cursor on long-running agents. It turns out planning is all you need. On a serious note, planning is critical to be productive and effective with AI Agents. It's aligned with how I get Claude Code to effectively work on long-running tasks. (More of my thoughts on Claude Code towards the end of the post) First, let's discuss the insights from the Cursor article. The big problem with multi-agent systems today is the coordination/communication. The solution Cursor proposes is careful planning. I agree that the best way to deal with this challenge today is to do careful planning. Planners can explore the codebase and create these tasks. Then, subplanners are spawned to…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011823468468379782</guid>
+      <pubDate>Thu, 15 Jan 2026 15:31:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
