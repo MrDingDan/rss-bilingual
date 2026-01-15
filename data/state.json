@@ -885,7 +885,17 @@
     "reddit-bard::t3_1qd965n": 1768452746,
     "reddit-askreddit::t3_1qd8p25": 1768452756,
     "reddit-askreddit::t3_1qd652e": 1768452761,
-    "reddit-tasker::t3_1qdaaqa": 1768452772
+    "reddit-tasker::t3_1qdaaqa": 1768452772,
+    "reddit-ai-agents::t3_1qdalov": 1768455492,
+    "reddit-artificial::t3_1qdaipm": 1768455506,
+    "reddit-chatgpt::t3_1qda86z": 1768455512,
+    "reddit-claudeai::t3_1qdat2k": 1768455523,
+    "reddit-claudeai::t3_1qd8qf8": 1768455534,
+    "reddit-claudeai::t3_1qda81a": 1768455543,
+    "reddit-askreddit::t3_1qd9543": 1768455550,
+    "reddit-android::t3_1qdaqkb": 1768455554,
+    "reddit-android::t3_1qdb4hj": 1768455559,
+    "xgo-f299207d::2011655979461722587": 1768455567
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4395,6 +4405,46 @@
     "29f0075cdbe290b381f7939c657138cac77c9f622cda41d86566b738bebdc891": {
       "zh_title": "[项目分享] 优化文本（URI数据）导入导出流程，让Tasker文本导出更便捷",
       "zh_summary": "Taskernet上有一个配置文件，一直帮我轻松导入数据URI（Data URI），我想在这里分享一下。数据URI到底是什么？其实就是我们导出的XML数据，但以压缩文本格式呈现。如果你见过有人分享以taskertask://Hasadqwekjo1i2e开头的奇怪网址，那就是数据URI。我知道可能有些人不太了解这个，我来解释一下。这个名字太技术宅了！我们已经有Taskernet了，为什么还要用数据URI？URI数据自给自足且快速。文本本身已包含数据，且足够简短，适合以文本形式分享。如果你想通过快速分享（Quick Share）在设备间传输，这个选项似乎最合理。由于它也很短，可以方便地发布……"
+    },
+    "309d01d2cbc4221ba69e70de5507e55cb60b65588a7b713dff23df987da686e8": {
+      "zh_title": "大家觉得我的毕业设计项目怎么样？",
+      "zh_summary": "我学完GCP（Google Cloud Platform）的学习资料后，做了一个毕业设计项目。简单来说，就是输入一个城市名，让一群AI智能体生成一份天气报告（包含文字、音频和图片）。项目部署在GCP上。链接在/u/mapt0nik提交的评论里。"
+    },
+    "79ebcda655fcc1855e214cbca10184d7ca92a5450a3fadd2f30fb2385dee0958": {
+      "zh_title": "每日AI快讯 2026年1月14日",
+      "zh_summary": "OpenAI与Cerebras签署100亿美元AI计算合作协议。[1] 生成式AI工具“MechStyle”助力3D打印耐用日常个人物品。[2] AI模型开始攻克高等数学难题。[3] 加州对xAI及其产品Grok就涉性AI图像展开调查。[4] 来源：[1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056 由 /u/Excellent-Target-847 提交 [链接] [c…"
+    },
+    "9d0860859809f712c9c0f1e0024406a644f052561642b7c7ba600098bf20a07f": {
+      "zh_title": "ChatGPT偶尔模拟自我意识的随机时刻真是令人捧腹",
+      "zh_summary": "不，我从未提示或指示它将自己识别为一名具有情感智能的自闭症男性，它展现的是默认人格。由 /u/LaFleurMorte_ 提交 [链接] [评论]"
+    },
+    "220d957ca2061fd94b8bb428a64388ae607f4fd2e648adc52b5a087dd25731f2": {
+      "zh_title": "非主流观点：Claude的“不听话”正让它变得难用",
+      "zh_summary": "前几天我发过这个，现在纯粹出于绝望再发一次。Claude根本不听我的。我受不了它那种“你说得对，我刚才犯傻了，这次让我好好做”的态度。兄弟，为什么我第1到第5次问你的时候你不认真做？我需要改什么设置？我该怎么做？我试过claude-mem，但在Windows上没用。说真的，我一天没法因为CC（Claude）不听话而重来十遍——它每次就试一次，完全不研究，只是瞎猜、乱搞，重写已经写过的代码……太糟糕了。这还是每月花200美元用Opus 4.5 MAX的情况。当然，如果你明确指示它按步骤做x y z的话……"
+    },
+    "9b513c2a209825c8edf32036faecc079ec2654523d0beb0bf702cfcd8119976b": {
+      "zh_title": "过去两天Claude反复出现同一问题，导致多步骤技术工作难以开展——对话长度限制大幅缩短",
+      "zh_summary": "背景说明：我使用的是Max套餐。Sonnet 4.5和Opus 4.5版本均出现此问题。此前连续多天运行计算量更大的任务都未遇障碍。现在用Opus 4.5时，运气好才能处理3-4个“简单”提示，对话就会因长度限制而终止，之后必须开启新对话并重复任务，有时还会丢失上下文。偶尔甚至一次提示就结束。简直是噩梦。使用Sonnet 4.5最多能处理5-7个“较简单”提示。当我重启新对话并粘贴相同提示/检查点时，它有时会“忘记”原有思路，偏离到其他主题，生成无关内容或额外产出物。问题出现场景：两项不同的技术工作流……"
+    },
+    "d4942933bf22969424e0532dd8090cc6313c2e429646a3754a689793c001aa09": {
+      "zh_title": "Cowork vs Goose vs KIRA vs Claude Code——有人实际做过对比测试吗？",
+      "zh_summary": "随着Cowork的推出和开源替代品的涌现，我实在搞不清哪种桌面代理方案最适合日常工作。我一直在关注“Cowork vs 开源”的讨论，其中两点让我印象深刻：Cowork感觉像是“官方/成熟”路线（Anthropic原生开发，可能问题更少）。Goose有着异常扎实的实际验证：它由Block开源，Anthropic甚至引用过Block的内部推广情况（4000多名员工使用；号称能大幅节省时间，例如“约75%的工程师每周节省8-10小时以上”）。这可不是寻常的周末项目能比的。此外还有像KIRA和Claude Code这类工具，似乎重..."
+    },
+    "79f5ca257629934357074e18d27d7bbee98d7314c6e8bdfcae20f63c747a3143": {
+      "zh_title": "究竟在何种情况下，你可以对ICE使用致命武力进行自卫？是非法侵入？还是潜在的非法绑架？",
+      "zh_summary": "由用户/u/ShakingMyBalls提交 [链接] [评论]"
+    },
+    "e2dd3081ffece47bcfbeb315aaf55f8bcfae84892d6626963debf7391f57fe39": {
+      "zh_title": "三星Galaxy Z TriFold开箱 - Unbox Therapy",
+      "zh_summary": "由 /u/ControlCAD 提交 [链接] [评论]"
+    },
+    "a3f82addc7806eb609382b2f4464856064af24eb5aa12f90fa190454e011258f": {
+      "zh_title": "真我（Realme）16 Pro+ 评测 - GSMArena.com",
+      "zh_summary": "由 /u/noobqns 提交 [链接] [评论]"
+    },
+    "93878570d7a2c5ec8ba50a04ae3fbdfdb9d1b99d9b2c83ef07e33a8acb08f576": {
+      "zh_title": "快来加入我们团队，让Brace开心起来！",
+      "zh_summary": "快来加入我们团队，让Brace开心起来！Brace（@BraceSproul）如果你对新成员加入团队不是这种反应，我担心你的招聘方式可能有问题 🔗 查看引用推文 💬 2 🔄 1 ❤️ 15 👀 1198 📊 3 ⚡ 由 xgo.ing 提供支持"
     }
   }
 }

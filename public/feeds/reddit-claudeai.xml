@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 04:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 05:39:03 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1209,6 +1209,18 @@ Until a few hours ago, when my conversations hit the context limit, Claude would
       <pubDate>Thu, 15 Jan 2026 03:22:30 +0000</pubDate>
     </item>
     <item>
+      <title>过去两天Claude反复出现同一问题，导致多步骤技术工作难以开展——对话长度限制大幅缩短 / I’ve been having a recurring issue with Claude over the last ~2 days that’s making multi-step technical work hard - Conversation length limit has shortened considerably</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd8qf8/ive_been_having_a_recurring_issue_with_claude/</link>
+      <description>背景说明：我使用的是Max套餐。Sonnet 4.5和Opus 4.5版本均出现此问题。此前连续多天运行计算量更大的任务都未遇障碍。现在用Opus 4.5时，运气好才能处理3-4个“简单”提示，对话就会因长度限制而终止，之后必须开启新对话并重复任务，有时还会丢失上下文。偶尔甚至一次提示就结束。简直是噩梦。使用Sonnet 4.5最多能处理5-7个“较简单”提示。当我重启新对话并粘贴相同提示/检查点时，它有时会“忘记”原有思路，偏离到其他主题，生成无关内容或额外产出物。问题出现场景：两项不同的技术工作流……
+
+---
+
+Original:
+For context I have the Max plan. This happens with Sonnet 4.5 and Opus 4.5. I've run considerably more computationally intensive tasks over days with no issues. Now I'm lucky if I can get 3-4 "simple" prompts in Opus 4.5 before the conversation ends due to length limit and then I have to start a new one and repeat tasks and sometimes context is lost. Sometimes it's one and done. Nightmare. With Sonnet 4.5 I can get 5-7 "simpler" prompts tops. When I restart a new chat and paste the same prompt/checkpoint, it sometimes “forgets” the thread and drifts into a different topic, producing unrelated content or extra deliverables I didn’t ask for. Where I’ve seen it: In two different technical workf…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd8qf8</guid>
+      <pubDate>Thu, 15 Jan 2026 03:35:25 +0000</pubDate>
+    </item>
+    <item>
       <title>我重新构建了十多年前的另一个创意项目——Trendr / I rebuilt another idea I had been working on over a decade ago - Trendr</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qd8qq7/i_rebuilt_another_idea_i_had_been_working_on_over/</link>
       <description>2012年时，我独自在洛杉矶生活有些艰难，经历分手后，“在洛杉矶结识新朋友真不容易”这种感觉尤为强烈。我想开发一款应用，让人们能基于任何共同兴趣交朋友。它不像Meetup那样细分专注，但必须是移动优先的设计。我曾认真尝试过这个项目，还获得了一些天使投资，但最终未能真正起步。现在，我决定借助Claude再试一次，成果就是Trendr。这是一款本地活动应用，让你能根据兴趣和活动发现周边动态。我还开发了Wingman——一个能提供建议的活动助手……
@@ -1231,6 +1243,30 @@ Original:
 I wanted to share what I built this week because honestly, it still feels like magic. I know frontend development, but I've been wanting to build a bread baking schedule app for a while (sourdough takes ~20 hours and I was tired of setting 12 alarms). The thought of spending weeks on all the JavaScript logic kept stopping me. Then I tried Claude Code. I just... talked to it. Like a client explaining what they want: "I want a dropdown to select different recipes" "Calculate the timestamps based on start time" "Add an ingredients toggle" "Deploy it to GitHub Pages" Done. Done. Done. Done. 3 hours of conversation. That's it. (Okay, plus some waiting for rate limits 😅) The result — Flour Hour :…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qd9kjw</guid>
       <pubDate>Thu, 15 Jan 2026 04:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cowork vs Goose vs KIRA vs Claude Code——有人实际做过对比测试吗？ / Cowork vs Goose vs KIRA vs Claude Code - has anyone actually tested these head-to-head?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qda81a/cowork_vs_goose_vs_kira_vs_claude_code_has_anyone/</link>
+      <description>随着Cowork的推出和开源替代品的涌现，我实在搞不清哪种桌面代理方案最适合日常工作。我一直在关注“Cowork vs 开源”的讨论，其中两点让我印象深刻：Cowork感觉像是“官方/成熟”路线（Anthropic原生开发，可能问题更少）。Goose有着异常扎实的实际验证：它由Block开源，Anthropic甚至引用过Block的内部推广情况（4000多名员工使用；号称能大幅节省时间，例如“约75%的工程师每周节省8-10小时以上”）。这可不是寻常的周末项目能比的。此外还有像KIRA和Claude Code这类工具，似乎重...
+
+---
+
+Original:
+With Cowork launching and open-source alternatives popping up, I'm genuinely confused about which desktop agent approach makes the most sense for day-to-day work. I've been tracking the "Cowork vs open-source" discourse, and two things stood out to me: Cowork feels like the "official / polished" path (Anthropic-native, presumably fewer sharp edges). Goose has unusually strong real-world validation: it's open-sourced by Block, and Anthropic has even referenced Block's internal rollout (4,000+ employees using it; big time-savings claims like "8–10+ hours/week for ~75% of engineers"). That's not your typical weekend project energy. Then there are tools like KIRA and Claude Code that seem to rep…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qda81a</guid>
+      <pubDate>Thu, 15 Jan 2026 04:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>非主流观点：Claude的“不听话”正让它变得难用 / Unpopular opinion: claude's lack of listening is making it become unusable</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdat2k/unpopular_opinion_claudes_lack_of_listening_is/</link>
+      <description>前几天我发过这个，现在纯粹出于绝望再发一次。Claude根本不听我的。我受不了它那种“你说得对，我刚才犯傻了，这次让我好好做”的态度。兄弟，为什么我第1到第5次问你的时候你不认真做？我需要改什么设置？我该怎么做？我试过claude-mem，但在Windows上没用。说真的，我一天没法因为CC（Claude）不听话而重来十遍——它每次就试一次，完全不研究，只是瞎猜、乱搞，重写已经写过的代码……太糟糕了。这还是每月花200美元用Opus 4.5 MAX的情况。当然，如果你明确指示它按步骤做x y z的话……
+
+---
+
+Original:
+I posted this the other day but I'm posting it again from sheer desperation. Claude won't listen to me. I can't handle the "you're right, I was being an idiot. Let me do it properly this time." Like bro, why didn't you do it properly the 1st - 5th time I asked you? What setting do I need to change? What do I need to do? I tried claude-mem, doesn't work on windows. Seriously, I can't start from scratch 10 times a day because CC doesn't listen, because it tries one thing once without doing any research at all, just guessing and doing random shit, rewriting code its already written.. it's awful. And this is with $200/mo MAX on Opus 4.5. Sure, if you give it explicit instructions to do x y z for…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdat2k</guid>
+      <pubDate>Thu, 15 Jan 2026 05:16:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

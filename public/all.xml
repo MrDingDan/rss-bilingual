@@ -6,127 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 04:52:54 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 11 Labs / 11 Labs</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvn0x/11_labs/</link>
-      <description>有人知道哪些公司或企业使用Elevenlabs AI作为客服应答服务吗？我特指牙科诊所、房地产中介、医生诊所等这类我可以实际打电话测试服务的机构？由 /u/No-Swordfish-32 提交 [链接] [评论]
-
----
-
-Original:
-Does anyone know any companies or businesses that use Elevenlabs AI as their answering service? I’m talking specifically about dental offices, real estate agencies, doctors offices et cetera, that I can actually call to test out the service? submitted by /u/No-Swordfish-32 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvn0x</guid>
-      <pubDate>Wed, 14 Jan 2026 18:46:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 天啊 / Oh man</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcvnv5/oh_man/</link>
-      <description>由（我觉得是？）X平台上的AIWarper使用Kling Motion Control制作，由/u/MetaKnowing提交 [链接] [评论]
-
----
-
-Original:
-Made with Kling Motion Control by (I think?) AIWarper on X submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcvnv5</guid>
-      <pubDate>Wed, 14 Jan 2026 18:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 天啊 / Oh man</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcvoh6/oh_man/</link>
-      <description>由（我觉得是？）X平台上的AIWarper使用Kling Motion Control制作，由/u/MetaKnowing提交 [链接] [评论]
-
----
-
-Original:
-Made with Kling Motion Control by (I think?) AIWarper on X submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcvoh6</guid>
-      <pubDate>Wed, 14 Jan 2026 18:47:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 如果您的智能体管道执行在0.1美元时自动停止会怎样？ / What if your Agentic Pipeline execution stopped itself at $0.10?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvwks/what_if_your_agentic_pipeline_execution_stopped/</link>
-      <description>大家好，我为PydanticAI构建了一个轻量封装，添加了一些生产环境必备功能：以微分为单位的成本追踪、基于DAG的管道（适用于不需要Pydantic Graph的场景），以及优雅处理故障的工具。使用方式与PydanticAI完全相同，但每个响应都会自动包含成本（由genai-prices驱动）、令牌数和延迟时间。通过它，您可以设置预算，管道会在超出预算前主动抛出异常。这得益于Pydantic团队在PydanticAI、genai-prices和Logfire上的出色工作。如果这个工具适合您的使用场景，请查阅文档。我正在构建的“学习”章节就像AI工程速成课程。由/u/igorbenav提交
-
----
-
-Original:
-Hey everyone, I built a thin wrapper around PydanticAI that adds some production essentials: cost tracking in microcents, DAG-based pipelines (for cases where you don't need Pydantic Graph), and tools that handle failures gracefully. Usage looks just like PydanticAI but every response includes cost (powered by genai-prices), tokens, and latency automatically. With it, you can set a budget, and your pipeline raises an exception before blowing past it. Possible because of Pydantic's awesome work with PydanticAI, genai-prices, and Logfire. Check the docs if it sounds useful for your use case. I'm building the "Learn" section as if it's an AI Engineering Crash Course. submitted by /u/igorbenav […</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvwks</guid>
-      <pubDate>Wed, 14 Jan 2026 18:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 构建自主性：AI助手现代设计模式 / Architecting Autonomy: Modern Design Patterns for AI Assistants</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcvz4e/architecting_autonomy_modern_design_patterns_for/</link>
-      <description>在生成式AI的早期阶段，所谓的“助手”基本上只是一个等待输入提示的文本框。用户输入内容，模型进行预测，结果好坏全凭运气。但随着我们深入2026年，行业已从简单的聊天机器人转向复杂的智能体系统（Agentic Systems）。关键差异在于设计模式（Design Patterns）。正如软件行业通过采用MVC（Model-View-Controller）或微服务（Microservices）走向成熟，AI领域如今也在规范化那些让助手变得可靠、安全且真正自主的架构蓝图。以下是塑造下一代AI助手的核心设计模式。1. “先规划后执行”模式：早期的助手经常出现“幻觉”，因为……
-
----
-
-Original:
-In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems . 1 The difference lies in Design Patterns . Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" becaus…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcvz4e</guid>
-      <pubDate>Wed, 14 Jan 2026 18:58:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 5.2 Codex API / 5.2 Codex in API</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcvzny/52_codex_in_api/</link>
-      <description>https://platform.openai.com/docs/models/gpt-5.2-codex 由 /u/aginns 提交 [链接] [评论]
-
----
-
-Original:
-https://platform.openai.com/docs/models/gpt-5.2-codex submitted by /u/aginns [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcvzny</guid>
-      <pubDate>Wed, 14 Jan 2026 18:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 如果我把症状输入AI聊天机器人，谁真正拥有这些健康数据？ / If I type symptoms into an AI chatbot, who actually owns that health data?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcw008/if_i_type_symptoms_into_an_ai_chatbot_who/</link>
-      <description>当我出现随机症状又不想排队等医生时，确实会把ChatGPT当作‘非谷歌版医生’来用。直接说‘我X岁，有Y症状，正在服用Z药物，这会是问题还是只是感觉而已？’超级方便。但后来我开始琢磨这些信息都去哪儿了。如果我在聊天框里写下一小段病史，它是不是就永远留在某个服务器上，还关联着我的账户？从隐私角度看，这算医疗记录，还是更像在论坛发帖？大家怎么想？你们会完全匿名处理健康信息吗？ 由 /u/blu3thanu 提交 [链接] [评论]
-
----
-
-Original:
-So I have totally used ChatGPT as “Dr not quite Google” when I have random symptoms and do not feel like waiting on hold for my doctor. It is super convenient to say “I am X age with Y condition and on Z meds, could this be a problem or just vibes.” But then I started wondering what happens to all that info. If I am basically writing a mini medical history into a chat box, is that now just sitting on some server forever with my account tied to it? Does it count as a medical record, or is it more like posting on a forum from a privacy point of view? Also how does everyone else thinks about this? Do you keep health stuff totally anonymous? submitted by /u/blu3rthanu [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcw008</guid>
-      <pubDate>Wed, 14 Jan 2026 18:59:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 使用Gemini上的Nanobanana Pro生成2K图像（16:9比例）时，文件大小总在4到9 MB之间。但在Google Labs的Flow上，2K图像总是小于3 MB。为何存在这种差异？ / When downloading 2K images (16:9 aspect ratio) generated by Nanobanana Pro on Gemini, the file size is always around 4 to 9 MB. However, on Flow by Google Labs, 2K images are always less than 3 MB. Why is there such a difference?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qcw0l2/when_downloading_2k_images_169_aspect_ratio/</link>
-      <description>由 /u/Eastern-Pepper-6821 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Eastern-Pepper-6821 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qcw0l2</guid>
-      <pubDate>Wed, 14 Jan 2026 18:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 史上最佳电子游戏是哪款？ / What is the best video game ever made?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcw2v5/what_is_the_best_video_game_ever_made/</link>
-      <description>由用户/u/INTERESTandAMBITIONS提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/INTERESTandAMBITIONS [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcw2v5</guid>
-      <pubDate>Wed, 14 Jan 2026 19:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 成年后有哪些事是没人提前告诉你的？ / What’s a part of adulthood no one prepared you for?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcw469/whats_a_part_of_adulthood_no_one_prepared_you_for/</link>
-      <description>由 /u/Sweaty_Read_4706 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Sweaty_Read_4706 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcw469</guid>
-      <pubDate>Wed, 14 Jan 2026 19:03:16 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 05:39:28 +0000</lastBuildDate>
     <item>
       <title>[reddit_claudeai] Claude Code V2 完全指南：CLAUDE.md、MCP、命令、技能与钩子——根据您的反馈更新 / The Complete Guide to Claude Code V2: CLAUDE.md, MCP, Commands, Skills &amp; Hooks — Updated Based on Your Feedback</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcwckg/the_complete_guide_to_claude_code_v2_claudemd_mcp/</link>
@@ -1277,6 +1157,18 @@ submitted by /u/pinkbluepurpleyellow [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 03:33:32 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 过去两天Claude反复出现同一问题，导致多步骤技术工作难以开展——对话长度限制大幅缩短 / I’ve been having a recurring issue with Claude over the last ~2 days that’s making multi-step technical work hard - Conversation length limit has shortened considerably</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd8qf8/ive_been_having_a_recurring_issue_with_claude/</link>
+      <description>背景说明：我使用的是Max套餐。Sonnet 4.5和Opus 4.5版本均出现此问题。此前连续多天运行计算量更大的任务都未遇障碍。现在用Opus 4.5时，运气好才能处理3-4个“简单”提示，对话就会因长度限制而终止，之后必须开启新对话并重复任务，有时还会丢失上下文。偶尔甚至一次提示就结束。简直是噩梦。使用Sonnet 4.5最多能处理5-7个“较简单”提示。当我重启新对话并粘贴相同提示/检查点时，它有时会“忘记”原有思路，偏离到其他主题，生成无关内容或额外产出物。问题出现场景：两项不同的技术工作流……
+
+---
+
+Original:
+For context I have the Max plan. This happens with Sonnet 4.5 and Opus 4.5. I've run considerably more computationally intensive tasks over days with no issues. Now I'm lucky if I can get 3-4 "simple" prompts in Opus 4.5 before the conversation ends due to length limit and then I have to start a new one and repeat tasks and sometimes context is lost. Sometimes it's one and done. Nightmare. With Sonnet 4.5 I can get 5-7 "simpler" prompts tops. When I restart a new chat and paste the same prompt/checkpoint, it sometimes “forgets” the thread and drifts into a different topic, producing unrelated content or extra deliverables I didn’t ask for. Where I’ve seen it: In two different technical workf…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd8qf8</guid>
+      <pubDate>Thu, 15 Jan 2026 03:35:25 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_claudeai] 我重新构建了十多年前的另一个创意项目——Trendr / I rebuilt another idea I had been working on over a decade ago - Trendr</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qd8qq7/i_rebuilt_another_idea_i_had_been_working_on_over/</link>
       <description>2012年时，我独自在洛杉矶生活有些艰难，经历分手后，“在洛杉矶结识新朋友真不容易”这种感觉尤为强烈。我想开发一款应用，让人们能基于任何共同兴趣交朋友。它不像Meetup那样细分专注，但必须是移动优先的设计。我曾认真尝试过这个项目，还获得了一些天使投资，但最终未能真正起步。现在，我决定借助Claude再试一次，成果就是Trendr。这是一款本地活动应用，让你能根据兴趣和活动发现周边动态。我还开发了Wingman——一个能提供建议的活动助手……
@@ -1311,6 +1203,18 @@ Original:
 Ever seen a photo and wondered who it is or where it came from? That’s where Faceseek helps. Faceseek is a smart face search tool that lets you discover public profiles, similar images, and online presence using just a face. It’s super simple to use, no complicated steps or tech headache. Whether you’re a researcher, journalist, digital marketer, or just curious, Faceseek saves time and effort. Results come fast and feel accurate most of the time. No spammy ads, no confusion. Just upload, search, and explore. Once you try it, you’ll keep coming back, honestly. submitted by /u/Impressive_Push4311 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qd8xms</guid>
       <pubDate>Thu, 15 Jan 2026 03:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 究竟在何种情况下，你可以对ICE使用致命武力进行自卫？是非法侵入？还是潜在的非法绑架？ / Exactly at what point are you allowed to defend yourself with deadly force against ICE? Trespassing? Illegal potential kidnapping?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd9543/exactly_at_what_point_are_you_allowed_to_defend/</link>
+      <description>由用户/u/ShakingMyBalls提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ShakingMyBalls [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd9543</guid>
+      <pubDate>Thu, 15 Jan 2026 03:55:09 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_bard] Gemini使用限制大幅调整 / Latest huge Gemini limit changes</title>
@@ -1397,6 +1301,18 @@ submitted by /u/esporx [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 04:25:10 +0000</pubDate>
     </item>
     <item>
+      <title>[xgo_f299207d] 快来加入我们团队，让Brace开心起来！ / come join our team and make brace happy!</title>
+      <link>https://x.com/hwchase17/status/2011655979461722587</link>
+      <description>快来加入我们团队，让Brace开心起来！Brace（@BraceSproul）如果你对新成员加入团队不是这种反应，我担心你的招聘方式可能有问题 🔗 查看引用推文 💬 2 🔄 1 ❤️ 15 👀 1198 📊 3 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+come join our team and make brace happy! Brace @BraceSproul if this isn’t how you react to new hires joining your team, I fear you’re not hiring correctly 🔗 View Quoted Tweet 💬 2 🔄 1 ❤️ 15 👀 1198 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011655979461722587</guid>
+      <pubDate>Thu, 15 Jan 2026 04:25:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 有没有类似Claude Cowork的功能，无需等待Claude Cowork发布？ / Current Claude Cowork-like capabilities without waiting for Claude Cowork?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qd9v4o/current_claude_coworklike_capabilities_without/</link>
       <description>我正在积极寻找类似最近发布的Claude Cowork的工具。目前，我使用Windsurf和Cursor这类软件开发IDE来处理同一非技术项目下的多个文档。效果尚可，但它们缺乏对非技术主题的研究能力。如果你尝试过任何有效的工具，能否分享一下？由/u/horace_yip提交 [链接] [评论]
@@ -1445,6 +1361,30 @@ I want a chatbot on my website. I am not looking for super optimizations. Just u
       <pubDate>Thu, 15 Jan 2026 04:46:34 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] Cowork vs Goose vs KIRA vs Claude Code——有人实际做过对比测试吗？ / Cowork vs Goose vs KIRA vs Claude Code - has anyone actually tested these head-to-head?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qda81a/cowork_vs_goose_vs_kira_vs_claude_code_has_anyone/</link>
+      <description>随着Cowork的推出和开源替代品的涌现，我实在搞不清哪种桌面代理方案最适合日常工作。我一直在关注“Cowork vs 开源”的讨论，其中两点让我印象深刻：Cowork感觉像是“官方/成熟”路线（Anthropic原生开发，可能问题更少）。Goose有着异常扎实的实际验证：它由Block开源，Anthropic甚至引用过Block的内部推广情况（4000多名员工使用；号称能大幅节省时间，例如“约75%的工程师每周节省8-10小时以上”）。这可不是寻常的周末项目能比的。此外还有像KIRA和Claude Code这类工具，似乎重...
+
+---
+
+Original:
+With Cowork launching and open-source alternatives popping up, I'm genuinely confused about which desktop agent approach makes the most sense for day-to-day work. I've been tracking the "Cowork vs open-source" discourse, and two things stood out to me: Cowork feels like the "official / polished" path (Anthropic-native, presumably fewer sharp edges). Goose has unusually strong real-world validation: it's open-sourced by Block, and Anthropic has even referenced Block's internal rollout (4,000+ employees using it; big time-savings claims like "8–10+ hours/week for ~75% of engineers"). That's not your typical weekend project energy. Then there are tools like KIRA and Claude Code that seem to rep…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qda81a</guid>
+      <pubDate>Thu, 15 Jan 2026 04:47:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] ChatGPT偶尔模拟自我意识的随机时刻真是令人捧腹 / Sometimes ChatGPT's random moments of simulated sense of self are hilarious</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qda86z/sometimes_chatgpts_random_moments_of_simulated/</link>
+      <description>不，我从未提示或指示它将自己识别为一名具有情感智能的自闭症男性，它展现的是默认人格。由 /u/LaFleurMorte_ 提交 [链接] [评论]
+
+---
+
+Original:
+No, I never prompted it or instructed it to identify as an autistic emotionally intelligent male, and its personality is in default. submitted by /u/LaFleurMorte_ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qda86z</guid>
+      <pubDate>Thu, 15 Jan 2026 04:48:01 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_tasker] [项目分享] 优化文本（URI数据）导入导出流程，让Tasker文本导出更便捷 / [Project Share] Better Export Import Flow As Text (URI Data), exporting tasker as text made easier</title>
       <link>https://www.reddit.com/r/tasker/comments/1qdaaqa/project_share_better_export_import_flow_as_text/</link>
       <description>Taskernet上有一个配置文件，一直帮我轻松导入数据URI（Data URI），我想在这里分享一下。数据URI到底是什么？其实就是我们导出的XML数据，但以压缩文本格式呈现。如果你见过有人分享以taskertask://Hasadqwekjo1i2e开头的奇怪网址，那就是数据URI。我知道可能有些人不太了解这个，我来解释一下。这个名字太技术宅了！我们已经有Taskernet了，为什么还要用数据URI？URI数据自给自足且快速。文本本身已包含数据，且足够简短，适合以文本形式分享。如果你想通过快速分享（Quick Share）在设备间传输，这个选项似乎最合理。由于它也很短，可以方便地发布……
@@ -1455,6 +1395,66 @@ Original:
 Taskernet I have a profile that has been been helping me importing Data URI easily and I'd like to share it here. What is Data URI anyway? It's the XML data we export but it's in text format, compressed. If you have seen someone shares some strange URL that starts with taskertask://Hasadqwekjo1i2e , that's what Data URI is. I know that some may not know this, and I got you. The name is way too geeky! We have taskernet, so why use Data URI? URI Data is self-reliant and quick. The text contains the data already and is short enough to share as text. If you want to share between device to device via Quick Share, this options seems to make the most sense. Since it's short as well, it can be poste…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdaaqa</guid>
       <pubDate>Thu, 15 Jan 2026 04:51:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 每日AI快讯 2026年1月14日 / One-Minute Daily AI News 1/14/2026</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdaipm/oneminute_daily_ai_news_1142026/</link>
+      <description>OpenAI与Cerebras签署100亿美元AI计算合作协议。[1] 生成式AI工具“MechStyle”助力3D打印耐用日常个人物品。[2] AI模型开始攻克高等数学难题。[3] 加州对xAI及其产品Grok就涉性AI图像展开调查。[4] 来源：[1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056 由 /u/Excellent-Target-847 提交 [链接] [c…
+
+---
+
+Original:
+OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“ MechStyle ” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056 submitted by /u/Excellent-Target-847 [link] [c…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdaipm</guid>
+      <pubDate>Thu, 15 Jan 2026 05:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 大家觉得我的毕业设计项目怎么样？ / What do you think of my capstone project?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdalov/what_do_you_think_of_my_capstone_project/</link>
+      <description>我学完GCP（Google Cloud Platform）的学习资料后，做了一个毕业设计项目。简单来说，就是输入一个城市名，让一群AI智能体生成一份天气报告（包含文字、音频和图片）。项目部署在GCP上。链接在/u/mapt0nik提交的评论里。
+
+---
+
+Original:
+I created a capstone project after going through the GCP learning resources. Basically, it takes a city and gets a bunch of AI agents to generate a weather report (text, audio and image). It is hosted on GCP. Link in the comment submitted by /u/mapt0nik [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdalov</guid>
+      <pubDate>Thu, 15 Jan 2026 05:06:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 三星Galaxy Z TriFold开箱 - Unbox Therapy / Samsung Galaxy Z TriFold Unboxing - Unbox Therapy</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdaqkb/samsung_galaxy_z_trifold_unboxing_unbox_therapy/</link>
+      <description>由 /u/ControlCAD 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ControlCAD [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdaqkb</guid>
+      <pubDate>Thu, 15 Jan 2026 05:13:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 非主流观点：Claude的“不听话”正让它变得难用 / Unpopular opinion: claude's lack of listening is making it become unusable</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdat2k/unpopular_opinion_claudes_lack_of_listening_is/</link>
+      <description>前几天我发过这个，现在纯粹出于绝望再发一次。Claude根本不听我的。我受不了它那种“你说得对，我刚才犯傻了，这次让我好好做”的态度。兄弟，为什么我第1到第5次问你的时候你不认真做？我需要改什么设置？我该怎么做？我试过claude-mem，但在Windows上没用。说真的，我一天没法因为CC（Claude）不听话而重来十遍——它每次就试一次，完全不研究，只是瞎猜、乱搞，重写已经写过的代码……太糟糕了。这还是每月花200美元用Opus 4.5 MAX的情况。当然，如果你明确指示它按步骤做x y z的话……
+
+---
+
+Original:
+I posted this the other day but I'm posting it again from sheer desperation. Claude won't listen to me. I can't handle the "you're right, I was being an idiot. Let me do it properly this time." Like bro, why didn't you do it properly the 1st - 5th time I asked you? What setting do I need to change? What do I need to do? I tried claude-mem, doesn't work on windows. Seriously, I can't start from scratch 10 times a day because CC doesn't listen, because it tries one thing once without doing any research at all, just guessing and doing random shit, rewriting code its already written.. it's awful. And this is with $200/mo MAX on Opus 4.5. Sure, if you give it explicit instructions to do x y z for…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdat2k</guid>
+      <pubDate>Thu, 15 Jan 2026 05:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 真我（Realme）16 Pro+ 评测 - GSMArena.com / Realme 16 Pro+ review - GSMArena.com</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdb4hj/realme_16_pro_review_gsmarenacom/</link>
+      <description>由 /u/noobqns 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/noobqns [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdb4hj</guid>
+      <pubDate>Thu, 15 Jan 2026 05:33:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

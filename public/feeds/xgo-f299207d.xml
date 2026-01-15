@@ -6,7 +6,7 @@
     <description>Auto translated feed for xgo_f299207d (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 04:52:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 05:39:27 +0000</lastBuildDate>
     <item>
       <title>面向情境工程的文件系统！ / Filesystems for context engineering!
 
@@ -104,6 +104,20 @@ Original:
       <pubDate>Wed, 10 Dec 2025 17:39:35 +0000</pubDate>
     </item>
     <item>
+      <title>💬分析对话 / 💬Analyze a conversation
+
+Agents often involve a lot of back and forth with the user - its not just ...</title>
+      <link>https://x.com/hwchase17/status/1998809837619286224</link>
+      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
+      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
+    </item>
+    <item>
       <title>更多信息： / For more info:
 
 Blog on Polly: https://t.co/4UmT029pXT
@@ -121,20 +135,6 @@ We'...</title>
 Original:
 For more info: Blog on Polly: blog.langchain.com/debugging-deep… Video on Polly: youtube.com/watch?v=4Ox2gd… We're doing a webinar tmrw where we will talk more about Polly - join us there! luma.com/voz2b5h3 💬 0 🔄 0 ❤️ 10 👀 1211 📊 3 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::1998809838860861628</guid>
-      <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>💬分析对话 / 💬Analyze a conversation
-
-Agents often involve a lot of back and forth with the user - its not just ...</title>
-      <link>https://x.com/hwchase17/status/1998809837619286224</link>
-      <description>💬分析对话 智能体（Agents）通常需要与用户进行多轮互动——这不仅仅是单一轨迹。Polly 能够审视整个对话过程，判断用户是否感到沮丧，或者智能体是否输出了不良结果。💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-💬Analyze a conversation Agents often involve a lot of back and forth with the user - its not just a single trace Polly can look at the whole conversation and see whether the user was frustrated or if the agent produced bad outputs 💬 1 🔄 0 ❤️ 9 👀 1346 📊 2 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::1998809837619286224</guid>
       <pubDate>Wed, 10 Dec 2025 17:39:36 +0000</pubDate>
     </item>
     <item>
@@ -733,6 +733,18 @@ Original:
 you can indeed use LangSmith to log your Claude Code traces! docs: docs.langchain.com/langsmith/trac… Muhammad Junaid @MJunaidshaukat @hwchase17 @sydneyrunkle @hwchase17 I wonder if we can use langsmith tracing with CLI Coding Agents particularly Claude Code. Looking at the decision to use skills, subagents, background tasks will be gold. 🔗 View Quoted Tweet 💬 3 🔄 3 ❤️ 4 👀 967 📊 4 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-f299207d::2011563840933359903</guid>
       <pubDate>Wed, 14 Jan 2026 22:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>快来加入我们团队，让Brace开心起来！ / come join our team and make brace happy!</title>
+      <link>https://x.com/hwchase17/status/2011655979461722587</link>
+      <description>快来加入我们团队，让Brace开心起来！Brace（@BraceSproul）如果你对新成员加入团队不是这种反应，我担心你的招聘方式可能有问题 🔗 查看引用推文 💬 2 🔄 1 ❤️ 15 👀 1198 📊 3 ⚡ 由 xgo.ing 提供支持
+
+---
+
+Original:
+come join our team and make brace happy! Brace @BraceSproul if this isn’t how you react to new hires joining your team, I fear you’re not hiring correctly 🔗 View Quoted Tweet 💬 2 🔄 1 ❤️ 15 👀 1198 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011655979461722587</guid>
+      <pubDate>Thu, 15 Jan 2026 04:25:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

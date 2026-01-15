@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 04:52:41 +0000</lastBuildDate>
-    <item>
-      <title>如果你私下认识移民海关执法局（ICE）探员，如今你们的关系如何？ / If you know an ICE agent personally, what's that relationship like now?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qb240z/if_you_know_an_ice_agent_personally_whats_that/</link>
-      <description>由用户 /u/Lokja 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Lokja [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qb240z</guid>
-      <pubDate>Mon, 12 Jan 2026 18:01:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 05:39:10 +0000</lastBuildDate>
     <item>
       <title>你对2026年最离谱、最疯狂的预测是什么，并且暗自相信它真的会发生？ / What’s the most unhinged, batshit crazy prediction you have for 2026 that you’re lowkey convinced is going to happen?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qb54df/whats_the_most_unhinged_batshit_crazy_prediction/</link>
@@ -1446,6 +1434,18 @@ Original:
 submitted by /u/pinkbluepurpleyellow [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qd8p25</guid>
       <pubDate>Thu, 15 Jan 2026 03:33:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>究竟在何种情况下，你可以对ICE使用致命武力进行自卫？是非法侵入？还是潜在的非法绑架？ / Exactly at what point are you allowed to defend yourself with deadly force against ICE? Trespassing? Illegal potential kidnapping?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd9543/exactly_at_what_point_are_you_allowed_to_defend/</link>
+      <description>由用户/u/ShakingMyBalls提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ShakingMyBalls [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd9543</guid>
+      <pubDate>Thu, 15 Jan 2026 03:55:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

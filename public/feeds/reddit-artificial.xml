@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 04:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 05:38:26 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -738,6 +738,18 @@ Original:
 submitted by /u/esporx [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qd9rk9</guid>
       <pubDate>Thu, 15 Jan 2026 04:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>每日AI快讯 2026年1月14日 / One-Minute Daily AI News 1/14/2026</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdaipm/oneminute_daily_ai_news_1142026/</link>
+      <description>OpenAI与Cerebras签署100亿美元AI计算合作协议。[1] 生成式AI工具“MechStyle”助力3D打印耐用日常个人物品。[2] AI模型开始攻克高等数学难题。[3] 加州对xAI及其产品Grok就涉性AI图像展开调查。[4] 来源：[1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056 由 /u/Excellent-Target-847 提交 [链接] [c…
+
+---
+
+Original:
+OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“ MechStyle ” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056 submitted by /u/Excellent-Target-847 [link] [c…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdaipm</guid>
+      <pubDate>Thu, 15 Jan 2026 05:02:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

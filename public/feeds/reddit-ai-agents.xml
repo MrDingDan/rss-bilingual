@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 04:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 05:38:13 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1344,6 +1344,18 @@ Original:
 I want a chatbot on my website. I am not looking for super optimizations. Just use the 100ish pages for RAG with some vector db and a BM25 index and call Openai(anything will do). No memory and personalization. Pressure from the top to build this ASAP as you can imagine. I just need it to run so that we can collect usage data and if customers like it then we will get into the hyper optimizations. Can someone please point me to some product that I can just install, quickly configure and use in production? Thank you for your help! submitted by /u/Hk_90 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qda75x</guid>
       <pubDate>Thu, 15 Jan 2026 04:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>大家觉得我的毕业设计项目怎么样？ / What do you think of my capstone project?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdalov/what_do_you_think_of_my_capstone_project/</link>
+      <description>我学完GCP（Google Cloud Platform）的学习资料后，做了一个毕业设计项目。简单来说，就是输入一个城市名，让一群AI智能体生成一份天气报告（包含文字、音频和图片）。项目部署在GCP上。链接在/u/mapt0nik提交的评论里。
+
+---
+
+Original:
+I created a capstone project after going through the GCP learning resources. Basically, it takes a city and gets a bunch of AI agents to generate a weather report (text, audio and image). It is hosted on GCP. Link in the comment submitted by /u/mapt0nik [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdalov</guid>
+      <pubDate>Thu, 15 Jan 2026 05:06:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
