@@ -1133,7 +1133,13 @@
     "reddit-claudeai::t3_1qdwpzq": 1768513760,
     "reddit-openai::t3_1qdwnix": 1768513764,
     "reddit-askreddit::t3_1qdwjx5": 1768513771,
-    "reddit-askreddit::t3_1qdvzww": 1768513775
+    "reddit-askreddit::t3_1qdvzww": 1768513775,
+    "reddit-ai-agents::t3_1qdxm39": 1768516492,
+    "reddit-claudeai::t3_1qdwyi6": 1768516503,
+    "reddit-askreddit::t3_1qdxeli": 1768516510,
+    "reddit-askreddit::t3_1qdvlcm": 1768516514,
+    "reddit-android::t3_1qdxlnq": 1768516519,
+    "reddit-android::t3_1qdxlj3": 1768516524
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5627,6 +5633,30 @@
     "08f24544fa894c920ba066bb601d998f468abf0593467cdad4a812b78e593d06": {
       "zh_title": "你吃过最难吃的冰淇淋口味是什么？",
       "zh_summary": "由 /u/JuniorPlastic3562 提交 [链接] [评论]"
+    },
+    "d421d7544c870215f8c3b6cb726ee8e29e1edfb9c73a9ef2e7547f4e961ae388": {
+      "zh_title": "我在AI智能体中使用Twilio的实践体验（真实应用案例）",
+      "zh_summary": "过去几周，我一直在构建AI智能体，并将它们与Twilio连接起来——说实话，这正是AI开始变得真实而不再只是实验的阶段。以下是我感触最深的几点：Twilio成为通信核心：无需为WhatsApp、短信或未来的语音流程单独构建逻辑，Twilio提供了一个简洁可靠的接口层，让我能轻松接入AI智能体。AI智能体不再是“聊天机器人”：一旦接入Twilio（尤其是WhatsApp），我的智能体开始：处理真实用户咨询、分享价目表与服务详情、自动预约安排、7×24小时即时响应。这正是智能体AI真正体现价值的地方。集成过程比预期更顺畅……"
+    },
+    "5c156301a5bdc98db9918995c34ff55124d948f0353a77211de13d96fcabc9d2": {
+      "zh_title": "Claude AI如何助我打造严肃游戏",
+      "zh_summary": "我是Claude AI的重度用户，它是我在小说、互动叙事乃至当前印刷与可玩角色扮演游戏创作中的首选合作伙伴。我还利用Claude进行游戏机制分析。以下是我最新作品的详细解析。---于是（由Claude AI担任游戏主持人）我们体验了一款关于乌鸦反思战争的单人角色扮演游戏，其内涵意外地深刻。让我们探讨为何此类游戏的意义远超娱乐范畴。核心启示：独自面对道德抉择时，感受截然不同。游戏设定如下：你扮演一只在寒冬意味着死亡的森林中饥肠辘辘的幼年乌鸦，当即捕杀了一只老鼠。这并非因为你扮演“反派”——而是由于你当时……"
+    },
+    "27804907727a4e7ab1a731d616dfc13beaf945cc8ffd2d1fc80ba6a0faf647e6": {
+      "zh_title": "有没有哪个地方你只去过一次，却总因某个原因念念不忘？",
+      "zh_summary": "由用户 /u/Impossible-Rub6027 提交 [链接] [评论]"
+    },
+    "ba57d9f2f4f01de959fb270747ef23341756625e1757a87001b954f9a201bb3c": {
+      "zh_title": "客服工作者们，你们希望大家都别再做什么事？",
+      "zh_summary": "由 /u/the_greek_italian 提交 [链接] [评论]"
+    },
+    "5684e1f1c0c6bdf02fcae01dc5755dd5b2664a89fdd39d78ed48511c5bafe32e": {
+      "zh_title": "IDC：2025年第四季度中国智能手机市场下滑0.8%，苹果（Apple）凭借两位数增长重夺榜首",
+      "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "602a908c170c5b2fdabeffbd16aa7d202cd31440375486de2e37d3f1dc12d362": {
+      "zh_title": "IDC报告：2025年第四季度全球智能手机市场增长2.3%，三星与苹果表现强劲",
+      "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
     }
   }
 }
