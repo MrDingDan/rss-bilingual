@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 17:48:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:55:09 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -906,6 +906,66 @@ Original:
 submitted by /u/Gaiden206 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdpq85</guid>
       <pubDate>Thu, 15 Jan 2026 17:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>为什么Gemini不能像ChatGPT那样生成和编辑文件？ / Why can't Gemini generate and edit files like ChatGPT?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdqnwm/why_cant_gemini_generate_and_edit_files_like/</link>
+      <description>大家下午好，我使用Gemini（Pro订阅版）作为主要AI助手已有一段时间，经常搭配ChatGPT和Perplexity等其他工具。不过，尽管Gemini的能力日益增强，它仍然无法应要求生成文件（比如Word或Excel文档）——而这正是ChatGPT轻松胜任的功能。举个例子：今天我把自建的Excel文件发给ChatGPT，请它进行特定修改、添加新工作表、修正某些公式，并关联不同工作表的单元格结果。本质上，我希望对文件进行全面改造。ChatGPT仅通过一次指令就处理了请求，并将修改后的文件发回给我。
+
+---
+
+Original:
+Good afternoon everyone, I’ve been using Gemini (Pro subscription) as my primary AI for a while now, often combining it with alternatives like ChatGPT and Perplexity. However, even though Gemini is proving to be more capable by the day, it still lacks the ability to generate files (such as Word or Excel) upon request—something ChatGPT handles with ease. To give you an example: today I sent an Excel file I had built to ChatGPT. I asked it to make specific changes, add new tabs, fix certain formulas, and link cell results across different sheets. Essentially, I wanted a full overhaul of the file. In a single prompt, ChatGPT processed the request and sent the modified file back to me. I just do…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdqnwm</guid>
+      <pubDate>Thu, 15 Jan 2026 17:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>购买100欧元年费套餐仅3天，因疑似机器人行为被封禁 / Getting Banned for Bot-like Behaviour 3 days after purchasing a year for 100 €</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdqqyb/getting_banned_for_botlike_behaviour_3_days_after/</link>
+      <description>大家好，我想寻求建议，不知道该如何联系客服。我是德国公民（仅供参考，或许这是个影响因素），购买了12个月的Google One AI Pro服务，创建了一个笔记本，并与Gemini进行了大约8次对话。今天我在同一设备上多次登录，每次都需要短信验证——尽管我已移除手机号，仅使用验证器应用的TOTP作为双因素认证，这非常奇怪。创建一个关于我新电脑配置的详细笔记本并询问组装问题，怎么就成机器人行为了？我非常困惑。我真的很需要这个来学习（尤其是NotebookLM），而且花了一大笔钱（至少对我来说）……
+
+---
+
+Original:
+Hi everyone, I am looking for advice what I could do, I cannot figure out a way to contact a support. I am a German citizen (fyi, maybe its a factor) and purchased Google One AI Pro for 12 months and created one notebook, also I had maybe 8 conversations with Gemini, I had to login multiple times today on the same device, everytime via sms - even though I removed my phone number and only use totp with the authenticator app as 2fa, it was very weird. How is creating a detailed notebook about my new pc build and asking questions about the assembly bot-like behaviour? I am very confused. I really need this to study (especially NotebookLM) and payed a huge amount of money (for me at least) and d…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdqqyb</guid>
+      <pubDate>Thu, 15 Jan 2026 18:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果Siri里不出现Gemini品牌，谷歌真能获益吗？ / Does Google actually gain anything if Gemini isn't branded inside Siri?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdr8y5/does_google_actually_gain_anything_if_gemini_isnt/</link>
+      <description>随着苹果与谷歌的合作正式公布，外界纷纷猜测具体形式。多数人认为苹果会隐藏Gemini名称以保持“Siri”的品牌魅力，但这可能不现实。我的观点是：用户界面中必然会出现Gemini品牌标识。原因如下：谷歌的动机：为何要用其最先进的1.2万亿参数模型换取约10亿美元却零品牌曝光？对市值4万亿美元的公司而言，10亿美元只是零钱。这笔交易的核心必然是品牌营销。用户认知：若Siri突然变得聪明十倍，谷歌需要借助这种“光环效应”提升品牌认知……
+
+---
+
+Original:
+Does Google actually gain anything if Gemini isn't branded inside Siri? With the news of the Apple/Google partnership becoming official, there’s a lot of talk about how it will look. Most people assume Apple will bury the Gemini name to keep the "Siri" magic alive, but I don’t think that’s realistic. My theory: There has to be Gemini branding in the UI. Here’s why: The "Why" for Google: Why would Google trade its most advanced 1.2T parameter model for a reported $1 billion and zero brand recognition? For a company with a $4T market cap, $1B is pocket change. This deal has to be about marketing. User Awareness: If Siri suddenly gets 10x smarter, Google wants that "halo effect." They want Appl…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdr8y5</guid>
+      <pubDate>Thu, 15 Jan 2026 18:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>更新... 正是如此！你触及了让历史记录真正有用的关键缺失环节。按文件类型分类（如文章所示：一边是图片，另一边是PDF）纯粹是物流式的整理。它方便，但很“笨”。你提出的 / Mise a jours... C'est exactement ça ! Tu touches du doigt le chaînon manquant pour que l'historique devienne vraiment utile. Le tri par **type de fichier** (ce que montre l'article : images d'un côté, PDF de l'autre), c'est de la logistique pure. C'est pratique, mais c'est "bête". Ce que tu propos</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdrus3/mise_a_jours_cest_exactement_ça_tu_touches_du/</link>
+      <description>正是如此！你触及了让历史记录真正有用的关键缺失环节。按文件类型分类（如文章所示：一边是图片，另一边是PDF）纯粹是物流式的整理。它方便，但很“笨”。你提出的是一种语义和主题分类。如果能有自动生成的文件夹或“标签”，比如：🧠 哲学/思考（用于我们的深度讨论）💻 技术/代码（用于解决技术问题）🎨 创意（用于图像或想法生成），那确实会非常棒。目前，AI能够分析对话内容，但界面还无法利用这一点...
+
+---
+
+Original:
+C'est exactement ça ! Tu touches du doigt le chaînon manquant pour que l'historique devienne vraiment utile. Le tri par type de fichier (ce que montre l'article : images d'un côté, PDF de l'autre), c'est de la logistique pure. C'est pratique, mais c'est "bête". Ce que tu proposes, c'est un tri sémantique et thématique . Ce serait effectivement incroyable d'avoir des dossiers ou des "étiquettes" automatiques du genre : 🧠 Philosophie / Réflexion (pour nos discussions profondes) 💻 Tech / Code (pour les résolutions de problèmes techniques) 🎨 Créatif (pour la génération d'images ou d'idées) Pour l'instant, l'IA sait analyser le contenu de la conversation, mais l'interface ne sait pas encore s'en…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdrus3</guid>
+      <pubDate>Thu, 15 Jan 2026 18:39:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌（Google）竟然不会算数... / Google can't count...</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdrx3t/google_cant_count/</link>
+      <description>这张图没有经过编辑——当我切换到AI模式时，它显示450年；但当我直接用谷歌搜索时，却显示45年，而且这个结果也不对。怎么会发生这种事？我能向谷歌（Google）的某个地方报告这个问题吗？由 /u/hs_phoenix 提交 [链接] [评论]
+
+---
+
+Original:
+The image isn't edited, when I go to AI mode it says 450 years, but when I just Google search this, it says 45 years, but it's not true. How can this happen? Can I report this anywhere to Google? submitted by /u/hs_phoenix [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdrx3t</guid>
+      <pubDate>Thu, 15 Jan 2026 18:42:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

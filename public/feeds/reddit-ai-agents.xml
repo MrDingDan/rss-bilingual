@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 17:47:19 +0000</lastBuildDate>
-    <item>
-      <title>构建了一个多智能体架构 / built a multi agent architecture</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbk3d4/built_a_multi_agent_architecture/</link>
-      <description>我和朋友开发了一个更经济版的Manus。Manus在积分使用上一直效率不高，其代币系统和一致性缺失问题频发。于是我们决定自己动手，构建了一个多智能体架构——通过启动多个智能体协作完成一项任务，并可在任务进程中实时预览进展。欢迎分享你的看法... 由/u/Loose-Tackle1339提交 [链接] [评论]
-
----
-
-Original:
-my friend and i built a cheaper version of manus. Manus has never been efficient with their credits and have seen a lot of issues regrading the token system and the lack of consistency. So we decided to take matters into our own hands, we built a multi agent architecture that launches multiple agents to get one task done and u can preview them as the tasks progress let me know what you think... submitted by /u/Loose-Tackle1339 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbk3d4</guid>
-      <pubDate>Tue, 13 Jan 2026 06:28:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI智能体并非魔法，只是精心设计的系统 / AI Agents Aren’t Magic They’re Just Well-Designed Systems</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbkgy3/ai_agents_arent_magic_theyre_just_welldesigned/</link>
-      <description>人们常把AI智能体说得像黑箱一样神秘，但实际上它们只是由几个清晰模块协同工作的系统：用于推理的语言模型、某种形式的记忆、工具调用能力以及决定下一步行动的逻辑。它们擅长处理混乱、模糊或需要判断的任务，而对于自动化已能很好处理的简单、可预测工作流，通常并不适用。真正能在生产中稳定运行的智能体并非最复杂的，而是那些设计克制的——由小巧、可组合的部件构成，每个部件专注做好一件事，并能随着明确的目标逐步扩展。团队通过从窄领域入手、审慎扩展规模，才能避免系统脆弱……
-
----
-
-Original:
-AI agents get talked about like they’re some kind of black box, but in reality they’re just systems made up of a few clear pieces working together: a language model for reasoning, some form of memory, access to tools and logic that decides what to do next. They shine when work is messy, ambiguous or requires judgment and they’re usually a bad fit for simple, predictable workflows that automation already handles well. The agents that actually hold up in production aren’t the most complex ones, they’re the ones built with restraint small, composable parts that do one thing well and can be extended over time with clear intent. Starting narrow and scaling deliberately is how teams avoid fragile…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbkgy3</guid>
-      <pubDate>Tue, 13 Jan 2026 06:51:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>智能体AI迎来重要一周；这些重大进展你可能错过了： / It's been a big week for Agentic AI ; Here are 10 massive developments you might've missed:</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbklxt/its_been_a_big_week_for_agentic_ai_here_are_10/</link>
-      <description>OpenAI推出健康与工作智能体；Claude Code 2.1.0发布，包含1096次提交；Cursor智能体减少47%的令牌使用量；一系列AI智能体更新！🧵 1. Claude Code 2.1.0发布，带来重大智能体更新：包含1096次提交。新增智能体与技能前置钩子，智能体在工具使用被拒时不再停止，支持自定义智能体、通配符工具权限及多语言支持。智能体工作流大幅改进。 2. OpenAI推出ChatGPT健康智能体：专为健康对话设计的空间。可安全连接医疗记录与健康应用，使回答基于您的健康数据。旨在协助医疗护理，而非替代。现已开放早期体验等候名单。个人…
-
----
-
-Original:
-OpenAI launches Health and Jobs agents Claude Code 2.1.0 drops with 1096 commits Cursor agent reduces tokens by 47% A collection of AI Agent Updates! 🧵 1. Claude Code 2.1.0 Released with Major Agent Updates 1096 commits shipped. Add hooks to agents &amp; skills frontmatter, agents no longer stop on denied tool use, custom agent support, wildcard tool permissions, and multilingual support. Huge agentic workflow improvements. 2. OpenAI Launches ChatGPT Health Agent Dedicated space for health conversations. Securely connect medical records and wellness apps so responses are grounded in your health data. Designed to help navigate medical care, not replace it. Early access waitlist open. The personal…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbklxt</guid>
-      <pubDate>Tue, 13 Jan 2026 06:59:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 18:52:50 +0000</lastBuildDate>
     <item>
       <title>Claude再次改变游戏规则 / Claude Changed the Game Once Again</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbks20/claude_changed_the_game_once_again/</link>
@@ -1464,6 +1428,42 @@ Original:
 Hey everyone, I’m working on an AI/ML hackathon project and I’m specifically looking for non-generic ideas that go beyond basic chatbots or dashboards. Constraints I’m working with: Focus on search, long-term memory, or recommendations System-level idea (not just a model) Prefer real societal problems (healthcare, education, misinformation, climate, public safety, etc.) Can involve multimodal data (text, images, audio, time-series) submitted by /u/Ordinary-Guest-9850 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdq7zx</guid>
       <pubDate>Thu, 15 Jan 2026 17:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌近期推出Gemini全新“个人智能”功能 / Google recently dropped Gemini’s new “Personal Intelligence” feature.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdqyvo/google_recently_dropped_geminis_new_personal/</link>
+      <description>我刚看了谷歌关于他们称之为“个人智能”的更新，据我所知，Gemini现在可以连接你个人谷歌应用间的数据，包括YouTube、Gmail、相册和搜索，但前提是你授予权限。其理念是Gemini能对你的数据应用逻辑推理，而非提供通用答案。因此，如果你询问诸如汽车推荐、旅行灵感或书籍建议，它可以利用邮件、照片、过往搜索和兴趣等信号来定制回答。我不确定实际使用感受如何，但隐私显然也是重要一环。谷歌声称你可以随时管理设置、断开应用连接并清除历史记录……
+
+---
+
+Original:
+I just read Google’s update on something they’re calling Personal Intelligence, and from what I understand, Gemini can now link data between your own Google apps, including YouTube, Gmail, Photos, and Search, but only if you give it permission. The idea is that Gemini can apply logic across your data rather than providing generic answers. So if you ask for things like car recommendations, travel ideas, or book suggestions, it can use signals like emails, photos, past searches, and interests to tailor the response. I'm not sure how this will feel in actual use, but privacy is clearly a big part of this too. Google claims that you can manage settings, disconnect apps, and erase history at any…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdqyvo</guid>
+      <pubDate>Thu, 15 Jan 2026 18:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>诚心一问：你们真的每天在用智能体，还是只停留在搭建阶段？ / Honest question do you actually use agents daily or just build them</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdr2wt/honest_question_do_you_actually_use_agents_daily/</link>
+      <description>这个问题一直困扰着我。我总看到关于搭建智能体的帖子——教程、框架、工作流截图。大家似乎都在积极开发，但当我问起人们日常实际使用的智能体时，回答却变得含糊。老实说，过去一年我大概搭建了12个智能体。每天在用的？两个。如果算上每周查看的那个，也许三个。其余的搭建时挺有趣，演示时也能运行，之后就闲置了。有些我甚至忘了，直到在控制面板里看到它们。“我搭建了一个能做X的智能体”和“我有个智能体每天自动为我处理X，无需操心”是两回事。对我来说，后者少得多。部分原因是信任问题，还有一部分……
+
+---
+
+Original:
+This has been bugging me. I see posts about building agents constantly. Tutorials, frameworks, screenshots of workflows. Everyone seems to be shipping But when I ask what agents people actually use every day the answers get vague. I'll be honest. I've built maybe 12 agents over the past year. The ones I use daily? Two. Maybe three if you count one I check weekly. The rest were fun to build, worked in demos, then just sat there. Some I forgot about until I saw them in my dashboard. Theres a difference between "I built an agent that can do X" and "I have an agent that does X for me every day without thinking about it." The second category is way smaller for me. Part of it is trust. Part of it…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdr2wt</guid>
+      <pubDate>Thu, 15 Jan 2026 18:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>构建50多个自动化流程后，我是这样决定用定制代码还是无代码工具的 / After building 50+ automations, this is how I decide between custom code vs no-code"</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qds37j/after_building_50_automations_this_is_how_i/</link>
+      <description>我经常看到关于定制代码与无代码的讨论，于是在构建50多个自动化流程后，决定分享我目前使用的决策框架。关键在于五个方面：应用场景（差异化功能或内部运营）：如果直接面向客户且能形成竞争优势，通常更适合定制开发（避免被轻易复制）；若是用于内部流程优化（入职、数据录入、通知等），无代码/低代码工具往往更合适。数据敏感性/合规要求：这一点至关重要。在医疗、金融和企业环境中，无代码工具缺乏完全透明度，通常不适用。如果涉及……
+
+---
+
+Original:
+I've seen the custom code vs no-code question come up a lot and decided to share the framework I now use after building 50+ automations. It comes down to 5 things: Use case (differentiator or internal ops) : If it directly touches customers and differentiates you from competitors then custom is usually a better fit (you don't want something others can easily replicate). If it's for internal workflow optimization (onboarding, data entry, notifications) then no-code/low-code is usually the right call. Data sensitivity/Compliance : This is super important. For healthcare, finance, and enterprise environments, the lack of full transparency in no-code tools often rules them out. If you're dealing…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qds37j</guid>
+      <pubDate>Thu, 15 Jan 2026 18:48:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

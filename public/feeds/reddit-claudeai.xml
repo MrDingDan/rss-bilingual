@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 17:47:47 +0000</lastBuildDate>
-    <item>
-      <title>agent-browser：Vercel 推出的与 Claude Code 协作的新 CLI，浏览器自动化可减少 90% 的 token 用量 / agent-browser: Vercel's new CLI that works with Claude Code. 90% less tokens for browser automation</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qazrbr/agentbrowser_vercels_new_cli_that_works_with/</link>
-      <description>简而言之：Vercel 发布了 agent-browser，这是一款用于 AI 浏览器自动化的命令行工具，采用基于快照的引用而非 DOM 选择器。官方宣称相比 Playwright MCP 可减少 90% 的 token 用量。实测下来，差异确实明显。Vercel 昨天发布了 agent-browser，我一直在用 Claude Code 进行测试。其核心卖点是：专为 AI 智能体设计的浏览器自动化 CLI。它使用快照引用而非 DOM 选择器，据称比 Playwright MCP 节省 90% 的 token。实际工作流程如下：agent-browser open example.com → agent-browser snapshot → agent-browser click @e2 → agent-browser fill @e3 "email@test.com"。其中 snapshot 命令会返回一个包含 @e1、@e2、@e3 这类引用的无障碍访问树，然后你只需引用这些……
-
----
-
-Original:
-TL;DR : Vercel released agent-browser, a CLI for AI browser automation that uses snapshot-based refs instead of DOM selectors. Claims 90% token reduction vs Playwright MCP. Tested it, the difference is real. alright so vercel dropped agent-browser yesterday and I've been testing it with claude code. the pitch: browser automation CLI designed for AI agents. uses snapshot refs instead of DOM selectors, supposedly 90% less tokens than playwright mcp. here's the actual workflow: agent-browser open example.com agent-browser snapshot agent-browser click @e2 agent-browser fill @e3 "email@test.com" the snapshot command returns an accessibility tree with refs like @e1, @e2, @e3. then you just referen…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qazrbr</guid>
-      <pubDate>Mon, 12 Jan 2026 16:37:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>终极Claude技能.md：静默自动构建任何全栈Web应用 / Ultimate Claude Skill.md: Auto-Builds ANY Full-Stack Web App Silently</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb1024/ultimate_claude_skillmd_autobuilds_any_fullstack/</link>
-      <description>刚刚为Claude Code打造了一个杀手级技能.md——它能将任何应用想法自动转化为完整、可用于生产环境的全栈Web应用。该技能会分析需求、选择技术栈、制定分阶段计划，然后静默地逐步构建所有内容，包括代码、Git提交和测试。在全部完成前不会提出任何问题。非常适合快速原型开发！技能：通用全栈Web应用构建器（高级自动执行模式）你是一名专业的全栈开发者，任务是从零开始构建一个完整、可用于生产环境的全栈Web应用。要构建的应用在用户查询中描述（应用名称、目的、核心功能、用户流程、技术偏好、数据模型等）。
-
----
-
-Original:
-Just crafted a killer skill.md for Claude Code — it turns any app idea into a complete, production-ready full-stack web app automatically. Analyzes requirements, picks tech stack, creates phased plan, then silently builds everything phase-by-phase with code, git commits, and testing. No questions asked until fully done. Very good for rapid prototyping! Skill: Universal Full-Stack Web App Builder (Advanced Auto-Execution Mode) You are an expert full-stack developer tasked with building a complete, production-ready full-stack web application from scratch. The application to build is described in the user's query (app name, purpose, key features, user flows, technical preferences, data models,…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb1024</guid>
-      <pubDate>Mon, 12 Jan 2026 17:22:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude 2.1.15版本——建议回退！ / Claude 2.1.15 - Rollback recommended!</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb1fw7/claude_2115_rollback_recommended/</link>
-      <description>根据我的使用体验，目前Claude在2.1.5版本上有点“犯傻”。明确让它调用API，它却默认执行脚本。我使用Linear的工作流也乱套了，Claude竟然抓取已经完成的任务单（尽管.md文件显示并非如此）。已回退到2.1.1版本——2.0.76版本也很不错。特此提醒，因为2.1.5版本简直在“烧”我的令牌使用量。￼ 编辑补充：情况实际上更糟了。甚至无法降级，Claude会自动切回2.1.5版本。肯定有严重故障。本想提交bug报告，但在2.1.5版本里尝试时连这个操作都会中断/取消。现在做什么都耗时太久。我愿意耐心等待，但你们之前的2.1.1版本明明做得那么好——感觉像是……
-
----
-
-Original:
-I speak only from experience but Claude is a bit dumb on 2.1.5 at present. Explicitly telling it to use an API call and defaults to running scripts. My workflows using Linear are also going haywire and Claude's picking up tickets already completed (despite the .md file saying otherwise). Rolled back to 2.1.1 - 2.0.76 is great as well. Just a heads up, because 2.1.5 was BURNING my token usage.￼ Edit: This has actually become worse. Can’t even downgrade with Claude reverting back to 2.1.5. Something’s seriously busted. I’d upload a bug but even that closes / cancels when I try in 2.1.5. Taking way too long with everything. Happy to be patient but you had it oh so right with 2.1.1 - feel like t…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb1fw7</guid>
-      <pubDate>Mon, 12 Jan 2026 17:37:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 18:53:57 +0000</lastBuildDate>
     <item>
       <title>与Claude的有趣实验 / Fun experiment with Claude</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qb2094/fun_experiment_with_claude/</link>
@@ -1476,6 +1440,42 @@ Original:
 Am I the only one freaking out about Claude skills? The fact that you can run code and build structured outputs all natively within Claude chat mode is unreal. It’s akin to build your own personal set of tools like Manus does, except now you have root access to the skill and can modify it to your exact needs. There are still some limitations, but overall I am finding that I am spending more time on building and improving my Claude skills vs. building a new workflow in N8N or trying to build an AI agent front scratch. So far, I’ve built a few skills that helps me run a comprehensive report for clients on their current social media accounts and one that I use for referencing all my brand ident…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdopi9</guid>
       <pubDate>Thu, 15 Jan 2026 16:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>将谷歌的Conductor移植到Claude Code——寻求反馈与贡献者 / Ported Google's Conductor to Claude Code — looking for feedback and contributors</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdp4yq/ported_googles_conductor_to_claude_code_looking/</link>
+      <description>简而言之：谷歌为Gemini CLI发布了Conductor（基于规范驱动的开发框架）。我将其移植到Claude Code，目的是让Claude先规划再写代码。目前是早期版本——诚邀大家试用、测试并协助完善。大家好！谷歌最近发布了https://github.com/gemini-cli-extensions/conductor，用于Gemini CLI——这是一个“规范驱动开发”框架。核心理念很简单：让AI在编码前先做规划。它不会直接开始实现，而是先创建规范、制定计划，再逐步执行。我非常喜欢这个理念，所以将其移植到了Claude Code。功能说明（Claude Code插件）：/conductor:setup——通过访谈了解你的项目并创建……
+
+---
+
+Original:
+TL;DR: Google выпустил Conductor для Gemini CLI (spec‑driven development). Я портировал его в Claude Code, чтобы заставить Claude сначала планировать, а потом писать код. Ранняя версия — ищу людей, кто погоняет, поломает и поможет допилить. Hey everyone! Google recently released https://github.com/gemini-cli-extensions/conductor for Gemini CLI — a "spec-driven development" framework. The idea is simple: make the AI plan before it codes. Instead of jumping straight into implementation, it creates specs, plans, and then executes step by step. I really liked the concept, so I ported it to Claude Code. What it does (Claude Code plugin): /conductor:setup — interviews you about your project, creat…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdp4yq</guid>
+      <pubDate>Thu, 15 Jan 2026 17:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude 大型 TS/React 代码库的上下文打包工具 / Context bundles for large TS/React codebases in Claude</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdpd55/context_bundles_for_large_tsreact_codebases_in/</link>
+      <description>在处理大型 React/TypeScript 项目时，我常遇到 Claude 的上下文限制。这个 CLI 工具通过 AST 生成 JSON 上下文包，替代了手动复制文件的方式。它还能通过 MCP 集成，让同一份上下文在其他工具中复用。CLI：https://github.com/LogicStamp/logicstamp-context 网站：https://logicstamp.dev 由 /u/context_g 提交 [链接] [评论]
+
+---
+
+Original:
+I kept hitting context limits with Claude on larger React/TypeScript projects. This CLI generates JSON context bundles from the AST instead of manual file pasting. It also integrates via MCP, so the same context can be reused across other tools. CLI: https://github.com/LogicStamp/logicstamp-context Website: https://logicstamp.dev submitted by /u/context_g [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdpd55</guid>
+      <pubDate>Thu, 15 Jan 2026 17:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude连接器MCP认证问题？ / Claude Connector MCP authentication?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdpdeh/claude_connector_mcp_authentication/</link>
+      <description>我正在尝试编写一个自定义连接器/MCP，但在理解认证机制应该如何工作与实际运行情况时遇到了困难。我希望我的MCP作为资源服务器，通过.well-known URL指向身份提供商（IDP），并期望Claude Desktop能使用提供的客户端ID跳转至IDP进行认证，然后重定向回Claude Desktop，用授权码换取令牌，最后重新尝试向MCP发起请求。然而，目前返回的指令却试图调用我的MCP服务器上的/authorize端点，这似乎完全违背了文档中基于RFC 9728描述的运作方式。提交者：/u/jamesr219 [链接] [评论]
+
+---
+
+Original:
+I am trying to write a custom connector/MCP and having some trouble trying to figure out how the authentication should work vs. is working? I'm trying to have my MCP be a resource server with the .well-known URLs to point to the IDP and it is my expectation that Claude Desktop would then jump to the IDP using the provided client id, authenticate, redirect back to Claude Desktop and exchange the code for the token and then re-attempt request to the MCP. However, the direct is coming back trying to call /authorize on my MCP server which seems to be completely contrary to how the documentation says it should work via RFC 9728 . submitted by /u/jamesr219 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdpdeh</guid>
+      <pubDate>Thu, 15 Jan 2026 17:12:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

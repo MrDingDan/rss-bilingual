@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 17:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:53:02 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -816,6 +816,18 @@ Original:
 Hey everyone, I just sent the 16th issue of the Hacker News AI newsletter , a curated round-up of the best AI links shared on Hacker News and the discussions around them. Here are some of them: Don't fall into the anti-AI hype (antirez.com) - HN link AI coding assistants are getting worse? (ieee.org) - HN link AI is a business model stress test (dri.es) - HN link Google removes AI health summaries (arstechnica.com) - HN link If you enjoy such content, you can subscribe to my newsletter here: https://hackernewsai.com/ submitted by /u/alexeestec [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qdoikb</guid>
       <pubDate>Thu, 15 Jan 2026 16:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>加速发现：材料项目如何助力材料科学迈入AI革命 / Accelerating Discovery: How the Materials Project Is Helping to Usher in the AI Revolution for Materials Science</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdr06k/accelerating_discovery_how_the_materials_project/</link>
+      <description>2011年，美国能源部劳伦斯伯克利国家实验室（Berkeley Lab）的一支小团队启动了一个项目，后来发展成为全球引用量最高的材料数据库。如今，材料项目（Materials Project）已服务超过65万用户，被引用超过3.2万次——但其真正的影响力或许才刚刚显现。当著名计算材料科学家克里斯汀·佩尔松（Kristin Persson）和她的团队最初创建材料项目时，他们设想的是一个自动化筛选工具，能帮助工业界和学术界的研究人员以更快速度设计电池及其他能源技术所需的新材料。[...]“机器学习正在彻底改变材料发现领域，因为它能节省……”
+
+---
+
+Original:
+"In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves s…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdr06k</guid>
+      <pubDate>Thu, 15 Jan 2026 18:09:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

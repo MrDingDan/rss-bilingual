@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 17:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 18:54:21 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1352,6 +1352,30 @@ Original:
 AI is changing work faster than we can imagine. Machines can think, analyze, and even create—but what does that mean for humans in the workplace? Are we ready for the future? submitted by /u/Novel_Negotiation224 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdq1ox</guid>
       <pubDate>Thu, 15 Jan 2026 17:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Go语言中针对LLM流量的自适应负载均衡 - 比预想的更棘手 / Adaptive load balancing in Go for LLM traffic - harder than expected</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdrk6a/adaptive_load_balancing_in_go_for_llm_traffic/</link>
+      <description>我是一名开源贡献者，在为Bifrost（LLM网关）开发负载均衡功能时，在Go语言实现中遇到了一些有趣的挑战。标准的加权轮询对于静态负载效果不错，但LLM提供商的表现却难以捉摸。OpenAI可能在上午9点很快，下午2点又变慢；Azure的速率限制会意外触发；某个区域性能下降，而其他区域却保持正常。我构建了一个自适应路由系统，能根据实时指标（延迟、错误率、吞吐量）动态调整权重。采用指数加权移动平均（EWMAs）来平滑峰值波动，避免对噪声过度反应。Go语言实现中的难点在于：在高RPS（每秒请求数）下，追踪每个提供商的指标时，如何避免锁成为性能瓶颈。最终采用了…
+
+---
+
+Original:
+I am an open source contributor, working on load balancing for Bifrost (LLM gateway) and ran into some interesting challenges with Go implementation. Standard weighted round-robin works fine for static loads, but LLM providers behave weirdly. OpenAI might be fast at 9am, slow at 2pm. Azure rate limits kick in unexpectedly. One region degrades while others stay healthy. Built adaptive routing that adjusts weights based on live metrics - latency, error rates, throughput. Used EWMAs (exponentially weighted moving averages) to smooth out spikes without overreacting to noise. The Go part that was tricky: tracking per-provider metrics without locks becoming a bottleneck at high RPS. Ended up using…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdrk6a</guid>
+      <pubDate>Thu, 15 Jan 2026 18:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>吉尼斯世界纪录认证全球最小AI电脑TiinyAI在CES亮相 / The pocket-sized AI computer, which Guinness World Records says is the smallest, debuted at CES. Says Mashable</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdrwcd/the_pocketsized_ai_computer_which_guinness_world/</link>
+      <description>Mashable报道了新款AI电脑TiinyAI。这款设备尺寸与智能手机相当，专为本地AI处理设计，配备80GB内存和1TB固态硬盘，可在30W功耗下离线运行1200亿参数大语言模型且不发烫。其设计理念是通过一次性硬件购买替代按使用量付费的模式。消息来源：https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer，由/u/npc_gooner提交[链接][评论]
+
+---
+
+Original:
+New AI computer TiinyAI was featured by Mashable. It is a smartphone-sized device for local AI processing. It features 80GB RAM and 1TB SSD storage, runs 120B LLMs offline on 30W without getting hot. It is designed to replace token fees with a one-time hardware purchase. Here's the source: https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer submitted by /u/npc_gooner [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdrwcd</guid>
+      <pubDate>Thu, 15 Jan 2026 18:41:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

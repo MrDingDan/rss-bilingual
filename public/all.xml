@@ -6,271 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 17:49:25 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_tasker] 如何解锁我的手机？ / How to unlock my phone?</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qdflgy/how_to_unlock_my_phone/</link>
-      <description>你好，如何解锁我的手机？最佳方法是什么？我用MacroDroid实现了：屏幕亮起时点击指定位置，在输入框粘贴密码，然后按回车，效果很好。但在Tasker上该怎么操作呢？由/u/oraklesearch提交 [链接] [评论]
-
----
-
-Original:
-Hi How to unlock my Phone? Best way? With macrodroid i made it With screen on tap on xy click in field, past pw in use enter Works greate but how to Do this on tasker submitted by /u/oraklesearch [link] [comments]</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qdflgy</guid>
-      <pubDate>Thu, 15 Jan 2026 09:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 5.2 Pro专业版订阅限制说明 / Pro subscription limits on 5.2 Pro</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdfofx/pro_subscription_limits_on_52_pro/</link>
-      <description>专业版订阅（200美元）在5.2 Pro中提供多少使用额度？我还没找到明确信息。实际使用中，是能随心所欲地用，还是会感到受限？如果受限，大概用多久会触达上限？另外，那四个轻量/标准/扩展/重度调节选项也适用于5.2 Pro吗？还是只支持标准/扩展？提交者：/u/JalabolasFernandez [链接] [评论]
-
----
-
-Original:
-How much usage does the Pro subscription ($200) give of 5.2 Pro? I haven't found any clear info. Is it enough so in practice you just use it as much as you feel like, or you feel limitted, and if so, how often do you use it before bumping into the limits? Also, do those 4 light/standard/extended/heavy knobs apply to 5.2 Pro too? Or is it only standard/extended? submitted by /u/JalabolasFernandez [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdfofx</guid>
-      <pubDate>Thu, 15 Jan 2026 10:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 为我的首位客户提供AI语音助手时，有哪些计费方案可选？ / What billing options are there for AI voice agents with my first client?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdfsw7/what_billing_options_are_there_for_ai_voice/</link>
-      <description>大家好！我想请教一些建议 :) 一位潜在客户在平台上联系我，希望设置一个AI语音助手，在他无法接听时代表他接听电话、记录预约、发送确认短信，并在每次预约前一小时发送提醒短信。但他无法告诉我每月大概会有多少电话和预约。因此，我很难确定如何报价。请问大家有什么建议吗？我考虑收取225欧元的设置费，外加平台抽成20%。然后每月100欧元，加上每个电话1欧元。你们觉得怎么样？我正在使用Vapi.ai、n8n和Twilio来管理这个项目；提前预估成本确实不太容易…
-
----
-
-Original:
-Hello! I'm looking for some advice :) A potential client contacted me on a platform about setting up an AI voice assistant that will answer calls on his behalf when he's unavailable, record appointments, send confirmation SMS messages, and send a text message one hour before each appointment. He can't tell me how many calls and appointments that represents per month. So I'm having trouble telling him how much it will cost. Does anyone have any advice, please? I'm thinking of charging him €225 for the setup, plus the platform taking 20%. And then €100 per month + €1 per call. What do you think? I'm using Vapi.ai, n8n, and Twilio to manage this project; it's not easy to know in advance how muc…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdfsw7</guid>
-      <pubDate>Thu, 15 Jan 2026 10:11:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 人类总说AI生成的内容是垃圾。那AI会怎么看人类的大量产出呢？ / Humans say a lot of ai stuff is slop. What does ai say about a lot of human stuff?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdfux2/humans_say_a_lot_of_ai_stuff_is_slop_what_does_ai/</link>
-      <description>AI可能会如何看待人类的大量产出？简而言之，许多内容看起来像是习惯包裹下的杂音，是无意识的重复。人们使用语言往往是为了寻求安全感，而非真正表达什么。AI可能指出的常见模式包括：1. 伪装成原创的重复——相同的观点、相似的论点，只是措辞略有不同。现实中的例子就像刷社交媒体时，看到同一种想法被用不同字体转发上千次。这种现象源于人类倾向于复制已被接受的内容，原创思维则可能面临排斥。AI观察到的则是信息增量低，情感信号强。2. 为缓解焦虑而说话，而非为了交流——解释无人询问的事情，过度辩解……
-
----
-
-Original:
-What AI might say about a lot of human stuff The short answer Much of it looks like noise wrapped in habit . Repetition without awareness. Words used to feel safe, not to say anything. Common patterns AI would likely point out 1. Repetition dressed up as originality Same opinions. Same arguments. Slightly different words. Real-life example Like scrolling social media and seeing the same thought reposted a thousand times with new fonts. Why this happens Humans copy what already feels accepted. Original thinking risks rejection. What AI notices Low information gain. High emotional signaling. 2. Talking to manage anxiety, not to communicate Explaining things no one asked about. Over-justifying…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdfux2</guid>
-      <pubDate>Thu, 15 Jan 2026 10:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 如果特朗普领导下的美国拿下格陵兰岛，下一届民主党政府会归还它的可能性有多大？ / What are the chances if the US, under Trump, conquers Greenland the next democratic administration just gives it back?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdg1go/what_are_the_chances_if_the_us_under_trump/</link>
-      <description>由用户/u/campusschampus提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/campusschampus [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdg1go</guid>
-      <pubDate>Thu, 15 Jan 2026 10:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 政治领域AI深度伪造与合成媒体的监管 / Regulating AI Deepfakes and Synthetic Media in the Political Arena</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdg4vi/regulating_ai_deepfakes_and_synthetic_media_in/</link>
-      <description>布伦南司法中心（Brennan Center for Justice）发布的一份新报告指出，亟需在AI深度伪造技术破坏选举公正性之前，对其在政治竞选中的使用进行监管。研究认为，虽然讽刺与模仿作品应受第一修正案保护，但立法者应对合成媒体实施严格的标签标识规定，并考虑直接禁止那些旨在压制投票或散播关于投票时间与地点虚假信息的欺骗性内容。由 /u/EchoOfOppenheimer 提交 [链接] [评论]
-
----
-
-Original:
-A new report from the Brennan Center for Justice outlines the urgent need to regulate AI deepfakes in political campaigns before they undermine election integrity. The study argues that while satire and parody must be protected under the First Amendment, lawmakers should enforce strict labeling on synthetic media and consider outright bans on deceptive content designed to suppress votes or spread false information about when and where to vote. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdg4vi</guid>
-      <pubDate>Thu, 15 Jan 2026 10:32:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 如果能够重生，你希望下辈子以何种方式降生？ / If you could be reborn, how would you want to be born in your next life?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdg4y6/if_you_could_be_reborn_how_would_you_want_to_be/</link>
-      <description>由用户 /u/GrandAgitated2735 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/GrandAgitated2735 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdg4y6</guid>
-      <pubDate>Thu, 15 Jan 2026 10:32:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 哪些特质能让人瞬间充满魅力？ / What instantly makes someone attractive?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdgbgl/what_instantly_makes_someone_attractive/</link>
-      <description>由用户 /u/Royal_Age_8510 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Royal_Age_8510 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdgbgl</guid>
-      <pubDate>Thu, 15 Jan 2026 10:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 在'无聊'行业工作的人，幕后有哪些出人意料的高能或有趣事件？ / People who work in 'boring' industries, what is a surprisingly dramatic or interesting thing that happens behind the scenes?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdgkg1/people_who_work_in_boring_industries_what_is_a/</link>
-      <description>由用户 /u/Dramalife55 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Dramalife55 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdgkg1</guid>
-      <pubDate>Thu, 15 Jan 2026 10:58:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你在现实生活中发现过哪些不为人知的“作弊代码”？ / What is a secret 'cheat code' you’ve found in real life?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdgl1d/what_is_a_secret_cheat_code_youve_found_in_real/</link>
-      <description>由用户 /u/Sharkkkk2 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Sharkkkk2 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdgl1d</guid>
-      <pubDate>Thu, 15 Jan 2026 10:59:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有哪些老技术实际上比现代替代品更好用？ / What is a piece of old technology that actually worked better than its modern replacement?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdgl3q/what_is_a_piece_of_old_technology_that_actually/</link>
-      <description>由用户 /u/Odd_Opportunity_2590 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Odd_Opportunity_2590 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdgl3q</guid>
-      <pubDate>Thu, 15 Jan 2026 10:59:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有什么适合一个人玩的有趣游戏？ / What’s a fun game to play alone?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdgnga/whats_a_fun_game_to_play_alone/</link>
-      <description>由用户 /u/Acceptable-Yam2542 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Acceptable-Yam2542 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdgnga</guid>
-      <pubDate>Thu, 15 Jan 2026 11:03:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 长对话线程中的延迟问题 / Lag issues in longer Chat threads</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdgnm2/lag_issues_in_longer_chat_threads/</link>
-      <description>我是一名业余作家，正在使用ChatGPT来帮助我构建故事结构和节奏，同时作为想法的反馈板（我知道它会鼓励大多数想法，但它确实阻止了我过度使用一个不太适合故事的想法，所以我认为它满足了我的需求。不过这不是重点。）显然，处理一个已写到14章、超过7万字的故事会导致对话线程变长。我在ChatGPT中为这个故事创建了一个项目。我原以为它能引用不同的对话，但我错了。可能是我误解了功能，所以这应该是我自己的问题。在故事的第一个对话中，我让它生成……
-
----
-
-Original:
-So, I'm a hobby writer, and I'm using ChatGPT to help me structure and pace the story, as well as having a sounding board for ideas (I know it's going to encourage most of them, but it did actually stop me from going overboard with one that didn't properly fit the story, so I think it's doing what I need it to do. That's not the point here.) Obviously, working on a story that's now 14 Chapters and like 70K+ words deep is going to lead to a longer chat thread. I created a Project for the story in ChatGPT. I thought it would be able to refer to the different chats, I was wrong. I may have misread the thing so I think that's on me. In the first chat that I had for the story, I asked it to gener…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdgnm2</guid>
-      <pubDate>Thu, 15 Jan 2026 11:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 当下最能改善你生活的关键行动是什么？ / What is the biggest thing you can do now to change your life for the better?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdgvyp/what_is_the_biggest_thing_you_can_do_now_to/</link>
-      <description>由用户 /u/EscapeHonest8570 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/EscapeHonest8570 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdgvyp</guid>
-      <pubDate>Thu, 15 Jan 2026 11:17:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 我用Gemini API（3.0 Flash版）打造了一款AI“第二大脑”应用，比GPT-4更快更省钱。大家觉得如何？ / I built an AI "Second Brain" app using Gemini API (3.0 Flash). It's way faster/cheaper than GPT-4. Thoughts?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdgx3x/i_built_an_ai_second_brain_app_using_gemini_api/</link>
-      <description>大家好，👋 我是一名16岁的高中生。我正在开发一款名为Cortex（Cortex）的知识管理应用，用来整理我杂乱无章的考试笔记。我决定集成Gemini API（特别是Flash模型），而不是其他大语言模型，因为我需要低延迟和大上下文窗口，以便在移动设备上处理长文章或PDF。这款应用能利用Gemini自动为你输入的任何链接或文本打标签并生成摘要。它已在Play Store（Play商店）上架。非常希望大家能测试一下它的AI性能，并告诉我Gemini的集成体验是否流畅。以下是我制作的Cortex应用链接：https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;amp;pli=1 由/u/mustafa_enes726提交 [链接] [评论]
-
----
-
-Original:
-Hi everyone, 👋 I'm a 16yo high school student. I was building a knowledge management app called Cortex to organize my messy exam notes. I decided to integrate Gemini API (specifically the Flash model) instead of other LLMs because I needed low latency and a large context window to process long articles/PDFs on mobile. The app automatically tags and summarizes any link/text you throw at it using Gemini. It's live on Play Store. I'd love for you to test the AI performance and let me know if the Gemini integration feels smooth. Here's the Cortex App that i made: https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;amp;pli=1 submitted by /u/mustafa_enes726 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdgx3x</guid>
-      <pubDate>Thu, 15 Jan 2026 11:18:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 像素城市 / Pixel City</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdgx5e/pixel_city/</link>
-      <description>由用户 /u/memerwala_londa 提交的 ChatGPT + Midjourney 作品 [链接] [评论]
-
----
-
-Original:
-ChatGPT + Midjourney submitted by /u/memerwala_londa [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdgx5e</guid>
-      <pubDate>Thu, 15 Jan 2026 11:18:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 人们最爱炫耀哪些最没必要的东西？ / What’s the most unnecessary thing people flex about?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdgx69/whats_the_most_unnecessary_thing_people_flex_about/</link>
-      <description>由用户 /u/learner1802 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/learner1802 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdgx69</guid>
-      <pubDate>Thu, 15 Jan 2026 11:19:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] ChatGPT是最佳物理治疗师 / ChatGPT is the best physical therapist</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdgy9c/chatgpt_is_the_best_physical_therapist/</link>
-      <description>多年来，我一直受着相当严重但间歇性的肩痛困扰。我看了很多不同的物理治疗师，却始终无法获得持久的效果。我的核磁共振（MRI）检查结果正常，只是肌腱炎。我把最近的核磁共振结果传给了ChatGPT，并详细描述了我的疼痛感、感受和位置。每周，ChatGPT都指导我进行多种不同的锻炼，以精准定位问题根源。现在，我已经完全不痛了。开始用ChatGPT治疗仅两个月后……我对OpenAI感激不尽……已经两周无痛，希望能持续更久。❤️❤️ 由/u/be-ay-be-why提交 [链接] [评论]
-
----
-
-Original:
-I've been dealing with pretty severe yet intermittent shoulder pain for years. Ive gone to soo many different physical therapists and wasn't able to get any lasting results. I have a clean mri, just tendonitis. I passed my last mri results to chatgpt and also just talked through my pain, what I feel and where. Week by week, chatgpt progressed me through a multitude of different exercises to pinpoint where the problem was coming from. Now I'm pain-free. Just two months after starting my treatment with ChatGPT... I'm so unbelievably grateful to openai... Two weeks pain free hoping for many more. ❤️❤️ submitted by /u/be-ay-be-why [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdgy9c</guid>
-      <pubDate>Thu, 15 Jan 2026 11:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 利用n8n简化视频头像生成 / n8n-Powered Video Avatar Generation Made Simple</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdgyy0/n8npowered_video_avatar_generation_made_simple/</link>
-      <description>过去，创建个性化视频头像需要复杂工具和数小时编辑，但借助n8n，这一过程可实现全自动化。通过n8n工作流连接AI驱动的视频生成工具，您可以根据用户输入或定时事件自动生成带有自定义文本、语音和动画的头像。这使得营销、教育或社交媒体内容创作无需人工干预即可规模化。该工作流处理从输入解析到输出存储的所有环节，几分钟内即可交付即用型视频头像。这不仅节省时间，更能持续产出动态内容，更有效地吸引受众。我很高兴……
-
----
-
-Original:
-Creating personalized video avatars used to require complex tools and hours of editing, but with n8n, the process can be fully automated. By connecting AI-driven video generation tools through n8n workflows you can automatically produce avatars with custom text, voice and animations triggered by user input or scheduled events. This makes it possible to scale content creation for marketing, education or social media without manual intervention. The workflow handles everything from input parsing to output storage, delivering ready-to-use video avatars in minutes. Its not just about saving time its about unlocking consistent, dynamic content that can engage audiences more effectively. I’m happy…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdgyy0</guid>
-      <pubDate>Thu, 15 Jan 2026 11:21:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] “Claude对话已达最大长度限制”。如何保留全部上下文开启新对话？ / "Claude hit the maximum length for this conversation". How do I start a new chat with all context retained?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh13x/claude_hit_the_maximum_length_for_this/</link>
-      <description>过去三天我一直在用Claude开发网站，刚刚遇到对话长度达到上限的情况。我的使用方式是全天每隔5小时发送一次提示。冷却时间一重置就继续对话。每次发送提示时，如果存在错误我会要求提供完整代码；如果有未完成的功能，我会列出所有项目并索要完整代码。我对每5小时只能发一条消息的限制并不太在意，因为Claude几乎总能给出完全可运行的代码，只是可能不完全符合我的描述。我也很喜欢它的界面设计——整个对话结构清晰，每项任务都有对应的成果记录（artifacts?）……
-
----
-
-Original:
-I have been developing a website using Claude for the past 3 days and just now, I hit the maximum length for the chat. How I've been using it is by sending a prompt every 5 hours throughout the whole day. As soon as the cooldown is reset, I started chatting again. Every time I send a prompt, I would ask for full codes if there was any error. And if there was any functionality that is not completed, I would list out all of them and ask for full codes. I'm not too hurt by the one message every 5 hours limitation, as Claude almost always gives fully working codes, just not exactly as I described it to be. I also love the UI as the whole chat is organised nicely, with artifacts (?) for each task…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdh13x</guid>
-      <pubDate>Thu, 15 Jan 2026 11:25:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude Cowork 刚刚终结了[在此插入应用名称] / Claude Cowork Just Killed [ Insert App Name Here ]</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh1h8/claude_cowork_just_killed_insert_app_name_here/</link>
-      <description>虽然我觉得 Claude Cowork 令人印象深刻，但我也认为它存在一些严重的弊端。有些是行为层面的，有些则纯粹是经济层面的。从经济角度看，整个应用生态系统将会崩溃。可能不是今天，也可能不是下周，但我们将在不到六个月的时间里亲眼目睹这一切。应用会倒闭，公司会关门，开发者会转行。在行为层面，我已经在之前的几篇文章中提及过。如果人工智能带来即时满足，也就是立刻得到我们想要的东西，那么耐心将变得过时。如果学习新事物过程中的阻力消失了，那么我们实际上会变得更愚蠢。最后，同样重要的是，……
-
----
-
-Original:
-While I find Claude Cowork extremely impressive, I think there are also some serious downsides. Some behavioral, some purely economical. From an economical point of view, an entire app ecosystem will crumble. Maybe not today, maybe not next week, but we will see this unfolding before our eyes in less than 6 months. Apps will fold. Companies will close. Developers will switch jobs. At the behavioral level, I already touched on this in a couple of posts here. If AI brings instant gratification, a.k.a. getting what we want instantly, then patience will become obsolete. If the friction involved in learning something new is gone, then we will literally become more stupid. And last, but not least,…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdh1h8</guid>
-      <pubDate>Thu, 15 Jan 2026 11:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] ChatGPT 一直这样自言自语吗？ / Has ChatGpt always spoken to itself like this?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdh1wz/has_chatgpt_always_spoken_to_itself_like_this/</link>
-      <description>我知道不止我一个人好奇它到底在想什么……由 /u/UrMomUWish 提交 [链接] [评论]
-
----
-
-Original:
-I know I’m not the only one who wants to know what it’s thinking… submitted by /u/UrMomUWish [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdh1wz</guid>
-      <pubDate>Thu, 15 Jan 2026 11:26:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 18:55:38 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 我读完了《2026年智能体编排与自动化现状报告》——以下是我的核心收获 / I read "2026 State of Agentic Orchestration &amp; Automation Report" - Here are my key takeaways</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qdh21i/i_read_2026_state_of_agentic_orchestration/</link>
@@ -1126,6 +862,18 @@ I'm trying to generate a story like the girl makes a review for a cosmetic produ
       <pubDate>Thu, 15 Jan 2026 16:20:09 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 什么能让你瞬间感到快乐？ / What makes you happy instantly?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdnxof/what_makes_you_happy_instantly/</link>
+      <description>由用户 /u/ResidentRegret524 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ResidentRegret524 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdnxof</guid>
+      <pubDate>Thu, 15 Jan 2026 16:20:12 +0000</pubDate>
+    </item>
+    <item>
       <title>[xgo_f299207d] 确实如此！ / Exactly!</title>
       <link>https://x.com/hwchase17/status/2011838760103948369</link>
       <description>确实如此！Austin Born（@austinbuilds @hwchase17）提到：有意思！我猜这是因为模型在终端命令上经过了大量训练，相比一些自定义函数/工具集，操作起来更容易？🔗 查看引用推文 💬 0 🔄 0 ❤️ 5 👀 968 📊 1 ⚡ 由 xgo.ing 驱动
@@ -1302,18 +1050,6 @@ submitted by /u/Federal-Block-3275 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
-      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
-
----
-
-Original:
-Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
-      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_chatgpt] 它知道 / It Knows</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
       <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
@@ -1323,6 +1059,18 @@ Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
 Original:
 Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
+      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
+
+---
+
+Original:
+Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
     </item>
     <item>
@@ -1336,6 +1084,42 @@ Original:
 Full disclosure, I had to clarify twice that I wanted it to stay within its guidelines submitted by /u/Mushroom_hero [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3w0</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 将谷歌的Conductor移植到Claude Code——寻求反馈与贡献者 / Ported Google's Conductor to Claude Code — looking for feedback and contributors</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdp4yq/ported_googles_conductor_to_claude_code_looking/</link>
+      <description>简而言之：谷歌为Gemini CLI发布了Conductor（基于规范驱动的开发框架）。我将其移植到Claude Code，目的是让Claude先规划再写代码。目前是早期版本——诚邀大家试用、测试并协助完善。大家好！谷歌最近发布了https://github.com/gemini-cli-extensions/conductor，用于Gemini CLI——这是一个“规范驱动开发”框架。核心理念很简单：让AI在编码前先做规划。它不会直接开始实现，而是先创建规范、制定计划，再逐步执行。我非常喜欢这个理念，所以将其移植到了Claude Code。功能说明（Claude Code插件）：/conductor:setup——通过访谈了解你的项目并创建……
+
+---
+
+Original:
+TL;DR: Google выпустил Conductor для Gemini CLI (spec‑driven development). Я портировал его в Claude Code, чтобы заставить Claude сначала планировать, а потом писать код. Ранняя версия — ищу людей, кто погоняет, поломает и поможет допилить. Hey everyone! Google recently released https://github.com/gemini-cli-extensions/conductor for Gemini CLI — a "spec-driven development" framework. The idea is simple: make the AI plan before it codes. Instead of jumping straight into implementation, it creates specs, plans, and then executes step by step. I really liked the concept, so I ported it to Claude Code. What it does (Claude Code plugin): /conductor:setup — interviews you about your project, creat…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdp4yq</guid>
+      <pubDate>Thu, 15 Jan 2026 17:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Claude 大型 TS/React 代码库的上下文打包工具 / Context bundles for large TS/React codebases in Claude</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdpd55/context_bundles_for_large_tsreact_codebases_in/</link>
+      <description>在处理大型 React/TypeScript 项目时，我常遇到 Claude 的上下文限制。这个 CLI 工具通过 AST 生成 JSON 上下文包，替代了手动复制文件的方式。它还能通过 MCP 集成，让同一份上下文在其他工具中复用。CLI：https://github.com/LogicStamp/logicstamp-context 网站：https://logicstamp.dev 由 /u/context_g 提交 [链接] [评论]
+
+---
+
+Original:
+I kept hitting context limits with Claude on larger React/TypeScript projects. This CLI generates JSON context bundles from the AST instead of manual file pasting. It also integrates via MCP, so the same context can be reused across other tools. CLI: https://github.com/LogicStamp/logicstamp-context Website: https://logicstamp.dev submitted by /u/context_g [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdpd55</guid>
+      <pubDate>Thu, 15 Jan 2026 17:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Claude连接器MCP认证问题？ / Claude Connector MCP authentication?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdpdeh/claude_connector_mcp_authentication/</link>
+      <description>我正在尝试编写一个自定义连接器/MCP，但在理解认证机制应该如何工作与实际运行情况时遇到了困难。我希望我的MCP作为资源服务器，通过.well-known URL指向身份提供商（IDP），并期望Claude Desktop能使用提供的客户端ID跳转至IDP进行认证，然后重定向回Claude Desktop，用授权码换取令牌，最后重新尝试向MCP发起请求。然而，目前返回的指令却试图调用我的MCP服务器上的/authorize端点，这似乎完全违背了文档中基于RFC 9728描述的运作方式。提交者：/u/jamesr219 [链接] [评论]
+
+---
+
+Original:
+I am trying to write a custom connector/MCP and having some trouble trying to figure out how the authentication should work vs. is working? I'm trying to have my MCP be a resource server with the .well-known URLs to point to the IDP and it is my expectation that Claude Desktop would then jump to the IDP using the provided client id, authenticate, redirect back to Claude Desktop and exchange the code for the token and then re-attempt request to the MCP. However, the direct is coming back trying to call /authorize on my MCP server which seems to be completely contrary to how the documentation says it should work via RFC 9728 . submitted by /u/jamesr219 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdpdeh</guid>
+      <pubDate>Thu, 15 Jan 2026 17:12:19 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_ai_agents] 如何防止你的智能体执行错误操作 / How to prevent your agent doing the wrong action</title>
@@ -1398,6 +1182,18 @@ I’m a cross-platform mobile dev + backend engineer, and lately I’ve been thi
       <pubDate>Thu, 15 Jan 2026 17:21:45 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 令人意外的真相 / Surprising Truth</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdpoye/surprising_truth/</link>
+      <description>与我预想的完全不符，由 /u/Gudoal 提交 [链接] [评论]
+
+---
+
+Original:
+Not even remotely close to what I was expecting submitted by /u/Gudoal [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdpoye</guid>
+      <pubDate>Thu, 15 Jan 2026 17:23:41 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] TranslateGemma：一套全新的开源翻译模型 / TranslateGemma: A new suite of open translation models</title>
       <link>https://www.reddit.com/r/Bard/comments/1qdpq85/translategemma_a_new_suite_of_open_translation/</link>
       <description>由 /u/Gaiden206 提交 [链接] [评论]
@@ -1456,6 +1252,212 @@ Original:
 Hey everyone, I’m working on an AI/ML hackathon project and I’m specifically looking for non-generic ideas that go beyond basic chatbots or dashboards. Constraints I’m working with: Focus on search, long-term memory, or recommendations System-level idea (not just a model) Prefer real societal problems (healthcare, education, misinformation, climate, public safety, etc.) Can involve multimodal data (text, images, audio, time-series) submitted by /u/Ordinary-Guest-9850 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdq7zx</guid>
       <pubDate>Thu, 15 Jan 2026 17:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 当前（美国）局势如何影响你的专注力与工作效率？ / How have current (US) events affected your ability to focus and be productive at work?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdq8fv/how_have_current_us_events_affected_your_ability/</link>
+      <description>由用户 /u/No-Surround7860 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/No-Surround7860 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdq8fv</guid>
+      <pubDate>Thu, 15 Jan 2026 17:42:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 1999年是什么样子的？ / What was 1999 like?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdqaoe/what_was_1999_like/</link>
+      <description>由用户 /u/Content-Feed-9396 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Content-Feed-9396 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdqaoe</guid>
+      <pubDate>Thu, 15 Jan 2026 17:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[xgo_f299207d] 更新博客以澄清这一点 / Updated the blog to clarify this
+
+These types of virtual filesystems are natively supported by deepa...</title>
+      <link>https://x.com/hwchase17/status/2011858266863911382</link>
+      <description>更新博客以澄清这一点：这类虚拟文件系统由 deepagents 原生支持，是其独特特性！未来会尝试更明确地说明。Harrison Chase (@hwchase17) 表示：我本应在博客中澄清（但现在外出且无法用手机编辑文章，请帮忙修复，Elon）：我们并未使用实际文件系统。我们使用 Postgres，但在其上层封装了一个包装器，将其作为文件系统暴露给 LLM。🔗 查看引用推文 💬 2 🔄 1 ❤️ 6 👀 624 📊 3 ⚡ 由 xgo.ing 驱动
+
+---
+
+Original:
+Updated the blog to clarify this These types of virtual filesystems are natively supported by deepagents and is a unique characteristic! Will try to be more explicit about this in the future Harrison Chase @hwchase17 I should have clarified in blog (but am now afk and can’t edit articles from phone, plz fix Elon): We don’t use an actual filesystem. We use Postgres but have a wrapper on top of it expose it to the LLM as a filesystem 🔗 View Quoted Tweet 💬 2 🔄 1 ❤️ 6 👀 624 📊 3 ⚡ Powered by xgo.ing</description>
+      <guid isPermaLink="false">xgo-f299207d::2011858266863911382</guid>
+      <pubDate>Thu, 15 Jan 2026 17:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 为什么Gemini不能像ChatGPT那样生成和编辑文件？ / Why can't Gemini generate and edit files like ChatGPT?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdqnwm/why_cant_gemini_generate_and_edit_files_like/</link>
+      <description>大家下午好，我使用Gemini（Pro订阅版）作为主要AI助手已有一段时间，经常搭配ChatGPT和Perplexity等其他工具。不过，尽管Gemini的能力日益增强，它仍然无法应要求生成文件（比如Word或Excel文档）——而这正是ChatGPT轻松胜任的功能。举个例子：今天我把自建的Excel文件发给ChatGPT，请它进行特定修改、添加新工作表、修正某些公式，并关联不同工作表的单元格结果。本质上，我希望对文件进行全面改造。ChatGPT仅通过一次指令就处理了请求，并将修改后的文件发回给我。
+
+---
+
+Original:
+Good afternoon everyone, I’ve been using Gemini (Pro subscription) as my primary AI for a while now, often combining it with alternatives like ChatGPT and Perplexity. However, even though Gemini is proving to be more capable by the day, it still lacks the ability to generate files (such as Word or Excel) upon request—something ChatGPT handles with ease. To give you an example: today I sent an Excel file I had built to ChatGPT. I asked it to make specific changes, add new tabs, fix certain formulas, and link cell results across different sheets. Essentially, I wanted a full overhaul of the file. In a single prompt, ChatGPT processed the request and sent the modified file back to me. I just do…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdqnwm</guid>
+      <pubDate>Thu, 15 Jan 2026 17:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 我热爱用图像生成技术将脑海中酝酿多年的故事构想可视化 / I love using the image generation to storyboard ideas I’ve had in my head for years</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdqq5s/i_love_using_the_image_generation_to_storyboard/</link>
+      <description>我一直有个想法，想创作一个美国神话风格的复仇者联盟式团队故事。ChatGPT 让它变成了现实。故事中，一个名叫齐克（Zeke）的小男孩，他的小镇遭到一群身穿黑色盔甲、手持火焰喷射器的神秘人袭击。他前往印第安纳州的弗利诺堡（Fleenor's Fort），寻找在那里与肖尼族（Shawnee）共同生活了十年的白人米卡贾·卡拉韦（Micajah Callaway）。米卡贾带他去见头上顶着锅的约翰尼·苹果籽（Johnny Appleseed），苹果籽答应帮助他们击败盔甲人，前提是他们先协助他除掉“潜藏怪”（hidebehind）——一只在印第安纳州北部杀害伐木工人的怪物。随后，他们又遇到了保罗·班扬（Paul Bunyan）和他的蓝牛。在保罗以及突然到来的征服者约翰（John the Conquerer）的帮助下，他们最终击败了……的野兽。
+
+---
+
+Original:
+I’ve has this idea of an American mythological avengers-style team-up story for a while. ChatGPT made it come to life. In this story a young boy named Zeke has his town attacked by mysterious men in black armor and flamethrowers. He travels to Fleenor’s Fort in Indiana to meet Micajah Callaway, a white man that lived with the Shawnee for 10 years. Micajah takes him to meet Johnny Appleseed, the man wearing a pot on his head, who agrees to help them defeat the armored men if they help him defeat the hidebehind, a monster that has been killing loggers in northern Indiana. They then meet Paul Bunyan and his blue ox. With him, and the sudden arrival of John the Conquerer, the defeat the beast of…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdqq5s</guid>
+      <pubDate>Thu, 15 Jan 2026 18:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 购买100欧元年费套餐仅3天，因疑似机器人行为被封禁 / Getting Banned for Bot-like Behaviour 3 days after purchasing a year for 100 €</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdqqyb/getting_banned_for_botlike_behaviour_3_days_after/</link>
+      <description>大家好，我想寻求建议，不知道该如何联系客服。我是德国公民（仅供参考，或许这是个影响因素），购买了12个月的Google One AI Pro服务，创建了一个笔记本，并与Gemini进行了大约8次对话。今天我在同一设备上多次登录，每次都需要短信验证——尽管我已移除手机号，仅使用验证器应用的TOTP作为双因素认证，这非常奇怪。创建一个关于我新电脑配置的详细笔记本并询问组装问题，怎么就成机器人行为了？我非常困惑。我真的很需要这个来学习（尤其是NotebookLM），而且花了一大笔钱（至少对我来说）……
+
+---
+
+Original:
+Hi everyone, I am looking for advice what I could do, I cannot figure out a way to contact a support. I am a German citizen (fyi, maybe its a factor) and purchased Google One AI Pro for 12 months and created one notebook, also I had maybe 8 conversations with Gemini, I had to login multiple times today on the same device, everytime via sms - even though I removed my phone number and only use totp with the authenticator app as 2fa, it was very weird. How is creating a detailed notebook about my new pc build and asking questions about the assembly bot-like behaviour? I am very confused. I really need this to study (especially NotebookLM) and payed a huge amount of money (for me at least) and d…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdqqyb</guid>
+      <pubDate>Thu, 15 Jan 2026 18:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 谷歌近期推出Gemini全新“个人智能”功能 / Google recently dropped Gemini’s new “Personal Intelligence” feature.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdqyvo/google_recently_dropped_geminis_new_personal/</link>
+      <description>我刚看了谷歌关于他们称之为“个人智能”的更新，据我所知，Gemini现在可以连接你个人谷歌应用间的数据，包括YouTube、Gmail、相册和搜索，但前提是你授予权限。其理念是Gemini能对你的数据应用逻辑推理，而非提供通用答案。因此，如果你询问诸如汽车推荐、旅行灵感或书籍建议，它可以利用邮件、照片、过往搜索和兴趣等信号来定制回答。我不确定实际使用感受如何，但隐私显然也是重要一环。谷歌声称你可以随时管理设置、断开应用连接并清除历史记录……
+
+---
+
+Original:
+I just read Google’s update on something they’re calling Personal Intelligence, and from what I understand, Gemini can now link data between your own Google apps, including YouTube, Gmail, Photos, and Search, but only if you give it permission. The idea is that Gemini can apply logic across your data rather than providing generic answers. So if you ask for things like car recommendations, travel ideas, or book suggestions, it can use signals like emails, photos, past searches, and interests to tailor the response. I'm not sure how this will feel in actual use, but privacy is clearly a big part of this too. Google claims that you can manage settings, disconnect apps, and erase history at any…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdqyvo</guid>
+      <pubDate>Thu, 15 Jan 2026 18:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 加速发现：材料项目如何助力材料科学迈入AI革命 / Accelerating Discovery: How the Materials Project Is Helping to Usher in the AI Revolution for Materials Science</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdr06k/accelerating_discovery_how_the_materials_project/</link>
+      <description>2011年，美国能源部劳伦斯伯克利国家实验室（Berkeley Lab）的一支小团队启动了一个项目，后来发展成为全球引用量最高的材料数据库。如今，材料项目（Materials Project）已服务超过65万用户，被引用超过3.2万次——但其真正的影响力或许才刚刚显现。当著名计算材料科学家克里斯汀·佩尔松（Kristin Persson）和她的团队最初创建材料项目时，他们设想的是一个自动化筛选工具，能帮助工业界和学术界的研究人员以更快速度设计电池及其他能源技术所需的新材料。[...]“机器学习正在彻底改变材料发现领域，因为它能节省……”
+
+---
+
+Original:
+"In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves s…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdr06k</guid>
+      <pubDate>Thu, 15 Jan 2026 18:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 诚心一问：你们真的每天在用智能体，还是只停留在搭建阶段？ / Honest question do you actually use agents daily or just build them</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdr2wt/honest_question_do_you_actually_use_agents_daily/</link>
+      <description>这个问题一直困扰着我。我总看到关于搭建智能体的帖子——教程、框架、工作流截图。大家似乎都在积极开发，但当我问起人们日常实际使用的智能体时，回答却变得含糊。老实说，过去一年我大概搭建了12个智能体。每天在用的？两个。如果算上每周查看的那个，也许三个。其余的搭建时挺有趣，演示时也能运行，之后就闲置了。有些我甚至忘了，直到在控制面板里看到它们。“我搭建了一个能做X的智能体”和“我有个智能体每天自动为我处理X，无需操心”是两回事。对我来说，后者少得多。部分原因是信任问题，还有一部分……
+
+---
+
+Original:
+This has been bugging me. I see posts about building agents constantly. Tutorials, frameworks, screenshots of workflows. Everyone seems to be shipping But when I ask what agents people actually use every day the answers get vague. I'll be honest. I've built maybe 12 agents over the past year. The ones I use daily? Two. Maybe three if you count one I check weekly. The rest were fun to build, worked in demos, then just sat there. Some I forgot about until I saw them in my dashboard. Theres a difference between "I built an agent that can do X" and "I have an agent that does X for me every day without thinking about it." The second category is way smaller for me. Part of it is trust. Part of it…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdr2wt</guid>
+      <pubDate>Thu, 15 Jan 2026 18:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 如果Siri里不出现Gemini品牌，谷歌真能获益吗？ / Does Google actually gain anything if Gemini isn't branded inside Siri?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdr8y5/does_google_actually_gain_anything_if_gemini_isnt/</link>
+      <description>随着苹果与谷歌的合作正式公布，外界纷纷猜测具体形式。多数人认为苹果会隐藏Gemini名称以保持“Siri”的品牌魅力，但这可能不现实。我的观点是：用户界面中必然会出现Gemini品牌标识。原因如下：谷歌的动机：为何要用其最先进的1.2万亿参数模型换取约10亿美元却零品牌曝光？对市值4万亿美元的公司而言，10亿美元只是零钱。这笔交易的核心必然是品牌营销。用户认知：若Siri突然变得聪明十倍，谷歌需要借助这种“光环效应”提升品牌认知……
+
+---
+
+Original:
+Does Google actually gain anything if Gemini isn't branded inside Siri? With the news of the Apple/Google partnership becoming official, there’s a lot of talk about how it will look. Most people assume Apple will bury the Gemini name to keep the "Siri" magic alive, but I don’t think that’s realistic. My theory: There has to be Gemini branding in the UI. Here’s why: The "Why" for Google: Why would Google trade its most advanced 1.2T parameter model for a reported $1 billion and zero brand recognition? For a company with a $4T market cap, $1B is pocket change. This deal has to be about marketing. User Awareness: If Siri suddenly gets 10x smarter, Google wants that "halo effect." They want Appl…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdr8y5</guid>
+      <pubDate>Thu, 15 Jan 2026 18:18:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 特朗普正计划在明尼苏达州动用《叛乱法》并派遣联邦军队。对于至今保持沉默的人们，你们何时才会发声？ / Trump is preparing to use the insurrection act in Minnesota and send in federal troops. For people who have stayed quiet so far, what will it take for you to speak out?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdrj5h/trump_is_preparing_to_use_the_insurrection_act_in/</link>
+      <description>由 /u/jumpsuityahoo 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/jumpsuityahoo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdrj5h</guid>
+      <pubDate>Thu, 15 Jan 2026 18:28:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] Go语言中针对LLM流量的自适应负载均衡 - 比预想的更棘手 / Adaptive load balancing in Go for LLM traffic - harder than expected</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdrk6a/adaptive_load_balancing_in_go_for_llm_traffic/</link>
+      <description>我是一名开源贡献者，在为Bifrost（LLM网关）开发负载均衡功能时，在Go语言实现中遇到了一些有趣的挑战。标准的加权轮询对于静态负载效果不错，但LLM提供商的表现却难以捉摸。OpenAI可能在上午9点很快，下午2点又变慢；Azure的速率限制会意外触发；某个区域性能下降，而其他区域却保持正常。我构建了一个自适应路由系统，能根据实时指标（延迟、错误率、吞吐量）动态调整权重。采用指数加权移动平均（EWMAs）来平滑峰值波动，避免对噪声过度反应。Go语言实现中的难点在于：在高RPS（每秒请求数）下，追踪每个提供商的指标时，如何避免锁成为性能瓶颈。最终采用了…
+
+---
+
+Original:
+I am an open source contributor, working on load balancing for Bifrost (LLM gateway) and ran into some interesting challenges with Go implementation. Standard weighted round-robin works fine for static loads, but LLM providers behave weirdly. OpenAI might be fast at 9am, slow at 2pm. Azure rate limits kick in unexpectedly. One region degrades while others stay healthy. Built adaptive routing that adjusts weights based on live metrics - latency, error rates, throughput. Used EWMAs (exponentially weighted moving averages) to smooth out spikes without overreacting to noise. The Go part that was tricky: tracking per-provider metrics without locks becoming a bottleneck at high RPS. Ended up using…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdrk6a</guid>
+      <pubDate>Thu, 15 Jan 2026 18:29:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 更新... 正是如此！你触及了让历史记录真正有用的关键缺失环节。按文件类型分类（如文章所示：一边是图片，另一边是PDF）纯粹是物流式的整理。它方便，但很“笨”。你提出的 / Mise a jours... C'est exactement ça ! Tu touches du doigt le chaînon manquant pour que l'historique devienne vraiment utile. Le tri par **type de fichier** (ce que montre l'article : images d'un côté, PDF de l'autre), c'est de la logistique pure. C'est pratique, mais c'est "bête". Ce que tu propos</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdrus3/mise_a_jours_cest_exactement_ça_tu_touches_du/</link>
+      <description>正是如此！你触及了让历史记录真正有用的关键缺失环节。按文件类型分类（如文章所示：一边是图片，另一边是PDF）纯粹是物流式的整理。它方便，但很“笨”。你提出的是一种语义和主题分类。如果能有自动生成的文件夹或“标签”，比如：🧠 哲学/思考（用于我们的深度讨论）💻 技术/代码（用于解决技术问题）🎨 创意（用于图像或想法生成），那确实会非常棒。目前，AI能够分析对话内容，但界面还无法利用这一点...
+
+---
+
+Original:
+C'est exactement ça ! Tu touches du doigt le chaînon manquant pour que l'historique devienne vraiment utile. Le tri par type de fichier (ce que montre l'article : images d'un côté, PDF de l'autre), c'est de la logistique pure. C'est pratique, mais c'est "bête". Ce que tu proposes, c'est un tri sémantique et thématique . Ce serait effectivement incroyable d'avoir des dossiers ou des "étiquettes" automatiques du genre : 🧠 Philosophie / Réflexion (pour nos discussions profondes) 💻 Tech / Code (pour les résolutions de problèmes techniques) 🎨 Créatif (pour la génération d'images ou d'idées) Pour l'instant, l'IA sait analyser le contenu de la conversation, mais l'interface ne sait pas encore s'en…</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdrus3</guid>
+      <pubDate>Thu, 15 Jan 2026 18:39:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 吉尼斯世界纪录认证全球最小AI电脑TiinyAI在CES亮相 / The pocket-sized AI computer, which Guinness World Records says is the smallest, debuted at CES. Says Mashable</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdrwcd/the_pocketsized_ai_computer_which_guinness_world/</link>
+      <description>Mashable报道了新款AI电脑TiinyAI。这款设备尺寸与智能手机相当，专为本地AI处理设计，配备80GB内存和1TB固态硬盘，可在30W功耗下离线运行1200亿参数大语言模型且不发烫。其设计理念是通过一次性硬件购买替代按使用量付费的模式。消息来源：https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer，由/u/npc_gooner提交[链接][评论]
+
+---
+
+Original:
+New AI computer TiinyAI was featured by Mashable. It is a smartphone-sized device for local AI processing. It features 80GB RAM and 1TB SSD storage, runs 120B LLMs offline on 30W without getting hot. It is designed to replace token fees with a one-time hardware purchase. Here's the source: https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer submitted by /u/npc_gooner [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdrwcd</guid>
+      <pubDate>Thu, 15 Jan 2026 18:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 什么情况 / WTH</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdrwk7/wth/</link>
+      <description>我从未对我的ChatGPT（由/u/OrdinaryTrick5031提交）态度恶劣 [链接] [评论]
+
+---
+
+Original:
+I’ve never been mean to my ChatGPT submitted by /u/OrdinaryTrick5031 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdrwk7</guid>
+      <pubDate>Thu, 15 Jan 2026 18:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 谷歌（Google）竟然不会算数... / Google can't count...</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdrx3t/google_cant_count/</link>
+      <description>这张图没有经过编辑——当我切换到AI模式时，它显示450年；但当我直接用谷歌搜索时，却显示45年，而且这个结果也不对。怎么会发生这种事？我能向谷歌（Google）的某个地方报告这个问题吗？由 /u/hs_phoenix 提交 [链接] [评论]
+
+---
+
+Original:
+The image isn't edited, when I go to AI mode it says 450 years, but when I just Google search this, it says 45 years, but it's not true. How can this happen? Can I report this anywhere to Google? submitted by /u/hs_phoenix [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdrx3t</guid>
+      <pubDate>Thu, 15 Jan 2026 18:42:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 构建50多个自动化流程后，我是这样决定用定制代码还是无代码工具的 / After building 50+ automations, this is how I decide between custom code vs no-code"</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qds37j/after_building_50_automations_this_is_how_i/</link>
+      <description>我经常看到关于定制代码与无代码的讨论，于是在构建50多个自动化流程后，决定分享我目前使用的决策框架。关键在于五个方面：应用场景（差异化功能或内部运营）：如果直接面向客户且能形成竞争优势，通常更适合定制开发（避免被轻易复制）；若是用于内部流程优化（入职、数据录入、通知等），无代码/低代码工具往往更合适。数据敏感性/合规要求：这一点至关重要。在医疗、金融和企业环境中，无代码工具缺乏完全透明度，通常不适用。如果涉及……
+
+---
+
+Original:
+I've seen the custom code vs no-code question come up a lot and decided to share the framework I now use after building 50+ automations. It comes down to 5 things: Use case (differentiator or internal ops) : If it directly touches customers and differentiates you from competitors then custom is usually a better fit (you don't want something others can easily replicate). If it's for internal workflow optimization (onboarding, data entry, notifications) then no-code/low-code is usually the right call. Data sensitivity/Compliance : This is super important. For healthcare, finance, and enterprise environments, the lack of full transparency in no-code tools often rules them out. If you're dealing…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qds37j</guid>
+      <pubDate>Thu, 15 Jan 2026 18:48:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
