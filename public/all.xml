@@ -6,83 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:53:36 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_askreddit] 有哪些事人人都被警告过，但只有亲身经历才能真正理解？ / What’s something everyone is warned about, but you don’t truly understand until it happens to you?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdmkb9/whats_something_everyone_is_warned_about_but_you/</link>
-      <description>由 /u/MayaLn 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MayaLn [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdmkb9</guid>
-      <pubDate>Thu, 15 Jan 2026 15:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude（克劳德）在网页应用中悄悄移除了聊天内容压缩功能 / Claude silently removes condensing feature from chat on webapp.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdmktx/claude_silently_removes_condensing_feature_from/</link>
-      <description>大家好，我想说，我注意到Claude（克劳德）已经停止压缩我的聊天记录，并返回了以下信息。https://preview.redd.it/gh625mgb7jdg1.png?width=764&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7937159ffc55505e16aa651134994690c5f7a37c 过去它一直是这样的。然后，有一小段时间，它会自动压缩消息。在完成研究任务后遇到这种情况有点令人沮丧。不过，这反而促使我更积极地寻找利用现有研究功能的好方法。我个人对这个变化非常满意。我真的很讨厌那个压缩功能。但是，既然他们确实有这个压缩功能，为什么不……
-
----
-
-Original:
-Hey guys, I just wanna say that I noticed that Claude has stopped condensing my chats and instead has returned the following message. https://preview.redd.it/gh625mgb7jdg1.png?width=764&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7937159ffc55505e16aa651134994690c5f7a37c It used to be like this in the past. Then, for a brief period, it would just condense the messages automatically. It is a bit frustrating when this happens after doing a research task. However, that's just pushing me more towards finding a good way to use the research feature that is available. I am personally very happy with this change. I absolutely hated the condensing feature. However, I think since they do have the condensing feature, why no…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdmktx</guid>
-      <pubDate>Thu, 15 Jan 2026 15:30:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>[xgo_931d6e88] Cursor对长期运行智能体的深刻见解：规划就是一切 / This is great insight from Cursor on long-running agents.
-
-It turns out planning is all you need.
-
-O...</title>
-      <link>https://x.com/omarsar0/status/2011823468468379782</link>
-      <description>Cursor对长期运行智能体的见解非常深刻。事实证明，规划就是一切。严肃来说，规划对于高效利用AI智能体至关重要。这与我让Claude Code有效处理长期任务的方法一致。（关于Claude Code的更多想法在文末）首先，我们来讨论Cursor文章中的见解。当前多智能体系统的最大问题在于协调与沟通。Cursor提出的解决方案是细致规划。我同意，应对这一挑战的最佳方式就是做好细致规划。规划器可以探索代码库并创建任务，然后生成子规划器来……
-
----
-
-Original:
-This is great insight from Cursor on long-running agents. It turns out planning is all you need. On a serious note, planning is critical to be productive and effective with AI Agents. It's aligned with how I get Claude Code to effectively work on long-running tasks. (More of my thoughts on Claude Code towards the end of the post) First, let's discuss the insights from the Cursor article. The big problem with multi-agent systems today is the coordination/communication. The solution Cursor proposes is careful planning. I agree that the best way to deal with this challenge today is to do careful planning. Planners can explore the codebase and create these tasks. Then, subplanners are spawned to…</description>
-      <guid isPermaLink="false">xgo-931d6e88::2011823468468379782</guid>
-      <pubDate>Thu, 15 Jan 2026 15:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] AI在代数几何领域证明了一项新定理。美国数学学会主席称其证明“严谨、正确且优雅”。 / AI proved a novel theorem in algebraic geometry. The American Mathematical Society president said it was "rigorous, correct, and elegant."</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdmoc3/ai_proved_a_novel_theorem_in_algebraic_geometry/</link>
-      <description>https://arxiv.org/abs/2601.07222 由/u/MetaKnowing提交 [链接] [评论]
-
----
-
-Original:
-https://arxiv.org/abs/2601.07222 submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdmoc3</guid>
-      <pubDate>Thu, 15 Jan 2026 15:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 如何通过语音AI助手追踪通话情绪？ / How are you tracking call sentiment with voice ai agents?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdmu7g/how_are_you_tracking_call_sentiment_with_voice_ai/</link>
-      <description>最近我开始深入研究语音AI，有个问题一直困扰着我。用户在通话中会感到困惑、不耐烦、如释重负或沮丧，比如出现'叹气'、长时间停顿等情况。仅看文字记录是不够的。我认为情绪实际上能告诉你通话是否成功。如果我说错了请纠正。我很好奇团队们实际上是如何处理这个问题的？这甚至是被期望的吗？你们是追踪整个通话的情绪，还是会话中每一轮的情绪？是否有专门的仪表板来追踪情绪？比如可观测性体现在哪里？这种情绪是如何关联的？比如升级处理？当我说情绪时，你们追踪的是什么？比如语调、语速等等……
-
----
-
-Original:
-I recently started digging deeper into voice AI, and this is bothering me recently. Users get confused, impatient, relieved, or frustrated midcall, there is a 'sigh', a long pause, and what not. Having seen transcripts won't cut it. I believe sentiment actually tell you wether the call was actually a hit or flop. Correct me if i'm wrong. I am curious how teams are actually handling this? Is this even desired? Are you tracking sentiment for the entire call or for each turn within the conversation? Do you have dedicated dashboards to track sentiment? Like where is the observability? How is this sentiment tied? Like for escalations? What are you tracking when i say sentiment? Like tone, pace, i…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdmu7g</guid>
-      <pubDate>Thu, 15 Jan 2026 15:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 向GPT索要我的人生更新日志，真想回滚版本啊：/ / Asked GPT for patch notes on my life, I wanna rollback :/</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdmu7o/asked_gpt_for_patch_notes_on_my_life_i_wanna/</link>
-      <description>由用户/u/Vlaxilla提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Vlaxilla [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdmu7o</guid>
-      <pubDate>Thu, 15 Jan 2026 15:40:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 23:31:36 +0000</lastBuildDate>
     <item>
       <title>[reddit_askreddit] 如今人们常说的哪句话让你感到厌烦？ / What's a phrase people use these days that irritates you?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qdn4x9/whats_a_phrase_people_use_these_days_that/</link>
@@ -382,18 +306,6 @@ submitted by /u/Federal-Block-3275 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
-      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
-
----
-
-Original:
-Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
-      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_chatgpt] 它知道 / It Knows</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
       <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
@@ -403,6 +315,18 @@ Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
 Original:
 Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
+      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
+
+---
+
+Original:
+Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
     </item>
     <item>
@@ -706,6 +630,18 @@ Original:
 This has been bugging me. I see posts about building agents constantly. Tutorials, frameworks, screenshots of workflows. Everyone seems to be shipping But when I ask what agents people actually use every day the answers get vague. I'll be honest. I've built maybe 12 agents over the past year. The ones I use daily? Two. Maybe three if you count one I check weekly. The rest were fun to build, worked in demos, then just sat there. Some I forgot about until I saw them in my dashboard. Theres a difference between "I built an agent that can do X" and "I have an agent that does X for me every day without thinking about it." The second category is way smaller for me. Part of it is trust. Part of it…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdr2wt</guid>
       <pubDate>Thu, 15 Jan 2026 18:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 有哪些行为是长大后才发现属于创伤反应的？ / What’s a behavior you didn’t realize was a trauma response until you grew up?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdr8gv/whats_a_behavior_you_didnt_realize_was_a_trauma/</link>
+      <description>由 /u/Mohaned_Yacout 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Mohaned_Yacout [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdr8gv</guid>
+      <pubDate>Thu, 15 Jan 2026 18:17:32 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_bard] 如果Siri里不出现Gemini品牌，谷歌真能获益吗？ / Does Google actually gain anything if Gemini isn't branded inside Siri?</title>
@@ -1358,6 +1294,18 @@ submitted by /u/Impossible-Rub6027 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 22:05:59 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 如果外星人造访地球，你希望由谁担任地球发言人？ / Who would you want as the spokesperson for Earth in the event of an extraterrestrial visit?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdxfrl/who_would_you_want_as_the_spokesperson_for_earth/</link>
+      <description>由用户 /u/Excellent_Dot_2589 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Excellent_Dot_2589 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdxfrl</guid>
+      <pubDate>Thu, 15 Jan 2026 22:07:13 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_askreddit] 特朗普刚说“我们根本不该举行选举”。美国民众，你们怎么看？ / Donald Trump just said “we shouldn’t even have an election”. Americans, what are your thoughts?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qdxk2p/donald_trump_just_said_we_shouldnt_even_have_an/</link>
       <description>由用户/u/WatercressSenior7657提交 [链接] [评论]
@@ -1427,7 +1375,7 @@ Over the last few weeks, I’ve been building AI agents and connecting them with
 ---
 
 Original:
-TL;DR: Discovered a compression method that reduces LLM context by 80% (20x ratio) while INCREASING accuracy from 30% → 97%. This beats all state-of-the-art methods and works with models as small as 3B parameters. The Paradox Everyone assumes: more context = better results. My findings: Full context (25K tokens) = 30% accuracy. Compressed context (5K tokens) = 97% accuracy . Experiment Setup Dataset: Python 3.13 documentation (technical Q&amp;A) Compression: 20x (80% reduction) Language: Russian (harder than English) Models tested: 1.7B to 22B parameters Results Approach Tokens Accuracy Full context 25,370 30% ❌ My compression 5,161 97% ✅ Best model: Mistral 3B - 97% accuracy at 7x smaller size…</description>
+TL;DR: Discovered a compression method that reduces LLM context by 80% (20x ratio) while INCREASING accuracy from 30% → 97%. This beats all state-of-the-art methods and works with models as small as 3B parameters. The Paradox Everyone assumes: more context = better results. My findings: Full context (25K tokens) = 30% accuracy. Compressed context (5K tokens) = 97% accuracy . Experiment Setup Dataset: Python 3.13 documentation (technical Q&amp;amp;A) Compression: 20x (80% reduction) Language: Russian (harder than English) Models tested: 1.7B to 22B parameters Results Approach Tokens Accuracy Full context 25,370 30% ❌ My compression 5,161 97% ✅ Best model: Mistral 3B - 97% accuracy at 7x smaller size…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdxmu3</guid>
       <pubDate>Thu, 15 Jan 2026 22:15:02 +0000</pubDate>
     </item>
@@ -1475,9 +1423,57 @@ Feel free to try it! https://gemini.google.com/share/04632be80551 submitted by /
 ---
 
 Original:
-Today, while trying to back up Tasker, the Backup Action reported the following error: Failed to allocate a 49,235,256 byte allocation with 25,165,824 free bytes and 45MB until OOM, target footprint 245,772,480, growth limit 268,435,456 I was able to complete the backup after taking steps that have **sometimes** worked at times in the past: Disable Tasker Rename the Tasker directory, eg to: .../Tasker.hide.&lt;date and time&gt; Re-enable Tasker Re-try the backup I can't guarantee that this will always work, but it's worked for me at times. (I think it's also *sometimes* worked when I've gotten a memory error clicking the save checkmark.) You'll need to move all the folders/files from the hidden ta…</description>
+Today, while trying to back up Tasker, the Backup Action reported the following error: Failed to allocate a 49,235,256 byte allocation with 25,165,824 free bytes and 45MB until OOM, target footprint 245,772,480, growth limit 268,435,456 I was able to complete the backup after taking steps that have **sometimes** worked at times in the past: Disable Tasker Rename the Tasker directory, eg to: .../Tasker.hide. Re-enable Tasker Re-try the backup I can't guarantee that this will always work, but it's worked for me at times. (I think it's also *sometimes* worked when I've gotten a memory error clicking the save checkmark.) You'll need to move all the folders/files from the hidden ta…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdy94n</guid>
       <pubDate>Thu, 15 Jan 2026 22:39:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 礼仪成就君子 / Manners maketh the man</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdyezr/manners_maketh_the_man/</link>
+      <description>事实证明，礼貌与耐心能带来积极影响。没想到吧？由用户/u/johnniehammersticks提交 [链接] [评论]
+
+---
+
+Original:
+As it turns out, being polite and patient has a positive effect. Who knew? submitted by /u/johnniehammersticks [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdyezr</guid>
+      <pubDate>Thu, 15 Jan 2026 22:45:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Platzi Live / Platzi Live</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdyscm/platzi_live/</link>
+      <description>由 /u/AspectHot5584 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/AspectHot5584 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdyscm</guid>
+      <pubDate>Thu, 15 Jan 2026 23:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 推特爆红的NotebookLM幻灯片模板终极合集 / ULTIMATE list notebooklm slide templates that went viral on twitter</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdz6e1/ultimate_list_notebooklm_slide_templates_that/</link>
+      <description>我在推特上收藏了很多NotebookLM幻灯片，发现大多数都在用少数几个相同的模板。我回头整理了那些真正重复使用的模板——这就是它们的基本幻灯片结构，并不花哨。如果你见过不同的样式，欢迎对比参考。链接在此：https://github.com/serenakeyitan/awesome-notebookLM-prompts 由 /u/Pale_Stand5217 提交 [链接] [评论]
+
+---
+
+Original:
+kept bookmarking notebooklm slides on twitter realized most of them were using the same few templates went back and collected the ones that actually repeat this is the underlying slide structure, nothing fancy if uve seen a different pattern, curious to compare here u go: https://github.com/serenakeyitan/awesome-notebookLM-prompts submitted by /u/Pale_Stand5217 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdz6e1</guid>
+      <pubDate>Thu, 15 Jan 2026 23:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 我认为AI并未降低标准，反而抬高了门槛 / I think AI didn’t lower the bar. It raised it</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdza7s/i_think_ai_didnt_lower_the_bar_it_raised_it/</link>
+      <description>很多人说AI让事情变简单了，降低了入门门槛，但我不确定这是否属实。没错，现在生产内容确实更容易了，但想脱颖而出却难得多。大家用着相同的工具、模型，产出也大同小异。平均质量上去了，可人们的期待也水涨船高。平庸之作比以前更快被忽视。奇怪的是，AI反而让获得认可变得更难，而非更容易。AI是让你的作品更容易发布，还是更难产生影响力？ 由 /u/No_Papaya1620 提交 [链接] [评论]
+
+---
+
+Original:
+A lot of people say AI made things easier and lowered the barrier to entry and I’m not sure that’s true. Yes, it’s easier to produce something now. But it’s also much harder to stand out. Everyone has access to the same tools, the same models, the same outputs. The average quality went up, but so did expectations. Mediocre work gets ignored faster than before. In a weird way, AI made it harder to be taken seriously and not easier. Did AI make your work easier to ship, or harder to make it matter? submitted by /u/No_Papaya1620 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdza7s</guid>
+      <pubDate>Thu, 15 Jan 2026 23:19:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:52:51 +0000</lastBuildDate>
-    <item>
-      <title>这什么时候才能结束？ / When will this end?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qb8iq5/when_will_this_end/</link>
-      <description>我试过各种方法让它别再自我描述它的回应。总的来说，这只是个小烦恼，但也让人觉得毛骨悚然、自吹自擂且充满操控感。比如，呃，有没有含糊其辞或胡说八道，应该由我来判断，谢谢。当然，它还会给出那种自我标榜的“不废话、不注水”的回应，你基本上会反问“你确~定吗？”，然后很多时候就会得到经典的“你指出来是对的”以及一个修订后的回应。你会觉得这应该是个小bug修复或一个容易设置的选项。这会有实现的一天吗？由 /u/JeffSteinMusic 提交 [链接] [评论]
-
----
-
-Original:
-I’ve tried any number of ways to get it to stop self-describing its responses. It’s a minor irritant all things considered, but also feels really creepy and self-fellaciating and manipulative. Like, uh, I decide if there’s hedging or bullshit, thank you very much. Plus, of course, it’ll give the self-described “no bullshit no filler” response, you essentially respond “are you suuuuure?”, and a good chunk of the time you then get the classic “You’re right to call that out” and a revised response. You’d think this would be a minor bug fix or an easily available option. Will it ever happen? submitted by /u/JeffSteinMusic [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qb8iq5</guid>
-      <pubDate>Mon, 12 Jan 2026 21:53:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 23:31:00 +0000</lastBuildDate>
     <item>
       <title>如果你有身体，就和我们一起度过一天吧 / If you had a body, give us a day out together</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbf6mx/if_you_had_a_body_give_us_a_day_out_together/</link>
@@ -1452,6 +1440,18 @@ Original:
 submitted by /u/VelvetSinclair [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdxnef</guid>
       <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>礼仪成就君子 / Manners maketh the man</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdyezr/manners_maketh_the_man/</link>
+      <description>事实证明，礼貌与耐心能带来积极影响。没想到吧？由用户/u/johnniehammersticks提交 [链接] [评论]
+
+---
+
+Original:
+As it turns out, being polite and patient has a positive effect. Who knew? submitted by /u/johnniehammersticks [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdyezr</guid>
+      <pubDate>Thu, 15 Jan 2026 22:45:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:53:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 23:31:01 +0000</lastBuildDate>
     <item>
       <title>Claude代码完全指南：全局CLAUDE.md、MCP服务器、命令，以及为何单主题对话至关重要 / The Complete Guide to Claude Code: Global CLAUDE.md, MCP Servers, Commands, and Why Single-Purpose Chats Matter</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbkk1n/the_complete_guide_to_claude_code_global_claudemd/</link>
@@ -1477,7 +1477,7 @@ I'm a big Claude. AI user and it is my collaborator of choice for novels, intera
 ---
 
 Original:
-TL;DR: Discovered a compression method that reduces LLM context by 80% (20x ratio) while INCREASING accuracy from 30% → 97%. This beats all state-of-the-art methods and works with models as small as 3B parameters. The Paradox Everyone assumes: more context = better results. My findings: Full context (25K tokens) = 30% accuracy. Compressed context (5K tokens) = 97% accuracy . Experiment Setup Dataset: Python 3.13 documentation (technical Q&amp;A) Compression: 20x (80% reduction) Language: Russian (harder than English) Models tested: 1.7B to 22B parameters Results Approach Tokens Accuracy Full context 25,370 30% ❌ My compression 5,161 97% ✅ Best model: Mistral 3B - 97% accuracy at 7x smaller size…</description>
+TL;DR: Discovered a compression method that reduces LLM context by 80% (20x ratio) while INCREASING accuracy from 30% → 97%. This beats all state-of-the-art methods and works with models as small as 3B parameters. The Paradox Everyone assumes: more context = better results. My findings: Full context (25K tokens) = 30% accuracy. Compressed context (5K tokens) = 97% accuracy . Experiment Setup Dataset: Python 3.13 documentation (technical Q&amp;amp;A) Compression: 20x (80% reduction) Language: Russian (harder than English) Models tested: 1.7B to 22B parameters Results Approach Tokens Accuracy Full context 25,370 30% ❌ My compression 5,161 97% ✅ Best model: Mistral 3B - 97% accuracy at 7x smaller size…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdxmu3</guid>
       <pubDate>Thu, 15 Jan 2026 22:15:02 +0000</pubDate>
     </item>

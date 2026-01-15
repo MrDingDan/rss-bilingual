@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:52:45 +0000</lastBuildDate>
-    <item>
-      <title>AI智能体：谁真正获得人工判断，谁只能面对自动化把关者？ / AI agents: who actually gets human judgment, and who gets automated gatekeepers?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbs83l/ai_agents_who_actually_gets_human_judgment_and/</link>
-      <description>我关注这个领域已有一段时间——人们对AI智能体既抱有热情，也不乏悲观。这很有趣！同时，我也好奇大家如何看待这些聊天机器人和智能体在出错时的处理方式。我的意思是，智能体似乎在目标明确、数据结构化、错误影响不大，且最好有人能悄悄介入协助的场景下表现最佳。但随着政府、保险及其他关键领域开始应用，现实似乎并非如此。从更宏观的视角看，我们仿佛正在构建一个双层判断体系——有钱有权的人仍能接触到真人（律师、医生、教育者等）……
-
----
-
-Original:
-I've been following this community for some time - some excitement around AI agents and some pessimism. I've enjoyed it! I'm also curious to know where people are landing on these chatbots and agents in regards to failures. What I mean is, agents seem to work best with clear goals, structured data, errors that aren't real impactful and ideally where a human can quietly step in and help. That doesn't seem to be the case in as implementations take off in government, insurance and other critical sectors. It feels like we are, when you look at the larger picture, we are building a two-tier system of judgement - people with money/power who keep access to humans (lawyers, doctors, educators, etc)…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbs83l</guid>
-      <pubDate>Tue, 13 Jan 2026 14:07:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 23:30:55 +0000</lastBuildDate>
     <item>
       <title>利用内部客户数据创建AI智能体 / Creating AI Agents with internal customer's data</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbsuyb/creating_ai_agents_with_internal_customers_data/</link>
@@ -1464,6 +1452,18 @@ Original:
 Over the last few weeks, I’ve been building AI agents and connecting them with Twilio — and honestly, this is where AI starts feeling real, not just experimental. Here’s what stood out for me Twilio became the communication backbone Instead of building separate logic for WhatsApp, SMS, or future voice flows, Twilio gave me a clean, reliable layer to plug my AI agents into. AI agents stopped being “chatbots” Once connected to Twilio (especially WhatsApp), my agents started: Handling real user queries Sharing price lists and service details Booking appointments automatically Responding instantly, 24/7 This is where agentic AI actually proves its value. The integration was smoother than expecte…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdxm39</guid>
       <pubDate>Thu, 15 Jan 2026 22:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>我认为AI并未降低标准，反而抬高了门槛 / I think AI didn’t lower the bar. It raised it</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdza7s/i_think_ai_didnt_lower_the_bar_it_raised_it/</link>
+      <description>很多人说AI让事情变简单了，降低了入门门槛，但我不确定这是否属实。没错，现在生产内容确实更容易了，但想脱颖而出却难得多。大家用着相同的工具、模型，产出也大同小异。平均质量上去了，可人们的期待也水涨船高。平庸之作比以前更快被忽视。奇怪的是，AI反而让获得认可变得更难，而非更容易。AI是让你的作品更容易发布，还是更难产生影响力？ 由 /u/No_Papaya1620 提交 [链接] [评论]
+
+---
+
+Original:
+A lot of people say AI made things easier and lowered the barrier to entry and I’m not sure that’s true. Yes, it’s easier to produce something now. But it’s also much harder to stand out. Everyone has access to the same tools, the same models, the same outputs. The average quality went up, but so did expectations. Mediocre work gets ignored faster than before. In a weird way, AI made it harder to be taken seriously and not easier. Did AI make your work easier to ship, or harder to make it matter? submitted by /u/No_Papaya1620 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdza7s</guid>
+      <pubDate>Thu, 15 Jan 2026 23:19:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

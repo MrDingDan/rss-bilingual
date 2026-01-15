@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 23:31:25 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -1014,6 +1014,30 @@ Original:
 Feel free to try it! https://gemini.google.com/share/04632be80551 submitted by /u/Apart_Potato959 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdy87g</guid>
       <pubDate>Thu, 15 Jan 2026 22:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platzi Live / Platzi Live</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdyscm/platzi_live/</link>
+      <description>由 /u/AspectHot5584 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/AspectHot5584 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdyscm</guid>
+      <pubDate>Thu, 15 Jan 2026 23:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>推特爆红的NotebookLM幻灯片模板终极合集 / ULTIMATE list notebooklm slide templates that went viral on twitter</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdz6e1/ultimate_list_notebooklm_slide_templates_that/</link>
+      <description>我在推特上收藏了很多NotebookLM幻灯片，发现大多数都在用少数几个相同的模板。我回头整理了那些真正重复使用的模板——这就是它们的基本幻灯片结构，并不花哨。如果你见过不同的样式，欢迎对比参考。链接在此：https://github.com/serenakeyitan/awesome-notebookLM-prompts 由 /u/Pale_Stand5217 提交 [链接] [评论]
+
+---
+
+Original:
+kept bookmarking notebooklm slides on twitter realized most of them were using the same few templates went back and collected the ones that actually repeat this is the underlying slide structure, nothing fancy if uve seen a different pattern, curious to compare here u go: https://github.com/serenakeyitan/awesome-notebookLM-prompts submitted by /u/Pale_Stand5217 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdz6e1</guid>
+      <pubDate>Thu, 15 Jan 2026 23:15:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

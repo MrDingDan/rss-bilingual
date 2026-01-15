@@ -1145,7 +1145,13 @@
     "reddit-claudeai::t3_1qdxmu3": 1768517590,
     "reddit-bard::t3_1qdy87g": 1768517597,
     "reddit-askreddit::t3_1qdxk2p": 1768517602,
-    "reddit-tasker::t3_1qdy94n": 1768517614
+    "reddit-tasker::t3_1qdy94n": 1768517614,
+    "reddit-ai-agents::t3_1qdza7s": 1768519855,
+    "reddit-chatgpt::t3_1qdyezr": 1768519860,
+    "reddit-bard::t3_1qdz6e1": 1768519880,
+    "reddit-bard::t3_1qdyscm": 1768519884,
+    "reddit-askreddit::t3_1qdxfrl": 1768519889,
+    "reddit-askreddit::t3_1qdr8gv": 1768519893
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5687,6 +5693,30 @@
     "149447b9052034acdfff2d9d00d6b6c336ed067fad835508d8c986afa2e1dcab": {
       "zh_title": "Tasker备份操作报“分配失败”错误的可能解决方案",
       "zh_summary": "今天在尝试备份Tasker时，备份操作报告了以下错误：分配失败，尝试分配49,235,256字节，可用空间25,165,824字节，距离内存溢出（OOM）还有45MB，目标占用245,772,480字节，增长限制268,435,456。我采取了以下步骤后成功完成了备份，这些方法**有时**在过去也有效：禁用Tasker，重命名Tasker目录（例如改为：.../Tasker.hide.<日期和时间>），重新启用Tasker，然后重试备份。我不能保证这总能奏效，但对我有时确实有效。（我认为在点击保存勾选时遇到内存错误时，这*有时*也有效。）你需要将所有文件夹/文件从隐藏的ta…"
+    },
+    "c17be1538903eab08265c849de499eab6ae5d3965daf58379e8fa8d2d705e6cd": {
+      "zh_title": "我认为AI并未降低标准，反而抬高了门槛",
+      "zh_summary": "很多人说AI让事情变简单了，降低了入门门槛，但我不确定这是否属实。没错，现在生产内容确实更容易了，但想脱颖而出却难得多。大家用着相同的工具、模型，产出也大同小异。平均质量上去了，可人们的期待也水涨船高。平庸之作比以前更快被忽视。奇怪的是，AI反而让获得认可变得更难，而非更容易。AI是让你的作品更容易发布，还是更难产生影响力？ 由 /u/No_Papaya1620 提交 [链接] [评论]"
+    },
+    "c41742c511a52da0e42d6301c8d5e48d9bf205223ef661e3ce34c61d65cf100b": {
+      "zh_title": "礼仪成就君子",
+      "zh_summary": "事实证明，礼貌与耐心能带来积极影响。没想到吧？由用户/u/johnniehammersticks提交 [链接] [评论]"
+    },
+    "3278fa4634979e042c98b53f5b7a7db12268061282f7a58e9fc6d9bebd3f125b": {
+      "zh_title": "推特爆红的NotebookLM幻灯片模板终极合集",
+      "zh_summary": "我在推特上收藏了很多NotebookLM幻灯片，发现大多数都在用少数几个相同的模板。我回头整理了那些真正重复使用的模板——这就是它们的基本幻灯片结构，并不花哨。如果你见过不同的样式，欢迎对比参考。链接在此：https://github.com/serenakeyitan/awesome-notebookLM-prompts 由 /u/Pale_Stand5217 提交 [链接] [评论]"
+    },
+    "c49d6fe34a7565e61a79f5fc35e2ef996f887ab48b768099e25357e8ccc539eb": {
+      "zh_title": "Platzi Live",
+      "zh_summary": "由 /u/AspectHot5584 提交 [链接] [评论]"
+    },
+    "d0295a200e187d624e44fd07f67ec134c8a7e9afcbf29bd31a00d43365485662": {
+      "zh_title": "如果外星人造访地球，你希望由谁担任地球发言人？",
+      "zh_summary": "由用户 /u/Excellent_Dot_2589 提交 [链接] [评论]"
+    },
+    "1357679e7cb0741feace1da3de2ac030ebdc874f49f93cd20765428c11db1b03": {
+      "zh_title": "有哪些行为是长大后才发现属于创伤反应的？",
+      "zh_summary": "由 /u/Mohaned_Yacout 提交 [链接] [评论]"
     }
   }
 }
