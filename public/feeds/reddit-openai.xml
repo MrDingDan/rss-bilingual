@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 06:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:36:48 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1136,6 +1136,18 @@ Original:
 5.2 thinking 5.1 thinking submitted by /u/jacobson_engineering [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdc2sr</guid>
       <pubDate>Thu, 15 Jan 2026 06:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>你们是否使用任何SDK来构建AI智能体？ / Are you using any SDKs for building AI agents?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdd2az/are_you_using_any_sdks_for_building_ai_agents/</link>
+      <description>我们发布了一个AI智能体，没有使用任何智能体构建SDK（如OpenAI、Anthropic、Google等）。它不需要太多维护，但偶尔会发现一些故障案例（例如：Gemini 3.x模型需要特定格式的输入）。我想知道这些框架中是否有能让开发更简便、更易维护的。以下是我们的一些需求：- 与自定义工具集成 - 与多种LLM集成 - 对上下文的细粒度控制 - 在对话轮次之间（甚至单轮多次）进行状态检查点保存 - 对智能体循环的控制（例如：最大迭代次数） 由/u/finally_i_found_one提交 [链接] [评论]
+
+---
+
+Original:
+We shipped an ai agent without using any of the agent building SDKs (openai, anthropic, google etc). It doesn't require much maintenance but time to time we find cases where it breaks (ex: gemini 3.x models needed the input in a certain fashion). I am wondering if any of these frameworks make it easy and maintainable. Here are some of our requirements: - Integration with custom tools - Integration with a variety of LLMs - Fine grain control over context - State checkpointing in between turns (or even multiple times a turn) - Control over the agent loop (ex: max iterations) submitted by /u/finally_i_found_one [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdd2az</guid>
+      <pubDate>Thu, 15 Jan 2026 07:21:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

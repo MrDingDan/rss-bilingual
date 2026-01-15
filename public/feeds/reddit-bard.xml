@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 06:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:36:53 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -786,6 +786,18 @@ Original:
 Did any of you experience Gemini stubborn on long threads? When I was discussing on a very hard science topic, Gemini 3.0 Pro always say it isnt wrong. It even try to reject any evidence, including research papers from well-known journals. Only after 20 messages, it started to admit a fatal and systematic failure from the beginning. submitted by /u/MistrRiver [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdchg4</guid>
       <pubDate>Thu, 15 Jan 2026 06:47:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini表示，除非你提醒它，否则它对你一无所知 / Gemini says ot doesn't know anything about you until you remind it</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdd8k0/gemini_says_ot_doesnt_know_anything_about_you/</link>
+      <description>由 /u/herrimo 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/herrimo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdd8k0</guid>
+      <pubDate>Thu, 15 Jan 2026 07:31:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

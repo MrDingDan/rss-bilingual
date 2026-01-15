@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 06:50:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:36:47 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1262,6 +1262,18 @@ After seeing that clip of someone nuking 11GB with a rm -rf-style mistake, I got
       <pubDate>Thu, 15 Jan 2026 04:33:51 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Cowork | Anthropic 推出的 macOS 版自主 AI 助手 / Claude Cowork | Anthropic's Autonomous AI Agent for macOS</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qda21l/claude_cowork_anthropics_autonomous_ai_agent_for/</link>
+      <description>围绕 Cowork 既有不少热议，也存在许多质疑。我正试图拨开迷雾，探究它在实际工作中究竟能发挥什么作用。我已开始从不同渠道（Reddit 讨论串、X/Twitter 帖子、YouTube 评论）收集“真实”用例，并按以下维度分类标注：任务类型、成功率（首次尝试成功 vs 需修正）、风险等级（安全 vs 可能造成破坏）。希望这能发展成一个由社区驱动的小型“用例数据库”，让新用户不必再盲目摸索。 —— 目前表现良好的任务类型 文件与文档工作流（低至中等风险）：按文件类型/日期整理下载文件夹、使用智能模式批量重命名文件、根据…创建草稿文档
+
+---
+
+Original:
+There's a lot of hype and a lot of skepticism around Cowork, but I'm trying to cut through the noise and figure out what it's actually useful for in real work. I've started collecting "real" use cases from different places (Reddit threads, X/Twitter posts, YouTube comments) and tagging them by: Task type Success rate (first try vs needed correction) Risk level (safe vs potentially destructive) I'm hoping to turn this into a small community-driven "use case database" so new users aren't stuck guessing. — TASKS THAT SEEM TO WORK WELL File + document workflows (low-to-medium risk): Organizing a Downloads folder by file type / date Batch renaming files with smart patterns Creating draft docs fro…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qda21l</guid>
+      <pubDate>Thu, 15 Jan 2026 04:39:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Cowork vs Goose vs KIRA vs Claude Code——有人实际做过对比测试吗？ / Cowork vs Goose vs KIRA vs Claude Code - has anyone actually tested these head-to-head?</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qda81a/cowork_vs_goose_vs_kira_vs_claude_code_has_anyone/</link>
       <description>随着Cowork的推出和开源替代品的涌现，我实在搞不清哪种桌面代理方案最适合日常工作。我一直在关注“Cowork vs 开源”的讨论，其中两点让我印象深刻：Cowork感觉像是“官方/成熟”路线（Anthropic原生开发，可能问题更少）。Goose有着异常扎实的实际验证：它由Block开源，Anthropic甚至引用过Block的内部推广情况（4000多名员工使用；号称能大幅节省时间，例如“约75%的工程师每周节省8-10小时以上”）。这可不是寻常的周末项目能比的。此外还有像KIRA和Claude Code这类工具，似乎重...
@@ -1284,6 +1296,18 @@ Original:
 I posted this the other day but I'm posting it again from sheer desperation. Claude won't listen to me. I can't handle the "you're right, I was being an idiot. Let me do it properly this time." Like bro, why didn't you do it properly the 1st - 5th time I asked you? What setting do I need to change? What do I need to do? I tried claude-mem, doesn't work on windows. Seriously, I can't start from scratch 10 times a day because CC doesn't listen, because it tries one thing once without doing any research at all, just guessing and doing random shit, rewriting code its already written.. it's awful. And this is with $200/mo MAX on Opus 4.5. Sure, if you give it explicit instructions to do x y z for…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdat2k</guid>
       <pubDate>Thu, 15 Jan 2026 05:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude（克劳德）在调侃我... / Claude taking a dig at me...</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdd4y6/claude_taking_a_dig_at_me/</link>
+      <description>我妻子不太明白我的工作内容，但觉得Claude（克劳德）在运行“嬉戏、退潮”这类任务时随机蹦出的词汇很有趣...所以她评论了一条正在运行的“Boondoggling”，问我这是什么意思...我也不清楚，但可以查一下...（释义）非正式·北美英语 动词 动名词或现在分词：boondoggling 指在没必要、浪费或欺诈性项目上花费金钱或时间。“唯一能确定的就是更高的税收和官僚主义的浪费行为” 觉得挺有意思 :) （附言：它怎么知道的？？） 由 /u/lsdza 提交 [链接] [评论]
+
+---
+
+Original:
+My wife doesn't understand what I do, but is amused by Claude's random words while running "Frolicking, Ebbing" whatever... So she comments on one running "Boondoggling" and asks what it is... i don't know but i'll look it up... informal•North American English verb gerund or present participle: boondoggling spend money or time on unnecessary, wasteful, or fraudulent projects. "the only guarantees are higher taxes and bureaucratic boondoggling" Thought it was funny :) (PS: how does it know??) submitted by /u/lsdza [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdd4y6</guid>
+      <pubDate>Thu, 15 Jan 2026 07:25:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

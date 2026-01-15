@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 06:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:36:13 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1368,6 +1368,66 @@ Original:
 I’ve been working on long-horizon agent evaluations for a while now and wanted to highlight one of the problems I’m sure many are facing. If you’re experiencing unpredictable latency, a spike in costs, you may scale to e.g. a reasoning model to allocate more tokens and choose trajectories better. However throughput might still plateau and that can be frustrating because you’re getting inconsistent success rates. Is it a model quality or orchestration issue? I don’t think so. I dug into the executions themselves and a clear pattern emerged. A large share of test time compute was being wasted on trajectories that could be forecast as likely unsuccessful. Despite that, they were hogging TTC unt…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdc7p0</guid>
       <pubDate>Thu, 15 Jan 2026 06:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI群聊 / AI Group Chats</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdcm12/ai_group_chats/</link>
+      <description>发帖寻找一些喜欢讨论AI的轻松伙伴。目前我们在Tribe Chat上已有一些有趣且富有成效的对话。大家相处愉快，互相了解，分享构建提示词和新想法、当日新闻，特别是图像和视频。最近我们围绕智能体AI（agentic AI）展开了不少精彩讨论，希望能进一步拓展！Tribe Chat的聊天室还内置了AI功能，你可以查询信息、生成图像，让大家共同学习成长！如果这听起来正合你意，请联系我。附上我的短视频脚本生成器（short video scriptwriter）用于抵税😁，由/u/Smooth_Sailing102提交 [链接] [评论]
+
+---
+
+Original:
+Posting to find some chill people who like talking about AI. We’ve got a couple of fun and productive conversations happening on Tribe Chat now. We’re having a good time getting to know each other and sharing prompts and new ideas to build, the news of the day and especially sharing images and video. We’ve been having some good discussions lately about agentic AI and we’d love to expand them! Tribe Chat has an AI built into the chat room too, you can query it, you can do image gens, and then everyone gets to learn and grow! If this sounds like your cup of tea, hit me up. Posting a copy of my short video scriptwriter for tax 😁 submitted by /u/Smooth_Sailing102 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdcm12</guid>
+      <pubDate>Thu, 15 Jan 2026 06:54:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI驱动自动化如何重塑律所工作流与案件管理 / How AI-Driven Automation Is Already Shaping Law Firm Workflows and Case Management</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdcodf/how_aidriven_automation_is_already_shaping_law/</link>
+      <description>我刚为一家律所搭建了一套n8n自动化流程，这让我清晰地意识到：对法律团队而言，AI驱动的工作流已不再是未来议题，它正悄然改变着日常运营。通过自动化串联案件受理表单、邮件、文档系统和案件更新后，案件推进更快，截止日期不再依赖记忆，客户体验更顺畅，且无需团队加班。AI更进一步实现了案件标记、客户邮件摘要、常规回复草拟，以及将文档或任务精准分派给对应人员，省去冗长交接环节。它并非取代律师或助理，而是消除了那些消耗精力的重复性步骤……
+
+---
+
+Original:
+I just finished building an n8n automation for a law firm and it made something crystal clear AI-powered workflows aren’t a future topic for legal teams anymore, they’re quietly changing day-to-day operations right now. When you connect intake forms, email, document systems and case updates through automation, cases move faster, deadlines stop depending on memory and clients get a smoother experience without anyone working longer hours. AI takes this even further by tagging matters, summarizing client emails, drafting routine responses and routing documents or tasks to the right person without long handoffs. It doesn’t replace attorneys or paralegals it removes the repetitive steps that drai…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdcodf</guid>
+      <pubDate>Thu, 15 Jan 2026 06:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>感觉生活陷入停滞 / Feeling stuck in life</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdcr2o/feeling_stuck_in_life/</link>
+      <description>上个月我满25岁，现在意识到自己还没做出什么了不起的成就。我的经济状况不太理想，也知道自己有很多方面需要改进，包括健康和正念。对于如何充分利用26到30岁这段时间，有什么建议吗？ 发布者：/u/Top_Measurement_3713 [链接] [评论]
+
+---
+
+Original:
+Last month I turned 25 and now I am realizing that i have not done anything great in my life. i am financial not that strong and i know there are many things i need to work on including health and mind fullness. Any advise on how to make the most out of 26 to 30? submitted by /u/Top_Measurement_3713 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdcr2o</guid>
+      <pubDate>Thu, 15 Jan 2026 07:02:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>你们是否使用任何SDK来构建AI智能体？ / Are you using any SDKs for building AI agents?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdd056/are_you_using_any_sdks_for_building_ai_agents/</link>
+      <description>我们发布了一个AI智能体，没有使用任何智能体构建SDK（如OpenAI、Anthropic、Google等）。它不需要太多维护，但偶尔会发现一些故障案例（例如：Gemini 3.x模型需要特定格式的输入）。我想知道这些框架中是否有能让开发更简便、更易维护的。以下是我们的一些需求：- 与自定义工具集成 - 与多种LLM集成 - 对上下文的细粒度控制 - 在对话轮次之间（甚至单轮多次）进行状态检查点保存 - 对智能体循环的控制（例如：最大迭代次数） 由/u/finally_i_found_one提交 [链接] [评论]
+
+---
+
+Original:
+We shipped an ai agent without using any of the agent building SDKs (openai, anthropic, google etc). It doesn't require much maintenance but time to time we find cases where it breaks (ex: gemini 3.x models needed the input in a certain fashion). I am wondering if any of these frameworks make it easy and maintainable. Here are some of our requirements: - Integration with custom tools - Integration with a variety of LLMs - Fine grain control over context - State checkpointing in between turns (or even multiple times a turn) - Control over the agent loop (ex: max iterations) submitted by /u/finally_i_found_one [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdd056</guid>
+      <pubDate>Thu, 15 Jan 2026 07:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们开发Keiro（凯罗）是因为智能体网页搜索成本太高了——欢迎提问 / We built Keiro because agent web search costs were killing us. AMA</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdd1kb/we_built_keiro_because_agent_web_search_costs/</link>
+      <description>大家好，我是Keiro（凯罗）的技术负责人。事情是这样的：我们内部运行一个研究型智能体时，网页搜索API的费用在两周内就达到了3000美元，比我们在GPT-5上的开销还高。这个智能体每项任务要进行30-40次网页搜索，而每千次调用成本为6-8美元，经济上完全不合理。Exa和Tavily都是不错的产品，效果也好。但当你构建的智能体每次会话需要搜索网页50次以上时，单次调用成本就变得至关重要。我们需要一个既便宜又不难用的方案。我们的解决方案是：智能路由——简单网页查询用廉价模型，复杂研究任务用昂贵模型；实时爬虫……
+
+---
+
+Original:
+Hey r/AI_Agents , I'm the tech lead at Keiro ( link in comments) So here's what happened - we were running a research agent internally and the web search API bill hit $3K in like two weeks. That's more than we were spending on GPT-5. The agent was doing 30-40 web searches per task and at $6-8 per thousand calls, it just didn't make sense economically. Exa and Tavily are good products. They work. But when you're building agents that need to search the web 50+ times per session, the cost per call starts mattering a lot. We needed something cheaper that didn't suck. What we built: Smart routing - simple web queries get cheap models, complex research gets the expensive ones. Real-time crawling.…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdd1kb</guid>
+      <pubDate>Thu, 15 Jan 2026 07:20:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

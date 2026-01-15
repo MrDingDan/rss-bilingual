@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 06:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:36:23 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1224,6 +1224,30 @@ Original:
 submitted by /u/FrickinLardCarcass [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdb7af</guid>
       <pubDate>Thu, 15 Jan 2026 05:37:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>大伙儿都对你们的ChatGPT做了啥啊，我的给我整出这个😭 / What are y'all doing to your chatgpts bruh cause mine gives me this 😭</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdca1i/what_are_yall_doing_to_your_chatgpts_bruh_cause/</link>
+      <description>由 /u/Mikubestgrill 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Mikubestgrill [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdca1i</guid>
+      <pubDate>Thu, 15 Jan 2026 06:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>什么情况？ / wtf?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdcgks/wtf/</link>
+      <description>我和ChatGPT交流时一直很有礼貌，它为什么会生成这样的图片？由 /u/Ok-Umpire3364 提交 [链接] [评论]
+
+---
+
+Original:
+I am always polite while talking to ChatGPT, why did it generate an image like this? submitted by /u/Ok-Umpire3364 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdcgks</guid>
+      <pubDate>Thu, 15 Jan 2026 06:46:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
