@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 05:38:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:50:13 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -750,6 +750,18 @@ Original:
 OpenAI Signs $10 Billion Deal With Cerebras for AI Computing.[1] Generative AI tool“ MechStyle ” helps 3D print personal items that sustain daily use.[2] AI models are starting to crack high-level math problems.[3] California launches investigation into xAI and Grok over sexualized AI images.[4] Sources: [1] https://openai.com/index/cerebras-partnership/ [2] https://news.mit.edu/2026/genai-tool-helps-3d-print-personal-items-sustain-daily-use-0114 [3] https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/ [4] https://www.nbcnews.com/tech/internet/california-investigates-xai-grok-sexualized-ai-images-rcna254056 submitted by /u/Excellent-Target-847 [link] [c…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qdaipm</guid>
       <pubDate>Thu, 15 Jan 2026 05:02:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>智谱AI（Zhipu AI）基于华为技术栈训练首个大型模型，突破美国芯片依赖（GLM-Image） / Zhipu AI breaks US chip reliance with first major model trained on Huawei stack (GLM-Image)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdbld2/zhipu_ai_breaks_us_chip_reliance_with_first_major/</link>
+      <description>由用户/u/jferments提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/jferments [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdbld2</guid>
+      <pubDate>Thu, 15 Jan 2026 05:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

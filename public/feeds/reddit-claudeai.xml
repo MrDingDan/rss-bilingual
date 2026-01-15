@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 05:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:50:33 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1243,6 +1243,23 @@ Original:
 I wanted to share what I built this week because honestly, it still feels like magic. I know frontend development, but I've been wanting to build a bread baking schedule app for a while (sourdough takes ~20 hours and I was tired of setting 12 alarms). The thought of spending weeks on all the JavaScript logic kept stopping me. Then I tried Claude Code. I just... talked to it. Like a client explaining what they want: "I want a dropdown to select different recipes" "Calculate the timestamps based on start time" "Add an ingredients toggle" "Deploy it to GitHub Pages" Done. Done. Done. Done. 3 hours of conversation. That's it. (Okay, plus some waiting for rate limits 😅) The result — Flour Hour :…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qd9kjw</guid>
       <pubDate>Thu, 15 Jan 2026 04:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>险些因Cowork丢失重要文件后，我学到了什么（以及如何安全设置） / What I learned after almost losing important files to Cowork (and how I set it up safely now)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd9xzt/what_i_learned_after_almost_losing_important/</link>
+      <description>看到有人因 rm -rf 式错误误删11GB数据的视频后，我变得有些偏执，决定把Cowork当作强力工具而非聊天框来对待。虽然没丢失重要文件，但早期确实有过“等等…它是不是碰了不该碰的文件夹？”的瞬间，这足以让我在继续使用前转向更安全的设置。分享我现在的做法，或许能帮别人避免一场惊吓。
+
+——我的“Cowork沙盒”方案
+目标：让Cowork易于提供帮助，但难以破坏任何有价值的内容。
+创建一个专用沙盒文件夹 —— ~/cowork-sandbox/（干净、无趣、隔离）
+仅授予Cowork访问该文件夹的权限 —— 绝不访问 ~/、真实的 /Documents 或 /Desktop 或共享文件夹…
+
+---
+
+Original:
+After seeing that clip of someone nuking 11GB with a rm -rf-style mistake, I got paranoid and decided to treat Cowork like a power tool, not a chatbox. I didn't lose anything major, but I did have a "wait… did it just touch the wrong folder?" moment early on, and that was enough to force me into a safer setup before going any further. Sharing what I do now in case it saves someone else a heart attack. — MY "COWORK SANDBOX" APPROACH Goal: make it easy for Cowork to help, but hard for Cowork to destroy anything valuable. Create a dedicated sandbox folder — ~/cowork-sandbox/ (clean, boring, isolated) Only grant Cowork access to that folder — Never ~/, never real /Documents or /Desktop or shared…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd9xzt</guid>
+      <pubDate>Thu, 15 Jan 2026 04:33:51 +0000</pubDate>
     </item>
     <item>
       <title>Cowork vs Goose vs KIRA vs Claude Code——有人实际做过对比测试吗？ / Cowork vs Goose vs KIRA vs Claude Code - has anyone actually tested these head-to-head?</title>

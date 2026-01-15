@@ -895,7 +895,16 @@
     "reddit-askreddit::t3_1qd9543": 1768455550,
     "reddit-android::t3_1qdaqkb": 1768455554,
     "reddit-android::t3_1qdb4hj": 1768455559,
-    "xgo-f299207d::2011655979461722587": 1768455567
+    "xgo-f299207d::2011655979461722587": 1768455567,
+    "reddit-ai-agents::t3_1qdc7p0": 1768459807,
+    "reddit-artificial::t3_1qdbld2": 1768459813,
+    "reddit-chatgpt::t3_1qdb7af": 1768459821,
+    "reddit-claudeai::t3_1qd9xzt": 1768459833,
+    "reddit-openai::t3_1qdc2sr": 1768459840,
+    "reddit-bard::t3_1qdchg4": 1768459847,
+    "reddit-bard::t3_1qdbzi1": 1768459852,
+    "reddit-askreddit::t3_1qd9t1t": 1768459859,
+    "reddit-android::t3_1qdbm42": 1768459864
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4445,6 +4454,42 @@
     "93878570d7a2c5ec8ba50a04ae3fbdfdb9d1b99d9b2c83ef07e33a8acb08f576": {
       "zh_title": "快来加入我们团队，让Brace开心起来！",
       "zh_summary": "快来加入我们团队，让Brace开心起来！Brace（@BraceSproul）如果你对新成员加入团队不是这种反应，我担心你的招聘方式可能有问题 🔗 查看引用推文 💬 2 🔄 1 ❤️ 15 👀 1198 📊 3 ⚡ 由 xgo.ing 提供支持"
+    },
+    "e820eaee1e3c74e89ce5129b0a3790b45843f8c27c4dfe87f1301d7c83d3aac5": {
+      "zh_title": "大部分测试时间算力都浪费在注定失败的轨迹上",
+      "zh_summary": "我从事长周期智能体评估已有一段时间，想强调一个我确信许多人正面临的问题。如果你遇到不可预测的延迟或成本激增，可能会扩展至例如推理模型，以分配更多令牌并更好地选择轨迹。然而，吞吐量可能仍会停滞不前，这令人沮丧，因为成功率不稳定。这是模型质量还是编排问题？我认为都不是。我深入分析了执行过程本身，一个清晰的模式浮现出来：大量测试时间算力被浪费在可预测为很可能失败的轨迹上。尽管如此，它们仍在占用测试时间算力……"
+    },
+    "c91eebc0d510fd5ae64dc6ad490de65c9b8c3cf34e0ba66f8f3529f31788b429": {
+      "zh_title": "智谱AI（Zhipu AI）基于华为技术栈训练首个大型模型，突破美国芯片依赖（GLM-Image）",
+      "zh_summary": "由用户/u/jferments提交 [链接] [评论]"
+    },
+    "ea1970bcab4bf78f4d91701c31e404f934955de59d37df9381605f1fe8cf53dd": {
+      "zh_title": "三大顶尖AI模型中有两个不剃球",
+      "zh_summary": "由 /u/FrickinLardCarcass 提交 [链接] [评论]"
+    },
+    "49564d59486ca2251c191b4df06a37d2799289f155b4748d9c47fd79e7c37aa0": {
+      "zh_title": "险些因Cowork丢失重要文件后，我学到了什么（以及如何安全设置）",
+      "zh_summary": "看到有人因 rm -rf 式错误误删11GB数据的视频后，我变得有些偏执，决定把Cowork当作强力工具而非聊天框来对待。虽然没丢失重要文件，但早期确实有过“等等…它是不是碰了不该碰的文件夹？”的瞬间，这足以让我在继续使用前转向更安全的设置。分享我现在的做法，或许能帮别人避免一场惊吓。\n\n——我的“Cowork沙盒”方案\n目标：让Cowork易于提供帮助，但难以破坏任何有价值的内容。\n创建一个专用沙盒文件夹 —— ~/cowork-sandbox/（干净、无趣、隔离）\n仅授予Cowork访问该文件夹的权限 —— 绝不访问 ~/、真实的 /Documents 或 /Desktop 或共享文件夹…"
+    },
+    "5626cf015078ad1a055d60b1fdfa85a473c2f0c42211633e999d072249bb00c1": {
+      "zh_title": "为什么5.2思维这么差？让它把盒子尺寸从厘米换算成英寸，结果搞成这样，对比下一张幻灯片里的5.1思维。希望他们永远别下架5.1思维",
+      "zh_summary": "5.2思维对比5.1思维，由/u/jacobson_engineering提交 [链接] [评论]"
+    },
+    "8347b1711d287d11ce14cf84ec978663a8df9d28b0a912b7b9857da386a34cab": {
+      "zh_title": "Gemini（双子座）变得固执己见",
+      "zh_summary": "大家在长对话中遇到过Gemini固执的情况吗？我在讨论一个非常难的理科话题时，Gemini 3.0 Pro总说自己没错。它甚至试图拒绝任何证据，包括知名期刊的研究论文。直到20条消息后，它才开始承认从一开始就存在致命且系统性的错误。由 /u/MistrRiver 提交 [链接] [评论]"
+    },
+    "ff1670933eb99fe7587ec63cf156f1ff176a1ecc30c097fcd63a28df8190e278": {
+      "zh_title": "KYC验证现已失效 😱",
+      "zh_summary": "由 /u/IshigamiSenku04 提交 [链接] [评论]"
+    },
+    "fdb7b28d1320eac76f6aef0f79ace7d3d8b63d9aa8d636f0a168eef7a7813d9f": {
+      "zh_title": "那些在Reddit上发布露骨照片还露脸的朋友，你们就不怕被熟人认出来吗？",
+      "zh_summary": "由 /u/Gemini5846 提交 [链接] [评论]"
+    },
+    "9cf3dcd928f6dc9659ebc97b43f10d4f8985365987d766ffbf5d81394e6c1832": {
+      "zh_title": "谷歌Pixel 10a价格与发布日期一同泄露",
+      "zh_summary": "由/u/mo_leahq提交 [链接] [评论]"
     }
   }
 }

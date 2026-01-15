@@ -6,117 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 05:39:28 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_claudeai] Claude Code V2 完全指南：CLAUDE.md、MCP、命令、技能与钩子——根据您的反馈更新 / The Complete Guide to Claude Code V2: CLAUDE.md, MCP, Commands, Skills &amp; Hooks — Updated Based on Your Feedback</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcwckg/the_complete_guide_to_claude_code_v2_claudemd_mcp/</link>
-      <description>Claude Code V2 完全指南：全局 CLAUDE.md、MCP 服务器、命令、技能、钩子，以及为何单一用途聊天很重要 🎉 根据社区反馈更新。这是之前爆火指南的 V2 版本。衷心感谢 u/headset38、u/tulensrma、u/jcheroske 以及所有评论者。你们指出 CLAUDE.md 规则只是 Claude 可能忽略的建议——你们是对的。此版本新增了第 7 部分：技能与钩子，涵盖了强制执行层。V2 的新内容：- 第 7 部分：技能与钩子——对行为建议的确定性强制执行 - 附带即用模板、钩子和技能的 GitHub 仓库。TL;DR：您的全局 ~/.claude/CLAUDE.md 是一个安全守门员，可防止安全…
-
----
-
-Original:
-The Complete Guide to Claude Code V2: Global CLAUDE.md, MCP Servers, Commands, Skills, Hooks, and Why Single-Purpose Chats Matter 🎉 Updated Based on Community Feedback This is V2 of the guide that went viral. Huge thanks to u/headset38 , u/tulensrma , u/jcheroske , and everyone who commented. You pointed out that CLAUDE.md rules are suggestions Claude can ignore — and you were right. This version adds Part 7: Skills &amp; Hooks covering the enforcement layer. What's new in V2: - Part 7: Skills &amp; Hooks — deterministic enforcement over behavioral suggestion - GitHub repo with ready-to-use templates, hooks, and skills TL;DR: Your global ~/.claude/CLAUDE.md is a security gatekeeper that prevents sec…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcwckg</guid>
-      <pubDate>Wed, 14 Jan 2026 19:11:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] Gemini（双子座）现已支持扫描照片、邮件等内容以提供更佳回答 | 该功能初期仅限付费用户使用，默认处于关闭状态 / Gemini can now scan your photos, email, and more to provide better answers | The feature will start with paid users only, and it’s off by default.</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qcwigc/gemini_can_now_scan_your_photos_email_and_more_to/</link>
-      <description>由用户/u/ControlCAD提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/ControlCAD [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qcwigc</guid>
-      <pubDate>Wed, 14 Jan 2026 19:17:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 米沙尔·拉赫曼（Mishaal Rahman）将退出安卓新闻界 / Mishaal Rahman is quitting the Android news world</title>
-      <link>https://www.reddit.com/r/Android/comments/1qcwixx/mishaal_rahman_is_quitting_the_android_news_world/</link>
-      <description>由用户 /u/archon810 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/archon810 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qcwixx</guid>
-      <pubDate>Wed, 14 Jan 2026 19:18:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 如果超级英雄真实存在，这些照片就是证据 / If superheroes were real, these photos would be evidence</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcwkpa/if_superheroes_were_real_these_photos_would_be/</link>
-      <description>由用户 /u/Griexus 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Griexus [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcwkpa</guid>
-      <pubDate>Wed, 14 Jan 2026 19:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 语音AI助手开发指南 / Voice AI Agent Guidance</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcwp0g/voice_ai_agent_guidance/</link>
-      <description>大家好，我正在做一个课程项目，需要构建能够主动拨打电话、操作交互式语音应答系统、联系客服代表并与之交互以传递客户信息、获取公司服务详情的语音AI助手。由于涉及客户数据，隐私与合规性是重点考量。我想请教各位经验丰富的同行，推荐一套技术方案，用于构建低延迟且AI幻觉效应最小的系统。我的目标是尽可能控制成本，并最终将其开源。当然，为演示需要，我也考虑使用订阅制服务……
-
----
-
-Original:
-Hi folks, I am working on a course project that involves building Voice AI agents capable of initiating calls, navigating the Interactive Voice Response System, reaching a support agent, and interacting with them to relay customer information and capture details about the services offered by the company. Since this involves customer data, privacy and compliance are major concerns. I wanted to get input from veterans here on a recommended tech stack for building such a system with low latency and minimal hallucinations on the AI side. My goal is to keep the solution as cost-effective as possible and eventually make it open-source. That said, for demo purposes, I’m open to using subscription-b…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcwp0g</guid>
-      <pubDate>Wed, 14 Jan 2026 19:24:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 一加15（Oneplus 15）体验分享 / Oneplus 15 Is....</title>
-      <link>https://www.reddit.com/r/Android/comments/1qcwpyz/oneplus_15_is/</link>
-      <description>我平时几乎不在网上写东西，连评论都很少发，更别说在Reddit发帖了（我甚至不用Reddit）。但最近我买了一部一加15（之前用的是三星Z Fold 5，再之前是Nothing Phone 2、1和一加8T）。简单来说，相机表现很棒：总有人喜欢抱怨，但一加15的相机非常出色，我敢打赌在盲测中没人能把它和iPhone 17 Pro Max、三星S25 Ultra或OPPO Find X9 Pro等机型区分开。系统体验极其流畅：我原本喜欢Nothing OS的简洁，但感觉有些平淡；One UI简直糟糕——优化不足，为了堆功能而牺牲了打磨。但2026年的OxygenOS（OOS）用起来太舒服了，速度快得惊人，而且……
-
----
-
-Original:
-I usually NEVER write anything online. Not even comments, let alone reddit posts (I dont even use reddit) But I recently bought a oneplus 15 (from a z fold 5, and previous to that Nothing phone 2, 1, &amp; oneplus 8t). And wow To keep it brief The cameras are good: People like to complain. The cameras are exceptional and Id bet on a blind test no one will spot out the op15 out of from an iphone 17 pro max, s25u, find x 9 pro etc... The os feels so damn polished. I really liked the simplicity of nothing os. But it felt bland, One UI is straight trash; unoptimized &amp; felt like it was cutting corners with polishing for the sake of features. But oos in 2026 feels soooo good. INSANELY fast, and the an…</description>
-      <guid isPermaLink="false">reddit-android::t3_1qcwpyz</guid>
-      <pubDate>Wed, 14 Jan 2026 19:25:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 操纵对AI确实有效 / Manipulation do work on ai</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcwtr3/manipulation_do_work_on_ai/</link>
-      <description>😂😂 由 /u/data_user_ 提交 [链接] [评论]
-
----
-
-Original:
-😂😂 submitted by /u/data_user_ [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcwtr3</guid>
-      <pubDate>Wed, 14 Jan 2026 19:29:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 《怪奇物语》第九集 / Stranger Things Episode 9</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcwy8n/stranger_things_episode_9/</link>
-      <description>这件事确实令人心惊，不仅因为被名人诈骗，还涉及演员的知识产权问题。由 /u/ukbeasts 提交 [链接] [评论]
-
----
-
-Original:
-This is pretty scary, both for being scammed by a celeb, but also actors' intellectual property. submitted by /u/ukbeasts [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcwy8n</guid>
-      <pubDate>Wed, 14 Jan 2026 19:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[xgo_f299207d] 喜欢“长视野智能体”这个术语 / love the terminology of "long horizon agents"
-
-they've really started to take off in coding, and def...</title>
-      <link>https://x.com/hwchase17/status/2011522472613724350</link>
-      <description>喜欢“长视野智能体”这个术语，它们确实在编码领域开始崭露头角，某些时刻甚至让人感觉像是“通用人工智能”。期待2026年看到每个行业都出现长视野智能体。Pat Grady（@gradypb） x.com/i/article/2011… 🔗 查看引用推文 💬 3 🔄 2 ❤️ 6 👀 1220 📊 4 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-love the terminology of "long horizon agents" they've really started to take off in coding, and definitely in some moments can fee like "agi" excited to see long horizon agents for every industry in 2026 Pat Grady @gradypb x.com/i/article/2011… 🔗 View Quoted Tweet 💬 3 🔄 2 ❤️ 6 👀 1220 📊 4 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::2011522472613724350</guid>
-      <pubDate>Wed, 14 Jan 2026 19:35:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 06:51:06 +0000</lastBuildDate>
     <item>
       <title>[reddit_chatgpt] 字面意思 / Literally</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qcx33p/literally/</link>
@@ -1313,6 +1203,18 @@ come join our team and make brace happy! Brace @BraceSproul if this isn’t how 
       <pubDate>Thu, 15 Jan 2026 04:25:34 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 那些在Reddit上发布露骨照片还露脸的朋友，你们就不怕被熟人认出来吗？ / Those of you who post NSFW pics on Reddit with your face, how are you not afraid of being recognised by someone you know?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd9t1t/those_of_you_who_post_nsfw_pics_on_reddit_with/</link>
+      <description>由 /u/Gemini5846 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gemini5846 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd9t1t</guid>
+      <pubDate>Thu, 15 Jan 2026 04:27:11 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 有没有类似Claude Cowork的功能，无需等待Claude Cowork发布？ / Current Claude Cowork-like capabilities without waiting for Claude Cowork?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qd9v4o/current_claude_coworklike_capabilities_without/</link>
       <description>我正在积极寻找类似最近发布的Claude Cowork的工具。目前，我使用Windsurf和Cursor这类软件开发IDE来处理同一非技术项目下的多个文档。效果尚可，但它们缺乏对非技术主题的研究能力。如果你尝试过任何有效的工具，能否分享一下？由/u/horace_yip提交 [链接] [评论]
@@ -1335,6 +1237,23 @@ Original:
 Hey everyone, I'm seeing a massive difference in token usage when doing **vision/image analysis** with OpenAI models (GPT-4o and GPT-4.1), depending on whether I use Chat Completions API or Assistants API. Same prompt, same images, same task — but completely different costs. **Chat Completions API** (passing images via image_url in messages): - GPT-4o: ~7036, 7422, 7412, 7414 tokens per run - GPT-4.1: ~7046, 7243, 7241 tokens **Assistants API** (uploading images to storage once, then referencing file_ids in the thread): - GPT-4o: ~1372, 1451 tokens - GPT-4.1: ~1364, 1786 tokens → Assistants is using **4–5× fewer tokens** overall for basically identical visual understanding. The only real dif…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qd9wws</guid>
       <pubDate>Thu, 15 Jan 2026 04:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 险些因Cowork丢失重要文件后，我学到了什么（以及如何安全设置） / What I learned after almost losing important files to Cowork (and how I set it up safely now)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd9xzt/what_i_learned_after_almost_losing_important/</link>
+      <description>看到有人因 rm -rf 式错误误删11GB数据的视频后，我变得有些偏执，决定把Cowork当作强力工具而非聊天框来对待。虽然没丢失重要文件，但早期确实有过“等等…它是不是碰了不该碰的文件夹？”的瞬间，这足以让我在继续使用前转向更安全的设置。分享我现在的做法，或许能帮别人避免一场惊吓。
+
+——我的“Cowork沙盒”方案
+目标：让Cowork易于提供帮助，但难以破坏任何有价值的内容。
+创建一个专用沙盒文件夹 —— ~/cowork-sandbox/（干净、无趣、隔离）
+仅授予Cowork访问该文件夹的权限 —— 绝不访问 ~/、真实的 /Documents 或 /Desktop 或共享文件夹…
+
+---
+
+Original:
+After seeing that clip of someone nuking 11GB with a rm -rf-style mistake, I got paranoid and decided to treat Cowork like a power tool, not a chatbox. I didn't lose anything major, but I did have a "wait… did it just touch the wrong folder?" moment early on, and that was enough to force me into a safer setup before going any further. Sharing what I do now in case it saves someone else a heart attack. — MY "COWORK SANDBOX" APPROACH Goal: make it easy for Cowork to help, but hard for Cowork to destroy anything valuable. Create a dedicated sandbox folder — ~/cowork-sandbox/ (clean, boring, isolated) Only grant Cowork access to that folder — Never ~/, never real /Documents or /Desktop or shared…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd9xzt</guid>
+      <pubDate>Thu, 15 Jan 2026 04:33:51 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_openai] 像素城市 / Pixel City</title>
@@ -1455,6 +1374,90 @@ Original:
 submitted by /u/noobqns [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qdb4hj</guid>
       <pubDate>Thu, 15 Jan 2026 05:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 三大顶尖AI模型中有两个不剃球 / Two out of three top AI models don’t shave their balls.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdb7af/two_out_of_three_top_ai_models_dont_shave_their/</link>
+      <description>由 /u/FrickinLardCarcass 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FrickinLardCarcass [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdb7af</guid>
+      <pubDate>Thu, 15 Jan 2026 05:37:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 智谱AI（Zhipu AI）基于华为技术栈训练首个大型模型，突破美国芯片依赖（GLM-Image） / Zhipu AI breaks US chip reliance with first major model trained on Huawei stack (GLM-Image)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdbld2/zhipu_ai_breaks_us_chip_reliance_with_first_major/</link>
+      <description>由用户/u/jferments提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/jferments [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdbld2</guid>
+      <pubDate>Thu, 15 Jan 2026 05:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 谷歌Pixel 10a价格与发布日期一同泄露 / Google Pixel 10a price leaks along with its release date</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdbm42/google_pixel_10a_price_leaks_along_with_its/</link>
+      <description>由/u/mo_leahq提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/mo_leahq [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdbm42</guid>
+      <pubDate>Thu, 15 Jan 2026 05:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] KYC验证现已失效 😱 / Kyc verification is dead now 😱</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdbzi1/kyc_verification_is_dead_now/</link>
+      <description>由 /u/IshigamiSenku04 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/IshigamiSenku04 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdbzi1</guid>
+      <pubDate>Thu, 15 Jan 2026 06:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 为什么5.2思维这么差？让它把盒子尺寸从厘米换算成英寸，结果搞成这样，对比下一张幻灯片里的5.1思维。希望他们永远别下架5.1思维 / why is 5.2 thinking so bad? asked it to convert box sizes from cm to inches and it did this, compared to 5.1 thinking in next slide. Hope they never take down 5.1 thinking</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdc2sr/why_is_52_thinking_so_bad_asked_it_to_convert_box/</link>
+      <description>5.2思维对比5.1思维，由/u/jacobson_engineering提交 [链接] [评论]
+
+---
+
+Original:
+5.2 thinking 5.1 thinking submitted by /u/jacobson_engineering [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdc2sr</guid>
+      <pubDate>Thu, 15 Jan 2026 06:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 大部分测试时间算力都浪费在注定失败的轨迹上 / Most test time compute is wasted on trajectories that were never going to succeed</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdc7p0/most_test_time_compute_is_wasted_on_trajectories/</link>
+      <description>我从事长周期智能体评估已有一段时间，想强调一个我确信许多人正面临的问题。如果你遇到不可预测的延迟或成本激增，可能会扩展至例如推理模型，以分配更多令牌并更好地选择轨迹。然而，吞吐量可能仍会停滞不前，这令人沮丧，因为成功率不稳定。这是模型质量还是编排问题？我认为都不是。我深入分析了执行过程本身，一个清晰的模式浮现出来：大量测试时间算力被浪费在可预测为很可能失败的轨迹上。尽管如此，它们仍在占用测试时间算力……
+
+---
+
+Original:
+I’ve been working on long-horizon agent evaluations for a while now and wanted to highlight one of the problems I’m sure many are facing. If you’re experiencing unpredictable latency, a spike in costs, you may scale to e.g. a reasoning model to allocate more tokens and choose trajectories better. However throughput might still plateau and that can be frustrating because you’re getting inconsistent success rates. Is it a model quality or orchestration issue? I don’t think so. I dug into the executions themselves and a clear pattern emerged. A large share of test time compute was being wasted on trajectories that could be forecast as likely unsuccessful. Despite that, they were hogging TTC unt…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdc7p0</guid>
+      <pubDate>Thu, 15 Jan 2026 06:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini（双子座）变得固执己见 / Gemini becomes stubborn</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdchg4/gemini_becomes_stubborn/</link>
+      <description>大家在长对话中遇到过Gemini固执的情况吗？我在讨论一个非常难的理科话题时，Gemini 3.0 Pro总说自己没错。它甚至试图拒绝任何证据，包括知名期刊的研究论文。直到20条消息后，它才开始承认从一开始就存在致命且系统性的错误。由 /u/MistrRiver 提交 [链接] [评论]
+
+---
+
+Original:
+Did any of you experience Gemini stubborn on long threads? When I was discussing on a very hard science topic, Gemini 3.0 Pro always say it isnt wrong. It even try to reject any evidence, including research papers from well-known journals. Only after 20 messages, it started to admit a fatal and systematic failure from the beginning. submitted by /u/MistrRiver [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdchg4</guid>
+      <pubDate>Thu, 15 Jan 2026 06:47:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

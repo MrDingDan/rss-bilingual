@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 05:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:50:52 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -762,6 +762,30 @@ Original:
 Did Google just bump up the usage limits across all models? Earlier, it used to be around 100 prompts per day, with Pro and Thinking sharing the same quota. But now it looks like we’re effectively getting up to 400 prompts per day, which could be huge, especially for image generation. It also seems like the AI Plus plan now has more quota than AI Pro did before this update. Has anyone tested the new limits yet? Any Plus, Pro, or Ultra users here who can share their experience? https://support.google.com/gemini/answer/16275805?hl=en submitted by /u/BroKenLight6 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qd965n</guid>
       <pubDate>Thu, 15 Jan 2026 03:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>KYC验证现已失效 😱 / Kyc verification is dead now 😱</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdbzi1/kyc_verification_is_dead_now/</link>
+      <description>由 /u/IshigamiSenku04 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/IshigamiSenku04 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdbzi1</guid>
+      <pubDate>Thu, 15 Jan 2026 06:19:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini（双子座）变得固执己见 / Gemini becomes stubborn</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdchg4/gemini_becomes_stubborn/</link>
+      <description>大家在长对话中遇到过Gemini固执的情况吗？我在讨论一个非常难的理科话题时，Gemini 3.0 Pro总说自己没错。它甚至试图拒绝任何证据，包括知名期刊的研究论文。直到20条消息后，它才开始承认从一开始就存在致命且系统性的错误。由 /u/MistrRiver 提交 [链接] [评论]
+
+---
+
+Original:
+Did any of you experience Gemini stubborn on long threads? When I was discussing on a very hard science topic, Gemini 3.0 Pro always say it isnt wrong. It even try to reject any evidence, including research papers from well-known journals. Only after 20 messages, it started to admit a fatal and systematic failure from the beginning. submitted by /u/MistrRiver [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdchg4</guid>
+      <pubDate>Thu, 15 Jan 2026 06:47:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

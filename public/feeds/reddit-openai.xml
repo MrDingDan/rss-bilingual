@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 05:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:50:40 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1124,6 +1124,18 @@ Original:
 Prompt done my ChatGPT submitted by /u/memerwala_londa [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qda324</guid>
       <pubDate>Thu, 15 Jan 2026 04:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>为什么5.2思维这么差？让它把盒子尺寸从厘米换算成英寸，结果搞成这样，对比下一张幻灯片里的5.1思维。希望他们永远别下架5.1思维 / why is 5.2 thinking so bad? asked it to convert box sizes from cm to inches and it did this, compared to 5.1 thinking in next slide. Hope they never take down 5.1 thinking</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdc2sr/why_is_52_thinking_so_bad_asked_it_to_convert_box/</link>
+      <description>5.2思维对比5.1思维，由/u/jacobson_engineering提交 [链接] [评论]
+
+---
+
+Original:
+5.2 thinking 5.1 thinking submitted by /u/jacobson_engineering [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdc2sr</guid>
+      <pubDate>Thu, 15 Jan 2026 06:24:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
