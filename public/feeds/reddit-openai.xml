@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 16:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 17:48:25 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1292,6 +1292,66 @@ Original:
 I love how fast ChatGPT is, but I’m sick of one specific failure mode: it’ll answer like it’s 100% sure, then later you find out it was guessing because the thing was time-sensitive, plan-specific, or just not verifiable. I don’t want more “as an AI…” disclaimers. I want a simple UI toggle that forces the model to be honest in a useful way. What I’m imagining: When the toggle is ON, every important claim is tagged as fact vs inference vs unknown, plus a confidence level, plus where it’s coming from (tool output, web, user-provided, calculation). And if it later contradicts itself, it auto-spits a short “correction triggered” block instead of pretending nothing happened. This would save me ho…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdocd5</guid>
       <pubDate>Thu, 15 Jan 2026 16:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>广义相对论提供事件，量子力学提供无事实的过程，心灵哲学要求明确的内部信息。三者共同指向一个不变量：事件局域经典信息，可形式化为从因果结构到经典状态的函子。 / General relativity gives events, quantum mechanics gives process without facts, and philosophy of mind requires definite internal information. Together they converge on one invariant: event-local classical information, formalizable as a functor from causal structure to classical states.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdoujd/general_relativity_gives_events_quantum_mechanics/</link>
+      <description>摘要：我们提出了一个统一广义相对论、量子力学和心灵哲学的框架，基于一个共同的结构不变量：事件局域经典信息。广义相对论提供了一个按因果优先排序的事件范畴，而量子力学则提供了无内在事实选择的动力学结构。心灵哲学突显了一个平行的解释鸿沟：纯粹结构描述无法推导出第一人称确定性。我们使用两个析取三段论的普遍双条件式形式化这两个鸿沟：在物理学中，要么幺正动力学解释完备，要么必须存在确定记录；在心灵中，要么结构还原……
+
+---
+
+Original:
+Abstract We propose a unifying framework for general relativity, quantum mechanics, and philosophy of mind based on a shared structural invariant: event-local classical information . General relativity supplies a category of events ordered by causal precedence, while quantum mechanics supplies dynamical structure without intrinsic fact selection. Philosophy of mind highlights a parallel explanatory gap: purely structural descriptions fail to entail first-person definiteness. We formalize both gaps using a universal biconditional of two disjunctive syllogisms : in physics, either unitary dynamics is explanatorily complete or definite records must exist; in mind, either structural reduction is…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdoujd</guid>
+      <pubDate>Thu, 15 Jan 2026 16:53:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
+      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
+
+---
+
+Original:
+Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>有人获得OpenAI计算机使用预览模型的访问权限吗？ / Does anyone has access to OpenAI Computer Use Preview Model?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdpj5y/does_anyone_has_access_to_openai_computer_use/</link>
+      <description>据我所知，计算机使用预览模型目前仅对OpenAI三级至五级用户开放。请问你们当中有人获得这个权限了吗？是否已经试用过？由用户/u/Trick_Progress287提交 [链接] [评论]
+
+---
+
+Original:
+What I have read is that computer-use-preview model is available only for tier 3-5 openai users. Has anyone of you received this access? Have you tried it? submitted by /u/Trick_Progress287 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdpj5y</guid>
+      <pubDate>Thu, 15 Jan 2026 17:18:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT助你棋艺精进，轻松战胜所有朋友 / ChatGPT plan to beat all your friends at chess</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdq01g/chatgpt_plan_to_beat_all_your_friends_at_chess/</link>
+      <description>在与ChatGPT探讨如何提升棋艺、击败所有朋友时，它给出了一个明确的答案：通过直接反馈进行模式识别。每个战术主题、每个格子、每个棋子都要掌握。起初这听起来令人望而却步——毕竟有大约55个核心战术主题。但经过计算，即使这意味着要解大约21,000道谜题，按每道30秒算，也只需175小时的练习，或者换算成快棋，相当于525局。原本觉得不可能的事，突然变成了一个可行的计划。带着这个思路，我利用GPT-5.2和vibecoding技术实现了它。你可以通过先掌握每个主题中的一个兵，然后是马，再逐步推进，从而确保再也不会错过这些制胜模式……
+
+---
+
+Original:
+While chatting with ChatGPT about how to get good enough at chess to beat all my friends, he gave me one clear answer: pattern recognition with direct feedback . Every theme, every square, every piece. At first, it sounded overwhelming; there are about 55 core tactical themes . But then I did the math. Even if that’s around 21,000 puzzles , at 30 seconds each, it’s just 175 hours of practice, or in chess terms, 525 rapid games. What felt impossible suddenly became… a plan. Empowered with this knowledge, I used GPT-5.2 and vibecoded the thing. You can solve puzzles and themes by first mastering one pawn in each theme, then knight, then another, so that you never miss this winning pattern agai…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdq01g</guid>
+      <pubDate>Thu, 15 Jan 2026 17:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>人工智能革命正在改变每个工作场所 / The AI revolution transforming every workplace.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdq1ox/the_ai_revolution_transforming_every_workplace/</link>
+      <description>人工智能改变工作的速度超乎想象。机器能够思考、分析甚至创造——但这对于职场中的人类意味着什么？我们准备好迎接未来了吗？ 由 /u/Novel_Negotiation224 提交 [链接] [评论]
+
+---
+
+Original:
+AI is changing work faster than we can imagine. Machines can think, analyze, and even create—but what does that mean for humans in the workplace? Are we ready for the future? submitted by /u/Novel_Negotiation224 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdq1ox</guid>
+      <pubDate>Thu, 15 Jan 2026 17:36:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 16:51:25 +0000</lastBuildDate>
-    <item>
-      <title>有人注意到最近ChatGPT说话的这种“韵律”吗？ / Anyone else notice this "rhythm" in ChatGPT speech lately?</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qaratw/anyone_else_notice_this_rhythm_in_chatgpt_speech/</link>
-      <description>我可能有点魔怔了，但最近几个月，我总在写作中反复看到这种节奏：“没有这个，没有那个，只有X。”“A，但是B。C，但是D。”“A？是的。B？不。”我不确定这是因为用户倾向于选择包含这类简洁“和谐平行结构”的回复，还是背后有其他原因。我发现这被称为“三句式”或“等长平行结构”，但我很好奇其他人是否也注意到了这一点，以及你是否知道这是大众的普遍偏好，还是像经典‘delve’例子那样，这类平行结构本身就更受大语言模型（LLM）青睐。由/u/Ubister提交 [链接] [评论]
-
----
-
-Original:
-I might be going crazy, but in the last months I keep seeing this rhythm in writing over and over again: "No this, no that, just X." "A, but B. C, but D." "A? Yes. B? No." I'm not sure if this is because of users nudging prefered responses to include these type of snappy "harmonic parallels", or something else behind the scenes. I've found these are called "tricolons" or "isocolons", but I'm curious if others see this too, and if you know if this is a democratic preference, or parallelisms like these being known to be prefered by the LLM itself (as with the classic 'delve' example) submitted by /u/Ubister [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qaratw</guid>
-      <pubDate>Mon, 12 Jan 2026 10:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>每当我看到“根据我们的关系创作一幅图像—— / Whenever I see “Create an image of our relationship based on-</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qarli7/whenever_i_see_create_an_image_of_our/</link>
-      <description>不——😭 由用户 /u/FluffyPace537 提交 [链接] [评论]
-
----
-
-Original:
-Noooo😭 submitted by /u/FluffyPace537 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qarli7</guid>
-      <pubDate>Mon, 12 Jan 2026 10:37:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>这到底是什么玩意儿… / What the F is this…</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qas6dn/what_the_f_is_this/</link>
-      <description>由 /u/MukulIND 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MukulIND [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qas6dn</guid>
-      <pubDate>Mon, 12 Jan 2026 11:11:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 17:47:39 +0000</lastBuildDate>
     <item>
       <title>为什么我的ChatGPT计划蒙住我的眼睛并强迫我进食？ / Why does my chatGPT plan to blindfold and forcefeed me?</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qat0if/why_does_my_chatgpt_plan_to_blindfold_and/</link>
@@ -1452,6 +1416,42 @@ Original:
 submitted by /u/Vlaxilla [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdmu7o</guid>
       <pubDate>Thu, 15 Jan 2026 15:40:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>好吧，ChatGPT 这次真让我惊艳了 / OKAY. So ChatGPT just did something that wowed me</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdnu4g/okay_so_chatgpt_just_did_something_that_wowed_me/</link>
+      <description>我是一位年过六旬的学者，最近常常脑子短路——想引用一些内容，却因为记不清作者名字之类的原因，在电脑里死活找不到文件。今天，我告诉 GPT：主题内容、大致出版年份（比如“大约十年前”）、作者是一位在女性主义框架下工作的女性，且“可能是加拿大人、英国人或美国人”，还有“我记得这本书的封面可能是白色，上面有些红色字迹”——结果它第一次尝试就准确找到了那本书。最让我惊叹的是，它居然能利用封面颜色这种信息来锁定目标，毕竟我连实体书店都跑过不少次……
+
+---
+
+Original:
+I'm an academic in my early sixties and lately I have a lot of brain farts, where I want to quote something but I can't find the file in my computer because I can't remember the author's name, etc. Today I told GPT: The subject matter, the approximate year of publication (i.e. 'about ten years ago'), the fact that the author was a woman working in a feminist framework who was "either Canadian, British or American" and the detail that "I think the cover of the book might be white with some red lettering" and it pulled up the right book on the FIRST TRY. It was the fact that it was able to use the info that the book was a certain color that wowed me -- because I've gone into brick and mortar b…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdnu4g</guid>
+      <pubDate>Thu, 15 Jan 2026 16:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>它知道 / It Knows</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
+      <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
+
+---
+
+Original:
+Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>虽然跟风晚了，但我觉得自己搞错了... / Late on the trend, but I think i did it wrong...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3w0/late_on_the_trend_but_i_think_i_did_it_wrong/</link>
+      <description>坦白说，我不得不两次澄清，希望它保持在/u/Mushroom_hero提交的指导原则内[链接][评论]
+
+---
+
+Original:
+Full disclosure, I had to clarify twice that I wanted it to stay within its guidelines submitted by /u/Mushroom_hero [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3w0</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

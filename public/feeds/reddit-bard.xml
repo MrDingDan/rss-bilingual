@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 16:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 17:48:31 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -886,14 +886,26 @@ submitted by /u/MyshkinIdiot [link] [comments]</description>
     <item>
       <title>Nano Banana Pro 导致图像发绿并出现噪点 / Nano Banana Pro makes images green and noisy</title>
       <link>https://www.reddit.com/r/Bard/comments/1qdnxmw/nano_banana_pro_makes_images_green_and_noisy/</link>
-      <description>我正在尝试生成一个类似女孩为化妆品做评测的故事，本意是想营造“夜晚/正午”的氛围。但我注意到，每次生成时，如果我将之前生成的图像作为参考，后续图像就会变得充满噪点，并且出现绿色调。你知道为什么会发生这种情况，以及如何修复吗？https://preview.redd.it/fh5fmlwfgjdg1.png?width=2752&amp;format=png&amp;auto=webp&amp;s=d50aa32826bd92c19cecb4b3bcab9f4d901693ce https://preview.redd.it/35kawo1ggjdg1.png?width=2752&amp;format=png&amp;auto=webp&amp;s=16fa29a59564a360d5b34efbbae628fad9501fae https://preview.redd.it/eezluvwfgjdg1.png?width=2752&amp;format=png&amp;auto=webp&amp;s=787686cadb523ec24f734f66592ba8c92f5584fc https://preview.redd.it/wqe5h…
+      <description>我正在尝试生成一个类似女孩为化妆品做评测的故事，本意是想营造“夜晚/正午”的氛围。但我注意到，每次生成时，如果我将之前生成的图像作为参考，后续图像就会变得充满噪点，并且出现绿色调。你知道为什么会发生这种情况，以及如何修复吗？https://preview.redd.it/fh5fmlwfgjdg1.png?width=2752&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d50aa32826bd92c19cecb4b3bcab9f4d901693ce https://preview.redd.it/35kawo1ggjdg1.png?width=2752&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=16fa29a59564a360d5b34efbbae628fad9501fae https://preview.redd.it/eezluvwfgjdg1.png?width=2752&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=787686cadb523ec24f734f66592ba8c92f5584fc https://preview.redd.it/wqe5h…
 
 ---
 
 Original:
-I'm trying to generate a story like the girl makes a review for a cosmetic product. My idea was to make the "night/noon" vibe. But I noticed that with each generation, if I add a previously generated image as a reference, the next images become noisy + green color appears. Do you know why it happens and how to fix it? https://preview.redd.it/fh5fmlwfgjdg1.png?width=2752&amp;format=png&amp;auto=webp&amp;s=d50aa32826bd92c19cecb4b3bcab9f4d901693ce https://preview.redd.it/35kawo1ggjdg1.png?width=2752&amp;format=png&amp;auto=webp&amp;s=16fa29a59564a360d5b34efbbae628fad9501fae https://preview.redd.it/eezluvwfgjdg1.png?width=2752&amp;format=png&amp;auto=webp&amp;s=787686cadb523ec24f734f66592ba8c92f5584fc https://preview.redd.it/wqe5h…</description>
+I'm trying to generate a story like the girl makes a review for a cosmetic product. My idea was to make the "night/noon" vibe. But I noticed that with each generation, if I add a previously generated image as a reference, the next images become noisy + green color appears. Do you know why it happens and how to fix it? https://preview.redd.it/fh5fmlwfgjdg1.png?width=2752&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d50aa32826bd92c19cecb4b3bcab9f4d901693ce https://preview.redd.it/35kawo1ggjdg1.png?width=2752&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=16fa29a59564a360d5b34efbbae628fad9501fae https://preview.redd.it/eezluvwfgjdg1.png?width=2752&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=787686cadb523ec24f734f66592ba8c92f5584fc https://preview.redd.it/wqe5h…</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdnxmw</guid>
       <pubDate>Thu, 15 Jan 2026 16:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>TranslateGemma：一套全新的开源翻译模型 / TranslateGemma: A new suite of open translation models</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdpq85/translategemma_a_new_suite_of_open_translation/</link>
+      <description>由 /u/Gaiden206 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Gaiden206 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdpq85</guid>
+      <pubDate>Thu, 15 Jan 2026 17:24:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

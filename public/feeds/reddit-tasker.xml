@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 16:52:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 17:49:02 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -438,6 +438,18 @@ Original:
 hi i found 2 ways but i dont know why shell pm uninstall --user 0 net.dinglisch.android.taskerm Success &gt;&gt; adb Adb pm shell uninstall net.dinglisch.android.taskerm adb.exe: unknown command Adb &gt;&gt; adb pm shell uninstall net.dinglisch.android.taskerm adb.exe: unknown command pm &gt;&gt; adb uninstall net.dinglisch.android.taskerm Failure [DELETE_FAILED_INTERNAL_ERROR] &gt;&gt; adb uninstall net.dinglisch.android.taskerm Failure [DELETE_FAILED_INTERNAL_ERROR] which one is the right one that i can use with shell directly with Shizuku or ashell submitted by /u/oraklesearch [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdoado</guid>
       <pubDate>Thu, 15 Jan 2026 16:33:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>诚邀美国居民参与快速在线任务 / U.S. Residents Needed for a Quick Online Task</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdq3je/us_residents_needed_for_a_quick_online_task/</link>
+      <description>大家好，我正在寻找几位美国本土的参与者 🇺🇸，协助完成一项简单的在线任务。这是一个正规的短期机会，所有说明都会清晰提供。要求 📌 • 必须位于美国境内 🇺🇸 • 网络连接稳定可靠 • 能够仔细遵循指示 报酬 💰 • 每完成一项任务支付 4–5 美元 • 通过 PayPal 付款 由 /u/WittyWomba-t 提交 [链接] [评论]
+
+---
+
+Original:
+Hello everyone, I’m currently looking for a few U.S.-based participants 🇺🇸 to assist with a simple online task . This is a legitimate, short-term opportunity , and all instructions will be provided clearly. Requirements 📌 • Must be located in the United States 🇺🇸 • Reliable internet connection • Ability to follow instructions carefully Payment 💰 • $4–$5 per completed task • Payment via PayPal submitted by /u/WittyWomba-t [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdq3je</guid>
+      <pubDate>Thu, 15 Jan 2026 17:37:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
