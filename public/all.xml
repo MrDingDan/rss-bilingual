@@ -6,43 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 23:31:36 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_askreddit] 如今人们常说的哪句话让你感到厌烦？ / What's a phrase people use these days that irritates you?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdn4x9/whats_a_phrase_people_use_these_days_that/</link>
-      <description>由用户 /u/showmewhatyagot01 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/showmewhatyagot01 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdn4x9</guid>
-      <pubDate>Thu, 15 Jan 2026 15:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你因为什么原因慢慢不再喜欢一个人，却从未告诉对方？ / What’s a reason you slowly stopped liking someone but never told them?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdnll9/whats_a_reason_you_slowly_stopped_liking_someone/</link>
-      <description>由用户 /u/OkEagle160 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/OkEagle160 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdnll9</guid>
-      <pubDate>Thu, 15 Jan 2026 16:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[xgo_f299207d] 不同目录 / Different directories</title>
-      <link>https://x.com/hwchase17/status/2011833879796260897</link>
-      <description>不同目录 צאצקע @dradosez @hwchase17 谢谢。那每个线程/用户的内存呢？处理这类内存的最佳实践是什么？🔗 查看引用推文 💬 0 🔄 0 ❤️ 0 👀 197 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-Different directories צאצקע @dradosez @hwchase17 Thanks. What about the per thread/user memory? What is the best practice for handling this kind of memory? 🔗 View Quoted Tweet 💬 0 🔄 0 ❤️ 0 👀 197 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::2011833879796260897</guid>
-      <pubDate>Thu, 15 Jan 2026 16:12:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 23:48:17 +0000</lastBuildDate>
     <item>
       <title>[reddit_chatgpt] 好吧，虽然我是个男的，但这大概要让我当上女王了，真有意思 / Well I'm a guy but I guess it's going to make me a queen, how fun</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qdnrfj/well_im_a_guy_but_i_guess_its_going_to_make_me_a/</link>
@@ -306,18 +270,6 @@ submitted by /u/Federal-Block-3275 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_chatgpt] 它知道 / It Knows</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
-      <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
-
----
-
-Original:
-Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
-      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
       <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
@@ -327,6 +279,18 @@ Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</des
 Original:
 Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 它知道 / It Knows</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
+      <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
+
+---
+
+Original:
+Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
     </item>
     <item>
@@ -1404,6 +1368,18 @@ See the exact changes Claude made without leaving the app. Previously you had to
       <pubDate>Thu, 15 Jan 2026 22:22:24 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 当前负面新闻很多。有哪些被忽略的正面消息？ / There’s a lot of negative news at the moment. What’s some positive news that’s flown under the radar?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdy1gd/theres_a_lot_of_negative_news_at_the_moment_whats/</link>
+      <description>由用户/u/WatercressSenior7657提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/WatercressSenior7657 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdy1gd</guid>
+      <pubDate>Thu, 15 Jan 2026 22:30:56 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] Gemini 打造了这款疯狂的炸弹生存游戏 / Gemini created this crazy bomb survival game</title>
       <link>https://www.reddit.com/r/Bard/comments/1qdy87g/gemini_created_this_crazy_bomb_survival_game/</link>
       <description>欢迎来试试！https://gemini.google.com/share/04632be80551 由 /u/Apart_Potato959 提交 [链接] [评论]
@@ -1474,6 +1450,30 @@ Original:
 A lot of people say AI made things easier and lowered the barrier to entry and I’m not sure that’s true. Yes, it’s easier to produce something now. But it’s also much harder to stand out. Everyone has access to the same tools, the same models, the same outputs. The average quality went up, but so did expectations. Mediocre work gets ignored faster than before. In a weird way, AI made it harder to be taken seriously and not easier. Did AI make your work easier to ship, or harder to make it matter? submitted by /u/No_Papaya1620 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdza7s</guid>
       <pubDate>Thu, 15 Jan 2026 23:19:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 别再开发那些服务器一重启就挂掉的“玩具智能体”了。都2026年了，我们需要持久性。 / Stop building "Toy Agents" that die on a server restart. It’s 2026, we need durability.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdzvbd/stop_building_toy_agents_that_die_on_a_server/</link>
+      <description>市面上的大多数智能体都只是脆弱的循环。在终端里看着很酷，但放到生产环境就是噩梦。如果你的智能体正在执行复杂流程的第10步，这时API闪断或进程重启了，会发生什么？通常它就直接挂掉了。状态丢失、令牌浪费，用户也被晾在一边。我正在改变思路，不再把智能体当作简单的脚本，而是转向持久化的工作流。状态应该在基础设施层面持久保存，这样智能体就能从上一步继续执行，而不是从头开始。大家是怎么扩展这个问题的？你们还在每次工具调用后手动把状态存到数据库，还是干脆祈祷连接保持稳定？由 /u/Interesting_Rid… 提交
+
+---
+
+Original:
+Most agents out there are just fragile loops. It looks cool in a terminal, but it's a nightmare for production. If your agent is on step 10 of a complex flow and your API blips or the process restarts, what happens? Usually, it just dies. You lose the state, burn the tokens, and the user gets ghosted. I’m moving away from treating agents as simple scripts and shifting toward durable workflows. The state should be persisted at the infra level so the agent can resume from the last step instead of restarting from zero. How is everyone else scaling this? Are you still manually saving state to a DB after every tool call, or just praying the connection stays stable? submitted by /u/Interesting_Rid…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdzvbd</guid>
+      <pubDate>Thu, 15 Jan 2026 23:43:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini 3 Pro 语音转录恢复功能的问题 / Issues with resuming voice transcription in Gemini 3 Pro</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdzwua/issues_with_resuming_voice_transcription_in/</link>
+      <description>我在使用语音转文字功能时遇到了一个问题。首次转录一切正常，但如果我停止录音（比如为了等背景噪音消失），之后再尝试继续，工具却不允许我从上次中断的地方接着录。目前唯一的变通方法是：先复制已有文本，清空输入框，录制新段落，最后再把所有内容粘贴合并。请问这是 Gemini 3 Pro 的已知限制，还是有特定方法可以在不丢失先前进度的情况下恢复转录？ 由 /u/Jaded_Active_3499 提交 [链接] [评论]
+
+---
+
+Original:
+I'm experiencing an issue with the voice-to-text feature. The first transcription works perfectly. However, if I stop the recording (to wait for background noise to clear, for example) and then try to resume, the tool doesn't allow me to continue where I left off. Currently, my only workaround is to copy the existing text, delete it from the box, record the new segment, and then paste everything back together. Is this a known limitation of Gemini 3 Pro, or is there a specific way to resume a transcription without losing previous progress? submitted by /u/Jaded_Active_3499 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdzwua</guid>
+      <pubDate>Thu, 15 Jan 2026 23:45:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

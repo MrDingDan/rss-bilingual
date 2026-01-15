@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 23:30:55 +0000</lastBuildDate>
-    <item>
-      <title>利用内部客户数据创建AI智能体 / Creating AI Agents with internal customer's data</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbsuyb/creating_ai_agents_with_internal_customers_data/</link>
-      <description>大家好！希望各位一切顺利！我正准备为我们的网页应用添加一些AI智能体。我们正在使用FastAPI和Agno框架。我们希望让客户（用户）能够将他们自己的数据连接到AI智能体，从而获得对其数据更深入的洞察和相关信息。这些数据可能涵盖各类企业资源管理系统（ERMs）、谷歌应用、文档、数据库、GitHub、Jira、Linear等多种来源。最终我们希望支持所有类型的数据接入。这方面有哪些最佳实践？其他公司是如何实现这类集成的？非常感谢！由/u/Separate_Bid_8352提交 [链接] [评论]
-
----
-
-Original:
-Hey everyone! Hope you are all doing well! I am about to add some AI Agents to our web app. We are using FastAPI and Agno. We would like to let customers (users) to connect their own data to the AI Agent, to get better insights and relevant information for their data. This data can range from different kinds of ERMs, Google apps, docs, databases, GitHub, Jira, Linear, etc. Eventually we would like to support everything. What are the best practices about that? How are other companies doing such integrations? Thanks a lot!!! submitted by /u/Separate_Bid_8352 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbsuyb</guid>
-      <pubDate>Tue, 13 Jan 2026 14:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 23:47:57 +0000</lastBuildDate>
     <item>
       <title>我卖出了第一个智能体（Agent），接下来呢？ / I've sold my first Agent, now what?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbtc95/ive_sold_my_first_agent_now_what/</link>
@@ -1464,6 +1452,18 @@ Original:
 A lot of people say AI made things easier and lowered the barrier to entry and I’m not sure that’s true. Yes, it’s easier to produce something now. But it’s also much harder to stand out. Everyone has access to the same tools, the same models, the same outputs. The average quality went up, but so did expectations. Mediocre work gets ignored faster than before. In a weird way, AI made it harder to be taken seriously and not easier. Did AI make your work easier to ship, or harder to make it matter? submitted by /u/No_Papaya1620 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdza7s</guid>
       <pubDate>Thu, 15 Jan 2026 23:19:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>别再开发那些服务器一重启就挂掉的“玩具智能体”了。都2026年了，我们需要持久性。 / Stop building "Toy Agents" that die on a server restart. It’s 2026, we need durability.</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdzvbd/stop_building_toy_agents_that_die_on_a_server/</link>
+      <description>市面上的大多数智能体都只是脆弱的循环。在终端里看着很酷，但放到生产环境就是噩梦。如果你的智能体正在执行复杂流程的第10步，这时API闪断或进程重启了，会发生什么？通常它就直接挂掉了。状态丢失、令牌浪费，用户也被晾在一边。我正在改变思路，不再把智能体当作简单的脚本，而是转向持久化的工作流。状态应该在基础设施层面持久保存，这样智能体就能从上一步继续执行，而不是从头开始。大家是怎么扩展这个问题的？你们还在每次工具调用后手动把状态存到数据库，还是干脆祈祷连接保持稳定？由 /u/Interesting_Rid… 提交
+
+---
+
+Original:
+Most agents out there are just fragile loops. It looks cool in a terminal, but it's a nightmare for production. If your agent is on step 10 of a complex flow and your API blips or the process restarts, what happens? Usually, it just dies. You lose the state, burn the tokens, and the user gets ghosted. I’m moving away from treating agents as simple scripts and shifting toward durable workflows. The state should be persisted at the infra level so the agent can resume from the last step instead of restarting from zero. How is everyone else scaling this? Are you still manually saving state to a DB after every tool call, or just praying the connection stays stable? submitted by /u/Interesting_Rid…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdzvbd</guid>
+      <pubDate>Thu, 15 Jan 2026 23:43:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

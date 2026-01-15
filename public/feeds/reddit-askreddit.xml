@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 23:31:33 +0000</lastBuildDate>
-    <item>
-      <title>有哪些细微迹象表明某人其实非常愚钝，却偏要装作聪明？ / What is a subtle sign that someone is incredibly dumb but pretending to be smart?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qc2kxm/what_is_a_subtle_sign_that_someone_is_incredibly/</link>
-      <description>由用户 /u/Alternative-Week8667 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Alternative-Week8667 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qc2kxm</guid>
-      <pubDate>Tue, 13 Jan 2026 20:36:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 23:48:14 +0000</lastBuildDate>
     <item>
       <title>如果让你获得与动物对话的能力，但只能选择单一物种，你会选哪一种？ / If you were given the ability to speak to animals, but only with a single species of your choice, which one’d you go for?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qc324z/if_you_were_given_the_ability_to_speak_to_animals/</link>
@@ -1446,6 +1434,18 @@ Original:
 submitted by /u/WatercressSenior7657 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qdxk2p</guid>
       <pubDate>Thu, 15 Jan 2026 22:11:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>当前负面新闻很多。有哪些被忽略的正面消息？ / There’s a lot of negative news at the moment. What’s some positive news that’s flown under the radar?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdy1gd/theres_a_lot_of_negative_news_at_the_moment_whats/</link>
+      <description>由用户/u/WatercressSenior7657提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/WatercressSenior7657 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdy1gd</guid>
+      <pubDate>Thu, 15 Jan 2026 22:30:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
