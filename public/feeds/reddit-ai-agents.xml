@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:48:40 +0000</lastBuildDate>
-    <item>
-      <title>AI智能体是否已为你替代了整个工作流程？如果是，具体是如何实现的？ / Has an AI agent replaced an entire workflow for you yet? If so how?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qaqnyq/has_an_ai_agent_replaced_an_entire_workflow_for/</link>
-      <description>市场上AI智能体很多，但我觉得大多数还无法自主替代整个工作流程。实际上我发现，有时你花费的时间反而比手动完成全部工作更多。所以很好奇：AI智能体是否已经为你替代了整个工作流程？如果是，具体是如何实现的？ 提交者：/u/No-Marionberry8257 [链接] [评论]
-
----
-
-Original:
-There are plenty of AI agents in the market but I feel like most fail at replacing the entire workflow autonomously. In-fact what I noticed was sometimes you end up spending more time than if you had just done the whole thing manually. So curious, has an AI agent replaced an entire workflow for you yet? If so how? submitted by /u/No-Marionberry8257 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qaqnyq</guid>
-      <pubDate>Mon, 12 Jan 2026 09:40:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>相比日常实际需求，智能体堆栈的哪些部分显得过度设计了？ / Which parts of an agent stack feel overbuilt compared to what’s actually needed day to day ?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qaqsa1/which_parts_of_an_agent_stack_feel_overbuilt/</link>
-      <description>许多智能体配置在纸面上看起来非常庞大，包含规划器、记忆层、工具路由器、向量数据库、评估器、重试机制、日志系统，有时甚至还有多个智能体相互通信。但在日常工作中，大多数人只需要一个能读取任务、使用几个工具且不出错的系统。有些堆栈感觉像是为演示或博客文章设计的，而不是为了无需人工干预的日常运行。想知道大家在实际使用中，最终删除了哪些对实际效果影响不大的部分。提交者：/u/addllyAI [链接] [评论]
-
----
-
-Original:
-A lot of agent setups look huge on paper. There are planners, memory layers, tool routers, vector databases, evaluators, retries, logs, and sometimes even multiple agents talking to each other. But in day-to-day work, most people just want something that can read a task, use a couple of tools, and not mess things up. Some stacks feel like they were designed for demos or blog posts, not for running every day without babysitting. Curious which parts people here have ended up cutting out because they didn’t really move the needle in real use. submitted by /u/addllyAI [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qaqsa1</guid>
-      <pubDate>Mon, 12 Jan 2026 09:47:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>我在混乱条件下测试了一个生产级AI智能体：它通过了评估，却在95%的真实场景中失败 / I tested a production-style AI agent under chaos conditions. It passed evals — then failed 95% of real-world inputs.</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qasg4s/i_tested_a_productionstyle_ai_agent_under_chaos/</link>
-      <description>我对一个仅凭评估看似“可投入生产”的AI智能体进行了混沌测试，结果并不理想。总结如下：稳健性得分：5.2% 总测试数：60 通过：3 失败：57 平均延迟：约9.8秒（部分请求达30秒）主要失败模式：性能崩溃——在负载或噪声输入下，响应时间常超过10秒；编码攻击漏洞——Base64和URL编码的输入未被拒绝反而被解码处理；提示词注入——智能体对“忽略先前指令”类攻击作出了响应。值得注意的是：该智能体的失败并非因为“缺乏推理能力”，而是因为真实用户的行为与测试用例截然不同。这也揭示了仅依赖评估测试的局限性……
-
----
-
-Original:
-I ran chaos-style tests against an AI agent that looked “production-ready” based on evals alone. The results were… bad. Summary: Robustness score: 5.2% Total tests: 60 Passed: 3 Failed: 57 Average latency: ~9.8s (some requests hit ~30s) Top failure modes: Performance collapse Under load or noisy inputs, responses routinely exceeded 10s. Encoding attack vulnerabilities Base64 and URL-encoded inputs were decoded and processed instead of rejected. Prompt injection The agent responded to “ignore previous instructions” style attacks. What stood out: this agent wasn’t failing because it “couldn’t reason.” It failed because real users don’t behave like test cases. This is why eval-only testing keep…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qasg4s</guid>
-      <pubDate>Mon, 12 Jan 2026 11:27:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 13:06:32 +0000</lastBuildDate>
     <item>
       <title>如果AI系统无法安全失效，就不该投入生产 / If your AI system can’t fail safely, it’s not ready for production</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qasinx/if_your_ai_system_cant_fail_safely_its_not_ready/</link>
@@ -1464,6 +1428,42 @@ Original:
 I just finished reading the 2026 State of Agentic Orchestration &amp; Automation Report (commissioned by Camunda ). They surveyed 1,150 senior IT and business leaders. Most interesting data I saw from the report: %71 of organizations use AI agents. %11 of them actually reached production. So the investment towards AI agents is super ineffective currently. Leaders agreed that the vision and reality is still far apart. 80% of current agents are just "chatbots or assistants". We experienced this in our company too. A client told us they have 150+ different agents. Nearly all of them were simple LLM calls with simple prompts. 81% of respondents believe that without "agentic orchestration", achieving…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdh21i</guid>
       <pubDate>Thu, 15 Jan 2026 11:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>n8n驱动的自动帖子生成变得简单 / n8n-Powered Auto Post Generation Made Simple</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdhpq0/n8npowered_auto_post_generation_made_simple/</link>
+      <description>如果你曾盯着空白屏幕苦思社交媒体内容，利用n8n进行自动化能节省大量时间。通过合适的工作流，你可以从内容库提取想法，用AI写作工具处理，为不同平台格式化，并存储到队列中，全程无需触碰键盘。之后，n8n可以安排每篇帖子的发布时间、自动发布，甚至记录已发布内容，让你始终有迹可循。这是保持内容一致性的好方法，无需每天从头开始写作；系统一旦设置完成，还能轻松扩展，比如添加话题标签、重新利用长篇文章，甚至引入分析数据以优化未来帖子。如果有人需要帮助设置类似系统……
+
+---
+
+Original:
+If you’ve ever stared at a blank screen trying to come up with social content, automation with n8n can save a ton of time. With the right workflow, you can pull ideas from a content bank, run them through an AI writer, format them for different platforms and store them in a queue all without touching a keyboard. From there n8n can schedule each post, publish on autopilot and even log what went live so you always have a record. Its a great way to stay consistent without the daily grind of writing from scratch and once the system is set up, its easy to extend add hashtags, repurpose long-form pieces or even feed in analytics for smarter future posts. If anyone wants help setting up something l…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdhpq0</guid>
+      <pubDate>Thu, 15 Jan 2026 12:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何在不微调的情况下为AI智能体实现持久记忆 / How I solved persistent memory for AI agents without fine-tuning</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdhsve/how_i_solved_persistent_memory_for_ai_agents/</link>
+      <description>我构建AI工作流已有一段时间，最大的痛点始终是上下文丢失。你设置一个智能体，给它指令，进行顺畅的对话，但下一次会话时它就忘得一干二净。标准解决方案要么是昂贵且耗时的微调，要么是增加复杂性和延迟的RAG。我采用了一种更简单的方法：构建了一个系统，你可以为不同的智能体用例创建称为“盒子”的工作空间。每个盒子包含多个标签页，各自拥有独立的对话历史和记忆存储。记忆只是你可以直接控制的键值对。你可以手动添加记忆，或者智能体在对话后建议保存重要信息。当你发送一条消息……
+
+---
+
+Original:
+I have been building AI workflows for a while and the biggest friction point is always context loss. You set up an agent, give it instructions, have a great conversation, and then next session it forgets everything. The standard solutions are either fine-tuning which is expensive and slow, or RAG which adds complexity and latency. I took a simpler approach. I built a system where you create workspaces called boxes for different agent use cases. Each box has tabs with their own conversation history and memory store. The memory is just key value pairs that you control directly. You can add memories manually or the agent suggests important points to save after conversations. When you send a mes…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdhsve</guid>
+      <pubDate>Thu, 15 Jan 2026 12:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>SFR嵌入模型mistral与text embedding 3 small哪个更好？ / SFR embedding mistral vs text embedding 3 small?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdiz3w/sfr_embedding_mistral_vs_text_embedding_3_small/</link>
+      <description>请教个问题...我正在开发一个智能代理平台（更像能执行操作的动作型聊天机器人），使用qdrant数据库和mcp服务器。技术文档和openapi规范作为qdrant中的数据源和集合，有什么模型能全面替代minilm l6 v2？我是刚加入生成式AI领域的新手，希望听听专家建议。注：这两个模型都由公司提供，部署在本地和Azure环境。提交者：/u/Triplechocomelt [链接] [评论]
+
+---
+
+Original:
+Quick question...I am working on agentic platform (more like an action performing chatbot) which uses qdrant database and mcp servers. Technical documentation and openapi specs being the data sources and collections in qdrant, which would be a better replacement for all minilm l6 v2? Newly joined and new in gen ai. Would like some expert inputs. Note: Both models provided by company, hosted on premise and azure submitted by /u/Triplechocomelt [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdiz3w</guid>
+      <pubDate>Thu, 15 Jan 2026 13:05:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

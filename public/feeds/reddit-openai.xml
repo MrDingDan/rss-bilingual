@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 13:08:07 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1220,6 +1220,18 @@ Original:
 I know I’m not the only one who wants to know what it’s thinking… submitted by /u/UrMomUWish [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdh1wz</guid>
       <pubDate>Thu, 15 Jan 2026 11:26:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>维基媒体企业版迎来新合作伙伴 / New Wikimedia Enterprise Partners</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdhmzn/new_wikimedia_enterprise_partners/</link>
+      <description>https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;format=png&amp;auto=webp&amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 为庆祝维基百科25周年，宣布新增维基媒体企业版合作伙伴：https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ 令人好奇的是，OpenAI并未出现在名单上。这家公司免费提取了维基百科的每一行文本，并使用维基媒体数千张图像训练其模型，却未向该组织贡献一分钱。我认为这很不光彩。由 /u/JoseMSB 提交 [链接] [评论]
+
+---
+
+Original:
+https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;format=png&amp;auto=webp&amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 Announcing New Wikimedia Enterprise Partners for Wikipedia’s 25th Birthday: https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ It's curious that OpenAI isn't on the list. A company that has extracted every last line of text from Wikipedia and used thousands of images from Wikimedia to train its models for free without contributing a single cent to the organization. I find it shameful. submitted by /u/JoseMSB [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdhmzn</guid>
+      <pubDate>Thu, 15 Jan 2026 11:59:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

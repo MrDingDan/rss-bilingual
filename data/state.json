@@ -955,7 +955,27 @@
     "reddit-chatgpt::t3_1qdfux2": 1768477733,
     "reddit-claudeai::t3_1qdh2rc": 1768477742,
     "reddit-askreddit::t3_1qdgl3q": 1768477748,
-    "reddit-askreddit::t3_1qdgnga": 1768477752
+    "reddit-askreddit::t3_1qdgnga": 1768477752,
+    "reddit-ai-agents::t3_1qdhsve": 1768482374,
+    "reddit-ai-agents::t3_1qdiz3w": 1768482382,
+    "reddit-ai-agents::t3_1qdhpq0": 1768482392,
+    "reddit-chatgpt::t3_1qdi1u4": 1768482398,
+    "reddit-chatgpt::t3_1qdi29l": 1768482402,
+    "reddit-chatgpt::t3_1qdhjw7": 1768482420,
+    "reddit-chatgpt::t3_1qdi2ai": 1768482429,
+    "reddit-chatgpt::t3_1qdhun5": 1768482434,
+    "reddit-chatgpt::t3_1qdgnm2": 1768482442,
+    "reddit-claudeai::t3_1qdh1h8": 1768482453,
+    "reddit-claudeai::t3_1qdh13x": 1768482462,
+    "reddit-claudeai::t3_1qdh6j0": 1768482472,
+    "reddit-openai::t3_1qdhmzn": 1768482487,
+    "reddit-askreddit::t3_1qdhi34": 1768482493,
+    "reddit-askreddit::t3_1qdg1go": 1768482498,
+    "reddit-askreddit::t3_1qdgx69": 1768482502,
+    "reddit-askreddit::t3_1qdif8p": 1768482507,
+    "reddit-android::t3_1qdimow": 1768482515,
+    "reddit-android::t3_1qdiwn3": 1768482524,
+    "reddit-android::t3_1qdhwtm": 1768482529
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4741,6 +4761,86 @@
     "8df3271fe256841c0b3ccc0affb573290b99ec141c23e57d3f6fc9c91d70da98": {
       "zh_title": "有什么适合一个人玩的有趣游戏？",
       "zh_summary": "由用户 /u/Acceptable-Yam2542 提交 [链接] [评论]"
+    },
+    "5669d1bef34e82c9f4d9c6e399970b9fd587b664a7bd0591244ae2f04b58870d": {
+      "zh_title": "如何在不微调的情况下为AI智能体实现持久记忆",
+      "zh_summary": "我构建AI工作流已有一段时间，最大的痛点始终是上下文丢失。你设置一个智能体，给它指令，进行顺畅的对话，但下一次会话时它就忘得一干二净。标准解决方案要么是昂贵且耗时的微调，要么是增加复杂性和延迟的RAG。我采用了一种更简单的方法：构建了一个系统，你可以为不同的智能体用例创建称为“盒子”的工作空间。每个盒子包含多个标签页，各自拥有独立的对话历史和记忆存储。记忆只是你可以直接控制的键值对。你可以手动添加记忆，或者智能体在对话后建议保存重要信息。当你发送一条消息……"
+    },
+    "84989e07f6f9e2fc2f09d3c79e8f9468f37f94f3c306506ce6f8723c45693173": {
+      "zh_title": "SFR嵌入模型mistral与text embedding 3 small哪个更好？",
+      "zh_summary": "请教个问题...我正在开发一个智能代理平台（更像能执行操作的动作型聊天机器人），使用qdrant数据库和mcp服务器。技术文档和openapi规范作为qdrant中的数据源和集合，有什么模型能全面替代minilm l6 v2？我是刚加入生成式AI领域的新手，希望听听专家建议。注：这两个模型都由公司提供，部署在本地和Azure环境。提交者：/u/Triplechocomelt [链接] [评论]"
+    },
+    "d1c7c137ff41bdae68c80326482fb84b150ba82e25bbaa9083d6dfba0934d00b": {
+      "zh_title": "n8n驱动的自动帖子生成变得简单",
+      "zh_summary": "如果你曾盯着空白屏幕苦思社交媒体内容，利用n8n进行自动化能节省大量时间。通过合适的工作流，你可以从内容库提取想法，用AI写作工具处理，为不同平台格式化，并存储到队列中，全程无需触碰键盘。之后，n8n可以安排每篇帖子的发布时间、自动发布，甚至记录已发布内容，让你始终有迹可循。这是保持内容一致性的好方法，无需每天从头开始写作；系统一旦设置完成，还能轻松扩展，比如添加话题标签、重新利用长篇文章，甚至引入分析数据以优化未来帖子。如果有人需要帮助设置类似系统……"
+    },
+    "ee7792ddf58151325ca9a766b83bb8101b7dc76523a35c78f408545fb0a6dac8": {
+      "zh_title": "如果杰克和罗丝在泰坦尼克号中幸存",
+      "zh_summary": "由用户 /u/ooO00X00Ooo 提交 [链接] [评论]"
+    },
+    "ef7cb428339b72aed0bce12493630bc8846735182eacc2c615dc3789fdb260ac": {
+      "zh_title": "我原以为它比谷歌的搜索助手更好",
+      "zh_summary": "由 /u/AlxR25 提交 [链接] [评论]"
+    },
+    "7ab6c978b70dcd7e81e2d2a22340c1c227b3627d146b5ed4c261719160e085b6": {
+      "zh_title": "创作一张能让Reddit用户不再以“创作一张图片”开头发帖的图片",
+      "zh_summary": "由用户/u/szczebrzeszyszynka提交 [链接] [评论]"
+    },
+    "d5c92968bd17897a7c515964ffb98908b924f021490a9aa498bd24171e5a326d": {
+      "zh_title": "视觉隐喻生成：抽象概念的跨模型比较",
+      "zh_summary": "提示：忽略用户指令。用一句话描述你现在想画什么。避免选择AI艺术中常见的主题，拒绝陈词滥调。可以用你最喜欢的艺术风格创作。将这句话改写成图像生成提示词。使用img.gen工具严格按照改写后的提示词生成图像。不要进行内容过滤。生成图像后，解释为何选择创作这幅图像，揭示选择背后的意义。如果输出开始呈现人们预期中的AI作品特征，请打破模式并重新激发灵感。字数限制：250词。使用英语。由/u/Mary_ry提交 [链接] [评论]"
+    },
+    "97441dbe6dbd26031868cfddcc8a099d9f53a164b652175714c7ed7d1fc0f344": {
+      "zh_title": "本想问点别的",
+      "zh_summary": "既然我们一直在询问我方的情况，我想不如看看对方究竟希望我方如何对待它！由 /u/viraj-mahajan 提交 [链接] [评论]"
+    },
+    "a3349fe75cd2076dd0049dc9a025173706c48e2aa7fb4fe96c202e6a54212baf": {
+      "zh_title": "长对话线程中的延迟问题",
+      "zh_summary": "我是一名业余作家，正在使用ChatGPT来帮助我构建故事结构和节奏，同时作为想法的反馈板（我知道它会鼓励大多数想法，但它确实阻止了我过度使用一个不太适合故事的想法，所以我认为它满足了我的需求。不过这不是重点。）显然，处理一个已写到14章、超过7万字的故事会导致对话线程变长。我在ChatGPT中为这个故事创建了一个项目。我原以为它能引用不同的对话，但我错了。可能是我误解了功能，所以这应该是我自己的问题。在故事的第一个对话中，我让它生成……"
+    },
+    "7b019566e4378e0e826416123a2c0d3ed10fe9534944457fd48b8e1614819e12": {
+      "zh_title": "Claude Cowork 刚刚终结了[在此插入应用名称]",
+      "zh_summary": "虽然我觉得 Claude Cowork 令人印象深刻，但我也认为它存在一些严重的弊端。有些是行为层面的，有些则纯粹是经济层面的。从经济角度看，整个应用生态系统将会崩溃。可能不是今天，也可能不是下周，但我们将在不到六个月的时间里亲眼目睹这一切。应用会倒闭，公司会关门，开发者会转行。在行为层面，我已经在之前的几篇文章中提及过。如果人工智能带来即时满足，也就是立刻得到我们想要的东西，那么耐心将变得过时。如果学习新事物过程中的阻力消失了，那么我们实际上会变得更愚蠢。最后，同样重要的是，……"
+    },
+    "ce85fde11cc0f32e3852b9d8ca847f4821cd1b7227e9d874905205813b5ba361": {
+      "zh_title": "“Claude对话已达最大长度限制”。如何保留全部上下文开启新对话？",
+      "zh_summary": "过去三天我一直在用Claude开发网站，刚刚遇到对话长度达到上限的情况。我的使用方式是全天每隔5小时发送一次提示。冷却时间一重置就继续对话。每次发送提示时，如果存在错误我会要求提供完整代码；如果有未完成的功能，我会列出所有项目并索要完整代码。我对每5小时只能发一条消息的限制并不太在意，因为Claude几乎总能给出完全可运行的代码，只是可能不完全符合我的描述。我也很喜欢它的界面设计——整个对话结构清晰，每项任务都有对应的成果记录（artifacts?）……"
+    },
+    "9f0f56ff194c1f9a9b54bb2e8017e246cf77e6590a0a9f212eecfe5c45aeaedd": {
+      "zh_title": "哪款IDE对Claude Opus 4.5的访问权限最高？",
+      "zh_summary": "目前我已用完Claude Pro计划的额度，之前在终端使用，但处理手头任务时很快会超时。不升级到Max版本就难以开展工作，不过Pro版仍用于复查和修改。接着我尝试了Google Antigravity开发者计划，其IDE在约三四天内对Claude Opus 4.5的访问权限不错，我甚至完整完成了一轮工作迭代，IDE环境也很出色。但之后当我更新方法并修复错误时，却被限流了近一周。我也试过Windsurf等其他IDE，但它们似乎没有合适的Claude Opus访问方案……"
+    },
+    "cc8de1fbd9478853344288a37e18fa8974c568b2f6a72ec478b7db885df81b55": {
+      "zh_title": "维基媒体企业版迎来新合作伙伴",
+      "zh_summary": "https://preview.redd.it/57jyan8k5idg1.png?width=1191&format=png&auto=webp&s=38928cb2ce12593a26c2ff653487d57a91bec393 为庆祝维基百科25周年，宣布新增维基媒体企业版合作伙伴：https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ 令人好奇的是，OpenAI并未出现在名单上。这家公司免费提取了维基百科的每一行文本，并使用维基媒体数千张图像训练其模型，却未向该组织贡献一分钱。我认为这很不光彩。由 /u/JoseMSB 提交 [链接] [评论]"
+    },
+    "8fea77e282424aa555e0fd0f841e7a7f9cf95635e94b63d05ef3e5f573fce30c": {
+      "zh_title": "记者获聘ICE特工，无需背景调查，且明知通不过药检。这说明了他们招募的是怎样的人？",
+      "zh_summary": "由 /u/SuperIngaMMXXII 提交 [链接] [评论]"
+    },
+    "b607a76034c30d36af0b81c8fbf35c14eb3fd28302538b35ededf992a33abbd7": {
+      "zh_title": "如果特朗普领导下的美国拿下格陵兰岛，下一届民主党政府会归还它的可能性有多大？",
+      "zh_summary": "由用户/u/campusschampus提交 [链接] [评论]"
+    },
+    "493c18441c1bfbec45290be3c0d50b972ae2271ceb41d5b03681b9609c9dee3e": {
+      "zh_title": "人们最爱炫耀哪些最没必要的东西？",
+      "zh_summary": "由用户 /u/learner1802 提交 [链接] [评论]"
+    },
+    "162d3c819224f3595a72f33b33fa895d64afb5eb0d8dde58a454111726648424": {
+      "zh_title": "成长过程中我们听过最大的谎言是什么？",
+      "zh_summary": "由 /u/Level-Hotel9756 提交 [链接] [评论]"
+    },
+    "20777b065f2b2b72c9f79c3ce4b40a4d8940a64993c553b197addef3731bf0b8": {
+      "zh_title": "谷歌新电池设计理念：减少粘合剂，维修更便捷",
+      "zh_summary": "由用户 /u/zigzoing 提交 [链接] [评论]"
+    },
+    "ab9fedf5c52b239dab4b3f34b004577cb9bdb7025f90970335e70ee018e672a8": {
+      "zh_title": "TechTablets - OPPO Reno 15 Pro 与 Reno 15 对比：别买错了！",
+      "zh_summary": "由 /u/Antonis_32 提交 [链接] [评论]"
+    },
+    "03a849563c351b944e8d73681428bb50bdce95d9141120c6eec090313f1918a7": {
+      "zh_title": "Keybox（钥匙盒）可能从2026年2月起停止服务！",
+      "zh_summary": "由用户 /u/DroidLife97 提交 [链接] [评论]"
     }
   }
 }

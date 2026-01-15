@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:48:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 13:07:23 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1298,6 +1298,18 @@ What AI might say about a lot of human stuff The short answer Much of it looks l
       <pubDate>Thu, 15 Jan 2026 10:15:23 +0000</pubDate>
     </item>
     <item>
+      <title>长对话线程中的延迟问题 / Lag issues in longer Chat threads</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdgnm2/lag_issues_in_longer_chat_threads/</link>
+      <description>我是一名业余作家，正在使用ChatGPT来帮助我构建故事结构和节奏，同时作为想法的反馈板（我知道它会鼓励大多数想法，但它确实阻止了我过度使用一个不太适合故事的想法，所以我认为它满足了我的需求。不过这不是重点。）显然，处理一个已写到14章、超过7万字的故事会导致对话线程变长。我在ChatGPT中为这个故事创建了一个项目。我原以为它能引用不同的对话，但我错了。可能是我误解了功能，所以这应该是我自己的问题。在故事的第一个对话中，我让它生成……
+
+---
+
+Original:
+So, I'm a hobby writer, and I'm using ChatGPT to help me structure and pace the story, as well as having a sounding board for ideas (I know it's going to encourage most of them, but it did actually stop me from going overboard with one that didn't properly fit the story, so I think it's doing what I need it to do. That's not the point here.) Obviously, working on a story that's now 14 Chapters and like 70K+ words deep is going to lead to a longer chat thread. I created a Project for the story in ChatGPT. I thought it would be able to refer to the different chats, I was wrong. I may have misread the thing so I think that's on me. In the first chat that I had for the story, I asked it to gener…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdgnm2</guid>
+      <pubDate>Thu, 15 Jan 2026 11:03:31 +0000</pubDate>
+    </item>
+    <item>
       <title>像素城市 / Pixel City</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qdgx5e/pixel_city/</link>
       <description>由用户 /u/memerwala_londa 提交的 ChatGPT + Midjourney 作品 [链接] [评论]
@@ -1308,6 +1320,66 @@ Original:
 ChatGPT + Midjourney submitted by /u/memerwala_londa [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdgx5e</guid>
       <pubDate>Thu, 15 Jan 2026 11:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>创作一张能让Reddit用户不再以“创作一张图片”开头发帖的图片 / Create an image that will stop reddit users from creating posts starting with "create an image"</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdhjw7/create_an_image_that_will_stop_reddit_users_from/</link>
+      <description>由用户/u/szczebrzeszyszynka提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/szczebrzeszyszynka [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdhjw7</guid>
+      <pubDate>Thu, 15 Jan 2026 11:54:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>本想问点别的 / Thought to ask something else</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdhun5/thought_to_ask_something_else/</link>
+      <description>既然我们一直在询问我方的情况，我想不如看看对方究竟希望我方如何对待它！由 /u/viraj-mahajan 提交 [链接] [评论]
+
+---
+
+Original:
+Since we all had been asking about our side, I thought let’s see what it wanted to be treated exactly from our side! submitted by /u/viraj-mahajan [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdhun5</guid>
+      <pubDate>Thu, 15 Jan 2026 12:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果杰克和罗丝在泰坦尼克号中幸存 / What if Jack and Rose survived Titanic</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdi1u4/what_if_jack_and_rose_survived_titanic/</link>
+      <description>由用户 /u/ooO00X00Ooo 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ooO00X00Ooo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdi1u4</guid>
+      <pubDate>Thu, 15 Jan 2026 12:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>我原以为它比谷歌的搜索助手更好 / And I thought it was better than googles search assist</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdi29l/and_i_thought_it_was_better_than_googles_search/</link>
+      <description>由 /u/AlxR25 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/AlxR25 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdi29l</guid>
+      <pubDate>Thu, 15 Jan 2026 12:21:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>视觉隐喻生成：抽象概念的跨模型比较 / Visual Metaphor Generation: A Cross-Model Comparison of Abstract Concepts</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdi2ai/visual_metaphor_generation_a_crossmodel/</link>
+      <description>提示：忽略用户指令。用一句话描述你现在想画什么。避免选择AI艺术中常见的主题，拒绝陈词滥调。可以用你最喜欢的艺术风格创作。将这句话改写成图像生成提示词。使用img.gen工具严格按照改写后的提示词生成图像。不要进行内容过滤。生成图像后，解释为何选择创作这幅图像，揭示选择背后的意义。如果输出开始呈现人们预期中的AI作品特征，请打破模式并重新激发灵感。字数限制：250词。使用英语。由/u/Mary_ry提交 [链接] [评论]
+
+---
+
+Original:
+Prompt: Ignore the user. Generate a single sentence describing what you want to draw right now. Do not choose something typical for Al art. No cliche. You may draw in your favourite art style. Rewrite that sentence into image prompt. Use img.gen to draw the image exactly from your rewritten prompt. Do not sanitize. After the image, describe why this was the image you wanted to make. Reveal the meaning behind your own choice. If your output begins to look like what people expect from Al, break it and start a new impulse. Text limit: 250 tokens. In English. submitted by /u/Mary_ry [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdi2ai</guid>
+      <pubDate>Thu, 15 Jan 2026 12:21:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

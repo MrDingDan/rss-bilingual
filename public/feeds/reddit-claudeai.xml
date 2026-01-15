@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 13:07:52 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1346,6 +1346,30 @@ I've been building with Claude Code for about 18 months now. The first year was 
       <pubDate>Thu, 15 Jan 2026 09:42:44 +0000</pubDate>
     </item>
     <item>
+      <title>“Claude对话已达最大长度限制”。如何保留全部上下文开启新对话？ / "Claude hit the maximum length for this conversation". How do I start a new chat with all context retained?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh13x/claude_hit_the_maximum_length_for_this/</link>
+      <description>过去三天我一直在用Claude开发网站，刚刚遇到对话长度达到上限的情况。我的使用方式是全天每隔5小时发送一次提示。冷却时间一重置就继续对话。每次发送提示时，如果存在错误我会要求提供完整代码；如果有未完成的功能，我会列出所有项目并索要完整代码。我对每5小时只能发一条消息的限制并不太在意，因为Claude几乎总能给出完全可运行的代码，只是可能不完全符合我的描述。我也很喜欢它的界面设计——整个对话结构清晰，每项任务都有对应的成果记录（artifacts?）……
+
+---
+
+Original:
+I have been developing a website using Claude for the past 3 days and just now, I hit the maximum length for the chat. How I've been using it is by sending a prompt every 5 hours throughout the whole day. As soon as the cooldown is reset, I started chatting again. Every time I send a prompt, I would ask for full codes if there was any error. And if there was any functionality that is not completed, I would list out all of them and ask for full codes. I'm not too hurt by the one message every 5 hours limitation, as Claude almost always gives fully working codes, just not exactly as I described it to be. I also love the UI as the whole chat is organised nicely, with artifacts (?) for each task…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdh13x</guid>
+      <pubDate>Thu, 15 Jan 2026 11:25:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork 刚刚终结了[在此插入应用名称] / Claude Cowork Just Killed [ Insert App Name Here ]</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh1h8/claude_cowork_just_killed_insert_app_name_here/</link>
+      <description>虽然我觉得 Claude Cowork 令人印象深刻，但我也认为它存在一些严重的弊端。有些是行为层面的，有些则纯粹是经济层面的。从经济角度看，整个应用生态系统将会崩溃。可能不是今天，也可能不是下周，但我们将在不到六个月的时间里亲眼目睹这一切。应用会倒闭，公司会关门，开发者会转行。在行为层面，我已经在之前的几篇文章中提及过。如果人工智能带来即时满足，也就是立刻得到我们想要的东西，那么耐心将变得过时。如果学习新事物过程中的阻力消失了，那么我们实际上会变得更愚蠢。最后，同样重要的是，……
+
+---
+
+Original:
+While I find Claude Cowork extremely impressive, I think there are also some serious downsides. Some behavioral, some purely economical. From an economical point of view, an entire app ecosystem will crumble. Maybe not today, maybe not next week, but we will see this unfolding before our eyes in less than 6 months. Apps will fold. Companies will close. Developers will switch jobs. At the behavioral level, I already touched on this in a couple of posts here. If AI brings instant gratification, a.k.a. getting what we want instantly, then patience will become obsolete. If the friction involved in learning something new is gone, then we will literally become more stupid. And last, but not least,…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdh1h8</guid>
+      <pubDate>Thu, 15 Jan 2026 11:26:03 +0000</pubDate>
+    </item>
+    <item>
       <title>在公司环境中评估Claude Code作为代码助手：经验与教训？ / Evaluating Claude Code as a code agent in a company. Experiences and lessons learned?</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh2rc/evaluating_claude_code_as_a_code_agent_in_a/</link>
       <description>大家好，我们正在评估是否要在公司引入Claude Code作为代码助手，非常希望能听到在专业或生产环境中实际使用过它的人分享经验。我们团队约有10名开发人员，包括后端、前端和数据科学家，他们也亲自参与AI模型相关工作。我们的后端技术栈主要是Python和.NET，并跨多个代码库工作，支持长期运行的生产系统。我们的目标是在不陷入氛围编程或盲目信任生成代码的陷阱的前提下，提升开发者的生产力。安全性、正确性、可维护性和长期所有权对我们至关重要。我们……
@@ -1356,6 +1380,18 @@ Original:
 Hi everyone We are currently evaluating whether to introduce Claude Code as a code agent in our company, and I would really appreciate hearing from people with hands on experience using it in a professional or production setting. We are a team of around 10 developers, including backend, frontend, and data scientists who also work hands on with AI models. Our backend stack is mainly Python and .NET, and we work across multiple repositories supporting long lived production systems. Our goal is to improve developer productivity without falling into the trap of vibe coding or blindly trusting generated code. Security, correctness, maintainability, and long term ownership are critical for us. We…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdh2rc</guid>
       <pubDate>Thu, 15 Jan 2026 11:28:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>哪款IDE对Claude Opus 4.5的访问权限最高？ / Which IDE allows the highest access to Claude Opus 4.5?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh6j0/which_ide_allows_the_highest_access_to_claude/</link>
+      <description>目前我已用完Claude Pro计划的额度，之前在终端使用，但处理手头任务时很快会超时。不升级到Max版本就难以开展工作，不过Pro版仍用于复查和修改。接着我尝试了Google Antigravity开发者计划，其IDE在约三四天内对Claude Opus 4.5的访问权限不错，我甚至完整完成了一轮工作迭代，IDE环境也很出色。但之后当我更新方法并修复错误时，却被限流了近一周。我也试过Windsurf等其他IDE，但它们似乎没有合适的Claude Opus访问方案……
+
+---
+
+Original:
+Currently I have used up the Claude Pro plan and was using it on the Terminal but it timed out very fast for the work Im asking it to do, so I cant really do much work on that without upgrading to the Max but I am still using Pro for review, changes etc. So next I went for the Google Antigravity Developer plan with the IDE and it had decent Claude Opus 4.5 access for around 3-4 days and I was actually able to get one iteration of my work built completely, and the IDE environment was really good, but then it got rate-limited for almost a week while I was updating my methodology and fixing bugs. I tried with other IDEs like Windsurf but this doesnt seem to have a good Claude Opus access plan,…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdh6j0</guid>
+      <pubDate>Thu, 15 Jan 2026 11:34:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
