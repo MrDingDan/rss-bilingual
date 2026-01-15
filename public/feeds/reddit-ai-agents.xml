@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 02:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 03:55:39 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1260,6 +1260,42 @@ Original:
 Hey Everyone, If you had to recommend one AI agent that wasn’t crazy expensive to help you represent yourself in court, which one would it be? What I was thinking was feed the AI information about the case, motions, and relevant information to help create motions yourself, but faster since it would have a larger scope of what you are dealing with. It’s a long story but basically I’ve been representing myself Pro Se in family court and have majority timeshare and custody of my kids. I’ve been doing well Pro Se between AI, YouTube, and researching but want to make things faster and efficient because this is taking time away from my kids which need me right now. submitted by /u/FuzzyDice_12 [li…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qd6ina</guid>
       <pubDate>Thu, 15 Jan 2026 01:55:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>是我的错觉吗？大多数AI智能体不过是伪装成聊天机器人的存在？ / Is it just me, or are most AI Agents just chatbots in disguise?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd7ogi/is_it_just_me_or_are_most_ai_agents_just_chatbots/</link>
+      <description>我有点厌倦大语言模型（LLM）表现得像高价顾问了。今天遇到个棘手任务：清理一份混杂着英文、中文、韩语且满是拼写错误的关键词表格。我根本不想要什么“战略会议”，只想要一份干净的Excel文件。为此我测试了几款工具，看看谁能真正解决问题：GPT-5和Gemini：两者都给出了完美的五步计划。但一到执行环节，它们就只会空谈。Gemini甚至开始编造数据中根本不存在的品牌名称。对于繁重的数据处理，它们更像是“空谈家”而非“实干家”。Skywork（表格智能体）：这款工具真正完成了数据录入，没讲大道理就直接给了我一份可用的文件。其“深度研究”模式在查找那些……
+
+---
+
+Original:
+I'm getting a bit tired of LLMs acting like high-priced consultants. I had a messy task today: cleaning a keyword spreadsheet with mixed EN/CN/KR languages and a ton of typos. I didn't want a "strategy session" I just wanted a cleaned Excel file. I tested a few tools to see who actually does the work: GPT-5 &amp; Gemini: Both gave me great 5-step plans. But when it came to execution, they just kept talking. Gemini even started hallucinating brand names that weren't in the data. They feel more like "talkers" than "doers" for heavy data. Skywork (Sheet Agent): This one actually finished the data entry and gave me a usable file without the lecture. The "Deep Research" mode is great for finding thos…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd7ogi</guid>
+      <pubDate>Thu, 15 Jan 2026 02:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>寻求网站数据抓取建议 / Need help with suggestions on scraping data from websites</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd7z8x/need_help_with_suggestions_on_scraping_data_from/</link>
+      <description>我正在为我的网站寻找数据抓取的建议。该网站主要围绕羽毛球拍（Badminton Racquets）展开，旨在展示不同的球拍，并允许用户：- 按类型筛选：头重型、头轻型、重量、用途（速度、控制、力量）、水平（初学者、中级、专业）- 查看评论 - 比较2-4款球拍。传统上，我会让虚拟助手（VAs）从不同来源收集数据，或请开发人员编写脚本来解析每个网站的DOM。但我确信，借助AI，这会更加简单快捷。不过，这种方式缺乏可扩展性。我希望每月都能更新数据。期待您的建议。由 /u/Automatic-Simple-117 提交 […]
+
+---
+
+Original:
+I'm looking for suggestions on scraping data for my website. The website is mostly around Badminton Racquets. The website is supposed to show different racquets and allow users to... - filter by types: Head Heavy, Head Light, Weight, Purpose (Speed, Control, Power), Level (Beginner, Intermediate, Pro) - reviews - comparison between 2-4 racquets Traditionally I would have asked VAs to collect the data from different sources or asked dev to create a script that parses the DOM for each site. But I'm sure with AI, it would be way easier and faster. But its not scalable. I want to keep refreshing the data every month. Looking forward to suggestions from you. submitted by /u/Automatic-Simple-117 […</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd7z8x</guid>
+      <pubDate>Thu, 15 Jan 2026 03:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faceseek – 识别人脸，更快找到答案 / Faceseek – Find Faces, Find Answers Faster</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd8xms/faceseek_find_faces_find_answers_faster/</link>
+      <description>是否曾看到一张照片，好奇其中是谁或来自何处？Faceseek 正是为此而生。这是一款智能人脸搜索工具，只需一张面部图像，就能帮你发现公开的个人资料、相似图片及网络足迹。操作极其简单，无需复杂步骤或技术门槛。无论你是研究员、记者、数字营销人员，还是单纯出于好奇，Faceseek 都能为你节省时间和精力。搜索结果通常快速且准确，没有烦人的广告，也不会令人困惑。只需上传、搜索、探索。说实话，一旦尝试，你就会反复使用它。由 /u/Impressive_Push4311 提交 [链接] [评论]
+
+---
+
+Original:
+Ever seen a photo and wondered who it is or where it came from? That’s where Faceseek helps. Faceseek is a smart face search tool that lets you discover public profiles, similar images, and online presence using just a face. It’s super simple to use, no complicated steps or tech headache. Whether you’re a researcher, journalist, digital marketer, or just curious, Faceseek saves time and effort. Results come fast and feel accurate most of the time. No spammy ads, no confusion. Just upload, search, and explore. Once you try it, you’ll keep coming back, honestly. submitted by /u/Impressive_Push4311 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd8xms</guid>
+      <pubDate>Thu, 15 Jan 2026 03:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

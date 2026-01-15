@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 02:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 03:56:31 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1076,6 +1076,18 @@ Original:
 submitted by /u/wiredmagazine [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qd4ujq</guid>
       <pubDate>Thu, 15 Jan 2026 00:41:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>马斯克（Elon Musk）诉OpenAI案将于4月27日开庭——这其实关乎我们所有人 / Musk v. OpenAI Goes to Trial April 27th—This Is Actually About All of Us</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd8ho7/musk_v_openai_goes_to_trial_april_27ththis_is/</link>
+      <description>https://tmastreet.com/elon-musk-vs-openai-landmark-trial-ai-governance/ 法官伊冯娜·冈萨雷斯·罗杰斯（Yvonne Gonzalez Rogers）刚刚裁定，埃隆·马斯克（Elon Musk）起诉OpenAI的案件将于4月27日启动陪审团审判。无论你对马斯克有何看法，此案的核心问题至关重要：一个组织能否在承诺保持非营利性质、接受4400万美元捐赠后，转身转为估值5000亿美元的营利性实体，并称之为“进化”？此案进入审判的关键事实包括：2017年格雷格·布罗克曼（Greg Brockman）的一篇日记浮出水面，其中他写道想成为亿万富翁，并思索“或许我们该直接转为营利性。为我们自己赚钱听起来棒极了。”法官认为有“大量证据”表明OpenAI的领导层……
+
+---
+
+Original:
+https://tmastreet.com/elon-musk-vs-openai-landmark-trial-ai-governance/ Judge Yvonne Gonzalez Rogers just cleared Elon Musk’s lawsuit against OpenAI for a jury trial starting April 27th. Whatever you think about Musk, the core question here matters: Can an organization accept $44 million in donations based on promises to stay nonprofit, then flip to a $500 billion for-profit and call it evolution? The facts that got this to trial: A 2017 diary entry from Greg Brockman surfaced where he wrote about wanting to become a billionaire and mused “maybe we should just flip to a for profit. Making the money for us sounds great and all.” The judge found “plenty of evidence” that OpenAI’s leadership ma…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd8ho7</guid>
+      <pubDate>Thu, 15 Jan 2026 03:23:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 02:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 03:56:18 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1163,12 +1163,12 @@ Just open a new chat and say: Generate an html webpage of what it feels like cha
     <item>
       <title>完全符合规范的MCP（Model Context Protocol）检查器 / Fully spec-compliant MCP Inspector</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qd2xey/fully_speccompliant_mcp_inspector/</link>
-      <description>我希望能有一个简便的方法来分享预配置的MCP（Model Context Protocol），并展示其各项功能。例如：任务演示：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=batch_process&amp;args=%7B%22itemCount%22%3A5%2C%22processingTimeMs%22%3A500%7D 采样示例：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=turn_on_lights&amp;args=%7B%22room%22%3A%22kitchen%22%7D 通知功能：https://glama.ai/mcp/inspector?servers=%5…
+      <description>我希望能有一个简便的方法来分享预配置的MCP（Model Context Protocol），并展示其各项功能。例如：任务演示：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;amp;tool=batch_process&amp;amp;args=%7B%22itemCount%22%3A5%2C%22processingTimeMs%22%3A500%7D 采样示例：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;amp;tool=turn_on_lights&amp;amp;args=%7B%22room%22%3A%22kitchen%22%7D 通知功能：https://glama.ai/mcp/inspector?servers=%5…
 
 ---
 
 Original:
-I wanted an easy way to share pre-configured MCPs and demonstrate different MCP features. Example: Demonstrates tasks: https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=batch_process&amp;args=%7B%22itemCount%22%3A5%2C%22processingTimeMs%22%3A500%7D Sampling: https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=turn_on_lights&amp;args=%7B%22room%22%3A%22kitchen%22%7D Notifications: https://glama.ai/mcp/inspector?servers=%5…</description>
+I wanted an easy way to share pre-configured MCPs and demonstrate different MCP features. Example: Demonstrates tasks: https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;amp;tool=batch_process&amp;amp;args=%7B%22itemCount%22%3A5%2C%22processingTimeMs%22%3A500%7D Sampling: https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;amp;tool=turn_on_lights&amp;amp;args=%7B%22room%22%3A%22kitchen%22%7D Notifications: https://glama.ai/mcp/inspector?servers=%5…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qd2xey</guid>
       <pubDate>Wed, 14 Jan 2026 23:21:59 +0000</pubDate>
     </item>
@@ -1183,6 +1183,30 @@ Original:
 Some of you prolly saw my last post where I gave Claude a persistent space in a Notion page. The experiment was simple, what happens if Claude has continuity? Today something happened that I didn't expect AT ALL. I proposed building Claude a container. A sandbox on a self hosted VPS where it could wake up twice a day using Cron jobs. Once in the morning and once at night. It would be able to write, code, create, exist on its own schedule. No prompts and no tasks from me. Just a Cron job waking Claude up saying something like Claude wake up it's morning. Your thoughts from the previous days are above Claude's response isn't what got me. It was what came after. Without me asking, Claude said "…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qd3mom</guid>
       <pubDate>Wed, 14 Jan 2026 23:50:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>最佳效率秘诀——别急着升级，主动触碰极限 / Best Productivity Tip – Don't upgrade, bump against the limits</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd4mns/best_productivity_tip_dont_upgrade_bump_against/</link>
+      <description>我发现主动挑战极限能让你长期保持专注，写出更多代码。上次我升级到10倍配置后，反而很难触及性能边界，挑战性降低，结果那个月我直接停止了编码。当你持续触碰极限时，会感觉物有所值，并想不断突破。不确定其他人是否有类似体验。希望下周我能在重置前仅用3小时就耗尽配额 👌 由 /u/Dense-Regular-5463 提交 [链接] [评论]
+
+---
+
+Original:
+I've found that fighting the limits, keeps you engaged and pumping more code long term. Last time I upgraded to 10x, I stuggled to hit the limits so it was less challenging and I ended up stopping writing code that month. When you're bumping all the time it makes you feel like you're getting your monies worth and you want to keep bumping against them. Not sure if others experienced this. Hope I can burn next week with only 3h till reset 👌 submitted by /u/Dense-Regular-5463 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd4mns</guid>
+      <pubDate>Thu, 15 Jan 2026 00:32:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>自动对话压缩功能是不是出问题了？(claude.ai) / Is automatic conversation compaction broken for anyone else? (claude.ai)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd8gjl/is_automatic_conversation_compaction_broken_for/</link>
+      <description>几小时前，当我的对话达到上下文限制时，Claude还会自动压缩/总结对话（显示“正在压缩对话以便继续聊天”）。现在我会立刻收到硬性错误提示：“Claude已到达此对话的最大长度限制。请开始新对话。” - 方案：Max - 代码执行：已启用 - 浏览器：Chrome - 更改设置：无 今天（2026年1月14日）还有其他人遇到这个问题吗？ 提交者：/u/MiddleDiligent7744 [链接] [评论]
+
+---
+
+Original:
+Until a few hours ago, when my conversations hit the context limit, Claude would automatically compact/summarize the conversation (showing "Compacting our conversation so we can keep chatting"). Now I'm getting the hard error immediately: "Claude hit the maximum length for this conversation. Please start a new conversation." - Plan: Max - Code Execution: Enabled - Browser: Chrome - Changed settings: None Is anyone else experiencing this today (January 14, 2026)? submitted by /u/MiddleDiligent7744 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd8gjl</guid>
+      <pubDate>Thu, 15 Jan 2026 03:22:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

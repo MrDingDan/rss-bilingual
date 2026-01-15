@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 02:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 03:56:42 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -726,6 +726,30 @@ Original:
 Yesterday they also added Google 3 Flash as the default flash. submitted by /u/fandry96 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qd1nzi</guid>
       <pubDate>Wed, 14 Jan 2026 22:32:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>个人化情境功能 / Personal Context</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd8k0k/personal_context/</link>
+      <description>有人已经用上了吗？（人在美国…所有应用都已更新到最新版）谷歌既然还没正式发布，就不该提前公布启用教程… 发帖用户：/u/Googler10 [链接] [评论]
+
+---
+
+Original:
+Does anyone have it yet? (Based in the USA... all apps are up to date) Google should not announce stuff with directions on how to enable if its not launched yet... submitted by /u/Googler10 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd8k0k</guid>
+      <pubDate>Thu, 15 Jan 2026 03:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>还有人没看到新版网页界面吗？ / Does anyone else not have the new web ui?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd8l6k/does_anyone_else_not_have_the_new_web_ui/</link>
+      <description>这篇来自 /u/Googler10 的帖子（链接）指向：https://9to5google.com/2025/12/03/gemini-web-redesign-dec-2025/ （评论）
+
+---
+
+Original:
+This one: https://9to5google.com/2025/12/03/gemini-web-redesign-dec-2025/ submitted by /u/Googler10 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd8l6k</guid>
+      <pubDate>Thu, 15 Jan 2026 03:28:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
