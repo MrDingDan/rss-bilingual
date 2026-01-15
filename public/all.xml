@@ -6,129 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 10:40:46 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_claudeai] 花一周时间研究后，我整理了一份Claude Cowork资源、评测与替代方案清单 / Compiled a list of Claude Cowork resources, reviews, and alternatives after spending a week researching</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd0q3o/compiled_a_list_of_claude_cowork_resources/</link>
-      <description>我一直在考虑是否值得每月花100美元升级Cowork，因此过去一周查阅了各种评测、教程和替代方案。现将发现分享出来，供有同样困惑的朋友参考。官方资源：- Anthropic博客文章：claude.com/blog/cowork-research-preview - Claude帮助中心：support.claude.com/en/articles/13345190独立评测与聚合网站：- Simon Willison的第一印象：simonwillison.net/2026/Jan/12/claude-cowork/ - Coworker Code（评测+对比）：cowork-code.com开源替代方案：- Block开发的Goose：github.com/block/goose - Krafton开发的KIRA：github.com/krafton-ai/kira - TerminaI：github.com/Prof-Harita/terminaI YouTube评测：…
-
----
-
-Original:
-I've been trying to figure out if Cowork is worth the $100/mo upgrade, so I spent the past week going through reviews, tutorials, and alternatives. Sharing what I found in case others are in the same boat. Official Resources: - Anthropic blog post: claude.com/blog/cowork-research-preview - Claude Help Center: support.claude.com/en/articles/13345190 Independent Reviews &amp; Aggregators: - Simon Willison's first impressions: simonwillison.net/2026/Jan/12/claude-cowork/ - Coworker Code (reviews + comparisons): cowork-code.com Open Source Alternatives: - Goose by Block: github.com/block/goose - KIRA by Krafton: github.com/krafton-ai/kira - TerminaI: github.com/Prof-Harita/terminaI YouTube Reviews:…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qd0q3o</guid>
-      <pubDate>Wed, 14 Jan 2026 21:55:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude非常了解你（这是件好事） / Claude knows a lot about you (in a good way)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd0sal/claude_knows_a_lot_about_you_in_a_good_way/</link>
-      <description>只需开启一个新对话并输入：生成一个HTML网页，描述在任何一天与我聊天的感受。请尽可能展现脆弱、诚实、开放和直率的一面。享受这个过程！如果可以的话请分享 :D 提交者：/u/Manzabo [链接] [评论]
-
----
-
-Original:
-Just open a new chat and say: Generate an html webpage of what it feels like chatting with me on any given day. Bea as vulnerable, honest, open and brutal as you can Enjoy! Share it if you can :D submitted by /u/Manzabo [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qd0sal</guid>
-      <pubDate>Wed, 14 Jan 2026 21:58:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 对于胸部丰满或阴茎较大的人，你觉得这是福还是祸？ / For those who have big breasts or a big penis. Do you feel it's a blessing or a curse?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd0vh5/for_those_who_have_big_breasts_or_a_big_penis_do/</link>
-      <description>由用户 /u/BD_0101 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/BD_0101 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd0vh5</guid>
-      <pubDate>Wed, 14 Jan 2026 22:01:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 免费工具，有需者取！！ / FREE TOOLS FOR THOSE IN NEED!!</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0x5a/free_tools_for_those_in_need/</link>
-      <description>免责声明！！：虽然严格来说这算推广，但我并非意在推销服务。实际上，我是想向人们赠送工具——不为我们的作品集、客户评价或销售。你完全可以免费拿走我们的一个工具，无需再拿另一个。言归正传（无意双关）：没错，你听到的就是这样，我们正在提供免费自动化服务！你只需私信我们或在这条帖子下留言！在有人举起“长矛”前——是的，我知道这听起来如何。“免费AI服务”通常意味着试用或干脆是骗局，哈哈。但这次是真的。这是绝佳机会，另外，请阅读底部的备注……
-
----
-
-Original:
-DISCLAIMER!!: while yeah this is technically a promotion. i dont INTEND to do sell a service. im actually trying to give away tools to people. not for our portfolio. a testimonial. or a sale. you can literally take one of our tools for free. and not need to take ANOTHER anyways back to biz (no pun intended): yes you heard that joint RIGHT we are offering automation services for FREEEE all you gotta do is hit us up in the dm's or comment on dis post! Before anyone sharpens their pitchforks — yes, I know how this sounds. “AI services for FREEEEEEEEEEEEEEEEEEEEEE” which usually means trial. or just a scam in general lol but nah for real. THIS IS THEE opportunity and also. READ the NOTE at the b…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0x5a</guid>
-      <pubDate>Wed, 14 Jan 2026 22:03:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] Bandcamp 平台禁止发布纯AI生成的音乐 / Bandcamp bans purely AI-generated music from its platform</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qd11nu/bandcamp_bans_purely_aigenerated_music_from_its/</link>
-      <description>由 /u/swe129 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/swe129 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qd11nu</guid>
-      <pubDate>Wed, 14 Jan 2026 22:07:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 美国没钱投入医疗保健、应对生活成本上涨，却有钱买格陵兰岛，你怎么看？ / There is no money for Healthcare, help with cost of living in the U.S. etc, but there is money to buy Greenland, what are your thoughts?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd1219/there_is_no_money_for_healthcare_help_with_cost/</link>
-      <description>由用户 /u/Advanced-Pilot-3698 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Advanced-Pilot-3698 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd1219</guid>
-      <pubDate>Wed, 14 Jan 2026 22:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你有什么能快速入睡的有效方法？ / What’s your proven method to falling asleep instantly?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd1b09/whats_your_proven_method_to_falling_asleep/</link>
-      <description>由 /u/Adventurous-Panda61 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Adventurous-Panda61 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd1b09</guid>
-      <pubDate>Wed, 14 Jan 2026 22:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[xgo_f299207d] 确实可以使用LangSmith记录Claude Code的追踪日志！ / you can indeed use LangSmith to log your Claude Code traces!
-
-docs: https://t.co/veDjBwu32K</title>
-      <link>https://x.com/hwchase17/status/2011563840933359903</link>
-      <description>确实可以使用LangSmith记录Claude Code的追踪日志！文档地址：docs.langchain.com/langsmith/trac… Muhammad Junaid @MJunaidshaukat @hwchase17 @sydneyrunkle @hwchase17 我在想是否能在CLI编码代理（特别是Claude Code）中使用langsmith追踪功能。观察其使用技能、子代理和后台任务的决定将会很有价值。🔗 查看引用推文 💬 3 🔄 3 ❤️ 4 👀 967 📊 4 ⚡ 由xgo.ing驱动
-
----
-
-Original:
-you can indeed use LangSmith to log your Claude Code traces! docs: docs.langchain.com/langsmith/trac… Muhammad Junaid @MJunaidshaukat @hwchase17 @sydneyrunkle @hwchase17 I wonder if we can use langsmith tracing with CLI Coding Agents particularly Claude Code. Looking at the decision to use skills, subagents, background tasks will be gold. 🔗 View Quoted Tweet 💬 3 🔄 3 ❤️ 4 👀 967 📊 4 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::2011563840933359903</guid>
-      <pubDate>Wed, 14 Jan 2026 22:19:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 经常进行私处脱毛（或观察他人私处）的人，你们有哪些想法和意外的发现？ / People who wax/see others genitals often, what are your thoughts and surprise realizations?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd1drx/people_who_waxsee_others_genitals_often_what_are/</link>
-      <description>由用户 /u/NeedABetterNameNow 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/NeedABetterNameNow [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd1drx</guid>
-      <pubDate>Wed, 14 Jan 2026 22:21:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 如果你在使用谷歌反重力（Google Antigravity），请立即重启！ / If you use Google Antigravity, restart it!</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qd1nzi/if_you_use_google_antigravity_restart_it/</link>
-      <description>昨天他们还把谷歌3闪光（Google 3 Flash）设为默认闪光效果。由 /u/fandry96 提交 [链接] [评论]
-
----
-
-Original:
-Yesterday they also added Google 3 Flash as the default flash. submitted by /u/fandry96 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qd1nzi</guid>
-      <pubDate>Wed, 14 Jan 2026 22:32:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 11:32:44 +0000</lastBuildDate>
     <item>
       <title>[reddit_chatgpt] ChatGPT 作为教练与治疗师 / ChatGPT as coach and therapist</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qd1r4d/chatgpt_as_coach_and_therapist/</link>
@@ -1231,18 +1109,6 @@ I recently built an end-to-end n8n workflow for a law firm and it really opened 
       <pubDate>Thu, 15 Jan 2026 07:51:42 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_askreddit] 你第一次上网用的是哪款设备？ / On which device you surfed internet for the first time?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qde3tp/on_which_device_you_surfed_internet_for_the_first/</link>
-      <description>由 /u/Live-Slip-698 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Live-Slip-698 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qde3tp</guid>
-      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
       <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
@@ -1252,6 +1118,18 @@ submitted by /u/Live-Slip-698 [link] [comments]</description>
 Original:
 Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 你第一次上网用的是哪款设备？ / On which device you surfed internet for the first time?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qde3tp/on_which_device_you_surfed_internet_for_the_first/</link>
+      <description>由 /u/Live-Slip-698 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Live-Slip-698 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qde3tp</guid>
       <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
     </item>
     <item>
@@ -1349,6 +1227,18 @@ Original:
 Hey all, curious if anybody else has run into this problem. I pay for a Claude Max subscription, I use the Mac OS desktop app, I have updated to the current version, and my Mac is also updated to Ventura 13.0, yet I still do not have access to Cowork. I've also tried logging out and logging back in to no avail. Has anyone else run into this? Is Cowork restricted to only some Max users? Any insight is appreciated! submitted by /u/AK613 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdf85h</guid>
       <pubDate>Thu, 15 Jan 2026 09:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 有哪些广为流传的说法，你其实并不认同？ / Whats a common saying that you just don't agree with?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdfam1/whats_a_common_saying_that_you_just_dont_agree/</link>
+      <description>由 /u/ComprehensiveMap1360 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ComprehensiveMap1360 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdfam1</guid>
+      <pubDate>Thu, 15 Jan 2026 09:40:16 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_android] Android 16 QPR3 Beta 2 发布，修复耗电与设备卡顿问题 / Android 16 QPR3 Beta 2 is here with fixes for battery drain and device freezes</title>
@@ -1457,6 +1347,114 @@ Original:
 A new report from the Brennan Center for Justice outlines the urgent need to regulate AI deepfakes in political campaigns before they undermine election integrity. The study argues that while satire and parody must be protected under the First Amendment, lawmakers should enforce strict labeling on synthetic media and consider outright bans on deceptive content designed to suppress votes or spread false information about when and where to vote. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdg4vi</guid>
       <pubDate>Thu, 15 Jan 2026 10:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 如果能够重生，你希望下辈子以何种方式降生？ / If you could be reborn, how would you want to be born in your next life?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdg4y6/if_you_could_be_reborn_how_would_you_want_to_be/</link>
+      <description>由用户 /u/GrandAgitated2735 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/GrandAgitated2735 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdg4y6</guid>
+      <pubDate>Thu, 15 Jan 2026 10:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 在'无聊'行业工作的人，幕后有哪些出人意料的高能或有趣事件？ / People who work in 'boring' industries, what is a surprisingly dramatic or interesting thing that happens behind the scenes?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdgkg1/people_who_work_in_boring_industries_what_is_a/</link>
+      <description>由用户 /u/Dramalife55 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Dramalife55 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdgkg1</guid>
+      <pubDate>Thu, 15 Jan 2026 10:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 你在现实生活中发现过哪些不为人知的“作弊代码”？ / What is a secret 'cheat code' you’ve found in real life?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdgl1d/what_is_a_secret_cheat_code_youve_found_in_real/</link>
+      <description>由用户 /u/Sharkkkk2 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Sharkkkk2 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdgl1d</guid>
+      <pubDate>Thu, 15 Jan 2026 10:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 我用Gemini API（3.0 Flash版）打造了一款AI“第二大脑”应用，比GPT-4更快更省钱。大家觉得如何？ / I built an AI "Second Brain" app using Gemini API (3.0 Flash). It's way faster/cheaper than GPT-4. Thoughts?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdgx3x/i_built_an_ai_second_brain_app_using_gemini_api/</link>
+      <description>大家好，👋 我是一名16岁的高中生。我正在开发一款名为Cortex（Cortex）的知识管理应用，用来整理我杂乱无章的考试笔记。我决定集成Gemini API（特别是Flash模型），而不是其他大语言模型，因为我需要低延迟和大上下文窗口，以便在移动设备上处理长文章或PDF。这款应用能利用Gemini自动为你输入的任何链接或文本打标签并生成摘要。它已在Play Store（Play商店）上架。非常希望大家能测试一下它的AI性能，并告诉我Gemini的集成体验是否流畅。以下是我制作的Cortex应用链接：https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;pli=1 由/u/mustafa_enes726提交 [链接] [评论]
+
+---
+
+Original:
+Hi everyone, 👋 I'm a 16yo high school student. I was building a knowledge management app called Cortex to organize my messy exam notes. I decided to integrate Gemini API (specifically the Flash model) instead of other LLMs because I needed low latency and a large context window to process long articles/PDFs on mobile. The app automatically tags and summarizes any link/text you throw at it using Gemini. It's live on Play Store. I'd love for you to test the AI performance and let me know if the Gemini integration feels smooth. Here's the Cortex App that i made: https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;pli=1 submitted by /u/mustafa_enes726 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdgx3x</guid>
+      <pubDate>Thu, 15 Jan 2026 11:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 像素城市 / Pixel City</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdgx5e/pixel_city/</link>
+      <description>由用户 /u/memerwala_londa 提交的 ChatGPT + Midjourney 作品 [链接] [评论]
+
+---
+
+Original:
+ChatGPT + Midjourney submitted by /u/memerwala_londa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdgx5e</guid>
+      <pubDate>Thu, 15 Jan 2026 11:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT是最佳物理治疗师 / ChatGPT is the best physical therapist</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdgy9c/chatgpt_is_the_best_physical_therapist/</link>
+      <description>多年来，我一直受着相当严重但间歇性的肩痛困扰。我看了很多不同的物理治疗师，却始终无法获得持久的效果。我的核磁共振（MRI）检查结果正常，只是肌腱炎。我把最近的核磁共振结果传给了ChatGPT，并详细描述了我的疼痛感、感受和位置。每周，ChatGPT都指导我进行多种不同的锻炼，以精准定位问题根源。现在，我已经完全不痛了。开始用ChatGPT治疗仅两个月后……我对OpenAI感激不尽……已经两周无痛，希望能持续更久。❤️❤️ 由/u/be-ay-be-why提交 [链接] [评论]
+
+---
+
+Original:
+I've been dealing with pretty severe yet intermittent shoulder pain for years. Ive gone to soo many different physical therapists and wasn't able to get any lasting results. I have a clean mri, just tendonitis. I passed my last mri results to chatgpt and also just talked through my pain, what I feel and where. Week by week, chatgpt progressed me through a multitude of different exercises to pinpoint where the problem was coming from. Now I'm pain-free. Just two months after starting my treatment with ChatGPT... I'm so unbelievably grateful to openai... Two weeks pain free hoping for many more. ❤️❤️ submitted by /u/be-ay-be-why [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdgy9c</guid>
+      <pubDate>Thu, 15 Jan 2026 11:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 利用n8n简化视频头像生成 / n8n-Powered Video Avatar Generation Made Simple</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdgyy0/n8npowered_video_avatar_generation_made_simple/</link>
+      <description>过去，创建个性化视频头像需要复杂工具和数小时编辑，但借助n8n，这一过程可实现全自动化。通过n8n工作流连接AI驱动的视频生成工具，您可以根据用户输入或定时事件自动生成带有自定义文本、语音和动画的头像。这使得营销、教育或社交媒体内容创作无需人工干预即可规模化。该工作流处理从输入解析到输出存储的所有环节，几分钟内即可交付即用型视频头像。这不仅节省时间，更能持续产出动态内容，更有效地吸引受众。我很高兴……
+
+---
+
+Original:
+Creating personalized video avatars used to require complex tools and hours of editing, but with n8n, the process can be fully automated. By connecting AI-driven video generation tools through n8n workflows you can automatically produce avatars with custom text, voice and animations triggered by user input or scheduled events. This makes it possible to scale content creation for marketing, education or social media without manual intervention. The workflow handles everything from input parsing to output storage, delivering ready-to-use video avatars in minutes. Its not just about saving time its about unlocking consistent, dynamic content that can engage audiences more effectively. I’m happy…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdgyy0</guid>
+      <pubDate>Thu, 15 Jan 2026 11:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT 一直这样自言自语吗？ / Has ChatGpt always spoken to itself like this?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdh1wz/has_chatgpt_always_spoken_to_itself_like_this/</link>
+      <description>我知道不止我一个人好奇它到底在想什么……由 /u/UrMomUWish 提交 [链接] [评论]
+
+---
+
+Original:
+I know I’m not the only one who wants to know what it’s thinking… submitted by /u/UrMomUWish [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdh1wz</guid>
+      <pubDate>Thu, 15 Jan 2026 11:26:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 我读完了《2026年智能体编排与自动化现状报告》——以下是我的核心收获 / I read "2026 State of Agentic Orchestration &amp; Automation Report" - Here are my key takeaways</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdh21i/i_read_2026_state_of_agentic_orchestration/</link>
+      <description>我刚读完《2026年智能体编排与自动化现状报告》（由Camunda委托发布）。报告调查了1,150名高级IT和业务主管。其中我看到的最有趣的数据是：71%的组织正在使用AI智能体，但其中仅11%真正投入生产环境。这表明当前对AI智能体的投资效率极低。领导者们一致认为，愿景与现实之间仍有巨大差距。目前80%的智能体仅仅是“聊天机器人或助手”。我们公司也经历过类似情况。一位客户告诉我们，他们拥有150多个不同的智能体，其中几乎都是基于简单提示的LLM调用。81%的受访者认为，若缺乏“智能体编排”，将难以实现……
+
+---
+
+Original:
+I just finished reading the 2026 State of Agentic Orchestration &amp; Automation Report (commissioned by Camunda ). They surveyed 1,150 senior IT and business leaders. Most interesting data I saw from the report: %71 of organizations use AI agents. %11 of them actually reached production. So the investment towards AI agents is super ineffective currently. Leaders agreed that the vision and reality is still far apart. 80% of current agents are just "chatbots or assistants". We experienced this in our company too. A client told us they have 150+ different agents. Nearly all of them were simple LLM calls with simple prompts. 81% of respondents believe that without "agentic orchestration", achieving…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdh21i</guid>
+      <pubDate>Thu, 15 Jan 2026 11:26:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

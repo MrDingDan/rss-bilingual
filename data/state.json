@@ -941,7 +941,17 @@
     "reddit-openai::t3_1qdfofx": 1768473625,
     "reddit-askreddit::t3_1qdfjxa": 1768473633,
     "reddit-android::t3_1qdfazw": 1768473638,
-    "reddit-tasker::t3_1qdflgy": 1768473644
+    "reddit-tasker::t3_1qdflgy": 1768473644,
+    "reddit-ai-agents::t3_1qdh21i": 1768476693,
+    "reddit-ai-agents::t3_1qdgyy0": 1768476701,
+    "reddit-chatgpt::t3_1qdgx5e": 1768476708,
+    "reddit-openai::t3_1qdh1wz": 1768476715,
+    "reddit-openai::t3_1qdgy9c": 1768476727,
+    "reddit-bard::t3_1qdgx3x": 1768476739,
+    "reddit-askreddit::t3_1qdfam1": 1768476745,
+    "reddit-askreddit::t3_1qdg4y6": 1768476750,
+    "reddit-askreddit::t3_1qdgl1d": 1768476755,
+    "reddit-askreddit::t3_1qdgkg1": 1768476760
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4671,6 +4681,46 @@
     "3136a895e31ecf67e6e1b61ffe61843d57757394092a716e82d8ed28a2a82c7e": {
       "zh_title": "如何解锁我的手机？",
       "zh_summary": "你好，如何解锁我的手机？最佳方法是什么？我用MacroDroid实现了：屏幕亮起时点击指定位置，在输入框粘贴密码，然后按回车，效果很好。但在Tasker上该怎么操作呢？由/u/oraklesearch提交 [链接] [评论]"
+    },
+    "cb677ca6de1b2cec58042361440109f3781ca1592e007de91e1dfa1a80b3e6fd": {
+      "zh_title": "我读完了《2026年智能体编排与自动化现状报告》——以下是我的核心收获",
+      "zh_summary": "我刚读完《2026年智能体编排与自动化现状报告》（由Camunda委托发布）。报告调查了1,150名高级IT和业务主管。其中我看到的最有趣的数据是：71%的组织正在使用AI智能体，但其中仅11%真正投入生产环境。这表明当前对AI智能体的投资效率极低。领导者们一致认为，愿景与现实之间仍有巨大差距。目前80%的智能体仅仅是“聊天机器人或助手”。我们公司也经历过类似情况。一位客户告诉我们，他们拥有150多个不同的智能体，其中几乎都是基于简单提示的LLM调用。81%的受访者认为，若缺乏“智能体编排”，将难以实现……"
+    },
+    "4ebe91a50997d148bd5e703b1aa04542407436b544a8a44cae27f3d579d0f846": {
+      "zh_title": "利用n8n简化视频头像生成",
+      "zh_summary": "过去，创建个性化视频头像需要复杂工具和数小时编辑，但借助n8n，这一过程可实现全自动化。通过n8n工作流连接AI驱动的视频生成工具，您可以根据用户输入或定时事件自动生成带有自定义文本、语音和动画的头像。这使得营销、教育或社交媒体内容创作无需人工干预即可规模化。该工作流处理从输入解析到输出存储的所有环节，几分钟内即可交付即用型视频头像。这不仅节省时间，更能持续产出动态内容，更有效地吸引受众。我很高兴……"
+    },
+    "00be4eaa1f52bcd2da7547fc56dddd28ab5201ec781a9b8e92b94595f0092003": {
+      "zh_title": "像素城市",
+      "zh_summary": "由用户 /u/memerwala_londa 提交的 ChatGPT + Midjourney 作品 [链接] [评论]"
+    },
+    "a17422c87d9a9fbfd55bba798eb8dc9fbaddb727e29b61bd7bd2165ba2db032f": {
+      "zh_title": "ChatGPT 一直这样自言自语吗？",
+      "zh_summary": "我知道不止我一个人好奇它到底在想什么……由 /u/UrMomUWish 提交 [链接] [评论]"
+    },
+    "f60832ef8c589e4454d45cfcb85e901603a5c53e0f2cacd87826aec4ac1efaf9": {
+      "zh_title": "ChatGPT是最佳物理治疗师",
+      "zh_summary": "多年来，我一直受着相当严重但间歇性的肩痛困扰。我看了很多不同的物理治疗师，却始终无法获得持久的效果。我的核磁共振（MRI）检查结果正常，只是肌腱炎。我把最近的核磁共振结果传给了ChatGPT，并详细描述了我的疼痛感、感受和位置。每周，ChatGPT都指导我进行多种不同的锻炼，以精准定位问题根源。现在，我已经完全不痛了。开始用ChatGPT治疗仅两个月后……我对OpenAI感激不尽……已经两周无痛，希望能持续更久。❤️❤️ 由/u/be-ay-be-why提交 [链接] [评论]"
+    },
+    "3448d605363e502f8e3296b467090e4f77c5adbea4c40739506c5dcace5b735a": {
+      "zh_title": "我用Gemini API（3.0 Flash版）打造了一款AI“第二大脑”应用，比GPT-4更快更省钱。大家觉得如何？",
+      "zh_summary": "大家好，👋 我是一名16岁的高中生。我正在开发一款名为Cortex（Cortex）的知识管理应用，用来整理我杂乱无章的考试笔记。我决定集成Gemini API（特别是Flash模型），而不是其他大语言模型，因为我需要低延迟和大上下文窗口，以便在移动设备上处理长文章或PDF。这款应用能利用Gemini自动为你输入的任何链接或文本打标签并生成摘要。它已在Play Store（Play商店）上架。非常希望大家能测试一下它的AI性能，并告诉我Gemini的集成体验是否流畅。以下是我制作的Cortex应用链接：https://play.google.com/store/apps/details?id=com.enesy.bookmarker&pli=1 由/u/mustafa_enes726提交 [链接] [评论]"
+    },
+    "6407f3c72ab761e67e035cb1285f2f1c87627f4813dd50347e67fe43ed514ea0": {
+      "zh_title": "有哪些广为流传的说法，你其实并不认同？",
+      "zh_summary": "由 /u/ComprehensiveMap1360 提交 [链接] [评论]"
+    },
+    "6e9dedddbf870591adde94724cb8cd535835f8b107ab49a487277b53be3b58f9": {
+      "zh_title": "如果能够重生，你希望下辈子以何种方式降生？",
+      "zh_summary": "由用户 /u/GrandAgitated2735 提交 [链接] [评论]"
+    },
+    "5179db3af320fa3dce9303f3aea2524616e58c9826f6fe8dedef2927df343abc": {
+      "zh_title": "你在现实生活中发现过哪些不为人知的“作弊代码”？",
+      "zh_summary": "由用户 /u/Sharkkkk2 提交 [链接] [评论]"
+    },
+    "5caa64addcf78f437c40d4531b541d62d1ffae5109fd6e7c9aa92076422cdf6e": {
+      "zh_title": "在'无聊'行业工作的人，幕后有哪些出人意料的高能或有趣事件？",
+      "zh_summary": "由用户 /u/Dramalife55 提交 [链接] [评论]"
     }
   }
 }

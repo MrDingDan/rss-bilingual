@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 10:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:31:49 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1284,6 +1284,18 @@ Original:
 submitted by /u/atallfigure [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdfgac</guid>
       <pubDate>Thu, 15 Jan 2026 09:50:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>像素城市 / Pixel City</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdgx5e/pixel_city/</link>
+      <description>由用户 /u/memerwala_londa 提交的 ChatGPT + Midjourney 作品 [链接] [评论]
+
+---
+
+Original:
+ChatGPT + Midjourney submitted by /u/memerwala_londa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdgx5e</guid>
+      <pubDate>Thu, 15 Jan 2026 11:18:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

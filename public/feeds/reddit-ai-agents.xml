@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 10:39:32 +0000</lastBuildDate>
-    <item>
-      <title>AI智能体失败更多是因为推理能力差还是情境理解差？ / Do AI agents fail more because of bad reasoning or bad context?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qanpj6/do_ai_agents_fail_more_because_of_bad_reasoning/</link>
-      <description>我们经常讨论如何改进推理能力、优化提示词和开发更聪明的模型，但我不断发现智能体失败的原因在于误解了所处的情境。缺失背景信息、数据过时或接口不稳定，似乎比逻辑缺陷更容易导致它们出错。当智能体需要从网络或仪表板收集情境信息时，有些团队会使用受控浏览器环境（如hyperbrowser）来减少干扰和不可预测性。这让我思考：情境质量是否才是当前的主要限制因素？根据你的经验，导致失败更多的是推理能力不足还是情境理解不足？ 提交者：/u/The_Default_Guyxxo [链接] [评论]
-
----
-
-Original:
-We talk a lot about improving reasoning, better prompts, and smarter models, but I keep seeing agents fail because they misunderstand the situation they are operating in. Missing context, outdated information, or unstable interfaces seem to derail them more than flawed logic. When agents need to gather context from the web or dashboards, some teams use controlled browser environments like hyperbrowser to reduce noise and unpredictability. That makes me wonder if context quality is actually the limiting factor right now. In your experience, what causes more failures: poor reasoning or poor context? submitted by /u/The_Default_Guyxxo [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qanpj6</guid>
-      <pubDate>Mon, 12 Jan 2026 06:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌发布UCP——自Stripe以来在线购物的最大变革 / Google just dropped UCP — the biggest shift in online shopping since Stripe</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qap7ym/google_just_dropped_ucp_the_biggest_shift_in/</link>
-      <description>谷歌刚刚宣布了UCP（Universal Commerce Protocol，通用商务协议），其影响远超名称所示。UCP是一项开放标准，让AI代理能够真正购买商品，而不仅仅是推荐。想象一下：从产品发现→结账→支付，全程可在谷歌搜索AI模式和Gemini等AI工具内完成。有趣的是，这不仅是谷歌的尝试。合作伙伴包括：Shopify、沃尔玛（Walmart）、塔吉特（Target）、Etsy、Visa、万事达卡（Mastercard）、Stripe、美国运通（AmEx）。为何重要：AI代理正成为买家，而非助手；结账页面和销售漏斗可能逐渐消失；谁控制了AI发现，谁就控制了商务。这仿佛是AI驱动购物领域的“Stripe时刻”。谷歌表示商家……
-
----
-
-Original:
-Google just announced UCP (Universal Commerce Protocol) and it feels like a bigger deal than the name suggests. UCP is an open standard that lets AI agents actually buy things , not just recommend them. Think: product discovery → checkout → payment, all handled inside AI tools like Google Search AI Mode and Gemini . The interesting part? This isn’t just Google experimenting. Partners include: Shopify, Walmart, Target, Etsy Visa, Mastercard, Stripe, AmEx Why this matters: AI agents are becoming buyers , not assistants Checkout pages and funnels could slowly disappear Whoever controls AI discovery controls commerce This feels like the Stripe moment for AI-driven shopping Google says merchants…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qap7ym</guid>
-      <pubDate>Mon, 12 Jan 2026 08:07:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 11:31:41 +0000</lastBuildDate>
     <item>
       <title>AI智能体是否已为你替代了整个工作流程？如果是，具体是如何实现的？ / Has an AI agent replaced an entire workflow for you yet? If so how?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qaqnyq/has_an_ai_agent_replaced_an_entire_workflow_for/</link>
@@ -1464,6 +1440,30 @@ Original:
 Hello! I'm looking for some advice :) A potential client contacted me on a platform about setting up an AI voice assistant that will answer calls on his behalf when he's unavailable, record appointments, send confirmation SMS messages, and send a text message one hour before each appointment. He can't tell me how many calls and appointments that represents per month. So I'm having trouble telling him how much it will cost. Does anyone have any advice, please? I'm thinking of charging him €225 for the setup, plus the platform taking 20%. And then €100 per month + €1 per call. What do you think? I'm using Vapi.ai, n8n, and Twilio to manage this project; it's not easy to know in advance how muc…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdfsw7</guid>
       <pubDate>Thu, 15 Jan 2026 10:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>利用n8n简化视频头像生成 / n8n-Powered Video Avatar Generation Made Simple</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdgyy0/n8npowered_video_avatar_generation_made_simple/</link>
+      <description>过去，创建个性化视频头像需要复杂工具和数小时编辑，但借助n8n，这一过程可实现全自动化。通过n8n工作流连接AI驱动的视频生成工具，您可以根据用户输入或定时事件自动生成带有自定义文本、语音和动画的头像。这使得营销、教育或社交媒体内容创作无需人工干预即可规模化。该工作流处理从输入解析到输出存储的所有环节，几分钟内即可交付即用型视频头像。这不仅节省时间，更能持续产出动态内容，更有效地吸引受众。我很高兴……
+
+---
+
+Original:
+Creating personalized video avatars used to require complex tools and hours of editing, but with n8n, the process can be fully automated. By connecting AI-driven video generation tools through n8n workflows you can automatically produce avatars with custom text, voice and animations triggered by user input or scheduled events. This makes it possible to scale content creation for marketing, education or social media without manual intervention. The workflow handles everything from input parsing to output storage, delivering ready-to-use video avatars in minutes. Its not just about saving time its about unlocking consistent, dynamic content that can engage audiences more effectively. I’m happy…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdgyy0</guid>
+      <pubDate>Thu, 15 Jan 2026 11:21:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>我读完了《2026年智能体编排与自动化现状报告》——以下是我的核心收获 / I read "2026 State of Agentic Orchestration &amp; Automation Report" - Here are my key takeaways</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdh21i/i_read_2026_state_of_agentic_orchestration/</link>
+      <description>我刚读完《2026年智能体编排与自动化现状报告》（由Camunda委托发布）。报告调查了1,150名高级IT和业务主管。其中我看到的最有趣的数据是：71%的组织正在使用AI智能体，但其中仅11%真正投入生产环境。这表明当前对AI智能体的投资效率极低。领导者们一致认为，愿景与现实之间仍有巨大差距。目前80%的智能体仅仅是“聊天机器人或助手”。我们公司也经历过类似情况。一位客户告诉我们，他们拥有150多个不同的智能体，其中几乎都是基于简单提示的LLM调用。81%的受访者认为，若缺乏“智能体编排”，将难以实现……
+
+---
+
+Original:
+I just finished reading the 2026 State of Agentic Orchestration &amp; Automation Report (commissioned by Camunda ). They surveyed 1,150 senior IT and business leaders. Most interesting data I saw from the report: %71 of organizations use AI agents. %11 of them actually reached production. So the investment towards AI agents is super ineffective currently. Leaders agreed that the vision and reality is still far apart. 80% of current agents are just "chatbots or assistants". We experienced this in our company too. A client told us they have 150+ different agents. Nearly all of them were simple LLM calls with simple prompts. 81% of respondents believe that without "agentic orchestration", achieving…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdh21i</guid>
+      <pubDate>Thu, 15 Jan 2026 11:26:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

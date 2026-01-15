@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 10:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:32:08 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1196,6 +1196,30 @@ Original:
 A new report from the Brennan Center for Justice outlines the urgent need to regulate AI deepfakes in political campaigns before they undermine election integrity. The study argues that while satire and parody must be protected under the First Amendment, lawmakers should enforce strict labeling on synthetic media and consider outright bans on deceptive content designed to suppress votes or spread false information about when and where to vote. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdg4vi</guid>
       <pubDate>Thu, 15 Jan 2026 10:32:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT是最佳物理治疗师 / ChatGPT is the best physical therapist</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdgy9c/chatgpt_is_the_best_physical_therapist/</link>
+      <description>多年来，我一直受着相当严重但间歇性的肩痛困扰。我看了很多不同的物理治疗师，却始终无法获得持久的效果。我的核磁共振（MRI）检查结果正常，只是肌腱炎。我把最近的核磁共振结果传给了ChatGPT，并详细描述了我的疼痛感、感受和位置。每周，ChatGPT都指导我进行多种不同的锻炼，以精准定位问题根源。现在，我已经完全不痛了。开始用ChatGPT治疗仅两个月后……我对OpenAI感激不尽……已经两周无痛，希望能持续更久。❤️❤️ 由/u/be-ay-be-why提交 [链接] [评论]
+
+---
+
+Original:
+I've been dealing with pretty severe yet intermittent shoulder pain for years. Ive gone to soo many different physical therapists and wasn't able to get any lasting results. I have a clean mri, just tendonitis. I passed my last mri results to chatgpt and also just talked through my pain, what I feel and where. Week by week, chatgpt progressed me through a multitude of different exercises to pinpoint where the problem was coming from. Now I'm pain-free. Just two months after starting my treatment with ChatGPT... I'm so unbelievably grateful to openai... Two weeks pain free hoping for many more. ❤️❤️ submitted by /u/be-ay-be-why [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdgy9c</guid>
+      <pubDate>Thu, 15 Jan 2026 11:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 一直这样自言自语吗？ / Has ChatGpt always spoken to itself like this?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdh1wz/has_chatgpt_always_spoken_to_itself_like_this/</link>
+      <description>我知道不止我一个人好奇它到底在想什么……由 /u/UrMomUWish 提交 [链接] [评论]
+
+---
+
+Original:
+I know I’m not the only one who wants to know what it’s thinking… submitted by /u/UrMomUWish [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdh1wz</guid>
+      <pubDate>Thu, 15 Jan 2026 11:26:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
