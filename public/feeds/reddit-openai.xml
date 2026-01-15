@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 08:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 09:39:06 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1160,6 +1160,18 @@ Original:
 submitted by /u/EchoOfOppenheimer [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qddh74</guid>
       <pubDate>Thu, 15 Jan 2026 07:46:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI重新聘回三名前研究员，包括Thinking Machines联合创始人兼前CTO / OpenAI re-joined 3 former researchers including a CTO &amp; Co founder of Thinking Machines</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdehxx/openai_rejoined_3_former_researchers_including_a/</link>
+      <description>OpenAI已重新聘回三名前研究员。根据官方在X平台发布的声明，其中包括一位前首席技术官以及Thinking Machines公司的联合创始人。由/u/BuildwithVignesh提交[链接][评论]
+
+---
+
+Original:
+OpenAI has rehired three former researchers. This includes a former CTO and a cofounder of Thinking Machines, confirmed by official statements on X. submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdehxx</guid>
+      <pubDate>Thu, 15 Jan 2026 08:49:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

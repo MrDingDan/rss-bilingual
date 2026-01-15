@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 08:46:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 09:38:57 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1452,6 +1452,18 @@ Original:
 Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
       <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年构建AI智能体的顶尖工具（无代码与高代码选项） / Top Tools to Build AI Agents in 2026 (No Code and High Code Options)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdf5vu/top_tools_to_build_ai_agents_in_2026_no_code_and/</link>
+      <description>过去一年里，我一直在构建和测试AI智能体，这个行业发展太快，要跟上节奏几乎不可能。与其只关注技术框架，我根据工具所需的设置或编码工作量进行了分类。以下是我基于经验整理的实用清单。无代码/低代码工具（适合快速部署） 1. Workbeaver AI 一款专注于执行而非复杂设置的无代码AI智能体。你只需描述或演示任务，它就能在桌面和浏览器中执行操作。感觉更像是委派工作而非配置自动化，非常适合快速工作流。 2. n8n 一个灵活的开源自动化平台，擅长……
+
+---
+
+Original:
+I’ve been building and testing AI agents over the past year, and the industry is evolving so quickly that keeping up can feel impossible. Instead of focusing only on technical frameworks, I grouped tools by how much setup or coding effort they require. Here’s a practical list based on my experience. No / Low-Code Tools (Great for Fast Deployment) 1. Workbeaver AI A no code AI agent focused on execution rather than complex setup. You simply describe or demonstrate the task, and it performs the actions across desktop and browser. It feels more like delegating work than configuring automation, making it ideal for quick workflows. 2. n8n A flexible, open source automation platform. Excellent for…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdf5vu</guid>
+      <pubDate>Thu, 15 Jan 2026 09:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

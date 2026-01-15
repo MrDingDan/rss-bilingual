@@ -925,7 +925,13 @@
     "reddit-claudeai::t3_1qdcpq8": 1768466777,
     "reddit-bard::t3_1qdebgz": 1768466785,
     "reddit-askreddit::t3_1qdcp2n": 1768466790,
-    "reddit-askreddit::t3_1qdaxz4": 1768466795
+    "reddit-askreddit::t3_1qdaxz4": 1768466795,
+    "reddit-ai-agents::t3_1qdf5vu": 1768469937,
+    "reddit-openai::t3_1qdehxx": 1768469946,
+    "reddit-askreddit::t3_1qdecyz": 1768469957,
+    "reddit-askreddit::t3_1qdetbg": 1768469965,
+    "reddit-askreddit::t3_1qde3tp": 1768469970,
+    "reddit-tasker::t3_1qdewng": 1768469980
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4591,6 +4597,30 @@
     "b459050112e616331bd1133570ad03b32bfd70cbc422087808220e75f771dab6": {
       "zh_title": "那些长期服刑的人，出狱后最让你震惊的是什么？",
       "zh_summary": "由用户 /u/Haunted_Neko 提交 [链接] [评论]"
+    },
+    "88cd915defdb543c06c88dca51e8191fb535b8d6095e8963f2d5ade0b6346f9c": {
+      "zh_title": "2026年构建AI智能体的顶尖工具（无代码与高代码选项）",
+      "zh_summary": "过去一年里，我一直在构建和测试AI智能体，这个行业发展太快，要跟上节奏几乎不可能。与其只关注技术框架，我根据工具所需的设置或编码工作量进行了分类。以下是我基于经验整理的实用清单。无代码/低代码工具（适合快速部署） 1. Workbeaver AI 一款专注于执行而非复杂设置的无代码AI智能体。你只需描述或演示任务，它就能在桌面和浏览器中执行操作。感觉更像是委派工作而非配置自动化，非常适合快速工作流。 2. n8n 一个灵活的开源自动化平台，擅长……"
+    },
+    "56cc5e84bfe11098143d9f7e6a3334966bb8279a96cfb0ba22e7cf7c3f062071": {
+      "zh_title": "OpenAI重新聘回三名前研究员，包括Thinking Machines联合创始人兼前CTO",
+      "zh_summary": "OpenAI已重新聘回三名前研究员。根据官方在X平台发布的声明，其中包括一位前首席技术官以及Thinking Machines公司的联合创始人。由/u/BuildwithVignesh提交[链接][评论]"
+    },
+    "fff4b97c1d5f5125caf227e4251f4a2e51e19a1ad29de16da1d913f55fc65318": {
+      "zh_title": "哪个瞬间让你对世界有了不同的看法？",
+      "zh_summary": "由用户 /u/BodybuilderLeather65 提交 [链接] [评论]"
+    },
+    "5a54b05c3b00cf71960f97deda50a1c46f7a0152a78c5dc56b8b0d856df948b4": {
+      "zh_title": "哪些工作看似简单，直到你真正上手才发现不简单？",
+      "zh_summary": "由用户 /u/SoftBunnyTea 提交 [链接] [评论]"
+    },
+    "5d593cabc14951df6d94ab0bb6e8f1991b98b648107035f6d8c54be46fc48999": {
+      "zh_title": "你第一次上网用的是哪款设备？",
+      "zh_summary": "由 /u/Live-Slip-698 提交 [链接] [评论]"
+    },
+    "ca861d16fb310fc7b874732905a5ee190ef2614292dec03bcc3b1012d6759a67": {
+      "zh_title": "Wireguard开关任务运行异常",
+      "zh_summary": "我使用Wireguard连接家庭网络，但众所周知，这会导致无法连接Chromecast或Android Auto。为此，我在Tasker中创建了一些配置文件和任务，以便在连接到家庭WiFi或车载Android Auto蓝牙设备时关闭Wireguard隧道。我设置了两个配置文件：HomeWifi和CarBT，分别在连接对应设备时运行关闭VPN隧道的任务，并为两者配置了断开连接后重新开启隧道的退出任务。问题是，虽然任务和HomeWifi运行良好，但CarBT配置文件仅在蓝牙…"
     }
   }
 }

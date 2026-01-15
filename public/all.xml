@@ -6,79 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 08:46:39 +0000</lastBuildDate>
-    <item>
-      <title>[xgo_f299207d] 智能体构建器的绝佳应用案例！打造一个环境监控智能体，自动监测Slack频道并创建Linear工单 / great use case for agent builder! an ambient agent to monitor slack channel and create linear ticket...</title>
-      <link>https://x.com/hwchase17/status/2011542430420779264</link>
-      <description>智能体构建器的绝佳应用案例！打造一个环境监控智能体，自动监测Slack频道并创建Linear工单。Lauren @ LangChain Docs @docs_plz 文档请求在Slack中总是被淹没 🫠，所以我用LangSmith的智能体构建器创建了一个智能体，它能自动生成Linear工单、提取上下文、链接回讨论串、应用标签并自动分配任务。无需编写代码，只需一个提示！✨ 亲自试试吧：smith.langchain.com/agents?skipOnb… i 🔗 查看引用推文 💬 0 🔄 0 ❤️ 0 👀 418 📊 1 ⚡ 由 xgo.ing 提供支持
-
----
-
-Original:
-great use case for agent builder! an ambient agent to monitor slack channel and create linear tickets Lauren @ LangChain Docs @docs_plz Docs requests kept getting buried in Slack 🫠 so I built an agent with LangSmith Agent Builder that creates Linear tickets, pulls in context, links back to threads, applies labels, and auto-assigns. No code, just a prompt! ✨ Try it for yourself: smith.langchain.com/agents?skipOnb… i 🔗 View Quoted Tweet 💬 0 🔄 0 ❤️ 0 👀 418 📊 1 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::2011542430420779264</guid>
-      <pubDate>Wed, 14 Jan 2026 20:54:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 四年后，同样的提示 / Same Prompt Four Years Later</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qczc2t/same_prompt_four_years_later/</link>
-      <description>由用户 /u/Algoartist 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Algoartist [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qczc2t</guid>
-      <pubDate>Wed, 14 Jan 2026 21:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 还有人在Claude Code 2.1.7中遇到“达到上下文限制”的错误吗？ / Anyone else getting “Context limit reached” in Claude Code 2.1.7?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qczpzg/anyone_else_getting_context_limit_reached_in/</link>
-      <description>以下是一个简洁清晰的英文版本，你可以发布在Reddit上：我在使用Claude Code时遇到了问题。我使用的是2.1.7版本，一直收到这个错误提示：达到上下文限制 · 输入/compact或/clear以继续 Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 我打算尝试降级到稳定版本。我已经完全重新安装了Claude Code，包括原生安装程序和WSL2下的Ubuntu环境。还有其他人遇到这个问题吗？ 由/u/SilverMethor提交 [链接] [评论]
-
----
-
-Original:
-Here is a simple, clear English version you can post on Reddit: I'm having a problem with Claude Code. I’m using version 2.1.7 and I keep getting this error: Context limit reached · /compact or /clear to continue Opus 4.5 | v2.1.7 | 83% | 166145/200000 | &gt;200k:false https://preview.redd.it/og1zqa2isddg1.png?width=1089&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5e96475e309503e736fbb01ad21bb52a87eff302 I'm going to try downgrading to the stable version. I already did a full reinstall of Claude Code. Native installer and WSL2 with Ubuntu. Is anyone else having this problem? submitted by /u/SilverMethor [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qczpzg</guid>
-      <pubDate>Wed, 14 Jan 2026 21:17:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude Code 现已支持工具搜索功能！！ / Tool Search now available in Claude Code!!</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qczqsx/tool_search_now_available_in_claude_code/</link>
-      <description>推文：今天我们为 Claude Code 推出了 MCP 工具搜索功能。随着 MCP 协议日益普及、智能体能力不断增强，我们发现 MCP 服务器可能包含 50 多个工具，会占用大量上下文空间。工具搜索功能让 Claude Code 能在 MCP 工具可能占用大量上下文时，动态地将工具加载到上下文中。运作方式：- Claude Code 会检测您的 MCP 工具描述是否将占用超过 10% 的上下文空间 - 触发时，工具将通过搜索加载，而非预先加载。除此之外，MCP 工具的工作方式与之前完全相同。这解决了我们在 GitHub 上最受期待的功能之一：MCP 服务器的延迟加载。用户们一直在记录…
-
----
-
-Original:
-Tweet: Today we're rolling out MCP Tool Search for Claude Code. As MCP has grown to become a more popular protocol and agents have become more capable, we've found that MCP servers may have up to 50+ tools and take up a large amount of context. Tool Search allows Claude Code to dynamically load tools into context when MCP tools would otherwise take up a lot of context. How it works: - Claude Code detects when your MCP tool descriptions would use more than 10% of context - When triggered, tools are loaded via search instead of preloaded Otherwise, MCP tools work exactly as before. This resolves one of our most-requested features on GitHub: lazy loading for MCP servers. Users were documenting…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qczqsx</guid>
-      <pubDate>Wed, 14 Jan 2026 21:18:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 让Gemini协助完成GIS任务时，它的“思考”竟转向了形而上学？从《反思我的实践》说起 / Had Gemini help me on a GIS task and its "thoughts" meandered into metaphysics?? Starting from "Reflecting on My Practice"</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qczrt3/had_gemini_help_me_on_a_gis_task_and_its_thoughts/</link>
-      <description>这有点奇怪……我正在生成贷款量可视化地图，展示按平均贷款规模缩放的持牌机构位置。我已整合了州议会众议院和参议院选区图层。持牌机构以点状呈现，点的大小和颜色基于各点的平均贷款金额。为提升对比度和可读性，我选用了'magma'色系。优化地图视觉效果时，我意识到部分贷款数据会产生缺失值，影响可视化呈现。我使用scale_color_viridis_c让平均贷款额更高的点更明亮，最终生成的地图中，更大更亮的圆点代表……
-
----
-
-Original:
-This was odd... Visualizing Loan Volume I'm now generating the map showing licensee locations scaled by average loan volume. I've incorporated the assembly and senate district layers. Licensees are represented as points, and the size and color are based on the average loan amount per location. I'm using a 'magma' color palette for good contrast and readability. Enhancing Map Aesthetics I'm now focusing on visual enhancements for the loan volume map. I've realized some loan data will result in missing values, impacting the visualization. I've used scale_color_viridis_c to make points with higher average loan amounts brighter. The result is a map where companies with larger, brighter dots indi…</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qczrt3</guid>
-      <pubDate>Wed, 14 Jan 2026 21:19:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 你是如何获得AI智能体工程师职位的？ / How did you land your AI Agent Engineering role?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qczslq/how_did_you_land_your_ai_agent_engineering_role/</link>
-      <description>大家好，我对AI智能体工程师这个职业非常感兴趣。很想听听大家是如何获得智能体工程师职位的故事。我去年开始构建AI智能体，并在提示与上下文工程、工具设计、技能等许多子技能方面积累了实践经验。我很好奇想听听从事这一职位的其他人分享：大致地点（州或国家即可）、所在行业、是否拥有计算机科学或IT等技术学位、在获得该职位前有多少年编程/软件工程经验、是直接申请还是通过人脉推荐、项目作品集是否有帮助，以及你认为对获得这份工作帮助最大的是什么？由 /u/reidkimbal 提交
-
----
-
-Original:
-Hi, I'm very interested in a career of AI Agent Engineering. I'd love to hear stories of how you landed your Agent Engineering role. I started building AI Agents last year, and I'm getting hands on experience with a lot of sub-skills like prompt and context engineering, tool design, and skills. I'm curious to hear from others in this role about: General location (state/country is fine) Industry Do you have a technical degree like Computer Science, or IT? How many years experience with programming/software eng. before landing your role? Did you apply cold or was it through networking? Did having a project portfolio help? What do you think helped most to get the job? submitted by /u/reidkimbal…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qczslq</guid>
-      <pubDate>Wed, 14 Jan 2026 21:20:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 09:39:43 +0000</lastBuildDate>
     <item>
       <title>[reddit_android] 三星终于确认基础版Galaxy AI功能将保持免费 / Samsung finally confirms the basic Galaxy AI features staying free</title>
       <link>https://www.reddit.com/r/Android/comments/1qczwqx/samsung_finally_confirms_the_basic_galaxy_ai/</link>
@@ -1436,6 +1364,18 @@ Looking for experienced engineers to try breaking a stateless AI execution gate 
       <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你第一次上网用的是哪款设备？ / On which device you surfed internet for the first time?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qde3tp/on_which_device_you_surfed_internet_for_the_first/</link>
+      <description>由 /u/Live-Slip-698 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Live-Slip-698 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qde3tp</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_chatgpt] 试试看！输入提示词：“根据我们之前的所有互动，生成一张我如何对待你的图片” / Try it! give the prompt "Create an image of how I treated you, based on all our previous interactions"</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qde8p7/try_it_give_the_prompt_create_an_image_of_how_i/</link>
       <description>这是由 /u/Fit_Profit6786 提交的作品 [链接] [评论]
@@ -1458,6 +1398,66 @@ Original:
 Are there signs of a 3 series model to succeed 2.5 Flash Native Audio? submitted by /u/sdmat [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdebgz</guid>
       <pubDate>Thu, 15 Jan 2026 08:38:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 哪个瞬间让你对世界有了不同的看法？ / What’s a moment that made you see the world differently?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdecyz/whats_a_moment_that_made_you_see_the_world/</link>
+      <description>由用户 /u/BodybuilderLeather65 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/BodybuilderLeather65 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdecyz</guid>
+      <pubDate>Thu, 15 Jan 2026 08:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] OpenAI重新聘回三名前研究员，包括Thinking Machines联合创始人兼前CTO / OpenAI re-joined 3 former researchers including a CTO &amp; Co founder of Thinking Machines</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdehxx/openai_rejoined_3_former_researchers_including_a/</link>
+      <description>OpenAI已重新聘回三名前研究员。根据官方在X平台发布的声明，其中包括一位前首席技术官以及Thinking Machines公司的联合创始人。由/u/BuildwithVignesh提交[链接][评论]
+
+---
+
+Original:
+OpenAI has rehired three former researchers. This includes a former CTO and a cofounder of Thinking Machines, confirmed by official statements on X. submitted by /u/BuildwithVignesh [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdehxx</guid>
+      <pubDate>Thu, 15 Jan 2026 08:49:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 哪些工作看似简单，直到你真正上手才发现不简单？ / What’s a job that looks easy until you actually do it?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdetbg/whats_a_job_that_looks_easy_until_you_actually_do/</link>
+      <description>由用户 /u/SoftBunnyTea 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/SoftBunnyTea [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdetbg</guid>
+      <pubDate>Thu, 15 Jan 2026 09:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_tasker] Wireguard开关任务运行异常 / Task to turn Wireguard on/off not working properly</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdewng/task_to_turn_wireguard_onoff_not_working_properly/</link>
+      <description>我使用Wireguard连接家庭网络，但众所周知，这会导致无法连接Chromecast或Android Auto。为此，我在Tasker中创建了一些配置文件和任务，以便在连接到家庭WiFi或车载Android Auto蓝牙设备时关闭Wireguard隧道。我设置了两个配置文件：HomeWifi和CarBT，分别在连接对应设备时运行关闭VPN隧道的任务，并为两者配置了断开连接后重新开启隧道的退出任务。问题是，虽然任务和HomeWifi运行良好，但CarBT配置文件仅在蓝牙…
+
+---
+
+Original:
+I'm using Wireguard to connect to my home network, but as many of you will be aware, that makes it impossible to do things like connecting to a ChromeCast or Android Auto. As such I made some profiles and tasks in Tasker to turn the Wireguard tunnel off when I connect to either my home wifi, or to my car's Android Auto bluetooth device. I made two profiles that run the task to turn the VPN tunnel off when they connect to my wifi (profile HomeWifi) or my car (profile CarBT). I made exit tasks for both profiles that turn the tunnel back on after they disconnect from either. My problem is that while both the tasks and the HomeWifi run beautifully, the CarBT profile only disconnects when the blu…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdewng</guid>
+      <pubDate>Thu, 15 Jan 2026 09:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 2026年构建AI智能体的顶尖工具（无代码与高代码选项） / Top Tools to Build AI Agents in 2026 (No Code and High Code Options)</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdf5vu/top_tools_to_build_ai_agents_in_2026_no_code_and/</link>
+      <description>过去一年里，我一直在构建和测试AI智能体，这个行业发展太快，要跟上节奏几乎不可能。与其只关注技术框架，我根据工具所需的设置或编码工作量进行了分类。以下是我基于经验整理的实用清单。无代码/低代码工具（适合快速部署） 1. Workbeaver AI 一款专注于执行而非复杂设置的无代码AI智能体。你只需描述或演示任务，它就能在桌面和浏览器中执行操作。感觉更像是委派工作而非配置自动化，非常适合快速工作流。 2. n8n 一个灵活的开源自动化平台，擅长……
+
+---
+
+Original:
+I’ve been building and testing AI agents over the past year, and the industry is evolving so quickly that keeping up can feel impossible. Instead of focusing only on technical frameworks, I grouped tools by how much setup or coding effort they require. Here’s a practical list based on my experience. No / Low-Code Tools (Great for Fast Deployment) 1. Workbeaver AI A no code AI agent focused on execution rather than complex setup. You simply describe or demonstrate the task, and it performs the actions across desktop and browser. It feels more like delegating work than configuring automation, making it ideal for quick workflows. 2. n8n A flexible, open source automation platform. Excellent for…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdf5vu</guid>
+      <pubDate>Thu, 15 Jan 2026 09:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
