@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 03:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 04:52:17 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1088,6 +1088,42 @@ Original:
 https://tmastreet.com/elon-musk-vs-openai-landmark-trial-ai-governance/ Judge Yvonne Gonzalez Rogers just cleared Elon Musk’s lawsuit against OpenAI for a jury trial starting April 27th. Whatever you think about Musk, the core question here matters: Can an organization accept $44 million in donations based on promises to stay nonprofit, then flip to a $500 billion for-profit and call it evolution? The facts that got this to trial: A 2017 diary entry from Greg Brockman surfaced where he wrote about wanting to become a billionaire and mused “maybe we should just flip to a for profit. Making the money for us sounds great and all.” The judge found “plenty of evidence” that OpenAI’s leadership ma…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qd8ho7</guid>
       <pubDate>Thu, 15 Jan 2026 03:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI公司正构建可互操作系统 / AI companies are building interoperable systems</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd9cu8/ai_companies_are_building_interoperable_systems/</link>
+      <description>根据Anthropic和谷歌近期的公告，人工智能正朝着通过单一界面处理多个应用和任务的方向发展。
+
+---
+
+Original:
+Based on recent announcements from Anthropic and Google, AI is moving toward handling multiple apps and tasks from a single interface.. submitted by /u/Express_Classic_1569 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd9cu8</guid>
+      <pubDate>Thu, 15 Jan 2026 04:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>为何在相同图像视觉任务中，Assistants API 比 Chat Completions 少用 4-5 倍令牌数？（GPT-4o / 4.1） / Why does Assistants API use 4-5x fewer tokens than Chat Completions for the exact same vision task with images? (GPT-4o / 4.1)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd9wws/why_does_assistants_api_use_45x_fewer_tokens_than/</link>
+      <description>大家好，我在使用 OpenAI 模型（GPT-4o 和 GPT-4.1）进行**视觉/图像分析**时，发现根据使用 Chat Completions API 还是 Assistants API，令牌消耗量差异巨大。相同的提示、相同的图像、相同的任务——但成本完全不同。**Chat Completions API**（通过消息中的 image_url 传递图像）：- GPT-4o：每次运行约 7036、7422、7412、7414 个令牌- GPT-4.1：约 7046、7243、7241 个令牌**Assistants API**（将图像上传至存储一次，然后在会话中引用 file_ids）：- GPT-4o：约 1372、1451 个令牌- GPT-4.1：约 1364、1786 个令牌→ 对于基本相同的视觉理解任务，Assistants API 整体少用了 **4–5 倍** 的令牌。唯一的实际区别……
+
+---
+
+Original:
+Hey everyone, I'm seeing a massive difference in token usage when doing **vision/image analysis** with OpenAI models (GPT-4o and GPT-4.1), depending on whether I use Chat Completions API or Assistants API. Same prompt, same images, same task — but completely different costs. **Chat Completions API** (passing images via image_url in messages): - GPT-4o: ~7036, 7422, 7412, 7414 tokens per run - GPT-4.1: ~7046, 7243, 7241 tokens **Assistants API** (uploading images to storage once, then referencing file_ids in the thread): - GPT-4o: ~1372, 1451 tokens - GPT-4.1: ~1364, 1786 tokens → Assistants is using **4–5× fewer tokens** overall for basically identical visual understanding. The only real dif…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd9wws</guid>
+      <pubDate>Thu, 15 Jan 2026 04:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>像素城市 / Pixel City</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qda324/pixel_city/</link>
+      <description>由用户 /u/memerwala_londa 提交的 ChatGPT 提示已完成 [链接] [评论]
+
+---
+
+Original:
+Prompt done my ChatGPT submitted by /u/memerwala_londa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qda324</guid>
+      <pubDate>Thu, 15 Jan 2026 04:40:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

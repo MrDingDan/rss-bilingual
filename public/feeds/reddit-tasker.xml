@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 03:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 04:52:53 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -390,6 +390,18 @@ Original:
 I'm looking to create a toggle between stereo and mono sound. I tried using autoTools secure settings action to use the setting picker, but it couldn't find when I changed it. Nothing in settings for audio, etc, seems what I'm looking for. submitted by /u/Rubyheart255 [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qd5nn3</guid>
       <pubDate>Thu, 15 Jan 2026 01:17:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[项目分享] 优化文本（URI数据）导入导出流程，让Tasker文本导出更便捷 / [Project Share] Better Export Import Flow As Text (URI Data), exporting tasker as text made easier</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdaaqa/project_share_better_export_import_flow_as_text/</link>
+      <description>Taskernet上有一个配置文件，一直帮我轻松导入数据URI（Data URI），我想在这里分享一下。数据URI到底是什么？其实就是我们导出的XML数据，但以压缩文本格式呈现。如果你见过有人分享以taskertask://Hasadqwekjo1i2e开头的奇怪网址，那就是数据URI。我知道可能有些人不太了解这个，我来解释一下。这个名字太技术宅了！我们已经有Taskernet了，为什么还要用数据URI？URI数据自给自足且快速。文本本身已包含数据，且足够简短，适合以文本形式分享。如果你想通过快速分享（Quick Share）在设备间传输，这个选项似乎最合理。由于它也很短，可以方便地发布……
+
+---
+
+Original:
+Taskernet I have a profile that has been been helping me importing Data URI easily and I'd like to share it here. What is Data URI anyway? It's the XML data we export but it's in text format, compressed. If you have seen someone shares some strange URL that starts with taskertask://Hasadqwekjo1i2e , that's what Data URI is. I know that some may not know this, and I got you. The name is way too geeky! We have taskernet, so why use Data URI? URI Data is self-reliant and quick. The text contains the data already and is short enough to share as text. If you want to share between device to device via Quick Share, this options seems to make the most sense. Since it's short as well, it can be poste…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdaaqa</guid>
+      <pubDate>Thu, 15 Jan 2026 04:51:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

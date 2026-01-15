@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 03:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 04:52:26 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -750,6 +750,18 @@ Original:
 This one: https://9to5google.com/2025/12/03/gemini-web-redesign-dec-2025/ submitted by /u/Googler10 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qd8l6k</guid>
       <pubDate>Thu, 15 Jan 2026 03:28:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini使用限制大幅调整 / Latest huge Gemini limit changes</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd965n/latest_huge_gemini_limit_changes/</link>
+      <description>谷歌是否全面提升了所有模型的使用限制？此前每日提示次数约为100次，Pro版与Thinking版共享同一额度。但现在看来，每日有效提示次数已提升至400次——这对图像生成等功能意义重大。此外，新版AI Plus方案似乎比更新前的AI Pro拥有更多额度。有人测试过新限制吗？是否有Plus、Pro或Ultra用户能分享使用体验？https://support.google.com/gemini/answer/16275805?hl=en 由/u/BroKenLight6提交 [链接] [评论]
+
+---
+
+Original:
+Did Google just bump up the usage limits across all models? Earlier, it used to be around 100 prompts per day, with Pro and Thinking sharing the same quota. But now it looks like we’re effectively getting up to 400 prompts per day, which could be huge, especially for image generation. It also seems like the AI Plus plan now has more quota than AI Pro did before this update. Has anyone tested the new limits yet? Any Plus, Pro, or Ultra users here who can share their experience? https://support.google.com/gemini/answer/16275805?hl=en submitted by /u/BroKenLight6 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd965n</guid>
+      <pubDate>Thu, 15 Jan 2026 03:56:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

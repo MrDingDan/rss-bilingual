@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 03:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 04:51:31 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1207,6 +1207,30 @@ Original:
 Until a few hours ago, when my conversations hit the context limit, Claude would automatically compact/summarize the conversation (showing "Compacting our conversation so we can keep chatting"). Now I'm getting the hard error immediately: "Claude hit the maximum length for this conversation. Please start a new conversation." - Plan: Max - Code Execution: Enabled - Browser: Chrome - Changed settings: None Is anyone else experiencing this today (January 14, 2026)? submitted by /u/MiddleDiligent7744 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qd8gjl</guid>
       <pubDate>Thu, 15 Jan 2026 03:22:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>我重新构建了十多年前的另一个创意项目——Trendr / I rebuilt another idea I had been working on over a decade ago - Trendr</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd8qq7/i_rebuilt_another_idea_i_had_been_working_on_over/</link>
+      <description>2012年时，我独自在洛杉矶生活有些艰难，经历分手后，“在洛杉矶结识新朋友真不容易”这种感觉尤为强烈。我想开发一款应用，让人们能基于任何共同兴趣交朋友。它不像Meetup那样细分专注，但必须是移动优先的设计。我曾认真尝试过这个项目，还获得了一些天使投资，但最终未能真正起步。现在，我决定借助Claude再试一次，成果就是Trendr。这是一款本地活动应用，让你能根据兴趣和活动发现周边动态。我还开发了Wingman——一个能提供建议的活动助手……
+
+---
+
+Original:
+Back in 2012 it was a bit tough being in LA by myself and after going through a breakup the whole "man it's hard to meet folks in LA" was really hitting hard. I wanted to build an app where I could just make friends over really anything. Nothing as granular as Meetup that was very focused, but also with something that was mobile first. I'd given it a legitimate shot and gotten some angel investments for it but it never really got off the ground. I decided to give it another go using Claude and the result was Trendr. It's a local event app that lets you find stuff that's going on around you based on your interests and activities. I also built Wingman - an event co-pilot that can make suggesti…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd8qq7</guid>
+      <pubDate>Thu, 15 Jan 2026 03:35:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>我用Claude Code在3小时内构建了一个完整的React应用——自己一行代码都没写 / uilt a full React app in 3 hours with Claude Code — zero lines of code written by me</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd9kjw/uilt_a_full_react_app_in_3_hours_with_claude_code/</link>
+      <description>这周我做的东西实在忍不住要分享，因为到现在还觉得像变魔术。我懂前端开发，但一直想做个面包烘焙时间表应用（酸面团发酵要将近20小时，我实在受够了设12个闹钟）。一想到要花几周写JavaScript逻辑，我就一直没动手。然后我试了试Claude Code。我就是……跟它聊天。像客户描述需求那样：“我要个下拉菜单选不同食谱”“根据开始时间计算时间点”“加个配料切换开关”“部署到GitHub Pages”。搞定。搞定。搞定。搞定。聊了3小时。就这样。（好吧，加上等速率限制的时间😅）成果就是——Flour Hour：…
+
+---
+
+Original:
+I wanted to share what I built this week because honestly, it still feels like magic. I know frontend development, but I've been wanting to build a bread baking schedule app for a while (sourdough takes ~20 hours and I was tired of setting 12 alarms). The thought of spending weeks on all the JavaScript logic kept stopping me. Then I tried Claude Code. I just... talked to it. Like a client explaining what they want: "I want a dropdown to select different recipes" "Calculate the timestamps based on start time" "Add an ingredients toggle" "Deploy it to GitHub Pages" Done. Done. Done. Done. 3 hours of conversation. That's it. (Okay, plus some waiting for rate limits 😅) The result — Flour Hour :…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd9kjw</guid>
+      <pubDate>Thu, 15 Jan 2026 04:15:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

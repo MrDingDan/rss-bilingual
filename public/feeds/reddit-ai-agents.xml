@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 03:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 04:50:46 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1296,6 +1296,54 @@ Original:
 Ever seen a photo and wondered who it is or where it came from? That’s where Faceseek helps. Faceseek is a smart face search tool that lets you discover public profiles, similar images, and online presence using just a face. It’s super simple to use, no complicated steps or tech headache. Whether you’re a researcher, journalist, digital marketer, or just curious, Faceseek saves time and effort. Results come fast and feel accurate most of the time. No spammy ads, no confusion. Just upload, search, and explore. Once you try it, you’ll keep coming back, honestly. submitted by /u/Impressive_Push4311 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qd8xms</guid>
       <pubDate>Thu, 15 Jan 2026 03:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI智能体控制平台有哪些应用场景？ / Use cases for AI Agent Control Plane?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd9f4p/use_cases_for_ai_agent_control_plane/</link>
+      <description>近期我们看到各大厂商（微软、ServiceNow）和初创公司（singulr.ai、languard.ai）纷纷发布AI智能体控制平台。对于IT和安全团队而言，采用独立的AI智能体控制平台主要有哪些应用场景？ 提交者：/u/Ill_Engineer_4255 [链接] [评论]
+
+---
+
+Original:
+We have seen a rise of AI Agent Control Plane announcements from large vendors (Microsoft, ServiceNow) and startups (singulr.ai, languard.ai). For IT and Security teams, what are the primary use cases for adopting a separate AI agent control plane? submitted by /u/Ill_Engineer_4255 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd9f4p</guid>
+      <pubDate>Thu, 15 Jan 2026 04:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>面向B2B SaaS产品的AI智能体 / AI agent for B2B SaaS product</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd9pda/ai_agent_for_b2b_saas_product/</link>
+      <description>我们开发零售规划产品，希望在此基础上构建AI智能体，帮助规划人员更高效地开展工作。请问如何着手启动？最快的方式是什么？ 发布者：/u/LimeNew1984 [链接] [评论]
+
+---
+
+Original:
+We make products for retail planning, and we want to create AI agent on top of it that will help planners plan in a better manner, can someone please help how I can get started, What would be quickest way? submitted by /u/LimeNew1984 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd9pda</guid>
+      <pubDate>Thu, 15 Jan 2026 04:22:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>有没有类似Claude Cowork的功能，无需等待Claude Cowork发布？ / Current Claude Cowork-like capabilities without waiting for Claude Cowork?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd9v4o/current_claude_coworklike_capabilities_without/</link>
+      <description>我正在积极寻找类似最近发布的Claude Cowork的工具。目前，我使用Windsurf和Cursor这类软件开发IDE来处理同一非技术项目下的多个文档。效果尚可，但它们缺乏对非技术主题的研究能力。如果你尝试过任何有效的工具，能否分享一下？由/u/horace_yip提交 [链接] [评论]
+
+---
+
+Original:
+I am actively looking for tools similar to the recently announced Claude Cowork. Currently, I use software development IDEs such as Windsurf and Cursor to work on multiple documents under the same non-technical project. The outcome is ok, but they lack the research capability on non-technical topics. If you have tried anything that works, could you please share? submitted by /u/horace_yip [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd9v4o</guid>
+      <pubDate>Thu, 15 Jan 2026 04:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>为我的网站搭建一个简易聊天机器人 / Simple chat bot for my website</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qda75x/simple_chat_bot_for_my_website/</link>
+      <description>我想在网站上添加一个聊天机器人。不需要高度优化，只需用大约100个页面进行RAG（检索增强生成），搭配向量数据库和BM25索引，再调用OpenAI（任何模型都行）。无需记忆功能和个人化设置。可想而知，上级要求尽快完成。我只需要它能运行起来，以便收集使用数据——如果客户喜欢，我们再深入优化。请问有没有可以直接安装、快速配置并投入生产环境的产品？谢谢！提交者：/u/Hk_90 [链接] [评论]
+
+---
+
+Original:
+I want a chatbot on my website. I am not looking for super optimizations. Just use the 100ish pages for RAG with some vector db and a BM25 index and call Openai(anything will do). No memory and personalization. Pressure from the top to build this ASAP as you can imagine. I just need it to run so that we can collect usage data and if customers like it then we will get into the hyper optimizations. Can someone please point me to some product that I can just install, quickly configure and use in production? Thank you for your help! submitted by /u/Hk_90 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qda75x</guid>
+      <pubDate>Thu, 15 Jan 2026 04:46:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

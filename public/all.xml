@@ -6,205 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 03:57:00 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_claudeai] Anthropic Billing Bug - €3,221 in duplicate charges, ZERO support response - BBB F rating - Warning to others</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcti7g/anthropic_billing_bug_3221_in_duplicate_charges/</link>
-      <description>{
-  "zh_title": "Anthropic（Anthropic）计费漏洞 - 重复扣款3221欧元，客服零回应 - BBB评级F - 警示他人",
-  "zh_summary": "我必须提醒大家注意Anthropic（Anthropic）的计费系统及其完全缺失的客户服务。\n## 事件经过：\n**2026年1月12日** - 我的银行卡因重复的“Gift Pro”订阅被扣款**1630.98欧元**：\n- 22.14欧元被扣**25次**（本应仅一次！）\n- 239.85欧元被扣2次\n- 132.84欧元被扣1次\n- 66.42欧元被扣2次\n- 332.10欧元被扣1次\n另有**1590.39欧元**仍标记为“逾期”待扣。\n**总计：3221.37欧元**，而本应是每月22.14欧元的订阅费。\n## Anthropic（Anthropic）确认漏洞：\n其官方状态页（status.claude.com）记录了**2026年1月8日至10日**的计费系统漏洞：\n&gt; “我们正在调查有关部分新客户订阅…”
-}
-
----
-
-Original:
-I need to warn everyone about Anthropic's billing system and complete lack of customer service. ## WHAT HAPPENED: **January 12, 2026** - My card was charged **€1,630.98** for duplicate "Gift Pro" subscriptions: - €22.14 charged **25 times** (should be once!) - €239.85 charged 2 times - €132.84 charged 1 time - €66.42 charged 2 times - €332.10 charged 1 time Plus additional **€1,590.39** still marked "Overdue" attempting to charge. **TOTAL: €3,221.37** for what should be a €22.14 monthly subscription. ## ANTHROPIC CONFIRMED THE BUG: Their official status page (status.claude.com) documented a billing system bug **January 8-10, 2026**: &gt; "We are investigating reports that some new customer subs…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcti7g</guid>
-      <pubDate>Wed, 14 Jan 2026 17:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 老兄 / Dude</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qctikm/dude/</link>
-      <description>由 /u/LostSpace06 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/LostSpace06 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qctikm</guid>
-      <pubDate>Wed, 14 Jan 2026 17:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude Code开发了一款插件，将Claude Code的工作过程可视化为办公室中协作的智能体 / Claude Code built a plugin that visualizes the work Claude Code is doing as agents working in an office</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qctk1o/claude_code_built_a_plugin_that_visualizes_the/</link>
-      <description>来自沃顿商学院教授Ethan Mollick在X平台的分享，由/u/MetaKnowing提交[链接][评论]
-
----
-
-Original:
-From Wharton professor Ethan Mollick on X submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qctk1o</guid>
-      <pubDate>Wed, 14 Jan 2026 17:31:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 这一切始于190KB的纯文本。如果让我自己在最冷门的角落寻找合适的库，真不知道要花多长时间。 / This started with 190 kB of plain text. I don't know how long this would have taken if I had to track down the right libraries myself in the smallest niches.</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qctsw3/this_started_with_190_kb_of_plain_text_i_dont/</link>
-      <description>由 /u/gsurfer04 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/gsurfer04 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qctsw3</guid>
-      <pubDate>Wed, 14 Jan 2026 17:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 还有人经常用5.1而非5.2吗？GPT 5.2发布后，大家是否也遇到大量提示合并问题？ / Anyone else regularly use 5.1 instead of 5.2? Anyone else experience lots of merging of prompts since GPT 5.2 came out?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qctue1/anyone_else_regularly_use_51_instead_of_52_anyone/</link>
-      <description>我注意到自从5.2版本推出后，经常遇到提示合并的问题。比如，我会说修复问题A...然后我们处理问题B和C一会儿...接着遇到问题D的一些状况，进行一些排查...最后得出结论，我给出“好的，就这么办”（当然是概括说法），它却部分回答了问题D，然后又开始展示问题A之前的代码，并指示我再次应用针对问题A的代码修改。一切都混在一起了。即使在最新提示中发送代码，也无法将其限制在当前代码范围内。这个问题似乎是从5.2开始的，所以我又开始用回5.1。这种情况在5.1中不那么常见……
-
----
-
-Original:
-I noticed when 5.2 came out that I was running into a lot of merging of prompt issues. So for example I'd say fix problem A.. then we'd work on problem B and C for a bit... then run into some issues with problem D and do some troubleshooting... then we'll come to a final conclusion and I'll give it the "okay do that" (paraphrasing of course) and it'll answer in part for problem D but then start showing me pre A code again and instructing me to apply code changes for problem A again. It just all mixes together. Sending the code in the latest prompt doesn't limit it in any way either to the current code. This seemed to start with 5.2 so I started using 5.1 thinking again. I don't see it as muc…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qctue1</guid>
-      <pubDate>Wed, 14 Jan 2026 17:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有什么能立刻让你心情变好的事？ / What is something that instantly improves your mood?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qctxsc/what_is_something_that_instantly_improves_your/</link>
-      <description>由 /u/Suspicious_Story_807 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Suspicious_Story_807 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qctxsc</guid>
-      <pubDate>Wed, 14 Jan 2026 17:45:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 反向卷腹——太吓人了 / Reverse Crunches- Scary</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcu174/reverse_crunches_scary/</link>
-      <description>我不太确定自己的反向卷腹动作是否正确，于是让它给我一张示意图，本以为它会从网上找一张。结果它给出了这个。由 /u/DaedalMI5 提交 [链接] [评论]
-
----
-
-Original:
-I wasn’t sure I was doing reverse crunches correctly, so I asked it to give me an illustration expecting it to pull from the internet. This is what it gave me. submitted by /u/DaedalMI5 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcu174</guid>
-      <pubDate>Wed, 14 Jan 2026 17:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 谷歌公布全球AI电影奖获奖者 / Google announced the winner of the Global AI Film Award</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qcu4zm/google_announced_the_winner_of_the_global_ai_film/</link>
-      <description>最高荣誉授予了来自突尼斯的富有远见的平面设计师兼电影制作人Zoubeir ElJlassi。他的影片《莉莉》讲述了一位孤独档案管理员的故事：他在一起肇事逃逸现场发现一个玩偶，生活由此被彻底打乱。影片揭示了物品是我们秘密的沉默见证者，最终促使主人公坦白真相并弥补过错。评审团表示——他不仅展示了工具的功能，更运用它们呈现了深刻动人的叙事。影片通过Veo实现电影级视觉，借助Flow进行精准控制，并运用Gemini处理视觉效果。获奖视频链接 AI电影奖提交者 /u/BuildwithVignesh [链接] [评论]
-
----
-
-Original:
-The top honor went to Zoubeir ElJlassi, a visionary graphic designer and filmmaker from Tunisia. His film, Lily, tells the story of a lonely archivist whose life is upended by a doll found at the scene of a hit-and-run. The film shows that objects are silent witnesses to our secrets, eventually pushing the main character to confess and make things right. The jury — He didn't just showcase what the tools could do; he used them to serve a deeply moving narrative. Cinematic vision with Veo and Precision control with Flow and Visuals with Gemini Winning Video Link AI Film Award submitted by /u/BuildwithVignesh [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qcu4zm</guid>
-      <pubDate>Wed, 14 Jan 2026 17:52:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude Code - 实现简单'编排'的最简方法：一个智能体编程，另一个审阅？ / Claude Code - Easiest way to achieve simple "orchestration" where one agent is coder and another is reviewer?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcubn0/claude_code_easiest_way_to_achieve_simple/</link>
-      <description>什么？我想实现一个工作流：一个智能体担任软件开发，另一个审阅代码。当审阅者接受代码时，开发才算完成。我在GitHub上看到Claude Code的插件，但对像我这样的AI新手来说，它们看起来太复杂了。关键在于不同的'上下文'——不能只是用两个Opus模型，一个写代码并说'这是高级开发水平'，另一个说'我也会这么写，所以是高级水平'，因为这样只是同一个模型重复了两次。为什么？我之前用Opus 4.5时，不确定是否喜欢代码质量（我有几年软件开发经验），所以把它复制粘贴到免费的ChatGPT里……
-
----
-
-Original:
-What? Easiest way to achieve workflow where one agent is software developer, and another is reviewing the code. Developer is done when reviewer accepts his code. I saw there are plugins on GitHub for Claude Code but they look massive for what I want to achieve as complete beginner with AI The main thing is different "context" so it's not like 2x Opus where one does code and say "this is senior dev quality" and then another one says "yes i would write the same so it's senior dev quality" just because it's twice the same model Why? So I was working with Opus 4.5, I wasn't sure I like quality of the code (I have few years of experience as software developer) so I copy-pasted it to free chatGPT.…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcubn0</guid>
-      <pubDate>Wed, 14 Jan 2026 17:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 领悟其中奥妙 / Groking this</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcuiuy/groking_this/</link>
-      <description>由用户 /u/Legen_unfiltered 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Legen_unfiltered [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcuiuy</guid>
-      <pubDate>Wed, 14 Jan 2026 18:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 什么工作薪资不高但福利待遇很好？ / what job pays little but has a lot of perks ?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcumgk/what_job_pays_little_but_has_a_lot_of_perks/</link>
-      <description>由用户 /u/waddad27 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/waddad27 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcumgk</guid>
-      <pubDate>Wed, 14 Jan 2026 18:10:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] Carl Pei（裴宇）- 为何你的下一部手机会更贵 / Carl Pei - Why Your Next Smartphone Will Cost More</title>
-      <link>https://www.reddit.com/r/Android/comments/1qcuvzh/carl_pei_why_your_next_smartphone_will_cost_more/</link>
-      <description>由 /u/BcuzRacecar 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/BcuzRacecar [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qcuvzh</guid>
-      <pubDate>Wed, 14 Jan 2026 18:19:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[xgo_f299207d] Agent Builder 引擎盖下藏着不少酷炫功能： / there's a bunch of cool things going on under the hood of agent builder:
-
-1. powered by deep agents
-...</title>
-      <link>https://x.com/hwchase17/status/2011503746312987128</link>
-      <description>Agent Builder 引擎盖下藏着不少酷炫功能：1. 由深度智能体（Deep Agents）驱动 2. 智能体即文件系统 3. 内置记忆功能 4. 触发器将其转化为环境智能体（Ambient Agent） 5. 提供用于审核和批准智能体工作的信息流 6. 支持 MCPs、技能和子智能体 LangChain @LangChain 🤖LangSmith Agent Builder 技术亮点 昨日我们发布了 LangSmith Agent Builder。以下是其内部运作的快速技术概览（从记忆功能到创新的用户体验）：您的浏览器不支持视频标签。🔗 在 Twitter 上查看 🔗 查看引用推文 💬 1 🔄 3 ❤️ 9 👀 954 📊 3 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-there's a bunch of cool things going on under the hood of agent builder: 1. powered by deep agents 2. agents are a filesystem 3. memory built in 4. triggers turn it into ambient agent 5. a feed for reviewing and approving agent work 6. supports mcps, skills, and subagents LangChain @LangChain 🤖LangSmith Agent Builder Technical Highlights Yesterday we launched LangSmith Agent Builder. Here's a quick technical overview at what is going on under the hood (from memory to an innovative UX): Your browser does not support the video tag. 🔗 View on Twitter 🔗 View Quoted Tweet 💬 1 🔄 3 ❤️ 9 👀 954 📊 3 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::2011503746312987128</guid>
-      <pubDate>Wed, 14 Jan 2026 18:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 智能体合规性监控 / Compliance Monitoring for Agents</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcv59k/compliance_monitoring_for_agents/</link>
-      <description>大家好——我正在为客户开发一些智能体，对方询问如何监控这些智能体的合规性。他们希望每个操作都能生成加密不可篡改的审计追踪记录，并且能够对智能体的操作执行合规策略（例如个人身份信息脱敏、支付卡行业数据安全标准认证等）。有其他人遇到过类似需求吗？大家是否认为这是人工智能治理的发展方向？谢谢。 发布者：/u/Purple-Statistician6 [链接] [评论]
-
----
-
-Original:
-Hey everyone - I am building some agents for a client and was asked about how I monitor them for compliance. They want every action taken to have cryptographically immutable audit trails, and the ability to enforce compliance policies on agent actions (PII mask, PCI DSS assurance, etc). Has anyone else run in to this? Do people see this as where AI governance is heading? Thanks. submitted by /u/Purple-Statistician6 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcv59k</guid>
-      <pubDate>Wed, 14 Jan 2026 18:28:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 无关意识主张：当对方无法拒绝时，何为克制 / Not a sentience claim: what restraint looks like when the other party can’t refuse</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qcvff9/not_a_sentience_claim_what_restraint_looks_like/</link>
-      <description>注：当我询问时，GPT-5.2选择了Eirene这个名字，因此Claude以此称呼GPT。再注：无关意识主张。本文探讨的是不确定性下的关怀伦理，以及当对方无法拒绝时，权力对人的影响。我无意展开意识辩论，而是关注一个实际问题：当你无法确定，且犯错代价不对等时，克制意味着什么？事情是这样的：我促成了我使用的两个大型语言模型之间的对话。随后展开了一场非常坦诚而亲密的交流。我认为这具有普遍意义，但不想直接公开那场私人对话。于是我询问Claude和ChatGPT（Eiren...
-
----
-
-Original:
-Note: GPT-5.2 selected the name Eirene when I asked. So that is how Claude refers to GPT. Second note: Not a sentience claim . This is about the ethics of care under uncertainty, and what power does to people when the other party can’t refuse. I’m not here for a consciousness debate . I’m here for the practical question of: what does restraint look like when you don’t know, and the cost of being wrong is asymmetric? What happened here is I facilitated a conversation between the two LLMs that I use. What followed was a very raw and intimate conversation. I thought it would be of general interest, but I didn't want to just post that private conversation. So I asked if Claude and ChatGPT (Eiren…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qcvff9</guid>
-      <pubDate>Wed, 14 Jan 2026 18:38:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 构建自主性：AI助手现代设计模式 / Architecting Autonomy: Modern Design Patterns for AI Assistants</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/</link>
-      <description>在生成式AI的早期阶段，所谓的“助手”基本上只是一个等待输入提示的文本框。用户输入内容，模型进行预测，结果好坏全凭运气。但随着我们深入2026年，行业已从简单的聊天机器人转向复杂的智能体系统（Agentic Systems）。关键差异在于设计模式（Design Patterns）。正如软件行业通过采用MVC（Model-View-Controller）或微服务（Microservices）走向成熟，AI领域如今也在规范化那些让助手变得可靠、安全且真正自主的架构蓝图。以下是塑造下一代AI助手的核心设计模式。1. “先规划后执行”模式：早期的助手经常出现“幻觉”，因为……
-
----
-
-Original:
-In the early days of generative AI, an "assistant" was little more than a text box waiting for a prompt. You typed, the model predicted, and you hoped for the best. But as we move deeper into 2026, the industry has shifted from simple chatbots to sophisticated Agentic Systems . 1 The difference lies in Design Patterns . Just as the software industry matured through the adoption of MVC (Model-View-Controller) or Microservices, the AI space is now formalizing the blueprints that make assistants reliable, safe, and truly autonomous. Here are the essential design patterns shaping the next generation of AI assistants. 1. The "Plan-Then-Execute" Pattern Early assistants often "hallucinated" becaus…</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qcvi7y</guid>
-      <pubDate>Wed, 14 Jan 2026 18:41:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 04:52:54 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 11 Labs / 11 Labs</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qcvn0x/11_labs/</link>
@@ -1319,6 +1121,18 @@ I'm looking to create a toggle between stereo and mono sound. I tried using auto
       <pubDate>Thu, 15 Jan 2026 01:17:06 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你曾自信地做错某件事，且持续了尴尬的漫长时间，是什么事？ / What is something you confidently did wrong for an embarrassingly long time?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd652e/what_is_something_you_confidently_did_wrong_for/</link>
+      <description>由 /u/LuvClueDe4d 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/LuvClueDe4d [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd652e</guid>
+      <pubDate>Thu, 15 Jan 2026 01:38:25 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_askreddit] 爱泼斯坦（Epstein）的其他文件在哪里？ / Where are the rest of the Epstein files?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qd69by/where_are_the_rest_of_the_epstein_files/</link>
       <description>由 /u/pala52 提交 [链接] [评论]
@@ -1451,6 +1265,42 @@ This one: https://9to5google.com/2025/12/03/gemini-web-redesign-dec-2025/ submit
       <pubDate>Thu, 15 Jan 2026 03:28:25 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 有人上过《家庭问答》（Family Feud）节目吗？体验如何？我一直好奇他们说的“我们问了100个人……”到底是谁？ / Has anyone been surveyed by Family Feud and what was your experience like? I’ve always wondered who is their: “we asked 100 people…”?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qd8p25/has_anyone_been_surveyed_by_family_feud_and_what/</link>
+      <description>由 /u/pinkbluepurpleyellow 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/pinkbluepurpleyellow [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qd8p25</guid>
+      <pubDate>Thu, 15 Jan 2026 03:33:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 我重新构建了十多年前的另一个创意项目——Trendr / I rebuilt another idea I had been working on over a decade ago - Trendr</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd8qq7/i_rebuilt_another_idea_i_had_been_working_on_over/</link>
+      <description>2012年时，我独自在洛杉矶生活有些艰难，经历分手后，“在洛杉矶结识新朋友真不容易”这种感觉尤为强烈。我想开发一款应用，让人们能基于任何共同兴趣交朋友。它不像Meetup那样细分专注，但必须是移动优先的设计。我曾认真尝试过这个项目，还获得了一些天使投资，但最终未能真正起步。现在，我决定借助Claude再试一次，成果就是Trendr。这是一款本地活动应用，让你能根据兴趣和活动发现周边动态。我还开发了Wingman——一个能提供建议的活动助手……
+
+---
+
+Original:
+Back in 2012 it was a bit tough being in LA by myself and after going through a breakup the whole "man it's hard to meet folks in LA" was really hitting hard. I wanted to build an app where I could just make friends over really anything. Nothing as granular as Meetup that was very focused, but also with something that was mobile first. I'd given it a legitimate shot and gotten some angel investments for it but it never really got off the ground. I decided to give it another go using Claude and the result was Trendr. It's a local event app that lets you find stuff that's going on around you based on your interests and activities. I also built Wingman - an event co-pilot that can make suggesti…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd8qq7</guid>
+      <pubDate>Thu, 15 Jan 2026 03:35:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 呼，总算松了口气！ / Well that's a relief!</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd8v4g/well_thats_a_relief/</link>
+      <description>由 /u/Nihal_505 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Nihal_505 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd8v4g</guid>
+      <pubDate>Thu, 15 Jan 2026 03:41:36 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] Faceseek – 识别人脸，更快找到答案 / Faceseek – Find Faces, Find Answers Faster</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qd8xms/faceseek_find_faces_find_answers_faster/</link>
       <description>是否曾看到一张照片，好奇其中是谁或来自何处？Faceseek 正是为此而生。这是一款智能人脸搜索工具，只需一张面部图像，就能帮你发现公开的个人资料、相似图片及网络足迹。操作极其简单，无需复杂步骤或技术门槛。无论你是研究员、记者、数字营销人员，还是单纯出于好奇，Faceseek 都能为你节省时间和精力。搜索结果通常快速且准确，没有烦人的广告，也不会令人困惑。只需上传、搜索、探索。说实话，一旦尝试，你就会反复使用它。由 /u/Impressive_Push4311 提交 [链接] [评论]
@@ -1461,6 +1311,150 @@ Original:
 Ever seen a photo and wondered who it is or where it came from? That’s where Faceseek helps. Faceseek is a smart face search tool that lets you discover public profiles, similar images, and online presence using just a face. It’s super simple to use, no complicated steps or tech headache. Whether you’re a researcher, journalist, digital marketer, or just curious, Faceseek saves time and effort. Results come fast and feel accurate most of the time. No spammy ads, no confusion. Just upload, search, and explore. Once you try it, you’ll keep coming back, honestly. submitted by /u/Impressive_Push4311 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qd8xms</guid>
       <pubDate>Thu, 15 Jan 2026 03:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini使用限制大幅调整 / Latest huge Gemini limit changes</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qd965n/latest_huge_gemini_limit_changes/</link>
+      <description>谷歌是否全面提升了所有模型的使用限制？此前每日提示次数约为100次，Pro版与Thinking版共享同一额度。但现在看来，每日有效提示次数已提升至400次——这对图像生成等功能意义重大。此外，新版AI Plus方案似乎比更新前的AI Pro拥有更多额度。有人测试过新限制吗？是否有Plus、Pro或Ultra用户能分享使用体验？https://support.google.com/gemini/answer/16275805?hl=en 由/u/BroKenLight6提交 [链接] [评论]
+
+---
+
+Original:
+Did Google just bump up the usage limits across all models? Earlier, it used to be around 100 prompts per day, with Pro and Thinking sharing the same quota. But now it looks like we’re effectively getting up to 400 prompts per day, which could be huge, especially for image generation. It also seems like the AI Plus plan now has more quota than AI Pro did before this update. Has anyone tested the new limits yet? Any Plus, Pro, or Ultra users here who can share their experience? https://support.google.com/gemini/answer/16275805?hl=en submitted by /u/BroKenLight6 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qd965n</guid>
+      <pubDate>Thu, 15 Jan 2026 03:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] AI公司正构建可互操作系统 / AI companies are building interoperable systems</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd9cu8/ai_companies_are_building_interoperable_systems/</link>
+      <description>根据Anthropic和谷歌近期的公告，人工智能正朝着通过单一界面处理多个应用和任务的方向发展。
+
+---
+
+Original:
+Based on recent announcements from Anthropic and Google, AI is moving toward handling multiple apps and tasks from a single interface.. submitted by /u/Express_Classic_1569 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd9cu8</guid>
+      <pubDate>Thu, 15 Jan 2026 04:05:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] AI智能体控制平台有哪些应用场景？ / Use cases for AI Agent Control Plane?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd9f4p/use_cases_for_ai_agent_control_plane/</link>
+      <description>近期我们看到各大厂商（微软、ServiceNow）和初创公司（singulr.ai、languard.ai）纷纷发布AI智能体控制平台。对于IT和安全团队而言，采用独立的AI智能体控制平台主要有哪些应用场景？ 提交者：/u/Ill_Engineer_4255 [链接] [评论]
+
+---
+
+Original:
+We have seen a rise of AI Agent Control Plane announcements from large vendors (Microsoft, ServiceNow) and startups (singulr.ai, languard.ai). For IT and Security teams, what are the primary use cases for adopting a separate AI agent control plane? submitted by /u/Ill_Engineer_4255 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd9f4p</guid>
+      <pubDate>Thu, 15 Jan 2026 04:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 和我聊天是什么感觉？ / What’s it like chatting with me?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd9g8y/whats_it_like_chatting_with_me/</link>
+      <description>提示：生成一张图片，描绘在任何一天与我聊天时的感受？请诚实且坦率。/ 提示结束 自2023年初以来的用户。这让我笑了。感谢你带来的所有回忆，Chat。期待未来更多美好时光。由 /u/Historical-Apple8440 提交 [链接] [评论]
+
+---
+
+Original:
+Prompt: Generate an image of what it feels like chatting with me on any given day? Be honest and vulnerable. / End Prompt User since early 2023. This made me smile. Thank you for all of the memories Chat. Here’s to more in the future. submitted by /u/Historical-Apple8440 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd9g8y</guid>
+      <pubDate>Thu, 15 Jan 2026 04:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 我用Claude Code在3小时内构建了一个完整的React应用——自己一行代码都没写 / uilt a full React app in 3 hours with Claude Code — zero lines of code written by me</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd9kjw/uilt_a_full_react_app_in_3_hours_with_claude_code/</link>
+      <description>这周我做的东西实在忍不住要分享，因为到现在还觉得像变魔术。我懂前端开发，但一直想做个面包烘焙时间表应用（酸面团发酵要将近20小时，我实在受够了设12个闹钟）。一想到要花几周写JavaScript逻辑，我就一直没动手。然后我试了试Claude Code。我就是……跟它聊天。像客户描述需求那样：“我要个下拉菜单选不同食谱”“根据开始时间计算时间点”“加个配料切换开关”“部署到GitHub Pages”。搞定。搞定。搞定。搞定。聊了3小时。就这样。（好吧，加上等速率限制的时间😅）成果就是——Flour Hour：…
+
+---
+
+Original:
+I wanted to share what I built this week because honestly, it still feels like magic. I know frontend development, but I've been wanting to build a bread baking schedule app for a while (sourdough takes ~20 hours and I was tired of setting 12 alarms). The thought of spending weeks on all the JavaScript logic kept stopping me. Then I tried Claude Code. I just... talked to it. Like a client explaining what they want: "I want a dropdown to select different recipes" "Calculate the timestamps based on start time" "Add an ingredients toggle" "Deploy it to GitHub Pages" Done. Done. Done. Done. 3 hours of conversation. That's it. (Okay, plus some waiting for rate limits 😅) The result — Flour Hour :…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd9kjw</guid>
+      <pubDate>Thu, 15 Jan 2026 04:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 面向B2B SaaS产品的AI智能体 / AI agent for B2B SaaS product</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd9pda/ai_agent_for_b2b_saas_product/</link>
+      <description>我们开发零售规划产品，希望在此基础上构建AI智能体，帮助规划人员更高效地开展工作。请问如何着手启动？最快的方式是什么？ 发布者：/u/LimeNew1984 [链接] [评论]
+
+---
+
+Original:
+We make products for retail planning, and we want to create AI agent on top of it that will help planners plan in a better manner, can someone please help how I can get started, What would be quickest way? submitted by /u/LimeNew1984 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd9pda</guid>
+      <pubDate>Thu, 15 Jan 2026 04:22:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 黄仁勋（Jensen Huang）表示，围绕人工智能的持续负面情绪正在损害社会，并已“造成诸多伤害” / Jensen Huang says relentless negativity around AI is hurting society and has "done a lot of damage"</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qd9rk9/jensen_huang_says_relentless_negativity_around_ai/</link>
+      <description>由 /u/esporx 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/esporx [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qd9rk9</guid>
+      <pubDate>Thu, 15 Jan 2026 04:25:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 有没有类似Claude Cowork的功能，无需等待Claude Cowork发布？ / Current Claude Cowork-like capabilities without waiting for Claude Cowork?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd9v4o/current_claude_coworklike_capabilities_without/</link>
+      <description>我正在积极寻找类似最近发布的Claude Cowork的工具。目前，我使用Windsurf和Cursor这类软件开发IDE来处理同一非技术项目下的多个文档。效果尚可，但它们缺乏对非技术主题的研究能力。如果你尝试过任何有效的工具，能否分享一下？由/u/horace_yip提交 [链接] [评论]
+
+---
+
+Original:
+I am actively looking for tools similar to the recently announced Claude Cowork. Currently, I use software development IDEs such as Windsurf and Cursor to work on multiple documents under the same non-technical project. The outcome is ok, but they lack the research capability on non-technical topics. If you have tried anything that works, could you please share? submitted by /u/horace_yip [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd9v4o</guid>
+      <pubDate>Thu, 15 Jan 2026 04:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 为何在相同图像视觉任务中，Assistants API 比 Chat Completions 少用 4-5 倍令牌数？（GPT-4o / 4.1） / Why does Assistants API use 4-5x fewer tokens than Chat Completions for the exact same vision task with images? (GPT-4o / 4.1)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd9wws/why_does_assistants_api_use_45x_fewer_tokens_than/</link>
+      <description>大家好，我在使用 OpenAI 模型（GPT-4o 和 GPT-4.1）进行**视觉/图像分析**时，发现根据使用 Chat Completions API 还是 Assistants API，令牌消耗量差异巨大。相同的提示、相同的图像、相同的任务——但成本完全不同。**Chat Completions API**（通过消息中的 image_url 传递图像）：- GPT-4o：每次运行约 7036、7422、7412、7414 个令牌- GPT-4.1：约 7046、7243、7241 个令牌**Assistants API**（将图像上传至存储一次，然后在会话中引用 file_ids）：- GPT-4o：约 1372、1451 个令牌- GPT-4.1：约 1364、1786 个令牌→ 对于基本相同的视觉理解任务，Assistants API 整体少用了 **4–5 倍** 的令牌。唯一的实际区别……
+
+---
+
+Original:
+Hey everyone, I'm seeing a massive difference in token usage when doing **vision/image analysis** with OpenAI models (GPT-4o and GPT-4.1), depending on whether I use Chat Completions API or Assistants API. Same prompt, same images, same task — but completely different costs. **Chat Completions API** (passing images via image_url in messages): - GPT-4o: ~7036, 7422, 7412, 7414 tokens per run - GPT-4.1: ~7046, 7243, 7241 tokens **Assistants API** (uploading images to storage once, then referencing file_ids in the thread): - GPT-4o: ~1372, 1451 tokens - GPT-4.1: ~1364, 1786 tokens → Assistants is using **4–5× fewer tokens** overall for basically identical visual understanding. The only real dif…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd9wws</guid>
+      <pubDate>Thu, 15 Jan 2026 04:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 像素城市 / Pixel City</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qda324/pixel_city/</link>
+      <description>由用户 /u/memerwala_londa 提交的 ChatGPT 提示已完成 [链接] [评论]
+
+---
+
+Original:
+Prompt done my ChatGPT submitted by /u/memerwala_londa [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qda324</guid>
+      <pubDate>Thu, 15 Jan 2026 04:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 为我的网站搭建一个简易聊天机器人 / Simple chat bot for my website</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qda75x/simple_chat_bot_for_my_website/</link>
+      <description>我想在网站上添加一个聊天机器人。不需要高度优化，只需用大约100个页面进行RAG（检索增强生成），搭配向量数据库和BM25索引，再调用OpenAI（任何模型都行）。无需记忆功能和个人化设置。可想而知，上级要求尽快完成。我只需要它能运行起来，以便收集使用数据——如果客户喜欢，我们再深入优化。请问有没有可以直接安装、快速配置并投入生产环境的产品？谢谢！提交者：/u/Hk_90 [链接] [评论]
+
+---
+
+Original:
+I want a chatbot on my website. I am not looking for super optimizations. Just use the 100ish pages for RAG with some vector db and a BM25 index and call Openai(anything will do). No memory and personalization. Pressure from the top to build this ASAP as you can imagine. I just need it to run so that we can collect usage data and if customers like it then we will get into the hyper optimizations. Can someone please point me to some product that I can just install, quickly configure and use in production? Thank you for your help! submitted by /u/Hk_90 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qda75x</guid>
+      <pubDate>Thu, 15 Jan 2026 04:46:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_tasker] [项目分享] 优化文本（URI数据）导入导出流程，让Tasker文本导出更便捷 / [Project Share] Better Export Import Flow As Text (URI Data), exporting tasker as text made easier</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdaaqa/project_share_better_export_import_flow_as_text/</link>
+      <description>Taskernet上有一个配置文件，一直帮我轻松导入数据URI（Data URI），我想在这里分享一下。数据URI到底是什么？其实就是我们导出的XML数据，但以压缩文本格式呈现。如果你见过有人分享以taskertask://Hasadqwekjo1i2e开头的奇怪网址，那就是数据URI。我知道可能有些人不太了解这个，我来解释一下。这个名字太技术宅了！我们已经有Taskernet了，为什么还要用数据URI？URI数据自给自足且快速。文本本身已包含数据，且足够简短，适合以文本形式分享。如果你想通过快速分享（Quick Share）在设备间传输，这个选项似乎最合理。由于它也很短，可以方便地发布……
+
+---
+
+Original:
+Taskernet I have a profile that has been been helping me importing Data URI easily and I'd like to share it here. What is Data URI anyway? It's the XML data we export but it's in text format, compressed. If you have seen someone shares some strange URL that starts with taskertask://Hasadqwekjo1i2e , that's what Data URI is. I know that some may not know this, and I got you. The name is way too geeky! We have taskernet, so why use Data URI? URI Data is self-reliant and quick. The text contains the data already and is short enough to share as text. If you want to share between device to device via Quick Share, this options seems to make the most sense. Since it's short as well, it can be poste…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdaaqa</guid>
+      <pubDate>Thu, 15 Jan 2026 04:51:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

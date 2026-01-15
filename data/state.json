@@ -869,7 +869,23 @@
     "reddit-bard::t3_1qd8k0k": 1768449402,
     "reddit-askreddit::t3_1qd7qc4": 1768449407,
     "reddit-askreddit::t3_1qd575f": 1768449411,
-    "reddit-askreddit::t3_1qd7jlm": 1768449416
+    "reddit-askreddit::t3_1qd7jlm": 1768449416,
+    "reddit-ai-agents::t3_1qda75x": 1768452618,
+    "reddit-ai-agents::t3_1qd9v4o": 1768452631,
+    "reddit-ai-agents::t3_1qd9pda": 1768452639,
+    "reddit-ai-agents::t3_1qd9f4p": 1768452646,
+    "reddit-artificial::t3_1qd9rk9": 1768452651,
+    "reddit-chatgpt::t3_1qd8v4g": 1768452657,
+    "reddit-chatgpt::t3_1qd9g8y": 1768452664,
+    "reddit-claudeai::t3_1qd9kjw": 1768452680,
+    "reddit-claudeai::t3_1qd8qq7": 1768452691,
+    "reddit-openai::t3_1qda324": 1768452701,
+    "reddit-openai::t3_1qd9wws": 1768452724,
+    "reddit-openai::t3_1qd9cu8": 1768452737,
+    "reddit-bard::t3_1qd965n": 1768452746,
+    "reddit-askreddit::t3_1qd8p25": 1768452756,
+    "reddit-askreddit::t3_1qd652e": 1768452761,
+    "reddit-tasker::t3_1qdaaqa": 1768452772
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4315,6 +4331,70 @@
     "773df37668e42145f0f3c1885cc796c21e603ee5a4d70913438344605aa2a3e0": {
       "zh_title": "有哪些细微迹象表明一个人看似“高效能”，实则默默承受着生活的重压？",
       "zh_summary": "由用户 /u/Puzzleheaded-0119 提交 [链接] [评论]"
+    },
+    "e6615fe5dfb9b41123eb1342e1892c15d8b1ff400733b9454a582c5d4550e1db": {
+      "zh_title": "为我的网站搭建一个简易聊天机器人",
+      "zh_summary": "我想在网站上添加一个聊天机器人。不需要高度优化，只需用大约100个页面进行RAG（检索增强生成），搭配向量数据库和BM25索引，再调用OpenAI（任何模型都行）。无需记忆功能和个人化设置。可想而知，上级要求尽快完成。我只需要它能运行起来，以便收集使用数据——如果客户喜欢，我们再深入优化。请问有没有可以直接安装、快速配置并投入生产环境的产品？谢谢！提交者：/u/Hk_90 [链接] [评论]"
+    },
+    "5f0b32bc0fab5b553d8c8615a2f1c4ea8cf372d4803bc48d1f34448e166b168a": {
+      "zh_title": "有没有类似Claude Cowork的功能，无需等待Claude Cowork发布？",
+      "zh_summary": "我正在积极寻找类似最近发布的Claude Cowork的工具。目前，我使用Windsurf和Cursor这类软件开发IDE来处理同一非技术项目下的多个文档。效果尚可，但它们缺乏对非技术主题的研究能力。如果你尝试过任何有效的工具，能否分享一下？由/u/horace_yip提交 [链接] [评论]"
+    },
+    "ddc9a03a7ea5cfc979b9d6aff750b043f49e996958a1e5d5764eb72244bb5e57": {
+      "zh_title": "面向B2B SaaS产品的AI智能体",
+      "zh_summary": "我们开发零售规划产品，希望在此基础上构建AI智能体，帮助规划人员更高效地开展工作。请问如何着手启动？最快的方式是什么？ 发布者：/u/LimeNew1984 [链接] [评论]"
+    },
+    "6e70cbecf6c8b4e573b12c3914ee6677c48beed8c743818b074897bda6269c4f": {
+      "zh_title": "AI智能体控制平台有哪些应用场景？",
+      "zh_summary": "近期我们看到各大厂商（微软、ServiceNow）和初创公司（singulr.ai、languard.ai）纷纷发布AI智能体控制平台。对于IT和安全团队而言，采用独立的AI智能体控制平台主要有哪些应用场景？ 提交者：/u/Ill_Engineer_4255 [链接] [评论]"
+    },
+    "8c530b64c19f51e554e679d2b86647ace6c96ec305183c20f366e8ca38c92154": {
+      "zh_title": "黄仁勋（Jensen Huang）表示，围绕人工智能的持续负面情绪正在损害社会，并已“造成诸多伤害”",
+      "zh_summary": "由 /u/esporx 提交 [链接] [评论]"
+    },
+    "7ea1ba24e50d3905e86901bb80b986fa9280b6e8eea9d197bdcd7a47cec9ea45": {
+      "zh_title": "呼，总算松了口气！",
+      "zh_summary": "由 /u/Nihal_505 提交 [链接] [评论]"
+    },
+    "7f5f9a78cc88570c22d568e3a396d321d46bd1e406e440c8b760a04414f746bb": {
+      "zh_title": "和我聊天是什么感觉？",
+      "zh_summary": "提示：生成一张图片，描绘在任何一天与我聊天时的感受？请诚实且坦率。/ 提示结束 自2023年初以来的用户。这让我笑了。感谢你带来的所有回忆，Chat。期待未来更多美好时光。由 /u/Historical-Apple8440 提交 [链接] [评论]"
+    },
+    "23ce05d4cba1cb58a826ce3235541657c39cd7a550361c4b4e0edbfd509c8b38": {
+      "zh_title": "我用Claude Code在3小时内构建了一个完整的React应用——自己一行代码都没写",
+      "zh_summary": "这周我做的东西实在忍不住要分享，因为到现在还觉得像变魔术。我懂前端开发，但一直想做个面包烘焙时间表应用（酸面团发酵要将近20小时，我实在受够了设12个闹钟）。一想到要花几周写JavaScript逻辑，我就一直没动手。然后我试了试Claude Code。我就是……跟它聊天。像客户描述需求那样：“我要个下拉菜单选不同食谱”“根据开始时间计算时间点”“加个配料切换开关”“部署到GitHub Pages”。搞定。搞定。搞定。搞定。聊了3小时。就这样。（好吧，加上等速率限制的时间😅）成果就是——Flour Hour：…"
+    },
+    "74b4fef16e85f2a362da471b7c1118ec979a9a8cc9f34a4802a4408a0a526a46": {
+      "zh_title": "我重新构建了十多年前的另一个创意项目——Trendr",
+      "zh_summary": "2012年时，我独自在洛杉矶生活有些艰难，经历分手后，“在洛杉矶结识新朋友真不容易”这种感觉尤为强烈。我想开发一款应用，让人们能基于任何共同兴趣交朋友。它不像Meetup那样细分专注，但必须是移动优先的设计。我曾认真尝试过这个项目，还获得了一些天使投资，但最终未能真正起步。现在，我决定借助Claude再试一次，成果就是Trendr。这是一款本地活动应用，让你能根据兴趣和活动发现周边动态。我还开发了Wingman——一个能提供建议的活动助手……"
+    },
+    "195fd4d0d85d7a5dc85f3eebf41c7f312c476037e7267350008197025977c8ff": {
+      "zh_title": "像素城市",
+      "zh_summary": "由用户 /u/memerwala_londa 提交的 ChatGPT 提示已完成 [链接] [评论]"
+    },
+    "a818956ae41c69cc48f70ba8ac7e084fb9fb49faed313dc5d079ae14948d61b8": {
+      "zh_title": "为何在相同图像视觉任务中，Assistants API 比 Chat Completions 少用 4-5 倍令牌数？（GPT-4o / 4.1）",
+      "zh_summary": "大家好，我在使用 OpenAI 模型（GPT-4o 和 GPT-4.1）进行**视觉/图像分析**时，发现根据使用 Chat Completions API 还是 Assistants API，令牌消耗量差异巨大。相同的提示、相同的图像、相同的任务——但成本完全不同。**Chat Completions API**（通过消息中的 image_url 传递图像）：- GPT-4o：每次运行约 7036、7422、7412、7414 个令牌- GPT-4.1：约 7046、7243、7241 个令牌**Assistants API**（将图像上传至存储一次，然后在会话中引用 file_ids）：- GPT-4o：约 1372、1451 个令牌- GPT-4.1：约 1364、1786 个令牌→ 对于基本相同的视觉理解任务，Assistants API 整体少用了 **4–5 倍** 的令牌。唯一的实际区别……"
+    },
+    "5d1ba1a368ba56c579de326eefc114e0619ad3f7a132c0c957ca5f5b24bd7da5": {
+      "zh_title": "AI公司正构建可互操作系统",
+      "zh_summary": "根据Anthropic和谷歌近期的公告，人工智能正朝着通过单一界面处理多个应用和任务的方向发展。"
+    },
+    "6904745ac73cecbca1dda4e49e9523f70cdcd967a94dc11139491b984afa94f0": {
+      "zh_title": "Gemini使用限制大幅调整",
+      "zh_summary": "谷歌是否全面提升了所有模型的使用限制？此前每日提示次数约为100次，Pro版与Thinking版共享同一额度。但现在看来，每日有效提示次数已提升至400次——这对图像生成等功能意义重大。此外，新版AI Plus方案似乎比更新前的AI Pro拥有更多额度。有人测试过新限制吗？是否有Plus、Pro或Ultra用户能分享使用体验？https://support.google.com/gemini/answer/16275805?hl=en 由/u/BroKenLight6提交 [链接] [评论]"
+    },
+    "5f3fac3004a16272d9a1a87207295ec5f2c41e269f20634153bb2cc1d84b02bb": {
+      "zh_title": "有人上过《家庭问答》（Family Feud）节目吗？体验如何？我一直好奇他们说的“我们问了100个人……”到底是谁？",
+      "zh_summary": "由 /u/pinkbluepurpleyellow 提交 [链接] [评论]"
+    },
+    "63fe19c1cf202a9ecfff20add0da9b3a5d8c58c466bf4424954a8c743f7b7948": {
+      "zh_title": "你曾自信地做错某件事，且持续了尴尬的漫长时间，是什么事？",
+      "zh_summary": "由 /u/LuvClueDe4d 提交 [链接] [评论]"
+    },
+    "29f0075cdbe290b381f7939c657138cac77c9f622cda41d86566b738bebdc891": {
+      "zh_title": "[项目分享] 优化文本（URI数据）导入导出流程，让Tasker文本导出更便捷",
+      "zh_summary": "Taskernet上有一个配置文件，一直帮我轻松导入数据URI（Data URI），我想在这里分享一下。数据URI到底是什么？其实就是我们导出的XML数据，但以压缩文本格式呈现。如果你见过有人分享以taskertask://Hasadqwekjo1i2e开头的奇怪网址，那就是数据URI。我知道可能有些人不太了解这个，我来解释一下。这个名字太技术宅了！我们已经有Taskernet了，为什么还要用数据URI？URI数据自给自足且快速。文本本身已包含数据，且足够简短，适合以文本形式分享。如果你想通过快速分享（Quick Share）在设备间传输，这个选项似乎最合理。由于它也很短，可以方便地发布……"
     }
   }
 }
