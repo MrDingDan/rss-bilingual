@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:51:58 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1148,6 +1148,18 @@ Original:
 We shipped an ai agent without using any of the agent building SDKs (openai, anthropic, google etc). It doesn't require much maintenance but time to time we find cases where it breaks (ex: gemini 3.x models needed the input in a certain fashion). I am wondering if any of these frameworks make it easy and maintainable. Here are some of our requirements: - Integration with custom tools - Integration with a variety of LLMs - Fine grain control over context - State checkpointing in between turns (or even multiple times a turn) - Control over the agent loop (ex: max iterations) submitted by /u/finally_i_found_one [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdd2az</guid>
       <pubDate>Thu, 15 Jan 2026 07:21:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>相同产品，不同价格 / Same product, different price</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qddh74/same_product_different_price/</link>
+      <description>由 /u/EchoOfOppenheimer 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/EchoOfOppenheimer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qddh74</guid>
+      <pubDate>Thu, 15 Jan 2026 07:46:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

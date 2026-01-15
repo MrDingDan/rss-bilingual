@@ -6,31 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:37:06 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_openai] OpenAI与Cerebras达成最新AI合作，将采购其计算资源 / OpenAI to buy compute capacity from Cerebras in latest AI deal</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qcy5v0/openai_to_buy_compute_capacity_from_cerebras_in/</link>
-      <description>由用户/u/consulent-finanziar提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/consulent-finanziar [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qcy5v0</guid>
-      <pubDate>Wed, 14 Jan 2026 20:18:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 为何Anthropic的Claude（克劳德）堪称年度最佳联合创始人 / Why Anthropic’s Claude Is the Co-Founder of the Year</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcy8is/why_anthropics_claude_is_the_cofounder_of_the_year/</link>
-      <description>ChatGPT或许是互联网上最受喜爱的人工智能模型，但在商业领域，创业者们热议的却是另一个名字：Anthropic公司推出的AI模型系列Claude（克劳德）。Anthropic首席执行官Dario Amodei（达里奥·阿莫代伊）以及来自Bolt、Lovable和Replit的高管向《Inc.》杂志透露，Claude正在如何变革软件工程，让每个人都能成为程序员。点击此处阅读全文：https://www.inc.com/ben-sherry/why-anthropics-claude-is-the-co-founder-of-the-year/91265072?utm_source=reddit&amp;amp;utm_medium=social&amp;amp;utm_campaign=freeform 由 /u/IncMagazine 提交 [链接] [评论]
-
----
-
-Original:
-ChatGPT may be the internet’s most beloved AI model, but in the world of business, there’s another name on every entrepreneur’s lips: Claude, the family of AI models from Anthropic. ⁠ ⁠ CEO Dario Amodei and execs from Bolt, Lovable, and Replit reveal to Inc. how Claude is transforming software engineering, turning everyone into a coder.⁠ Read more here: https://www.inc.com/ben-sherry/why-anthropics-claude-is-the-co-founder-of-the-year/91265072?utm_source=reddit&amp;amp;utm_medium=social&amp;amp;utm_campaign=freeform submitted by /u/IncMagazine [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcy8is</guid>
-      <pubDate>Wed, 14 Jan 2026 20:20:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 07:52:01 +0000</lastBuildDate>
     <item>
       <title>[reddit_claudeai] Claude（克劳德）把我逗乐了 / Claude cracks me up</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyagb/claude_cracks_me_up/</link>
@@ -1400,6 +1376,18 @@ Last month I turned 25 and now I am realizing that i have not done anything grea
       <pubDate>Thu, 15 Jan 2026 07:02:56 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 我就是那个“其他人” / I'm the "other people"</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdcr4k/im_the_other_people/</link>
+      <description>看来场上确实需要更多“人”参与，而不仅仅是Chat。由 /u/Early_Yesterday443 提交 [链接] [评论]
+
+---
+
+Original:
+Well, clearly need to be more "people" on the field, not just Chat submitted by /u/Early_Yesterday443 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdcr4k</guid>
+      <pubDate>Thu, 15 Jan 2026 07:03:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 你们是否使用任何SDK来构建AI智能体？ / Are you using any SDKs for building AI agents?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qdd056/are_you_using_any_sdks_for_building_ai_agents/</link>
       <description>我们发布了一个AI智能体，没有使用任何智能体构建SDK（如OpenAI、Anthropic、Google等）。它不需要太多维护，但偶尔会发现一些故障案例（例如：Gemini 3.x模型需要特定格式的输入）。我想知道这些框架中是否有能让开发更简便、更易维护的。以下是我们的一些需求：- 与自定义工具集成 - 与多种LLM集成 - 对上下文的细粒度控制 - 在对话轮次之间（甚至单轮多次）进行状态检查点保存 - 对智能体循环的控制（例如：最大迭代次数） 由/u/finally_i_found_one提交 [链接] [评论]
@@ -1458,6 +1446,18 @@ Original:
 submitted by /u/herrimo [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdd8k0</guid>
       <pubDate>Thu, 15 Jan 2026 07:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 相同产品，不同价格 / Same product, different price</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qddh74/same_product_different_price/</link>
+      <description>由 /u/EchoOfOppenheimer 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/EchoOfOppenheimer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qddh74</guid>
+      <pubDate>Thu, 15 Jan 2026 07:46:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

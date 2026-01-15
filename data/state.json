@@ -916,7 +916,9 @@
     "reddit-claudeai::t3_1qda21l": 1768462607,
     "reddit-openai::t3_1qdd2az": 1768462608,
     "reddit-bard::t3_1qdd8k0": 1768462613,
-    "reddit-askreddit::t3_1qdakwx": 1768462623
+    "reddit-askreddit::t3_1qdakwx": 1768462623,
+    "reddit-chatgpt::t3_1qdcr4k": 1768463512,
+    "reddit-openai::t3_1qddh74": 1768463517
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4546,6 +4548,14 @@
     "3e8ad97b00a0ec8a7a86f9ca043bd831fd7716b41b79f6f05abc20d6a9e02032": {
       "zh_title": "如果ICE（美国移民及海关执法局）在人们和平抗议时施暴，他们还有什么理由保持和平？",
       "zh_summary": "由用户 /u/iLLesT905 提交 [链接] [评论]"
+    },
+    "a1f4f0243c813c02e15a9ebe915cbd778826972486edb31e060b2a6030999be3": {
+      "zh_title": "我就是那个“其他人”",
+      "zh_summary": "看来场上确实需要更多“人”参与，而不仅仅是Chat。由 /u/Early_Yesterday443 提交 [链接] [评论]"
+    },
+    "aeccb797c0afec7286d2b36090ee43f2eb55e5aaf7cba4ca69ccf0c33a51cdfb": {
+      "zh_title": "相同产品，不同价格",
+      "zh_summary": "由 /u/EchoOfOppenheimer 提交 [链接] [评论]"
     }
   }
 }
