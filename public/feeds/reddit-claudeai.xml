@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:49:03 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1344,6 +1344,18 @@ Original:
 I've been building with Claude Code for about 18 months now. The first year was rough, context loss between sessions, quality degrading over time, constantly re-explaining what I'd already built. Over the past 3 months, I've shipped 7 production apps and finally figured out a workflow that actually compounds instead of resetting. The apps (all built primarily with Claude): A weather-aware half-marathon training tracker (Next.js, tRPC, Prisma) A stock fundamental analysis tool (FastAPI, Streamlit) - built live in ~3 hours A Mumbai local train strategy game (Next.js, React) - built live in ~4.5 hours A multi-tenant waitlist backend with intent scoring (FastAPI, SQLModel) - 1,087 tests, &lt;24 hou…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdfc18</guid>
       <pubDate>Thu, 15 Jan 2026 09:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>在公司环境中评估Claude Code作为代码助手：经验与教训？ / Evaluating Claude Code as a code agent in a company. Experiences and lessons learned?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh2rc/evaluating_claude_code_as_a_code_agent_in_a/</link>
+      <description>大家好，我们正在评估是否要在公司引入Claude Code作为代码助手，非常希望能听到在专业或生产环境中实际使用过它的人分享经验。我们团队约有10名开发人员，包括后端、前端和数据科学家，他们也亲自参与AI模型相关工作。我们的后端技术栈主要是Python和.NET，并跨多个代码库工作，支持长期运行的生产系统。我们的目标是在不陷入氛围编程或盲目信任生成代码的陷阱的前提下，提升开发者的生产力。安全性、正确性、可维护性和长期所有权对我们至关重要。我们……
+
+---
+
+Original:
+Hi everyone We are currently evaluating whether to introduce Claude Code as a code agent in our company, and I would really appreciate hearing from people with hands on experience using it in a professional or production setting. We are a team of around 10 developers, including backend, frontend, and data scientists who also work hands on with AI models. Our backend stack is mainly Python and .NET, and we work across multiple repositories supporting long lived production systems. Our goal is to improve developer productivity without falling into the trap of vibe coding or blindly trusting generated code. Security, correctness, maintainability, and long term ownership are critical for us. We…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdh2rc</guid>
+      <pubDate>Thu, 15 Jan 2026 11:28:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

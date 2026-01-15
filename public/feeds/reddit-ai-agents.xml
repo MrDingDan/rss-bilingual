@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:48:40 +0000</lastBuildDate>
     <item>
       <title>AI智能体是否已为你替代了整个工作流程？如果是，具体是如何实现的？ / Has an AI agent replaced an entire workflow for you yet? If so how?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qaqnyq/has_an_ai_agent_replaced_an_entire_workflow_for/</link>

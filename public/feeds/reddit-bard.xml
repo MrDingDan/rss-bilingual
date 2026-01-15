@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:49:04 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -814,12 +814,12 @@ Are there signs of a 3 series model to succeed 2.5 Flash Native Audio? submitted
     <item>
       <title>我用Gemini API（3.0 Flash版）打造了一款AI“第二大脑”应用，比GPT-4更快更省钱。大家觉得如何？ / I built an AI "Second Brain" app using Gemini API (3.0 Flash). It's way faster/cheaper than GPT-4. Thoughts?</title>
       <link>https://www.reddit.com/r/Bard/comments/1qdgx3x/i_built_an_ai_second_brain_app_using_gemini_api/</link>
-      <description>大家好，👋 我是一名16岁的高中生。我正在开发一款名为Cortex（Cortex）的知识管理应用，用来整理我杂乱无章的考试笔记。我决定集成Gemini API（特别是Flash模型），而不是其他大语言模型，因为我需要低延迟和大上下文窗口，以便在移动设备上处理长文章或PDF。这款应用能利用Gemini自动为你输入的任何链接或文本打标签并生成摘要。它已在Play Store（Play商店）上架。非常希望大家能测试一下它的AI性能，并告诉我Gemini的集成体验是否流畅。以下是我制作的Cortex应用链接：https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;pli=1 由/u/mustafa_enes726提交 [链接] [评论]
+      <description>大家好，👋 我是一名16岁的高中生。我正在开发一款名为Cortex（Cortex）的知识管理应用，用来整理我杂乱无章的考试笔记。我决定集成Gemini API（特别是Flash模型），而不是其他大语言模型，因为我需要低延迟和大上下文窗口，以便在移动设备上处理长文章或PDF。这款应用能利用Gemini自动为你输入的任何链接或文本打标签并生成摘要。它已在Play Store（Play商店）上架。非常希望大家能测试一下它的AI性能，并告诉我Gemini的集成体验是否流畅。以下是我制作的Cortex应用链接：https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;amp;pli=1 由/u/mustafa_enes726提交 [链接] [评论]
 
 ---
 
 Original:
-Hi everyone, 👋 I'm a 16yo high school student. I was building a knowledge management app called Cortex to organize my messy exam notes. I decided to integrate Gemini API (specifically the Flash model) instead of other LLMs because I needed low latency and a large context window to process long articles/PDFs on mobile. The app automatically tags and summarizes any link/text you throw at it using Gemini. It's live on Play Store. I'd love for you to test the AI performance and let me know if the Gemini integration feels smooth. Here's the Cortex App that i made: https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;pli=1 submitted by /u/mustafa_enes726 [link] [comments]</description>
+Hi everyone, 👋 I'm a 16yo high school student. I was building a knowledge management app called Cortex to organize my messy exam notes. I decided to integrate Gemini API (specifically the Flash model) instead of other LLMs because I needed low latency and a large context window to process long articles/PDFs on mobile. The app automatically tags and summarizes any link/text you throw at it using Gemini. It's live on Play Store. I'd love for you to test the AI performance and let me know if the Gemini integration feels smooth. Here's the Cortex App that i made: https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;amp;pli=1 submitted by /u/mustafa_enes726 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdgx3x</guid>
       <pubDate>Thu, 15 Jan 2026 11:18:55 +0000</pubDate>
     </item>

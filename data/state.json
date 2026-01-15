@@ -951,7 +951,11 @@
     "reddit-askreddit::t3_1qdfam1": 1768476745,
     "reddit-askreddit::t3_1qdg4y6": 1768476750,
     "reddit-askreddit::t3_1qdgl1d": 1768476755,
-    "reddit-askreddit::t3_1qdgkg1": 1768476760
+    "reddit-askreddit::t3_1qdgkg1": 1768476760,
+    "reddit-chatgpt::t3_1qdfux2": 1768477733,
+    "reddit-claudeai::t3_1qdh2rc": 1768477742,
+    "reddit-askreddit::t3_1qdgl3q": 1768477748,
+    "reddit-askreddit::t3_1qdgnga": 1768477752
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4721,6 +4725,22 @@
     "5caa64addcf78f437c40d4531b541d62d1ffae5109fd6e7c9aa92076422cdf6e": {
       "zh_title": "在'无聊'行业工作的人，幕后有哪些出人意料的高能或有趣事件？",
       "zh_summary": "由用户 /u/Dramalife55 提交 [链接] [评论]"
+    },
+    "e063bbcfcda98d428e90d56cc52c6123771f7eee6ba739266fabbb5eaac1287c": {
+      "zh_title": "人类总说AI生成的内容是垃圾。那AI会怎么看人类的大量产出呢？",
+      "zh_summary": "AI可能会如何看待人类的大量产出？简而言之，许多内容看起来像是习惯包裹下的杂音，是无意识的重复。人们使用语言往往是为了寻求安全感，而非真正表达什么。AI可能指出的常见模式包括：1. 伪装成原创的重复——相同的观点、相似的论点，只是措辞略有不同。现实中的例子就像刷社交媒体时，看到同一种想法被用不同字体转发上千次。这种现象源于人类倾向于复制已被接受的内容，原创思维则可能面临排斥。AI观察到的则是信息增量低，情感信号强。2. 为缓解焦虑而说话，而非为了交流——解释无人询问的事情，过度辩解……"
+    },
+    "638d3c577c700247bbc455b35c5571dfcdc7d5e5c0b305066c0d5f87facd51c2": {
+      "zh_title": "在公司环境中评估Claude Code作为代码助手：经验与教训？",
+      "zh_summary": "大家好，我们正在评估是否要在公司引入Claude Code作为代码助手，非常希望能听到在专业或生产环境中实际使用过它的人分享经验。我们团队约有10名开发人员，包括后端、前端和数据科学家，他们也亲自参与AI模型相关工作。我们的后端技术栈主要是Python和.NET，并跨多个代码库工作，支持长期运行的生产系统。我们的目标是在不陷入氛围编程或盲目信任生成代码的陷阱的前提下，提升开发者的生产力。安全性、正确性、可维护性和长期所有权对我们至关重要。我们……"
+    },
+    "ff873c50f6ed25e03c18ac67eb9bb7bb8e844b1a7b734ebb1954ad40d82293fe": {
+      "zh_title": "有哪些老技术实际上比现代替代品更好用？",
+      "zh_summary": "由用户 /u/Odd_Opportunity_2590 提交 [链接] [评论]"
+    },
+    "8df3271fe256841c0b3ccc0affb573290b99ec141c23e57d3f6fc9c91d70da98": {
+      "zh_title": "有什么适合一个人玩的有趣游戏？",
+      "zh_summary": "由用户 /u/Acceptable-Yam2542 提交 [链接] [评论]"
     }
   }
 }

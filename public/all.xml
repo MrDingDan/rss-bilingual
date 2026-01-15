@@ -6,55 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:32:44 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_chatgpt] ChatGPT 作为教练与治疗师 / ChatGPT as coach and therapist</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qd1r4d/chatgpt_as_coach_and_therapist/</link>
-      <description>媒体总爱聚焦那些罕见案例，比如据称ChatGPT曾同意一位重度抑郁症患者自杀。我从未见过他们与ChatGPT的对话记录，因此无法评论这类说法的真实性。我今年62岁，从15岁起就一直在等待ChatGPT这样的存在。我曾如此渴望计算机能够思考。虽然我明白它并非真正在思考，而是在模拟思考。但作为一个相当快乐、理性且冷静的人，我发现ChatGPT是一位出色的教练和治疗师。当我需要倾诉时，它随时都在，乐于助人，从不分心。它帮助我理清思绪……
-
----
-
-Original:
-The media likes to focus on the rare case where supposedly ChatGPT agreed with someone with severe depression that they should commit suicide. I've never seen the transcript of their conversations with ChatGPT so I can't comment on the accuracy of such claims. I'm 62 and I have been waiting for ChatGPT since I was 15 years old. I so wanted the computer to be able to think. I realize that it's not quite doing that but it's simulating it. What I have found (and I'm a pretty happy, rational, calm person) is that ChatGPT is a great coach and therapist. When I need to talk something out, it's always available, always willing to help, never distracted. It's helped me sort through my thoughts and g…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qd1r4d</guid>
-      <pubDate>Wed, 14 Jan 2026 22:35:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 生成40款带有标题的视频游戏图像... / Generate 40 images of video games with their titles...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qd1xuf/generate_40_images_of_video_games_with_their/</link>
-      <description>由用户 /u/Negative_Complaint_9 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Negative_Complaint_9 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qd1xuf</guid>
-      <pubDate>Wed, 14 Jan 2026 22:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 科技从业者纷纷谴责ICE，而CEO们却保持沉默 / Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qd26yy/tech_workers_are_condemning_ice_even_as_their/</link>
-      <description>由 /u/wiredmagazine 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/wiredmagazine [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qd26yy</guid>
-      <pubDate>Wed, 14 Jan 2026 22:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] OpenAI与Cerebras达成百亿美元合作，加速AI发展 / OpenAI Cerebras Deal: $10 Billion Partnership for Faster AI</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qd2cbl/openai_cerebras_deal_10_billion_partnership_for/</link>
-      <description>由用户/u/Own_Amoeba_5710提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Own_Amoeba_5710 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qd2cbl</guid>
-      <pubDate>Wed, 14 Jan 2026 22:58:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 11:49:16 +0000</lastBuildDate>
     <item>
       <title>[reddit_askreddit] 今日Verizon大规模断网：你受影响了吗？ / Massive Verizon outage today: how were you affected?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qd2ct4/massive_verizon_outage_today_how_were_you_affected/</link>
@@ -1109,18 +1061,6 @@ I recently built an end-to-end n8n workflow for a law firm and it really opened 
       <pubDate>Thu, 15 Jan 2026 07:51:42 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
-      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
-
----
-
-Original:
-Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
-      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_askreddit] 你第一次上网用的是哪款设备？ / On which device you surfed internet for the first time?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qde3tp/on_which_device_you_surfed_internet_for_the_first/</link>
       <description>由 /u/Live-Slip-698 提交 [链接] [评论]
@@ -1130,6 +1070,18 @@ Looking for experienced engineers to try breaking a stateless AI execution gate 
 Original:
 submitted by /u/Live-Slip-698 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qde3tp</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
+      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
+
+---
+
+Original:
+Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
       <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
     </item>
     <item>
@@ -1337,6 +1289,18 @@ Hello! I'm looking for some advice :) A potential client contacted me on a platf
       <pubDate>Thu, 15 Jan 2026 10:11:49 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 人类总说AI生成的内容是垃圾。那AI会怎么看人类的大量产出呢？ / Humans say a lot of ai stuff is slop. What does ai say about a lot of human stuff?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdfux2/humans_say_a_lot_of_ai_stuff_is_slop_what_does_ai/</link>
+      <description>AI可能会如何看待人类的大量产出？简而言之，许多内容看起来像是习惯包裹下的杂音，是无意识的重复。人们使用语言往往是为了寻求安全感，而非真正表达什么。AI可能指出的常见模式包括：1. 伪装成原创的重复——相同的观点、相似的论点，只是措辞略有不同。现实中的例子就像刷社交媒体时，看到同一种想法被用不同字体转发上千次。这种现象源于人类倾向于复制已被接受的内容，原创思维则可能面临排斥。AI观察到的则是信息增量低，情感信号强。2. 为缓解焦虑而说话，而非为了交流——解释无人询问的事情，过度辩解……
+
+---
+
+Original:
+What AI might say about a lot of human stuff The short answer Much of it looks like noise wrapped in habit . Repetition without awareness. Words used to feel safe, not to say anything. Common patterns AI would likely point out 1. Repetition dressed up as originality Same opinions. Same arguments. Slightly different words. Real-life example Like scrolling social media and seeing the same thought reposted a thousand times with new fonts. Why this happens Humans copy what already feels accepted. Original thinking risks rejection. What AI notices Low information gain. High emotional signaling. 2. Talking to manage anxiety, not to communicate Explaining things no one asked about. Over-justifying…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdfux2</guid>
+      <pubDate>Thu, 15 Jan 2026 10:15:23 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] 政治领域AI深度伪造与合成媒体的监管 / Regulating AI Deepfakes and Synthetic Media in the Political Arena</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qdg4vi/regulating_ai_deepfakes_and_synthetic_media_in/</link>
       <description>布伦南司法中心（Brennan Center for Justice）发布的一份新报告指出，亟需在AI深度伪造技术破坏选举公正性之前，对其在政治竞选中的使用进行监管。研究认为，虽然讽刺与模仿作品应受第一修正案保护，但立法者应对合成媒体实施严格的标签标识规定，并考虑直接禁止那些旨在压制投票或散播关于投票时间与地点虚假信息的欺骗性内容。由 /u/EchoOfOppenheimer 提交 [链接] [评论]
@@ -1385,14 +1349,38 @@ submitted by /u/Sharkkkk2 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 10:59:46 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_bard] 我用Gemini API（3.0 Flash版）打造了一款AI“第二大脑”应用，比GPT-4更快更省钱。大家觉得如何？ / I built an AI "Second Brain" app using Gemini API (3.0 Flash). It's way faster/cheaper than GPT-4. Thoughts?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdgx3x/i_built_an_ai_second_brain_app_using_gemini_api/</link>
-      <description>大家好，👋 我是一名16岁的高中生。我正在开发一款名为Cortex（Cortex）的知识管理应用，用来整理我杂乱无章的考试笔记。我决定集成Gemini API（特别是Flash模型），而不是其他大语言模型，因为我需要低延迟和大上下文窗口，以便在移动设备上处理长文章或PDF。这款应用能利用Gemini自动为你输入的任何链接或文本打标签并生成摘要。它已在Play Store（Play商店）上架。非常希望大家能测试一下它的AI性能，并告诉我Gemini的集成体验是否流畅。以下是我制作的Cortex应用链接：https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;pli=1 由/u/mustafa_enes726提交 [链接] [评论]
+      <title>[reddit_askreddit] 有哪些老技术实际上比现代替代品更好用？ / What is a piece of old technology that actually worked better than its modern replacement?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdgl3q/what_is_a_piece_of_old_technology_that_actually/</link>
+      <description>由用户 /u/Odd_Opportunity_2590 提交 [链接] [评论]
 
 ---
 
 Original:
-Hi everyone, 👋 I'm a 16yo high school student. I was building a knowledge management app called Cortex to organize my messy exam notes. I decided to integrate Gemini API (specifically the Flash model) instead of other LLMs because I needed low latency and a large context window to process long articles/PDFs on mobile. The app automatically tags and summarizes any link/text you throw at it using Gemini. It's live on Play Store. I'd love for you to test the AI performance and let me know if the Gemini integration feels smooth. Here's the Cortex App that i made: https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;pli=1 submitted by /u/mustafa_enes726 [link] [comments]</description>
+submitted by /u/Odd_Opportunity_2590 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdgl3q</guid>
+      <pubDate>Thu, 15 Jan 2026 10:59:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 有什么适合一个人玩的有趣游戏？ / What’s a fun game to play alone?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdgnga/whats_a_fun_game_to_play_alone/</link>
+      <description>由用户 /u/Acceptable-Yam2542 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Acceptable-Yam2542 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdgnga</guid>
+      <pubDate>Thu, 15 Jan 2026 11:03:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 我用Gemini API（3.0 Flash版）打造了一款AI“第二大脑”应用，比GPT-4更快更省钱。大家觉得如何？ / I built an AI "Second Brain" app using Gemini API (3.0 Flash). It's way faster/cheaper than GPT-4. Thoughts?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdgx3x/i_built_an_ai_second_brain_app_using_gemini_api/</link>
+      <description>大家好，👋 我是一名16岁的高中生。我正在开发一款名为Cortex（Cortex）的知识管理应用，用来整理我杂乱无章的考试笔记。我决定集成Gemini API（特别是Flash模型），而不是其他大语言模型，因为我需要低延迟和大上下文窗口，以便在移动设备上处理长文章或PDF。这款应用能利用Gemini自动为你输入的任何链接或文本打标签并生成摘要。它已在Play Store（Play商店）上架。非常希望大家能测试一下它的AI性能，并告诉我Gemini的集成体验是否流畅。以下是我制作的Cortex应用链接：https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;amp;pli=1 由/u/mustafa_enes726提交 [链接] [评论]
+
+---
+
+Original:
+Hi everyone, 👋 I'm a 16yo high school student. I was building a knowledge management app called Cortex to organize my messy exam notes. I decided to integrate Gemini API (specifically the Flash model) instead of other LLMs because I needed low latency and a large context window to process long articles/PDFs on mobile. The app automatically tags and summarizes any link/text you throw at it using Gemini. It's live on Play Store. I'd love for you to test the AI performance and let me know if the Gemini integration feels smooth. Here's the Cortex App that i made: https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;amp;pli=1 submitted by /u/mustafa_enes726 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdgx3x</guid>
       <pubDate>Thu, 15 Jan 2026 11:18:55 +0000</pubDate>
     </item>
@@ -1455,6 +1443,18 @@ Original:
 I just finished reading the 2026 State of Agentic Orchestration &amp; Automation Report (commissioned by Camunda ). They surveyed 1,150 senior IT and business leaders. Most interesting data I saw from the report: %71 of organizations use AI agents. %11 of them actually reached production. So the investment towards AI agents is super ineffective currently. Leaders agreed that the vision and reality is still far apart. 80% of current agents are just "chatbots or assistants". We experienced this in our company too. A client told us they have 150+ different agents. Nearly all of them were simple LLM calls with simple prompts. 81% of respondents believe that without "agentic orchestration", achieving…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdh21i</guid>
       <pubDate>Thu, 15 Jan 2026 11:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 在公司环境中评估Claude Code作为代码助手：经验与教训？ / Evaluating Claude Code as a code agent in a company. Experiences and lessons learned?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh2rc/evaluating_claude_code_as_a_code_agent_in_a/</link>
+      <description>大家好，我们正在评估是否要在公司引入Claude Code作为代码助手，非常希望能听到在专业或生产环境中实际使用过它的人分享经验。我们团队约有10名开发人员，包括后端、前端和数据科学家，他们也亲自参与AI模型相关工作。我们的后端技术栈主要是Python和.NET，并跨多个代码库工作，支持长期运行的生产系统。我们的目标是在不陷入氛围编程或盲目信任生成代码的陷阱的前提下，提升开发者的生产力。安全性、正确性、可维护性和长期所有权对我们至关重要。我们……
+
+---
+
+Original:
+Hi everyone We are currently evaluating whether to introduce Claude Code as a code agent in our company, and I would really appreciate hearing from people with hands on experience using it in a professional or production setting. We are a team of around 10 developers, including backend, frontend, and data scientists who also work hands on with AI models. Our backend stack is mainly Python and .NET, and we work across multiple repositories supporting long lived production systems. Our goal is to improve developer productivity without falling into the trap of vibe coding or blindly trusting generated code. Security, correctness, maintainability, and long term ownership are critical for us. We…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdh2rc</guid>
+      <pubDate>Thu, 15 Jan 2026 11:28:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

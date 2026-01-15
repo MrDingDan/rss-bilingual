@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:32:41 +0000</lastBuildDate>
-    <item>
-      <title>在你看来，最令人恐惧且可信的、可能升级为第三次世界大战的事件链是什么？ / In your opinion, what is the most frighteningly believable chain of events that could escalate into a third world war?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbi1aj/in_your_opinion_what_is_the_most_frighteningly/</link>
-      <description>由 /u/Kanye711East 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Kanye711East [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbi1aj</guid>
-      <pubDate>Tue, 13 Jan 2026 04:39:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>单身生活最被低估的一点是什么？ / What's the most underrated thing about being single?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbirln/whats_the_most_underrated_thing_about_being_single/</link>
-      <description>由 /u/Desperate_Hunt7145 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Desperate_Hunt7145 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbirln</guid>
-      <pubDate>Tue, 13 Jan 2026 05:15:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 11:49:13 +0000</lastBuildDate>
     <item>
       <title>哪些看似无害的问题，其实是明显的危险信号？ / What's a seemingly innocent question that's actually a huge red flag?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qbj8zv/whats_a_seemingly_innocent_question_thats/</link>
@@ -1446,6 +1422,30 @@ Original:
 submitted by /u/Sharkkkk2 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qdgl1d</guid>
       <pubDate>Thu, 15 Jan 2026 10:59:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>有哪些老技术实际上比现代替代品更好用？ / What is a piece of old technology that actually worked better than its modern replacement?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdgl3q/what_is_a_piece_of_old_technology_that_actually/</link>
+      <description>由用户 /u/Odd_Opportunity_2590 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Odd_Opportunity_2590 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdgl3q</guid>
+      <pubDate>Thu, 15 Jan 2026 10:59:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>有什么适合一个人玩的有趣游戏？ / What’s a fun game to play alone?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdgnga/whats_a_fun_game_to_play_alone/</link>
+      <description>由用户 /u/Acceptable-Yam2542 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Acceptable-Yam2542 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdgnga</guid>
+      <pubDate>Thu, 15 Jan 2026 11:03:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
