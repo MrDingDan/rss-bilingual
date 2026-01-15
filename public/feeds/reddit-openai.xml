@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:40:26 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1172,6 +1172,30 @@ Original:
 OpenAI has rehired three former researchers. This includes a former CTO and a cofounder of Thinking Machines, confirmed by official statements on X. submitted by /u/BuildwithVignesh [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdehxx</guid>
       <pubDate>Thu, 15 Jan 2026 08:49:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>5.2 Pro专业版订阅限制说明 / Pro subscription limits on 5.2 Pro</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdfofx/pro_subscription_limits_on_52_pro/</link>
+      <description>专业版订阅（200美元）在5.2 Pro中提供多少使用额度？我还没找到明确信息。实际使用中，是能随心所欲地用，还是会感到受限？如果受限，大概用多久会触达上限？另外，那四个轻量/标准/扩展/重度调节选项也适用于5.2 Pro吗？还是只支持标准/扩展？提交者：/u/JalabolasFernandez [链接] [评论]
+
+---
+
+Original:
+How much usage does the Pro subscription ($200) give of 5.2 Pro? I haven't found any clear info. Is it enough so in practice you just use it as much as you feel like, or you feel limitted, and if so, how often do you use it before bumping into the limits? Also, do those 4 light/standard/extended/heavy knobs apply to 5.2 Pro too? Or is it only standard/extended? submitted by /u/JalabolasFernandez [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdfofx</guid>
+      <pubDate>Thu, 15 Jan 2026 10:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>政治领域AI深度伪造与合成媒体的监管 / Regulating AI Deepfakes and Synthetic Media in the Political Arena</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdg4vi/regulating_ai_deepfakes_and_synthetic_media_in/</link>
+      <description>布伦南司法中心（Brennan Center for Justice）发布的一份新报告指出，亟需在AI深度伪造技术破坏选举公正性之前，对其在政治竞选中的使用进行监管。研究认为，虽然讽刺与模仿作品应受第一修正案保护，但立法者应对合成媒体实施严格的标签标识规定，并考虑直接禁止那些旨在压制投票或散播关于投票时间与地点虚假信息的欺骗性内容。由 /u/EchoOfOppenheimer 提交 [链接] [评论]
+
+---
+
+Original:
+A new report from the Brennan Center for Justice outlines the urgent need to regulate AI deepfakes in political campaigns before they undermine election integrity. The study argues that while satire and parody must be protected under the First Amendment, lawmakers should enforce strict labeling on synthetic media and consider outright bans on deceptive content designed to suppress votes or spread false information about when and where to vote. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdg4vi</guid>
+      <pubDate>Thu, 15 Jan 2026 10:32:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

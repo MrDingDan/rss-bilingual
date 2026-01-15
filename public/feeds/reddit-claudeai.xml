@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:40:07 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1320,6 +1320,30 @@ Original:
 My wife doesn't understand what I do, but is amused by Claude's random words while running "Frolicking, Ebbing" whatever... So she comments on one running "Boondoggling" and asks what it is... i don't know but i'll look it up... informal•North American English verb gerund or present participle: boondoggling spend money or time on unnecessary, wasteful, or fraudulent projects. "the only guarantees are higher taxes and bureaucratic boondoggling" Thought it was funny :) (PS: how does it know??) submitted by /u/lsdza [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdd4y6</guid>
       <pubDate>Thu, 15 Jan 2026 07:25:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>订阅了Max版却无法使用Cowork功能？ / No Cowork access despite Max subscription?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdf85h/no_cowork_access_despite_max_subscription/</link>
+      <description>大家好，想问问有没有人也遇到这个问题。我订阅了Claude Max版，用的是Mac OS桌面应用，已经更新到最新版本，我的Mac也升级到了Ventura 13.0，但仍然无法使用Cowork功能。尝试过退出重新登录也没用。有人碰到同样情况吗？Cowork是否仅限部分Max用户使用？任何线索都感激不尽！由 /u/AK613 提交 [链接] [评论]
+
+---
+
+Original:
+Hey all, curious if anybody else has run into this problem. I pay for a Claude Max subscription, I use the Mac OS desktop app, I have updated to the current version, and my Mac is also updated to Ventura 13.0, yet I still do not have access to Cowork. I've also tried logging out and logging back in to no avail. Has anyone else run into this? Is Cowork restricted to only some Max users? Any insight is appreciated! submitted by /u/AK613 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdf85h</guid>
+      <pubDate>Thu, 15 Jan 2026 09:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>用Claude在3个月内构建了7款生产级应用——这些方法确实有效 / Built 7 production apps in 3 months with Claude - here's what actually worked</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdfc18/built_7_production_apps_in_3_months_with_claude/</link>
+      <description>我使用Claude Code进行开发大约已有18个月。第一年相当艰难，会话间上下文丢失、质量随时间下降、不断重复解释已构建的内容。但在过去3个月里，我成功上线了7款生产级应用，并最终摸索出一套能持续积累而非不断重置的工作流程。这些应用（主要使用Claude构建）包括：一款基于天气的半程马拉松训练追踪器（Next.js、tRPC、Prisma）；一款股票基本面分析工具（FastAPI、Streamlit）——约3小时直播构建完成；一款孟买本地火车策略游戏（Next.js、React）——约4.5小时直播构建完成；一个带意向评分的多租户候补名单后端（FastAPI、SQLModel）——包含1,087项测试，耗时不到24小时……
+
+---
+
+Original:
+I've been building with Claude Code for about 18 months now. The first year was rough, context loss between sessions, quality degrading over time, constantly re-explaining what I'd already built. Over the past 3 months, I've shipped 7 production apps and finally figured out a workflow that actually compounds instead of resetting. The apps (all built primarily with Claude): A weather-aware half-marathon training tracker (Next.js, tRPC, Prisma) A stock fundamental analysis tool (FastAPI, Streamlit) - built live in ~3 hours A Mumbai local train strategy game (Next.js, React) - built live in ~4.5 hours A multi-tenant waitlist backend with intent scoring (FastAPI, SQLModel) - 1,087 tests, &lt;24 hou…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdfc18</guid>
+      <pubDate>Thu, 15 Jan 2026 09:42:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

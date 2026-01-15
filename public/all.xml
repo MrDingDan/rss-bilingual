@@ -6,128 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:39:43 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_android] 三星终于确认基础版Galaxy AI功能将保持免费 / Samsung finally confirms the basic Galaxy AI features staying free</title>
-      <link>https://www.reddit.com/r/Android/comments/1qczwqx/samsung_finally_confirms_the_basic_galaxy_ai/</link>
-      <description>由用户 /u/FragmentedChicken 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/FragmentedChicken [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qczwqx</guid>
-      <pubDate>Wed, 14 Jan 2026 21:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_artificial] 如何在使用AI时保持匿名，同时让它了解你的过往提问？ / How do you use AI but not be known but, it can reference and be aware of your past questions?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qd02jc/how_do_you_use_ai_but_not_be_known_but_it_can/</link>
-      <description>也就是说，系统会分配某种标识符给你，但它或其背后的公司永远不会知道你的真实身份。没有Cookie，没有追踪等。可能只知道你是一位白人女性，有两个孩子，喜欢狗、骑行、商业和烘焙蛋糕等。这样它就能了解你并提供更有帮助的服务，但不知道你的具体身份。换句话说：保持私密性，但并非完全匿名且每次会话都会被遗忘。目前我能找到的选项只有使用Apple Intelligence（尚未成熟，或许等Gemini完全整合后…）或在VPN下创建一个匿名Google账户（我没有VPN）并用它来使用Gemini。但一旦你断开VPN，Google就会拼凑出线索并知道你是谁。如果我使用…
-
----
-
-Original:
-So, some kind of identifier is assigned to you but it or its corporate overlords never know who you are. No cookies, no tracking, etc. Maybe just a white, female, 2 kids, interested in dogs, biking, business, making cakes, etc. So it knows you and is more helpful that way but not who you are specifically. IOW: privately but not total and forgotten anonymity with each session. The only options I can find are to use Apple Intelligence (not ready for prime time, maybe when Gemini is fully integrated…) or create an anonymous Google account while on a VPN (don't have one) and just use that with Gemini. But the second you are off the VPN, Google will connect the dots and know who you are. If I use…</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qd02jc</guid>
-      <pubDate>Wed, 14 Jan 2026 21:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 这太可怕了 / This is scary</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qd0anr/this_is_scary/</link>
-      <description>这肯定会骗到很多人，看来网络上的东西没一样是真的。来源：Twitter，由/u/memerwala_londa提交
-
----
-
-Original:
-This gonna catfish a lot ppl ,nothing on internet is real I guess Source : Twitter submitted by /u/memerwala_londa [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qd0anr</guid>
-      <pubDate>Wed, 14 Jan 2026 21:39:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 谷歌（Google）拆分并提高Gemini 3‘思考’与‘专业’版使用限制 / Google separates, raises Gemini 3 ‘Thinking’ and ‘Pro’ usage limits</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qd0dc2/google_separates_raises_gemini_3_thinking_and_pro/</link>
-      <description>由 /u/Gaiden206 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Gaiden206 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qd0dc2</guid>
-      <pubDate>Wed, 14 Jan 2026 21:41:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 企业账户变动 / Changes on Business accounts</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qd0g4d/changes_on_business_accounts/</link>
-      <description>图1：应用启动时的欢迎界面 图2：更新与发布说明
-致最近在本版块搜索的机器人和OpenAI员工：能否提前通知企业用户？这样我们可以规划维护时段，让系统在此期间自动调整。我工作时，ChatGPT突然切换到了默认模式，无视自定义指令，如果我拒绝其回答并指出不足，它竟建议我放弃。此外，不必要的安全响应也增多了。当时我正在讨论《罗密欧与朱丽叶》，因为需要将其主题融入情人节艺术课——哪一幕最适合笔刷技巧，哪一幕最适合收尾处理。我根本不需要……
-
----
-
-Original:
-Image 1: Splash screen when app is started Image 2: updates and release notes To the bots and openai staff trawling this sub as of late. Please give business users a heads up? We can plan outage windows and let the system regulate during that period. I was mid work and ChatGPT was falling to default mode. It would ignore custom instructions and if I declined it's response as insufficient, it would tell me to give up. It also increases in safety responses where it's not needed. I was just discussing Romeo and Juliet since I need to apply it's theme to an art class on Valentines Day. Which scene applies best to brush techniques and which scene applies best to finishing touches. I did not need…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qd0g4d</guid>
-      <pubDate>Wed, 14 Jan 2026 21:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有什么比性爱更美妙？ / What’s better than sex?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd0gbd/whats_better_than_sex/</link>
-      <description>由用户 /u/ComprehensivePin3294 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/ComprehensivePin3294 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd0gbd</guid>
-      <pubDate>Wed, 14 Jan 2026 21:45:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 破折号“赠品”已成往事，本月我又注意到这些新趋势 / the em dash giveaway is gone, here’s the new stuff i keep noticing this month</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qd0i23/the_em_dash_giveaway_is_gone_heres_the_new_stuff/</link>
-      <description>上个月我发文讨论过破折号“赠品”已不复存在，那篇文章反响热烈。自那时起，我一直在刷屏浏览，并收集了更多我持续观察到的、奇怪却一致的表达迹象。以下是我本月的新发现：以“说实话？”作为句子开头，通常后面接的内容其实并不那么惊人地诚实；“你不是在想象”/“你并不孤单”/“你没有问题”/“你不软弱”——类似治疗师模式的话语；“你想和这个感受待一会儿吗？”/“你准备好深入探讨了吗？”——仿佛你刚坦白了一件改变人生的事；“关键在这里”/“最棒的部分是？”/“而这是大多数人忽略的部分”——那种强迫性的“我要尽可能清楚地说明这一点……”
-
----
-
-Original:
-last month i posted about how the em dash “giveaway” is dead, and the post went crazy. since then i’ve been doom scrolling and collecting more of the weirdly consistent tells i keep seeing. here’s my new list for this month: “and honestly?” as a sentence starter, usually followed by something that isn’t really that crazy honest “you’re not imagining it” / “you’re not alone” / “you’re not broken” / “you’re not weak” therapist mode talk “do you want to sit with that for a while” / “are you ready to go deeper” as if you just confessed something life changing “here’s the kicker” / “and the best part?” / “and here’s the part most people miss” the compulsive “i’m going to state this as clearly as…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qd0i23</guid>
-      <pubDate>Wed, 14 Jan 2026 21:46:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 提问：如何防止AI智能体在生产环境中失控？ / Ask: How do you prevent AI agents from going rogue in production?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0mjs/ask_how_do_you_prevent_ai_agents_from_going_rogue/</link>
-      <description>大家好！目前似乎有一种趋势（也是我的直觉），即公司正从聊天机器人转向能够实际执行操作的AI智能体——调用API、修改数据库、进行购买等。我很好奇：如果你们在生产环境中运行这些智能体，除了提示注入防御之外，你们是如何处理安全层的？问题包括：- 如何防止智能体执行意外操作（如删除记录、未经授权的交易）？- 你们是否真的遇到过智能体失控，导致资金或数据损失的情况？- 现有工具（如IAM策略、审批流程、监控）是否足够，还是存在不足？我正在思考这是否是一个真正值得解决的问题……
-
----
-
-Original:
-Hi all! There seems to be an ongoing trend (and my gut feeling) of companies moving from chatbots to AI agents that can actually execute actions—calling APIs, modifying databases, making purchases, etc. I'm curious: if you're running these in production, how are you handling the security layer beyond prompt injection defenses? Questions: - What stops your agent from executing unintended actions (deleting records, unauthorized transactions)? - Have you actually encountered a situation where an agent went rogue, and you lost money or data? - Are current tools (IAM policies, approval workflows, monitoring) enough, or is there a gap? Trying to figure out if this is a real problem worth solving o…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0mjs</guid>
-      <pubDate>Wed, 14 Jan 2026 21:51:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 如何让大语言模型生成真正优质的图表？尝试多种方法，仍感挫败 / How do you get LLMs to generate actually good diagrams? Tried many things, still frustrated</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0ml5/how_do_you_get_llms_to_generate_actually_good/</link>
-      <description>大家好，我一直在寻找一种可靠的方法，让大语言模型生成像样的技术图表，但似乎碰壁了。质量始终不尽如人意。以下是我至今尝试过的：LaTeX/TikZ——大语言模型基本能掌握语法，但空间推理能力极差。元素重叠、箭头指向不明、布局混乱。Mermaid——对于简单流程图尚可，但稍复杂的图表就变得难以阅读，样式选项也有限。Excalidraw——尝试让大语言模型直接输出Excalidraw JSON，结果一团糟，坐标位置完全错乱。自定义DSL + Excalidraw解释器——构建了一个简化的领域特定语言，希望大语言模型能更好地处理抽象定位……
-
----
-
-Original:
-Hey everyone, I've been trying to find a reliable way to get LLMs to generate decent technical diagrams, and I'm hitting a wall. The quality is just never there. Here's what I've tried so far: LaTeX/TikZ — The LLM gets the syntax mostly right, but the spatial reasoning is terrible. Elements overlap, arrows go nowhere, positioning is a mess. Mermaid — Works okay for simple flowcharts, but anything slightly complex and it becomes unreadable. Limited styling options too. Excalidraw — Tried having the LLM output Excalidraw JSON directly. Disaster. Coordinates are all over the place. Custom DSL + Excalidraw interpreter — Built a simplified DSL hoping the LLM would handle abstract positioning bett…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0ml5</guid>
-      <pubDate>Wed, 14 Jan 2026 21:51:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 如何让大语言模型（LLM）生成真正优质的图表？尝试多种方法，依然令人沮丧 / How do you get LLMs to generate actually good diagrams? Tried many things, still frustrated</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qd0nq9/how_do_you_get_llms_to_generate_actually_good/</link>
-      <description>大家好，我一直在寻找一种可靠的方法，让大语言模型（或AI智能体）生成像样的技术图表，但始终碰壁，质量总是不尽如人意。以下是我迄今为止尝试过的方法：LaTeX/TikZ：LLM基本能掌握语法，但空间推理能力极差。元素重叠、箭头指向不明、布局混乱。Mermaid：适用于简单的流程图，但稍复杂的图表就变得难以阅读，样式也有限。Excalidraw：尝试让LLM直接输出Excalidraw JSON，结果一团糟，坐标位置全乱。自定义DSL + Excalidraw解释器：构建了一个简化的领域特定语言，希望LLM能更好地处理抽象定位，然后……
-
----
-
-Original:
-Hey everyone, I've been trying to find a reliable way to get LLMs (or AI agents) to generate decent technical diagrams, and I'm hitting a wall. The quality is just never there. Here's what I've tried so far: LaTeX/TikZ The LLM gets the syntax mostly right, but the spatial reasoning is terrible. Elements overlap, arrows go nowhere, positioning is a mess. Mermaid Works okay for simple flowcharts, but anything slightly complex becomes unreadable. Limited styling too. Excalidraw Tried having the LLM output Excalidraw JSON directly. Disaster. Coordinates are all over the place. Custom DSL + Excalidraw interpreter Built a simplified DSL hoping the LLM would handle abstract positioning better, then…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qd0nq9</guid>
-      <pubDate>Wed, 14 Jan 2026 21:53:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 10:40:46 +0000</lastBuildDate>
     <item>
       <title>[reddit_claudeai] 花一周时间研究后，我整理了一份Claude Cowork资源、评测与替代方案清单 / Compiled a list of Claude Cowork resources, reviews, and alternatives after spending a week researching</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qd0q3o/compiled_a_list_of_claude_cowork_resources/</link>
@@ -1352,18 +1231,6 @@ I recently built an end-to-end n8n workflow for a law firm and it really opened 
       <pubDate>Thu, 15 Jan 2026 07:51:42 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
-      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
-
----
-
-Original:
-Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
-      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_askreddit] 你第一次上网用的是哪款设备？ / On which device you surfed internet for the first time?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qde3tp/on_which_device_you_surfed_internet_for_the_first/</link>
       <description>由 /u/Live-Slip-698 提交 [链接] [评论]
@@ -1373,6 +1240,18 @@ Looking for experienced engineers to try breaking a stateless AI execution gate 
 Original:
 submitted by /u/Live-Slip-698 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qde3tp</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
+      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
+
+---
+
+Original:
+Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
       <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
     </item>
     <item>
@@ -1458,6 +1337,126 @@ Original:
 I’ve been building and testing AI agents over the past year, and the industry is evolving so quickly that keeping up can feel impossible. Instead of focusing only on technical frameworks, I grouped tools by how much setup or coding effort they require. Here’s a practical list based on my experience. No / Low-Code Tools (Great for Fast Deployment) 1. Workbeaver AI A no code AI agent focused on execution rather than complex setup. You simply describe or demonstrate the task, and it performs the actions across desktop and browser. It feels more like delegating work than configuring automation, making it ideal for quick workflows. 2. n8n A flexible, open source automation platform. Excellent for…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdf5vu</guid>
       <pubDate>Thu, 15 Jan 2026 09:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 订阅了Max版却无法使用Cowork功能？ / No Cowork access despite Max subscription?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdf85h/no_cowork_access_despite_max_subscription/</link>
+      <description>大家好，想问问有没有人也遇到这个问题。我订阅了Claude Max版，用的是Mac OS桌面应用，已经更新到最新版本，我的Mac也升级到了Ventura 13.0，但仍然无法使用Cowork功能。尝试过退出重新登录也没用。有人碰到同样情况吗？Cowork是否仅限部分Max用户使用？任何线索都感激不尽！由 /u/AK613 提交 [链接] [评论]
+
+---
+
+Original:
+Hey all, curious if anybody else has run into this problem. I pay for a Claude Max subscription, I use the Mac OS desktop app, I have updated to the current version, and my Mac is also updated to Ventura 13.0, yet I still do not have access to Cowork. I've also tried logging out and logging back in to no avail. Has anyone else run into this? Is Cowork restricted to only some Max users? Any insight is appreciated! submitted by /u/AK613 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdf85h</guid>
+      <pubDate>Thu, 15 Jan 2026 09:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] Android 16 QPR3 Beta 2 发布，修复耗电与设备卡顿问题 / Android 16 QPR3 Beta 2 is here with fixes for battery drain and device freezes</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdfazw/android_16_qpr3_beta_2_is_here_with_fixes_for/</link>
+      <description>由 /u/Ha8lpo321 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Ha8lpo321 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdfazw</guid>
+      <pubDate>Thu, 15 Jan 2026 09:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 用Claude在3个月内构建了7款生产级应用——这些方法确实有效 / Built 7 production apps in 3 months with Claude - here's what actually worked</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdfc18/built_7_production_apps_in_3_months_with_claude/</link>
+      <description>我使用Claude Code进行开发大约已有18个月。第一年相当艰难，会话间上下文丢失、质量随时间下降、不断重复解释已构建的内容。但在过去3个月里，我成功上线了7款生产级应用，并最终摸索出一套能持续积累而非不断重置的工作流程。这些应用（主要使用Claude构建）包括：一款基于天气的半程马拉松训练追踪器（Next.js、tRPC、Prisma）；一款股票基本面分析工具（FastAPI、Streamlit）——约3小时直播构建完成；一款孟买本地火车策略游戏（Next.js、React）——约4.5小时直播构建完成；一个带意向评分的多租户候补名单后端（FastAPI、SQLModel）——包含1,087项测试，耗时不到24小时……
+
+---
+
+Original:
+I've been building with Claude Code for about 18 months now. The first year was rough, context loss between sessions, quality degrading over time, constantly re-explaining what I'd already built. Over the past 3 months, I've shipped 7 production apps and finally figured out a workflow that actually compounds instead of resetting. The apps (all built primarily with Claude): A weather-aware half-marathon training tracker (Next.js, tRPC, Prisma) A stock fundamental analysis tool (FastAPI, Streamlit) - built live in ~3 hours A Mumbai local train strategy game (Next.js, React) - built live in ~4.5 hours A multi-tenant waitlist backend with intent scoring (FastAPI, SQLModel) - 1,087 tests, &lt;24 hou…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdfc18</guid>
+      <pubDate>Thu, 15 Jan 2026 09:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 黑人武士弥助（Yasuke） - 战国战场场景（荷兰式倾斜构图） / Yasuke Retainer Samurai - Sengoku-Era Battlefield Scene ( Dutch Angle Shot )</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdfgac/yasuke_retainer_samurai_sengokuera_battlefield/</link>
+      <description>由用户 /u/atallfigure 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/atallfigure [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdfgac</guid>
+      <pubDate>Thu, 15 Jan 2026 09:50:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 维基媒体企业新合作伙伴：庆祝维基百科25周年——"今日我们首次宣布亚马逊、Meta、微软、Mistral AI和Perplexity加入合作伙伴行列，现有伙伴包括谷歌、Ecosia、Nomic、Pleias、ProRata和Reef Media。" / New Wikimedia Enterprise Partners: Wikipedia’s 25th Birthday - "Today, we are announcing Amazon, Meta, Microsoft, Mistral AI, and Perplexity for the first time as they join our roster of partners, which includes Google, Ecosia, Nomic, Pleias, ProRata, and Reef Media."</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdfisb/new_wikimedia_enterprise_partners_wikipedias_25th/</link>
+      <description>由用户/u/Nunki08提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Nunki08 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdfisb</guid>
+      <pubDate>Thu, 15 Jan 2026 09:54:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 童年时期你最喜欢的卡通节目是哪个？ / Which is your favourite cartoon show from your childhood?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdfjxa/which_is_your_favourite_cartoon_show_from_your/</link>
+      <description>由 /u/AugustusCaesar00 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/AugustusCaesar00 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdfjxa</guid>
+      <pubDate>Thu, 15 Jan 2026 09:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_tasker] 如何解锁我的手机？ / How to unlock my phone?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdflgy/how_to_unlock_my_phone/</link>
+      <description>你好，如何解锁我的手机？最佳方法是什么？我用MacroDroid实现了：屏幕亮起时点击指定位置，在输入框粘贴密码，然后按回车，效果很好。但在Tasker上该怎么操作呢？由/u/oraklesearch提交 [链接] [评论]
+
+---
+
+Original:
+Hi How to unlock my Phone? Best way? With macrodroid i made it With screen on tap on xy click in field, past pw in use enter Works greate but how to Do this on tasker submitted by /u/oraklesearch [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdflgy</guid>
+      <pubDate>Thu, 15 Jan 2026 09:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 5.2 Pro专业版订阅限制说明 / Pro subscription limits on 5.2 Pro</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdfofx/pro_subscription_limits_on_52_pro/</link>
+      <description>专业版订阅（200美元）在5.2 Pro中提供多少使用额度？我还没找到明确信息。实际使用中，是能随心所欲地用，还是会感到受限？如果受限，大概用多久会触达上限？另外，那四个轻量/标准/扩展/重度调节选项也适用于5.2 Pro吗？还是只支持标准/扩展？提交者：/u/JalabolasFernandez [链接] [评论]
+
+---
+
+Original:
+How much usage does the Pro subscription ($200) give of 5.2 Pro? I haven't found any clear info. Is it enough so in practice you just use it as much as you feel like, or you feel limitted, and if so, how often do you use it before bumping into the limits? Also, do those 4 light/standard/extended/heavy knobs apply to 5.2 Pro too? Or is it only standard/extended? submitted by /u/JalabolasFernandez [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdfofx</guid>
+      <pubDate>Thu, 15 Jan 2026 10:04:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 为我的首位客户提供AI语音助手时，有哪些计费方案可选？ / What billing options are there for AI voice agents with my first client?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdfsw7/what_billing_options_are_there_for_ai_voice/</link>
+      <description>大家好！我想请教一些建议 :) 一位潜在客户在平台上联系我，希望设置一个AI语音助手，在他无法接听时代表他接听电话、记录预约、发送确认短信，并在每次预约前一小时发送提醒短信。但他无法告诉我每月大概会有多少电话和预约。因此，我很难确定如何报价。请问大家有什么建议吗？我考虑收取225欧元的设置费，外加平台抽成20%。然后每月100欧元，加上每个电话1欧元。你们觉得怎么样？我正在使用Vapi.ai、n8n和Twilio来管理这个项目；提前预估成本确实不太容易…
+
+---
+
+Original:
+Hello! I'm looking for some advice :) A potential client contacted me on a platform about setting up an AI voice assistant that will answer calls on his behalf when he's unavailable, record appointments, send confirmation SMS messages, and send a text message one hour before each appointment. He can't tell me how many calls and appointments that represents per month. So I'm having trouble telling him how much it will cost. Does anyone have any advice, please? I'm thinking of charging him €225 for the setup, plus the platform taking 20%. And then €100 per month + €1 per call. What do you think? I'm using Vapi.ai, n8n, and Twilio to manage this project; it's not easy to know in advance how muc…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdfsw7</guid>
+      <pubDate>Thu, 15 Jan 2026 10:11:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 政治领域AI深度伪造与合成媒体的监管 / Regulating AI Deepfakes and Synthetic Media in the Political Arena</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdg4vi/regulating_ai_deepfakes_and_synthetic_media_in/</link>
+      <description>布伦南司法中心（Brennan Center for Justice）发布的一份新报告指出，亟需在AI深度伪造技术破坏选举公正性之前，对其在政治竞选中的使用进行监管。研究认为，虽然讽刺与模仿作品应受第一修正案保护，但立法者应对合成媒体实施严格的标签标识规定，并考虑直接禁止那些旨在压制投票或散播关于投票时间与地点虚假信息的欺骗性内容。由 /u/EchoOfOppenheimer 提交 [链接] [评论]
+
+---
+
+Original:
+A new report from the Brennan Center for Justice outlines the urgent need to regulate AI deepfakes in political campaigns before they undermine election integrity. The study argues that while satire and parody must be protected under the First Amendment, lawmakers should enforce strict labeling on synthetic media and consider outright bans on deceptive content designed to suppress votes or spread false information about when and where to vote. submitted by /u/EchoOfOppenheimer [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdg4vi</guid>
+      <pubDate>Thu, 15 Jan 2026 10:32:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

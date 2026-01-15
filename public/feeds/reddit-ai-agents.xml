@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:38:57 +0000</lastBuildDate>
-    <item>
-      <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
-      <description>每周分享你的AI智能体与LLM应用成果！获赞最多的项目将入选我们的每周精选简报。由 /u/help-me-grow 提交 [链接] [评论]
-
----
-
-Original:
-Weekly thread to show off your AI Agents and LLM Apps! Top voted projects will be featured in our weekly newsletter . submitted by /u/help-me-grow [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1q6kv0f</guid>
-      <pubDate>Wed, 07 Jan 2026 17:01:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 10:39:32 +0000</lastBuildDate>
     <item>
       <title>AI智能体失败更多是因为推理能力差还是情境理解差？ / Do AI agents fail more because of bad reasoning or bad context?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qanpj6/do_ai_agents_fail_more_because_of_bad_reasoning/</link>
@@ -1464,6 +1452,18 @@ Original:
 I’ve been building and testing AI agents over the past year, and the industry is evolving so quickly that keeping up can feel impossible. Instead of focusing only on technical frameworks, I grouped tools by how much setup or coding effort they require. Here’s a practical list based on my experience. No / Low-Code Tools (Great for Fast Deployment) 1. Workbeaver AI A no code AI agent focused on execution rather than complex setup. You simply describe or demonstrate the task, and it performs the actions across desktop and browser. It feels more like delegating work than configuring automation, making it ideal for quick workflows. 2. n8n A flexible, open source automation platform. Excellent for…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdf5vu</guid>
       <pubDate>Thu, 15 Jan 2026 09:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>为我的首位客户提供AI语音助手时，有哪些计费方案可选？ / What billing options are there for AI voice agents with my first client?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdfsw7/what_billing_options_are_there_for_ai_voice/</link>
+      <description>大家好！我想请教一些建议 :) 一位潜在客户在平台上联系我，希望设置一个AI语音助手，在他无法接听时代表他接听电话、记录预约、发送确认短信，并在每次预约前一小时发送提醒短信。但他无法告诉我每月大概会有多少电话和预约。因此，我很难确定如何报价。请问大家有什么建议吗？我考虑收取225欧元的设置费，外加平台抽成20%。然后每月100欧元，加上每个电话1欧元。你们觉得怎么样？我正在使用Vapi.ai、n8n和Twilio来管理这个项目；提前预估成本确实不太容易…
+
+---
+
+Original:
+Hello! I'm looking for some advice :) A potential client contacted me on a platform about setting up an AI voice assistant that will answer calls on his behalf when he's unavailable, record appointments, send confirmation SMS messages, and send a text message one hour before each appointment. He can't tell me how many calls and appointments that represents per month. So I'm having trouble telling him how much it will cost. Does anyone have any advice, please? I'm thinking of charging him €225 for the setup, plus the platform taking 20%. And then €100 per month + €1 per call. What do you think? I'm using Vapi.ai, n8n, and Twilio to manage this project; it's not easy to know in advance how muc…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdfsw7</guid>
+      <pubDate>Thu, 15 Jan 2026 10:11:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:39:30 +0000</lastBuildDate>
-    <item>
-      <title>女士们，男性第一次约会时做哪一件事能立刻确保获得第二次约会机会？ / Ladies, what’s one single thing a man can do on the first date to instantly secure a second date?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbf8wy/ladies_whats_one_single_thing_a_man_can_do_on_the/</link>
-      <description>由用户 /u/sweatengine 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/sweatengine [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbf8wy</guid>
-      <pubDate>Tue, 13 Jan 2026 02:30:37 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 10:40:33 +0000</lastBuildDate>
     <item>
       <title>除了刷Reddit，你现在在做什么？ / What are you doing right now, except scrolling reddit?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qbgg21/what_are_you_doing_right_now_except_scrolling/</link>
@@ -1446,6 +1434,18 @@ Original:
 submitted by /u/SoftBunnyTea [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qdetbg</guid>
       <pubDate>Thu, 15 Jan 2026 09:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>童年时期你最喜欢的卡通节目是哪个？ / Which is your favourite cartoon show from your childhood?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdfjxa/which_is_your_favourite_cartoon_show_from_your/</link>
+      <description>由 /u/AugustusCaesar00 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/AugustusCaesar00 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdfjxa</guid>
+      <pubDate>Thu, 15 Jan 2026 09:56:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

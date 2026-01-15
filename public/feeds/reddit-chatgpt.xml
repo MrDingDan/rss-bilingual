@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:39:48 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1272,6 +1272,18 @@ Original:
 This is mine submitted by /u/Fit_Profit6786 [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qde8p7</guid>
       <pubDate>Thu, 15 Jan 2026 08:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>黑人武士弥助（Yasuke） - 战国战场场景（荷兰式倾斜构图） / Yasuke Retainer Samurai - Sengoku-Era Battlefield Scene ( Dutch Angle Shot )</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdfgac/yasuke_retainer_samurai_sengokuera_battlefield/</link>
+      <description>由用户 /u/atallfigure 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/atallfigure [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdfgac</guid>
+      <pubDate>Thu, 15 Jan 2026 09:50:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

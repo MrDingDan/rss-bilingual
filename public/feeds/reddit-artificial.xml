@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:39:42 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -762,6 +762,18 @@ Original:
 submitted by /u/jferments [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qdbld2</guid>
       <pubDate>Thu, 15 Jan 2026 05:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>维基媒体企业新合作伙伴：庆祝维基百科25周年——"今日我们首次宣布亚马逊、Meta、微软、Mistral AI和Perplexity加入合作伙伴行列，现有伙伴包括谷歌、Ecosia、Nomic、Pleias、ProRata和Reef Media。" / New Wikimedia Enterprise Partners: Wikipedia’s 25th Birthday - "Today, we are announcing Amazon, Meta, Microsoft, Mistral AI, and Perplexity for the first time as they join our roster of partners, which includes Google, Ecosia, Nomic, Pleias, ProRata, and Reef Media."</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdfisb/new_wikimedia_enterprise_partners_wikipedias_25th/</link>
+      <description>由用户/u/Nunki08提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Nunki08 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdfisb</guid>
+      <pubDate>Thu, 15 Jan 2026 09:54:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

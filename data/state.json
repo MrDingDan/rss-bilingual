@@ -931,7 +931,17 @@
     "reddit-askreddit::t3_1qdecyz": 1768469957,
     "reddit-askreddit::t3_1qdetbg": 1768469965,
     "reddit-askreddit::t3_1qde3tp": 1768469970,
-    "reddit-tasker::t3_1qdewng": 1768469980
+    "reddit-tasker::t3_1qdewng": 1768469980,
+    "reddit-ai-agents::t3_1qdfsw7": 1768473572,
+    "reddit-artificial::t3_1qdfisb": 1768473582,
+    "reddit-chatgpt::t3_1qdfgac": 1768473587,
+    "reddit-claudeai::t3_1qdfc18": 1768473600,
+    "reddit-claudeai::t3_1qdf85h": 1768473607,
+    "reddit-openai::t3_1qdg4vi": 1768473617,
+    "reddit-openai::t3_1qdfofx": 1768473625,
+    "reddit-askreddit::t3_1qdfjxa": 1768473633,
+    "reddit-android::t3_1qdfazw": 1768473638,
+    "reddit-tasker::t3_1qdflgy": 1768473644
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4621,6 +4631,46 @@
     "ca861d16fb310fc7b874732905a5ee190ef2614292dec03bcc3b1012d6759a67": {
       "zh_title": "Wireguard开关任务运行异常",
       "zh_summary": "我使用Wireguard连接家庭网络，但众所周知，这会导致无法连接Chromecast或Android Auto。为此，我在Tasker中创建了一些配置文件和任务，以便在连接到家庭WiFi或车载Android Auto蓝牙设备时关闭Wireguard隧道。我设置了两个配置文件：HomeWifi和CarBT，分别在连接对应设备时运行关闭VPN隧道的任务，并为两者配置了断开连接后重新开启隧道的退出任务。问题是，虽然任务和HomeWifi运行良好，但CarBT配置文件仅在蓝牙…"
+    },
+    "41d9d4a187c6f36de74f611d088d1ee411b1366cdef765e353155fef6eb89dd0": {
+      "zh_title": "为我的首位客户提供AI语音助手时，有哪些计费方案可选？",
+      "zh_summary": "大家好！我想请教一些建议 :) 一位潜在客户在平台上联系我，希望设置一个AI语音助手，在他无法接听时代表他接听电话、记录预约、发送确认短信，并在每次预约前一小时发送提醒短信。但他无法告诉我每月大概会有多少电话和预约。因此，我很难确定如何报价。请问大家有什么建议吗？我考虑收取225欧元的设置费，外加平台抽成20%。然后每月100欧元，加上每个电话1欧元。你们觉得怎么样？我正在使用Vapi.ai、n8n和Twilio来管理这个项目；提前预估成本确实不太容易…"
+    },
+    "d520046c341471b47284b7b43077b41619122394d1e89902dadb8d5a7d0497d3": {
+      "zh_title": "维基媒体企业新合作伙伴：庆祝维基百科25周年——\"今日我们首次宣布亚马逊、Meta、微软、Mistral AI和Perplexity加入合作伙伴行列，现有伙伴包括谷歌、Ecosia、Nomic、Pleias、ProRata和Reef Media。\"",
+      "zh_summary": "由用户/u/Nunki08提交 [链接] [评论]"
+    },
+    "9c3e5b36a2a0a33837603a1d517850e6029bb7db646a5f8cf870069bd3be0c2e": {
+      "zh_title": "黑人武士弥助（Yasuke） - 战国战场场景（荷兰式倾斜构图）",
+      "zh_summary": "由用户 /u/atallfigure 提交 [链接] [评论]"
+    },
+    "43b1096f34cc2fe3c3503b640c778beede7b412cecf9e75732e75d44db5c9a69": {
+      "zh_title": "用Claude在3个月内构建了7款生产级应用——这些方法确实有效",
+      "zh_summary": "我使用Claude Code进行开发大约已有18个月。第一年相当艰难，会话间上下文丢失、质量随时间下降、不断重复解释已构建的内容。但在过去3个月里，我成功上线了7款生产级应用，并最终摸索出一套能持续积累而非不断重置的工作流程。这些应用（主要使用Claude构建）包括：一款基于天气的半程马拉松训练追踪器（Next.js、tRPC、Prisma）；一款股票基本面分析工具（FastAPI、Streamlit）——约3小时直播构建完成；一款孟买本地火车策略游戏（Next.js、React）——约4.5小时直播构建完成；一个带意向评分的多租户候补名单后端（FastAPI、SQLModel）——包含1,087项测试，耗时不到24小时……"
+    },
+    "92883c518f4b3490facac6a7380d9df6a7a41bd94cf62758f2db5273e3fe8e03": {
+      "zh_title": "订阅了Max版却无法使用Cowork功能？",
+      "zh_summary": "大家好，想问问有没有人也遇到这个问题。我订阅了Claude Max版，用的是Mac OS桌面应用，已经更新到最新版本，我的Mac也升级到了Ventura 13.0，但仍然无法使用Cowork功能。尝试过退出重新登录也没用。有人碰到同样情况吗？Cowork是否仅限部分Max用户使用？任何线索都感激不尽！由 /u/AK613 提交 [链接] [评论]"
+    },
+    "2e70965dffd65b48404cdbc1bf5f654fbd7ceed8204048238508cb7bf8442898": {
+      "zh_title": "政治领域AI深度伪造与合成媒体的监管",
+      "zh_summary": "布伦南司法中心（Brennan Center for Justice）发布的一份新报告指出，亟需在AI深度伪造技术破坏选举公正性之前，对其在政治竞选中的使用进行监管。研究认为，虽然讽刺与模仿作品应受第一修正案保护，但立法者应对合成媒体实施严格的标签标识规定，并考虑直接禁止那些旨在压制投票或散播关于投票时间与地点虚假信息的欺骗性内容。由 /u/EchoOfOppenheimer 提交 [链接] [评论]"
+    },
+    "2b9f12fd97caaafb371e658310f9d0b44bdc6ccb9c139aaba309cb87db1b297e": {
+      "zh_title": "5.2 Pro专业版订阅限制说明",
+      "zh_summary": "专业版订阅（200美元）在5.2 Pro中提供多少使用额度？我还没找到明确信息。实际使用中，是能随心所欲地用，还是会感到受限？如果受限，大概用多久会触达上限？另外，那四个轻量/标准/扩展/重度调节选项也适用于5.2 Pro吗？还是只支持标准/扩展？提交者：/u/JalabolasFernandez [链接] [评论]"
+    },
+    "5e05d54e7ccb3c4907b1a71c7c7523267944e4bfd17a36d8089851dfc061f550": {
+      "zh_title": "童年时期你最喜欢的卡通节目是哪个？",
+      "zh_summary": "由 /u/AugustusCaesar00 提交 [链接] [评论]"
+    },
+    "47cc8c941ab85009d54d1f4403d334babaed787613fcd2ac2161a0e9632d655b": {
+      "zh_title": "Android 16 QPR3 Beta 2 发布，修复耗电与设备卡顿问题",
+      "zh_summary": "由 /u/Ha8lpo321 提交 [链接] [评论]"
+    },
+    "3136a895e31ecf67e6e1b61ffe61843d57757394092a716e82d8ed28a2a82c7e": {
+      "zh_title": "如何解锁我的手机？",
+      "zh_summary": "你好，如何解锁我的手机？最佳方法是什么？我用MacroDroid实现了：屏幕亮起时点击指定位置，在输入框粘贴密码，然后按回车，效果很好。但在Tasker上该怎么操作呢？由/u/oraklesearch提交 [链接] [评论]"
     }
   }
 }

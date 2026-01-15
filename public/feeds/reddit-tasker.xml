@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:40:44 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -414,6 +414,18 @@ Original:
 I'm using Wireguard to connect to my home network, but as many of you will be aware, that makes it impossible to do things like connecting to a ChromeCast or Android Auto. As such I made some profiles and tasks in Tasker to turn the Wireguard tunnel off when I connect to either my home wifi, or to my car's Android Auto bluetooth device. I made two profiles that run the task to turn the VPN tunnel off when they connect to my wifi (profile HomeWifi) or my car (profile CarBT). I made exit tasks for both profiles that turn the tunnel back on after they disconnect from either. My problem is that while both the tasks and the HomeWifi run beautifully, the CarBT profile only disconnects when the blu…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdewng</guid>
       <pubDate>Thu, 15 Jan 2026 09:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何解锁我的手机？ / How to unlock my phone?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdflgy/how_to_unlock_my_phone/</link>
+      <description>你好，如何解锁我的手机？最佳方法是什么？我用MacroDroid实现了：屏幕亮起时点击指定位置，在输入框粘贴密码，然后按回车，效果很好。但在Tasker上该怎么操作呢？由/u/oraklesearch提交 [链接] [评论]
+
+---
+
+Original:
+Hi How to unlock my Phone? Best way? With macrodroid i made it With screen on tap on xy click in field, past pw in use enter Works greate but how to Do this on tasker submitted by /u/oraklesearch [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdflgy</guid>
+      <pubDate>Thu, 15 Jan 2026 09:59:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
