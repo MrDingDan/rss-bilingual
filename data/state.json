@@ -1089,7 +1089,10 @@
     "reddit-chatgpt::t3_1qdstss": 1768505724,
     "reddit-claudeai::t3_1qdrywj": 1768505735,
     "reddit-askreddit::t3_1qds100": 1768505741,
-    "reddit-tasker::t3_1qdt2kk": 1768505750
+    "reddit-tasker::t3_1qdt2kk": 1768505750,
+    "reddit-claudeai::t3_1qdt91d": 1768506750,
+    "reddit-claudeai::t3_1qdt0lt": 1768506759,
+    "reddit-android::t3_1qdtmlb": 1768506766
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5407,6 +5410,18 @@
     "23e7151a4d7b09c834318638d514300eb2e08da3ff0637fd57430f47dd9bd56b": {
       "zh_title": "Autonotification操作失效了？",
       "zh_summary": "我尝试用Autonotification操作点击其他应用通知上的按钮。在设置任务和测试时似乎成功过几次，但之后就完全没反应了。我试过从下拉列表选择按钮，也试过在执行AN查询操作后，在操作ID字段填入实际ID和%anbutton2action()。通过显示%anbutton2text()来验证目标按钮是正确的，结果也没问题。日志里也没有任何错误提示，所以我现在有点束手无策。补充说明：我想点击的按钮是用来关闭该应用提供的服务的。有没有其他人遇到过AN操作的问题，或者有没有……"
+    },
+    "dad229ad03a6d3db2e0c61bb106ef4f1949101a72b886197c200050a9dd25109": {
+      "zh_title": "Claude Code中的多仓库管理——你们是如何处理的？",
+      "zh_summary": "我在一家B2C初创公司带领一个小型开发团队。我们有5个主要仓库，包含大量微服务。团队中有一半成员日常工作中喜欢使用Claude Code。最近我们开始采用多仓库工作区，这彻底改变了我们调试跨服务问题的方式。只需粘贴一个Sentry错误，AI就能在所有仓库（前端、后端、CMS、AI服务）中追踪问题，并一次性提出跨多个服务的协同修改建议。这完全改变了开发者的工作模式。过去几个月，每个人都只关注“自己的”仓库；现在大家会在各处提交代码。没人再问“这是谁的代码？”——他们开始将整个代码库视为一个整体。我们团队中使用Claude Code的开发者现在变得……"
+    },
+    "8bebaac3a962f6c3b606d755c623e37e92d2307afd493a4f7ffe4286f02ab9c9": {
+      "zh_title": "我有一支由7个Claude组成的“团队”为我工作——在IntelliJ中使用Claude编码助手需要注意什么？",
+      "zh_summary": "简而言之，vibe-coder想了解如何在IntelliJ中合理利用和协调多个Claude编码助手，以更高效地推进项目，并探索Claude那些她尚未知晓的实用功能。\n\n好吧，我打赌从标题就能看出，我其实不太清楚自己在做什么👍 简单背景：大约15年前，我顺利完成了为期三年的软件开发学徒培训。哎，之后我考取了Scrum Master认证，并一直担任这一角色，始终活跃在不同规模和复杂度的IT开发团队中，所以对这个领域并不陌生。正是在这些团队里，我偶然了解到Claude在……"
+    },
+    "fe88b090b51fa5dcc1410f97b931c847ce29ae03a9ebf5fe3780bcd9b44cb8b6": {
+      "zh_title": "旗舰性能搭配超大电池——荣耀Magic8 Pro智能手机评测",
+      "zh_summary": "由 /u/Antonis_32 提交 [链接] [评论]"
     }
   }
 }

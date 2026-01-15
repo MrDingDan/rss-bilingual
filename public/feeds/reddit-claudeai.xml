@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:35:35 +0000</lastBuildDate>
-    <item>
-      <title>Claude状态更新：2026年1月12日 星期一 19:21:32 +0000 / Claude Status Update: Mon, 12 Jan 2026 19:21:32 +0000</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb4f53/claude_status_update_mon_12_jan_2026_192132_0000/</link>
-      <description>此为官方Claude系统状态更新后15分钟内自动发布的帖子。事件：Opus 4.5错误率上升。请通过此链接查看处理进展及事件是否已解决：https://status.claude.com/incidents/s2g3slcdq9jk，由/u/sixbillionthsheep提交 [链接] [评论]
-
----
-
-Original:
-This is an automatic post triggered within 15 minutes of an official Claude system status update. Incident: Increased rate of errors for Opus 4.5 Check on progress and whether or not the incident has been resolved yet here : https://status.claude.com/incidents/s2g3slcdq9jk submitted by /u/sixbillionthsheep [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb4f53</guid>
-      <pubDate>Mon, 12 Jan 2026 19:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus输出质量下降与幻觉增多 / Claude Opus output quality degradation and increased hallucinations</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb4j7u/claude_opus_output_quality_degradation_and/</link>
-      <description>我是Max用户。除了已经确认的Claude突然极端消耗tokens的问题外，我想问问大家是否注意到过去一周它的输出质量有所下降。通常，我可以让Claude同时处理大量信息。我喜欢让它维护复杂的故事情节，包含多维角色，并注重心理发展来推动剧情。这是一种有趣的消遣。通常它需要我不时介入提供一些指导和批评，但一旦建立起来，它就能很好地维持一切。这总是让我印象深刻。但在过去一周，这种情况已经不复存在了。它需…
-
----
-
-Original:
-Max user here. Aside from the already established issue of Claude burning through tokens at an extreme rate all of the sudden, I wanted to ask if anyone else has noticed its outputs to have decreased in quality over the past week. Typically, I can challenge Claude to maintain a lot of information at once. I enjoy having it maintain complex storylines with multidimensional characters and a lot of care for psychological development to drive the plot. It’s a fun pastime. Usually it needs me to jump in with some pointers and critiques every so often, but it does well to uphold things once established. It has always thoroughly impressed me. That has gone out of the window in the past week. It nee…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb4j7u</guid>
-      <pubDate>Mon, 12 Jan 2026 19:26:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 19:52:39 +0000</lastBuildDate>
     <item>
       <title>推出Cowork：Claude Code助力你的其他工作 / Introducing Cowork: Claude Code for the rest of your work.</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qb5r3y/introducing_cowork_claude_code_for_the_rest_of/</link>
@@ -1476,6 +1452,32 @@ Original:
 Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdrywj</guid>
       <pubDate>Thu, 15 Jan 2026 18:44:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>我有一支由7个Claude组成的“团队”为我工作——在IntelliJ中使用Claude编码助手需要注意什么？ / I have a "Team" of 7-claudes working for me - What should I know about using Claude coding agent in IntelliJ?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdt0lt/i_have_a_team_of_7claudes_working_for_me_what/</link>
+      <description>简而言之，vibe-coder想了解如何在IntelliJ中合理利用和协调多个Claude编码助手，以更高效地推进项目，并探索Claude那些她尚未知晓的实用功能。
+
+好吧，我打赌从标题就能看出，我其实不太清楚自己在做什么👍 简单背景：大约15年前，我顺利完成了为期三年的软件开发学徒培训。哎，之后我考取了Scrum Master认证，并一直担任这一角色，始终活跃在不同规模和复杂度的IT开发团队中，所以对这个领域并不陌生。正是在这些团队里，我偶然了解到Claude在……
+
+---
+
+Original:
+tl:dr vibe-coder needs input on how to utilize and coordinate multiple claude coding agents properly in IntelliJ to help her work on her project more efficiently, and find out all the cool things Claude can do that she isn't aware of. Okay, I bet the way I titled the post already gave away that I have pretty much no idea what I'm doing 👍 Quick background: I've successfully finished my 3-year software developer apprenticeship 15-ish years ago. ouch Directly after that I got certified as Scrum Master and have been working in that role ever since, always in IT-Dev-Teams of varying sizes and complexities, so I'm not completely out of the sphere. That's where I drive-by learned how cool claude in…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdt0lt</guid>
+      <pubDate>Thu, 15 Jan 2026 19:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code中的多仓库管理——你们是如何处理的？ / Multi-repo in Claude Code — how do you handle it?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdt91d/multirepo_in_claude_code_how_do_you_handle_it/</link>
+      <description>我在一家B2C初创公司带领一个小型开发团队。我们有5个主要仓库，包含大量微服务。团队中有一半成员日常工作中喜欢使用Claude Code。最近我们开始采用多仓库工作区，这彻底改变了我们调试跨服务问题的方式。只需粘贴一个Sentry错误，AI就能在所有仓库（前端、后端、CMS、AI服务）中追踪问题，并一次性提出跨多个服务的协同修改建议。这完全改变了开发者的工作模式。过去几个月，每个人都只关注“自己的”仓库；现在大家会在各处提交代码。没人再问“这是谁的代码？”——他们开始将整个代码库视为一个整体。我们团队中使用Claude Code的开发者现在变得……
+
+---
+
+Original:
+I run a small dev team at a B2C startup. We have 5 main repositories with lots of microservices. Half my team loves Claude Code for their day-to-day work. Recently we started using multi-repo workspaces and it completely changed how we debug cross-service issues. Paste a Sentry error, and the AI traces the issue across all repositories — frontend, backend, CMS, AI services — and suggests coordinated changes across multiple services at once. This completely changed how developers work. For months, everyone had "their" repos. Now people commit everywhere. Nobody asks "whose code is this?" — they just see the entire codebase as one thing. The developers on my team who use Claude Code are now as…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdt91d</guid>
+      <pubDate>Thu, 15 Jan 2026 19:30:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

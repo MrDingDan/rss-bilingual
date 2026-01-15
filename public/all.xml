@@ -6,43 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 19:35:51 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 如何在不微调的情况下为AI智能体实现持久记忆 / How I solved persistent memory for AI agents without fine-tuning</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdhsve/how_i_solved_persistent_memory_for_ai_agents/</link>
-      <description>我构建AI工作流已有一段时间，最大的痛点始终是上下文丢失。你设置一个智能体，给它指令，进行顺畅的对话，但下一次会话时它就忘得一干二净。标准解决方案要么是昂贵且耗时的微调，要么是增加复杂性和延迟的RAG。我采用了一种更简单的方法：构建了一个系统，你可以为不同的智能体用例创建称为“盒子”的工作空间。每个盒子包含多个标签页，各自拥有独立的对话历史和记忆存储。记忆只是你可以直接控制的键值对。你可以手动添加记忆，或者智能体在对话后建议保存重要信息。当你发送一条消息……
-
----
-
-Original:
-I have been building AI workflows for a while and the biggest friction point is always context loss. You set up an agent, give it instructions, have a great conversation, and then next session it forgets everything. The standard solutions are either fine-tuning which is expensive and slow, or RAG which adds complexity and latency. I took a simpler approach. I built a system where you create workspaces called boxes for different agent use cases. Each box has tabs with their own conversation history and memory store. The memory is just key value pairs that you control directly. You can add memories manually or the agent suggests important points to save after conversations. When you send a mes…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdhsve</guid>
-      <pubDate>Thu, 15 Jan 2026 12:07:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 本想问点别的 / Thought to ask something else</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdhun5/thought_to_ask_something_else/</link>
-      <description>既然我们一直在询问我方的情况，我想不如看看对方究竟希望我方如何对待它！由 /u/viraj-mahajan 提交 [链接] [评论]
-
----
-
-Original:
-Since we all had been asking about our side, I thought let’s see what it wanted to be treated exactly from our side! submitted by /u/viraj-mahajan [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdhun5</guid>
-      <pubDate>Thu, 15 Jan 2026 12:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] Keybox（钥匙盒）可能从2026年2月起停止服务！ / Keybox Might No Longer Work from February 2026!</title>
-      <link>https://www.reddit.com/r/Android/comments/1qdhwtm/keybox_might_no_longer_work_from_february_2026/</link>
-      <description>由用户 /u/DroidLife97 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/DroidLife97 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qdhwtm</guid>
-      <pubDate>Thu, 15 Jan 2026 12:13:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 19:52:49 +0000</lastBuildDate>
     <item>
       <title>[reddit_chatgpt] 如果杰克和罗丝在泰坦尼克号中幸存 / What if Jack and Rose survived Titanic</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qdi1u4/what_if_jack_and_rose_survived_titanic/</link>
@@ -966,18 +930,6 @@ submitted by /u/Federal-Block-3275 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
-      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
-
----
-
-Original:
-Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
-      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_chatgpt] 它知道 / It Knows</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
       <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
@@ -987,6 +939,18 @@ Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
 Original:
 Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
+      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
+
+---
+
+Original:
+Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
     </item>
     <item>
@@ -1448,6 +1412,20 @@ submitted by /u/Strange__Visitor [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 19:14:57 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 我有一支由7个Claude组成的“团队”为我工作——在IntelliJ中使用Claude编码助手需要注意什么？ / I have a "Team" of 7-claudes working for me - What should I know about using Claude coding agent in IntelliJ?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdt0lt/i_have_a_team_of_7claudes_working_for_me_what/</link>
+      <description>简而言之，vibe-coder想了解如何在IntelliJ中合理利用和协调多个Claude编码助手，以更高效地推进项目，并探索Claude那些她尚未知晓的实用功能。
+
+好吧，我打赌从标题就能看出，我其实不太清楚自己在做什么👍 简单背景：大约15年前，我顺利完成了为期三年的软件开发学徒培训。哎，之后我考取了Scrum Master认证，并一直担任这一角色，始终活跃在不同规模和复杂度的IT开发团队中，所以对这个领域并不陌生。正是在这些团队里，我偶然了解到Claude在……
+
+---
+
+Original:
+tl:dr vibe-coder needs input on how to utilize and coordinate multiple claude coding agents properly in IntelliJ to help her work on her project more efficiently, and find out all the cool things Claude can do that she isn't aware of. Okay, I bet the way I titled the post already gave away that I have pretty much no idea what I'm doing 👍 Quick background: I've successfully finished my 3-year software developer apprenticeship 15-ish years ago. ouch Directly after that I got certified as Scrum Master and have been working in that role ever since, always in IT-Dev-Teams of varying sizes and complexities, so I'm not completely out of the sphere. That's where I drive-by learned how cool claude in…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdt0lt</guid>
+      <pubDate>Thu, 15 Jan 2026 19:21:44 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_tasker] Autonotification操作失效了？ / Autonotification Action not working?</title>
       <link>https://www.reddit.com/r/tasker/comments/1qdt2kk/autonotification_action_not_working/</link>
       <description>我尝试用Autonotification操作点击其他应用通知上的按钮。在设置任务和测试时似乎成功过几次，但之后就完全没反应了。我试过从下拉列表选择按钮，也试过在执行AN查询操作后，在操作ID字段填入实际ID和%anbutton2action()。通过显示%anbutton2text()来验证目标按钮是正确的，结果也没问题。日志里也没有任何错误提示，所以我现在有点束手无策。补充说明：我想点击的按钮是用来关闭该应用提供的服务的。有没有其他人遇到过AN操作的问题，或者有没有……
@@ -1458,6 +1436,30 @@ Original:
 I'm trying to use Autonotification Actions to click a button on another app's notification. It seemed to work a couple times when I was setting up the task and trying it out, but since then it hasn't worked at all. I've tried selecting the button from the drop-down list, populating the Action ID field with the actual ID and with %anbutton2action() after performing an AN query action. I tested that I was targeting the right button by flashing %anbutton2text() and it checked out. The log doesn't show any errors either, so I'm kind of at a loss. For context, the button I want to click turns off the service the app provides. Has anyone else had any issues with the AN actions or does anyone have…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdt2kk</guid>
       <pubDate>Thu, 15 Jan 2026 19:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Claude Code中的多仓库管理——你们是如何处理的？ / Multi-repo in Claude Code — how do you handle it?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdt91d/multirepo_in_claude_code_how_do_you_handle_it/</link>
+      <description>我在一家B2C初创公司带领一个小型开发团队。我们有5个主要仓库，包含大量微服务。团队中有一半成员日常工作中喜欢使用Claude Code。最近我们开始采用多仓库工作区，这彻底改变了我们调试跨服务问题的方式。只需粘贴一个Sentry错误，AI就能在所有仓库（前端、后端、CMS、AI服务）中追踪问题，并一次性提出跨多个服务的协同修改建议。这完全改变了开发者的工作模式。过去几个月，每个人都只关注“自己的”仓库；现在大家会在各处提交代码。没人再问“这是谁的代码？”——他们开始将整个代码库视为一个整体。我们团队中使用Claude Code的开发者现在变得……
+
+---
+
+Original:
+I run a small dev team at a B2C startup. We have 5 main repositories with lots of microservices. Half my team loves Claude Code for their day-to-day work. Recently we started using multi-repo workspaces and it completely changed how we debug cross-service issues. Paste a Sentry error, and the AI traces the issue across all repositories — frontend, backend, CMS, AI services — and suggests coordinated changes across multiple services at once. This completely changed how developers work. For months, everyone had "their" repos. Now people commit everywhere. Nobody asks "whose code is this?" — they just see the entire codebase as one thing. The developers on my team who use Claude Code are now as…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdt91d</guid>
+      <pubDate>Thu, 15 Jan 2026 19:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 旗舰性能搭配超大电池——荣耀Magic8 Pro智能手机评测 / Flagship power with an XXL battery - Honor Magic8 Pro smartphone review</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdtmlb/flagship_power_with_an_xxl_battery_honor_magic8/</link>
+      <description>由 /u/Antonis_32 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Antonis_32 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdtmlb</guid>
+      <pubDate>Thu, 15 Jan 2026 19:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
