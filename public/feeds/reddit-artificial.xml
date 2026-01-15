@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 13:51:38 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -774,6 +774,18 @@ Original:
 submitted by /u/Nunki08 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qdfisb</guid>
       <pubDate>Thu, 15 Jan 2026 09:54:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>现代安卓手机已能本地运行16倍AI超分，但多数应用仍强推云端。因此，我打造了一个离线、GPU加速的替代方案。 / Modern Android phones are powerful enough to run 16x AI Upscaling locally, yet most apps force you to the cloud. So I built an offline, GPU-accelerated alternative.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/</link>
+      <description>大家好，我想分享一个我一直在做的项目，旨在将高质量超分辨率模型直接带到安卓设备上，无需依赖云端处理。我开发了RendrFlow，这是一个完整的AI图像工具集，专为完全在设备上进行重度处理而设计。技术栈（底层原理）：该应用不依赖网络连接，而是在本地运行推理。我实现了几项特定功能来管理负载：- 硬件加速：您可以在CPU、GPU和特定的“GPU爆发”模式之间切换，以最大化重型模型的吞吐量。- 模型支持：它使用高和超高质量模型，支持2倍、4倍甚至16倍超分辨率放大……
+
+---
+
+Original:
+Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra q…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdjvis</guid>
+      <pubDate>Thu, 15 Jan 2026 13:44:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

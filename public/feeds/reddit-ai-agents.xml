@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:06:32 +0000</lastBuildDate>
-    <item>
-      <title>如果AI系统无法安全失效，就不该投入生产 / If your AI system can’t fail safely, it’s not ready for production</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qasinx/if_your_ai_system_cant_fail_safely_its_not_ready/</link>
-      <description>AI并非完美无缺。一个可用于生产的AI系统的真正考验，不仅在于准确性，更在于出错时的表现。一个稳健的系统应能预见错误、降低风险，并在安全失效的同时避免灾难性后果。这在客户部署中尤为关键，因为错误会带来实际损失。简单、可靠、有韧性的系统，往往优于那些纸上谈兵、实践中却不堪一击的复杂系统。由 /u/ConfidenceOk2467 提交 [链接] [评论]
-
----
-
-Original:
-AI isn’t infallible. The real test of a production-ready AI system isn’t just accuracy, it’s how it behaves when things go wrong. A robust system anticipates errors, mitigates risk, and fails safely without catastrophic consequences. This is especially critical in client deployments where mistakes carry real-world costs. Simple, reliable, and resilient systems often outperform complex ones that look impressive on paper but fail in practice. submitted by /u/ConfidenceOk2467 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qasinx</guid>
-      <pubDate>Mon, 12 Jan 2026 11:31:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>谷歌刚刚发布了通用商务协议（UCP） / Google just dropped Universal Commerce Protocol (UCP)</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qau86e/google_just_dropped_universal_commerce_protocol/</link>
-      <description>我刚刚阅读了谷歌的通用商务协议（UCP）。据我理解，UCP是一个面向智能体商务的开放标准，旨在规范AI智能体从发现到结账及后续环节与商业系统交互的方式。其设计使得智能体、平台、支付提供商和商家能够使用统一语言沟通，无需为每个应用或界面构建定制连接。几个突出特点包括：通过将N×N连接简化为单一协议来简化集成；设计用于跨不同智能体、支付方式和商务后端工作；兼容现有标准如Agent2Agent、Agent Payments Protocol（AP2）和Model Context Protocol（…
-
----
-
-Original:
-I just read Google’s Universal Commerce Protocol (UCP). From what I understand, UCP is an open standard for agentic commerce that aims to standardize how AI agents interact with business systems from discovery to checkout and beyond. It’s built so agents, platforms, payment providers, and merchants can talk the same language instead of building custom connections for every app or surface. A few things that stood out: It’s meant to simplify integrations by collapsing N×N connections into a single protocol. Designed to work across different agents, payment methods, and commerce backends. Works with existing standards like Agent2Agent, Agent Payments Protocol (AP2), and Model Context Protocol (…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qau86e</guid>
-      <pubDate>Mon, 12 Jan 2026 12:59:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>毕业设计项目创意征集 / Project idea for final year</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qawzzb/project_idea_for_final_year/</link>
-      <description>我们需要做一个与众不同、独具特色的毕业设计项目，希望大家能提供一些创意灵感。学校给出的主题范围包括：农业、医疗保健、自动化与人工智能、信息安全、环境与能源。请帮我推荐一个出色的毕业设计想法。 由 /u/goelavi 提交 [链接] [评论]
-
----
-
-Original:
-We have to make a final year project which stands different from others and very unique i want some ideas for the same The topics given by my college are Agriculture Healthcare Automation and ai Information security Environment and energy Please help me with a very good idea for my last year project submitted by /u/goelavi [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qawzzb</guid>
-      <pubDate>Mon, 12 Jan 2026 14:55:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 13:51:28 +0000</lastBuildDate>
     <item>
       <title>开源布莱恩·约翰逊（Bryan Johnson）AI：基于证据的补充剂追踪工具 / Open-source Bryan Johnson AI for evidence-based Supplements tracking</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qaz7c9/opensource_bryan_johnson_ai_for_evidencebased/</link>
@@ -1464,6 +1428,42 @@ Original:
 Quick question...I am working on agentic platform (more like an action performing chatbot) which uses qdrant database and mcp servers. Technical documentation and openapi specs being the data sources and collections in qdrant, which would be a better replacement for all minilm l6 v2? Newly joined and new in gen ai. Would like some expert inputs. Note: Both models provided by company, hosted on premise and azure submitted by /u/Triplechocomelt [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdiz3w</guid>
       <pubDate>Thu, 15 Jan 2026 13:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于提示护栏（prompt guardrails）大家怎么看？ / What are your thoughts on prompt guardrails?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdj0ed/what_are_your_thoughts_on_prompt_guardrails/</link>
+      <description>大家好！我最近在思考提示护栏作为基于大语言模型（LLM）系统中的安全层。它们通常用于在模型响应前检测或拦截不安全、违反政策或超出范围的提示。一方面，这似乎是安全与控制的必要措施；另一方面，我也好奇它们面对创造性或间接提示时究竟有多大效果。大家对此有什么看法？你们在实际系统中是否应用或设计过这类机制？由 /u/Dazzling_Basil_4739 提交 [链接] [评论]
+
+---
+
+Original:
+Hey folks! I’ve been thinking about prompt guardrails as a safety layer in LLM-based systems. They’re often used to detect or block unsafe, policy-violating, or off-scope prompts before the model responds. On one hand, they seem necessary for safety and control. On the other, I wonder how effective they really are against creative or indirect prompts. What are your thoughts on this? Have you worked with or designed any in real systems? submitted by /u/Dazzling_Basil_4739 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdj0ed</guid>
+      <pubDate>Thu, 15 Jan 2026 13:06:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于构建复杂AI智能体网页应用的咨询 / Inquiry about building complex AI agent web apps</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdjis1/inquiry_about_building_complex_ai_agent_web_apps/</link>
+      <description>下午好，希望您一切顺利。我并非开发人员，但决定构建一款与科学研究相关的自主工作流SaaS应用（因为我目前是一名牙科研究学生）。然而，我不知道从何开始构建我的应用（我希望在测试后它能达到生产就绪水平，而不仅仅是MVP）。启动并着手编写这款应用的最佳且经济高效的方式是什么？希望您能给予指导，提前感谢。发布者：/u/Remarkable_Goal542 [链接] [评论]
+
+---
+
+Original:
+Good afternoon, Hope you are doing well .. i'm a non-developer guy who decided to build a useful Autonomus workflow SaaS app related to scientific research (because i'm currently a dental researcher student). But i don't know where to get started to build my app ( i want it to be production-ready after testing it, not just MVP ) What is the best and cost-effective way to start vibe coding the app I want you to guide me and thanks in advance submitted by /u/Remarkable_Goal542 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdjis1</guid>
+      <pubDate>Thu, 15 Jan 2026 13:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>将部落营销知识转化为持续运行的AI智能体 / Turning tribal marketing knowledge into an always-on AI agent</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdjr6o/turning_tribal_marketing_knowledge_into_an/</link>
+      <description>我们反复看到相同的问题被提出：“该采用什么语调？”“这个营销活动以前有效吗？”“目标受众是谁？”因此，我们基于真实文档和过往工作，训练了一个专注于营销的智能体。这与其说是自动化，不如说是记忆传承。有没有人尝试过构建充当机构大脑而非任务机器人的智能体？期待真实的人类回答 🙏🏽 提交者 /u/LLFounder [链接] [评论]
+
+---
+
+Original:
+We kept seeing the same questions asked: “What tone do we use?”, “Did this campaign work before?”, “Who’s this for?” So we trained a marketing-focused agent on our real docs and past work. It’s less about automation, more about memory. Has anyone tried building agents that act as institutional brains rather than task bots? Real human answers, please 🙏🏽 submitted by /u/LLFounder [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdjr6o</guid>
+      <pubDate>Thu, 15 Jan 2026 13:39:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

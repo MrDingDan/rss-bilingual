@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 13:51:50 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1392,6 +1392,18 @@ Original:
 Currently I have used up the Claude Pro plan and was using it on the Terminal but it timed out very fast for the work Im asking it to do, so I cant really do much work on that without upgrading to the Max but I am still using Pro for review, changes etc. So next I went for the Google Antigravity Developer plan with the IDE and it had decent Claude Opus 4.5 access for around 3-4 days and I was actually able to get one iteration of my work built completely, and the IDE environment was really good, but then it got rate-limited for almost a week while I was updating my methodology and fixing bugs. I tried with other IDEs like Windsurf but this doesnt seem to have a good Claude Opus access plan,…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdh6j0</guid>
       <pubDate>Thu, 15 Jan 2026 11:34:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>谁在同时使用Claude和Gemini？ / Who is using Claude with Gemini?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdjgcq/who_is_using_claude_with_gemini/</link>
+      <description>我订阅了Claude Pro计划。我很喜欢这个产品，但最近消耗的token实在太多太快，严重拖慢了我的进度。现在我得等整整三天，使用限额才会重置:( 有人在同时使用Gemini吗？如果有的话，你们的工作流程是怎样的？我真的很想用它来填补生产力损失的空档，在等待Claude限额重置期间继续推进计划中的功能。我完全依靠Claude（用C++）开发了一个非常复杂的应用，现在担心如果加入另一个大语言模型可能会搞砸，或者开始产生不连贯的代码（或者因为不同的方法论而扭曲我的核心代码结构……
+
+---
+
+Original:
+Im on Claude Pro plan. I love the product but just burning through too many tokens way too quickly lately and its seriously holding me back. I've literally gotta currently wait for 3 days before my usage limit resets:( Anyone using it in conjunction with Gemini? If so what's your workflow? Im seriously tempted to use it to fill in the holes in lost productivity time and continue implementing planned features whilst waiting on my Claude limits to reset. I've built a very complex app with purely Claude (c++) and im worried that adding another LLM into the mix right might screw things up or start creating disjointed code (or skewing my core code structures due to the different methodology and m…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdjgcq</guid>
+      <pubDate>Thu, 15 Jan 2026 13:26:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

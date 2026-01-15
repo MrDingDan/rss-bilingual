@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 13:51:55 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -822,6 +822,18 @@ Original:
 Hi everyone, 👋 I'm a 16yo high school student. I was building a knowledge management app called Cortex to organize my messy exam notes. I decided to integrate Gemini API (specifically the Flash model) instead of other LLMs because I needed low latency and a large context window to process long articles/PDFs on mobile. The app automatically tags and summarizes any link/text you throw at it using Gemini. It's live on Play Store. I'd love for you to test the AI performance and let me know if the Gemini integration feels smooth. Here's the Cortex App that i made: https://play.google.com/store/apps/details?id=com.enesy.bookmarker&amp;amp;pli=1 submitted by /u/mustafa_enes726 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdgx3x</guid>
       <pubDate>Thu, 15 Jan 2026 11:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3 Pro 在高性能状态下仍犯此错误 / Gemini 3 Pro on high still makes this mistake</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdjcl8/gemini_3_pro_on_high_still_makes_this_mistake/</link>
+      <description>由 /u/ArgumentConscious202 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ArgumentConscious202 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdjcl8</guid>
+      <pubDate>Thu, 15 Jan 2026 13:21:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

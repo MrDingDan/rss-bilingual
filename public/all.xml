@@ -6,103 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 13:08:51 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_askreddit] 你最喜欢的宝可梦（Pokémon）是哪一只？ / Who is your favorite Pokémon?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd575f/who_is_your_favorite_pokémon/</link>
-      <description>由 /u/reddit-win 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/reddit-win [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd575f</guid>
-      <pubDate>Thu, 15 Jan 2026 00:57:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_tasker] 单声道/立体声切换功能 / Mono/Stereo toggle</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qd5nn3/monostereo_toggle/</link>
-      <description>我想创建一个在立体声和单声道之间的切换功能。尝试过用AutoTools的Secure Settings（安全设置）操作来调用设置选择器，但修改后找不到对应项。设置里的音频等选项似乎都没有我需要的功能。由 /u/Rubyheart255 提交 [链接] [评论]
-
----
-
-Original:
-I'm looking to create a toggle between stereo and mono sound. I tried using autoTools secure settings action to use the setting picker, but it couldn't find when I changed it. Nothing in settings for audio, etc, seems what I'm looking for. submitted by /u/Rubyheart255 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qd5nn3</guid>
-      <pubDate>Thu, 15 Jan 2026 01:17:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你曾自信地做错某件事，且持续了尴尬的漫长时间，是什么事？ / What is something you confidently did wrong for an embarrassingly long time?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd652e/what_is_something_you_confidently_did_wrong_for/</link>
-      <description>由 /u/LuvClueDe4d 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/LuvClueDe4d [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd652e</guid>
-      <pubDate>Thu, 15 Jan 2026 01:38:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 爱泼斯坦（Epstein）的其他文件在哪里？ / Where are the rest of the Epstein files?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd69by/where_are_the_rest_of_the_epstein_files/</link>
-      <description>由 /u/pala52 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/pala52 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd69by</guid>
-      <pubDate>Thu, 15 Jan 2026 01:43:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 有什么值得推荐的AI助手，能在法庭上协助自我辩护？ / Any AI Agent you would recommend to help you represent yourself in court?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qd6ina/any_ai_agent_you_would_recommend_to_help_you/</link>
-      <description>大家好，如果必须推荐一个不太昂贵的AI助手，来帮助你在法庭上自我辩护，你会选哪个？我的想法是，向AI输入案件信息、动议和相关资料，让它协助你更快地起草动议，因为它能更全面地把握案情。说来话长，我一直在家庭法庭自我辩护（Pro Se），并获得了孩子的主要抚养权和监护权。借助AI、YouTube和研究，我做得还不错，但现在希望提高效率，因为这事占用了太多本该陪伴孩子的时间。提交者：/u/FuzzyDice_12 [li…
-
----
-
-Original:
-Hey Everyone, If you had to recommend one AI agent that wasn’t crazy expensive to help you represent yourself in court, which one would it be? What I was thinking was feed the AI information about the case, motions, and relevant information to help create motions yourself, but faster since it would have a larger scope of what you are dealing with. It’s a long story but basically I’ve been representing myself Pro Se in family court and have majority timeshare and custody of my kids. I’ve been doing well Pro Se between AI, YouTube, and researching but want to make things faster and efficient because this is taking time away from my kids which need me right now. submitted by /u/FuzzyDice_12 [li…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qd6ina</guid>
-      <pubDate>Thu, 15 Jan 2026 01:55:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 说真的 / Seriously</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qd79if/seriously/</link>
-      <description>由 /u/TheBurdensNotYourOwn 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/TheBurdensNotYourOwn [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qd79if</guid>
-      <pubDate>Thu, 15 Jan 2026 02:28:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 有哪些细微迹象表明一个人看似“高效能”，实则默默承受着生活的重压？ / What is a subtle sign that someone is "high-functioning" but silently drowning in life?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qd7jlm/what_is_a_subtle_sign_that_someone_is/</link>
-      <description>由用户 /u/Puzzleheaded-0119 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Puzzleheaded-0119 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qd7jlm</guid>
-      <pubDate>Thu, 15 Jan 2026 02:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 是我的错觉吗？大多数AI智能体不过是伪装成聊天机器人的存在？ / Is it just me, or are most AI Agents just chatbots in disguise?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qd7ogi/is_it_just_me_or_are_most_ai_agents_just_chatbots/</link>
-      <description>我有点厌倦大语言模型（LLM）表现得像高价顾问了。今天遇到个棘手任务：清理一份混杂着英文、中文、韩语且满是拼写错误的关键词表格。我根本不想要什么“战略会议”，只想要一份干净的Excel文件。为此我测试了几款工具，看看谁能真正解决问题：GPT-5和Gemini：两者都给出了完美的五步计划。但一到执行环节，它们就只会空谈。Gemini甚至开始编造数据中根本不存在的品牌名称。对于繁重的数据处理，它们更像是“空谈家”而非“实干家”。Skywork（表格智能体）：这款工具真正完成了数据录入，没讲大道理就直接给了我一份可用的文件。其“深度研究”模式在查找那些……
-
----
-
-Original:
-I'm getting a bit tired of LLMs acting like high-priced consultants. I had a messy task today: cleaning a keyword spreadsheet with mixed EN/CN/KR languages and a ton of typos. I didn't want a "strategy session" I just wanted a cleaned Excel file. I tested a few tools to see who actually does the work: GPT-5 &amp; Gemini: Both gave me great 5-step plans. But when it came to execution, they just kept talking. Gemini even started hallucinating brand names that weren't in the data. They feel more like "talkers" than "doers" for heavy data. Skywork (Sheet Agent): This one actually finished the data entry and gave me a usable file without the lecture. The "Deep Research" mode is great for finding thos…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qd7ogi</guid>
-      <pubDate>Thu, 15 Jan 2026 02:46:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 13:52:08 +0000</lastBuildDate>
     <item>
       <title>[reddit_askreddit] 人类可能罹患的最严重疾病是什么？ / What is the worst medical disease a human can have?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qd7qc4/what_is_the_worst_medical_disease_a_human_can_have/</link>
@@ -817,18 +721,6 @@ I recently built an end-to-end n8n workflow for a law firm and it really opened 
       <pubDate>Thu, 15 Jan 2026 07:51:42 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
-      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
-
----
-
-Original:
-Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
-      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_askreddit] 你第一次上网用的是哪款设备？ / On which device you surfed internet for the first time?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qde3tp/on_which_device_you_surfed_internet_for_the_first/</link>
       <description>由 /u/Live-Slip-698 提交 [链接] [评论]
@@ -838,6 +730,18 @@ Looking for experienced engineers to try breaking a stateless AI execution gate 
 Original:
 submitted by /u/Live-Slip-698 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qde3tp</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
+      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
+
+---
+
+Original:
+Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
       <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
     </item>
     <item>
@@ -1093,6 +997,18 @@ submitted by /u/GrandAgitated2735 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 10:32:45 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 哪些特质能让人瞬间充满魅力？ / What instantly makes someone attractive?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdgbgl/what_instantly_makes_someone_attractive/</link>
+      <description>由用户 /u/Royal_Age_8510 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Royal_Age_8510 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdgbgl</guid>
+      <pubDate>Thu, 15 Jan 2026 10:43:49 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_askreddit] 在'无聊'行业工作的人，幕后有哪些出人意料的高能或有趣事件？ / People who work in 'boring' industries, what is a surprisingly dramatic or interesting thing that happens behind the scenes?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qdgkg1/people_who_work_in_boring_industries_what_is_a/</link>
       <description>由用户 /u/Dramalife55 提交 [链接] [评论]
@@ -1311,12 +1227,12 @@ submitted by /u/szczebrzeszyszynka [link] [comments]</description>
     <item>
       <title>[reddit_openai] 维基媒体企业版迎来新合作伙伴 / New Wikimedia Enterprise Partners</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qdhmzn/new_wikimedia_enterprise_partners/</link>
-      <description>https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;format=png&amp;auto=webp&amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 为庆祝维基百科25周年，宣布新增维基媒体企业版合作伙伴：https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ 令人好奇的是，OpenAI并未出现在名单上。这家公司免费提取了维基百科的每一行文本，并使用维基媒体数千张图像训练其模型，却未向该组织贡献一分钱。我认为这很不光彩。由 /u/JoseMSB 提交 [链接] [评论]
+      <description>https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 为庆祝维基百科25周年，宣布新增维基媒体企业版合作伙伴：https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ 令人好奇的是，OpenAI并未出现在名单上。这家公司免费提取了维基百科的每一行文本，并使用维基媒体数千张图像训练其模型，却未向该组织贡献一分钱。我认为这很不光彩。由 /u/JoseMSB 提交 [链接] [评论]
 
 ---
 
 Original:
-https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;format=png&amp;auto=webp&amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 Announcing New Wikimedia Enterprise Partners for Wikipedia’s 25th Birthday: https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ It's curious that OpenAI isn't on the list. A company that has extracted every last line of text from Wikipedia and used thousands of images from Wikimedia to train its models for free without contributing a single cent to the organization. I find it shameful. submitted by /u/JoseMSB [link] [comments]</description>
+https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 Announcing New Wikimedia Enterprise Partners for Wikipedia’s 25th Birthday: https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ It's curious that OpenAI isn't on the list. A company that has extracted every last line of text from Wikipedia and used thousands of images from Wikimedia to train its models for free without contributing a single cent to the organization. I find it shameful. submitted by /u/JoseMSB [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdhmzn</guid>
       <pubDate>Thu, 15 Jan 2026 11:59:41 +0000</pubDate>
     </item>
@@ -1451,6 +1367,90 @@ Original:
 Quick question...I am working on agentic platform (more like an action performing chatbot) which uses qdrant database and mcp servers. Technical documentation and openapi specs being the data sources and collections in qdrant, which would be a better replacement for all minilm l6 v2? Newly joined and new in gen ai. Would like some expert inputs. Note: Both models provided by company, hosted on premise and azure submitted by /u/Triplechocomelt [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdiz3w</guid>
       <pubDate>Thu, 15 Jan 2026 13:05:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 关于提示护栏（prompt guardrails）大家怎么看？ / What are your thoughts on prompt guardrails?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdj0ed/what_are_your_thoughts_on_prompt_guardrails/</link>
+      <description>大家好！我最近在思考提示护栏作为基于大语言模型（LLM）系统中的安全层。它们通常用于在模型响应前检测或拦截不安全、违反政策或超出范围的提示。一方面，这似乎是安全与控制的必要措施；另一方面，我也好奇它们面对创造性或间接提示时究竟有多大效果。大家对此有什么看法？你们在实际系统中是否应用或设计过这类机制？由 /u/Dazzling_Basil_4739 提交 [链接] [评论]
+
+---
+
+Original:
+Hey folks! I’ve been thinking about prompt guardrails as a safety layer in LLM-based systems. They’re often used to detect or block unsafe, policy-violating, or off-scope prompts before the model responds. On one hand, they seem necessary for safety and control. On the other, I wonder how effective they really are against creative or indirect prompts. What are your thoughts on this? Have you worked with or designed any in real systems? submitted by /u/Dazzling_Basil_4739 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdj0ed</guid>
+      <pubDate>Thu, 15 Jan 2026 13:06:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 真诚提问：既然有这么多免费色情内容，为什么还有人愿意为OnlyFans付费？ / Genuine question, why would u pay for only fans if there is so much free porn?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdj6f6/genuine_question_why_would_u_pay_for_only_fans_if/</link>
+      <description>由用户 /u/k1xx_ 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/k1xx_ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdj6f6</guid>
+      <pubDate>Thu, 15 Jan 2026 13:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini 3 Pro 在高性能状态下仍犯此错误 / Gemini 3 Pro on high still makes this mistake</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdjcl8/gemini_3_pro_on_high_still_makes_this_mistake/</link>
+      <description>由 /u/ArgumentConscious202 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ArgumentConscious202 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdjcl8</guid>
+      <pubDate>Thu, 15 Jan 2026 13:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 谁在同时使用Claude和Gemini？ / Who is using Claude with Gemini?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdjgcq/who_is_using_claude_with_gemini/</link>
+      <description>我订阅了Claude Pro计划。我很喜欢这个产品，但最近消耗的token实在太多太快，严重拖慢了我的进度。现在我得等整整三天，使用限额才会重置:( 有人在同时使用Gemini吗？如果有的话，你们的工作流程是怎样的？我真的很想用它来填补生产力损失的空档，在等待Claude限额重置期间继续推进计划中的功能。我完全依靠Claude（用C++）开发了一个非常复杂的应用，现在担心如果加入另一个大语言模型可能会搞砸，或者开始产生不连贯的代码（或者因为不同的方法论而扭曲我的核心代码结构……
+
+---
+
+Original:
+Im on Claude Pro plan. I love the product but just burning through too many tokens way too quickly lately and its seriously holding me back. I've literally gotta currently wait for 3 days before my usage limit resets:( Anyone using it in conjunction with Gemini? If so what's your workflow? Im seriously tempted to use it to fill in the holes in lost productivity time and continue implementing planned features whilst waiting on my Claude limits to reset. I've built a very complex app with purely Claude (c++) and im worried that adding another LLM into the mix right might screw things up or start creating disjointed code (or skewing my core code structures due to the different methodology and m…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdjgcq</guid>
+      <pubDate>Thu, 15 Jan 2026 13:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 关于构建复杂AI智能体网页应用的咨询 / Inquiry about building complex AI agent web apps</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdjis1/inquiry_about_building_complex_ai_agent_web_apps/</link>
+      <description>下午好，希望您一切顺利。我并非开发人员，但决定构建一款与科学研究相关的自主工作流SaaS应用（因为我目前是一名牙科研究学生）。然而，我不知道从何开始构建我的应用（我希望在测试后它能达到生产就绪水平，而不仅仅是MVP）。启动并着手编写这款应用的最佳且经济高效的方式是什么？希望您能给予指导，提前感谢。发布者：/u/Remarkable_Goal542 [链接] [评论]
+
+---
+
+Original:
+Good afternoon, Hope you are doing well .. i'm a non-developer guy who decided to build a useful Autonomus workflow SaaS app related to scientific research (because i'm currently a dental researcher student). But i don't know where to get started to build my app ( i want it to be production-ready after testing it, not just MVP ) What is the best and cost-effective way to start vibe coding the app I want you to guide me and thanks in advance submitted by /u/Remarkable_Goal542 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdjis1</guid>
+      <pubDate>Thu, 15 Jan 2026 13:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 将部落营销知识转化为持续运行的AI智能体 / Turning tribal marketing knowledge into an always-on AI agent</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdjr6o/turning_tribal_marketing_knowledge_into_an/</link>
+      <description>我们反复看到相同的问题被提出：“该采用什么语调？”“这个营销活动以前有效吗？”“目标受众是谁？”因此，我们基于真实文档和过往工作，训练了一个专注于营销的智能体。这与其说是自动化，不如说是记忆传承。有没有人尝试过构建充当机构大脑而非任务机器人的智能体？期待真实的人类回答 🙏🏽 提交者 /u/LLFounder [链接] [评论]
+
+---
+
+Original:
+We kept seeing the same questions asked: “What tone do we use?”, “Did this campaign work before?”, “Who’s this for?” So we trained a marketing-focused agent on our real docs and past work. It’s less about automation, more about memory. Has anyone tried building agents that act as institutional brains rather than task bots? Real human answers, please 🙏🏽 submitted by /u/LLFounder [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdjr6o</guid>
+      <pubDate>Thu, 15 Jan 2026 13:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 现代安卓手机已能本地运行16倍AI超分，但多数应用仍强推云端。因此，我打造了一个离线、GPU加速的替代方案。 / Modern Android phones are powerful enough to run 16x AI Upscaling locally, yet most apps force you to the cloud. So I built an offline, GPU-accelerated alternative.</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdjvis/modern_android_phones_are_powerful_enough_to_run/</link>
+      <description>大家好，我想分享一个我一直在做的项目，旨在将高质量超分辨率模型直接带到安卓设备上，无需依赖云端处理。我开发了RendrFlow，这是一个完整的AI图像工具集，专为完全在设备上进行重度处理而设计。技术栈（底层原理）：该应用不依赖网络连接，而是在本地运行推理。我实现了几项特定功能来管理负载：- 硬件加速：您可以在CPU、GPU和特定的“GPU爆发”模式之间切换，以最大化重型模型的吞吐量。- 模型支持：它使用高和超高质量模型，支持2倍、4倍甚至16倍超分辨率放大……
+
+---
+
+Original:
+Hi everyone, I wanted to share a project I have been working on to bring high-quality super-resolution models directly to Android devices without relying on cloud processing. I have developed RendrFlow, a complete AI image utility belt designed to perform heavy processing entirely on-device. The Tech Stack (Under the Hood): Instead of relying on an internet connection, the app runs the inference locally. I have implemented a few specific features to manage the load: - Hardware Acceleration: You can toggle between CPU, GPU, and a specific "GPU Burst" mode to maximize throughput for heavier models. - The Models: It supports 2x, 4x, and even 16x Super-Resolution upscaling using High and Ultra q…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdjvis</guid>
+      <pubDate>Thu, 15 Jan 2026 13:44:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
