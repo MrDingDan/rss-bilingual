@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:46:25 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -798,6 +798,18 @@ Original:
 submitted by /u/herrimo [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdd8k0</guid>
       <pubDate>Thu, 15 Jan 2026 07:31:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3原生音频/直播功能有消息吗？ / Any news on Gemini 3 Native Audio / Live?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdebgz/any_news_on_gemini_3_native_audio_live/</link>
+      <description>是否有迹象表明将推出接替2.5 Flash原生音频的3系列型号？由/u/sdmat提交 [链接] [评论]
+
+---
+
+Original:
+Are there signs of a 3 series model to succeed 2.5 Flash Native Audio? submitted by /u/sdmat [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdebgz</guid>
+      <pubDate>Thu, 15 Jan 2026 08:38:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

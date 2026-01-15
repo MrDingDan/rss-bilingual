@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:46:18 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1296,6 +1296,18 @@ Original:
 I posted this the other day but I'm posting it again from sheer desperation. Claude won't listen to me. I can't handle the "you're right, I was being an idiot. Let me do it properly this time." Like bro, why didn't you do it properly the 1st - 5th time I asked you? What setting do I need to change? What do I need to do? I tried claude-mem, doesn't work on windows. Seriously, I can't start from scratch 10 times a day because CC doesn't listen, because it tries one thing once without doing any research at all, just guessing and doing random shit, rewriting code its already written.. it's awful. And this is with $200/mo MAX on Opus 4.5. Sure, if you give it explicit instructions to do x y z for…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdat2k</guid>
       <pubDate>Thu, 15 Jan 2026 05:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude现可通过"Cowork"在Mac上担任桌面AI助手。它能读取、编辑和创建文件夹中的文件，将截图转换为电子表格，并根据笔记草拟报告。 / Claude can now act as a desktop AI assistant on Mac with "Cowork". It reads, edits, and creates files in folders, converts screenshots to spreadsheets, and drafts reports from notes.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdcpq8/claude_can_now_act_as_a_desktop_ai_assistant_on/</link>
+      <description>由/u/thestubborn_techie提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/thestubborn_techie [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdcpq8</guid>
+      <pubDate>Thu, 15 Jan 2026 07:00:53 +0000</pubDate>
     </item>
     <item>
       <title>Claude（克劳德）在调侃我... / Claude taking a dig at me...</title>

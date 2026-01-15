@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:46:08 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1260,6 +1260,18 @@ Original:
 Well, clearly need to be more "people" on the field, not just Chat submitted by /u/Early_Yesterday443 [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdcr4k</guid>
       <pubDate>Thu, 15 Jan 2026 07:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>试试看！输入提示词：“根据我们之前的所有互动，生成一张我如何对待你的图片” / Try it! give the prompt "Create an image of how I treated you, based on all our previous interactions"</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qde8p7/try_it_give_the_prompt_create_an_image_of_how_i/</link>
+      <description>这是由 /u/Fit_Profit6786 提交的作品 [链接] [评论]
+
+---
+
+Original:
+This is mine submitted by /u/Fit_Profit6786 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qde8p7</guid>
+      <pubDate>Thu, 15 Jan 2026 08:33:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

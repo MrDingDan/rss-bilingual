@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:51:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:46:01 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1428,6 +1428,30 @@ Original:
 Hey r/AI_Agents , I'm the tech lead at Keiro ( link in comments) So here's what happened - we were running a research agent internally and the web search API bill hit $3K in like two weeks. That's more than we were spending on GPT-5. The agent was doing 30-40 web searches per task and at $6-8 per thousand calls, it just didn't make sense economically. Exa and Tavily are good products. They work. But when you're building agents that need to search the web 50+ times per session, the cost per call starts mattering a lot. We needed something cheaper that didn't suck. What we built: Smart routing - simple web queries get cheap models, complex research gets the expensive ones. Real-time crawling.…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdd1kb</guid>
       <pubDate>Thu, 15 Jan 2026 07:20:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI驱动自动化在律师事务所的最大应用场景 / Where AI-Driven Automation Can Make the Biggest Impact in Law Firms</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qddkcu/where_aidriven_automation_can_make_the_biggest/</link>
+      <description>我最近为一家律师事务所构建了一套端到端的n8n工作流，这让我意识到法律运营中仍存在大量容易实现自动化的环节。多数团队疲于应付客户咨询邮件、文件请求、后续跟进和状态查询等事务性工作，而非法律推理。AI自动化正开始在这些环节发挥作用，例如自动分配新案件、将冗长的客户沟通总结为易读的更新、起草重复性沟通文件、触发截止日期提醒，并在CRM系统、收件箱和案件管理系统间自动同步数据，无需人工手动搬运信息。令人惊讶的是，律所很快就能感受到效益——律师每天能收回更多时间，律师助理也不再忙于救火式工作……
+
+---
+
+Original:
+I recently built an end-to-end n8n workflow for a law firm and it really opened my eyes to how much low-hanging fruit still exists in legal operations. Most teams are drowning in intake emails, document requests, follow-ups and status checks not legal reasoning. AI automation is starting to shine in those gaps by handling things like auto-routing new cases, summarizing long client threads into readable updates, drafting repeatable communications, triggering deadlines and syncing everything across CRMs, inboxes and case systems without someone manually copying data around. The surprising thing is how fast firms feel the benefit attorneys get more minutes back in a day, paralegals stop firefig…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qddkcu</guid>
+      <pubDate>Thu, 15 Jan 2026 07:51:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
+      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
+
+---
+
+Original:
+Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

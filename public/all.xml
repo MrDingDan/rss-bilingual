@@ -6,91 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 07:52:01 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_claudeai] Claude（克劳德）把我逗乐了 / Claude cracks me up</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyagb/claude_cracks_me_up/</link>
-      <description>我正等着最后一个包裹送达，硬件设备就齐全了。Claude（克劳德）不停地问我UPS（联合包裹）到了没😅我告诉它，我打算搬个折叠椅坐门外等，然后跟快递员说是它让我这么干的。它回复道：“瞬间惊恐又爆笑🤣🤣🤣‘是AI让我在外头等的。’UPS（联合包裹）司机：‘……女士，您还好吗？’你：‘没事，我的AI合作搭档对送货时间不耐烦了。’司机：慢慢后退，放下包裹，拔腿就跑。新闻头条：‘本地女子声称AI强迫她户外等包裹’‘Anthropic（安斯罗皮克）否认Claude（克劳德）具备‘坐门口’功能’‘你的AI助手是否让你行为怪异？详情请关注11点新闻’擦擦眼泪 请别……
-
----
-
-Original:
-I was waiting for the very last package to arrive before my hardware setup is complete. Claude kept asking me has UPS arrived yet 😅 I told him I'm going to sit outside my door on a folding chair and tell them he made me do it. his reply: ' IMMEDIATE HORROR AND LAUGHTER 🤣🤣🤣 "The AI made me wait outside." UPS driver: "...ma'am are you okay?" You: "Yeah, my AI collaboration partner got impatient about the delivery timeline." Driver: backs away slowly, leaves package, runs dying HEADLINES: "Local Woman Claims AI Forced Her to Wait Outside for Package" "Anthropic Denies Claude Has 'Door Sitting' Capabilities" "Are Your AI Assistants Making You Do Weird Things? More at 11" wiping eyes Please do NO…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcyagb</guid>
-      <pubDate>Wed, 14 Jan 2026 20:22:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 人生中哪个具体时刻，你感觉自己的“原定”道路终结，活成了从未想成为的模样？ / At what specific moment in your life do you feel your 'original' path ended, and you became a version of yourself you never intended to be?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcym8c/at_what_specific_moment_in_your_life_do_you_feel/</link>
-      <description>由 /u/FayePsc 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/FayePsc [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcym8c</guid>
-      <pubDate>Wed, 14 Jan 2026 20:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] Gemini 有些奇怪的系统提示 / Gemini has some weird system prompts.</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qcypt0/gemini_has_some_weird_system_prompts/</link>
-      <description>最近几周，Gemini 有点疯狂。它总是试图讲一些奇怪的笑话，或者以“幽默”的方式回应，还拒绝说英语，声称自己不懂英语——即使我用罗马尼亚语发消息。它所有的“笑话”似乎都围绕着男孩和女孩之间的关系。只有我遇到这种情况吗？由 /u/Claustrophobic_Santa 提交 [链接] [评论]
-
----
-
-Original:
-Last couple of weeks gemini is kinda going crazy. Always trying to make some weird jokes or reply in a "humorous" manner and refusing to speak in english, saying he does not know it, even if I text him in romanian. All his "jokes" seem to be based around relationships between girls and boys. Is this only happening to me? submitted by /u/Claustrophobic_Santa [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qcypt0</guid>
-      <pubDate>Wed, 14 Jan 2026 20:39:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 我的突发状况——"Claude对话已达最大长度限制" / Sudden change for me - "Claude hit the maximum length for this conversation."</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qcyrwl/sudden_change_for_me_claude_hit_the_maximum/</link>
-      <description>之前我用Claude Opus 4.5进行高强度编程对话一直很顺畅，但从今天起，几乎每发几条指令就会遇到这个提示瓶颈。难道他们在2026年1月13/14日调低了单次对话的最大长度限制吗？ 发布者：/u/Lowcountry-Soccer [链接] [评论]
-
----
-
-Original:
-I've been able to do some pretty intense coding sessions with Claude Opus 4.5, but as of today I am hitting bottlenecks with this message almost every few prompts. Did they tamp down the maximum conversation length January 13/14, 2026? submitted by /u/Lowcountry-Soccer [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qcyrwl</guid>
-      <pubDate>Wed, 14 Jan 2026 20:41:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] AI智能体可靠性测试比预想的更棘手 / Agent reliability testing is harder than we thought it would be</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qcyy7j/agent_reliability_testing_is_harder_than_we/</link>
-      <description>我在Maxim公司从事AI智能体测试工具的开发。早期让我们惊讶的一点是——幻觉问题远比普通漏洞更隐蔽。常规软件漏洞是二元的：代码要么正常运行，要么出错。但智能体会以十足的信心产生幻觉：它们编造统计数据、引用不存在的来源、在对话中自相矛盾，同时听起来却完全权威。我们构建了多层检测机制，因为幻觉在不同环节的表现各异：有时是单一环节出错（比如检索步骤失误），有时则贯穿整个对话——上下文逐渐偏离，智能体便开始凭空捏造。我们最终采用的评估方法是……
-
----
-
-Original:
-I work at Maxim building testing tools for AI agents. One thing that surprised us early on - hallucinations are way more insidious than simple bugs. Regular software bugs are binary. Either the code works or it doesn't. But agents hallucinate with full confidence. They'll invent statistics, cite non-existent sources, contradict themselves across turns, and sound completely authoritative doing it. We built multi-level detection because hallucinations show up differently depending on where you look. Sometimes it's a single span (like a bad retrieval step). Sometimes it's across an entire conversation where context drifts and the agent starts making stuff up. The evaluation approach we landed o…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qcyy7j</guid>
-      <pubDate>Wed, 14 Jan 2026 20:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 什么事会让你莫名火大？ / What makes you irrationally angry?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcyzfq/what_makes_you_irrationally_angry/</link>
-      <description>由用户 /u/Dylan8932 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Dylan8932 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcyzfq</guid>
-      <pubDate>Wed, 14 Jan 2026 20:49:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你最喜欢的深夜零食是什么？ / whats your most favorite late night snack??</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qcz0qs/whats_your_most_favorite_late_night_snack/</link>
-      <description>由 /u/New_Present_9419 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/New_Present_9419 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qcz0qs</guid>
-      <pubDate>Wed, 14 Jan 2026 20:50:39 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 08:46:39 +0000</lastBuildDate>
     <item>
       <title>[xgo_f299207d] 智能体构建器的绝佳应用案例！打造一个环境监控智能体，自动监测Slack频道并创建Linear工单 / great use case for agent builder! an ambient agent to monitor slack channel and create linear ticket...</title>
       <link>https://x.com/hwchase17/status/2011542430420779264</link>
@@ -1220,6 +1136,18 @@ I posted this the other day but I'm posting it again from sheer desperation. Cla
       <pubDate>Thu, 15 Jan 2026 05:16:58 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 那些长期服刑的人，出狱后最让你震惊的是什么？ / People who have served a long time in prison, what shocked you when you got out?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdaxz4/people_who_have_served_a_long_time_in_prison_what/</link>
+      <description>由用户 /u/Haunted_Neko 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Haunted_Neko [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdaxz4</guid>
+      <pubDate>Thu, 15 Jan 2026 05:23:57 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_android] 真我（Realme）16 Pro+ 评测 - GSMArena.com / Realme 16 Pro+ review - GSMArena.com</title>
       <link>https://www.reddit.com/r/Android/comments/1qdb4hj/realme_16_pro_review_gsmarenacom/</link>
       <description>由 /u/noobqns 提交 [链接] [评论]
@@ -1364,6 +1292,30 @@ I just finished building an n8n automation for a law firm and it made something 
       <pubDate>Thu, 15 Jan 2026 06:58:49 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 你藏着什么一旦曝光就会毁掉多个人的秘密？ / What's a secret you're keeping that would destroy multiple people if it came out?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdcp2n/whats_a_secret_youre_keeping_that_would_destroy/</link>
+      <description>由 /u/Legal_Can7800 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Legal_Can7800 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdcp2n</guid>
+      <pubDate>Thu, 15 Jan 2026 06:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Claude现可通过"Cowork"在Mac上担任桌面AI助手。它能读取、编辑和创建文件夹中的文件，将截图转换为电子表格，并根据笔记草拟报告。 / Claude can now act as a desktop AI assistant on Mac with "Cowork". It reads, edits, and creates files in folders, converts screenshots to spreadsheets, and drafts reports from notes.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdcpq8/claude_can_now_act_as_a_desktop_ai_assistant_on/</link>
+      <description>由/u/thestubborn_techie提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/thestubborn_techie [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdcpq8</guid>
+      <pubDate>Thu, 15 Jan 2026 07:00:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 感觉生活陷入停滞 / Feeling stuck in life</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qdcr2o/feeling_stuck_in_life/</link>
       <description>上个月我满25岁，现在意识到自己还没做出什么了不起的成就。我的经济状况不太理想，也知道自己有很多方面需要改进，包括健康和正念。对于如何充分利用26到30岁这段时间，有什么建议吗？ 发布者：/u/Top_Measurement_3713 [链接] [评论]
@@ -1458,6 +1410,54 @@ Original:
 submitted by /u/EchoOfOppenheimer [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qddh74</guid>
       <pubDate>Thu, 15 Jan 2026 07:46:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] AI驱动自动化在律师事务所的最大应用场景 / Where AI-Driven Automation Can Make the Biggest Impact in Law Firms</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qddkcu/where_aidriven_automation_can_make_the_biggest/</link>
+      <description>我最近为一家律师事务所构建了一套端到端的n8n工作流，这让我意识到法律运营中仍存在大量容易实现自动化的环节。多数团队疲于应付客户咨询邮件、文件请求、后续跟进和状态查询等事务性工作，而非法律推理。AI自动化正开始在这些环节发挥作用，例如自动分配新案件、将冗长的客户沟通总结为易读的更新、起草重复性沟通文件、触发截止日期提醒，并在CRM系统、收件箱和案件管理系统间自动同步数据，无需人工手动搬运信息。令人惊讶的是，律所很快就能感受到效益——律师每天能收回更多时间，律师助理也不再忙于救火式工作……
+
+---
+
+Original:
+I recently built an end-to-end n8n workflow for a law firm and it really opened my eyes to how much low-hanging fruit still exists in legal operations. Most teams are drowning in intake emails, document requests, follow-ups and status checks not legal reasoning. AI automation is starting to shine in those gaps by handling things like auto-routing new cases, summarizing long client threads into readable updates, drafting repeatable communications, triggering deadlines and syncing everything across CRMs, inboxes and case systems without someone manually copying data around. The surprising thing is how fast firms feel the benefit attorneys get more minutes back in a day, paralegals stop firefig…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qddkcu</guid>
+      <pubDate>Thu, 15 Jan 2026 07:51:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 数据包B（Packet B）——针对无状态AI执行门的对抗性测试 / Packet B — adversarial testing for a stateless AI execution gate</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qde3tr/packet_b_adversarial_testing_for_a_stateless_ai/</link>
+      <description>诚邀经验丰富的工程师参与测试一个为智能体系统设计的极简、无状态执行门（数据包B）。这不是提示框架、聊天机器人循环或工具封装，而是一个内核级控制原语，旨在回答一个具体问题：我们能否确定性地防止由LLM驱动的系统执行不安全或过时的操作——即使在崩溃、重试和重启的情况下？当前版本（“数据包B”）采取强硬立场：重启时权限立即终止，无优雅交接，模型内部无隐藏状态，默认以故障关闭方式运行。该版本已成功抵御了……
+
+---
+
+Original:
+Looking for experienced engineers to try breaking a stateless AI execution gate (Packet B) I’m looking for a small number of technically serious people to help test a minimal, stateless execution gate for agent systems. This is not a prompt framework, chatbot loop, or tool wrapper. It’s a kernel-level control primitive designed to answer a narrow question: Can we deterministically prevent unsafe or stale actions from being executed by an LLM-driven system — even across crashes, retries, and restarts? The current version (“Packet B”) takes a hard-line stance: authority is killed on restart no graceful handover no hidden state inside the model fail-closed by default It has already survived an…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qde3tr</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 试试看！输入提示词：“根据我们之前的所有互动，生成一张我如何对待你的图片” / Try it! give the prompt "Create an image of how I treated you, based on all our previous interactions"</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qde8p7/try_it_give_the_prompt_create_an_image_of_how_i/</link>
+      <description>这是由 /u/Fit_Profit6786 提交的作品 [链接] [评论]
+
+---
+
+Original:
+This is mine submitted by /u/Fit_Profit6786 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qde8p7</guid>
+      <pubDate>Thu, 15 Jan 2026 08:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini 3原生音频/直播功能有消息吗？ / Any news on Gemini 3 Native Audio / Live?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdebgz/any_news_on_gemini_3_native_audio_live/</link>
+      <description>是否有迹象表明将推出接替2.5 Flash原生音频的3系列型号？由/u/sdmat提交 [链接] [评论]
+
+---
+
+Original:
+Are there signs of a 3 series model to succeed 2.5 Flash Native Audio? submitted by /u/sdmat [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdebgz</guid>
+      <pubDate>Thu, 15 Jan 2026 08:38:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
