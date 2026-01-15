@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 18:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 19:35:50 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -450,6 +450,18 @@ Original:
 Hello everyone, I’m currently looking for a few U.S.-based participants 🇺🇸 to assist with a simple online task . This is a legitimate, short-term opportunity , and all instructions will be provided clearly. Requirements 📌 • Must be located in the United States 🇺🇸 • Reliable internet connection • Ability to follow instructions carefully Payment 💰 • $4–$5 per completed task • Payment via PayPal submitted by /u/WittyWomba-t [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdq3je</guid>
       <pubDate>Thu, 15 Jan 2026 17:37:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autonotification操作失效了？ / Autonotification Action not working?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdt2kk/autonotification_action_not_working/</link>
+      <description>我尝试用Autonotification操作点击其他应用通知上的按钮。在设置任务和测试时似乎成功过几次，但之后就完全没反应了。我试过从下拉列表选择按钮，也试过在执行AN查询操作后，在操作ID字段填入实际ID和%anbutton2action()。通过显示%anbutton2text()来验证目标按钮是正确的，结果也没问题。日志里也没有任何错误提示，所以我现在有点束手无策。补充说明：我想点击的按钮是用来关闭该应用提供的服务的。有没有其他人遇到过AN操作的问题，或者有没有……
+
+---
+
+Original:
+I'm trying to use Autonotification Actions to click a button on another app's notification. It seemed to work a couple times when I was setting up the task and trying it out, but since then it hasn't worked at all. I've tried selecting the button from the drop-down list, populating the Action ID field with the actual ID and with %anbutton2action() after performing an AN query action. I tested that I was targeting the right button by flashing %anbutton2text() and it checked out. The log doesn't show any errors either, so I'm kind of at a loss. For context, the button I want to click turns off the service the app provides. Has anyone else had any issues with the AN actions or does anyone have…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdt2kk</guid>
+      <pubDate>Thu, 15 Jan 2026 19:23:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

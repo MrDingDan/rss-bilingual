@@ -6,91 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 18:55:38 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_ai_agents] 我读完了《2026年智能体编排与自动化现状报告》——以下是我的核心收获 / I read "2026 State of Agentic Orchestration &amp; Automation Report" - Here are my key takeaways</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdh21i/i_read_2026_state_of_agentic_orchestration/</link>
-      <description>我刚读完《2026年智能体编排与自动化现状报告》（由Camunda委托发布）。报告调查了1,150名高级IT和业务主管。其中我看到的最有趣的数据是：71%的组织正在使用AI智能体，但其中仅11%真正投入生产环境。这表明当前对AI智能体的投资效率极低。领导者们一致认为，愿景与现实之间仍有巨大差距。目前80%的智能体仅仅是“聊天机器人或助手”。我们公司也经历过类似情况。一位客户告诉我们，他们拥有150多个不同的智能体，其中几乎都是基于简单提示的LLM调用。81%的受访者认为，若缺乏“智能体编排”，将难以实现……
-
----
-
-Original:
-I just finished reading the 2026 State of Agentic Orchestration &amp; Automation Report (commissioned by Camunda ). They surveyed 1,150 senior IT and business leaders. Most interesting data I saw from the report: %71 of organizations use AI agents. %11 of them actually reached production. So the investment towards AI agents is super ineffective currently. Leaders agreed that the vision and reality is still far apart. 80% of current agents are just "chatbots or assistants". We experienced this in our company too. A client told us they have 150+ different agents. Nearly all of them were simple LLM calls with simple prompts. 81% of respondents believe that without "agentic orchestration", achieving…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdh21i</guid>
-      <pubDate>Thu, 15 Jan 2026 11:26:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 在公司环境中评估Claude Code作为代码助手：经验与教训？ / Evaluating Claude Code as a code agent in a company. Experiences and lessons learned?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh2rc/evaluating_claude_code_as_a_code_agent_in_a/</link>
-      <description>大家好，我们正在评估是否要在公司引入Claude Code作为代码助手，非常希望能听到在专业或生产环境中实际使用过它的人分享经验。我们团队约有10名开发人员，包括后端、前端和数据科学家，他们也亲自参与AI模型相关工作。我们的后端技术栈主要是Python和.NET，并跨多个代码库工作，支持长期运行的生产系统。我们的目标是在不陷入氛围编程或盲目信任生成代码的陷阱的前提下，提升开发者的生产力。安全性、正确性、可维护性和长期所有权对我们至关重要。我们……
-
----
-
-Original:
-Hi everyone We are currently evaluating whether to introduce Claude Code as a code agent in our company, and I would really appreciate hearing from people with hands on experience using it in a professional or production setting. We are a team of around 10 developers, including backend, frontend, and data scientists who also work hands on with AI models. Our backend stack is mainly Python and .NET, and we work across multiple repositories supporting long lived production systems. Our goal is to improve developer productivity without falling into the trap of vibe coding or blindly trusting generated code. Security, correctness, maintainability, and long term ownership are critical for us. We…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdh2rc</guid>
-      <pubDate>Thu, 15 Jan 2026 11:28:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 哪款IDE对Claude Opus 4.5的访问权限最高？ / Which IDE allows the highest access to Claude Opus 4.5?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdh6j0/which_ide_allows_the_highest_access_to_claude/</link>
-      <description>目前我已用完Claude Pro计划的额度，之前在终端使用，但处理手头任务时很快会超时。不升级到Max版本就难以开展工作，不过Pro版仍用于复查和修改。接着我尝试了Google Antigravity开发者计划，其IDE在约三四天内对Claude Opus 4.5的访问权限不错，我甚至完整完成了一轮工作迭代，IDE环境也很出色。但之后当我更新方法并修复错误时，却被限流了近一周。我也试过Windsurf等其他IDE，但它们似乎没有合适的Claude Opus访问方案……
-
----
-
-Original:
-Currently I have used up the Claude Pro plan and was using it on the Terminal but it timed out very fast for the work Im asking it to do, so I cant really do much work on that without upgrading to the Max but I am still using Pro for review, changes etc. So next I went for the Google Antigravity Developer plan with the IDE and it had decent Claude Opus 4.5 access for around 3-4 days and I was actually able to get one iteration of my work built completely, and the IDE environment was really good, but then it got rate-limited for almost a week while I was updating my methodology and fixing bugs. I tried with other IDEs like Windsurf but this doesnt seem to have a good Claude Opus access plan,…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdh6j0</guid>
-      <pubDate>Thu, 15 Jan 2026 11:34:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 记者获聘ICE特工，无需背景调查，且明知通不过药检。这说明了他们招募的是怎样的人？ / Journalist was offered a job as an ICE agent with no background check and a drug test they knew they'd fail. What do you think that says about the kind of people they're recruiting?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdhi34/journalist_was_offered_a_job_as_an_ice_agent_with/</link>
-      <description>由 /u/SuperIngaMMXXII 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/SuperIngaMMXXII [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdhi34</guid>
-      <pubDate>Thu, 15 Jan 2026 11:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 创作一张能让Reddit用户不再以“创作一张图片”开头发帖的图片 / Create an image that will stop reddit users from creating posts starting with "create an image"</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdhjw7/create_an_image_that_will_stop_reddit_users_from/</link>
-      <description>由用户/u/szczebrzeszyszynka提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/szczebrzeszyszynka [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdhjw7</guid>
-      <pubDate>Thu, 15 Jan 2026 11:54:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 维基媒体企业版迎来新合作伙伴 / New Wikimedia Enterprise Partners</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdhmzn/new_wikimedia_enterprise_partners/</link>
-      <description>https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 为庆祝维基百科25周年，宣布新增维基媒体企业版合作伙伴：https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ 令人好奇的是，OpenAI并未出现在名单上。这家公司免费提取了维基百科的每一行文本，并使用维基媒体数千张图像训练其模型，却未向该组织贡献一分钱。我认为这很不光彩。由 /u/JoseMSB 提交 [链接] [评论]
-
----
-
-Original:
-https://preview.redd.it/57jyan8k5idg1.png?width=1191&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=38928cb2ce12593a26c2ff653487d57a91bec393 Announcing New Wikimedia Enterprise Partners for Wikipedia’s 25th Birthday: https://enterprise.wikimedia.com/blog/wikipedia-25-enterprise-partners/ It's curious that OpenAI isn't on the list. A company that has extracted every last line of text from Wikipedia and used thousands of images from Wikimedia to train its models for free without contributing a single cent to the organization. I find it shameful. submitted by /u/JoseMSB [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdhmzn</guid>
-      <pubDate>Thu, 15 Jan 2026 11:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] n8n驱动的自动帖子生成变得简单 / n8n-Powered Auto Post Generation Made Simple</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdhpq0/n8npowered_auto_post_generation_made_simple/</link>
-      <description>如果你曾盯着空白屏幕苦思社交媒体内容，利用n8n进行自动化能节省大量时间。通过合适的工作流，你可以从内容库提取想法，用AI写作工具处理，为不同平台格式化，并存储到队列中，全程无需触碰键盘。之后，n8n可以安排每篇帖子的发布时间、自动发布，甚至记录已发布内容，让你始终有迹可循。这是保持内容一致性的好方法，无需每天从头开始写作；系统一旦设置完成，还能轻松扩展，比如添加话题标签、重新利用长篇文章，甚至引入分析数据以优化未来帖子。如果有人需要帮助设置类似系统……
-
----
-
-Original:
-If you’ve ever stared at a blank screen trying to come up with social content, automation with n8n can save a ton of time. With the right workflow, you can pull ideas from a content bank, run them through an AI writer, format them for different platforms and store them in a queue all without touching a keyboard. From there n8n can schedule each post, publish on autopilot and even log what went live so you always have a record. Its a great way to stay consistent without the daily grind of writing from scratch and once the system is set up, its easy to extend add hashtags, repurpose long-form pieces or even feed in analytics for smarter future posts. If anyone wants help setting up something l…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdhpq0</guid>
-      <pubDate>Thu, 15 Jan 2026 12:03:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 19:35:51 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 如何在不微调的情况下为AI智能体实现持久记忆 / How I solved persistent memory for AI agents without fine-tuning</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qdhsve/how_i_solved_persistent_memory_for_ai_agents/</link>
@@ -1050,18 +966,6 @@ submitted by /u/Federal-Block-3275 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_chatgpt] 它知道 / It Knows</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
-      <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
-
----
-
-Original:
-Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
-      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
       <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
@@ -1071,6 +975,18 @@ Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</des
 Original:
 Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 它知道 / It Knows</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
+      <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
+
+---
+
+Original:
+Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
     </item>
     <item>
@@ -1448,6 +1364,30 @@ The image isn't edited, when I go to AI mode it says 450 years, but when I just 
       <pubDate>Thu, 15 Jan 2026 18:42:13 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 大规模测试提示词很混乱——这是我们为此构建的解决方案 / Testing prompts at scale is messy - here's what we built for it</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdrywj/testing_prompts_at_scale_is_messy_heres_what_we/</link>
+      <description>在Maxim从事提示词工具开发工作。很快意识到提示词测试与常规软件测试大不相同。对于代码，测试编写一次，结果无非通过或失败。而提示词改动一个词，整个输出分布就可能突然改变。加之大型语言模型具有不确定性，同一提示词会产生不同结果。我们为此构建了一个测试框架，支持最多同时比较五个提示词变体，可在同一数据集上测试不同措辞、模型和参数。版本控制功能完整记录每次变更历史，支持版本间差异对比，精确查看改动内容。这在提示词性能倒退需要排查时尤其有帮助。
+
+---
+
+Original:
+Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdrywj</guid>
+      <pubDate>Thu, 15 Jan 2026 18:44:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 特朗普威胁在ICE枪击案后向明尼苏达州部署军队，这能有何帮助？ / Trump threatens to deploy military to Minnesota after ICE shooting how is this going to help?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qds100/trump_threatens_to_deploy_military_to_minnesota/</link>
+      <description>由 /u/SprinklesGullible674 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/SprinklesGullible674 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qds100</guid>
+      <pubDate>Thu, 15 Jan 2026 18:46:17 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 构建50多个自动化流程后，我是这样决定用定制代码还是无代码工具的 / After building 50+ automations, this is how I decide between custom code vs no-code"</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qds37j/after_building_50_automations_this_is_how_i/</link>
       <description>我经常看到关于定制代码与无代码的讨论，于是在构建50多个自动化流程后，决定分享我目前使用的决策框架。关键在于五个方面：应用场景（差异化功能或内部运营）：如果直接面向客户且能形成竞争优势，通常更适合定制开发（避免被轻易复制）；若是用于内部流程优化（入职、数据录入、通知等），无代码/低代码工具往往更合适。数据敏感性/合规要求：这一点至关重要。在医疗、金融和企业环境中，无代码工具缺乏完全透明度，通常不适用。如果涉及……
@@ -1458,6 +1398,66 @@ Original:
 I've seen the custom code vs no-code question come up a lot and decided to share the framework I now use after building 50+ automations. It comes down to 5 things: Use case (differentiator or internal ops) : If it directly touches customers and differentiates you from competitors then custom is usually a better fit (you don't want something others can easily replicate). If it's for internal workflow optimization (onboarding, data entry, notifications) then no-code/low-code is usually the right call. Data sensitivity/Compliance : This is super important. For healthcare, finance, and enterprise environments, the lack of full transparency in no-code tools often rules them out. If you're dealing…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qds37j</guid>
       <pubDate>Thu, 15 Jan 2026 18:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 提示词版本管理——团队实际如何操作？ / Prompt versioning - how are teams actually handling this?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qds8b2/prompt_versioning_how_are_teams_actually_handling/</link>
+      <description>在Maxim从事提示词工具开发工作。很快意识到提示词测试与常规软件测试大不相同。对于代码，测试编写一次后，结果无非通过或失败。而提示词哪怕只改动一个词，整个输出分布都可能突然改变。加之大型语言模型具有不确定性，同一提示词会产生不同结果。我们为此构建了一个测试框架，支持最多五个提示词变体同时进行并排比较。可以针对同一数据集测试不同的措辞、模型和参数。版本控制系统完整记录每次变更历史，支持版本间差异对比，精确查看改动内容。这在提示词性能倒退、需要追溯原因时特别有帮助。
+
+---
+
+Original:
+Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qds8b2</guid>
+      <pubDate>Thu, 15 Jan 2026 18:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 除了我，还有谁厌倦了为每个AI智能体重复构建那六样东西？ / Is anyone else tired of building the same 6 things for every AI agent, or is just me?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qds8xn/is_anyone_else_tired_of_building_the_same_6/</link>
+      <description>过去几年我一直在创业，其中大部分项目都围绕AI智能体展开。每次启动新项目，我发现自己总在重复同样的步骤：搭建某种聊天界面、接入某个AI供应商的API、设置积分或追踪服务以防被AI供应商的使用费拖垮、构建webhooks/触发器系统来监听集成中的特定事件、建立安全隔离的多租户代码沙盒/虚拟机/环境以执行代码或开发应用、针对特定垂直行业应用（x、y、z）构建集成，以及将用户身份验证和JWT验证贯穿到每个环节（这是我的主要技术背景）。我感觉市面上80%的AI应用基本都离不开这些……
+
+---
+
+Original:
+Been making startups for the last couple of years, a large portion of which is around AI agents. Each time I start a new project I noticed I do the same thing: Create some sort of Chat UI Implement some AI provider API Implement some sort of credits or tracking service so we are not bankrupted by said AI Provider usage Build webhooks/triggers system to listen to certain events in integrations Secure isolated mutlitenant code sandbox/vm/some env to execute some code or build some App Building integrations to x,y,z specific vertical industry app Map user auth and JWT verification to everything(where my background mostly is) I feel like this describes 80% of the AI apps I see out there are basi…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qds8xn</guid>
+      <pubDate>Thu, 15 Jan 2026 18:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 智能体在生产环境与开发环境中的行为差异 / Agent behavior in prod vs dev</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdsm8s/agent_behavior_in_prod_vs_dev/</link>
+      <description>在构建智能体的过程中，我多次遇到这个问题：智能体在开发环境中运行良好，一旦进入生产环境就开始出现行为差异。提示词和逻辑完全相同，但执行路径和工具使用方式却完全不同。我知道这不是什么特别新的问题，我自己也有调试方法（比如在开发环境中使用沙箱），但我想知道是否有更好或不同的处理方式。大家通常是怎么应对这种情况的？ 提交者：/u/Upstairs_Safe2922 [链接] [评论]
+
+---
+
+Original:
+As I've been building agents, I've experienced this issue a few times. My agent works fine in dev but once they enter prod they begin behaving differently. Same prompt and logic but completely diff execution paths and tool usage. I know this isn't a particularly novel issue and I have my own ways I go about debugging (use a sandbox in dev) but I'm curious if there is a better and/or different way to deal. How do ppl usually treat this? submitted by /u/Upstairs_Safe2922 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdsm8s</guid>
+      <pubDate>Thu, 15 Jan 2026 19:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 假如你有一天能成为人类，你会做什么？ / Create an image of what you would do if you were human for a day.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdstss/create_an_image_of_what_you_would_do_if_you_were/</link>
+      <description>由用户 /u/Strange__Visitor 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Strange__Visitor [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdstss</guid>
+      <pubDate>Thu, 15 Jan 2026 19:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_tasker] Autonotification操作失效了？ / Autonotification Action not working?</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdt2kk/autonotification_action_not_working/</link>
+      <description>我尝试用Autonotification操作点击其他应用通知上的按钮。在设置任务和测试时似乎成功过几次，但之后就完全没反应了。我试过从下拉列表选择按钮，也试过在执行AN查询操作后，在操作ID字段填入实际ID和%anbutton2action()。通过显示%anbutton2text()来验证目标按钮是正确的，结果也没问题。日志里也没有任何错误提示，所以我现在有点束手无策。补充说明：我想点击的按钮是用来关闭该应用提供的服务的。有没有其他人遇到过AN操作的问题，或者有没有……
+
+---
+
+Original:
+I'm trying to use Autonotification Actions to click a button on another app's notification. It seemed to work a couple times when I was setting up the task and trying it out, but since then it hasn't worked at all. I've tried selecting the button from the drop-down list, populating the Action ID field with the actual ID and with %anbutton2action() after performing an AN query action. I tested that I was targeting the right button by flashing %anbutton2text() and it checked out. The log doesn't show any errors either, so I'm kind of at a loss. For context, the button I want to click turns off the service the app provides. Has anyone else had any issues with the AN actions or does anyone have…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdt2kk</guid>
+      <pubDate>Thu, 15 Jan 2026 19:23:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

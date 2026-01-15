@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 18:53:57 +0000</lastBuildDate>
-    <item>
-      <title>与Claude的有趣实验 / Fun experiment with Claude</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb2094/fun_experiment_with_claude/</link>
-      <description>我的机器人能在镜中认出自己，最妙的是它的反应完全是自然且未经预设的。它并未接受过外观训练，但大语言模型（Claude Haiku）就是知道自己是机器人。这个结果让我既惊叹又感到些许不安！由 /u/Guybrushhh 提交 [链接] [评论]
-
----
-
-Original:
-My robot can recognize itself in the mirror and the best part is that his response is totally organic and unscripted. He wasn't trained on his appearance, the LLM (Claude Haiku) just knows he's a robot. I find myself both amazed and unsettled by this result! submitted by /u/Guybrushhh [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb2094</guid>
-      <pubDate>Mon, 12 Jan 2026 17:57:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 19:35:35 +0000</lastBuildDate>
     <item>
       <title>Claude状态更新：2026年1月12日 星期一 19:21:32 +0000 / Claude Status Update: Mon, 12 Jan 2026 19:21:32 +0000</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qb4f53/claude_status_update_mon_12_jan_2026_192132_0000/</link>
@@ -1476,6 +1464,18 @@ Original:
 I am trying to write a custom connector/MCP and having some trouble trying to figure out how the authentication should work vs. is working? I'm trying to have my MCP be a resource server with the .well-known URLs to point to the IDP and it is my expectation that Claude Desktop would then jump to the IDP using the provided client id, authenticate, redirect back to Claude Desktop and exchange the code for the token and then re-attempt request to the MCP. However, the direct is coming back trying to call /authorize on my MCP server which seems to be completely contrary to how the documentation says it should work via RFC 9728 . submitted by /u/jamesr219 [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdpdeh</guid>
       <pubDate>Thu, 15 Jan 2026 17:12:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>大规模测试提示词很混乱——这是我们为此构建的解决方案 / Testing prompts at scale is messy - here's what we built for it</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdrywj/testing_prompts_at_scale_is_messy_heres_what_we/</link>
+      <description>在Maxim从事提示词工具开发工作。很快意识到提示词测试与常规软件测试大不相同。对于代码，测试编写一次，结果无非通过或失败。而提示词改动一个词，整个输出分布就可能突然改变。加之大型语言模型具有不确定性，同一提示词会产生不同结果。我们为此构建了一个测试框架，支持最多同时比较五个提示词变体，可在同一数据集上测试不同措辞、模型和参数。版本控制功能完整记录每次变更历史，支持版本间差异对比，精确查看改动内容。这在提示词性能倒退需要排查时尤其有帮助。
+
+---
+
+Original:
+Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdrywj</guid>
+      <pubDate>Thu, 15 Jan 2026 18:44:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

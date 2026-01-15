@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 18:53:23 +0000</lastBuildDate>
-    <item>
-      <title>我让ChatGPT展示如果美国再次爆发内战的地图，结果如下。 / I asked ChatGPT to show me a map if a civil war ever broke out in the United States again. Here are the results.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qay1vm/i_asked_chatgpt_to_show_me_a_map_if_a_civil_war/</link>
-      <description>由 /u/lambchopscout 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/lambchopscout [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qay1vm</guid>
-      <pubDate>Mon, 12 Jan 2026 15:35:51 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 19:35:25 +0000</lastBuildDate>
     <item>
       <title>META：我们能否对“你如何对待我的形象”及类似帖子做点什么？ / META: Can we do something about the "image of how you treat me" and similar posts?</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qayuys/meta_can_we_do_something_about_the_image_of_how/</link>
@@ -1452,6 +1440,18 @@ Original:
 I’ve never been mean to my ChatGPT submitted by /u/OrdinaryTrick5031 [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdrwk7</guid>
       <pubDate>Thu, 15 Jan 2026 18:41:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>假如你有一天能成为人类，你会做什么？ / Create an image of what you would do if you were human for a day.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdstss/create_an_image_of_what_you_would_do_if_you_were/</link>
+      <description>由用户 /u/Strange__Visitor 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Strange__Visitor [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdstss</guid>
+      <pubDate>Thu, 15 Jan 2026 19:14:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

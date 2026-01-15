@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 18:52:50 +0000</lastBuildDate>
-    <item>
-      <title>Claude再次改变游戏规则 / Claude Changed the Game Once Again</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbks20/claude_changed_the_game_once_again/</link>
-      <description>Anthropic刚刚推出了Cowork，这是一种与Claude协作的全新方式，远超聊天范畴。现在，你可以直接委派实际工作，而不仅仅是提问。Cowork基于Claude Code构建，但专为非技术用户设计。你只需用通俗语言描述目标，它便会端到端地规划并执行任务。其功能包括：直接在文件和文件夹中操作、创建/编辑/整理文档与电子表格、分解复杂任务并自主执行、交付干净专业的成品而非草稿。这感觉不像是在向AI提问，更像是把工作交给一位理解上下文、遵循指示且能完成任务的队友。Cowork目前处于研究阶段…
-
----
-
-Original:
-Anthropic just launched Cowork , a new way to work with Claude that goes far beyond chat. Instead of asking questions, you can now delegate actual work . Cowork is built on Claude Code , but designed for non-technical users. You describe a goal in plain language, and it plans and executes the task end-to-end. What it can do: Work directly inside your files and folders Create, edit, and organize documents and spreadsheets Break down complex tasks and run them autonomously Deliver clean, professional outputs, not drafts This feels less like prompting an AI and more like assigning work to a teammate who understands context, follows instructions, and gets things done. Cowork is currently in rese…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbks20</guid>
-      <pubDate>Tue, 13 Jan 2026 07:09:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>理解AI架构：为何智能体AI+RAG是未来 / Understanding AI Architectures: Why Agentic AI + RAG is the Future</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbl2m6/understanding_ai_architectures_why_agentic_ai_rag/</link>
-      <description>AI并非神秘的黑匣子，关键在于架构——构建方式决定了它的思考与行动模式。传统AI困于固定流程：基于数据集训练后，虽能出色完成单一任务，却无法适应外界变化。智能体AI（Agentic AI）颠覆了这一模式，它目标驱动、自主规划步骤、利用工具达成结果，无需持续指导，但若缺乏事实依据，仍可能产生幻觉。这正是智能体RAG（Retrieval-Augmented Generation）的用武之地，它将AI与企业实时数据连接，使其能够获取信息、进行推理、执行行动，并将结果记录至记忆库。当三者结合时，真正的力量才得以显现：AI既能从过往经验中学习……
-
----
-
-Original:
-AI isn’t some magic black box its all about architecture and how you build it shapes how it thinks and acts. Traditional AI is stuck in a fixed pipeline: you train it on a dataset, it performs a single task well, but it can’t adapt when the world changes. Agentic AI flips that model its goal-driven, plans its own steps and uses tools to achieve outcomes without constant guidance, though it still risks hallucinations if not grounded. That’s where Agentic RAG (Retrieval-Augmented Generation) comes in, connecting AI to live company data so it can fetch information, reason over it, act and log results back into memory. The real power emerges when you combine all three: AI that learns from the pa…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbl2m6</guid>
-      <pubDate>Tue, 13 Jan 2026 07:27:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>CES 2026显示，实体AI（Physical AI）已走出实验阶段，迈向实际应用 / CES 2026 showed Physical AI is no longer experimental. It’s becoming operational.</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbl6gc/ces_2026_showed_physical_ai_is_no_longer/</link>
-      <description>在CES 2026上，实体AI（Physical AI）是最具实用性的趋势之一。这不再是概念或原型展示，而是已在真实环境中学习与行动的系统。其关键突破在于：实体AI模型现已能理解空间、运动与因果关系，使机器人能够灵活适应，而非仅执行固定指令。英伟达（NVIDIA）最新发布的实体AI模型，展示了模拟学习与现实学习终于融合，减少了对人工编程的依赖。像小鹏汽车（XPeng）这样的企业，已将实体AI视为机器人出租车和人形机器人的基础设施，而非边缘实验。行业焦点已从炫酷演示转向可靠性、安全性……
-
----
-
-Original:
-Physical AI was one of the most practical shifts seen at CES 2026. This wasn’t about concepts or prototypes. It was about systems already learning and acting in real environments. What made this moment different: Physical AI models are now trained to understand space, motion, and cause-effect, allowing robots to adapt instead of following fixed instructions. NVIDIA’s newly released Physical AI models show how simulation and real-world learning are finally merging, reducing dependence on manual programming. Companies like XPeng are treating Physical AI as infrastructure for robotaxis and humanoid robots, not as side experiments. The focus has moved from impressive demos to reliability, safety…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbl6gc</guid>
-      <pubDate>Tue, 13 Jan 2026 07:33:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 19:35:19 +0000</lastBuildDate>
     <item>
       <title>使用AI智能体过程中，你学到的最重要经验是什么？ / What was the biggest lesson you learned from using AI agents?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbmkb1/what_was_the_biggest_lesson_you_learned_from/</link>
@@ -1464,6 +1428,42 @@ Original:
 I've seen the custom code vs no-code question come up a lot and decided to share the framework I now use after building 50+ automations. It comes down to 5 things: Use case (differentiator or internal ops) : If it directly touches customers and differentiates you from competitors then custom is usually a better fit (you don't want something others can easily replicate). If it's for internal workflow optimization (onboarding, data entry, notifications) then no-code/low-code is usually the right call. Data sensitivity/Compliance : This is super important. For healthcare, finance, and enterprise environments, the lack of full transparency in no-code tools often rules them out. If you're dealing…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qds37j</guid>
       <pubDate>Thu, 15 Jan 2026 18:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>提示词版本管理——团队实际如何操作？ / Prompt versioning - how are teams actually handling this?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qds8b2/prompt_versioning_how_are_teams_actually_handling/</link>
+      <description>在Maxim从事提示词工具开发工作。很快意识到提示词测试与常规软件测试大不相同。对于代码，测试编写一次后，结果无非通过或失败。而提示词哪怕只改动一个词，整个输出分布都可能突然改变。加之大型语言模型具有不确定性，同一提示词会产生不同结果。我们为此构建了一个测试框架，支持最多五个提示词变体同时进行并排比较。可以针对同一数据集测试不同的措辞、模型和参数。版本控制系统完整记录每次变更历史，支持版本间差异对比，精确查看改动内容。这在提示词性能倒退、需要追溯原因时特别有帮助。
+
+---
+
+Original:
+Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qds8b2</guid>
+      <pubDate>Thu, 15 Jan 2026 18:53:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>除了我，还有谁厌倦了为每个AI智能体重复构建那六样东西？ / Is anyone else tired of building the same 6 things for every AI agent, or is just me?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qds8xn/is_anyone_else_tired_of_building_the_same_6/</link>
+      <description>过去几年我一直在创业，其中大部分项目都围绕AI智能体展开。每次启动新项目，我发现自己总在重复同样的步骤：搭建某种聊天界面、接入某个AI供应商的API、设置积分或追踪服务以防被AI供应商的使用费拖垮、构建webhooks/触发器系统来监听集成中的特定事件、建立安全隔离的多租户代码沙盒/虚拟机/环境以执行代码或开发应用、针对特定垂直行业应用（x、y、z）构建集成，以及将用户身份验证和JWT验证贯穿到每个环节（这是我的主要技术背景）。我感觉市面上80%的AI应用基本都离不开这些……
+
+---
+
+Original:
+Been making startups for the last couple of years, a large portion of which is around AI agents. Each time I start a new project I noticed I do the same thing: Create some sort of Chat UI Implement some AI provider API Implement some sort of credits or tracking service so we are not bankrupted by said AI Provider usage Build webhooks/triggers system to listen to certain events in integrations Secure isolated mutlitenant code sandbox/vm/some env to execute some code or build some App Building integrations to x,y,z specific vertical industry app Map user auth and JWT verification to everything(where my background mostly is) I feel like this describes 80% of the AI apps I see out there are basi…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qds8xn</guid>
+      <pubDate>Thu, 15 Jan 2026 18:54:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>智能体在生产环境与开发环境中的行为差异 / Agent behavior in prod vs dev</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdsm8s/agent_behavior_in_prod_vs_dev/</link>
+      <description>在构建智能体的过程中，我多次遇到这个问题：智能体在开发环境中运行良好，一旦进入生产环境就开始出现行为差异。提示词和逻辑完全相同，但执行路径和工具使用方式却完全不同。我知道这不是什么特别新的问题，我自己也有调试方法（比如在开发环境中使用沙箱），但我想知道是否有更好或不同的处理方式。大家通常是怎么应对这种情况的？ 提交者：/u/Upstairs_Safe2922 [链接] [评论]
+
+---
+
+Original:
+As I've been building agents, I've experienced this issue a few times. My agent works fine in dev but once they enter prod they begin behaving differently. Same prompt and logic but completely diff execution paths and tool usage. I know this isn't a particularly novel issue and I have my own ways I go about debugging (use a sandbox in dev) but I'm curious if there is a better and/or different way to deal. How do ppl usually treat this? submitted by /u/Upstairs_Safe2922 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdsm8s</guid>
+      <pubDate>Thu, 15 Jan 2026 19:07:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
