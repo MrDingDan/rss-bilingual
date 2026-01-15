@@ -6,67 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 15:37:48 +0000</lastBuildDate>
-    <item>
-      <title>如何长期记录复杂的内部系统？Loom对我们不再适用了。 / How do you document complex internal systems long-term? Loom stopped working for us.</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qb369e/how_do_you_document_complex_internal_systems/</link>
-      <description>我们在构建一个相当复杂的内部系统时，遇到了一个意想不到的问题——不是技术上的，而是文档债务。起初，Loom（录屏工具）效果不错：更新快、异步解释、简短演示。但随着系统规模扩大，Loom开始失效：视频分散、缺少上下文、没有明确的“单一事实来源”、新员工上手耗时更长、需要反复解释相同内容。我们转而采用更长的结构化演示（未公开视频+书面上下文），这样能：保留架构决策、复用演示、让新人自助学习、避免每周重复解释相同流程。前期虽慢，但清晰度会持续累积。实际上……
-
----
-
-Original:
-We ran into an unexpected problem while building a fairly complex internal system. Not technical but a documentation debt. Early on, Loom worked fine: • quick updates • async explanations • short walkthroughs But once the system grew, Loom started breaking down: • videos got scattered • context was missing • no clear “source of truth” • onboarding took longer • explaining the same thing repeatedly We switched to longer-form, structured walkthroughs (unlisted videos + written context) so that: • architecture decisions are preserved • demos can be reused • new people can self-serve • we’re not re-explaining the same flows every week It’s slower upfront, but clarity compounds. What’s actually w…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qb369e</guid>
-      <pubDate>Mon, 12 Jan 2026 18:39:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>智能体AI不仅是技术变革，更是治理难题 / Agentic AI Isn’t Just a Tech Shift Its a Governance Problem</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qb4jyi/agentic_ai_isnt_just_a_tech_shift_its_a/</link>
-      <description>智能体AI（Agentic AI）被视为2026年最大的新兴风险之一，原因并非模型变得更聪明，而是决策正悄然从人类转向系统。企业真正面临的转变在于：从遵循规则的自动化，升级为能决策、行动和适应的智能体。许多组织急于采用智能体AI，却未重新思考控制、监督、问责与升级机制的实际运作方式，这导致项目停滞、预算逐渐消耗。过去一年，大量严肃研究与企业指导涌现，试图弥合这一差距，将讨论从炒作转向对实际准备度的严峻拷问……
-
----
-
-Original:
-Agentic AI is being flagged as one of the biggest emerging risks for 2026, not because the models are smarter, but because decision-making is quietly moving from humans to systems. That’s the real shift enterprises are struggling with: going from automation that follows rules to agents that decide, act and adapt. Many organizations are rushing to adopt agentic AI without rethinking how control, oversight, accountability and escalation should actually work and that’s where initiatives stall and budgets slowly evaporate. Over the past year a wave of serious research and enterprise guidance has emerged trying to close this gap, moving the conversation from hype to hard questions about readiness…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qb4jyi</guid>
-      <pubDate>Mon, 12 Jan 2026 19:27:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>如何构建一个能成为我数字孪生体的本地AI？ / How to build a local AI that becomes my digital twin ?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qb5kbc/how_to_build_a_local_ai_that_becomes_my_digital/</link>
-      <description>我想要一个完全本地化、隐私优先的AI，它能吸收我所有的数据，并逐渐模仿我的行为。寻求关于以下方面的简明建议：大语言模型（LLM）选择、记忆系统（RAG与微调对比）、数据输入流程、硬件限制与常见陷阱。如果今天从头开始，你会选用什么技术栈？ 由用户/u/PresenceBroad4361提交 [链接] [评论]
-
----
-
-Original:
-I want a 100% local, privacy-first AI that ingests all my data and gradually behaves like me. Looking for concise advice on: LLM choice Memory (RAG vs fine-tuning) Data ingestion pipeline Hardware limits &amp; pitfalls If you were starting today, what stack would you use ? submitted by /u/PresenceBroad4361 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qb5kbc</guid>
-      <pubDate>Mon, 12 Jan 2026 20:03:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>真正的AI请站出来 / Can the real AI please stand up</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qb5slc/can_the_real_ai_please_stand_up/</link>
-      <description>有人能给我推荐最好的图片转视频和文本转视频的AI软件吗？我试过几款，感觉选择很多，但很多只是换个名字而已。它们都用点数制，各有优缺点……但抱怨声都差不多。通常有人说它是骗局，付了订阅费却没拿到全部点数，或者客服根本不存在。更别提从这些混蛋那里退款有多难了。我愿意付费使用，但没时间被耍。我只想要一个直接的解决方案。目前我试过PixVerse，但已经……
-
----
-
-Original:
-Can someone point me in the direction of the best A.I. software for image to video, and text to video? I’ve experimented with a few and feel like there are numerous options but I feel like many are the same with a different name. They all use credits, they all have their benefits and their shortcomings…but the complaints sound the same. It’s usually someone claiming it’s a scam, they paid for a subscription but didn’t get their full credits, or the customer support is nonexistent. Not to mention it’s hard to get refunds from these bastards. I’m willing to pay to play but I ain’t got time to be played with. I just want a straightforward solution. So far I’ve been trying PixVerse but I already…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qb5slc</guid>
-      <pubDate>Mon, 12 Jan 2026 20:12:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude技能难道只是工具调用……？ / Are Claude skills just tool calls...?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qb73w6/are_claude_skills_just_tool_calls/</link>
-      <description>假设你有一个工具，调用时只是打开一个Markdown文件，将其内容插入智能体的主提示中。该主提示还列出了智能体的工具及其描述，包括这个工具。这算是一种“技能”吗？由/u/agp_praznat提交 [链接] [评论]
-
----
-
-Original:
-Imagine you have a tool that when invoked simply opens a markdown file and sticks its contents into your agent's main prompt. That main prompt also has a list of the agent's tools and their descriptions, including this one. Is this a "skill" ?? submitted by /u/agp_praznat [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qb73w6</guid>
-      <pubDate>Mon, 12 Jan 2026 21:00:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 16:51:10 +0000</lastBuildDate>
     <item>
       <title>哪些文本转语音服务商真正适合语音助手？ / What text to speech providers are actually good for voice agents?</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qb905w/what_text_to_speech_providers_are_actually_good/</link>
@@ -1464,6 +1404,66 @@ Original:
 i am creating a project, which needs llm to analyse entire codebase or atleast few important files or readme files, and then write a summary type thing, i need some models which i an use for free. i have tried gpt oss 120b and qwen3-32b, i got token limited by groq. please tell me few alternatives so that i am not limited by token sizes and rate limits submitted by /u/Ivory_26 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdl3uy</guid>
       <pubDate>Thu, 15 Jan 2026 14:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何通过语音AI助手追踪通话情绪？ / How are you tracking call sentiment with voice ai agents?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdmu7g/how_are_you_tracking_call_sentiment_with_voice_ai/</link>
+      <description>最近我开始深入研究语音AI，有个问题一直困扰着我。用户在通话中会感到困惑、不耐烦、如释重负或沮丧，比如出现'叹气'、长时间停顿等情况。仅看文字记录是不够的。我认为情绪实际上能告诉你通话是否成功。如果我说错了请纠正。我很好奇团队们实际上是如何处理这个问题的？这甚至是被期望的吗？你们是追踪整个通话的情绪，还是会话中每一轮的情绪？是否有专门的仪表板来追踪情绪？比如可观测性体现在哪里？这种情绪是如何关联的？比如升级处理？当我说情绪时，你们追踪的是什么？比如语调、语速等等……
+
+---
+
+Original:
+I recently started digging deeper into voice AI, and this is bothering me recently. Users get confused, impatient, relieved, or frustrated midcall, there is a 'sigh', a long pause, and what not. Having seen transcripts won't cut it. I believe sentiment actually tell you wether the call was actually a hit or flop. Correct me if i'm wrong. I am curious how teams are actually handling this? Is this even desired? Are you tracking sentiment for the entire call or for each turn within the conversation? Do you have dedicated dashboards to track sentiment? Like where is the observability? How is this sentiment tied? Like for escalations? What are you tracking when i say sentiment? Like tone, pace, i…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdmu7g</guid>
+      <pubDate>Thu, 15 Jan 2026 15:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>优化云存储空间 / Optimizing cloud storage</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdnv2w/optimizing_cloud_storage/</link>
+      <description>我同时使用苹果（Apple）、谷歌（Google）和亚马逊（Amazon）的云存储服务，但由于相同照片会上传到所有平台，导致存储空间很快占满。此外，对于同一场景连拍的多张照片（并非完全重复，而是多次拍摄），上传时也没有进行优化处理。请问有没有办法优化这些存储空间的使用？ 发布者：/u/Holiday_Weakness_794 [链接] [评论]
+
+---
+
+Original:
+I have cloud storage with Apple , google and amazon but all of them reach limits since same photos get uploaded to all. Also where we have multiple clicks for a photo the upload does not consider optimization of such photos (these are not true duplicates but multiple clicks). Can someone suggest if there is a way to optimize these storages. submitted by /u/Holiday_Weakness_794 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdnv2w</guid>
+      <pubDate>Thu, 15 Jan 2026 16:17:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Documate - AI文档助手 / Documate - AI Document Assistant</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdoc6o/documate_ai_document_assistant/</link>
+      <description>大家好，我开发了一个免费的Google Docs扩展程序，用来解决写论文时一直困扰我的几个问题。之前我总要在引用工具、评分器和AI网站之间来回切换，于是便有了DocuMate。这是一个完全免费的Chrome扩展，直接内嵌在Google Docs中。它的功能包括：自然自动输入文本（带停顿和修订）、可选的粘贴保护以避免意外插入AI内容、根据你的评分标准和指示评估写作质量、自动生成完整的MLA、APA和Chicago格式参考文献，以及从引用来源中查找真实的支持性引文来佐证论点。没有付费门槛，无需登录，也不追踪数据。我目前没有将其商业化的计划，它运行在一个免费的A…
+
+---
+
+Original:
+Hey everyone , I built a free Google Docs extension to solve a few problems that kept annoying me while writing papers. I kept bouncing between citation tools, graders, and AI sites, so I built DocuMate. It's a 100% free Chrome extension that lives directly inside Google Docs . What it does: Auto-types text naturally (with pauses and revisions) Optional paste protection to avoid accidental AI insertions Grades your writing using your own rubric and instructions. Generates full MLA, APA, and Chicago bibliographies automatically Finds real supporting quotes from cited sources to back up arguments There’s no paywall, no login, and no tracking . I don’t plan on monetizing it. It runs on a free A…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdoc6o</guid>
+      <pubDate>Thu, 15 Jan 2026 16:34:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>专为AI代理设计的图像/视频编辑工具——期待您的反馈 / AI agents for image/video editing — looking for feedback</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdojmh/ai_agents_for_imagevideo_editing_looking_for/</link>
+      <description>我一直在开发一款专为AI代理设计的API，用于编辑图像和视频。可以把它想象成给你的代理配备专业编辑工具包——而不是消费级应用中的简化功能。我们讨论的功能包括LUT色彩分级、音频闪避、说话人分离、用于流畅慢动作的AI帧插值、眼神接触校正、节拍同步剪辑、神经修复、基于深度的背景虚化。这类操作通常需要真正懂Premiere、DaVinci或After Effects的人来完成。不同之处在于：无需任何人学习这些技能。两个工具将你的代理连接到完整引擎：一个用于检索可用操作及其参数，另一个用于执行……
+
+---
+
+Original:
+I've been building an API designed specifically for AI agents to edit images and videos. Think of it as giving your agent the toolkit of a professional editor — not the simplified features you get in consumer apps. We're talking LUT color grading, audio ducking, speaker diarization, AI frame interpolation for smooth slow-motion, eye contact correction, beat-synced cuts, neural inpainting, depth-based background blur. The kind of operations that normally require someone who actually knows Premiere, DaVinci, or After Effects. The difference: no one needs to learn any of it. Two tools connect your agent to the full engine. One retrieves available operations with their parameters, the other exec…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdojmh</guid>
+      <pubDate>Thu, 15 Jan 2026 16:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI助力科研：我如何打造一位开源AI科学家 / AI for science, how I built an open-source AI Scientist</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdomt4/ai_for_science_how_i_built_an_opensource_ai/</link>
+      <description>完全开源。可访问100%的PubMed、bioRxiv、medRxiv、arXiv、DailyMed、Clinicaltrials.gov、实时网络搜索，现在我还新增了：ChEMBL、Drugbank、Open Targets、SEC文件、NPI注册库和WHO ICD代码。我曾就读于伦敦一所顶尖大学的计算机科学专业，总是看着我的女友和其他生物学/科学博士生因为所有AI工具对他们来说根本不好用而浪费整天时间。这些人都是真正从事研究的聪明人。他们需要比较不同试验中的CAR-T疗效，追踪药物不良反应，试图弄清楚为什么他们价值5万美元的小鼠模型无法复现6个月前论文中的结果。当他们向ChatGPT/Claude/Perplexity询问一个2…
+
+---
+
+Original:
+Fully open-source. With access to 100% of PubMed, bioRxiv, medRxiv, arXiv, DailyMed, Clinicaltrials gov, live web search, and now I have also added: ChEMBL, Drugbank, Open Targets, SEC fillings, NPI Registry, and WHO ICD codes. I was at a top London university for CS and was always watching my girlfriend and other biology/science PhD students waste entire days because every single AI tool is fundamentally broken for them. These people are smart people doing actual research. Comparing CAR-T efficacy across trials. Tracking ads adverse events. Tryign to figure out why their $50k mouse model won't replicate results from a paper published 6months ago. They ask ChatGPT/Claude/Perplexity about a 2…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdomt4</guid>
+      <pubDate>Thu, 15 Jan 2026 16:45:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

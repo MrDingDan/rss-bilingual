@@ -6,7 +6,7 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 15:40:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 16:53:06 +0000</lastBuildDate>
     <item>
       <title>AI开发者必读好文（建议收藏） / Great read for AI devs.
 
@@ -697,6 +697,22 @@ Original:
 These features are also in Cowork. I still prefer to use Claude Code via the terminal, but this is going to allow more folks with non-technical backgrounds get in the action. Smart move because teams can now use whatever flavor of Claude Code they feel comfortable with. 💬 1 🔄 0 ❤️ 5 👀 1333 📊 1 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-931d6e88::2011112571504373851</guid>
       <pubDate>Tue, 13 Jan 2026 16:26:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>UniversalRAG / UniversalRAG
+
+RAG systems retrieve knowledge to ground model responses.
+
+However, most existing appr...</title>
+      <link>https://x.com/omarsar0/status/2011442693134754243</link>
+      <description>UniversalRAG 系统通过检索知识来支撑模型回答。然而，现有方法大多局限于单一模态，通常是文本。在实际应用中，许多RAG系统会遇到需要图像、视频或多种组合的查询。这项新研究提出了UniversalRAG框架，它能从不同模态和粒度的异构来源中检索并整合知识。现实中的查询需求差异很大，一个能动态路由到合适模态与粒度的通用RAG框架，可以满足多样化的信息需求，这是任何单一语料库方法都无法做到的。它不再强制将所有内容塞进同一个嵌入空间……
+
+---
+
+Original:
+UniversalRAG RAG systems retrieve knowledge to ground model responses. However, most existing approaches are limited to a single modality, typically text. For many real-world RAG systems, some queries need images. Others need videos. Many need combinations. This new research introduces UniversalRAG, a framework that retrieves and integrates knowledge from heterogeneous sources across diverse modalities and granularities. Real-world queries vary widely in what knowledge they need. A universal RAG framework that dynamically routes to the right modality and granularity serves diverse information needs that no single-corpus approach can address. Instead of forcing everything into one embedding s…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011442693134754243</guid>
+      <pubDate>Wed, 14 Jan 2026 14:18:03 +0000</pubDate>
     </item>
     <item>
       <title>Meta Superintelligence Labs（Meta超级智能实验室）发布有趣论文：无需训练数据实现智能体进化 / Super interesting paper from Meta Superintelligence Labs on evolving agents without training data.</title>

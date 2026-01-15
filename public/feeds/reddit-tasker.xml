@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 15:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 16:52:57 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -426,6 +426,18 @@ Original:
 Hi How to unlock my Phone? Best way? With macrodroid i made it With screen on tap on xy click in field, past pw in use enter Works greate but how to Do this on tasker submitted by /u/oraklesearch [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdflgy</guid>
       <pubDate>Thu, 15 Jan 2026 09:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>APK卸载操作让我困惑 / APK uninstalling i dont understand</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdoado/apk_uninstalling_i_dont_understand/</link>
+      <description>我找到了两种方法，但不太明白为什么。shell pm uninstall --user 0 net.dinglisch.android.taskerm 显示成功 → adb Adb pm shell uninstall net.dinglisch.android.taskerm 提示 adb.exe: unknown command Adb → adb pm shell uninstall net.dinglisch.android.taskerm 提示 adb.exe: unknown command pm → adb uninstall net.dinglisch.android.taskerm 提示失败 [DELETE_FAILED_INTERNAL_ERROR] → adb uninstall net.dinglisch.android.taskerm 再次提示失败 [DELETE_FAILED_INTERNAL_ERROR]。请问哪种才是正确的？能否直接在 Shizuku 或 ashell 中使用 shell 命令？由 /u/oraklesearch 提交 [链接] [评论]
+
+---
+
+Original:
+hi i found 2 ways but i dont know why shell pm uninstall --user 0 net.dinglisch.android.taskerm Success &gt;&gt; adb Adb pm shell uninstall net.dinglisch.android.taskerm adb.exe: unknown command Adb &gt;&gt; adb pm shell uninstall net.dinglisch.android.taskerm adb.exe: unknown command pm &gt;&gt; adb uninstall net.dinglisch.android.taskerm Failure [DELETE_FAILED_INTERNAL_ERROR] &gt;&gt; adb uninstall net.dinglisch.android.taskerm Failure [DELETE_FAILED_INTERNAL_ERROR] which one is the right one that i can use with shell directly with Shizuku or ashell submitted by /u/oraklesearch [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdoado</guid>
+      <pubDate>Thu, 15 Jan 2026 16:33:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

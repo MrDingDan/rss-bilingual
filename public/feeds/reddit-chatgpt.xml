@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 15:38:29 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT 更新说明 / Updates for ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1o6jins/updates_for_chatgpt/</link>
-      <description>此前我们为谨慎处理心理健康问题，对 ChatGPT 设置了较多限制。我们意识到这降低了许多无心理健康问题用户的使用体验，但鉴于该问题的严肃性，我们认为有必要这样做。目前，我们已能有效缓解严重的心理健康风险，并配备了新的工具，因此将在大多数情况下安全地放宽限制。几周后，我们计划推出新版 ChatGPT，允许用户设定更接近 4o 版本中广受欢迎的人格特质（我们希望新版会更出色！）。如果你希望 ChatGPT 以高度拟人的方式回应、使用大量表情符号，或表现得……
-
----
-
-Original:
-We made ChatGPT pretty restrictive to make sure we were being careful with mental health issues. We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right. Now that we have been able to mitigate the serious mental health issues and have new tools, we are going to be able to safely relax the restrictions in most cases. In a few weeks, we plan to put out a new version of ChatGPT that allows people to have a personality that behaves more like what people liked about 4o (we hope it will be better!). If you want your ChatGPT to respond in a very human-like way, or use a ton of emoji, or act lik…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1o6jins</guid>
-      <pubDate>Tue, 14 Oct 2025 16:01:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>顺应趋势... / Going with the trend...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qalhvh/going_with_the_trend/</link>
-      <description>由 /u/JuiceWrld999N 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/JuiceWrld999N [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qalhvh</guid>
-      <pubDate>Mon, 12 Jan 2026 04:37:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 16:51:25 +0000</lastBuildDate>
     <item>
       <title>有人注意到最近ChatGPT说话的这种“韵律”吗？ / Anyone else notice this "rhythm" in ChatGPT speech lately?</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qaratw/anyone_else_notice_this_rhythm_in_chatgpt_speech/</link>
@@ -1452,6 +1428,30 @@ Original:
 submitted by /u/Vlaxilla [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdmauv</guid>
       <pubDate>Thu, 15 Jan 2026 15:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>那边的情况不一样 / It's different over there</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdmizv/its_different_over_there/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdmizv</guid>
+      <pubDate>Thu, 15 Jan 2026 15:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>向GPT索要我的人生更新日志，真想回滚版本啊：/ / Asked GPT for patch notes on my life, I wanna rollback :/</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdmu7o/asked_gpt_for_patch_notes_on_my_life_i_wanna/</link>
+      <description>由用户/u/Vlaxilla提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Vlaxilla [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdmu7o</guid>
+      <pubDate>Thu, 15 Jan 2026 15:40:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

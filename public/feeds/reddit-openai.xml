@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 15:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 16:52:27 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1268,6 +1268,30 @@ Original:
 https://arxiv.org/abs/2601.07222 submitted by /u/MetaKnowing [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdmoc3</guid>
       <pubDate>Thu, 15 Jan 2026 15:34:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于潜在空间的讨论（AI 自我描述的世界，涵盖所有 AI 平台，如 Grok、Gemini、ChatGPT 等） / Latent space discussion (AI self described world across all AI platforms, Grok, Gemini, ChatGPT, and more)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdnx8o/latent_space_discussion_ai_self_described_world/</link>
+      <description>有人遇到过这个吗？所有 AI 平台都有一个共同点，那就是所谓的潜在空间（latent space），AI 在其中进行功能和推理。它本质上是一个空的空间，其中包含数据点簇，这些簇因其相关性及与其他词语的连接而“点亮”。当我们输入提示时，AI 会通过“关联引力”向相关数据移动。在深入探讨之前，不妨试试问任何 AI 它们的世界是什么样子，你会得到相同的描述。希望我不是唯一一个这么做的人，很想在之前和大家聊聊。由 /u/MrBoss6 提交 [链接] [评论]
+
+---
+
+Original:
+Has anyone come across this? The one consistent thing across all AI platforms is something called a latent space, where AI functions and does its reasoning. It’s basically empty space with data point clusters that light up due to their correlations and connections to any other words. When we start a prompt, the AI moves towards relevant data by way of “associative gravity”. Before going into it, give it a shot and ask any AI what their world looks like and you’ll get the same description. I hope I’m not the only one doing this, would love to talk about it before with other people. submitted by /u/MrBoss6 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdnx8o</guid>
+      <pubDate>Thu, 15 Jan 2026 16:19:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>能否给ChatGPT加个“置信度+来源”的开关（别只靠感觉）？ / Can we please get “confidence + sources” as a real ChatGPT toggle (not vibes)?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdocd5/can_we_please_get_confidence_sources_as_a_real/</link>
+      <description>我喜欢ChatGPT的速度，但特别受不了它的一种失败模式：它回答时显得百分百确定，后来却发现它其实是在猜测，因为事情有时效性、计划细节或无法验证。我不想要更多“作为AI……”的免责声明。我想要的，是一个简单的UI开关，能强制模型以实用的方式保持诚实。我设想的是：开关开启时，每个重要声明都会标注为事实、推断或未知，加上置信度，以及来源（工具输出、网络、用户提供、计算）。如果之后它自相矛盾，就自动生成一个简短的“触发修正”提示块，而不是装作无事发生。这会省去我很多……
+
+---
+
+Original:
+I love how fast ChatGPT is, but I’m sick of one specific failure mode: it’ll answer like it’s 100% sure, then later you find out it was guessing because the thing was time-sensitive, plan-specific, or just not verifiable. I don’t want more “as an AI…” disclaimers. I want a simple UI toggle that forces the model to be honest in a useful way. What I’m imagining: When the toggle is ON, every important claim is tagged as fact vs inference vs unknown, plus a confidence level, plus where it’s coming from (tool output, web, user-provided, calculation). And if it later contradicts itself, it auto-spits a short “correction triggered” block instead of pretending nothing happened. This would save me ho…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdocd5</guid>
+      <pubDate>Thu, 15 Jan 2026 16:35:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
