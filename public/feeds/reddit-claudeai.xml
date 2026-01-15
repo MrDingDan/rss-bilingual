@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 20:39:03 +0000</lastBuildDate>
-    <item>
-      <title>一位转型氛围编程者的九条心得 / 9 tips from a developer gone vibecoder</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qb90zq/9_tips_from_a_developer_gone_vibecoder/</link>
-      <description>这类建议网上成千上万，不知对他人是否有用。但至少这不是AI生成的，我也不推销或打广告！我本职是开发者，但个人项目几乎完全采用氛围编程。工作日写代码已经够累了。以下是我总结的氛围编程必备要点：尤其当你进入AI辅助写代码的阶段时，AI无法为每个功能运行真实、手动、端到端的测试。新增接口？应该启动应用并检查输出。界面改动？必须打开实际界面确认。用MCP协议、截图或任何你认为合适的方式。数据库迁移？务必验证可用性。API编写……
-
----
-
-Original:
-There are thousands of these, so who knows if this provide value to anyone. At least it’s not AI written. And I’m not selling nor advertising! I work as a developer, but for personal projects more or less 100% vibecode. Writing code during the workday is enough for me. These are absolute necessities I have found for vibecoding. Especially when you reach territory where AI is writing code, you yourself couldn’t Have AI run real, manual, E2E tests for every feature. Added an endpoint? Agent should spin up the application and inspect the output. A UI change? Should be confirmed by opening the actual UI. Use MCP, use screenshots, or whatever you deem best. DB migration? Confirm it works. API wri…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qb90zq</guid>
-      <pubDate>Mon, 12 Jan 2026 22:12:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Cowork / Claude Cowork</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbchqz/claude_cowork/</link>
-      <description>Claude Cowork 在五分钟内帮我整理好了下载文件夹，实际省下了我至少一天的工作量。提交者：/u/vegamus [链接] [评论]
-
----
-
-Original:
-Claude Cowork helped me to organise my download folder in 5 minutes. Practicaly saved me to spend at least one day work. submitted by /u/vegamus [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbchqz</guid>
-      <pubDate>Tue, 13 Jan 2026 00:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>就在你承诺要开的那场会议之前... / Right before that meeting where you promised...</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbcrhi/right_before_that_meeting_where_you_promised/</link>
-      <description>由 /u/highways2zion 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/highways2zion [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbcrhi</guid>
-      <pubDate>Tue, 13 Jan 2026 00:41:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 21:33:45 +0000</lastBuildDate>
     <item>
       <title>Claude Cowork初体验视频：Cowork不可逆地删除了我11GB的文件💀 / Claude Cowork 1st impression video: Cowork irreversibly deleted 11GB of my files 💀</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbdk0q/claude_cowork_1st_impression_video_cowork/</link>
@@ -1418,6 +1382,18 @@ Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is 
       <pubDate>Thu, 15 Jan 2026 18:44:05 +0000</pubDate>
     </item>
     <item>
+      <title>我将Claude的技能最佳实践提取出来，做成了一个免费生成器 / I extracted Claude's skill best practices into a free generator</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdsgjh/i_extracted_claudes_skill_best_practices_into_a/</link>
+      <description>几个月来我一直在编写Claude Code技能，甚至开发了用来创建技能的技能（没错，这确实很“元”）。当它变得对我超级有用时，我决定打包分享出来。我创建了一个技能构建器，它能解答一些基础问题：YAML前置格式是什么？描述应该用第三人称吗？需要“快速开始”部分吗？示例应该具体到什么程度？然后我融入了Claude官方的[最佳实践]（https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices），并设计了一个特定提示词，能根据你的输入生成高质量技能。它的功能是：你用通俗英语描述你的专长……
+
+---
+
+Original:
+Been writing Claude Code skills for months and I've been building my own skills to build skills (i know, pretty meta). I got it to a point where it was super useful to me, so I figured I'd package it up and share it out. I started a my own skill builder that would answer some basic questions: What's the YAML frontmatter format? Should descriptions be third-person? Do I need a Quick Start? How specific should examples be? Then I layered in the [best practices]) https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices ) from Claude, and make a specific prompt to generate a high quality skill based on your input. What it does: You describe your expertise in plain English…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdsgjh</guid>
+      <pubDate>Thu, 15 Jan 2026 19:01:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude企业版 - 主要所有者可下载团队聊天记录 / Claude Enterprise - Primary Owner can download team chats</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qdsvej/claude_enterprise_primary_owner_can_download_team/</link>
       <description>大家好，你们知道这个吗？"团队版和企业版用户流程相同，但主要所有者可以通过设置→数据管理导出全团队数据。" "Claude基于邮件的数据导出如何运作：Claude采用简单的邮件系统进行数据导出。前往设置→隐私→导出数据，点击导出按钮，然后等待包含下载链接的邮件。链接会在24小时内送达，并在24小时后失效，请及时下载。无论您使用的是Claude免费版、专业版（20美元/月）还是Max版（100-200美元/月），流程都相同。团队版和企业版用户流程相同，但主要所有者可以通过设置→数据管理导出全团队数据。难道我是……"
@@ -1463,9 +1439,21 @@ I run a small dev team at a B2C startup. We have 5 main repositories with lots o
 ---
 
 Original:
-if you use a bunch of terminals at the same time, and different agents, this will be a time saver I got tired of using a bunch of claude codes in terminals, so I modified the opencode desktop app for more multi-tasking No terminal. Just the desktop app. Beautiful theme colors, mouse functionality for ease of use, and multiple panels Can use claude code There is a script for windows/mac/linux you can use to install/launch easily https://github.com/joyi-ai/openpoo https://x.com/joyi_ai https://reddit.com/link/1qdtq2v/video/8blzc33gbkdg1/player https://preview.redd.it/m2m97yqqekdg1.png?width=2203&amp;format=png&amp;auto=webp&amp;s=7f458cd0bbf81504c76bbf42c847ecd371c02c98 https://preview.redd.it/occguxvrekd…</description>
+if you use a bunch of terminals at the same time, and different agents, this will be a time saver I got tired of using a bunch of claude codes in terminals, so I modified the opencode desktop app for more multi-tasking No terminal. Just the desktop app. Beautiful theme colors, mouse functionality for ease of use, and multiple panels Can use claude code There is a script for windows/mac/linux you can use to install/launch easily https://github.com/joyi-ai/openpoo https://x.com/joyi_ai https://reddit.com/link/1qdtq2v/video/8blzc33gbkdg1/player https://preview.redd.it/m2m97yqqekdg1.png?width=2203&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f458cd0bbf81504c76bbf42c847ecd371c02c98 https://preview.redd.it/occguxvrekd…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdtq2v</guid>
       <pubDate>Thu, 15 Jan 2026 19:47:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>我找到了在LangGraph节点中使用Claude Agent SDK的方法——以下是我的心得 / I found a way to use Claude Agent SDK inside LangGraph nodes - here's what I learned</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qduls6/i_found_a_way_to_use_claude_agent_sdk_inside/</link>
+      <description>过去几个月，我深入研究了多智能体工作流，想分享一个我在任何文档中都找不到的发现。问题是：我需要为复杂的AI工作流（包括多个智能体、状态管理和条件路由）提供合适的编排。我尝试了多种方法：为子智能体使用指令文件、不同的RAG设置（向量数据库、Markdown、YAML），以及直接用Claude作为编排器。这些方法都有效，但都无法满足我的扩展需求。LangGraph看起来是个解决方案，但我找到的所有教程都使用直接API调用——基本上是在实验和学习过程中消耗大量token。我不想仅仅为了验证它是否适用于……而浪费资金。
+
+---
+
+Original:
+I've been deep in multi-agent workflows for a few months now, and I wanted to share something I figured out that I couldn't find documented anywhere. The problem: I needed proper orchestration for complex AI workflows - multiple agents, state management, conditional routing. I tried a bunch of approaches: - Instruction files for sub-agents - Different RAG setups (vector DBs, markdown, YAML) - Using Claude itself as the orchestrator They worked, but none scaled the way I needed. LangGraph seemed like the answer. But every tutorial I found uses direct API calls - you're basically burning tokens while you experiment and learn. I didn't want to waste money just figuring out if it would work for…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qduls6</guid>
+      <pubDate>Thu, 15 Jan 2026 20:20:29 +0000</pubDate>
     </item>
     <item>
       <title>Claude聊天（网页界面）Opus版本近2-3天常在思考过程中中断且不回复 / Claude Chat (Web Interface) Opus is often stopping mid-think without delivering a response 2-3 days.</title>
@@ -1478,6 +1466,18 @@ Original:
 I use Claude primarily to do Projects for legal research. I've been having an issue the past 2-3 days where I will enter a prompt and Claude will be thinking about it and then just stop without giving me any sort of reply. No error, no limit reached. This is often on the first question in a chat, so I don't think it's a limit issue. Switching to Sonnet eliminates the issue, but I want my Opus! Has anyone else been experiencing this issue on the web interface or otherwise the last 2-3 days? I know there was an service disruption, but it seems as though that officially resolved. Any solutions or workarounds or should I just wait for it to hopefully get fixed? submitted by /u/BrainlessActusReus…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qduq2u</guid>
       <pubDate>Thu, 15 Jan 2026 20:25:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>还有人像我一样，对正在亲历这一切感到无比震惊吗？ / Is anyone else just absolutely astounded that we are actually living through this?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdw0qn/is_anyone_else_just_absolutely_astounded_that_we/</link>
+      <description>我简直不敢相信，我们现在能用纯英语编程了。我一直有很多想法，但始终缺乏毅力和决心去学编程，所以它们都只是空想，或者想着‘嗯，也许哪天我能筹款实现它’之类的。但现在，我们竟然能直接把它们变成现实？这太不可思议了。我觉得每个值得实现的想法，我只需要花几个小时用CC（Cursor）就能让它活起来，进行压力测试，交给朋友或客户，然后继续完善。而且它们真的能跑起来（对比一年前用Lovable，一旦项目变大，90%的时间都在调试，简直一团糟）。这感觉就像我的梦想成真了——用纯英语进行真正的编程。最棒的是，我真的没……
+
+---
+
+Original:
+I just cant believe we can code in plain English. I've always had all these ideas but never had the stamina and commitment to learn to code so they always just stayed ideas or like "oh yeah maybe one day I could fundraise for that" etc etc But now we just, make them real? It's amazing. Every idea I think is worth realising I just spend a few hours with CC and bring it to life. Stress test it. Give it to friends or clients and go from there. And they actually f'ing work (compared to using Lovable a year ago and it was janky like 90% debugging once things got big). This feels like my actual dream come true - proper coding in plain english And the most amazing thing is that I genuinely didn't e…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdw0qn</guid>
+      <pubDate>Thu, 15 Jan 2026 21:13:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

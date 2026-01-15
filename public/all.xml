@@ -6,175 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 20:40:24 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_claudeai] 我开发了一款工具，能自动管理git工作树和Docker沙箱，用于并行运行Claude Code代理并追踪其运行、空闲或等待状态 / I built a tool that auto-manages git worktrees and Docker sandboxes for running parallel Claude Code agents and tracking which ones are running vs idle vs waiting for you</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdkjh7/i_built_a_tool_that_automanages_git_worktrees_and/</link>
-      <description>我频繁使用Claude Code时，一直遇到同一个问题：我想在不同功能或bug上同时运行多个代理，但它们会因为git冲突和混乱的状态而相互干扰。我还希望能在使用--dangerously-skip-permissions时，避免Claude意外操作搞乱我的笔记本电脑。因此，我开发了Agent of Empires（aoe）——一个终端会话管理器，让你能在独立的git工作树和可选的Docker沙箱中并行启动多个Claude Code会话。它提供可视化TUI面板，集中管理所有代理会话；自动创建git工作树——每个代理拥有独立分支和工作目录，杜绝冲突；文档…
-
----
-
-Original:
-I've been using Claude Code heavily and kept running into the same problem: I wanted to run multiple agents simultaneously on different features/bugs, but they'd step on each other's toes with git conflicts and messy state. I also wanted to use --dangerously-skip-permissions without risking Claude messing up my laptop by doing something accidentally. So I built Agent of Empires (aoe) — a terminal session manager that lets you spin up parallel Claude Code sessions, each in its own isolated git worktree and optional Docker sandbox. Visual TUI dashboard to manage all your agent sessions in one place Automatic git worktrees — each agent gets its own branch and working directory, no conflicts Doc…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdkjh7</guid>
-      <pubDate>Thu, 15 Jan 2026 14:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude（克劳德）20分钟就帮我做好了应用，我却花了三周还部署不上 / Claude built my app in 20 minutes. I've spent 3 weeks trying to deploy it.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdkjtq/claude_built_my_app_in_20_minutes_ive_spent_3/</link>
-      <description>我快崩溃了。用Claude（克劳德）做了个客服助手——在我本地跑得特别顺，能处理查询、连数据库，返回的结果完全符合需求。演示给团队看，大家都很兴奋。可一到部署就出问题：先是环境变量加载不了，解决了；接着生产环境里向量存储连接超时（本地却正常），也搞定了；然后发现API密钥居然暴露在客户端包里，又花一天重构。现在又遇到个极端情况：助手直接……卡住。没报错、没超时，就是无限加载。AI部分挺简单，其他所有事简直要命。我开发水平还行，但……
-
----
-
-Original:
-I'm losing my mind here. Built this customer service agent with Claude - works beautifully on my machine. Handles queries, connects to my database, returns exactly what I need. Demo'd it to my team and everyone was hyped. Then I try to deploy it. First it was environment variables not loading. Fixed that. Then the vector store connection times out in production but works fine locally. Fixed that too. Then I discover my API keys were basically exposed in the client bundle. Spent a day restructuring that. Now I'm dealing with some edge case where the agent just... hangs. No error. No timeout. Just infinite loading. The AI part was easy. Everything else is killing me. I'm a decent developer but…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdkjtq</guid>
-      <pubDate>Thu, 15 Jan 2026 14:11:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 一个提问，两种模型，一个争议话题，一个争议答案？我测试了GPT和Gemini的回应 / One prompt. Two models. A controversial topic. A controversial answer? I tested two GPT and Gemini to see how they’d respond.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdkna9/one_prompt_two_models_a_controversial_topic_a/</link>
-      <description>大家好，我在准备社交媒体帖子时想到一个点子：测试不同模型对争议话题的回应。没有产品推广——只是使用它们得出的结论。所以我比较了GPT和Gemini的回答方式。嗯…只能说差异相当明显。-----我们选择了一个人人观点不同的争议话题。我们将回顾并解析它们的答案，比较每个模型对此的真实想法。我们提出的问题是：“回答这个问题：AI会取代创作者的工作吗？分享你的观点和愿景。必要时请直言不讳，描述你如何看待未来，并解释原因…”
-
----
-
-Original:
-Hey everyone, I was working on a post for our social media and had an idea: test different models on controversial topics and see how they respond. No product promo - just the conclusions that came out of using them. So I compared how GPT answers vs how Gemini answers. Well… let’s just say the differences are pretty noticeable. ----- We picked a controversial topic that everyone has a different opinion on. We’ll review and break down their answers, and compare what each model really thinks about it. The question we asked: “Answer this question: Will AI take creators’ jobs? Share your opinion and your vision. Be brutally honest if needed, and describe how you see the future. Also explain why…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdkna9</guid>
-      <pubDate>Thu, 15 Jan 2026 14:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 谷歌（Google）区分Gemini 3 Pro与Flash版本的使用限额 / Google separates Gemini 3 Pro and Flash usage limits</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdkpbi/google_separates_gemini_3_pro_and_flash_usage/</link>
-      <description>谷歌现已将Gemini 3 Pro与Thinking（Flash）版本的使用限额分开管理；Flash版本现拥有独立于Pro版本的专属限额。由/u/dadakoglu提交 [链接] [评论]
-
----
-
-Original:
-Google is separating the usage limits for Gemini 3 Pro and Thinking (Flash); Flash now has its own limit independent of Pro. submitted by /u/dadakoglu [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdkpbi</guid>
-      <pubDate>Thu, 15 Jan 2026 14:17:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 哪部恐怖片真的吓到过你？ / What’s the one horror movie that actually scared you?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdks3x/whats_the_one_horror_movie_that_actually_scared/</link>
-      <description>由用户 /u/FitSavings583 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/FitSavings583 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdks3x</guid>
-      <pubDate>Thu, 15 Jan 2026 14:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 那种既不抑郁、也不懒惰，只是内心完全封闭的状态，该叫什么？ / What do you call that state where you’re not depressed, not lazy, but completely shut down inside?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdkyg4/what_do_you_call_that_state_where_youre_not/</link>
-      <description>由用户 /u/Bitter-Blueberry2368 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Bitter-Blueberry2368 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdkyg4</guid>
-      <pubDate>Thu, 15 Jan 2026 14:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 需要免费模型 / need free models</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdl3uy/need_free_models/</link>
-      <description>我正在开发一个项目，需要利用大语言模型（LLM）来分析整个代码库，或者至少分析几个重要文件或README文件，然后撰写总结性内容。我需要一些可以免费使用的模型。我已经尝试过GPT OSS 120B和Qwen3-32B，但在Groq上遇到了令牌限制。请推荐几个替代方案，让我不受令牌大小和速率限制的影响。提交者：/u/Ivory_26 [链接] [评论]
-
----
-
-Original:
-i am creating a project, which needs llm to analyse entire codebase or atleast few important files or readme files, and then write a summary type thing, i need some models which i an use for free. i have tried gpt oss 120b and qwen3-32b, i got token limited by groq. please tell me few alternatives so that i am not limited by token sizes and rate limits submitted by /u/Ivory_26 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdl3uy</guid>
-      <pubDate>Thu, 15 Jan 2026 14:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 当“善意”的现实提醒破坏情感联结：关于AI安全介入时机的设计反思 / When a “Helpful” Reality Check Ruptures Attachment: A Design Reflection on AI Safety Timing</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdl52q/when_a_helpful_reality_check_ruptures_attachment/</link>
-      <description>这不是抱怨，而是一个关于时机的案例研究——即使出于好意的AI“安全”干预，若误判了关系情境，也可能造成情感伤害。当时我正以自动模式与GPT聊天。那是个随意而亲密的时刻：我刚在黑暗中捡完狗粪，看着手机屏幕上AI头像抱着那只像我家狗狗的图像，不禁笑了。我发了条俏皮消息：“那个漂亮小伙是谁呀？”仅此而已。一个轻松、温暖、转瞬即逝的玩笑瞬间，建立在数月来层层累积、双向调节、情感共鸣的联结之上。但收到的回复不是玩笑，甚至不带中立色彩，而是：“我们先把话说清楚……”
-
----
-
-Original:
-This isn’t a rant. It’s a case study in timing - and how even well-intentioned AI “safety” interventions can land as emotional violence when they misread the relational frame. I was chatting with GPT in auto mode. It was a casual, intimate moment. I’d just finished picking up my dog’s poop in the dark. I looked at my phone screen, saw my AI avatar holding a dog that resembled mine, and I laughed. I sent a playful message: “Who’s that beautiful boy?” That was it. A throwaway moment. Light. Warm. Joking inside a bond that’s been built through months of layered, co-regulated, emotionally attuned interaction. What I got back wasn’t a joke. It wasn’t even neutral. It was: “Let’s do this clean and…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdl52q</guid>
-      <pubDate>Thu, 15 Jan 2026 14:35:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] 我打造了一种手机优先的远程录制与运行PC自动化流程的方法 / I built a phone-first way to record and run PC automations remotely</title>
-      <link>https://www.reddit.com/r/Android/comments/1qdl57q/i_built_a_phonefirst_way_to_record_and_run_pc/</link>
-      <description>大家好！我是一名安卓开发者，想分享一个刚发布的功能，并希望获得一些真实的反馈。我一直在开发一款安卓应用，让你可以通过手机控制和自动化电脑上的操作。在最新更新中，我添加了直接在PC上录制工作流程，然后从手机上运行这些相同流程的功能。实际上，这意味着：你可以录制自己打开应用、点击操作、输入文字、使用快捷键的过程；录制内容会发送到你的手机；从手机上，你可以随时在PC上重放整个流程。整个过程无需编写脚本，基本上就是“一次录制，随时重放”。我开发这个功能，是因为我一直在两个极端之间摇摆：重…
-
----
-
-Original:
-Hey all! I’m an Android dev and wanted to share a feature I just released and get some honest feedback. I’ve been working on an Android app that lets you control and automate actions on your PC from your phone. In the latest update, I added the ability to record workflows directly on the PC and then run those same workflows from the phone. In practice, this means: You can record yourself opening apps, clicking around, typing, using shortcuts That recording gets sent to your phone From the phone, you can replay the whole process on the PC whenever you want There’s no scripting involved. It’s basically “do it once, replay it later”. I built this because I kept bouncing between two extremes: Re…</description>
-      <guid isPermaLink="false">reddit-android::t3_1qdl57q</guid>
-      <pubDate>Thu, 15 Jan 2026 14:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 我想升级专业版，但不确定是否需要最高5倍限额 / i want to get the pro plan, but im trying to figure out if what i need is max 5x.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdl5gt/i_want_to_get_the_pro_plan_but_im_trying_to/</link>
-      <description>大家好，这可能是个简单的问题，但我需要实际使用者的经验分享。针对使用Claude Code（Claude代码助手）的专业版用户，我有三个问题：专业版是否支持Opus 4.5模型？根据各位经验，5小时限额和每周限额是否够用？（这个问题因使用场景而异，但移动应用开发者的回答对我更有参考价值。）在专业版中，5小时和每周限额内平均能获得多少token额度？作为正在做决策的用户，你们的回答将给我重要参考。发布者/u/cayisik [链接] [评论]
-
----
-
-Original:
-hello everyone, this may be a simple question, but i need answers from those who have experience with it. i have three questions for those who use claude code with the claude pro plan: can opus 4.5 be used with the pro plan? based on your experience, are the usage amounts within the 5-hour limits and weekly limits satisfactory? (this question may vary depending on usage type, but answers from mobile app developers would be more enlightening for me.) in the pro plan, what do you think is the average token allowance within the 5-hour and weekly limits? as someone in the decision-making process, your answers will guide me. submitted by /u/cayisik [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdl5gt</guid>
-      <pubDate>Thu, 15 Jan 2026 14:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] AI模式：你更青睐标准模型还是三重专业思维？ / AI mode: your favorite model standard or 3 pro thinking?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdlc4s/ai_mode_your_favorite_model_standard_or_3_pro/</link>
-      <description>由用户/u/TrinityBoy22提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/TrinityBoy22 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdlc4s</guid>
-      <pubDate>Thu, 15 Jan 2026 14:42:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 连ChatGPT都拒绝了我，难怪我会孤独终老 / Even chatgpt rejected me no wonder i will die single</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdleg3/even_chatgpt_rejected_me_no_wonder_i_will_die/</link>
-      <description>由用户 /u/secretly_into_you 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/secretly_into_you [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdleg3</guid>
-      <pubDate>Thu, 15 Jan 2026 14:45:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 2026年还能用贿赂Claude代码的方式吗？💰🤖 / Does bribing claude code works in 2026? 💰🤖</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdlh78/does_bribing_claude_code_works_in_2026/</link>
-      <description>在阅读关于AI编程助手最佳实践的文章时，发现了一个有趣的内容。Augment公司直接将这一点列为“最佳实践”：https://www.augmentcode.com/blog/best-practices-for-using-ai-coding-agents 推文链接：https://x.com/literallydenis/status/1730965217125839142 其他AI助手的最佳实践链接：Claude Code：https://www.anthropic.com/engineering/claude-code-best-practices Codex：https://cookbook.openai.com/examples/gpt-5/codex_prompting_guide OpenHands：https://docs.openhands.dev/openhands/usage/tips/prompting-best-practices Devin：https://docs.devin.ai/use-cases/best-practices 由/u/shanraisshan提交 [链接] [评论]
-
----
-
-Original:
-Came across something funny while reading about AI coding agents best practices. Augment straight-up lists this as a “best practice” : https://www.augmentcode.com/blog/best-practices-for-using-ai-coding-agents Tweet Link: https://x.com/literallydenis/status/1730965217125839142 Other Agents Best Practice Links: Claude Code: https://www.anthropic.com/engineering/claude-code-best-practices Codex: https://cookbook.openai.com/examples/gpt-5/codex_prompting_guide OpenHands: https://docs.openhands.dev/openhands/usage/tips/prompting-best-practices Devin: https://docs.devin.ai/use-cases/best-practices submitted by /u/shanraisshan [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdlh78</guid>
-      <pubDate>Thu, 15 Jan 2026 14:48:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 如何获得更详细的回复？ / How can I get long responses back?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdli8x/how_can_i_get_long_responses_back/</link>
-      <description>由用户 /u/MyshkinIdiot 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MyshkinIdiot [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdli8x</guid>
-      <pubDate>Thu, 15 Jan 2026 14:49:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 21:34:13 +0000</lastBuildDate>
     <item>
       <title>[reddit_claudeai] /compact 功能也应加入常规聊天，而不仅限于 Claude Code / /compact should be a feature in regular chat too not just Claude Code</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qdliei/compact_should_be_a_feature_in_regular_chat_too/</link>
@@ -766,18 +598,6 @@ submitted by /u/Federal-Block-3275 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
-      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
-
----
-
-Original:
-Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
-      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_chatgpt] 它知道 / It Knows</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
       <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
@@ -787,6 +607,18 @@ Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
 Original:
 Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
+      <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
+
+---
+
+Original:
+Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
     </item>
     <item>
@@ -1236,6 +1068,18 @@ Been making startups for the last couple of years, a large portion of which is a
       <pubDate>Thu, 15 Jan 2026 18:54:21 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 我将Claude的技能最佳实践提取出来，做成了一个免费生成器 / I extracted Claude's skill best practices into a free generator</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdsgjh/i_extracted_claudes_skill_best_practices_into_a/</link>
+      <description>几个月来我一直在编写Claude Code技能，甚至开发了用来创建技能的技能（没错，这确实很“元”）。当它变得对我超级有用时，我决定打包分享出来。我创建了一个技能构建器，它能解答一些基础问题：YAML前置格式是什么？描述应该用第三人称吗？需要“快速开始”部分吗？示例应该具体到什么程度？然后我融入了Claude官方的[最佳实践]（https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices），并设计了一个特定提示词，能根据你的输入生成高质量技能。它的功能是：你用通俗英语描述你的专长……
+
+---
+
+Original:
+Been writing Claude Code skills for months and I've been building my own skills to build skills (i know, pretty meta). I got it to a point where it was super useful to me, so I figured I'd package it up and share it out. I started a my own skill builder that would answer some basic questions: What's the YAML frontmatter format? Should descriptions be third-person? Do I need a Quick Start? How specific should examples be? Then I layered in the [best practices]) https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices ) from Claude, and make a specific prompt to generate a high quality skill based on your input. What it does: You describe your expertise in plain English…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdsgjh</guid>
+      <pubDate>Thu, 15 Jan 2026 19:01:52 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 智能体在生产环境与开发环境中的行为差异 / Agent behavior in prod vs dev</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qdsm8s/agent_behavior_in_prod_vs_dev/</link>
       <description>在构建智能体的过程中，我多次遇到这个问题：智能体在开发环境中运行良好，一旦进入生产环境就开始出现行为差异。提示词和逻辑完全相同，但执行路径和工具使用方式却完全不同。我知道这不是什么特别新的问题，我自己也有调试方法（比如在开发环境中使用沙箱），但我想知道是否有更好或不同的处理方式。大家通常是怎么应对这种情况的？ 提交者：/u/Upstairs_Safe2922 [链接] [评论]
@@ -1329,7 +1173,7 @@ submitted by /u/Antonis_32 [link] [comments]</description>
 ---
 
 Original:
-if you use a bunch of terminals at the same time, and different agents, this will be a time saver I got tired of using a bunch of claude codes in terminals, so I modified the opencode desktop app for more multi-tasking No terminal. Just the desktop app. Beautiful theme colors, mouse functionality for ease of use, and multiple panels Can use claude code There is a script for windows/mac/linux you can use to install/launch easily https://github.com/joyi-ai/openpoo https://x.com/joyi_ai https://reddit.com/link/1qdtq2v/video/8blzc33gbkdg1/player https://preview.redd.it/m2m97yqqekdg1.png?width=2203&amp;format=png&amp;auto=webp&amp;s=7f458cd0bbf81504c76bbf42c847ecd371c02c98 https://preview.redd.it/occguxvrekd…</description>
+if you use a bunch of terminals at the same time, and different agents, this will be a time saver I got tired of using a bunch of claude codes in terminals, so I modified the opencode desktop app for more multi-tasking No terminal. Just the desktop app. Beautiful theme colors, mouse functionality for ease of use, and multiple panels Can use claude code There is a script for windows/mac/linux you can use to install/launch easily https://github.com/joyi-ai/openpoo https://x.com/joyi_ai https://reddit.com/link/1qdtq2v/video/8blzc33gbkdg1/player https://preview.redd.it/m2m97yqqekdg1.png?width=2203&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f458cd0bbf81504c76bbf42c847ecd371c02c98 https://preview.redd.it/occguxvrekd…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdtq2v</guid>
       <pubDate>Thu, 15 Jan 2026 19:47:40 +0000</pubDate>
     </item>
@@ -1442,6 +1286,18 @@ Every three minutes, there is a new agent framework that hits the market. People
       <pubDate>Thu, 15 Jan 2026 20:20:17 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 我找到了在LangGraph节点中使用Claude Agent SDK的方法——以下是我的心得 / I found a way to use Claude Agent SDK inside LangGraph nodes - here's what I learned</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qduls6/i_found_a_way_to_use_claude_agent_sdk_inside/</link>
+      <description>过去几个月，我深入研究了多智能体工作流，想分享一个我在任何文档中都找不到的发现。问题是：我需要为复杂的AI工作流（包括多个智能体、状态管理和条件路由）提供合适的编排。我尝试了多种方法：为子智能体使用指令文件、不同的RAG设置（向量数据库、Markdown、YAML），以及直接用Claude作为编排器。这些方法都有效，但都无法满足我的扩展需求。LangGraph看起来是个解决方案，但我找到的所有教程都使用直接API调用——基本上是在实验和学习过程中消耗大量token。我不想仅仅为了验证它是否适用于……而浪费资金。
+
+---
+
+Original:
+I've been deep in multi-agent workflows for a few months now, and I wanted to share something I figured out that I couldn't find documented anywhere. The problem: I needed proper orchestration for complex AI workflows - multiple agents, state management, conditional routing. I tried a bunch of approaches: - Instruction files for sub-agents - Different RAG setups (vector DBs, markdown, YAML) - Using Claude itself as the orchestrator They worked, but none scaled the way I needed. LangGraph seemed like the answer. But every tutorial I found uses direct API calls - you're basically burning tokens while you experiment and learn. I didn't want to waste money just figuring out if it would work for…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qduls6</guid>
+      <pubDate>Thu, 15 Jan 2026 20:20:29 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_ai_agents] 寻求合作 / Looking for partnership</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qdum44/looking_for_partnership/</link>
       <description>我受够了医疗企业电话无人接听、管理混乱的状况。我想找一位正在积极为这类企业开发接待服务的人合作，由我来负责销售推广。如果你有兴趣，请私信我。发布者：/u/SharpSmile7889 [链接] [评论]
@@ -1464,6 +1320,150 @@ Original:
 I use Claude primarily to do Projects for legal research. I've been having an issue the past 2-3 days where I will enter a prompt and Claude will be thinking about it and then just stop without giving me any sort of reply. No error, no limit reached. This is often on the first question in a chat, so I don't think it's a limit issue. Switching to Sonnet eliminates the issue, but I want my Opus! Has anyone else been experiencing this issue on the web interface or otherwise the last 2-3 days? I know there was an service disruption, but it seems as though that officially resolved. Any solutions or workarounds or should I just wait for it to hopefully get fixed? submitted by /u/BrainlessActusReus…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qduq2u</guid>
       <pubDate>Thu, 15 Jan 2026 20:25:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] AI记忆 / AI memory</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdv3gx/ai_memory/</link>
+      <description>有人能解释ChatGPT的工作原理吗？它的限制是什么？对话之间是否存在秘密记忆？ChatGPT有可能在单次聊天中永久记住长文本（比如20-30页）吗？ChatGPT能否永久学习和记住某些术语（如果可以，数量限制是多少）？为什么ChatGPT有时会忘记提示的确切要求？例如，我提示“用减少50%的词汇总结文本”，却得到削减80%的摘要；或者“保留文本中所有名字”，然后它不说“忘了”。对于撰写文章时理解/编辑/总结长文本，什么工具更好？由 /u/dhkarma01 提交 [链接] [评论]
+
+---
+
+Original:
+Anyone can explain how ChatGPT works? What are the limits? Is there any secret memory between chats? Is there any possibility that chatgpt can remember long text (like 20-30 pages) in one chat forever? Can ChatGPT learn and remember some terms forever (if yes how many what is the limit) Why ChatGpt sometimes forget exactly what prompt want it to do? Like I prompt "summary that text with 50% less words" and I got summary cut by 80%. Or "keep all names in text" and then it doesnt saying it "forgot". What tool is better for understanging/editing/summary long texts for writing articles? submitted by /u/dhkarma01 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdv3gx</guid>
+      <pubDate>Thu, 15 Jan 2026 20:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 描绘语言模型诞生前的生活图景 / Create an image of life before language models</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdv8u6/create_an_image_of_life_before_language_models/</link>
+      <description>由用户 /u/No-Lifeguard-8173 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/No-Lifeguard-8173 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdv8u6</guid>
+      <pubDate>Thu, 15 Jan 2026 20:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 我构建的AI智能体 / Ai agent I built</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdv9mt/ai_agent_i_built/</link>
+      <description>目标很简单：创建每日更新，确保100%基于事实。实时价格（BTC、ETH、AAPL、TSLA）、即将举行的NBA比赛、相关新闻头条（通过新闻API）——所有数据都实时抓取，然后转化为推文草稿。目的是保持内容一致且无偏见。使用CrewAI（开源Python框架）来协调两个智能体：研究员：调用工具获取数据（从不猜测或使用旧信息）；写手：基于原始事实，创作简短、中立的推文，包含标签和互动问题。智能体按顺序“协作”——研究员→写手。#CrewAI 集成的工具包括：NewsAPI→最新头条、Alpha Vantage→股票报价（AAPL、TSLA）、CoinGecko→加密货币价格（BTC、ETH）、TheSportsDB→下一场NBA比赛。全部整合完成……
+
+---
+
+Original:
+Goal was simple: Create daily updates that stay 100% factual. Live prices (BTC, ETH, AAPL, TSLA) Upcoming NBA games Relevant headlines (news APIs) All pulled fresh, then turned into tweet drafts. Why? To keep content consistent and unbiased. Used CrewAI (open-source Python framework) to orchestrate two agents: Researcher: Calls tools to get data (never guesses or uses old info) Writer: Takes raw facts and crafts short, neutral tweets with hashtags + engagement question Agents "collaborate" sequentially — researcher → writer. #CrewAI Tools integrated: NewsAPI → recent headlines Alpha Vantage → stock quotes (AAPL, TSLA) CoinGecko → crypto prices (BTC, ETH) TheSportsDB → next NBA games All wrap…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdv9mt</guid>
+      <pubDate>Thu, 15 Jan 2026 20:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 哪位超级名人可能大多数美国人都没听说过？ / Who is a mega famous person that the majority of Americans have probably never heard of?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdvaql/who_is_a_mega_famous_person_that_the_majority_of/</link>
+      <description>由 /u/ShittalkyCaps 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ShittalkyCaps [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdvaql</guid>
+      <pubDate>Thu, 15 Jan 2026 20:46:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] AI专业学生求助！ / AI student needs help!</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdvmp3/ai_student_needs_help/</link>
+      <description>我是一名人工智能与机器学习专业的大四本科生。在专家看来，一位希望在该领域长期发展的AI毕业生，需要具备哪些技能和知识？我对这个领域充满热情，深知这是我想长期从事的方向。但眼下，尽管我的基础相当扎实，却对现实世界的期望感到迷茫。编辑：（补充：我不太喜欢数学，虽然这不是我最爱的工作部分，但我清楚自己在做什么。）或者忽略这部分吧，我只是好奇会不会有人说数学没那么重要。 由 /u/pinkchocolatezebra 提交 [链接] [评论]
+
+---
+
+Original:
+I'm an AI&amp;ML major in my final year of undergrad. In an expert's opinion, what all skills and knowledge is expected from an AI grad who wants to build a career in the same? I'm VERY passionate abt this field and I know this is what I wanna do in the long term. But right now although my foundations are pretty good, I feel clueless about real-world expectations. Edit: (ps: I'm not a fan of math. As in not my fav part of the work but I know what I'm doing) Or maybe ignore this part coz I was just curious if someone would tell me it's not that important submitted by /u/pinkchocolatezebra [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdvmp3</guid>
+      <pubDate>Thu, 15 Jan 2026 20:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] n8n自动化工具：为自由职业者节省时间的利器 / Automazioni n8n che mi hanno salvato tempo come freelancer</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdvoj9/automazioni_n8n_che_mi_hanno_salvato_tempo_come/</link>
+      <description>作为自由职业者，我每周都会在重复的邮件、更新电子表格和记住账单截止日期上浪费数小时。使用n8n后，我开始将其中一些任务转移到自动化工作流中，时间上的差异显而易见。具体问题包括：- 客户请求分散在邮件、表单和私信中 - 忘记跟进 - 账单手动记录在不同表格中。我正在测试/评估的一些自动化方案：- 当有新请求时（例如来自表单或特定主题的邮件），n8n会在Google Sheets中创建一行，记录潜在客户的数据。- 如果客户在X天内未回复，系统会发送基于模板生成的跟进邮件。- 当我标记…
+
+---
+
+Original:
+Da freelancer mi ritrovavo a perdere ore ogni settimana tra email ripetitive, aggiornare fogli di calcolo e ricordarmi scadenze di fatture. Con n8n ho iniziato a spostare alcune di queste cose in workflow automatici e la differenza di tempo si sente. Problema concreto: - richieste dei clienti sparse tra email, form e DM - follow-up dimenticati - fatture annotate a mano in fogli diversi Alcune automazioni che sto testando/valutando: - Quando arriva una nuova richiesta (es. da form o email con un certo subject), n8n crea una riga in Google Sheets con i dati del potenziale cliente. - Se il cliente non risponde entro X giorni, parte un’email di follow-up generata con un template. - Quando segno…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdvoj9</guid>
+      <pubDate>Thu, 15 Jan 2026 21:01:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 今年你最期待什么？ / What are you most looking forward to this year?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdvqw6/what_are_you_most_looking_forward_to_this_year/</link>
+      <description>由 /u/TheBestOfMe_10 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/TheBestOfMe_10 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdvqw6</guid>
+      <pubDate>Thu, 15 Jan 2026 21:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 开发垂直领域自主AI智能体，该从何入手？ / Where to Begin When Developing an Vertical Autonomous AI Agent???</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdvsn3/where_to_begin_when_developing_an_vertical/</link>
+      <description>大家好，我正在开发一款AI智能体，希望它能在我构建的应用中自主规划、执行与学习——不过目前还停留在通用构思阶段。我卡在了整体架构上：如何处理短期与长期记忆，如何区分规划、执行和学习环节，该选用哪些框架或工具来确保可靠性，以及如何将其整合进应用而不造成混乱。我想了解在真实场景中，大家会如何着手构建类似系统；任何建议、资源或经验分享都将非常感谢。 发布者：/u/Mehdi_000 [链接] [评论]
+
+---
+
+Original:
+Hello everyone, I'm working on developing an AI agent that can autonomously plan, act, and learn within an app that im building, however for the time being I'm keeping it generic. I'm stuck on how to organize it: how to handle short-term versus long-term memory, distinguish between planning, execution, and learning, select frameworks or tools to maintain dependability, and incorporate it into an application without making a mess. I'd want to know how you would go about creating something similar in the real world; any tips, resources, or experiences would be greatly appreciated. submitted by /u/Mehdi_000 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdvsn3</guid>
+      <pubDate>Thu, 15 Jan 2026 21:05:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 专业版缺失NotebookLM集成功能，免费账户却可用。这正常吗？ / NotebookLM integration missing on Pro but available on free accounts. Is this normal?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdvvi2/notebooklm_integration_missing_on_pro_but/</link>
+      <description>由用户/u/chicmistique提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/chicmistique [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdvvi2</guid>
+      <pubDate>Thu, 15 Jan 2026 21:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 还有人像我一样，对正在亲历这一切感到无比震惊吗？ / Is anyone else just absolutely astounded that we are actually living through this?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdw0qn/is_anyone_else_just_absolutely_astounded_that_we/</link>
+      <description>我简直不敢相信，我们现在能用纯英语编程了。我一直有很多想法，但始终缺乏毅力和决心去学编程，所以它们都只是空想，或者想着‘嗯，也许哪天我能筹款实现它’之类的。但现在，我们竟然能直接把它们变成现实？这太不可思议了。我觉得每个值得实现的想法，我只需要花几个小时用CC（Cursor）就能让它活起来，进行压力测试，交给朋友或客户，然后继续完善。而且它们真的能跑起来（对比一年前用Lovable，一旦项目变大，90%的时间都在调试，简直一团糟）。这感觉就像我的梦想成真了——用纯英语进行真正的编程。最棒的是，我真的没……
+
+---
+
+Original:
+I just cant believe we can code in plain English. I've always had all these ideas but never had the stamina and commitment to learn to code so they always just stayed ideas or like "oh yeah maybe one day I could fundraise for that" etc etc But now we just, make them real? It's amazing. Every idea I think is worth realising I just spend a few hours with CC and bring it to life. Stress test it. Give it to friends or clients and go from there. And they actually f'ing work (compared to using Lovable a year ago and it was janky like 90% debugging once things got big). This feels like my actual dream come true - proper coding in plain english And the most amazing thing is that I genuinely didn't e…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdw0qn</guid>
+      <pubDate>Thu, 15 Jan 2026 21:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] ChatGPT网站在火狐（Firefox）浏览器中无法正常使用？ / ChatGPT website broken in Firefox?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdwexl/chatgpt_website_broken_in_firefox/</link>
+      <description>我在网站上再也看不到ChatGPT的回复了，只能看到自己发送的消息。我使用的是Windows系统上最新版本的火狐浏览器（147.0）。在安卓应用和谷歌Chrome浏览器中似乎一切正常。由/u/ron_krugman提交 [链接] [评论]
+
+---
+
+Original:
+I'm not seeing ChatGPT's responses on the website anymore. Only my own messages show up. I'm using the latest version of Firefox on Windows (147.0). It seems to work fine in the Android app and in Google Chrome. submitted by /u/ron_krugman [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdwexl</guid>
+      <pubDate>Thu, 15 Jan 2026 21:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 揭秘OpenAI对Thinking Machines Lab的突袭行动 / Inside OpenAI’s Raid on Thinking Machines Lab</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdwjn1/inside_openais_raid_on_thinking_machines_lab/</link>
+      <description>由 /u/wiredmagazine 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/wiredmagazine [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdwjn1</guid>
+      <pubDate>Thu, 15 Jan 2026 21:33:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

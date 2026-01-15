@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 20:38:34 +0000</lastBuildDate>
-    <item>
-      <title>我真是受够了这条错误信息 ):&lt; / I hate this error message so much ):&lt;</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qb09zt/i_hate_this_error_message_so_much/</link>
-      <description>我觉得新建一个并不能保存所有记忆！！！！ 由 /u/Cold_Recipe_9007 提交 [链接] [评论]
-
----
-
-Original:
-i dont think starting a new one saves all the memories!!!! submitted by /u/Cold_Recipe_9007 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qb09zt</guid>
-      <pubDate>Mon, 12 Jan 2026 16:56:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>5.2 在“思考”输出中自嘲的笑话 / 5.2 jokes to itself in "thinking" output</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qb5mse/52_jokes_to_itself_in_thinking_output/</link>
-      <description>https://preview.redd.it/ofo7jqg36zcg1.png?width=639&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=97b21bf5b1799f45c2ac8f81019f42c64dc896d0 一个可爱的小双关！由 /u/gowner_graphics 提交 [链接] [评论]
-
----
-
-Original:
-https://preview.redd.it/ofo7jqg36zcg1.png?width=639&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=97b21bf5b1799f45c2ac8f81019f42c64dc896d0 A cute little pun! submitted by /u/gowner_graphics [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qb5mse</guid>
-      <pubDate>Mon, 12 Jan 2026 20:06:17 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 21:33:13 +0000</lastBuildDate>
     <item>
       <title>官方确认！ / It’s official!</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qb7awl/its_official/</link>
@@ -1452,6 +1428,30 @@ Original:
 submitted by /u/BinkyDinkie [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qduaw2</guid>
       <pubDate>Thu, 15 Jan 2026 20:09:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>描绘语言模型诞生前的生活图景 / Create an image of life before language models</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdv8u6/create_an_image_of_life_before_language_models/</link>
+      <description>由用户 /u/No-Lifeguard-8173 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/No-Lifeguard-8173 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdv8u6</guid>
+      <pubDate>Thu, 15 Jan 2026 20:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT网站在火狐（Firefox）浏览器中无法正常使用？ / ChatGPT website broken in Firefox?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdwexl/chatgpt_website_broken_in_firefox/</link>
+      <description>我在网站上再也看不到ChatGPT的回复了，只能看到自己发送的消息。我使用的是Windows系统上最新版本的火狐浏览器（147.0）。在安卓应用和谷歌Chrome浏览器中似乎一切正常。由/u/ron_krugman提交 [链接] [评论]
+
+---
+
+Original:
+I'm not seeing ChatGPT's responses on the website anymore. Only my own messages show up. I'm using the latest version of Firefox on Windows (147.0). It seems to work fine in the Android app and in Google Chrome. submitted by /u/ron_krugman [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdwexl</guid>
+      <pubDate>Thu, 15 Jan 2026 21:28:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

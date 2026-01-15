@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 20:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 21:33:56 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1376,6 +1376,30 @@ Original:
 New AI computer TiinyAI was featured by Mashable. It is a smartphone-sized device for local AI processing. It features 80GB RAM and 1TB SSD storage, runs 120B LLMs offline on 30W without getting hot. It is designed to replace token fees with a one-time hardware purchase. Here's the source: https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer submitted by /u/npc_gooner [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdrwcd</guid>
       <pubDate>Thu, 15 Jan 2026 18:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI记忆 / AI memory</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdv3gx/ai_memory/</link>
+      <description>有人能解释ChatGPT的工作原理吗？它的限制是什么？对话之间是否存在秘密记忆？ChatGPT有可能在单次聊天中永久记住长文本（比如20-30页）吗？ChatGPT能否永久学习和记住某些术语（如果可以，数量限制是多少）？为什么ChatGPT有时会忘记提示的确切要求？例如，我提示“用减少50%的词汇总结文本”，却得到削减80%的摘要；或者“保留文本中所有名字”，然后它不说“忘了”。对于撰写文章时理解/编辑/总结长文本，什么工具更好？由 /u/dhkarma01 提交 [链接] [评论]
+
+---
+
+Original:
+Anyone can explain how ChatGPT works? What are the limits? Is there any secret memory between chats? Is there any possibility that chatgpt can remember long text (like 20-30 pages) in one chat forever? Can ChatGPT learn and remember some terms forever (if yes how many what is the limit) Why ChatGpt sometimes forget exactly what prompt want it to do? Like I prompt "summary that text with 50% less words" and I got summary cut by 80%. Or "keep all names in text" and then it doesnt saying it "forgot". What tool is better for understanging/editing/summary long texts for writing articles? submitted by /u/dhkarma01 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdv3gx</guid>
+      <pubDate>Thu, 15 Jan 2026 20:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>揭秘OpenAI对Thinking Machines Lab的突袭行动 / Inside OpenAI’s Raid on Thinking Machines Lab</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdwjn1/inside_openais_raid_on_thinking_machines_lab/</link>
+      <description>由 /u/wiredmagazine 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/wiredmagazine [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdwjn1</guid>
+      <pubDate>Thu, 15 Jan 2026 21:33:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

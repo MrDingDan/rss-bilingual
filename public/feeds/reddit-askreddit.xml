@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_askreddit (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 20:39:26 +0000</lastBuildDate>
-    <item>
-      <title>你有多少个穿孔和纹身？ / What is the amount of piercings and tattoos you have?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbwtra/what_is_the_amount_of_piercings_and_tattoos_you/</link>
-      <description>由 /u/PsychologicalFox7689 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/PsychologicalFox7689 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbwtra</guid>
-      <pubDate>Tue, 13 Jan 2026 17:10:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>你是否经常看到一条帖子，心想“天啊，我有个绝妙的回复！”，然后才发现这帖子已经是五天前发的了？ / How often do you see a post, say, "man, I have the perfect response!", then realize the post is 5 days old?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qbxjv5/how_often_do_you_see_a_post_say_man_i_have_the/</link>
-      <description>由 /u/Marmooset 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Marmooset [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qbxjv5</guid>
-      <pubDate>Tue, 13 Jan 2026 17:36:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 21:34:10 +0000</lastBuildDate>
     <item>
       <title>你是什么时候意识到，仅有爱是不够的？ / At what point did you realize love alone isn’t enough?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qbxpl1/at_what_point_did_you_realize_love_alone_isnt/</link>
@@ -1446,6 +1422,30 @@ Original:
 submitted by /u/SprinklesGullible674 [link] [comments]</description>
       <guid isPermaLink="false">reddit-askreddit::t3_1qds100</guid>
       <pubDate>Thu, 15 Jan 2026 18:46:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>哪位超级名人可能大多数美国人都没听说过？ / Who is a mega famous person that the majority of Americans have probably never heard of?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdvaql/who_is_a_mega_famous_person_that_the_majority_of/</link>
+      <description>由 /u/ShittalkyCaps 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/ShittalkyCaps [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdvaql</guid>
+      <pubDate>Thu, 15 Jan 2026 20:46:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>今年你最期待什么？ / What are you most looking forward to this year?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdvqw6/what_are_you_most_looking_forward_to_this_year/</link>
+      <description>由 /u/TheBestOfMe_10 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/TheBestOfMe_10 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdvqw6</guid>
+      <pubDate>Thu, 15 Jan 2026 21:03:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

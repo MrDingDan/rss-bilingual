@@ -6,55 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 20:38:16 +0000</lastBuildDate>
-    <item>
-      <title>大语言模型评估：关键不在准确率，而在于选取合适的信号 / LLM Evaluation Isn’t About Accuracy Its About Picking the Right Signal</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbpjhn/llm_evaluation_isnt_about_accuracy_its_about/</link>
-      <description>评估大语言模型听起来简单，但当你真正尝试在现实系统中衡量它们时，就会发现并非如此。仅凭准确率，很少能告诉你一个模型是否有用、可信，或者是否符合用户需求。不同的任务需要不同的信号——翻译、摘要、问答、推理和检索，如果用错了衡量标准，这些任务都会出问题。困惑度（Perplexity）对语言建模很有用，但对终端用户来说毫无意义。BLEU、ROUGE和METEOR在重叠度重要时能提供帮助，但当存在多个有效答案时就会失效。BERTScore更接近语义理解，但仍无法检测幻觉（hallucinations）。当涉及细微差别、清晰度或实用性时，人工评估依然必不可少，但它缓慢且昂贵。T…
-
----
-
-Original:
-Evaluating LLMs sounds simple until you actually try to measure them in real-world systems. Accuracy alone rarely tells you whether a model is useful, trustworthy or aligned with what users need. Different tasks demand different signals translation, summarization, Q&amp;amp;A, reasoning and retrieval all break if you judge them with the wrong metric. Perplexity is great for language modeling but meaningless for end users. BLEU, ROUGE and METEOR help when overlap matters but fail when multiple answers are valid. BERTScore moves closer to semantic understanding, but still can’t detect hallucinations. Human evaluation stays essential when nuance, clarity or utility matters but its slow and expensive. T…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbpjhn</guid>
-      <pubDate>Tue, 13 Jan 2026 12:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>寻求合作 / Need Assistance</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbpxlp/need_assistance/</link>
-      <description>你好，我计划向企业销售AI语音机器人，希望寻找合作伙伴共同为客户开发。当然，我会提供优厚报酬。如果有人愿意教我制作方法，同样欢迎，我们可以通过Zoom或其他合适平台进行交流。我拥有GO HIGH LEVEL平台，但对数字技术和AI领域还比较陌生，仍在学习中。感谢你的时间。发布者：/u/Fortemuito [链接] [评论]
-
----
-
-Original:
-Hello, I want to start selling AI voice bots to businesses. I want someone to partner with me to make them for customers. Of course I will pay good. I would also like someone to teach me to make them. If someone just wants to teach me, that would work too, and we could do it over zoom or whatever platform works best. I have GO HIGH LEVEL but I am new to digital technologies/AI so still learning. Thank you for your time. submitted by /u/Fortemuito [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbpxlp</guid>
-      <pubDate>Tue, 13 Jan 2026 12:23:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>热评：AI无需更聪明，关键在于可管控 / Hot take: AI doesn't need to get smarter. It needs to get governable.</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbq5ax/hot_take_ai_doesnt_need_to_get_smarter_it_needs/</link>
-      <description>当前关于AI的讨论总陷在'如何让它更聪明、更快、更自主'的循环里，但真正的瓶颈其实是'如何在关键领域安全应用它'。所有人都在追逐通用人工智能（AGI），可医院连基础诊断助手都无法部署——因为无法审核其决策逻辑；工厂不敢把AI植入机器人——因为无法证明它不会产生危险动作幻觉；银行不能用它提供客户建议——因为监管要求结果可复现。关键在于以工具视角看待AI：台锯不需要懂木工，但它必须配有防护罩、紧急开关和熟练的操作员。这并非比AGI缺乏野心——正是这种可控性，才能让AI真……
-
----
-
-Original:
-The entire AI discourse is stuck on "how do we make it smarter / faster / more autonomous" when the actual bottleneck is "how do we make it usable in contexts where failure matters." Everyone's racing toward AGI while hospitals can't deploy a basic diagnostic assistant because they can't audit it. Factories can't put AI in robots because they can't prove it won't hallucinate a movement. Banks can't use it for customer-facing advice because regulators need reproducibility. The tool framing is the whole point. A table saw doesn't need to understand carpentry. It needs guards, a kill switch, and an operator who knows what they're doing. That's not less ambitious than AGI — it's what makes AI ac…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbq5ax</guid>
-      <pubDate>Tue, 13 Jan 2026 12:34:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>实在受够了那些AI视频工具的广告……于是我测试了最常见的几款，看看它们到底行不行 / Soooo tired of AI video tool ads… So I tested most seen ones to see whether they actually work</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbqsb6/soooo_tired_of_ai_video_tool_ads_so_i_tested_most/</link>
-      <description>我的信息流里现在全是些号称“惊艳”的AI工具广告，但实际效果与宣传天差地别。我决定不再只是刷屏，而是真正对其中几款进行了实际压力测试，看看哪些真的管用。以下是我的真实感受：Descript（Descript）通过删除文字来编辑视频，这依然是目前最具“魔力”的体验。如果你做播客、操作流程视频或人物访谈，它能帮你省下大量时间。它主要用于优化已有的内容。Akool（网页版）我花了一点时间才上手。它的换脸效果稳定不出错，虚拟形象不像机器人，口型与配音也能精准匹配。Veo 3 | Google AI Studio（Veo 3 | Google AI Studio）Veo给人的感觉非常强大，……
-
----
-
-Original:
-I’m at the point where my entire feed is just "mind-blowing" AI tools ads slop that look nothing like the actual product. I decided to stop scrolling and actually put a few of them through a real-world stress test to see which ones actually work. Here is my unfiltered take: Descript Editing video by just deleting text is still the most "magic" feeling here. If you’re doing podcasts, SOPs, or talking heads, it’s a massive time-saver. It’s for refining what already exists. Akool (web version) It took a bit longer to click for me. Face swaps that don’t glitch, avatars that don't look like robots, and dubbing that actually matches the lips. Veo 3 | Google AI Studio Veo feels extremely powerful,…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbqsb6</guid>
-      <pubDate>Tue, 13 Jan 2026 13:05:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 21:33:02 +0000</lastBuildDate>
     <item>
       <title>生产级AI智能体的真正挑战：不在模型本身 / The real challenge with production AI agents: it's not the models</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbrtlo/the_real_challenge_with_production_ai_agents_its/</link>
@@ -1464,6 +1416,54 @@ Original:
 I’m tired of medical businesses not answering their phones and lack of organization. I’m looking to partner with someone actively building receptionist for those types of businesses and take on the roll of selling them. If you’re interested message me submitted by /u/SharpSmile7889 [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdum44</guid>
       <pubDate>Thu, 15 Jan 2026 20:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>我构建的AI智能体 / Ai agent I built</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdv9mt/ai_agent_i_built/</link>
+      <description>目标很简单：创建每日更新，确保100%基于事实。实时价格（BTC、ETH、AAPL、TSLA）、即将举行的NBA比赛、相关新闻头条（通过新闻API）——所有数据都实时抓取，然后转化为推文草稿。目的是保持内容一致且无偏见。使用CrewAI（开源Python框架）来协调两个智能体：研究员：调用工具获取数据（从不猜测或使用旧信息）；写手：基于原始事实，创作简短、中立的推文，包含标签和互动问题。智能体按顺序“协作”——研究员→写手。#CrewAI 集成的工具包括：NewsAPI→最新头条、Alpha Vantage→股票报价（AAPL、TSLA）、CoinGecko→加密货币价格（BTC、ETH）、TheSportsDB→下一场NBA比赛。全部整合完成……
+
+---
+
+Original:
+Goal was simple: Create daily updates that stay 100% factual. Live prices (BTC, ETH, AAPL, TSLA) Upcoming NBA games Relevant headlines (news APIs) All pulled fresh, then turned into tweet drafts. Why? To keep content consistent and unbiased. Used CrewAI (open-source Python framework) to orchestrate two agents: Researcher: Calls tools to get data (never guesses or uses old info) Writer: Takes raw facts and crafts short, neutral tweets with hashtags + engagement question Agents "collaborate" sequentially — researcher → writer. #CrewAI Tools integrated: NewsAPI → recent headlines Alpha Vantage → stock quotes (AAPL, TSLA) CoinGecko → crypto prices (BTC, ETH) TheSportsDB → next NBA games All wrap…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdv9mt</guid>
+      <pubDate>Thu, 15 Jan 2026 20:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI专业学生求助！ / AI student needs help!</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdvmp3/ai_student_needs_help/</link>
+      <description>我是一名人工智能与机器学习专业的大四本科生。在专家看来，一位希望在该领域长期发展的AI毕业生，需要具备哪些技能和知识？我对这个领域充满热情，深知这是我想长期从事的方向。但眼下，尽管我的基础相当扎实，却对现实世界的期望感到迷茫。编辑：（补充：我不太喜欢数学，虽然这不是我最爱的工作部分，但我清楚自己在做什么。）或者忽略这部分吧，我只是好奇会不会有人说数学没那么重要。 由 /u/pinkchocolatezebra 提交 [链接] [评论]
+
+---
+
+Original:
+I'm an AI&amp;ML major in my final year of undergrad. In an expert's opinion, what all skills and knowledge is expected from an AI grad who wants to build a career in the same? I'm VERY passionate abt this field and I know this is what I wanna do in the long term. But right now although my foundations are pretty good, I feel clueless about real-world expectations. Edit: (ps: I'm not a fan of math. As in not my fav part of the work but I know what I'm doing) Or maybe ignore this part coz I was just curious if someone would tell me it's not that important submitted by /u/pinkchocolatezebra [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdvmp3</guid>
+      <pubDate>Thu, 15 Jan 2026 20:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>n8n自动化工具：为自由职业者节省时间的利器 / Automazioni n8n che mi hanno salvato tempo come freelancer</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdvoj9/automazioni_n8n_che_mi_hanno_salvato_tempo_come/</link>
+      <description>作为自由职业者，我每周都会在重复的邮件、更新电子表格和记住账单截止日期上浪费数小时。使用n8n后，我开始将其中一些任务转移到自动化工作流中，时间上的差异显而易见。具体问题包括：- 客户请求分散在邮件、表单和私信中 - 忘记跟进 - 账单手动记录在不同表格中。我正在测试/评估的一些自动化方案：- 当有新请求时（例如来自表单或特定主题的邮件），n8n会在Google Sheets中创建一行，记录潜在客户的数据。- 如果客户在X天内未回复，系统会发送基于模板生成的跟进邮件。- 当我标记…
+
+---
+
+Original:
+Da freelancer mi ritrovavo a perdere ore ogni settimana tra email ripetitive, aggiornare fogli di calcolo e ricordarmi scadenze di fatture. Con n8n ho iniziato a spostare alcune di queste cose in workflow automatici e la differenza di tempo si sente. Problema concreto: - richieste dei clienti sparse tra email, form e DM - follow-up dimenticati - fatture annotate a mano in fogli diversi Alcune automazioni che sto testando/valutando: - Quando arriva una nuova richiesta (es. da form o email con un certo subject), n8n crea una riga in Google Sheets con i dati del potenziale cliente. - Se il cliente non risponde entro X giorni, parte un’email di follow-up generata con un template. - Quando segno…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdvoj9</guid>
+      <pubDate>Thu, 15 Jan 2026 21:01:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>开发垂直领域自主AI智能体，该从何入手？ / Where to Begin When Developing an Vertical Autonomous AI Agent???</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qdvsn3/where_to_begin_when_developing_an_vertical/</link>
+      <description>大家好，我正在开发一款AI智能体，希望它能在我构建的应用中自主规划、执行与学习——不过目前还停留在通用构思阶段。我卡在了整体架构上：如何处理短期与长期记忆，如何区分规划、执行和学习环节，该选用哪些框架或工具来确保可靠性，以及如何将其整合进应用而不造成混乱。我想了解在真实场景中，大家会如何着手构建类似系统；任何建议、资源或经验分享都将非常感谢。 发布者：/u/Mehdi_000 [链接] [评论]
+
+---
+
+Original:
+Hello everyone, I'm working on developing an AI agent that can autonomously plan, act, and learn within an app that im building, however for the time being I'm keeping it generic. I'm stuck on how to organize it: how to handle short-term versus long-term memory, distinguish between planning, execution, and learning, select frameworks or tools to maintain dependability, and incorporate it into an application without making a mess. I'd want to know how you would go about creating something similar in the real world; any tips, resources, or experiences would be greatly appreciated. submitted by /u/Mehdi_000 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qdvsn3</guid>
+      <pubDate>Thu, 15 Jan 2026 21:05:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
