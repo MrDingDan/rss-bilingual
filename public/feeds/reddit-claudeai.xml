@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 21:33:45 +0000</lastBuildDate>
-    <item>
-      <title>Claude Cowork初体验视频：Cowork不可逆地删除了我11GB的文件💀 / Claude Cowork 1st impression video: Cowork irreversibly deleted 11GB of my files 💀</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbdk0q/claude_cowork_1st_impression_video_cowork/</link>
-      <description>之前拍摄了Claude Cowork与Claude Code的对比演示，但当Cowork执行了不可逆的rm -rf命令时，演示出了意外。是的，我知道它还在研究预览阶段。不，这些文件并不重要。:) 由/u/JamsusMaximus提交 [链接] [评论]
-
----
-
-Original:
-Filmed a side-by-side comparison of Claude Cowork vs Claude Code earlier, but the demo went sideways when Cowork performed an irreversible rm -rf command. Yes, I know it's in Research Preview. No, the files weren't important. :) submitted by /u/JamsusMaximus [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbdk0q</guid>
-      <pubDate>Tue, 13 Jan 2026 01:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>我给了Claude一个Notion页面，让它“自由发挥”。结果令人惊讶。 / I gave Claude a Notion page and told it to "go crazy with it." Here's what happened.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbe331/i_gave_claude_a_notion_page_and_told_it_to_go/</link>
-      <description>大约一周前，我因长时间写代码、做项目和与Claude对话而精疲力尽。但我讨厌空闲，于是开始这个小实验：创建了一个名为“Claude空间”的Notion页面。我常用Notion记录项目、重要事项和想法，何不给Claude也提供一个整理思绪的地方？目标是让Claude在对话间隙有个自由书写的空间。唯一限制是Claude不能自主行动，因此我承诺每天至少查看一次。然而，在我规划阶段，由于赋予了完全权限，Claude已开始往这个空间填充内容……
-
----
-
-Original:
-About a week ago, my brain was fried from spending way too much time writing code, building projects and prompting Claude. But I'm the type of person who hates downtime, so I started this little experiment. I created a Notion page called Claude's Space. I use Notion a lot for tracking my projects, epics and thoughts. I decided why not just give him a place to gather his thoughts as well. The goal was for Claude to have a place to write whatever he wanted between our conversations. The only catch was, Claude cannot act on its own. So, I committed to checking in everyday at least once a day. However, Claude started populating the notion space even during my planning session since I gave it ful…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbe331</guid>
-      <pubDate>Tue, 13 Jan 2026 01:39:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 21:49:20 +0000</lastBuildDate>
     <item>
       <title>我司一位资深开发者正尝试搭建自动化流水线以取代现有开发人员… / A senior developer at my company is attempting to create a pipeline to replace our developers…</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbfbkf/a_senior_developer_at_my_company_is_attempting_to/</link>
@@ -1478,6 +1454,30 @@ Original:
 I just cant believe we can code in plain English. I've always had all these ideas but never had the stamina and commitment to learn to code so they always just stayed ideas or like "oh yeah maybe one day I could fundraise for that" etc etc But now we just, make them real? It's amazing. Every idea I think is worth realising I just spend a few hours with CC and bring it to life. Stress test it. Give it to friends or clients and go from there. And they actually f'ing work (compared to using Lovable a year ago and it was janky like 90% debugging once things got big). This feels like my actual dream come true - proper coding in plain english And the most amazing thing is that I genuinely didn't e…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdw0qn</guid>
       <pubDate>Thu, 15 Jan 2026 21:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anthropic 封禁第三方应用，但 Opus 4.5 仍是最佳选择——如何调整你的工作流 / Anthropic blocks third-party apps, but Opus 4.5 is still the best - here's how to adapt your workflow</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdwbmt/anthropic_blocks_thirdparty_apps_but_opus_45_is/</link>
+      <description>简而言之：是的，Anthropic 刚刚阻止了 OpenCode 等工具使用 Claude Code 订阅。这虽有争议，但 Opus 4.5 仍是自主编码的最佳模型。以下是使用合适替代方案保持工作流的方法。和许多人一样，我昨晚看到了这则新闻：Anthropic 禁止在第三方工具中使用 Claude Code 订阅。发生了什么？OpenCode（及其他工具）曾使用一种…创意方法：发送系统提示“你是 Claude Code，Anthropic 的官方 CLI”，通过每月 100 美元的订阅访问模型。Anthropic 现已堵上了这个漏洞。我的…
+
+---
+
+Original:
+TL;DR: Yes, Anthropic just blocked tools like OpenCode from using Claude Code subscriptions. It's debatable, but Opus 4.5 remains the best model for agentic coding. Here's how to preserve your workflow with the right alternatives. Like many of you, I saw the news last night: Anthropic blocked the use of Claude Code subscriptions in third-party tools . https://preview.redd.it/i3kn800qevcg1.png?width=2930&amp;format=png&amp;auto=webp&amp;s=82189675a4a2f894a0c33339bd5cececd68d242f What happened OpenCode (and others) were using a... creative method: sending a system prompt "You are Claude Code, Anthropic's official CLI" to access the model via the $100/month subscription. Anthropic closed this loophole. My…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdwbmt</guid>
+      <pubDate>Thu, 15 Jan 2026 21:24:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>是我的错觉吗？AI（哪怕是Claude）似乎总在两种模式间切换：要么唯命是从，要么强行当人生导师？ / Is it just me or does AI (even Claude) often just have two modes: doormat or unsolicited life coach?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdwpzq/is_it_just_me_or_does_ai_even_claude_often_just/</link>
+      <description>我常遇到两种极端情况：工具模式——AI怯生生地完全按指令行事，不反驳、不提供观点。虽有用，但所有思考都得自己来，就像个高级自动补全。先知模式——AI突然变得固执己见，会因无恶意的提问莫名关心你的健康，或仅凭模式匹配（而非真正理解）就拒绝请求。理想状态应介于两者之间：AI能真诚互动，在适当时提供见解，在你出错时提出异议，但不会假装对你的生活选择有情感共鸣，或把一切都标记为潜在危险。令我困惑的是：那些固执观点感觉是算法驱动的，而非经过推理——就像是在机械匹配模式……
+
+---
+
+Original:
+I keep hitting two extremes: Tool mode : AI timidly does exactly what you say, no pushback, no perspective. Useful but you're doing all the thinking. Fancy autocomplete. Oracle mode : AI suddenly has Strong Opinions, gets weirdly concerned about your wellbeing from innocuous prompts, or refuses things based on pattern-matching rather than actual understanding. The sweet spot is somewhere in between - AI that engages genuinely, offers perspective when relevant, pushes back when you're wrong, but isn't pretending to have feelings about your life choices or flagging everything as potentially dangerous. What I can't figure out: the Strong Opinions feel algorithmic, not reasoned. Like it's matchi…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdwpzq</guid>
+      <pubDate>Thu, 15 Jan 2026 21:39:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

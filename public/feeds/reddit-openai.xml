@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 21:33:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 21:49:25 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1400,6 +1400,18 @@ Original:
 submitted by /u/wiredmagazine [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdwjn1</guid>
       <pubDate>Thu, 15 Jan 2026 21:33:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>是的。 / Yes.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdwnix/yes/</link>
+      <description>由 /u/Weak-Isopod6401 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Weak-Isopod6401 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdwnix</guid>
+      <pubDate>Thu, 15 Jan 2026 21:37:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

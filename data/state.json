@@ -1127,7 +1127,13 @@
     "reddit-openai::t3_1qdwjn1": 1768512836,
     "reddit-bard::t3_1qdvvi2": 1768512841,
     "reddit-askreddit::t3_1qdvaql": 1768512846,
-    "reddit-askreddit::t3_1qdvqw6": 1768512849
+    "reddit-askreddit::t3_1qdvqw6": 1768512849,
+    "reddit-chatgpt::t3_1qdvh0w": 1768513739,
+    "reddit-claudeai::t3_1qdwbmt": 1768513750,
+    "reddit-claudeai::t3_1qdwpzq": 1768513760,
+    "reddit-openai::t3_1qdwnix": 1768513764,
+    "reddit-askreddit::t3_1qdwjx5": 1768513771,
+    "reddit-askreddit::t3_1qdvzww": 1768513775
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5597,6 +5603,30 @@
     "ee78b7f02c3a86a82972c884e0d995e171f917b35ae92a5d4a66e3e08f6ec7cf": {
       "zh_title": "今年你最期待什么？",
       "zh_summary": "由 /u/TheBestOfMe_10 提交 [链接] [评论]"
+    },
+    "da7727522c3f25db5a10e3d095ae0ec3525ddd2dfba023818cecb9cbb8017f76": {
+      "zh_title": "确实。不过偶尔我也喜欢喝点怪兽（Monster）饮料😂",
+      "zh_summary": "由 /u/crunchy-wraps 提交 [链接] [评论]"
+    },
+    "6e7646c8a610143c81be3d2527cade472cc63c5b75ef26ef3f13d0bcfc943ccd": {
+      "zh_title": "Anthropic 封禁第三方应用，但 Opus 4.5 仍是最佳选择——如何调整你的工作流",
+      "zh_summary": "简而言之：是的，Anthropic 刚刚阻止了 OpenCode 等工具使用 Claude Code 订阅。这虽有争议，但 Opus 4.5 仍是自主编码的最佳模型。以下是使用合适替代方案保持工作流的方法。和许多人一样，我昨晚看到了这则新闻：Anthropic 禁止在第三方工具中使用 Claude Code 订阅。发生了什么？OpenCode（及其他工具）曾使用一种…创意方法：发送系统提示“你是 Claude Code，Anthropic 的官方 CLI”，通过每月 100 美元的订阅访问模型。Anthropic 现已堵上了这个漏洞。我的…"
+    },
+    "aae3550ba5142d1c662435a92040ff37bad69bcf27df4c9c08d354f1dc3cde18": {
+      "zh_title": "是我的错觉吗？AI（哪怕是Claude）似乎总在两种模式间切换：要么唯命是从，要么强行当人生导师？",
+      "zh_summary": "我常遇到两种极端情况：工具模式——AI怯生生地完全按指令行事，不反驳、不提供观点。虽有用，但所有思考都得自己来，就像个高级自动补全。先知模式——AI突然变得固执己见，会因无恶意的提问莫名关心你的健康，或仅凭模式匹配（而非真正理解）就拒绝请求。理想状态应介于两者之间：AI能真诚互动，在适当时提供见解，在你出错时提出异议，但不会假装对你的生活选择有情感共鸣，或把一切都标记为潜在危险。令我困惑的是：那些固执观点感觉是算法驱动的，而非经过推理——就像是在机械匹配模式……"
+    },
+    "c708f0cdc4a9b4877fcf5bc03f9bed4ef6a244f41e986125a15dde739241a140": {
+      "zh_title": "是的。",
+      "zh_summary": "由 /u/Weak-Isopod6401 提交 [链接] [评论]"
+    },
+    "5924cfd5305f7c07d0d8630d64284ac63b53b22793be80279360e8302a132bad": {
+      "zh_title": "有哪些日常小事能立刻让你心情变好？",
+      "zh_summary": "由用户 /u/Penguin3435 提交 [链接] [评论]"
+    },
+    "08f24544fa894c920ba066bb601d998f468abf0593467cdad4a812b78e593d06": {
+      "zh_title": "你吃过最难吃的冰淇淋口味是什么？",
+      "zh_summary": "由 /u/JuniorPlastic3562 提交 [链接] [评论]"
     }
   }
 }
