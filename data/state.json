@@ -1139,7 +1139,13 @@
     "reddit-askreddit::t3_1qdxeli": 1768516510,
     "reddit-askreddit::t3_1qdvlcm": 1768516514,
     "reddit-android::t3_1qdxlnq": 1768516519,
-    "reddit-android::t3_1qdxlj3": 1768516524
+    "reddit-android::t3_1qdxlj3": 1768516524,
+    "reddit-chatgpt::t3_1qdxnef": 1768517570,
+    "reddit-claudeai::t3_1qdxtk6": 1768517578,
+    "reddit-claudeai::t3_1qdxmu3": 1768517590,
+    "reddit-bard::t3_1qdy87g": 1768517597,
+    "reddit-askreddit::t3_1qdxk2p": 1768517602,
+    "reddit-tasker::t3_1qdy94n": 1768517614
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5657,6 +5663,30 @@
     "602a908c170c5b2fdabeffbd16aa7d202cd31440375486de2e37d3f1dc12d362": {
       "zh_title": "IDC报告：2025年第四季度全球智能手机市场增长2.3%，三星与苹果表现强劲",
       "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "7ddb08e4d5b96baad2ca6e72dce1e48b8aaa375e49e658873a44377053c34bdf": {
+      "zh_title": "最新趋势",
+      "zh_summary": "由 /u/VelvetSinclair 提交 [链接] [评论]"
+    },
+    "f530577174a26ca7bf0c2cf22d01982c61757ef04a436855a29d9de89ee558ed": {
+      "zh_title": "网页版与桌面版Claude Code新增功能：差异对比视图",
+      "zh_summary": "无需离开应用即可查看Claude所做的具体修改。以往您需要切换到GitHub或IDE才能深入审查代码变更，现在您可以在同一界面查看完整的差异对比并添加行内注释，与Claude进行迭代协作。体验地址：http://claude.com/code 提交者：/u/ClaudeOfficial [链接] [评论]"
+    },
+    "b4fab7132c56dbcb54737e066227a97737b34fdaa685f189bcdcc94cd64d95bb": {
+      "zh_title": "[研究] 我通过80%上下文压缩实现了97%准确率——比使用完整上下文(30%)效果更佳",
+      "zh_summary": "简而言之：我发现了一种压缩方法，能将大语言模型上下文减少80%（压缩比20倍），同时将准确率从30%提升至97%。该方法超越了所有前沿技术，并适用于小至30亿参数的模型。\n\n普遍存在的认知悖论：人们总认为上下文越多效果越好。但我的发现是：完整上下文（2.5万词元）准确率仅30%，压缩后上下文（5千词元）准确率高达97%。\n\n实验设置\n数据集：Python 3.13技术文档（技术问答）\n压缩率：20倍（减少80%）\n语言：俄语（比英语更难）\n测试模型：17亿至220亿参数\n\n结果对比\n处理方式\t词元数量\t准确率\n完整上下文\t25,370\t30% ❌\n我的压缩法\t5,161\t97% ✅\n最佳模型：Mistral 3B——在体积缩小7倍的情况下仍保持97%准确率..."
+    },
+    "f1f61ac71841a6fe665ced269a34f3b8d023df635db8300e7e828d1b9c3f6864": {
+      "zh_title": "Gemini 打造了这款疯狂的炸弹生存游戏",
+      "zh_summary": "欢迎来试试！https://gemini.google.com/share/04632be80551 由 /u/Apart_Potato959 提交 [链接] [评论]"
+    },
+    "cbe17415b41a0e34a536e575b62c609872302117c161542e7557db14e40d3b15": {
+      "zh_title": "特朗普刚说“我们根本不该举行选举”。美国民众，你们怎么看？",
+      "zh_summary": "由用户/u/WatercressSenior7657提交 [链接] [评论]"
+    },
+    "149447b9052034acdfff2d9d00d6b6c336ed067fad835508d8c986afa2e1dcab": {
+      "zh_title": "Tasker备份操作报“分配失败”错误的可能解决方案",
+      "zh_summary": "今天在尝试备份Tasker时，备份操作报告了以下错误：分配失败，尝试分配49,235,256字节，可用空间25,165,824字节，距离内存溢出（OOM）还有45MB，目标占用245,772,480字节，增长限制268,435,456。我采取了以下步骤后成功完成了备份，这些方法**有时**在过去也有效：禁用Tasker，重命名Tasker目录（例如改为：.../Tasker.hide.<日期和时间>），重新启用Tasker，然后重试备份。我不能保证这总能奏效，但对我有时确实有效。（我认为在点击保存勾选时遇到内存错误时，这*有时*也有效。）你需要将所有文件夹/文件从隐藏的ta…"
     }
   }
 }

@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:34:54 +0000</lastBuildDate>
-    <item>
-      <title>AI检测器完全是骗局 / AI Detectors are a complete scam.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qb7tdl/ai_detectors_are_a_complete_scam/</link>
-      <description>这就是我认为AI检测器是骗局的原因之一。GPTZero将这句话标记为高AI概率：“你为什么这么想？”它竟然说“为什么”这个词是连词！！不，它是疑问副词，修饰动词短语“你这么想”。连这个都搞错，那它还能错成什么样？提交者：/u/stumpmtsr [链接] [评论]
-
----
-
-Original:
-This is one of the reasons why I think AI detectors are a scam. GPTZero marked this sentence as high AI: "Why do you think that?" It said the word why is a conjunction!! No, it's an interrogative adverb, it's modifying the verb phrase, "do you think" If it's wrong with this, then what else can it be wrong with? submitted by /u/stumpmtsr [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qb7tdl</guid>
-      <pubDate>Mon, 12 Jan 2026 21:27:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 22:52:51 +0000</lastBuildDate>
     <item>
       <title>这什么时候才能结束？ / When will this end?</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qb8iq5/when_will_this_end/</link>
@@ -1452,6 +1440,18 @@ Original:
 I'm not seeing ChatGPT's responses on the website anymore. Only my own messages show up. I'm using the latest version of Firefox on Windows (147.0). It seems to work fine in the Android app and in Google Chrome. submitted by /u/ron_krugman [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qdwexl</guid>
       <pubDate>Thu, 15 Jan 2026 21:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>最新趋势 / The latest trend</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdxnef/the_latest_trend/</link>
+      <description>由 /u/VelvetSinclair 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/VelvetSinclair [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdxnef</guid>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

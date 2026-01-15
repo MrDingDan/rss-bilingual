@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 22:53:17 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -1002,6 +1002,18 @@ Original:
 submitted by /u/chicmistique [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdvvi2</guid>
       <pubDate>Thu, 15 Jan 2026 21:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 打造了这款疯狂的炸弹生存游戏 / Gemini created this crazy bomb survival game</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdy87g/gemini_created_this_crazy_bomb_survival_game/</link>
+      <description>欢迎来试试！https://gemini.google.com/share/04632be80551 由 /u/Apart_Potato959 提交 [链接] [评论]
+
+---
+
+Original:
+Feel free to try it! https://gemini.google.com/share/04632be80551 submitted by /u/Apart_Potato959 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdy87g</guid>
+      <pubDate>Thu, 15 Jan 2026 22:38:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

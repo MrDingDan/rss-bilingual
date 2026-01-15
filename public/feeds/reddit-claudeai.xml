@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:35:04 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code在大型任务上偷工减料 / Claude Code cutting corners on larger tasks</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbgqqg/claude_code_cutting_corners_on_larger_tasks/</link>
-      <description>我无法让Claude Code独立完成范围较大的任务。它总是偷工减料，根本交不出像样的成果。如果我们的待办事项包含5-6个阶段，每个阶段又有5-6项任务，能顺利完成其中2-3项就算走运了。要是完全放手不管，最后拿回来的代码往往一团乱麻。我试过给出清晰的起始和结束状态，采用拉尔夫循环法，还接入了任务管理器。也建议过编写测试用例，并明确说明所需功能、失败场景等等。1）它确实能生成非常清晰的计划——如果能严格按计划执行，我会非常满意——但它从来做不到（请记住，这些计划通常包含30-40项任务）。2）它输出了大量无用代码——虽然实现了某些功能……
-
----
-
-Original:
-I'm not able to get claude code to succeed independently on larger scope tasks. It's cutting corners, simply not delivering. If our TODO has 5-6 Phases with 5-6 tasks in each, I'm lucky if I get 2-3 tasks completed properly. And if I leave it to itself, I get a large portion of spaghetti back. I tried giving a clear start and end state, doing ralph loop, connecting to a task manager. Suggested writing tests, very clearly stating functionality I'd want, failure cases etc. 1) It does generate a very clear plan - If it follows the plan exactly, I'm super happy - but it never does (keep in mind that again, these plans are 30-40 task plans) 2) It spits out SO MUCH unused code - it implements thou…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbgqqg</guid>
-      <pubDate>Tue, 13 Jan 2026 03:37:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>大家都在讨论编程，却没人谈大语言模型如何影响以写作为主的大学生 / Every talks about coding. But nobody talks about how LLMs affect university students in writing-centric majors</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbk1y8/every_talks_about_coding_but_nobody_talks_about/</link>
-      <description>这篇文章篇幅很长，没有提供摘要。它讨论了学生当前如何使用人工智能，以及我个人在大学期间观察到的利弊。背景是，我是一名即将在本学期毕业的法律预科生。以前，当教授试图阻止学生复制粘贴书面作业并提交给ChatGPT时，教授会提供一段模糊、低质量的复印扫描版PDF段落。这样学生就无法在文档中正常高亮任何文字，只能依靠实际阅读。图像分析功能彻底改变了这一点。现在，模糊的PDF文件也能被完整读取……
-
----
-
-Original:
-This post is very long and does not include a TL;DR. It discusses how students are currently using AI, along with the benefits and drawbacks I’ve personally observed during my time as a student in university. For context, I am a pre-law major set to graduate this semester. Previously, when a professor tried to prevent a student from copy-pasting a written work and submitting into ChatGPT, the professor would provide a grainy pdf low quality Xerox scan of a written passage. This was so that a student would be unable to properly highlight any words in the doc, and would have to rely on actually reading it. The image analysis feature changed that forever. Grainy pdf files can now be read fully…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbk1y8</guid>
-      <pubDate>Tue, 13 Jan 2026 06:26:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 22:53:11 +0000</lastBuildDate>
     <item>
       <title>Claude代码完全指南：全局CLAUDE.md、MCP服务器、命令，以及为何单主题对话至关重要 / The Complete Guide to Claude Code: Global CLAUDE.md, MCP Servers, Commands, and Why Single-Purpose Chats Matter</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbkk1n/the_complete_guide_to_claude_code_global_claudemd/</link>
@@ -1478,6 +1454,44 @@ Original:
 I'm a big Claude. AI user and it is my collaborator of choice for novels, interactive fiction and now, print and play role-playing games. I also use Claude for gameplay analysis. Here's a breakdown of my latest production. --- So we (Claude AI as GM) just played a solo RPG about a crow questioning a war, and it turned into something unexpectedly profound. Let's talk about why this kind of game matters beyond just entertainment. The Core Insight: Moral Decisions Hit Different When You're Alone Here's what happened: the game put you in control of a young crow, hungry, in a forest where winter means death. You immediately killed a mouse. Not because you're playing a "bad guy" — because you were…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdwyi6</guid>
       <pubDate>Thu, 15 Jan 2026 21:48:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[研究] 我通过80%上下文压缩实现了97%准确率——比使用完整上下文(30%)效果更佳 / [Research] I achieved 97% accuracy with 80% context compression - BETTER than using full context (30%)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdxmu3/research_i_achieved_97_accuracy_with_80_context/</link>
+      <description>简而言之：我发现了一种压缩方法，能将大语言模型上下文减少80%（压缩比20倍），同时将准确率从30%提升至97%。该方法超越了所有前沿技术，并适用于小至30亿参数的模型。
+
+普遍存在的认知悖论：人们总认为上下文越多效果越好。但我的发现是：完整上下文（2.5万词元）准确率仅30%，压缩后上下文（5千词元）准确率高达97%。
+
+实验设置
+数据集：Python 3.13技术文档（技术问答）
+压缩率：20倍（减少80%）
+语言：俄语（比英语更难）
+测试模型：17亿至220亿参数
+
+结果对比
+处理方式	词元数量	准确率
+完整上下文	25,370	30% ❌
+我的压缩法	5,161	97% ✅
+最佳模型：Mistral 3B——在体积缩小7倍的情况下仍保持97%准确率...
+
+---
+
+Original:
+TL;DR: Discovered a compression method that reduces LLM context by 80% (20x ratio) while INCREASING accuracy from 30% → 97%. This beats all state-of-the-art methods and works with models as small as 3B parameters. The Paradox Everyone assumes: more context = better results. My findings: Full context (25K tokens) = 30% accuracy. Compressed context (5K tokens) = 97% accuracy . Experiment Setup Dataset: Python 3.13 documentation (technical Q&amp;A) Compression: 20x (80% reduction) Language: Russian (harder than English) Models tested: 1.7B to 22B parameters Results Approach Tokens Accuracy Full context 25,370 30% ❌ My compression 5,161 97% ✅ Best model: Mistral 3B - 97% accuracy at 7x smaller size…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdxmu3</guid>
+      <pubDate>Thu, 15 Jan 2026 22:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>网页版与桌面版Claude Code新增功能：差异对比视图 / New in Claude Code on the web and desktop: diff view.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdxtk6/new_in_claude_code_on_the_web_and_desktop_diff/</link>
+      <description>无需离开应用即可查看Claude所做的具体修改。以往您需要切换到GitHub或IDE才能深入审查代码变更，现在您可以在同一界面查看完整的差异对比并添加行内注释，与Claude进行迭代协作。体验地址：http://claude.com/code 提交者：/u/ClaudeOfficial [链接] [评论]
+
+---
+
+Original:
+See the exact changes Claude made without leaving the app. Previously you had to switch to GitHub or your IDE to review changes in depth. Now you can view full diffs and leave inline comments to iterate with Claude, all in one place. Try it at http://claude.com/code submitted by /u/ClaudeOfficial [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdxtk6</guid>
+      <pubDate>Thu, 15 Jan 2026 22:22:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

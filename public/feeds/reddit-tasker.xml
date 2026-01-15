@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 22:53:34 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -462,6 +462,18 @@ Original:
 I'm trying to use Autonotification Actions to click a button on another app's notification. It seemed to work a couple times when I was setting up the task and trying it out, but since then it hasn't worked at all. I've tried selecting the button from the drop-down list, populating the Action ID field with the actual ID and with %anbutton2action() after performing an AN query action. I tested that I was targeting the right button by flashing %anbutton2text() and it checked out. The log doesn't show any errors either, so I'm kind of at a loss. For context, the button I want to click turns off the service the app provides. Has anyone else had any issues with the AN actions or does anyone have…</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qdt2kk</guid>
       <pubDate>Thu, 15 Jan 2026 19:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tasker备份操作报“分配失败”错误的可能解决方案 / A Possible Workaround If The Tasker Backup Action Reports a "Failed to allocate" error.</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdy94n/a_possible_workaround_if_the_tasker_backup_action/</link>
+      <description>今天在尝试备份Tasker时，备份操作报告了以下错误：分配失败，尝试分配49,235,256字节，可用空间25,165,824字节，距离内存溢出（OOM）还有45MB，目标占用245,772,480字节，增长限制268,435,456。我采取了以下步骤后成功完成了备份，这些方法**有时**在过去也有效：禁用Tasker，重命名Tasker目录（例如改为：.../Tasker.hide.&lt;日期和时间&gt;），重新启用Tasker，然后重试备份。我不能保证这总能奏效，但对我有时确实有效。（我认为在点击保存勾选时遇到内存错误时，这*有时*也有效。）你需要将所有文件夹/文件从隐藏的ta…
+
+---
+
+Original:
+Today, while trying to back up Tasker, the Backup Action reported the following error: Failed to allocate a 49,235,256 byte allocation with 25,165,824 free bytes and 45MB until OOM, target footprint 245,772,480, growth limit 268,435,456 I was able to complete the backup after taking steps that have **sometimes** worked at times in the past: Disable Tasker Rename the Tasker directory, eg to: .../Tasker.hide.&lt;date and time&gt; Re-enable Tasker Re-try the backup I can't guarantee that this will always work, but it's worked for me at times. (I think it's also *sometimes* worked when I've gotten a memory error clicking the save checkmark.) You'll need to move all the folders/files from the hidden ta…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdy94n</guid>
+      <pubDate>Thu, 15 Jan 2026 22:39:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

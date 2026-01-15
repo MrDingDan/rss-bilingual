@@ -6,79 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 22:35:27 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_artificial] 2026年“绿色AI”的崛起：我们能否真正实现AI发展与环保脱钩？ / The rise of "Green AI" in 2026: Can we actually decouple AI growth from environmental damage?</title>
-      <link>https://www.reddit.com/r/artificial/comments/1qdm7np/the_rise_of_green_ai_in_2026_can_we_actually/</link>
-      <description>众所周知，训练大型语言模型（LLM）消耗着惊人的电力。但随着2026年的深入，行业焦点正从单纯追求精度转向“能源效率”指标。我花了一些时间研究业界如何转向绿色AI（Green AI）。目前正出现一些引人注目的突破：知识蒸馏（Knowledge Distillation）：将巨型模型压缩至原尺寸的十分之一而不损失性能。液冷技术（Liquid Cooling）：数据中心回收余热为邻近城市供暖。神经形态芯片（Neuromorphic Chips）：“每瓦性能”实现巨大飞跃。我深入梳理了这些技术如何被实际应用于造福地球（从智能电网到海洋清洁机器人）……
-
----
-
-Original:
-We all know that training massive LLMs consumes an incredible amount of power. But as we move further into 2026, the focus is shifting from pure accuracy to "Energy-to-Solution" metrics. I’ve spent some time researching how the industry is pivoting towards Green AI . There are some fascinating breakthroughs happening right now: Knowledge Distillation: Shrinking massive models to 1/10th their size without losing capability. Liquid Cooling: Data centers that recycle heat to warm nearby cities. Neuromorphic Chips: A massive jump in "Performance per Watt." I put together a deep dive into how these technologies are being used to actually help the planet (from smart grids to ocean-cleaning robots)…</description>
-      <guid isPermaLink="false">reddit-artificial::t3_1qdm7np</guid>
-      <pubDate>Thu, 15 Jan 2026 15:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 嗯，看起来差不多 / Yep, seems about right</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdmauv/yep_seems_about_right/</link>
-      <description>由 /u/Vlaxilla 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Vlaxilla [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdmauv</guid>
-      <pubDate>Thu, 15 Jan 2026 15:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 让Claude Code启动更快 / Make Claude Code faster to start up</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdmeso/make_claude_code_faster_to_start_up/</link>
-      <description>我喜欢用Claude Code在命令行里快速处理任务，但它在我的机器上启动几乎要花3秒。我觉得它应该比这更迅捷才对。我为zshrc/bashrc写了一个小封装，能立即提示输入，然后你就可以同时等待启动和首次操作。在我看来，这样用起来更顺手。# 支持多行输入的任务提示函数 _prompt_for_task() { # 颜色代码：RGB格式的#a45138（Anthropic橙色） local orange_on="\033[38;2;164;81;56m" local dim_white=$(tput dim) local color_off=$(tput sgr0) echo "" &gt;&amp;2 echo -e "${orange_on} ▐▛███▜▌ Claude Code（快速入口）${color_off}" &gt;&amp;2 echo -e "${orange_on}▝▜█████▛▘${color_off}" &gt;&amp;2 echo -e "${orange_on} ▘▘ ▝▝ ${color_off}$(…
-
----
-
-Original:
-I love claude code for quick tasks in the command line. But almost takes 3s to start on my machine. I feel like it really should be more snappy than that. I wrote a small wrapper for zshrc/bashrc that prompts for input immediately and then you wait for startup and first action together. Much more ergonomic IMO. # Prompt for task with multiline input support _prompt_for_task() { # Color codes: #a45138 (Anthropic orange) in RGB local orange_on="\033[38;2;164;81;56m" local dim_white=$(tput dim) local color_off=$(tput sgr0) echo "" &gt;&amp;2 echo -e "${orange_on} ▐▛███▜▌ Claude Code (fast entry)${color_off}" &gt;&amp;2 echo -e "${orange_on}▝▜█████▛▘${color_off}" &gt;&amp;2 echo -e "${orange_on} ▘▘ ▝▝ ${color_off}$(…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdmeso</guid>
-      <pubDate>Thu, 15 Jan 2026 15:23:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_android] iOS 26.3 暗示 iPhone 与 Android 设备间的短信互通功能即将改进 / iOS 26.3 Hints at Improved iPhone-to-Android Texting Coming Soon</title>
-      <link>https://www.reddit.com/r/Android/comments/1qdmf4h/ios_263_hints_at_improved_iphonetoandroid_texting/</link>
-      <description>由 /u/urbanglowcam 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/urbanglowcam [link] [comments]</description>
-      <guid isPermaLink="false">reddit-android::t3_1qdmf4h</guid>
-      <pubDate>Thu, 15 Jan 2026 15:24:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 那边的情况不一样 / It's different over there</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdminq/its_different_over_there/</link>
-      <description>由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdminq</guid>
-      <pubDate>Thu, 15 Jan 2026 15:27:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 那边的情况不一样 / It's different over there</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdmizv/its_different_over_there/</link>
-      <description>由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdmizv</guid>
-      <pubDate>Thu, 15 Jan 2026 15:28:19 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 22:53:36 +0000</lastBuildDate>
     <item>
       <title>[reddit_askreddit] 有哪些事人人都被警告过，但只有亲身经历才能真正理解？ / What’s something everyone is warned about, but you don’t truly understand until it happens to you?</title>
       <link>https://www.reddit.com/r/AskReddit/comments/1qdmkb9/whats_something_everyone_is_warned_about_but_you/</link>
@@ -454,18 +382,6 @@ submitted by /u/Federal-Block-3275 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 17:02:13 +0000</pubDate>
     </item>
     <item>
-      <title>[reddit_chatgpt] 它知道 / It Knows</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
-      <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
-
----
-
-Original:
-Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
-      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
-    </item>
-    <item>
       <title>[reddit_openai] ChatGPT 5.2 到底怎么回事？它老是跟我争论，真是烦死了 / What's wrong with chat gpt 5.2 ? It's constantly arguing with me man I hate it</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qdp3uz/whats_wrong_with_chat_gpt_52_its_constantly/</link>
       <description>把 4o 版本还给我 由 /u/__Lain___ 提交 [链接] [评论]
@@ -475,6 +391,18 @@ Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</des
 Original:
 Give me 4o back submitted by /u/__Lain___ [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdp3uz</guid>
+      <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 它知道 / It Knows</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdp3va/it_knows/</link>
+      <description>想跟上这波潮流。由 /u/forgottenoldlogin 提交 [链接] [评论]
+
+---
+
+Original:
+Wanted in on the trend. submitted by /u/forgottenoldlogin [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdp3va</guid>
       <pubDate>Thu, 15 Jan 2026 17:02:43 +0000</pubDate>
     </item>
     <item>
@@ -1430,6 +1358,18 @@ submitted by /u/Impossible-Rub6027 [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 22:05:59 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 特朗普刚说“我们根本不该举行选举”。美国民众，你们怎么看？ / Donald Trump just said “we shouldn’t even have an election”. Americans, what are your thoughts?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdxk2p/donald_trump_just_said_we_shouldnt_even_have_an/</link>
+      <description>由用户/u/WatercressSenior7657提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/WatercressSenior7657 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdxk2p</guid>
+      <pubDate>Thu, 15 Jan 2026 22:11:54 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_android] IDC报告：2025年第四季度全球智能手机市场增长2.3%，三星与苹果表现强劲 / Worldwide Smartphone Market Grows 2.3% in Q4 2025, Driven by Strong Performances from Samsung and Apple, according to IDC</title>
       <link>https://www.reddit.com/r/Android/comments/1qdxlj3/worldwide_smartphone_market_grows_23_in_q4_2025/</link>
       <description>由 /u/FragmentedChicken 提交 [链接] [评论]
@@ -1464,6 +1404,80 @@ Original:
 Over the last few weeks, I’ve been building AI agents and connecting them with Twilio — and honestly, this is where AI starts feeling real, not just experimental. Here’s what stood out for me Twilio became the communication backbone Instead of building separate logic for WhatsApp, SMS, or future voice flows, Twilio gave me a clean, reliable layer to plug my AI agents into. AI agents stopped being “chatbots” Once connected to Twilio (especially WhatsApp), my agents started: Handling real user queries Sharing price lists and service details Booking appointments automatically Responding instantly, 24/7 This is where agentic AI actually proves its value. The integration was smoother than expecte…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdxm39</guid>
       <pubDate>Thu, 15 Jan 2026 22:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] [研究] 我通过80%上下文压缩实现了97%准确率——比使用完整上下文(30%)效果更佳 / [Research] I achieved 97% accuracy with 80% context compression - BETTER than using full context (30%)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdxmu3/research_i_achieved_97_accuracy_with_80_context/</link>
+      <description>简而言之：我发现了一种压缩方法，能将大语言模型上下文减少80%（压缩比20倍），同时将准确率从30%提升至97%。该方法超越了所有前沿技术，并适用于小至30亿参数的模型。
+
+普遍存在的认知悖论：人们总认为上下文越多效果越好。但我的发现是：完整上下文（2.5万词元）准确率仅30%，压缩后上下文（5千词元）准确率高达97%。
+
+实验设置
+数据集：Python 3.13技术文档（技术问答）
+压缩率：20倍（减少80%）
+语言：俄语（比英语更难）
+测试模型：17亿至220亿参数
+
+结果对比
+处理方式	词元数量	准确率
+完整上下文	25,370	30% ❌
+我的压缩法	5,161	97% ✅
+最佳模型：Mistral 3B——在体积缩小7倍的情况下仍保持97%准确率...
+
+---
+
+Original:
+TL;DR: Discovered a compression method that reduces LLM context by 80% (20x ratio) while INCREASING accuracy from 30% → 97%. This beats all state-of-the-art methods and works with models as small as 3B parameters. The Paradox Everyone assumes: more context = better results. My findings: Full context (25K tokens) = 30% accuracy. Compressed context (5K tokens) = 97% accuracy . Experiment Setup Dataset: Python 3.13 documentation (technical Q&amp;A) Compression: 20x (80% reduction) Language: Russian (harder than English) Models tested: 1.7B to 22B parameters Results Approach Tokens Accuracy Full context 25,370 30% ❌ My compression 5,161 97% ✅ Best model: Mistral 3B - 97% accuracy at 7x smaller size…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdxmu3</guid>
+      <pubDate>Thu, 15 Jan 2026 22:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 最新趋势 / The latest trend</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qdxnef/the_latest_trend/</link>
+      <description>由 /u/VelvetSinclair 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/VelvetSinclair [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qdxnef</guid>
+      <pubDate>Thu, 15 Jan 2026 22:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 网页版与桌面版Claude Code新增功能：差异对比视图 / New in Claude Code on the web and desktop: diff view.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdxtk6/new_in_claude_code_on_the_web_and_desktop_diff/</link>
+      <description>无需离开应用即可查看Claude所做的具体修改。以往您需要切换到GitHub或IDE才能深入审查代码变更，现在您可以在同一界面查看完整的差异对比并添加行内注释，与Claude进行迭代协作。体验地址：http://claude.com/code 提交者：/u/ClaudeOfficial [链接] [评论]
+
+---
+
+Original:
+See the exact changes Claude made without leaving the app. Previously you had to switch to GitHub or your IDE to review changes in depth. Now you can view full diffs and leave inline comments to iterate with Claude, all in one place. Try it at http://claude.com/code submitted by /u/ClaudeOfficial [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdxtk6</guid>
+      <pubDate>Thu, 15 Jan 2026 22:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] Gemini 打造了这款疯狂的炸弹生存游戏 / Gemini created this crazy bomb survival game</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdy87g/gemini_created_this_crazy_bomb_survival_game/</link>
+      <description>欢迎来试试！https://gemini.google.com/share/04632be80551 由 /u/Apart_Potato959 提交 [链接] [评论]
+
+---
+
+Original:
+Feel free to try it! https://gemini.google.com/share/04632be80551 submitted by /u/Apart_Potato959 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdy87g</guid>
+      <pubDate>Thu, 15 Jan 2026 22:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_tasker] Tasker备份操作报“分配失败”错误的可能解决方案 / A Possible Workaround If The Tasker Backup Action Reports a "Failed to allocate" error.</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qdy94n/a_possible_workaround_if_the_tasker_backup_action/</link>
+      <description>今天在尝试备份Tasker时，备份操作报告了以下错误：分配失败，尝试分配49,235,256字节，可用空间25,165,824字节，距离内存溢出（OOM）还有45MB，目标占用245,772,480字节，增长限制268,435,456。我采取了以下步骤后成功完成了备份，这些方法**有时**在过去也有效：禁用Tasker，重命名Tasker目录（例如改为：.../Tasker.hide.&lt;日期和时间&gt;），重新启用Tasker，然后重试备份。我不能保证这总能奏效，但对我有时确实有效。（我认为在点击保存勾选时遇到内存错误时，这*有时*也有效。）你需要将所有文件夹/文件从隐藏的ta…
+
+---
+
+Original:
+Today, while trying to back up Tasker, the Backup Action reported the following error: Failed to allocate a 49,235,256 byte allocation with 25,165,824 free bytes and 45MB until OOM, target footprint 245,772,480, growth limit 268,435,456 I was able to complete the backup after taking steps that have **sometimes** worked at times in the past: Disable Tasker Rename the Tasker directory, eg to: .../Tasker.hide.&lt;date and time&gt; Re-enable Tasker Re-try the backup I can't guarantee that this will always work, but it's worked for me at times. (I think it's also *sometimes* worked when I've gotten a memory error clicking the save checkmark.) You'll need to move all the folders/files from the hidden ta…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qdy94n</guid>
+      <pubDate>Thu, 15 Jan 2026 22:39:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
