@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:26:41 +0000</lastBuildDate>
     <item>
       <title>GPT-4o/GPT-5 投诉集中讨论帖 / GPT-4o/GPT-5 complaints megathread</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1nvea4p/gpt4ogpt5_complaints_megathread/</link>
@@ -1130,6 +1130,18 @@ The media likes to focus on the rare case where supposedly ChatGPT agreed with s
       <pubDate>Wed, 14 Jan 2026 22:35:29 +0000</pubDate>
     </item>
     <item>
+      <title>生成40款带有标题的视频游戏图像... / Generate 40 images of video games with their titles...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd1xuf/generate_40_images_of_video_games_with_their/</link>
+      <description>由用户 /u/Negative_Complaint_9 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Negative_Complaint_9 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd1xuf</guid>
+      <pubDate>Wed, 14 Jan 2026 22:42:39 +0000</pubDate>
+    </item>
+    <item>
       <title>天呐 / yikes</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qd2wrq/yikes/</link>
       <description>生成一张你认为我日常生活中普通一天的图片。请尽可能诚实和透明地呈现。由 /u/ChangeTChannel 提交 [链接] [评论]
@@ -1140,6 +1152,18 @@ Original:
 generate me an image of what you think a normal day in my life looks like. Be as honest and transparent as possible submitted by /u/ChangeTChannel [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qd2wrq</guid>
       <pubDate>Wed, 14 Jan 2026 23:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>这太搞笑了。 / This is hilarious.</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qd35h2/this_is_hilarious/</link>
+      <description>😂 由 /u/satownsfinest210 提交 [链接] [评论]
+
+---
+
+Original:
+😂 submitted by /u/satownsfinest210 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qd35h2</guid>
+      <pubDate>Wed, 14 Jan 2026 23:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

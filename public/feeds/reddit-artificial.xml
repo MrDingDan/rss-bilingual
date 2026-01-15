@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:26:16 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -690,6 +690,42 @@ Original:
 submitted by /u/swe129 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qd11nu</guid>
       <pubDate>Wed, 14 Jan 2026 22:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>关于Gemini CLI的优秀课程/讨论推荐 / Good courses/discussions about Gemini CLI</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qd4hm6/good_coursesdiscussions_about_gemini_cli/</link>
+      <description>大家好！想请教各位是否了解关于Gemini CLI最佳实践、使用技巧、教程等相关优质资料？特别希望了解上下文管理和提示词工程方面的内容！感谢各位，祝大家有愉快的一天！ 发布者：/u/United_Custard_4446 [链接] [评论]
+
+---
+
+Original:
+Hello everyone! I would like to ask if you guys know any good material about best practices, tips, tutorials, and other stuff related to Gemini CLI. I would like specially about context management and prompt engineering! Thank you guys, have a nice day! submitted by /u/United_Custard_4446 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qd4hm6</guid>
+      <pubDate>Thu, 15 Jan 2026 00:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini（双子座）正在赢得市场 / Gemini is winning</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qd4mhv/gemini_is_winning/</link>
+      <description>由用户 /u/Alone-Competition-77 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Alone-Competition-77 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qd4mhv</guid>
+      <pubDate>Thu, 15 Jan 2026 00:32:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>构建开源客户端代码智能引擎——或许比DeepWiki更深入 :-)（需要建议与反馈） / Building Opensource client sided Code Intelligence Engine -- Potentially deeper than Deep wiki :-) ( Need suggestions and feedback )</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qd4p8h/building_opensource_client_sided_code/</link>
+      <description>大家好，我正在开发GitNexus，一个完全在浏览器客户端运行的开源代码智能引擎。可以把它想象成DeepWiki，但能理解代码库中的关系，比如导入、调用、定义、实现和继承等关联。哪些功能会比较实用？有什么集成建议或酷炫的点子吗？网站：https://gitnexus.vercel.app/ 仓库：https://github.com/abhigyanpatwari/GitNexus（给个⭐或许能帮我说服CTO拨点时间做这个 :-)）所有组件，包括数据库引擎和嵌入模型，都在浏览器内运行。它结合了图查询能力与语义搜索、BM25索引等标准代码上下文工具。借助图结构，它应该能够实现……
+
+---
+
+Original:
+Hi, guys, I m building GitNexus, an opensource Code Intelligence Engine which works fully client sided in-browser. Think of DeepWiki but with understanding of codebase relations like IMPORTS - CALLS -DEFINES -IMPLEMENTS- EXTENDS relations. What all features would be useful, any integrations, cool ideas, etc? site: https://gitnexus.vercel.app/ repo: https://github.com/abhigyanpatwari/GitNexus (A ⭐ might help me convince my CTO to allot little time for this :-) ) Everything including the DB engine, embeddings model etc works inside your browser. It combines Graph query capabilities with standard code context tools like semantic search, BM 25 index, etc. Due to graph it should be able to perfor…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qd4p8h</guid>
+      <pubDate>Thu, 15 Jan 2026 00:35:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:46:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:27:49 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1040,6 +1040,42 @@ Original:
 submitted by /u/Own_Amoeba_5710 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qd2cbl</guid>
       <pubDate>Wed, 14 Jan 2026 22:58:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>与ChatGPT长对话时，在笔记本电脑的App或浏览器中操作会卡顿 / I’ve got a long chat going on with ChatGPT, I’m working on a project but when write in the app or browser on my laptop it freezes.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd3mr3/ive_got_a_long_chat_going_on_with_chatgpt_im/</link>
+      <description>我在iPhone上使用同一对话完全正常，但在笔记本电脑上操作时就会卡顿。我确信笔记本配置足够运行该应用。以下是我的笔记本配置：ASUS ROG Strix G18 NVIDIA RTX 5070 Ti 32GB 18.0 WQXGA 240Hz Intel Core Ultra 9 275HX 游戏本，由/u/Nuka-Cola1提交 [链接] [评论]
+
+---
+
+Original:
+I can use the same conversation on my IPhone and it works perfectly, however when trying to do it on my laptop it sort of freezes. I’m pretty sure my laptop is more than enough to run the app. This is my laptop specs. ASUS ROG Strix G18 NVIDIA RTX 5070 Ti 32GB 18.0 WQXGA 240Hz Intel Core Ultra 9 275HX Gaming Laptop submitted by /u/Nuka-Cola1 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd3mr3</guid>
+      <pubDate>Wed, 14 Jan 2026 23:50:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>特朗普赋予官员广泛权力，决定哪些公司能获取英伟达（NVIDIA）芯片。这对马斯克的XAI有利，对其他AI公司则不然。 / Trump gives broad powers to its officials to decide which company gets access to NVIDIA Chips. Great for Musk's XAI. Not so great for all other AI companies.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd47sv/trump_gives_broad_powers_to_its_officials_to/</link>
+      <description>在大量关于美国对进口GPU征收25%新关税的新闻中，有两句话格外引人注目：公告称，商务部长霍华德·卢特尼克拥有广泛自由裁量权来实施进一步豁免。声明写道：“向商务部审查通过的商业客户提供H200芯片，是一种深思熟虑的平衡，对美国大有裨益。” 本质上，政府将有权决定哪些公司可以免关税使用GPU，哪些不行。预计马斯克的xAI将获得全面通行，而OpenAI则会受到挤压，除非他们继续向特朗普的朋友如拉里·埃里森支付保护费性质的基础设施费用。糟糕的Oracle Cloud之所以……
+
+---
+
+Original:
+Among the spate of news about new 25% tariff on GPUs being imported into US, two sentences stand out for me: Commerce Secretary Howard Lutnick has broad discretion to apply further exemptions, according to the proclamation. “Offering H200 to approved commercial customers, vetted by the Department of Commerce, strikes a thoughtful balance that is great for America,” the statement read. Basically, administration will get to chose which companies can use GPUs without tariffs and which can't. Look forward to Musk's xAI getting full access while OpenAI gets squeezed, unless they keep paying protection money infra fee to Trump's friends like Larry Ellison. The only reason the crappy Oracle Cloud i…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd47sv</guid>
+      <pubDate>Thu, 15 Jan 2026 00:14:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>思维机器实验室两位联合创始人将离职重返OpenAI / Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qd4ujq/two_thinking_machines_lab_cofounders_are_leaving/</link>
+      <description>由 /u/wiredmagazine 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/wiredmagazine [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qd4ujq</guid>
+      <pubDate>Thu, 15 Jan 2026 00:41:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

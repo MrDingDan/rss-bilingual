@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_tasker (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:29:02 +0000</lastBuildDate>
     <item>
       <title>[开发版] Tasker 6.6.17 候选版本发布 - App Factory 的最终更新（支持儿童应用中的Java代码）！ / [DEV] Tasker 6.6.17 Release Candidate - App Factory's Last Hurrah (Java Code in Kid Apps)!</title>
       <link>https://www.reddit.com/r/tasker/comments/1p74ypy/dev_tasker_6617_release_candidate_app_factorys/</link>
@@ -366,6 +366,30 @@ Original:
 I got a new phone and I'm having trouble setting up an exit task. I have a profile using the BT connection so that when my phone connects to my car it can launch a music app and raise the volume up all the way. When it disconnects from that Bluetooth device I want it to put the volume back down to one. I can't seem to figure out how to add an exit task. I tried long tapping on on everything I can see and just get options to add another task or unlink a task but not add an exit task. What am I missing? Thanks. submitted by /u/kelemvor33 [link] [comments]</description>
       <guid isPermaLink="false">reddit-tasker::t3_1qd2neh</guid>
       <pubDate>Wed, 14 Jan 2026 23:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>求助：意外删除的项目如何导入 / Help importing an accidentally deleted project</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qd4f0o/help_importing_an_accidentally_deleted_project/</link>
+      <description>我不小心删除了一个在AI辅助下慢慢开发的项目（我知道，很抱歉）。尽管之前的XML代码是能用的，但现在Tasker却报错“导入内容包含多个配置文件”。我试过以项目、配置文件、任务、直接导入项目文件、XML代码导入等多种方式，似乎都不行。真心希望有人能查看代码帮我解决，或者帮我重新导入。感谢任何帮助！我会附上XML文件。背景说明：我原本想在每次打开DoorDash零工应用时，移除一个保险应用的跟踪权限（已获保险公司许可，我只是……
+
+---
+
+Original:
+I accidentally wiped a project that I was slowly working on with the help of AI to write the code (I know, I'm sorry), and now despite the XML code previously working, Tasker is giving me an error "the import contains more than one Profile" I have tried importing it as a project, profile, task, direct project file import, XML code import, nothing seems to work. I'm really hoping someone can either look at the code and help me out, or otherwise help me to get it imported again. Thanks for any and all help! I'll attach the XML. For context I'm trying to remove an insurance app's tracking permissions whenever I open my DoorDash gig work app (I got permission from my insurance to do this, I'm ju…</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qd4f0o</guid>
+      <pubDate>Thu, 15 Jan 2026 00:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>单声道/立体声切换功能 / Mono/Stereo toggle</title>
+      <link>https://www.reddit.com/r/tasker/comments/1qd5nn3/monostereo_toggle/</link>
+      <description>我想创建一个在立体声和单声道之间的切换功能。尝试过用AutoTools的Secure Settings（安全设置）操作来调用设置选择器，但修改后找不到对应项。设置里的音频等选项似乎都没有我需要的功能。由 /u/Rubyheart255 提交 [链接] [评论]
+
+---
+
+Original:
+I'm looking to create a toggle between stereo and mono sound. I tried using autoTools secure settings action to use the setting picker, but it couldn't find when I changed it. Nothing in settings for audio, etc, seems what I'm looking for. submitted by /u/Rubyheart255 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-tasker::t3_1qd5nn3</guid>
+      <pubDate>Thu, 15 Jan 2026 01:17:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

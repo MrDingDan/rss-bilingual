@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:25:52 +0000</lastBuildDate>
     <item>
       <title>每周话题：项目展示 / Weekly Thread: Project Display</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1q6kv0f/weekly_thread_project_display/</link>
@@ -1236,6 +1236,30 @@ Original:
 Hello, I am wondering what is the typical input and output tokens ratio for agents you are developing. The following is the stats for one of the agents I built for my product after a number of runs. I have limits for output max tokens at 4096. Hence the ratio is very small. I'm wondering whether I should increase the output (obviously it increase input too as output will be part of history/context for the subsequent runs). What are people's thoughts? type value Input 5600543 Output 39005 I looked into github copilot models config for output, the typical ones are 16K, 64k, 128K for output. Note the models I am using support generating more than 4096 tokens definitely. submitted by /u/tangr208…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qd2v7j</guid>
       <pubDate>Wed, 14 Jan 2026 23:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>你是否也面临AI智能体在生产环境中表现不佳的问题，即便能清楚看到问题所在？ / Do you struggle with AI agents failing in production despite having full visibility into what went wrong?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd46xd/do_you_struggle_with_ai_agents_failing_in/</link>
+      <description>过去两年我一直在构建AI智能体，并注意到一个模式，我认为这阻碍了许多开发者（至少是我的团队）自信地将产品推向生产环境。你构建了一个智能体，在测试中表现优异。将其部署到生产环境后，最初几周运行稳定。接着：模型或RAG（检索增强生成）更新导致行为变化，评估分数缓慢下滑，冗余工具调用使成本开始攀升，用户开始给出矛盾反馈，并像使用ChatGPT那样探索系统极限，于是你需要再次手动调整提示词和工具，然后再次调整，周而复始。这个循环令人疲惫不堪。鉴于关于此主题的数据科学论文寥寥无几……
+
+---
+
+Original:
+I've been building AI agents for last 2 years, and I've noticed a pattern that I think is holding back a lot of builders, at least my team, from confidently shipping to production. You build an agent. It works great in testing. You ship it to production. For the first few weeks, it's solid. Then: A model or RAG gets updated and behavior shifts Your evaluation scores creep down slowly Costs start climbing because of redundant tool calls Users start giving conflicting feedback and explore the limits of your system by handling it like ChatGPT You need to manually tweak the prompt and tools again Then again Then again This cycle is exhausting. Given there are few data science papers written on t…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd46xd</guid>
+      <pubDate>Thu, 15 Jan 2026 00:13:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>有什么值得推荐的AI助手，能在法庭上协助自我辩护？ / Any AI Agent you would recommend to help you represent yourself in court?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qd6ina/any_ai_agent_you_would_recommend_to_help_you/</link>
+      <description>大家好，如果必须推荐一个不太昂贵的AI助手，来帮助你在法庭上自我辩护，你会选哪个？我的想法是，向AI输入案件信息、动议和相关资料，让它协助你更快地起草动议，因为它能更全面地把握案情。说来话长，我一直在家庭法庭自我辩护（Pro Se），并获得了孩子的主要抚养权和监护权。借助AI、YouTube和研究，我做得还不错，但现在希望提高效率，因为这事占用了太多本该陪伴孩子的时间。提交者：/u/FuzzyDice_12 [li…
+
+---
+
+Original:
+Hey Everyone, If you had to recommend one AI agent that wasn’t crazy expensive to help you represent yourself in court, which one would it be? What I was thinking was feed the AI information about the case, motions, and relevant information to help create motions yourself, but faster since it would have a larger scope of what you are dealing with. It’s a long story but basically I’ve been representing myself Pro Se in family court and have majority timeshare and custody of my kids. I’ve been doing well Pro Se between AI, YouTube, and researching but want to make things faster and efficient because this is taking time away from my kids which need me right now. submitted by /u/FuzzyDice_12 [li…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qd6ina</guid>
+      <pubDate>Thu, 15 Jan 2026 01:55:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

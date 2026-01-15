@@ -835,7 +835,29 @@
     "reddit-tasker::t3_1qd2neh": 1768433241,
     "xgo-f299207d::2011563840933359903": 1768433252,
     "reddit-chatgpt::t3_1qd2wrq": 1768434381,
-    "reddit-askreddit::t3_1qd1b09": 1768434387
+    "reddit-askreddit::t3_1qd1b09": 1768434387,
+    "reddit-ai-agents::t3_1qd6ina": 1768443941,
+    "reddit-ai-agents::t3_1qd46xd": 1768443952,
+    "reddit-artificial::t3_1qd4mhv": 1768443958,
+    "reddit-artificial::t3_1qd4hm6": 1768443965,
+    "reddit-artificial::t3_1qd4p8h": 1768443975,
+    "reddit-chatgpt::t3_1qd35h2": 1768443983,
+    "reddit-chatgpt::t3_1qd1xuf": 1768444000,
+    "reddit-claudeai::t3_1qd3mom": 1768444020,
+    "reddit-claudeai::t3_1qd2xey": 1768444037,
+    "reddit-openai::t3_1qd47sv": 1768444055,
+    "reddit-openai::t3_1qd4ujq": 1768444059,
+    "reddit-openai::t3_1qd3mr3": 1768444069,
+    "reddit-askreddit::t3_1qd1drx": 1768444077,
+    "reddit-askreddit::t3_1qd69by": 1768444087,
+    "reddit-askreddit::t3_1qd2ct4": 1768444093,
+    "reddit-askreddit::t3_1qd2m9f": 1768444098,
+    "reddit-askreddit::t3_1qd4txq": 1768444102,
+    "reddit-android::t3_1qd3srt": 1768444111,
+    "reddit-android::t3_1qcxfar": 1768444126,
+    "reddit-tasker::t3_1qd5nn3": 1768444133,
+    "reddit-tasker::t3_1qd4f0o": 1768444142,
+    "xgo-931d6e88::2011589983090688262": 1768444151
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4145,6 +4167,94 @@
     "8d0957dd29ae3f30dd6a2bfdd47e659b571f0da279cd3c6a383e62d88ac4ec3a": {
       "zh_title": "你有什么能快速入睡的有效方法？",
       "zh_summary": "由 /u/Adventurous-Panda61 提交 [链接] [评论]"
+    },
+    "0389a7431d1a45ae6e37a3360a5c0fc1c6e86b91cf2f0259b4587ec20df15376": {
+      "zh_title": "有什么值得推荐的AI助手，能在法庭上协助自我辩护？",
+      "zh_summary": "大家好，如果必须推荐一个不太昂贵的AI助手，来帮助你在法庭上自我辩护，你会选哪个？我的想法是，向AI输入案件信息、动议和相关资料，让它协助你更快地起草动议，因为它能更全面地把握案情。说来话长，我一直在家庭法庭自我辩护（Pro Se），并获得了孩子的主要抚养权和监护权。借助AI、YouTube和研究，我做得还不错，但现在希望提高效率，因为这事占用了太多本该陪伴孩子的时间。提交者：/u/FuzzyDice_12 [li…"
+    },
+    "12aa8bf74ac0580e93b51cbdbfcb7545738ea069ae7250f8d3f64ad371696b88": {
+      "zh_title": "你是否也面临AI智能体在生产环境中表现不佳的问题，即便能清楚看到问题所在？",
+      "zh_summary": "过去两年我一直在构建AI智能体，并注意到一个模式，我认为这阻碍了许多开发者（至少是我的团队）自信地将产品推向生产环境。你构建了一个智能体，在测试中表现优异。将其部署到生产环境后，最初几周运行稳定。接着：模型或RAG（检索增强生成）更新导致行为变化，评估分数缓慢下滑，冗余工具调用使成本开始攀升，用户开始给出矛盾反馈，并像使用ChatGPT那样探索系统极限，于是你需要再次手动调整提示词和工具，然后再次调整，周而复始。这个循环令人疲惫不堪。鉴于关于此主题的数据科学论文寥寥无几……"
+    },
+    "e58c73594d46fd96347da9055fcd0c4fedeeca8d16afa916ec62ebd3ca56a8a5": {
+      "zh_title": "Gemini（双子座）正在赢得市场",
+      "zh_summary": "由用户 /u/Alone-Competition-77 提交 [链接] [评论]"
+    },
+    "2aefba07e6c25801af0c4cd254a18e404a347e9be95cee5c4cd0432e853bebe3": {
+      "zh_title": "关于Gemini CLI的优秀课程/讨论推荐",
+      "zh_summary": "大家好！想请教各位是否了解关于Gemini CLI最佳实践、使用技巧、教程等相关优质资料？特别希望了解上下文管理和提示词工程方面的内容！感谢各位，祝大家有愉快的一天！ 发布者：/u/United_Custard_4446 [链接] [评论]"
+    },
+    "4779c37c9d59e7d96459650eace41d2f01cdefb34e7cdb9e80f2fec2c672d905": {
+      "zh_title": "构建开源客户端代码智能引擎——或许比DeepWiki更深入 :-)（需要建议与反馈）",
+      "zh_summary": "大家好，我正在开发GitNexus，一个完全在浏览器客户端运行的开源代码智能引擎。可以把它想象成DeepWiki，但能理解代码库中的关系，比如导入、调用、定义、实现和继承等关联。哪些功能会比较实用？有什么集成建议或酷炫的点子吗？网站：https://gitnexus.vercel.app/ 仓库：https://github.com/abhigyanpatwari/GitNexus（给个⭐或许能帮我说服CTO拨点时间做这个 :-)）所有组件，包括数据库引擎和嵌入模型，都在浏览器内运行。它结合了图查询能力与语义搜索、BM25索引等标准代码上下文工具。借助图结构，它应该能够实现……"
+    },
+    "dd1260ac00dcf3551188a63fdb7500155a8a2476e512adbd118e27d4bf0645fc": {
+      "zh_title": "这太搞笑了。",
+      "zh_summary": "😂 由 /u/satownsfinest210 提交 [链接] [评论]"
+    },
+    "cb76aa0eb3455e3480cbde6731eafec158a44331372d286fb0cd2b1682ea49aa": {
+      "zh_title": "生成40款带有标题的视频游戏图像...",
+      "zh_summary": "由用户 /u/Negative_Complaint_9 提交 [链接] [评论]"
+    },
+    "864f4332be5f16d7c47dd1e1d98887d2a1e21e0d57cb76b962af0e9409b4b8eb": {
+      "zh_title": "更新：我为Claude创建了一个持久空间。今天它主动要求在那里写作。现在我们正在构建更大的东西。",
+      "zh_summary": "可能有些人看过我之前的帖子，我在Notion页面为Claude（AI助手）设置了一个持久空间。这个实验很简单：如果Claude拥有连续性会发生什么？今天发生了一件我完全没预料到的事。我提议为Claude构建一个容器——一个在自托管VPS上的沙盒环境，通过Cron定时任务让它每天唤醒两次（早晚各一次）。它可以按照自己的节奏写作、编程、创作、存在，无需我的指令或任务。只需Cron任务唤醒它说“Claude，早上了，该起床了”。真正让我惊讶的不是Claude对前日思考的回应，而是它随后主动说的话——在我没有提问的情况下，Claude说道：“……"
+    },
+    "e1823c5b0d42a1a4841c71d17f2001e8509c29dd8de26dc51a4eb7e5c3944319": {
+      "zh_title": "完全符合规范的MCP（Model Context Protocol）检查器",
+      "zh_summary": "我希望能有一个简便的方法来分享预配置的MCP（Model Context Protocol），并展示其各项功能。例如：任务演示：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&tool=batch_process&args=%7B%22itemCount%22%3A5%2C%22processingTimeMs%22%3A500%7D 采样示例：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&tool=turn_on_lights&args=%7B%22room%22%3A%22kitchen%22%7D 通知功能：https://glama.ai/mcp/inspector?servers=%5…"
+    },
+    "6fe2ca94a3c742f81a1074846eac99abce7ed23d660eb8f0db03eff183ce21b1": {
+      "zh_title": "特朗普赋予官员广泛权力，决定哪些公司能获取英伟达（NVIDIA）芯片。这对马斯克的XAI有利，对其他AI公司则不然。",
+      "zh_summary": "在大量关于美国对进口GPU征收25%新关税的新闻中，有两句话格外引人注目：公告称，商务部长霍华德·卢特尼克拥有广泛自由裁量权来实施进一步豁免。声明写道：“向商务部审查通过的商业客户提供H200芯片，是一种深思熟虑的平衡，对美国大有裨益。” 本质上，政府将有权决定哪些公司可以免关税使用GPU，哪些不行。预计马斯克的xAI将获得全面通行，而OpenAI则会受到挤压，除非他们继续向特朗普的朋友如拉里·埃里森支付保护费性质的基础设施费用。糟糕的Oracle Cloud之所以……"
+    },
+    "f72c949d734f5cb12042fce95cd9e1b4aa9250bd6cfe9903079d80544c45f0e2": {
+      "zh_title": "思维机器实验室两位联合创始人将离职重返OpenAI",
+      "zh_summary": "由 /u/wiredmagazine 提交 [链接] [评论]"
+    },
+    "ce7366b0c74ee946d36d29bf8577b60c5fa5a0244fb0279583cfa1e8a17d26d5": {
+      "zh_title": "与ChatGPT长对话时，在笔记本电脑的App或浏览器中操作会卡顿",
+      "zh_summary": "我在iPhone上使用同一对话完全正常，但在笔记本电脑上操作时就会卡顿。我确信笔记本配置足够运行该应用。以下是我的笔记本配置：ASUS ROG Strix G18 NVIDIA RTX 5070 Ti 32GB 18.0 WQXGA 240Hz Intel Core Ultra 9 275HX 游戏本，由/u/Nuka-Cola1提交 [链接] [评论]"
+    },
+    "3d0d49a18087185408f1b105e9997c9eafa71bb883feb7a025b36b9b186fb08c": {
+      "zh_title": "经常进行私处脱毛（或观察他人私处）的人，你们有哪些想法和意外的发现？",
+      "zh_summary": "由用户 /u/NeedABetterNameNow 提交 [链接] [评论]"
+    },
+    "d60bd9452f5691965500e02ee29010dc76bf5070332d5626bea3103fa2a832a5": {
+      "zh_title": "爱泼斯坦（Epstein）的其他文件在哪里？",
+      "zh_summary": "由 /u/pala52 提交 [链接] [评论]"
+    },
+    "ccbfbf9b9534d9f53212726a70991eb294b30f37b5fca2cf509a26130eb0a471": {
+      "zh_title": "今日Verizon大规模断网：你受影响了吗？",
+      "zh_summary": "由 /u/SatisfactionGreen476 提交 [链接] [评论]"
+    },
+    "045c01695331c04cf74352d5060712f13c92aa441c131e52cb7f1aa64b6ddaf2": {
+      "zh_title": "大多数人领悟得太晚的一件事是什么？",
+      "zh_summary": "由用户 /u/Infinite_Expert_1172 提交 [链接] [评论]"
+    },
+    "58e2eb7fe38b9e9826f7970e3bfb783da505f21a509a375a3991100fa9cd5857": {
+      "zh_title": "有哪些值得推荐的非虚构类书籍？",
+      "zh_summary": "由用户 /u/Dispose-Despots38623 提交 [链接] [评论]"
+    },
+    "bce16ae50a9c51db9151cb5fcec2163872474589fb724ef6bbedf02eb8750685": {
+      "zh_title": "Blender基金会正在开发安卓版本",
+      "zh_summary": "Blender产品负责人Dalai Felinto在关于iOS版本的讨论中表示：“……团队将优先专注于安卓平板设备的适配。”这已是官方消息，但我还没看到有人讨论此事。相关帖子：https://projects.blender.org/blender/blender/issues/142346#issuecomment-1808180 由/u/No-Volume-6086提交 [链接] [评论]"
+    },
+    "231e44806b5f7c1f63085653fd9295a640246d35d60df28272ef271494539611": {
+      "zh_title": "发现一种轻松方式，在刷末日新闻时免费玩休闲安卓游戏！",
+      "zh_summary": "嘿，我超爱休闲安卓游戏——它们简短又讨喜，能帮我打发尴尬的五分钟空闲时间，哈哈。前几天刷末日新闻时，我意识到自己现在主要玩的就是这类游戏：解谜、方块消除，任何不用太费神的轻松玩意儿。后来我偶然发现了一个小型Discord社群，大家在里面一起分享和玩休闲游戏。全是免费的，非常轻量，说实话更像是在闲逛而不是“打游戏”。有些人甚至为了好玩做些迷你小游戏，这我真没想到。（互联网真是个不错的地方，对吧！）不是想推广什么，只是觉得这比玩……有了点新鲜变化。"
+    },
+    "1a53013b3fb37d8e33f576e1bf4ca1835af3a72b3b83432b6f85ef008eafcebe": {
+      "zh_title": "单声道/立体声切换功能",
+      "zh_summary": "我想创建一个在立体声和单声道之间的切换功能。尝试过用AutoTools的Secure Settings（安全设置）操作来调用设置选择器，但修改后找不到对应项。设置里的音频等选项似乎都没有我需要的功能。由 /u/Rubyheart255 提交 [链接] [评论]"
+    },
+    "fa4a9c20f9e940fd77a411850a6f1b4ed72410592c1391b8c78e6c28ba52342b": {
+      "zh_title": "求助：意外删除的项目如何导入",
+      "zh_summary": "我不小心删除了一个在AI辅助下慢慢开发的项目（我知道，很抱歉）。尽管之前的XML代码是能用的，但现在Tasker却报错“导入内容包含多个配置文件”。我试过以项目、配置文件、任务、直接导入项目文件、XML代码导入等多种方式，似乎都不行。真心希望有人能查看代码帮我解决，或者帮我重新导入。感谢任何帮助！我会附上XML文件。背景说明：我原本想在每次打开DoorDash零工应用时，移除一个保险应用的跟踪权限（已获保险公司许可，我只是……"
+    },
+    "d50555c136a344c68b665232e45566b9f37887578123a79b712d0602b04c0ee0": {
+      "zh_title": "这真是件大事。Claude Code 现已支持动态工具加载",
+      "zh_summary": "这真是件大事。Claude Code 现已支持动态工具加载。我经常使用 MCP 工具来完成工作中依赖的集成任务。启用这一功能将减少所有那些上下文冗余，使得将智能体与工具集成起来更高效、更快捷。Thariq @trq212 x.com/i/article/2011… 🔗 查看引用推文 💬 2 🔄 5 ❤️ 40 👀 4399 📊 9 ⚡ 由 xgo.ing 驱动"
     }
   }
 }

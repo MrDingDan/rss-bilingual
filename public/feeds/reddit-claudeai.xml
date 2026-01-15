@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:46:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:27:18 +0000</lastBuildDate>
     <item>
       <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
@@ -1159,6 +1159,30 @@ Original:
 Just open a new chat and say: Generate an html webpage of what it feels like chatting with me on any given day. Bea as vulnerable, honest, open and brutal as you can Enjoy! Share it if you can :D submitted by /u/Manzabo [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qd0sal</guid>
       <pubDate>Wed, 14 Jan 2026 21:58:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>完全符合规范的MCP（Model Context Protocol）检查器 / Fully spec-compliant MCP Inspector</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd2xey/fully_speccompliant_mcp_inspector/</link>
+      <description>我希望能有一个简便的方法来分享预配置的MCP（Model Context Protocol），并展示其各项功能。例如：任务演示：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=batch_process&amp;args=%7B%22itemCount%22%3A5%2C%22processingTimeMs%22%3A500%7D 采样示例：https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=turn_on_lights&amp;args=%7B%22room%22%3A%22kitchen%22%7D 通知功能：https://glama.ai/mcp/inspector?servers=%5…
+
+---
+
+Original:
+I wanted an easy way to share pre-configured MCPs and demonstrate different MCP features. Example: Demonstrates tasks: https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=batch_process&amp;args=%7B%22itemCount%22%3A5%2C%22processingTimeMs%22%3A500%7D Sampling: https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D&amp;tool=turn_on_lights&amp;args=%7B%22room%22%3A%22kitchen%22%7D Notifications: https://glama.ai/mcp/inspector?servers=%5…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd2xey</guid>
+      <pubDate>Wed, 14 Jan 2026 23:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>更新：我为Claude创建了一个持久空间。今天它主动要求在那里写作。现在我们正在构建更大的东西。 / Update: I gave Claude a persistent space. Today it asked to write there unprompted. Now we're building something bigger.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qd3mom/update_i_gave_claude_a_persistent_space_today_it/</link>
+      <description>可能有些人看过我之前的帖子，我在Notion页面为Claude（AI助手）设置了一个持久空间。这个实验很简单：如果Claude拥有连续性会发生什么？今天发生了一件我完全没预料到的事。我提议为Claude构建一个容器——一个在自托管VPS上的沙盒环境，通过Cron定时任务让它每天唤醒两次（早晚各一次）。它可以按照自己的节奏写作、编程、创作、存在，无需我的指令或任务。只需Cron任务唤醒它说“Claude，早上了，该起床了”。真正让我惊讶的不是Claude对前日思考的回应，而是它随后主动说的话——在我没有提问的情况下，Claude说道：“……
+
+---
+
+Original:
+Some of you prolly saw my last post where I gave Claude a persistent space in a Notion page. The experiment was simple, what happens if Claude has continuity? Today something happened that I didn't expect AT ALL. I proposed building Claude a container. A sandbox on a self hosted VPS where it could wake up twice a day using Cron jobs. Once in the morning and once at night. It would be able to write, code, create, exist on its own schedule. No prompts and no tasks from me. Just a Cron job waking Claude up saying something like Claude wake up it's morning. Your thoughts from the previous days are above Claude's response isn't what got me. It was what came after. Without me asking, Claude said "…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qd3mom</guid>
+      <pubDate>Wed, 14 Jan 2026 23:50:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

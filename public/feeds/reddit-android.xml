@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 23:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 02:28:46 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -548,6 +548,18 @@ I usually NEVER write anything online. Not even comments, let alone reddit posts
       <pubDate>Wed, 14 Jan 2026 19:25:14 +0000</pubDate>
     </item>
     <item>
+      <title>发现一种轻松方式，在刷末日新闻时免费玩休闲安卓游戏！ / Found a chill way to play casual Android games for free while doomscrolling !</title>
+      <link>https://www.reddit.com/r/Android/comments/1qcxfar/found_a_chill_way_to_play_casual_android_games/</link>
+      <description>嘿，我超爱休闲安卓游戏——它们简短又讨喜，能帮我打发尴尬的五分钟空闲时间，哈哈。前几天刷末日新闻时，我意识到自己现在主要玩的就是这类游戏：解谜、方块消除，任何不用太费神的轻松玩意儿。后来我偶然发现了一个小型Discord社群，大家在里面一起分享和玩休闲游戏。全是免费的，非常轻量，说实话更像是在闲逛而不是“打游戏”。有些人甚至为了好玩做些迷你小游戏，这我真没想到。（互联网真是个不错的地方，对吧！）不是想推广什么，只是觉得这比玩……有了点新鲜变化。
+
+---
+
+Original:
+Man, I'm a big fan of Casual android games, I mean they are short, sweet, saves me from the embarrassing 5 minutes when I have nothing to do, lol. While doomscrolling the other day I realised I mostly play casual Android games now — puzzle stuff, block games, anything low effort that doesn’t demand too much attention. I ended up stumbling into a small Discord where people share and play casual games together. Everything’s free, very light, and honestly feels more like hanging out than “gaming”. Some people there even make tiny mini-games for fun, which I didn’t expect. (Internet is such a noiiice place, right!) Not trying to promote anything here, just thought it was a nice change from playi…</description>
+      <guid isPermaLink="false">reddit-android::t3_1qcxfar</guid>
+      <pubDate>Wed, 14 Jan 2026 19:51:10 +0000</pubDate>
+    </item>
+    <item>
       <title>三星终于确认基础版Galaxy AI功能将保持免费 / Samsung finally confirms the basic Galaxy AI features staying free</title>
       <link>https://www.reddit.com/r/Android/comments/1qczwqx/samsung_finally_confirms_the_basic_galaxy_ai/</link>
       <description>由用户 /u/FragmentedChicken 提交 [链接] [评论]
@@ -558,6 +570,18 @@ Original:
 submitted by /u/FragmentedChicken [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qczwqx</guid>
       <pubDate>Wed, 14 Jan 2026 21:24:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blender基金会正在开发安卓版本 / blender org is making a port to android</title>
+      <link>https://www.reddit.com/r/Android/comments/1qd3srt/blender_org_is_making_a_port_to_android/</link>
+      <description>Blender产品负责人Dalai Felinto在关于iOS版本的讨论中表示：“……团队将优先专注于安卓平板设备的适配。”这已是官方消息，但我还没看到有人讨论此事。相关帖子：https://projects.blender.org/blender/blender/issues/142346#issuecomment-1808180 由/u/No-Volume-6086提交 [链接] [评论]
+
+---
+
+Original:
+so Dalai Felinto (the head of product in blender) in blender for ios say that "... The team will instead focus on the Android tablets first instead." so thats oficial but i havent see anyone taking about it the post: https://projects.blender.org/blender/blender/issues/142346#issuecomment-1808180 submitted by /u/No-Volume-6086 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qd3srt</guid>
+      <pubDate>Wed, 14 Jan 2026 23:57:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
