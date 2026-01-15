@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 14:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:39:49 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -858,6 +858,30 @@ Original:
 Google is separating the usage limits for Gemini 3 Pro and Thinking (Flash); Flash now has its own limit independent of Pro. submitted by /u/dadakoglu [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdkpbi</guid>
       <pubDate>Thu, 15 Jan 2026 14:17:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI模式：你更青睐标准模型还是三重专业思维？ / AI mode: your favorite model standard or 3 pro thinking?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdlc4s/ai_mode_your_favorite_model_standard_or_3_pro/</link>
+      <description>由用户/u/TrinityBoy22提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/TrinityBoy22 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdlc4s</guid>
+      <pubDate>Thu, 15 Jan 2026 14:42:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何获得更详细的回复？ / How can I get long responses back?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qdli8x/how_can_i_get_long_responses_back/</link>
+      <description>由用户 /u/MyshkinIdiot 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MyshkinIdiot [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qdli8x</guid>
+      <pubDate>Thu, 15 Jan 2026 14:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

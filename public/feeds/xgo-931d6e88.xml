@@ -6,7 +6,7 @@
     <description>Auto translated feed for xgo_931d6e88 (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 14:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:40:30 +0000</lastBuildDate>
     <item>
       <title>AI开发者必读好文（建议收藏） / Great read for AI devs.
 
@@ -725,6 +725,18 @@ Original:
 This is a big deal. Claude Code now has dynamic tool loading I use MCP tools a lot for integrations that my work depends on. Enabling this to reduce all of that context bloat is going to make it more effective and faster to integrate agents with tools. Thariq @trq212 x.com/i/article/2011… 🔗 View Quoted Tweet 💬 2 🔄 5 ❤️ 40 👀 4399 📊 9 ⚡ Powered by xgo.ing</description>
       <guid isPermaLink="false">xgo-931d6e88::2011589983090688262</guid>
       <pubDate>Thu, 15 Jan 2026 00:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>长周期任务的简易记忆解决方案 / Simple memory solution for long-horizon tasks.</title>
+      <link>https://x.com/omarsar0/status/2011815942129430940</link>
+      <description>长周期任务的简易记忆解决方案。DAIR.AI @dair_ai 提出LLM智能体的自主记忆管理。LLM智能体在处理长周期任务时，常因上下文膨胀而受阻：随着交互历史增长，计算成本激增、延迟增加，推理能力也因过往无关错误的干扰而下降。标准做法是仅追加记录：每个想法、工具调用和响应都会永久累积。这适用于短期任务，但在复杂探索中注定失败。本研究引入Focus，一种受黏菌（多头绒泡菌）启发的以智能体为中心的架构。其生物学启示在于：生物体不会完美保留穿越迷宫的每一次移动记录……
+
+---
+
+Original:
+Simple memory solution for long-horizon tasks. DAIR.AI @dair_ai Autonomous Memory Management in LLM Agents LLM agents struggle with long-horizon tasks due to context bloat. As interaction history grows, computational costs explode, latency increases, and reasoning degrades from distraction by irrelevant past errors. The standard approach is append-only: every thought, tool call, and response permanently accumulates. This works for short tasks but guarantees failure for complex exploration. This research introduces Focus, an agent-centric architecture inspired by slime mold (Physarum polycephalum). The biological insight: organisms do not retain perfect records of every movement through a maz…</description>
+      <guid isPermaLink="false">xgo-931d6e88::2011815942129430940</guid>
+      <pubDate>Thu, 15 Jan 2026 15:01:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

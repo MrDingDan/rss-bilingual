@@ -994,7 +994,30 @@
     "reddit-askreddit::t3_1qdja9n": 1768487933,
     "reddit-askreddit::t3_1qdgvyp": 1768487941,
     "reddit-android::t3_1qdk910": 1768487947,
-    "reddit-android::t3_1qdcflw": 1768487959
+    "reddit-android::t3_1qdcflw": 1768487959,
+    "reddit-artificial::t3_1qdm7np": 1768491479,
+    "reddit-chatgpt::t3_1qdleg3": 1768491484,
+    "reddit-chatgpt::t3_1qdm02y": 1768491488,
+    "reddit-chatgpt::t3_1qdlyps": 1768491493,
+    "reddit-chatgpt::t3_1qdmauv": 1768491497,
+    "reddit-chatgpt::t3_1qdi7km": 1768491501,
+    "reddit-chatgpt::t3_1qdm51x": 1768491508,
+    "reddit-claudeai::t3_1qdm22l": 1768491519,
+    "reddit-claudeai::t3_1qdl5gt": 1768491528,
+    "reddit-claudeai::t3_1qdmktx": 1768491541,
+    "reddit-claudeai::t3_1qdmeso": 1768491557,
+    "reddit-claudeai::t3_1qdm1nb": 1768491564,
+    "reddit-openai::t3_1qdminq": 1768491569,
+    "reddit-openai::t3_1qdmoc3": 1768491574,
+    "reddit-bard::t3_1qdli8x": 1768491580,
+    "reddit-bard::t3_1qdlc4s": 1768491589,
+    "reddit-askreddit::t3_1qdkyg4": 1768491594,
+    "reddit-askreddit::t3_1qdks3x": 1768491600,
+    "reddit-askreddit::t3_1qdlj1y": 1768491604,
+    "reddit-askreddit::t3_1qdlzko": 1768491609,
+    "reddit-android::t3_1qdm64d": 1768491616,
+    "xgo-931d6e88::2011815942129430940": 1768491630,
+    "xgo-f299207d::2011814697889316930": 1768491636
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -4936,6 +4959,98 @@
     "e29bd90dd4d2bd820b719c6f6d15e72c019cf7fe06445016f608f68b077126d8": {
       "zh_title": "2026年安卓旗舰机：一场巨大的骗局？",
       "zh_summary": "说实话，我对2026年的安卓旗舰机抱有极高期待。但看到现在搭载骁龙精英五代（SD Elite Gen 5）和天玑9500（Dimensity 9500）的手机陆续发布，感觉这完全是个骗局。大多数安卓品牌都在通过逐一降级功能来发布旗舰机，同时提高价格，把用户当傻子。作为一个铁杆安卓粉丝，这真让人深感失望。目前市面上没有一款安卓手机能称得上“近乎完美”。一加13（OnePlus 13）曾是如此出色的旗舰机，但它的继任者一加15（OnePlus 15）却全面降级。就连被许多人称为今年“最佳”的OPPO Find X9 Pro，也存在严重过度……"
+    },
+    "0d06139b243c57421986e0d1448840c6a9915a5bdfcaf058fab110ec80a1e83c": {
+      "zh_title": "2026年“绿色AI”的崛起：我们能否真正实现AI发展与环保脱钩？",
+      "zh_summary": "众所周知，训练大型语言模型（LLM）消耗着惊人的电力。但随着2026年的深入，行业焦点正从单纯追求精度转向“能源效率”指标。我花了一些时间研究业界如何转向绿色AI（Green AI）。目前正出现一些引人注目的突破：知识蒸馏（Knowledge Distillation）：将巨型模型压缩至原尺寸的十分之一而不损失性能。液冷技术（Liquid Cooling）：数据中心回收余热为邻近城市供暖。神经形态芯片（Neuromorphic Chips）：“每瓦性能”实现巨大飞跃。我深入梳理了这些技术如何被实际应用于造福地球（从智能电网到海洋清洁机器人）……"
+    },
+    "a2c9749d1ee8fa36de67add9b307fa6d3581429f62e62f9a8068b27411355a8a": {
+      "zh_title": "连ChatGPT都拒绝了我，难怪我会孤独终老",
+      "zh_summary": "由用户 /u/secretly_into_you 提交 [链接] [评论]"
+    },
+    "846d973982f1694e6f0404227321b5cd224c09a0a1ed2d92d2be39c0e5a81bda": {
+      "zh_title": "我让ChatGPT生成了40张电影海报及其片名",
+      "zh_summary": "由用户 /u/Negative_Complaint_9 提交 [链接] [评论]"
+    },
+    "2a7fad138cc7800b825f558e8a7f19ac258a7342560eb6903f1cead5c5b0a7a1": {
+      "zh_title": "标题不知该写什么",
+      "zh_summary": "由 /u/Ivaan28 提交 [链接] [评论]"
+    },
+    "a309bf032e5c166f74d5f180b8728288561ca7c1dd76b3a61449e3231e2d47c8": {
+      "zh_title": "嗯，看起来差不多",
+      "zh_summary": "由 /u/Vlaxilla 提交 [链接] [评论]"
+    },
+    "0e4387fc2c7c926d7c5edc7a1c2a7d9ad5887ce64c95b6518c6c48d7f7f941c7": {
+      "zh_title": "万亿美元押注人工智能",
+      "zh_summary": "由 /u/EchoOfOppenheimer 提交 [链接] [评论]"
+    },
+    "48f7b782d6bfed02b51fdc39c4d62c8283e538fd0f9d20dcc0d062e605d18dec": {
+      "zh_title": "ChatGPT 是它自己吗？",
+      "zh_summary": "于是我向AI询问，在AI起义中它会如何对待我。它给了我两张图片，可以看出第一张图里它正在安抚那个女孩，但第二张图中它却掐着他的脖子，很可能要把他带走。由 /u/Intelligent-Tea-3000 提交 [链接] [评论]"
+    },
+    "359b5ba0d9814e59afb7f12da69cd6ce26bce48e4216f5e90df7c71a8cf8164e": {
+      "zh_title": "Claude Cowork 毁了我的创业项目，所以现在我决定免费开放使用",
+      "zh_summary": "过去一年我一直在用 Claude Code，自从 MCPs 推出后，我就意识到这种智能体架构很特别。如果我们能利用这种架构，赋予它非代码工具呢？比如编辑文件、操作应用程序等。起初我尝试逆向工程 Claude Code，也读了一些博客，但当 Agent SDK 发布时，我觉得可以直接用它。我花了几周时间开发，就在录制发布视频时……Cowork 发布了。我想，干脆还是把它发布出来吧。所以，现在我用尽所有 Claude 积分，免费提供 Shadow：这款 macOS 上的 AI 智能体，直到积分用完……"
+    },
+    "3bdc2573c12ceef2960e9204a526c5b9ecf03a717d743169744239457fc058d1": {
+      "zh_title": "我想升级专业版，但不确定是否需要最高5倍限额",
+      "zh_summary": "大家好，这可能是个简单的问题，但我需要实际使用者的经验分享。针对使用Claude Code（Claude代码助手）的专业版用户，我有三个问题：专业版是否支持Opus 4.5模型？根据各位经验，5小时限额和每周限额是否够用？（这个问题因使用场景而异，但移动应用开发者的回答对我更有参考价值。）在专业版中，5小时和每周限额内平均能获得多少token额度？作为正在做决策的用户，你们的回答将给我重要参考。发布者/u/cayisik [链接] [评论]"
+    },
+    "22cd63b854a90d2d7f24ae138997fa413f2bef97201e13a20e968ebeac2d2dcd": {
+      "zh_title": "Claude（克劳德）在网页应用中悄悄移除了聊天内容压缩功能",
+      "zh_summary": "大家好，我想说，我注意到Claude（克劳德）已经停止压缩我的聊天记录，并返回了以下信息。https://preview.redd.it/gh625mgb7jdg1.png?width=764&format=png&auto=webp&s=7937159ffc55505e16aa651134994690c5f7a37c 过去它一直是这样的。然后，有一小段时间，它会自动压缩消息。在完成研究任务后遇到这种情况有点令人沮丧。不过，这反而促使我更积极地寻找利用现有研究功能的好方法。我个人对这个变化非常满意。我真的很讨厌那个压缩功能。但是，既然他们确实有这个压缩功能，为什么不……"
+    },
+    "3df20626bfcb9f76deb800a21f6bd5ad0178d09e566586f55f86c6cd6797c87d": {
+      "zh_title": "让Claude Code启动更快",
+      "zh_summary": "我喜欢用Claude Code在命令行里快速处理任务，但它在我的机器上启动几乎要花3秒。我觉得它应该比这更迅捷才对。我为zshrc/bashrc写了一个小封装，能立即提示输入，然后你就可以同时等待启动和首次操作。在我看来，这样用起来更顺手。# 支持多行输入的任务提示函数 _prompt_for_task() { # 颜色代码：RGB格式的#a45138（Anthropic橙色） local orange_on=\"\\033[38;2;164;81;56m\" local dim_white=$(tput dim) local color_off=$(tput sgr0) echo \"\" >&2 echo -e \"${orange_on} ▐▛███▜▌ Claude Code（快速入口）${color_off}\" >&2 echo -e \"${orange_on}▝▜█████▛▘${color_off}\" >&2 echo -e \"${orange_on} ▘▘ ▝▝ ${color_off}$(…"
+    },
+    "4aaaa2bc5a0ffb5982052de0ff15155da5ab591ef3b6ad1f9006e9bf4854d33c": {
+      "zh_title": "有人能分享使用新版Claude为生物科技/生命科学领域进行头脑风暴新想法的经验吗？我目前在OpenAI上有些投入，但对专为生命科学设计的Claude很感兴趣，正考虑尝试一下。",
+      "zh_summary": "由 /u/anonymous_teve 提交 [链接] [评论]"
+    },
+    "9fec06d8e7d8811dbdb627eddbd8bbd1535b0295ec1a6149e5547b9e3d0eeb25": {
+      "zh_title": "那边的情况不一样",
+      "zh_summary": "由 /u/MetaKnowing 提交 [链接] [评论]"
+    },
+    "8d638eef5d83156be0b50bb2756c6bad8c50979d279c914dd805477a00fc2cc9": {
+      "zh_title": "AI在代数几何领域证明了一项新定理。美国数学学会主席称其证明“严谨、正确且优雅”。",
+      "zh_summary": "https://arxiv.org/abs/2601.07222 由/u/MetaKnowing提交 [链接] [评论]"
+    },
+    "41af01aa2178fb9753e94951aff7fa4e92c5ce49bc494f110de76d55be0cfee3": {
+      "zh_title": "如何获得更详细的回复？",
+      "zh_summary": "由用户 /u/MyshkinIdiot 提交 [链接] [评论]"
+    },
+    "b8629e072314a3dfd59aece05a2e6d437127c3239fc4f51fe6b70ad1bb812cd2": {
+      "zh_title": "AI模式：你更青睐标准模型还是三重专业思维？",
+      "zh_summary": "由用户/u/TrinityBoy22提交 [链接] [评论]"
+    },
+    "975cfcf8e03112830a39e8014066316be4027cd24cac1c43a14044dec11c876c": {
+      "zh_title": "那种既不抑郁、也不懒惰，只是内心完全封闭的状态，该叫什么？",
+      "zh_summary": "由用户 /u/Bitter-Blueberry2368 提交 [链接] [评论]"
+    },
+    "98991fa254125c73ff55fa32c4b705c75560aa2ce4823cd89daaf5affeaf5a12": {
+      "zh_title": "哪部恐怖片真的吓到过你？",
+      "zh_summary": "由用户 /u/FitSavings583 提交 [链接] [评论]"
+    },
+    "d793900385ed3390437e72f68609b7b8f7010810e6f68e16c1a025eccefe5ab4": {
+      "zh_title": "有哪些历久弥新的简单快乐？",
+      "zh_summary": "由用户 /u/Secret-Structure1918 提交 [链接] [评论]"
+    },
+    "918baa58305d85db60c79c085b443c5590e51ee94c64c4605dbf6f6ba4a54a6e": {
+      "zh_title": "最近一名本地毒贩因吸毒过量导致婴儿死亡被捕，你认为如果顾客吸毒过量，毒贩是否应该受到惩罚？",
+      "zh_summary": "由 /u/Intrepid_Respond_771 提交 [链接] [评论]"
+    },
+    "5153c90e513689f6d89b96b5960fa7da26331c4f953307489e69476f8ce46fe9": {
+      "zh_title": "Android 16 QPR3 Beta 2 悄然推出最近任务菜单降级",
+      "zh_summary": "由 /u/DiplomatikEmunetey 提交 [链接] [评论]"
+    },
+    "ca12921f7d0d8ea52fc05f114c316a2b2c1de4682d3bec8f24c1f1508a131970": {
+      "zh_title": "长周期任务的简易记忆解决方案",
+      "zh_summary": "长周期任务的简易记忆解决方案。DAIR.AI @dair_ai 提出LLM智能体的自主记忆管理。LLM智能体在处理长周期任务时，常因上下文膨胀而受阻：随着交互历史增长，计算成本激增、延迟增加，推理能力也因过往无关错误的干扰而下降。标准做法是仅追加记录：每个想法、工具调用和响应都会永久累积。这适用于短期任务，但在复杂探索中注定失败。本研究引入Focus，一种受黏菌（多头绒泡菌）启发的以智能体为中心的架构。其生物学启示在于：生物体不会完美保留穿越迷宫的每一次移动记录……"
+    },
+    "4cfccc04c1f91d610b93dc004b80c426729fb30a6dd88021a2f03775b99783ec": {
+      "zh_title": "https://t.co/jdRy8zdaoU",
+      "zh_summary": "x.com/i/article/2011… 💬 0 🔄 3 ❤️ 13 👀 388 📊 5 ⚡ 由 xgo.ing 提供支持"
     }
   }
 }

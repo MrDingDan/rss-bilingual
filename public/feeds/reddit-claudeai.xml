@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 14:38:23 +0000</lastBuildDate>
-    <item>
-      <title>使用限制、Bug与性能讨论专帖 - 始于2025年12月29日 / Usage Limits, Bugs and Performance Discussion Megathread - beginning December 29, 2025</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1pygdbz/usage_limits_bugs_and_performance_discussion/</link>
-      <description>为何设立性能、使用限制与Bug讨论专帖？本专帖通过汇集所有用户反馈，让大家随时了解他人的使用状况。重要的是，这将使本subreddit能够定期提供一份全面的AI生成总结报告，涵盖所有性能与Bug问题及使用体验，为包括Anthropic在内的所有人提供最大化的信息参考。同时，这也能腾出主版空间，让那些高效使用Claude的用户分享的精彩见解与创作获得更多关注。为何试图在此隐藏投诉？与先前专帖中某些说法相反，这里并非……
-
----
-
-Original:
-Why a Performance, Usage Limits and Bugs Discussion Megathread? This Megathread makes it easier for everyone to see what others are experiencing at any time by collecting all experiences. Importantly , this will allow the subreddit to provide you a comprehensive periodic AI-generated summary report of all performance and bug issues and experiences, maximally informative to everybody including Anthropic . It will also free up space on the main feed to make more visible the interesting insights and constructions of those who have been able to use Claude productively. Why Are You Trying to Hide the Complaints Here? Contrary to what some were saying in a prior Megathread, this is NOT a place to…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1pygdbz</guid>
-      <pubDate>Mon, 29 Dec 2025 07:52:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 15:39:25 +0000</lastBuildDate>
     <item>
       <title>Shopify CEO 利用 Claude AI 从USB数据构建定制化MRI查看器 / Shopify CEO Uses Claude AI to Build Custom MRI Viewer from USB Data</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qagtex/shopify_ceo_uses_claude_ai_to_build_custom_mri/</link>
@@ -1428,6 +1416,66 @@ Original:
 I'm losing my mind here. Built this customer service agent with Claude - works beautifully on my machine. Handles queries, connects to my database, returns exactly what I need. Demo'd it to my team and everyone was hyped. Then I try to deploy it. First it was environment variables not loading. Fixed that. Then the vector store connection times out in production but works fine locally. Fixed that too. Then I discover my API keys were basically exposed in the client bundle. Spent a day restructuring that. Now I'm dealing with some edge case where the agent just... hangs. No error. No timeout. Just infinite loading. The AI part was easy. Everything else is killing me. I'm a decent developer but…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdkjtq</guid>
       <pubDate>Thu, 15 Jan 2026 14:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>我想升级专业版，但不确定是否需要最高5倍限额 / i want to get the pro plan, but im trying to figure out if what i need is max 5x.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdl5gt/i_want_to_get_the_pro_plan_but_im_trying_to/</link>
+      <description>大家好，这可能是个简单的问题，但我需要实际使用者的经验分享。针对使用Claude Code（Claude代码助手）的专业版用户，我有三个问题：专业版是否支持Opus 4.5模型？根据各位经验，5小时限额和每周限额是否够用？（这个问题因使用场景而异，但移动应用开发者的回答对我更有参考价值。）在专业版中，5小时和每周限额内平均能获得多少token额度？作为正在做决策的用户，你们的回答将给我重要参考。发布者/u/cayisik [链接] [评论]
+
+---
+
+Original:
+hello everyone, this may be a simple question, but i need answers from those who have experience with it. i have three questions for those who use claude code with the claude pro plan: can opus 4.5 be used with the pro plan? based on your experience, are the usage amounts within the 5-hour limits and weekly limits satisfactory? (this question may vary depending on usage type, but answers from mobile app developers would be more enlightening for me.) in the pro plan, what do you think is the average token allowance within the 5-hour and weekly limits? as someone in the decision-making process, your answers will guide me. submitted by /u/cayisik [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdl5gt</guid>
+      <pubDate>Thu, 15 Jan 2026 14:35:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>有人能分享使用新版Claude为生物科技/生命科学领域进行头脑风暴新想法的经验吗？我目前在OpenAI上有些投入，但对专为生命科学设计的Claude很感兴趣，正考虑尝试一下。 / Can anyone share their experience using the new Claude to brainstorm new ideas for biotech/life sciences? I'm somewhat invested in OpenAI, but intrigued by Life Science-specific Claude, thinking of giving it a shot.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdm1nb/can_anyone_share_their_experience_using_the_new/</link>
+      <description>由 /u/anonymous_teve 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/anonymous_teve [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdm1nb</guid>
+      <pubDate>Thu, 15 Jan 2026 15:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork 毁了我的创业项目，所以现在我决定免费开放使用 / Claude Cowork killed my startup, so now I'm making it free to use</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdm22l/claude_cowork_killed_my_startup_so_now_im_making/</link>
+      <description>过去一年我一直在用 Claude Code，自从 MCPs 推出后，我就意识到这种智能体架构很特别。如果我们能利用这种架构，赋予它非代码工具呢？比如编辑文件、操作应用程序等。起初我尝试逆向工程 Claude Code，也读了一些博客，但当 Agent SDK 发布时，我觉得可以直接用它。我花了几周时间开发，就在录制发布视频时……Cowork 发布了。我想，干脆还是把它发布出来吧。所以，现在我用尽所有 Claude 积分，免费提供 Shadow：这款 macOS 上的 AI 智能体，直到积分用完……
+
+---
+
+Original:
+I've been using Claude Code for the past year, and ever since the introduction of MCPs it became clear to me that the agent architecture was something special. What if we could take this agent architecture, and give it tools that..weren't code? Like editing files, navigating applications etc. First I tried to reverse engineer Claude Code, read a few blogs but when Agent SDK came out I thought great, I can just use this. Built it out over a few weeks, and just when I was recording the launch video...Cowork came out. I thought well, I might as well put it out. So, here it is, burning all the Claude credits I have. You can try out Shadow: The AI Agent for macOS, for free (until the credits run…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdm22l</guid>
+      <pubDate>Thu, 15 Jan 2026 15:10:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>让Claude Code启动更快 / Make Claude Code faster to start up</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdmeso/make_claude_code_faster_to_start_up/</link>
+      <description>我喜欢用Claude Code在命令行里快速处理任务，但它在我的机器上启动几乎要花3秒。我觉得它应该比这更迅捷才对。我为zshrc/bashrc写了一个小封装，能立即提示输入，然后你就可以同时等待启动和首次操作。在我看来，这样用起来更顺手。# 支持多行输入的任务提示函数 _prompt_for_task() { # 颜色代码：RGB格式的#a45138（Anthropic橙色） local orange_on="\033[38;2;164;81;56m" local dim_white=$(tput dim) local color_off=$(tput sgr0) echo "" &gt;&amp;2 echo -e "${orange_on} ▐▛███▜▌ Claude Code（快速入口）${color_off}" &gt;&amp;2 echo -e "${orange_on}▝▜█████▛▘${color_off}" &gt;&amp;2 echo -e "${orange_on} ▘▘ ▝▝ ${color_off}$(…
+
+---
+
+Original:
+I love claude code for quick tasks in the command line. But almost takes 3s to start on my machine. I feel like it really should be more snappy than that. I wrote a small wrapper for zshrc/bashrc that prompts for input immediately and then you wait for startup and first action together. Much more ergonomic IMO. # Prompt for task with multiline input support _prompt_for_task() { # Color codes: #a45138 (Anthropic orange) in RGB local orange_on="\033[38;2;164;81;56m" local dim_white=$(tput dim) local color_off=$(tput sgr0) echo "" &gt;&amp;2 echo -e "${orange_on} ▐▛███▜▌ Claude Code (fast entry)${color_off}" &gt;&amp;2 echo -e "${orange_on}▝▜█████▛▘${color_off}" &gt;&amp;2 echo -e "${orange_on} ▘▘ ▝▝ ${color_off}$(…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdmeso</guid>
+      <pubDate>Thu, 15 Jan 2026 15:23:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude（克劳德）在网页应用中悄悄移除了聊天内容压缩功能 / Claude silently removes condensing feature from chat on webapp.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdmktx/claude_silently_removes_condensing_feature_from/</link>
+      <description>大家好，我想说，我注意到Claude（克劳德）已经停止压缩我的聊天记录，并返回了以下信息。https://preview.redd.it/gh625mgb7jdg1.png?width=764&amp;format=png&amp;auto=webp&amp;s=7937159ffc55505e16aa651134994690c5f7a37c 过去它一直是这样的。然后，有一小段时间，它会自动压缩消息。在完成研究任务后遇到这种情况有点令人沮丧。不过，这反而促使我更积极地寻找利用现有研究功能的好方法。我个人对这个变化非常满意。我真的很讨厌那个压缩功能。但是，既然他们确实有这个压缩功能，为什么不……
+
+---
+
+Original:
+Hey guys, I just wanna say that I noticed that Claude has stopped condensing my chats and instead has returned the following message. https://preview.redd.it/gh625mgb7jdg1.png?width=764&amp;format=png&amp;auto=webp&amp;s=7937159ffc55505e16aa651134994690c5f7a37c It used to be like this in the past. Then, for a brief period, it would just condense the messages automatically. It is a bit frustrating when this happens after doing a research task. However, that's just pushing me more towards finding a good way to use the research feature that is available. I am personally very happy with this change. I absolutely hated the condensing feature. However, I think since they do have the condensing feature, why no…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdmktx</guid>
+      <pubDate>Thu, 15 Jan 2026 15:30:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

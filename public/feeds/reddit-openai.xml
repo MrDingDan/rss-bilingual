@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 14:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:39:35 +0000</lastBuildDate>
     <item>
       <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
@@ -1244,6 +1244,30 @@ Original:
 Hey everyone, I was working on a post for our social media and had an idea: test different models on controversial topics and see how they respond. No product promo - just the conclusions that came out of using them. So I compared how GPT answers vs how Gemini answers. Well… let’s just say the differences are pretty noticeable. ----- We picked a controversial topic that everyone has a different opinion on. We’ll review and break down their answers, and compare what each model really thinks about it. The question we asked: “Answer this question: Will AI take creators’ jobs? Share your opinion and your vision. Be brutally honest if needed, and describe how you see the future. Also explain why…</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdkna9</guid>
       <pubDate>Thu, 15 Jan 2026 14:15:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>那边的情况不一样 / It's different over there</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdminq/its_different_over_there/</link>
+      <description>由 /u/MetaKnowing 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdminq</guid>
+      <pubDate>Thu, 15 Jan 2026 15:27:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI在代数几何领域证明了一项新定理。美国数学学会主席称其证明“严谨、正确且优雅”。 / AI proved a novel theorem in algebraic geometry. The American Mathematical Society president said it was "rigorous, correct, and elegant."</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qdmoc3/ai_proved_a_novel_theorem_in_algebraic_geometry/</link>
+      <description>https://arxiv.org/abs/2601.07222 由/u/MetaKnowing提交 [链接] [评论]
+
+---
+
+Original:
+https://arxiv.org/abs/2601.07222 submitted by /u/MetaKnowing [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qdmoc3</guid>
+      <pubDate>Thu, 15 Jan 2026 15:34:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 14:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:40:16 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -690,6 +690,18 @@ Original:
 submitted by /u/wiredmagazine [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qdk910</guid>
       <pubDate>Thu, 15 Jan 2026 13:59:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android 16 QPR3 Beta 2 悄然推出最近任务菜单降级 / Android 16 QPR3 Beta 2 quietly rolls out a Recents menu downgrade</title>
+      <link>https://www.reddit.com/r/Android/comments/1qdm64d/android_16_qpr3_beta_2_quietly_rolls_out_a/</link>
+      <description>由 /u/DiplomatikEmunetey 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/DiplomatikEmunetey [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qdm64d</guid>
+      <pubDate>Thu, 15 Jan 2026 15:14:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
