@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 23:48:00 +0000</lastBuildDate>
-    <item>
-      <title>Claude代码完全指南：全局CLAUDE.md、MCP服务器、命令，以及为何单主题对话至关重要 / The Complete Guide to Claude Code: Global CLAUDE.md, MCP Servers, Commands, and Why Single-Purpose Chats Matter</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbkk1n/the_complete_guide_to_claude_code_global_claudemd/</link>
-      <description>TL;DR：你的全局文件 ~/.claude/CLAUDE.md 既是防止密钥泄露到生产环境的安全守门员，也是确保每个新项目遵循相同结构的项目脚手架蓝图。MCP服务器能指数级扩展Claude的能力。Context7让Claude能访问最新文档。自定义命令和代理可以自动化重复性工作流。研究表明，在单次对话中混合主题会导致性能下降39%——因此请保持对话主题聚焦。第一部分：作为安全守门员的全局CLAUDE.md 内存层级 Claude Code按特定顺序加载CLAUDE.md文件：层级 位置 用途 企业级 /etc/claude-code/CLAUDE.md 组织范围策略 全局…
-
----
-
-Original:
-TL;DR: Your global ~/.claude/CLAUDE.md is a security gatekeeper that prevents secrets from reaching production AND a project scaffolding blueprint that ensures every new project follows the same structure. MCP servers extend Claude's capabilities exponentially. Context7 gives Claude access to up-to-date documentation. Custom commands and agents automate repetitive workflows. And research shows mixing topics in a single chat causes 39% performance degradation — so keep chats focused. Part 1: The Global CLAUDE.md as Security Gatekeeper The Memory Hierarchy Claude Code loads CLAUDE.md files in a specific order: Level Location Purpose Enterprise /etc/claude-code/CLAUDE.md Org-wide policies Globa…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbkk1n</guid>
-      <pubDate>Tue, 13 Jan 2026 06:56:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>打造移动端优化的多Claude Code会话管理应用（自托管） / Built a mobile optimized app for managing multiple Claude Code sessions (self hosted)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbknnt/built_a_mobile_optimized_app_for_managing/</link>
-      <description>大家好，最近我开发了一款工具，真心相信它将引领编程与工程的新方式：AgentOS，一个移动优先的网页界面，用于管理AI编程会话（Claude Code、Codex、Aider、Gemini CLI）。支持自托管，具备多窗格终端、Git集成和会话编排功能。虽然听起来有点复杂，但简单来说，它能让你在手机上轻松编程。我之前使用常规方案（Termius + SSH）时遇到的一个问题是，无法方便地上传图片给Claude，也难以快速启动开发服务器。而这个工具能让你在手机上完成所有这些操作。它完全免费，并且我已将其开源……
-
----
-
-Original:
-Hi all, I've recently been working on a tool that I truly believe will be the way we start doing programming and engineering: AgentOS, a Mobile-first web UI for managing AI coding sessions (Claude Code, Codex, Aider, Gemini CLI). Self-hosted with multi-pane terminals, git integration, and session orchestration. That's a mouthful, but basically it helps you code on your phone in a way that is really easy. One of the problems I was running into with the typical setup (Termius + SSH) is that I wasn't able to easily upload images for claude, and I wasn't able to start my dev server easily. This tool will help you do ALL OF THAT from your phone. It's completely free and I've open sourced it as we…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbknnt</guid>
-      <pubDate>Tue, 13 Jan 2026 07:02:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>为什么Claude如此出色？ / Why is Claude that good?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbmhic/why_is_claude_that_good/</link>
-      <description>ChatGPT拥有用户，Gemini拥有资金，deepseek拥有创新。那Claude（克劳德）有什么呢？相比这三位竞争对手，是什么让它对话时显得更强大、更自然？由/u/Much-Inevitable5083提交 [链接] [评论]
-
----
-
-Original:
-ChatGPT has the users, Gemini has the money, deepseek has the inventions. What does Claude have? Like, that makes it feel so much stronger and more natural sounding when talking to, compared to said 3 competitors? submitted by /u/Much-Inevitable5083 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbmhic</guid>
-      <pubDate>Tue, 13 Jan 2026 08:57:48 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 02:28:51 +0000</lastBuildDate>
     <item>
       <title>Claude状态栏在2.1.6版本更新后现已显示实际上下文 / Claude status line can now show actual context after 2.1.6 update</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/</link>
@@ -1492,6 +1456,42 @@ Original:
 See the exact changes Claude made without leaving the app. Previously you had to switch to GitHub or your IDE to review changes in depth. Now you can view full diffs and leave inline comments to iterate with Claude, all in one place. Try it at http://claude.com/code submitted by /u/ClaudeOfficial [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qdxtk6</guid>
       <pubDate>Thu, 15 Jan 2026 22:22:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>mcp工具搜索现已上线。若无法使用：请设置 ENABLE_TOOL_SEARCH=true / mcp tool search is live. if it's not working: export ENABLE_TOOL_SEARCH=true</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdz1hg/mcp_tool_search_is_live_if_its_not_working_export/</link>
+      <description>简而言之：以往mcp工具会占用20-50%的上下文空间，导致用户尚未输入任何指令就已消耗大量资源。如今工具搜索功能已改为按需加载。若您尚未启用该功能：请在启动claude前执行 export ENABLE_TOOL_SEARCH=true。这件事让我困扰数月——当你连接若干mcp服务器（如Figma、Playwright、Github或Notion），系统提示和对话历史已占用部分资源，再加上mcp工具定义？简直雪上加霜。我尝试过各种方案：代码执行封装器、延迟加载技能……
+
+---
+
+Original:
+TL;DR : mcp tools used to eat 20-50% of context before you could type anything. tool search loads them on-demand now. if it's not enabled for you yet: export ENABLE_TOOL_SEARCH=true before launching claude. alright so this has been driving me insane for months. you connect a few mcp servers. figma, playwright, github, maybe notion. suddenly 30-50% of your context window is gone before you even type a prompt. sessions dying every 10-15 minutes with opus. genuinely cooked. we only get 200k context and a chunk of that is already eaten by system prompts and conversation history. mcp tool definitions on top of that? brutal. i tried everything. code execution wrappers, skills with lazy loading, un…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdz1hg</guid>
+      <pubDate>Thu, 15 Jan 2026 23:10:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>我为Claude打造了一个上下文健康指示器（显示信息衰减 + 一键切换） / I built a Context Health Orb for Claude (shows drift + 1‑click handoff)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe26ej/i_built_a_context_health_orb_for_claude_shows/</link>
+      <description>大家好，我一直搞不清何时该开启新对话来避免上下文信息衰减，所以做了个能提示我的浏览器扩展。它会显示当前对话的字符数、令牌数和消息数量。点击“刷新上下文”即可开启新对话，并自动生成总结前序内容的预设提示，让你无缝衔接。这是我第一次动手开发，AI真是太棒了。https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;format=png&amp;auto=webp&amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;format=png&amp;auto=webp&amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude上下文健康指示器 由/u/SIGH_I_CALL提交 [链接] [评论]
+
+---
+
+Original:
+Hi reddit, I could never figure out when to start a new chat to avoid context rot so I made an extension that tells me. It has # of characters, tokens, and messages in the conversation. Click refresh context to open a new chat with a prewritten prompt summarizing the conversation so you can pick up where you left off. First time I've ever built anything, AI is awesome. https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;format=png&amp;auto=webp&amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;format=png&amp;auto=webp&amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude Context Health Orb submitted by /u/SIGH_I_CALL [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe26ej</guid>
+      <pubDate>Fri, 16 Jan 2026 01:21:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐄 开发了一个有趣又实用的小插件：Claude Code 需要权限时会发出“哞”声 / 🐄 Made a silly but useful plugin: Claude Code plays a "moo" sound when it needs your permission</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe33hg/made_a_silly_but_useful_plugin_claude_code_plays/</link>
+      <description>我开发了一个小巧的插件，解决了一个虽小但烦人的问题：编程时错过权限提示。当你使用 Claude Code 时，切换到其他窗口查阅文档，五分钟后才发现 Claude 还在等你授权 Bash 命令。我们都经历过这种情况。😅 claude-code-moo —— 一个轻量级插件，每当 Claude Code 需要你的授权时，就会播放一声温和的牛叫“哞”。 /plugin marketplace add iefnaf/claude-code-moo /plugin install claude-code-moo 就这么简单！下次 Claude 请求权限时，你就会听到一声友好的“哞” 🐄 GitHub: https://github.com/iefnaf/claude-code-moo 期待听到大家的反馈！对了，我选择牛叫声是因为……
+
+---
+
+Original:
+I made a tiny plugin that solves a small but annoying problem: missing permission prompts when coding. You're working with Claude Code, switch to another window to check documentation, and 5 minutes later realize Claude is still waiting for you to authorize a Bash command. We've all been there. 😅 claude-code-moo - A lightweight plugin that plays a gentle cow moo sound whenever Claude Code needs your authorization. /plugin marketplace add iefnaf/claude-code-moo /plugin install claude-code-moo That's it! Next time Claude asks for permission, you'll hear a friendly "moo" 🐄 GitHub: https://github.com/iefnaf/claude-code-moo Would love to hear your feedback! And yes, I chose the cow sound because…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe33hg</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

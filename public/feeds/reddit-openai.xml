@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 23:48:00 +0000</lastBuildDate>
-    <item>
-      <title>开发者日新品发布问答专场 / AMA on our DevDay Launches</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1o1j23g/ama_on_our_devday_launches/</link>
-      <description>如今是成为开发者最好的时代。在开发者日[2025]上，我们推出了新一代工具和模型，帮助开发者更快地编写代码、更可靠地构建智能体，并在ChatGPT中扩展应用。欢迎就以下发布内容提问：AgentKit、Apps SDK、API中的Sora 2、API中的GPT-5 Pro、Codex。错过了我们的发布公告？观看回放：https://youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o&amp;amp;si=nSbLbLDZO7o-NMmo。加入我们的团队参与问答，了解更多信息，时间为周四太平洋时间上午11点。当前回答问题的成员有：Dmitry Pimenov - u/dpim、Alexander Embiricos - u/embirico、Ruth Costigan - u/ruth_on_reddit、Christina Huang - u/Brief-Detective-9368、Rohan Meh…
-
----
-
-Original:
-It’s the best time in history to be a builder. At DevDay [2025], we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in ChatGPT. Ask us questions about our launches such as: AgentKit Apps SDK Sora 2 in the API GPT-5 Pro in the API Codex Missed out on our announcements? Watch the replays: https://youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o&amp;amp;si=nSbLbLDZO7o-NMmo Join our team for an AMA to ask questions and learn more, Thursday 11am PT. Answering Q's now are: Dmitry Pimenov - u/dpim Alexander Embiricos - u/embirico Ruth Costigan - u/ruth_on_reddit Christina Huang - u/Brief-Detective-9368 Rohan Meh…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1o1j23g</guid>
-      <pubDate>Wed, 08 Oct 2025 18:39:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 02:29:27 +0000</lastBuildDate>
     <item>
       <title>Sora 2 大型讨论帖（第三部分） / Sora 2 megathread (part 3)</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1o8kmg9/sora_2_megathread_part_3/</link>
@@ -1412,6 +1400,66 @@ Original:
 submitted by /u/Weak-Isopod6401 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qdwnix</guid>
       <pubDate>Thu, 15 Jan 2026 21:37:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>你不该在情感上依赖一家巨头公司卖给你的产品 / "You should not be emotionally reliant on a product sold to you by a megacorporation."</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe0axc/you_should_not_be_emotionally_reliant_on_a/</link>
+      <description>由 /u/YesterdayEcstatic968 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/YesterdayEcstatic968 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe0axc</guid>
+      <pubDate>Fri, 16 Jan 2026 00:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI拒绝苹果Siri合作：谷歌Gemini获数十亿美元订单 / OpenAI Declines Apple Siri Deal: Google Gemini Gets Billions Instead</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe0l63/openai_declines_apple_siri_deal_google_gemini/</link>
+      <description>考虑到山姆（Sam）当前参与的AI竞赛，我对他拒绝这笔交易感到震惊。由 /u/Own_Amoeba_5710 提交 [链接] [评论]
+
+---
+
+Original:
+I'm shocked Sam turned down this deal given the AI race he is in at the moment. submitted by /u/Own_Amoeba_5710 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe0l63</guid>
+      <pubDate>Fri, 16 Jan 2026 00:12:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI（OAI）在欧洲夜间启用过滤机制，让ChatGPT遵循美国规则与叙事？ / OAI turning on filters when it's night in Europe so ChatGPT follows US rules and narratives?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe1cgr/oai_turning_on_filters_when_its_night_in_europe/</link>
+      <description>有迹象表明，OpenAI如今在欧洲夜间时段启用了美国的内容过滤机制，因为ChatGPT在夜间对基础话题的简单提问变得异常敏感，而这些在白天本不成问题。在某些话题上，夜间它会进行说教和道德评判，符合典型的美国模式；而在欧洲白天或美国夜间，回答则恢复正常。这或许只是猜测，但我开始怀疑OpenAI可能采取了类似措施。是否有人也感觉他们在使用美国式过滤机制？ 由 /u/W_32_FRH 提交 [链接] [评论]
+
+---
+
+Original:
+Seems that OpenAI is using US filters at night in Europe now, as ChatGPT gets triggered very easy with basic prompts about basic topics which aren't a problem at daytime. At certain topics it's teaching and moralizing at night, matching with typical US stuff, while it answers normal at daytime im Europe and night in US. It might be a long shot, I don't know, but I'm starting to think OpenAI might do something like that. Does anyone else have a feeling they're doing something like US filters? submitted by /u/W_32_FRH [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe1cgr</guid>
+      <pubDate>Fri, 16 Jan 2026 00:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款macOS终端工作区管理器，用于协调AI编程助手（支持120Hz Metal渲染，键盘优先操作） / I built a macOS terminal workspace manager for orchestrating AI coding agents (120Hz Metal rendering, keyboard-first)</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe2es6/i_built_a_macos_terminal_workspace_manager_for/</link>
+      <description>我一直在不同项目中运行多个AI编程助手（如Claude等），需要一种方式来组织它们。为此，我构建了一款原生的macOS应用，用于终端工作区管理。它的功能包括：1. 基于工作区的组织——按项目分组终端（例如“ML项目”、“后端API”、“研究”）；2. 命名终端标签页——每个工作区都有命名的终端（例如“助手-1”、“构建”、“日志”）；3. 配置驱动——所有设置通过~/.config/workspace-manager/config.toml文件进行；4. 100%键盘操作——导航工作区、切换终端、开关界面，全程无需使用鼠标；5. 玻璃质感界面——透明模糊效果，极简边框。有趣的部分——120Hz流畅滚动：原生终端模拟器……
+
+---
+
+Original:
+I've been running multiple AI coding agents (Claude, etc.) across different projects and needed a way to organize them. Built a native macOS app for terminal workspace management. What it does: 1. Workspace-based organization — Group terminals by project (e.g., "ML-Project", "Backend-API", "Research") 2. Named terminal tabs — Each workspace has named terminals (e.g., "agent-1", "build", "logs") 3. Config-driven — Everything via ~/.config/workspace-manager/config.toml 4. 100% keyboard operated — Navigate workspaces, switch terminals, toggle UI — all without touching the mouse 5. Glass UI — Transparent blur effect, minimal chrome The fun part — 120Hz smooth scrolling: Stock terminal emulators…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe2es6</guid>
+      <pubDate>Fri, 16 Jan 2026 01:32:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>哇哦 / Woohoo</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe3exh/woohoo/</link>
+      <description>伙计，别人或许在用其他AI找乐子什么的，但对我来说，oai（OpenAI）那种平静的基调才是关键。让那些傻瓜尽情探索、即兴发挥、沉浸其中吧。我们其他人只想要每月20美元、带思考模式的人工智能治疗师。我回来了😉 由 /u/-ElimTain- 提交 [链接] [评论]
+
+---
+
+Original:
+Man, other people might be having fun and stuff with other AI, but for me, it’s all about the oai calm grounding. Let those fools explore, riff, and vibe all they want. The rest of us just want our $20/mo artificial therapist with thinking mode. I’m so back 😉 submitted by /u/-ElimTain- [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe3exh</guid>
+      <pubDate>Fri, 16 Jan 2026 02:17:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

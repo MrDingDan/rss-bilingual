@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 23:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 02:29:55 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -1050,6 +1050,54 @@ Original:
 I'm experiencing an issue with the voice-to-text feature. The first transcription works perfectly. However, if I stop the recording (to wait for background noise to clear, for example) and then try to resume, the tool doesn't allow me to continue where I left off. Currently, my only workaround is to copy the existing text, delete it from the box, record the new segment, and then paste everything back together. Is this a known limitation of Gemini 3 Pro, or is there a specific way to resume a transcription without losing previous progress? submitted by /u/Jaded_Active_3499 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qdzwua</guid>
       <pubDate>Thu, 15 Jan 2026 23:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>请注意：反重力功能故障——未在Gemini状态页面报告 / FYI - Antigravity issues - not reported on gemini status page</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe01vr/fyi_antigravity_issues_not_reported_on_gemini/</link>
+      <description>用户反映无法正常工作。谷歌已在相关论坛帖子中承认此问题，但状态页面尚未更新。详情参见：https://discuss.ai.google.dev/t/antigravity-broken-getting-only-agent-execution-terminated-due-to-error/115443/57，由/u/Rich_Obligation1510提交 [链接] [评论]
+
+---
+
+Original:
+Users reporting unable to work. Forum post here where google acknowledges the issue. But not on status page. https://discuss.ai.google.dev/t/antigravity-broken-getting-only-agent-execution-terminated-due-to-error/115443/57 submitted by /u/Rich_Obligation1510 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe01vr</guid>
+      <pubDate>Thu, 15 Jan 2026 23:50:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini（双子星）打造了这款精准还原的《我的世界》克隆版，自带地图和帮你挖矿的AI伙伴 / Gemini created this insanely accurate Minecraft clone with a map &amp; AI Friend who digs for you.</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe140b/gemini_created_this_insanely_accurate_minecraft/</link>
+      <description>这怎么可能？由 /u/Apart_Potato959 提交 [链接] [评论]
+
+---
+
+Original:
+How is this possible submitted by /u/Apart_Potato959 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe140b</guid>
+      <pubDate>Fri, 16 Jan 2026 00:35:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>交互式闪卡/测验功能失效 / Flashcards interactive/quizzes not working</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe1rv3/flashcards_interactivequizzes_not_working/</link>
+      <description>大家好，我使用Gemini进行学习，之前一直使用“交互式闪卡”和测验功能，但现在似乎无法正常使用了。请问有其他人遇到同样的问题吗？有没有人知道如何解决？由 /u/Fass2Pet 提交 [链接] [评论]
+
+---
+
+Original:
+Hello, I use gemini for studying, and used to learn with the "flashcards interactive" and quizz fonctionnalities, but they don't seem to be working anymore. Is anyone else meeting the same issue? And does anyone know how to fix it? submitted by /u/Fass2Pet [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe1rv3</guid>
+      <pubDate>Fri, 16 Jan 2026 01:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini（双子座）无法查看图片？求助！ / Gemini cant see images? Help?</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe2j5i/gemini_cant_see_images_help/</link>
+      <description>这个问题已经持续很久了，怎么还没修复？现在订阅还有什么意义？一旦阅读超过1000字或发送文件，它基本就像瞎了一样。这种情况只出现在/u/THE-WIZARD-COUNCIL提交的网站上[链接][评论]。
+
+---
+
+Original:
+This has been happening for so long and yet there is no fix? At this point whats the point in having a subscription when its basically blind after reading more than 1000 words, or when i send a file. This only happens on the website submitted by /u/THE-WIZARD-COUNCIL [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe2j5i</guid>
+      <pubDate>Fri, 16 Jan 2026 01:38:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

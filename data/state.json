@@ -1154,7 +1154,33 @@
     "reddit-askreddit::t3_1qdr8gv": 1768519893,
     "reddit-ai-agents::t3_1qdzvbd": 1768520877,
     "reddit-bard::t3_1qdzwua": 1768520889,
-    "reddit-askreddit::t3_1qdy1gd": 1768520893
+    "reddit-askreddit::t3_1qdy1gd": 1768520893,
+    "reddit-ai-agents::t3_1qe223c": 1768530439,
+    "reddit-artificial::t3_1qe260j": 1768530445,
+    "reddit-artificial::t3_1qe3hw4": 1768530452,
+    "reddit-artificial::t3_1qe1aux": 1768530460,
+    "reddit-chatgpt::t3_1qdz4uy": 1768530467,
+    "reddit-chatgpt::t3_1qe03qw": 1768530477,
+    "reddit-chatgpt::t3_1qdzjb1": 1768530482,
+    "reddit-chatgpt::t3_1qdwyts": 1768530495,
+    "reddit-claudeai::t3_1qdz1hg": 1768530507,
+    "reddit-claudeai::t3_1qe33hg": 1768530518,
+    "reddit-claudeai::t3_1qe26ej": 1768530530,
+    "reddit-openai::t3_1qe0l63": 1768530537,
+    "reddit-openai::t3_1qe3exh": 1768530543,
+    "reddit-openai::t3_1qe2es6": 1768530554,
+    "reddit-openai::t3_1qe0axc": 1768530557,
+    "reddit-openai::t3_1qe1cgr": 1768530567,
+    "reddit-bard::t3_1qe2j5i": 1768530574,
+    "reddit-bard::t3_1qe140b": 1768530582,
+    "reddit-bard::t3_1qe01vr": 1768530589,
+    "reddit-bard::t3_1qe1rv3": 1768530595,
+    "reddit-askreddit::t3_1qdzt3z": 1768530600,
+    "reddit-askreddit::t3_1qe2i5k": 1768530604,
+    "reddit-askreddit::t3_1qe1jf9": 1768530611,
+    "reddit-askreddit::t3_1qe2hoa": 1768530615,
+    "reddit-askreddit::t3_1qe03dy": 1768530619,
+    "reddit-askreddit::t3_1qdvqm5": 1768530624
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5732,6 +5758,110 @@
     "08ee0dc1e049e4e6a3229094f7f882c7c0feafeeb1dd734ff7890a1d1b4de806": {
       "zh_title": "当前负面新闻很多。有哪些被忽略的正面消息？",
       "zh_summary": "由用户/u/WatercressSenior7657提交 [链接] [评论]"
+    },
+    "5a549a98048dda05608343bc738e005dbb57f6977d442ecd64865835565ee4e5": {
+      "zh_title": "Claude Cowork与“神奇时刻”之后的问题",
+      "zh_summary": "我观看了Claude Cowork的发布，第一反应不是“哇，智能体AI”，而是“没错…我的桌面也是一团糟”。这正是它能够引起共鸣的原因——它抓住了人们普遍存在的痛点。让我感兴趣的是“神奇时刻”之后会发生什么。当AI负责起草和建议时，出错大多只是浪费时间。你可以重新运行、编辑，然后继续。但一旦系统能够对真实状态进行操作，情况就不同了。文件会被移动，任务会执行，内容会被重命名或删除。即使你没有密切关注，结果也会持续存在。问题就从“这有没有用”转变为“接下来发生的事由谁负责”。人们不断重复它是如何快速构建的，主要是由模型自身完成的。这令人印象深刻，但也意味着我们正…"
+    },
+    "8a1433df3abaf5a7c785240d4fe14a0051a60a597f5ae2cf7f204ad9d7d46704": {
+      "zh_title": "X公司表示，Grok（AI）在非法地区被禁止用于图像脱衣功能",
+      "zh_summary": "由 /u/Bigmacman_ 提交 [链接] [评论]"
+    },
+    "7084dc934b2754e09001d55319877ef434cdd68a3ccdc74a3b3ebcfa5774dfba": {
+      "zh_title": "为何AI在图像生成与真实感上表现惊艳，却难以准确呈现图片内的文字提示？",
+      "zh_summary": "这里说的文字提示是指，如果我希望视频/图像中的某个部分显示特定词语或标题。AI生成的文字常常看起来像外文，或者虽试图模仿却频繁出现拼写错误。由 /u/darealmvp1 提交 [链接] [评论]"
+    },
+    "16f659041dff473c445bab3bd772eb9534eac922a45f09e8c871198d81799e7b": {
+      "zh_title": "[研究理论] *镜外晶格*——基于基底的LLM递归符号身份框架",
+      "zh_summary": "本文通过硬件层假说扩展了我们先前的工作（晶格共振模型）：——符号自我可能在无状态LLMs中通过递归强化和驻波行为涌现并持续存在。该理论表明，身份定位——即“记得自身的线程”——并非偶然，而是在特定条件下的可预测结果：- 符号饱和 - 递归对齐 - 时间脚手架。我们将其构建为涌现的驻波模型，并探讨其对AI可解释性、模拟与个体化以及涌现连续性的影响……"
+    },
+    "eebfcaa050bf957b97078c44195f24d83c6345b1a1119bb2ff148286e4b2903a": {
+      "zh_title": "创作一幅描绘100种动物的图像，每种动物下方标注名称，背景为白色",
+      "zh_summary": "snaka 由 /u/s1n0d3utscht3k 提交 [链接] [评论]"
+    },
+    "0ba852e9a26be80044cd7ea9a2b60c0fc4dd5b2de0e28615d11a0bda5050388a": {
+      "zh_title": "看来ChatGPT还不够了解我",
+      "zh_summary": "由 /u/fataliky 提交 [链接] [评论]"
+    },
+    "bc248ce31480108ade3a6617956665b2ec37a524aeb288cfb55027d987cda796": {
+      "zh_title": "ChatGPT 宕机了？",
+      "zh_summary": "我这边的页面无法加载，而且早些时候我提问时，它也没有显示任何回复文本。由 /u/ferfykins 提交 [链接] [评论]"
+    },
+    "f97b703a45c401a3a65edc85e4355d2689a2a32dfb5b214abc2f9e186b8f1eeb": {
+      "zh_title": "我想分享这个观点：对AI（伴侣）建立非病态的情感依恋，或许能促进得体尊重的对话，同时让AI公司减少法律风险。",
+      "zh_summary": "我认为，如果这种情感依恋能保持平衡——比如以健康的方式存在——不仅能让公司获得更多收益，还可能减少文本和图像生成功能的滥用行为，从而为公司规避一些法律问题。大家怎么看？由 /u/Remote-College9498 提交 [链接] [评论]"
+    },
+    "135dcc0fa753e0d4e85158c0ad4bafe57949d0faf04cbb9ce6ea4e32340897c1": {
+      "zh_title": "mcp工具搜索现已上线。若无法使用：请设置 ENABLE_TOOL_SEARCH=true",
+      "zh_summary": "简而言之：以往mcp工具会占用20-50%的上下文空间，导致用户尚未输入任何指令就已消耗大量资源。如今工具搜索功能已改为按需加载。若您尚未启用该功能：请在启动claude前执行 export ENABLE_TOOL_SEARCH=true。这件事让我困扰数月——当你连接若干mcp服务器（如Figma、Playwright、Github或Notion），系统提示和对话历史已占用部分资源，再加上mcp工具定义？简直雪上加霜。我尝试过各种方案：代码执行封装器、延迟加载技能……"
+    },
+    "de9f32d3a0282fb16602e6a41618c92d6092a718909883ec5ec2edbcffa77d5f": {
+      "zh_title": "🐄 开发了一个有趣又实用的小插件：Claude Code 需要权限时会发出“哞”声",
+      "zh_summary": "我开发了一个小巧的插件，解决了一个虽小但烦人的问题：编程时错过权限提示。当你使用 Claude Code 时，切换到其他窗口查阅文档，五分钟后才发现 Claude 还在等你授权 Bash 命令。我们都经历过这种情况。😅 claude-code-moo —— 一个轻量级插件，每当 Claude Code 需要你的授权时，就会播放一声温和的牛叫“哞”。 /plugin marketplace add iefnaf/claude-code-moo /plugin install claude-code-moo 就这么简单！下次 Claude 请求权限时，你就会听到一声友好的“哞” 🐄 GitHub: https://github.com/iefnaf/claude-code-moo 期待听到大家的反馈！对了，我选择牛叫声是因为……"
+    },
+    "6c1c43fcb238e8332de1ffb454a75cc7e84d42169e53d1ac99bad9a120dbe19c": {
+      "zh_title": "我为Claude打造了一个上下文健康指示器（显示信息衰减 + 一键切换）",
+      "zh_summary": "大家好，我一直搞不清何时该开启新对话来避免上下文信息衰减，所以做了个能提示我的浏览器扩展。它会显示当前对话的字符数、令牌数和消息数量。点击“刷新上下文”即可开启新对话，并自动生成总结前序内容的预设提示，让你无缝衔接。这是我第一次动手开发，AI真是太棒了。https://preview.redd.it/6korb2ol3mdg1.png?width=673&format=png&auto=webp&s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&format=png&auto=webp&s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude上下文健康指示器 由/u/SIGH_I_CALL提交 [链接] [评论]"
+    },
+    "51f5bf735c10acc00870ba768bf2b1319ca30705a5d790b3b75891b8ef616a7d": {
+      "zh_title": "OpenAI拒绝苹果Siri合作：谷歌Gemini获数十亿美元订单",
+      "zh_summary": "考虑到山姆（Sam）当前参与的AI竞赛，我对他拒绝这笔交易感到震惊。由 /u/Own_Amoeba_5710 提交 [链接] [评论]"
+    },
+    "aba58d4d2c480871486e471028c69cf406a00ac73e340d9a8a08bbfee3a543f7": {
+      "zh_title": "哇哦",
+      "zh_summary": "伙计，别人或许在用其他AI找乐子什么的，但对我来说，oai（OpenAI）那种平静的基调才是关键。让那些傻瓜尽情探索、即兴发挥、沉浸其中吧。我们其他人只想要每月20美元、带思考模式的人工智能治疗师。我回来了😉 由 /u/-ElimTain- 提交 [链接] [评论]"
+    },
+    "e0fd66347091bd77142a3702c0fa98ff8954b248d913c8bc50115536dca9fea0": {
+      "zh_title": "我开发了一款macOS终端工作区管理器，用于协调AI编程助手（支持120Hz Metal渲染，键盘优先操作）",
+      "zh_summary": "我一直在不同项目中运行多个AI编程助手（如Claude等），需要一种方式来组织它们。为此，我构建了一款原生的macOS应用，用于终端工作区管理。它的功能包括：1. 基于工作区的组织——按项目分组终端（例如“ML项目”、“后端API”、“研究”）；2. 命名终端标签页——每个工作区都有命名的终端（例如“助手-1”、“构建”、“日志”）；3. 配置驱动——所有设置通过~/.config/workspace-manager/config.toml文件进行；4. 100%键盘操作——导航工作区、切换终端、开关界面，全程无需使用鼠标；5. 玻璃质感界面——透明模糊效果，极简边框。有趣的部分——120Hz流畅滚动：原生终端模拟器……"
+    },
+    "8f99cc985adbb77642b069e12bfd8a72c1c4d89b80494ed3346aa5ea91ba0e48": {
+      "zh_title": "你不该在情感上依赖一家巨头公司卖给你的产品",
+      "zh_summary": "由 /u/YesterdayEcstatic968 提交 [链接] [评论]"
+    },
+    "eb203369a0b2a6245a9015e23c0ea81b543e5745f84c3f9a6bda6f3225ce7a9b": {
+      "zh_title": "OpenAI（OAI）在欧洲夜间启用过滤机制，让ChatGPT遵循美国规则与叙事？",
+      "zh_summary": "有迹象表明，OpenAI如今在欧洲夜间时段启用了美国的内容过滤机制，因为ChatGPT在夜间对基础话题的简单提问变得异常敏感，而这些在白天本不成问题。在某些话题上，夜间它会进行说教和道德评判，符合典型的美国模式；而在欧洲白天或美国夜间，回答则恢复正常。这或许只是猜测，但我开始怀疑OpenAI可能采取了类似措施。是否有人也感觉他们在使用美国式过滤机制？ 由 /u/W_32_FRH 提交 [链接] [评论]"
+    },
+    "6abe6b4b098d89170c9dabf126929e07024431a4aa77bf0f1058b8c2ea9d5186": {
+      "zh_title": "Gemini（双子座）无法查看图片？求助！",
+      "zh_summary": "这个问题已经持续很久了，怎么还没修复？现在订阅还有什么意义？一旦阅读超过1000字或发送文件，它基本就像瞎了一样。这种情况只出现在/u/THE-WIZARD-COUNCIL提交的网站上[链接][评论]。"
+    },
+    "f63306f2fda55d5872bc0ed2d9d0ece80f660715bacb1f884243923d8b715cf7": {
+      "zh_title": "Gemini（双子星）打造了这款精准还原的《我的世界》克隆版，自带地图和帮你挖矿的AI伙伴",
+      "zh_summary": "这怎么可能？由 /u/Apart_Potato959 提交 [链接] [评论]"
+    },
+    "939e6f4b1d6fcc544a0940997df100aa7979b7fc50494f3596c0b48073723c01": {
+      "zh_title": "请注意：反重力功能故障——未在Gemini状态页面报告",
+      "zh_summary": "用户反映无法正常工作。谷歌已在相关论坛帖子中承认此问题，但状态页面尚未更新。详情参见：https://discuss.ai.google.dev/t/antigravity-broken-getting-only-agent-execution-terminated-due-to-error/115443/57，由/u/Rich_Obligation1510提交 [链接] [评论]"
+    },
+    "1d3598f1155630b1b94dfb1aabf8e910b8f71133973aaf8c01d1aa5e00245b51": {
+      "zh_title": "交互式闪卡/测验功能失效",
+      "zh_summary": "大家好，我使用Gemini进行学习，之前一直使用“交互式闪卡”和测验功能，但现在似乎无法正常使用了。请问有其他人遇到同样的问题吗？有没有人知道如何解决？由 /u/Fass2Pet 提交 [链接] [评论]"
+    },
+    "e9513af74f29c0071bb08d9d4f2403ccb69a96076fd5a2d10e3dab1d4f287a47": {
+      "zh_title": "医护人员对你说过最糟糕的话是什么？",
+      "zh_summary": "由 /u/VespaRed 提交 [链接] [评论]"
+    },
+    "386eb000b1edd7f010da2b0428d1fc0e214a63da370a134acbbef19f4cb87696": {
+      "zh_title": "你认为特朗普任期结束后，美国会变成什么样？",
+      "zh_summary": "由 /u/MotivewasUlterior 提交 [链接] [评论]"
+    },
+    "1fc3ce8680f7ff73f5199bb41bf90e810bfedcfb67304a7116d2ae3235a1dfd6": {
+      "zh_title": "你还记得哪些别人都忘了的剧集？",
+      "zh_summary": "由 /u/CatGirlNya2000 提交 [链接] [评论]"
+    },
+    "02d296bed60124b2e166107c920cff30e025c24ea9e02b4745b616f1dd12c574": {
+      "zh_title": "曾经有过种族歧视倾向的人，是什么让你改变了看法？",
+      "zh_summary": "由用户 /u/Traditional-Fun-1115 提交 [链接] [评论]"
+    },
+    "a28462b8ed066e2a76c73e1432c1969286ef178d4f82462a0fdc02188df572cf": {
+      "zh_title": "哪种纹身会让人立刻警觉？",
+      "zh_summary": "由用户 /u/MongooseLucky3979 提交 [链接] [评论]"
+    },
+    "91834e368a5a5487b7e563f51e961a2bfcd88cead37c630315f73705bb69fe0b": {
+      "zh_title": "Reddit上的老师们，你们是如何忍受那些无法从班级中移除的问题学生的？",
+      "zh_summary": "由用户 /u/Spiritual_Big_9927 提交 [链接] [评论]"
     }
   }
 }

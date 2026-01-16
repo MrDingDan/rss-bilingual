@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 23:47:57 +0000</lastBuildDate>
-    <item>
-      <title>我卖出了第一个智能体（Agent），接下来呢？ / I've sold my first Agent, now what?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbtc95/ive_sold_my_first_agent_now_what/</link>
-      <description>大约两个月前，一家公司联系我，说他们需要一个专门用于撰写公开招标提案的AI。考虑到大语言模型（LLM）固有的不确定性，我担心可能的结果，但还是决定接下这个项目。在初期阶段，我的指导原则是：迭代、迭代、再迭代。因此，我发布了一个定制GPT作为最小可行产品（MVP），供他们测试。通过反馈会议，我改进了暴露出的缺陷。大约一个月后，我成功交付了一个相当不错的定制GPT，他们对结果感到满意。然而，我完全不清楚他们如何使用这个智能体，这让我感到困扰。在这种情况下……
-
----
-
-Original:
-A company contacted me around 2 months ago saying they needed an AI specifically to help them with writing public tenders proposals. Given the innate non-deterministic nature of LLMs I was worried about the possible outcome of this but, still, i decided to take the project. My guinding principle in the first phases has been Iterate, iterate, iterate. So i put out a custom GPT as an MVP to let them test it out. Done feedback sessions and improved upon fallacies that come out. In around 1 month I was able to give them a pretty good custom GPT and they are happy with the results. Still, I feel i have absolute 0 visibility on what they are doing with the agent and this bothers me. In this case f…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbtc95</guid>
-      <pubDate>Tue, 13 Jan 2026 14:52:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 02:27:20 +0000</lastBuildDate>
     <item>
       <title>打造一个FOSS、本地优先的Claude Cowork替代品 / Building a FOSS, local-first alternative to Claude Cowork</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbu3fz/building_a_foss_localfirst_alternative_to_claude/</link>
@@ -1464,6 +1452,18 @@ Original:
 Most agents out there are just fragile loops. It looks cool in a terminal, but it's a nightmare for production. If your agent is on step 10 of a complex flow and your API blips or the process restarts, what happens? Usually, it just dies. You lose the state, burn the tokens, and the user gets ghosted. I’m moving away from treating agents as simple scripts and shifting toward durable workflows. The state should be persisted at the infra level so the agent can resume from the last step instead of restarting from zero. How is everyone else scaling this? Are you still manually saving state to a DB after every tool call, or just praying the connection stays stable? submitted by /u/Interesting_Rid…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qdzvbd</guid>
       <pubDate>Thu, 15 Jan 2026 23:43:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Cowork与“神奇时刻”之后的问题 / Claude Cowork and the question that comes after the “magic moment”</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe223c/claude_cowork_and_the_question_that_comes_after/</link>
+      <description>我观看了Claude Cowork的发布，第一反应不是“哇，智能体AI”，而是“没错…我的桌面也是一团糟”。这正是它能够引起共鸣的原因——它抓住了人们普遍存在的痛点。让我感兴趣的是“神奇时刻”之后会发生什么。当AI负责起草和建议时，出错大多只是浪费时间。你可以重新运行、编辑，然后继续。但一旦系统能够对真实状态进行操作，情况就不同了。文件会被移动，任务会执行，内容会被重命名或删除。即使你没有密切关注，结果也会持续存在。问题就从“这有没有用”转变为“接下来发生的事由谁负责”。人们不断重复它是如何快速构建的，主要是由模型自身完成的。这令人印象深刻，但也意味着我们正…
+
+---
+
+Original:
+I watched the Claude Cowork launch and my first reaction wasn’t “wow agentic AI.” It was “yeah… my desktop is a mess too.” That’s why it’s landing. It’s a super gettable pain point. What’s interesting to me is what happens after the magic moment. When AI is drafting and suggesting, being wrong mostly costs time. You rerun it, edit it, move on. Once a system can act on real state, it’s different. Files move. Tasks run. Stuff gets renamed or deleted. Outcomes persist even if you weren’t watching closely. The question shifts from “does this help” to “who owns what happens next.” People keep repeating how fast it was built, mostly by the model itself. That’s impressive, but it also means we’re s…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe223c</guid>
+      <pubDate>Fri, 16 Jan 2026 01:16:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
