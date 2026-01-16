@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 04:49:36 +0000</lastBuildDate>
-    <item>
-      <title>ChatGPT确实存在邓宁-克鲁格效应 / Chatgpt sure has the Dunning-Kruger effect</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbxqrv/chatgpt_sure_has_the_dunningkruger_effect/</link>
-      <description>“没问题，我来帮你搞定”。我在家庭实验室服务器上配置一些设置时，觉得可以找老朋友ChatGPT帮忙。它确实很积极！几个小时后，我发现这该死的机器人对一切都那么自信，表面看起来很聪明，但我意识到自己一直在兜圈子。它似乎对每件事都有75-90%的把握，但剩下的那点几乎总会出问题，而它从不意识到错误，只会继续下去。所以对于高级概念，我认为它还有很长的路要走。我越来越觉得，人工智能将成为蠢人的危险工具。 由/u/mrbluetrain提交 [链接] [评论]
-
----
-
-Original:
-"Sure let me help you with that". Was setting up some config things on my homelab server and thought it could be a good thing to ask old pal chatgpt to help me out. It was sure as hell alright! After some hours I realized that this good damn bot is so farking sure of everything, and on the surface it seems very smart but then I realize I have been going around in circles. Its like 75-90% sure of everything but those last % almost always breaks it but it never realizes mistakes and just keep going. So for advanced concepts I would say it is still a long way to go. I more and more come to the conclusion that AI will be dangerous tool for idiots. submitted by /u/mrbluetrain [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbxqrv</guid>
-      <pubDate>Tue, 13 Jan 2026 17:42:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 05:37:29 +0000</lastBuildDate>
     <item>
       <title>A2A MCP 服务器：专为 A2A 协议打造的 MCP 服务器！ / A2A MCP server, an MCP server for the A2A protocol!</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbxsad/a2a_mcp_server_an_mcp_server_for_the_a2a_protocol/</link>
@@ -1464,6 +1452,18 @@ Original:
 Hey guys, I'm trying to scrape Glassdoor and feed this data into my AI SDR, ideally via an API. I wonder if that's possible to do it at large scale and if so how can I do that? Saw a couple github projects, would be great to know which one is the best. Also open to testing out any tool that already exists for getting Glassdoor info. submitted by /u/GaandDhaari [link] [comments]</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qe5fvi</guid>
       <pubDate>Fri, 16 Jan 2026 03:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>机构如何应对'失控的API成本'与多租户智能体计费？ / How are agencies handling 'Runaway API Costs' and Multi-Tenant Billing for Agents?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe7d8x/how_are_agencies_handling_runaway_api_costs_and/</link>
+      <description>大家好，最近我和几位机构负责人交流时，反复听到一个'噩梦'般的问题：多租户支出管控。具体来说，就是担心'智能体泛滥'导致成本失控——比如某个AI智能体在凌晨3点陷入逻辑循环，在所有人熟睡时耗尽客户的预算（或你的主API密钥）。目前，大多数人似乎只是在OpenAI仪表板上设置'硬性限额'并祈祷，或者每天手动检查使用情况。但这并没有解决为10多个不同客户分开计费的问题，也无法防止某个'失控的机器人'耗尽整个机构的额度。我正在考虑一个'清醒管理器'层——本质上是一个网关……
+
+---
+
+Original:
+Hey everyone, I’ve been talking to a few agency owners lately and a recurring 'nightmare' keeps coming up: Multi-tenant spending control. Specifically, the fear of "Agent Sprawl" leading to runaway costs—like an AI agent getting stuck in a logic loop and burning through a client’s budget (or your main API key) at 3 AM while everyone is asleep. Right now, it seems most people are just setting 'Hard Limits' on the OpenAI dashboard and praying, or manually checking usage every day. But that doesn't solve the problem of separating billing for 10+ different clients or preventing one "rogue bot" from eating the entire agency's credit. I’m thinking about a 'Sober Manager' layer—basically a gateway…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe7d8x</guid>
+      <pubDate>Fri, 16 Jan 2026 05:25:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

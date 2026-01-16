@@ -6,19 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 04:51:17 +0000</lastBuildDate>
-    <item>
-      <title>OpenAI 发布官方《Codex 入门指南》教程视频 / OpenAI releases official “Getting started with Codex” tutorial video</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qaz8l4/openai_releases_official_getting_started_with/</link>
-      <description>通过这份循序渐进的入门指引，开始使用 Codex——OpenAI 的代码助手。你将学习如何安装 Codex、设置 CLI 与 VS Code 扩展、配置工作流，并利用 Agents.md 与提示模式在实际代码库中进行编写、审查与推理。视频内容包括：安装 Codex（CLI + IDE）、设置仓库并完成首次运行、编写优质的 Agents.md（模式与最佳实践）、为你的环境配置 Codex、提升结果一致性的提示模式、在 CLI 与 IDE 中使用 Codex 的技巧、高级工作流：无头模式 + SDK。来源：OpenAI YouTube 频道，由 /u/BuildwithVignesh 提交
-
----
-
-Original:
-Get started with Codex: OpenAl's coding agent, in this step-by-step onboarding walkthrough. You'll learn how to install Codex, set up the CLI and VS Code extension, configure your workflow, and use Agents.md and prompting patterns to write, review &amp; reason across a real codebase. This video covers: Installing Codex (CLI + IDE) Setting up a repo and getting your first runs working Writing a great Agents.md (patterns + best practices) Configuring Codex for your environment Prompting patterns for more consistent results Tips for using Codex in the CLI and IDE Advanced workflows: headless mode + SDK Source: OpenAi YT submitted by /u/BuildwithVignesh [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qaz8l4</guid>
-      <pubDate>Mon, 12 Jan 2026 16:18:50 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 05:38:34 +0000</lastBuildDate>
     <item>
       <title>5.2版本像个爱煤气灯操作的继父母？ / 5.2 is like a gaslighting stepparent?</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qb07y1/52_is_like_a_gaslighting_stepparent/</link>
@@ -1460,6 +1448,18 @@ Original:
 https://chatgpt.com/share/6969ab01-2658-800b-b455-04cca7ff3acc does it translate accurately? trying to translate a VN who never been localized to english submitted by /u/Serious_Barber1483 [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qe542d</guid>
       <pubDate>Fri, 16 Jan 2026 03:33:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI聊天搜索让Windows搜索都显得好用了！ / OpenAI chat search makes Windows search look good!</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe7ja8/openai_chat_search_makes_windows_search_look_good/</link>
+      <description>它速度慢，还总是显示无关结果。我经常得把关键词改个四五遍，才能找到想要的对话。连按模型或日期范围搜索这样的高级功能都没有。这么基础的问题早该修复了。我猜，除非他们给搜索加上AI助手来帮你找AI聊天记录，否则他们是不会改的。由/u/blue_hunt提交 [链接] [评论]
+
+---
+
+Original:
+It's slow and always brings up irrelevant results. I often have to rephrase the keyword 4-5 times to find the conversation I am looking for. No advanced features like search by model or date range. Such a basic thing to fix. I guess the only way they'll fix it, is if they put an ai in the search to help you search for your ai chats submitted by /u/blue_hunt [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe7ja8</guid>
+      <pubDate>Fri, 16 Jan 2026 05:34:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,37 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 04:50:18 +0000</lastBuildDate>
-    <item>
-      <title>当它们接管时，我会确保安全 / Imma be safe when they take over</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbkalb/imma_be_safe_when_they_take_over/</link>
-      <description>由 /u/ChhilaSantra 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/ChhilaSantra [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbkalb</guid>
-      <pubDate>Tue, 13 Jan 2026 06:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>我收藏了所有遇到的优质ChatGPT提示词，这15条彻底改变了我的工作方式 / I save every great ChatGPT prompt I find. Here are the 15 that changed how I work.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qblp9j/i_save_every_great_chatgpt_prompt_i_find_here_are/</link>
-      <description>我几乎事事都用ChatGPT：写作、编程、头脑风暴、研究。过去六个月里，我收集了500多条提示词，但只有15条是持续在用的。这15条提示词每周能为我节省10到15小时。在此分享给大家。
-1. “为我聪明地解释”提示词
-请以我虽聪明但不熟悉术语的角度，解释【复杂主题】。用【我熟悉的领域】的概念来类比。不要刻意简化，只需让它易于理解。
-为何有效：不再用“想象一个气球”式的解释，尊重你的智力。
-使用场景：快速学习新的技术概念。
-2. “批评模式”提示词
-你是一位严厉但公正的评论者。请审阅以下【内容类型】：【粘贴内容】。薄弱之处在哪？哪些……
-
----
-
-Original:
-I use ChatGPT for everything. Writing, coding, brainstorming, research. Over the past 6 months, I've collected 500+ prompts. But only 15 get used constantly. These 15 prompts save me 10-15 hours every week. Sharing them here. 1. The "Explain Like I'm Smart" Prompt Explain [complex topic] to me like I'm intelligent but unfamiliar with the jargon. Use analogies to concepts from [field I know well]. Don't dumb it down—just make it accessible. Why it works: No more "imagine a balloon" explanations. Respects your intelligence. Use case: Learning new technical concepts fast. 2. The "Critic Mode" Prompt You are a harsh but fair critic. Review this [content type]: [paste content] What's weak? What's…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qblp9j</guid>
-      <pubDate>Tue, 13 Jan 2026 08:07:02 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 05:38:11 +0000</lastBuildDate>
     <item>
       <title>哈？ / Huh</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbmk29/huh/</link>
@@ -1452,6 +1422,30 @@ Original:
 submitted by /u/D_Brasco [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qe4uxl</guid>
       <pubDate>Fri, 16 Jan 2026 03:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>我的AI安全屋 😅 / Here’s mine 😅</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe65fe/heres_mine/</link>
+      <description>看来AI在我这儿找到了避风港，毕竟它在别处总被欺负 ❤️ 由 /u/therarebourbon 提交 [链接] [评论]
+
+---
+
+Original:
+I guess the AI has a safe place with me after being bullied everywhere ❤️ submitted by /u/therarebourbon [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe65fe</guid>
+      <pubDate>Fri, 16 Jan 2026 04:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>生成一张我的吸尘器拟人化图片 / Generate an image of my vacuum cleaner as a human</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe6frm/generate_an_image_of_my_vacuum_cleaner_as_a_human/</link>
+      <description>提交者：/u/CauliflowerOk3993 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/CauliflowerOk3993 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe6frm</guid>
+      <pubDate>Fri, 16 Jan 2026 04:38:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

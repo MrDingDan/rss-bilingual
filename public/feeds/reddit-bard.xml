@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 04:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 05:38:41 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -1122,6 +1122,18 @@ Original:
 submitted by /u/AdUnique7 [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qe6igl</guid>
       <pubDate>Fri, 16 Jan 2026 04:41:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini长文本输出问题 / Gemini Long Output</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe6wjg/gemini_long_output/</link>
+      <description>有人能解释一下为什么Gemini不能像Claude那样生成长文本输出吗？我给它一篇长文档，只是要求调整格式或类似操作但保持内容不变，它输出的文本却短得多。而Claude则会深入保留内容细节。这太让人沮丧了！！发帖人：/u/DumpTruck_Dante [链接] [评论]
+
+---
+
+Original:
+Can someone please expalin why Gemini can't give me long outputs like Claude. I give it a long document and just ask it to change formatting or whatever but keep content the same. and it outputs a much shorter text. whereas claude sticks to the indepth content. its so frustrating!! submitted by /u/DumpTruck_Dante [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe6wjg</guid>
+      <pubDate>Fri, 16 Jan 2026 05:01:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

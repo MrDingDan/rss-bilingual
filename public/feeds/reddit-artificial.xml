@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 04:49:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 05:37:59 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -632,6 +632,18 @@ submitted by /u/sksarkpoes3 [link] [comments]</description>
       <pubDate>Wed, 14 Jan 2026 15:19:01 +0000</pubDate>
     </item>
     <item>
+      <title>可训练的AI图像生成器：确保角色一致性 / Trainable Ai image generator for image consistency</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qct0cy/trainable_ai_image_generator_for_image_consistency/</link>
+      <description>有没有适合漫画项目的AI图像生成器，能让我在每篇漫画中保持同一角色形象、确保角色一致性？ 由/u/InitiativeFun878提交 [链接] [评论]
+
+---
+
+Original:
+Is there a good ai image generator that I can use for a comic project so that the same characters can be used throughout each comic strip and maintain character consistency? submitted by /u/InitiativeFun878 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qct0cy</guid>
+      <pubDate>Wed, 14 Jan 2026 17:11:53 +0000</pubDate>
+    </item>
+    <item>
       <title>构建自主性：AI助手现代设计模式 / Architecting Autonomy: Modern Design Patterns for AI Assistants</title>
       <link>https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/</link>
       <description>在生成式AI的早期阶段，所谓的“助手”基本上只是一个等待输入提示的文本框。用户输入内容，模型进行预测，结果好坏全凭运气。但随着我们深入2026年，行业已从简单的聊天机器人转向复杂的智能体系统（Agentic Systems）。关键差异在于设计模式（Design Patterns）。正如软件行业通过采用MVC（Model-View-Controller）或微服务（Microservices）走向成熟，AI领域如今也在规范化那些让助手变得可靠、安全且真正自主的架构蓝图。以下是塑造下一代AI助手的核心设计模式。1. “先规划后执行”模式：早期的助手经常出现“幻觉”，因为……
@@ -818,6 +830,30 @@ Hey everyone, I just sent the 16th issue of the Hacker News AI newsletter , a cu
       <pubDate>Thu, 15 Jan 2026 16:41:25 +0000</pubDate>
     </item>
     <item>
+      <title>OpenAI 与 xAI：谁将赢得长期通用人工智能（AGI）竞赛？ / OpenAI vs xAI: which one wins the long-term AGI race?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdoxf0/openai_vs_xai_which_one_wins_the_longterm_agi_race/</link>
+      <description>我一直在思考 OpenAI 和 xAI 的定位差异：一方强调安全性与生态系统，另一方则侧重与 X 平台的深度整合及“追求极致真相”的叙事。我制作了这个 30 秒的对比视频，分析它们的发展路径，很想听听大家对各自策略优劣的看法：https://www.youtube.com/shorts/e8CUmSCx-kk 你认为 5 到 10 年后会怎样：OpenAI 保持领先、xAI 迎头赶上，还是开源方案超越两者？由 /u/GGO_Sand_wich 提交 [链接] [评论]
+
+---
+
+Original:
+Been thinking a lot about how differently OpenAI and xAI are positioning themselves: safety + ecosystem vs raw X-platform integration and "maximum truth-seeking" narrative. I made this 30s breakdown comparing their trajectories and would love feedback on what you think each is doing right/wrong: https://www.youtube.com/shorts/e8CUmSCx-kk Where do you think things look in 5–10 years: OpenAI dominant, xAI catches up, or open-source eats both? submitted by /u/GGO_Sand_wich [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdoxf0</guid>
+      <pubDate>Thu, 15 Jan 2026 16:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>是否有必要使用多个AI服务？Gemini能否媲美ChatGPT、Claude等产品？ / Is there a good reason to have more than one AI service? Or can Gemini work just as well as Chatgpt, Claude, etc.?</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdpz1q/is_there_a_good_reason_to_have_more_than_one_ai/</link>
+      <description>我最近入手了新Pixel手机，获赠一年免费的Gemini Pro服务，正考虑暂时停掉另外两个AI订阅——ChatGPT Plus和Claude Pro。我主要用Claude来开发应用程序，但有人试过用Gemini做类似工作吗？至于ChatGPT，我习惯用它做研究，因为它能长期记住我的研究指令，在查找资料方面很符合我的预期。 发布者/u/therapytoner [链接] [评论]
+
+---
+
+Original:
+I recently got a new Pixel and it came with a free year of Gemini Pro and I was considering getting rid of my other two AI subscriptions for now. I currently have chatgpt plus and claude pro. I have claude for building applications but has anyone had any experiece using gemini for that? I use chatgpt for research since it just has a long memory of research prompts from me it's adapted well to my expectations for souce finding and such. submitted by /u/therapytoner [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdpz1q</guid>
+      <pubDate>Thu, 15 Jan 2026 17:33:30 +0000</pubDate>
+    </item>
+    <item>
       <title>加速发现：材料项目如何助力材料科学迈入AI革命 / Accelerating Discovery: How the Materials Project Is Helping to Usher in the AI Revolution for Materials Science</title>
       <link>https://www.reddit.com/r/artificial/comments/1qdr06k/accelerating_discovery_how_the_materials_project/</link>
       <description>2011年，美国能源部劳伦斯伯克利国家实验室（Berkeley Lab）的一支小团队启动了一个项目，后来发展成为全球引用量最高的材料数据库。如今，材料项目（Materials Project）已服务超过65万用户，被引用超过3.2万次——但其真正的影响力或许才刚刚显现。当著名计算材料科学家克里斯汀·佩尔松（Kristin Persson）和她的团队最初创建材料项目时，他们设想的是一个自动化筛选工具，能帮助工业界和学术界的研究人员以更快速度设计电池及其他能源技术所需的新材料。[...]“机器学习正在彻底改变材料发现领域，因为它能节省……”
@@ -828,6 +864,18 @@ Original:
 "In 2011, a small team at the Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab) launched what would become the world’s most-cited materials database. Today, the Materials Project serves over 650,000 users and has been cited more than 32,000 times — but its real impact may just be emerging. When renowned computational materials scientist Kristin Persson and her team first created the Materials Project, they envisioned an automated screening tool that could help researchers in industry and academia design new materials for batteries and other energy technologies at an accelerated pace. [...] “Machine learning is game-changing for materials discovery because it saves s…</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qdr06k</guid>
       <pubDate>Thu, 15 Jan 2026 18:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>好用的AI修图应用推荐 / good ai photoshop app</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qdrcim/good_ai_photoshop_app/</link>
+      <description>大家好，问个有点奇怪的问题：你们知道有什么好用的AI应用可以帮我修图吗？我想看看自己减掉30磅后会是什么样子，希望能用自己的照片来激励自己，而不是总看Pinterest上那些健身女孩的照片。另外，我不太喜欢用ChatGPT处理图片。有什么建议吗？ 发布者：/u/Previous-Status7378 [链接] [评论]
+
+---
+
+Original:
+hey guys Weird question, but do you know a good AI app that I can use to photoshop my picture? I wanna see what I would look like if I lost 30 lbs I wanna be motivated by my own picture instead of pintrest picture of a fit girl And I don't like ChatGPT for pictures Any suggestions? submitted by /u/Previous-Status7378 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qdrcim</guid>
+      <pubDate>Thu, 15 Jan 2026 18:21:33 +0000</pubDate>
     </item>
     <item>
       <title>你可能用错了编码助手 / Why you are (probably) using coding agents wrong</title>

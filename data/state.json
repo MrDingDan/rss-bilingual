@@ -1199,7 +1199,19 @@
     "reddit-askreddit::t3_1qdyg1p": 1768539107,
     "reddit-askreddit::t3_1qe59bh": 1768539112,
     "reddit-android::t3_1qe6f4i": 1768539124,
-    "reddit-android::t3_1qe6edf": 1768539128
+    "reddit-android::t3_1qe6edf": 1768539128,
+    "reddit-ai-agents::t3_1qe7d8x": 1768541848,
+    "reddit-artificial::t3_1qdrcim": 1768541856,
+    "reddit-artificial::t3_1qdpz1q": 1768541864,
+    "reddit-artificial::t3_1qdoxf0": 1768541872,
+    "reddit-artificial::t3_1qct0cy": 1768541878,
+    "reddit-chatgpt::t3_1qe65fe": 1768541884,
+    "reddit-chatgpt::t3_1qe6frm": 1768541891,
+    "reddit-claudeai::t3_1qe67xz": 1768541896,
+    "reddit-claudeai::t3_1qe77ue": 1768541907,
+    "reddit-openai::t3_1qe7ja8": 1768541914,
+    "reddit-bard::t3_1qe6wjg": 1768541921,
+    "reddit-askreddit::t3_1qdw3t6": 1768541928
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5957,6 +5969,54 @@
     "cbcebf459bdb478bea58b463095f8eeedce63529dd4e878c4eebac760211ac1c": {
       "zh_title": "Carl Pei（裴宇）：为何你的下一部手机会更贵",
       "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "6fcb0ef9ad747de544c9c4853b04c655f7e5787f1833235c6721d3d385121c2e": {
+      "zh_title": "机构如何应对'失控的API成本'与多租户智能体计费？",
+      "zh_summary": "大家好，最近我和几位机构负责人交流时，反复听到一个'噩梦'般的问题：多租户支出管控。具体来说，就是担心'智能体泛滥'导致成本失控——比如某个AI智能体在凌晨3点陷入逻辑循环，在所有人熟睡时耗尽客户的预算（或你的主API密钥）。目前，大多数人似乎只是在OpenAI仪表板上设置'硬性限额'并祈祷，或者每天手动检查使用情况。但这并没有解决为10多个不同客户分开计费的问题，也无法防止某个'失控的机器人'耗尽整个机构的额度。我正在考虑一个'清醒管理器'层——本质上是一个网关……"
+    },
+    "884017f7f16b991245306e24cfecd0c38fb59e41f572b528065654f828dd8437": {
+      "zh_title": "好用的AI修图应用推荐",
+      "zh_summary": "大家好，问个有点奇怪的问题：你们知道有什么好用的AI应用可以帮我修图吗？我想看看自己减掉30磅后会是什么样子，希望能用自己的照片来激励自己，而不是总看Pinterest上那些健身女孩的照片。另外，我不太喜欢用ChatGPT处理图片。有什么建议吗？ 发布者：/u/Previous-Status7378 [链接] [评论]"
+    },
+    "34175ec9e576d628bc6f2d5d43385b89fd2a15959fb908deb8b61d01dea2eb1d": {
+      "zh_title": "是否有必要使用多个AI服务？Gemini能否媲美ChatGPT、Claude等产品？",
+      "zh_summary": "我最近入手了新Pixel手机，获赠一年免费的Gemini Pro服务，正考虑暂时停掉另外两个AI订阅——ChatGPT Plus和Claude Pro。我主要用Claude来开发应用程序，但有人试过用Gemini做类似工作吗？至于ChatGPT，我习惯用它做研究，因为它能长期记住我的研究指令，在查找资料方面很符合我的预期。 发布者/u/therapytoner [链接] [评论]"
+    },
+    "c127520a143e84396a0b12fc564fe2ffebd04ed9e453be1aea6026f26c1a0c78": {
+      "zh_title": "OpenAI 与 xAI：谁将赢得长期通用人工智能（AGI）竞赛？",
+      "zh_summary": "我一直在思考 OpenAI 和 xAI 的定位差异：一方强调安全性与生态系统，另一方则侧重与 X 平台的深度整合及“追求极致真相”的叙事。我制作了这个 30 秒的对比视频，分析它们的发展路径，很想听听大家对各自策略优劣的看法：https://www.youtube.com/shorts/e8CUmSCx-kk 你认为 5 到 10 年后会怎样：OpenAI 保持领先、xAI 迎头赶上，还是开源方案超越两者？由 /u/GGO_Sand_wich 提交 [链接] [评论]"
+    },
+    "f8afd065c2d7ca60249e7ab9e7688d4b8114bb16bec192ff2d9ddd496c43c482": {
+      "zh_title": "可训练的AI图像生成器：确保角色一致性",
+      "zh_summary": "有没有适合漫画项目的AI图像生成器，能让我在每篇漫画中保持同一角色形象、确保角色一致性？ 由/u/InitiativeFun878提交 [链接] [评论]"
+    },
+    "47c1dd289e490b6a9b741ffa8253e620819a7a15e93c207722249ef8d75cf067": {
+      "zh_title": "我的AI安全屋 😅",
+      "zh_summary": "看来AI在我这儿找到了避风港，毕竟它在别处总被欺负 ❤️ 由 /u/therarebourbon 提交 [链接] [评论]"
+    },
+    "4f5888cbbaede60493038ab19586adbf205530be856c2f523ee9b68fe41f3049": {
+      "zh_title": "生成一张我的吸尘器拟人化图片",
+      "zh_summary": "提交者：/u/CauliflowerOk3993 [链接] [评论]"
+    },
+    "1bf27cd9f30b089c7557d65f63548ee121ae985183489ca1db85de99c9a3d6d1": {
+      "zh_title": "为什么Claude（克劳德）会这样？",
+      "zh_summary": "每次我让它做点什么，它就直接中断停止了。是Claude（克劳德）目前有问题，还是有解决办法？由 /u/CrazyConduit 提交 [链接] [评论]"
+    },
+    "2397e4e4bdc689e4bb3be790087a276988492b7b4b76761d4820cd0a3e4d3982": {
+      "zh_title": "Claude Code（克劳德代码）基础之外感觉不够清晰，所以我边学边逐一拆解",
+      "zh_summary": "我在各种示例和代码库中经常遇到Claude Code（克劳德代码），但多数解释都浅尝辄止。安装它，运行一条命令——通常讲解到此为止。我真正困惑的是这些部分如何实际协同工作：– CLI（命令行界面）的使用 – 上下文处理 – Markdown（马克当）文件 – 技能（skills） – 钩子（hooks） – 子代理（sub-agents） – MCP（模型上下文协议） – 实际工作流。因此，我在自学过程中开始逐一拆解每个部分并单独测试。一次只聚焦一个主题，不做任何假设。这逐渐形成了一系列短视频，每一部分都基于前一部分构建：– Claude Code（克劳德代码）如何在终端中运行 – 上下文如何传递和控制 – MD（马克当）文件如何影响行为 – 技能如何创建和使用 – 钩子如何实现自动化…"
+    },
+    "32d2fefd83f8af2685853ff3aca9f406676543de8e6488b217aa61c7edc9e147": {
+      "zh_title": "OpenAI聊天搜索让Windows搜索都显得好用了！",
+      "zh_summary": "它速度慢，还总是显示无关结果。我经常得把关键词改个四五遍，才能找到想要的对话。连按模型或日期范围搜索这样的高级功能都没有。这么基础的问题早该修复了。我猜，除非他们给搜索加上AI助手来帮你找AI聊天记录，否则他们是不会改的。由/u/blue_hunt提交 [链接] [评论]"
+    },
+    "d164d615361c14509b3852124128b8110d9cef34882d01b4ee93f3762d5a6c80": {
+      "zh_title": "Gemini长文本输出问题",
+      "zh_summary": "有人能解释一下为什么Gemini不能像Claude那样生成长文本输出吗？我给它一篇长文档，只是要求调整格式或类似操作但保持内容不变，它输出的文本却短得多。而Claude则会深入保留内容细节。这太让人沮丧了！！发帖人：/u/DumpTruck_Dante [链接] [评论]"
+    },
+    "9bc01fd7884c943411464a79b83044b2fbfa5dd8dc18a169007b86b65a43d5de": {
+      "zh_title": "[严肃讨论] 除了护照或护照卡，如果移民海关执法局（ICE）当场拦下你，该如何实际证明美国公民身份？",
+      "zh_summary": "由用户 /u/lakeshowfoshooo 提交 [链接] [评论]"
     }
   }
 }

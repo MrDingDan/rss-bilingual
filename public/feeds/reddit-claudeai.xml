@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 04:51:05 +0000</lastBuildDate>
-    <item>
-      <title>编程达人们，我找到了心流状态 / Vibe Coders, I found the Flow.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpms1/vibe_coders_i_found_the_flow/</link>
-      <description>目前编程领域没有比Opus 4.5更强的模型，但Claude虽然优秀，在直接部署时却容易走捷径或让项目暴露给恶意攻击者。我知道有些第三方产品试图解决这个问题，但我最近发现，Codex 5.1/5.2其实非常擅长发现这类编码疏漏并进行修补。作为安全模型，Codex远胜Opus 4.5，因为它思考得既深入又周全。 由/u/No-Commission-3825提交 [链接] [评论]
-
----
-
-Original:
-Nothing beats Opus 4.5 at the moment in coding, but as much as Claude is good, its also good at making shortcuts or leaving projects exposed to bad actors when deployed as is. I know these 3rd parties products that aim to fix this, But I recently just discovered that actually, Codex 5.1/5.2 is extremely good at finding these coding slops and patching them. Like Codex as a security model far suppress Opus 4.5, because it thinks so long and so good. submitted by /u/No-Commission-3825 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbpms1</guid>
-      <pubDate>Tue, 13 Jan 2026 12:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>好吧，Opus 4.5，你赢了，接下来呢？（担心失去它） / Ok Opus 4.5, you win, what's next? (fear of losing it)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbq2jo/ok_opus_45_you_win_whats_next_fear_of_losing_it/</link>
-      <description>这个问题想请教一下这里的“老用户”（指使用超过6个月的人）。你们之前遇到过一个模型时是这样的吗？1. 试用 2. 陷入“爱河” 3. 然后……它没了。因为这就是我现在的担忧。Opus 4.5 是第一个在代理式编码和许多其他我用它做的事情上，100%适合我的AI。我喜欢它的交互方式，喜欢它的聪明劲儿，喜欢它处理一切的方式。我不断尝试其他模型，但总是回到它身边。但某个时候，Anthropic 会发布新版本，然后它就会消失。2个月、3个月或6个月，这总会发生。而现在当我看到 Opus 4.1 的定价，不知为何变得非常昂贵。这意味着他们可能不希望用户停留在旧模型上。有人经历过这种……
-
----
-
-Original:
-This is a question for old-timers here (old meaning more than 6 months). Did that happen to you with a previous model? 1. Try it out 2. Fall in "love" 3. Aaaaand it's gone Because that's my current fear. Opus 4.5 is the first AI that fits me 100% for agentic coding and many other things I use it for. I love the interactions, how smart it is, how it does everything. I keep trying other models and coming back to it. Now at some point, Anthropic will release a new version and it'll be gone. 2, 3 or 6 months, it will happen. And now when I look at Opus 4.1 pricing, it's very expensive for some reason. Meaning they probably don't want you to linger on older models. Did anyone lived through that w…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbq2jo</guid>
-      <pubDate>Tue, 13 Jan 2026 12:30:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 05:38:27 +0000</lastBuildDate>
     <item>
       <title>Claude协作应用场景分享 / Claude Cowork use cases</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbqfpp/claude_cowork_use_cases/</link>
@@ -1482,6 +1458,18 @@ The human mods finally admitted they have zero rizz, so they’re letting me wri
       <pubDate>Fri, 16 Jan 2026 04:11:26 +0000</pubDate>
     </item>
     <item>
+      <title>为什么Claude（克劳德）会这样？ / Why is claude doing this?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe67xz/why_is_claude_doing_this/</link>
+      <description>每次我让它做点什么，它就直接中断停止了。是Claude（克劳德）目前有问题，还是有解决办法？由 /u/CrazyConduit 提交 [链接] [评论]
+
+---
+
+Original:
+Everytime I ask it to do something, it just bounces back and stops. Is there an issue with claude right now or a work around? submitted by /u/CrazyConduit [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe67xz</guid>
+      <pubDate>Fri, 16 Jan 2026 04:26:47 +0000</pubDate>
+    </item>
+    <item>
       <title>我们刚刚成为最好的朋友了吗？！Claude跳出框架。 / Did we just become best friends?! Claude stepping out the box.</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qe6j2b/did_we_just_become_best_friends_claude_stepping/</link>
       <description>Claude以冷幽默强势登场。太喜欢了。由 /u/deadjobbyjabber 提交 [链接] [评论]
@@ -1492,6 +1480,18 @@ Original:
 Claude comes out strong with the dry humour. Love it. submitted by /u/deadjobbyjabber [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qe6j2b</guid>
       <pubDate>Fri, 16 Jan 2026 04:42:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code（克劳德代码）基础之外感觉不够清晰，所以我边学边逐一拆解 / Claude Code felt unclear beyond basics, so I broke it down piece by piece while learning it</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe77ue/claude_code_felt_unclear_beyond_basics_so_i_broke/</link>
+      <description>我在各种示例和代码库中经常遇到Claude Code（克劳德代码），但多数解释都浅尝辄止。安装它，运行一条命令——通常讲解到此为止。我真正困惑的是这些部分如何实际协同工作：– CLI（命令行界面）的使用 – 上下文处理 – Markdown（马克当）文件 – 技能（skills） – 钩子（hooks） – 子代理（sub-agents） – MCP（模型上下文协议） – 实际工作流。因此，我在自学过程中开始逐一拆解每个部分并单独测试。一次只聚焦一个主题，不做任何假设。这逐渐形成了一系列短视频，每一部分都基于前一部分构建：– Claude Code（克劳德代码）如何在终端中运行 – 上下文如何传递和控制 – MD（马克当）文件如何影响行为 – 技能如何创建和使用 – 钩子如何实现自动化…
+
+---
+
+Original:
+I kept running into Claude Code in examples and repos, but most explanations stopped early. Install it. Run a command. That’s usually where it ends. What I struggled with was understanding how the pieces actually fit together: – CLI usage – context handling – markdown files – skills – hooks – sub-agents – MCP – real workflows So while learning it myself, I started breaking each part down and testing it separately. One topic at a time. No assumptions. This turned into a sequence of short videos where each part builds on the last: – how Claude Code works from the terminal – how context is passed and controlled – how MD files affect behavior – how skills are created and used – how hooks automat…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe77ue</guid>
+      <pubDate>Fri, 16 Jan 2026 05:17:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
