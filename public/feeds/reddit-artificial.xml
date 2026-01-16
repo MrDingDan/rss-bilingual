@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 05:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:50:24 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -936,6 +936,18 @@ Original:
 I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack . Dataset (open source) on GitHub . submitted by /u/abbas_ai [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qe5ax3</guid>
       <pubDate>Fri, 16 Jan 2026 03:42:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>每日AI快讯 2026年1月15日 / One-Minute Daily AI News 1/15/2026</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qe7qql/oneminute_daily_ai_news_1152026/</link>
+      <description>维基百科（Wikipedia）在庆祝成立25周年之际，与微软（Microsoft）、Meta和Perplexity签署了AI合作协议。[1] AI新闻初创公司Symbolic.ai与鲁珀特·默多克（Rupert Murdoch）的新闻集团（News Corp）达成合作。[2] 英伟达（NVIDIA）开源KVzap：一种先进的KV缓存剪枝方法，可实现近乎无损的2-4倍压缩。[3] 阿里巴巴（Alibaba）升级通义千问（Qwen）应用，新增订餐、旅行预订功能。[4] 来源：[1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-comp…
+
+---
+
+Original:
+Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday.[1] AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp.[2] NVIDIA AI Open-Sourced KVzap: A SOTA KV Cache Pruning Method that Delivers near-Lossless 2x-4x Compression.[3] Alibaba upgrades Qwen app to order food, book travel.[4] Sources: [1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-comp…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qe7qql</guid>
+      <pubDate>Fri, 16 Jan 2026 05:45:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

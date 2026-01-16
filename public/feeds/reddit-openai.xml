@@ -6,67 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 05:38:34 +0000</lastBuildDate>
-    <item>
-      <title>5.2版本像个爱煤气灯操作的继父母？ / 5.2 is like a gaslighting stepparent?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qb07y1/52_is_like_a_gaslighting_stepparent/</link>
-      <description>5.2版本经常出错，事后却反过来说是我错了！只要我提到任何灵性相关的话题（4.0版本会认真探讨），它就告诉我一切都不真实，人类只是到处寻找意义，因为他们无法面对现实世界。就连减肥建议也像“杏仁妈妈”那样苛刻，居然说吃个芒果都算放纵😂 总之它的整体氛围都很消极，还特别容易被某些关键词触发，导致回答失准。它之前告诉我罗伯·莱纳（Rob Reiner）还活着，而我因为“焦虑”就相信了他已去世的错觉…… 由用户/u/smoochiegoo提交 [链接] [评论]
-
----
-
-Original:
-5.2 gets stuff wrong regularly, then tells me I was wrong! if I talk about ANYTHING spiritual(4.0 would go there), it tells me nothing is real and humans just need to make meaning everywhere because they can’t handle the reality of the world. also regarding weight loss advice, it gives me almond mom advice and tells me that eating a mango is indulgent 😂 I just feel like everything about its vibe is negative and gets really tripped up on key words that trigger it into inaccuracy. it told me rob reiner was alive and I just believed he was dead because I am “anxious”…. submitted by /u/smoochiegoose [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qb07y1</guid>
-      <pubDate>Mon, 12 Jan 2026 16:54:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>杰弗里·辛顿（Geoffrey Hinton）表示，智能体共享知识的规模远超人类。一万个智能体可以研究不同课题，即时同步学习成果，共同进步。"想象一下，如果一万名学生每人修读一门不同的课程，当他们完成时，每个学生都掌握了所有课程。" / Geoffrey Hinton says agents can share knowledge at a scale far beyond humans. 10,000 agents can study different topics, sync their learnings instantly, and all improve together. "Imagine if 10,000 students each took a different course, and when they finish, each student knows all the courses."</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qb0qw1/geoffrey_hinton_says_agents_can_share_knowledge/</link>
-      <description>由 /u/MetaKnowing 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/MetaKnowing [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qb0qw1</guid>
-      <pubDate>Mon, 12 Jan 2026 17:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI收购Torch Health以构建ChatGPT Health / OpenAI acquires Torch Health to build ChatGPT Health</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qb71ov/openai_acquires_torch_health_to_build_chatgpt/</link>
-      <description>OpenAI已收购专注于整合化验结果、药物记录和就诊录音的医疗初创公司Torch Health。Torch团队将加入OpenAI，协助将ChatGPT Health打造成全面的健康与保健人工智能工具。消息来源：OpenAI及Ilya Abyzov，由/u/BuildwithVignesh提交
-
----
-
-Original:
-OpenAI has acquired Torch Health, a healthcare startup focused on unifying lab results, medications and visit recordings. The Torch team is joining OpenAI to help build ChatGPT Health into a comprehensive AI tool for health and wellness. Source: OpenAI and Ilya Abyzov submitted by /u/BuildwithVignesh [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qb71ov</guid>
-      <pubDate>Mon, 12 Jan 2026 20:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>官宣了 / It’s official</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qb79py/its_official/</link>
-      <description>https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ 分发战争结束了吗？OpenAI 唯一可靠的长期护城河曾是：- 用户习惯养成 - 成为“你提问的首选地”。苹果曾是唯一足够大的分发商，能够：- 中和谷歌搜索的主导地位 - 并赋予 OpenAI 操作系统层面的引力。而现在：- 谷歌拥有了搜索 + Gemini + 苹果分发渠道 - OpenAI 则拥有 ChatGPT + API +…… 只能寄望于监管机构或 OEM 厂商让步。根据谷歌的说法：“如果你使用 iPhone 或 Mac，从 iOS 26.4（预计在 2026 年 3 月左右）开始，你可能会看到一个由 Gemini 驱动的‘重新构想的 Siri’。这个版本旨在理解你的个人情境，在……
-
----
-
-Original:
-https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/ Is that the distribution war over? OpenAI’s only credible long-term moat was: -Consumer habit formation -Being the “first place you ask” Apple was the only distributor big enough to: -Neutralize Google search dominance -And give OpenAI OS-level gravity Instead: -Google now has Search + Gemini + Apple distribution -OpenAI has ChatGPT + APIs +… hoping regulators or OEMs blink According to Google: “If you use an iPhone or Mac, you'll likely see a "reimagined Siri" powered by Gemini starting with iOS 26.4 (expected around March 2026). This version is designed to understand your personal context, in…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qb79py</guid>
-      <pubDate>Mon, 12 Jan 2026 21:06:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>苹果宣布下一代Siri将采用谷歌Gemini驱动，埃隆·马斯克对此表示不满 / Apple announces that next version of Siri would be powered using Google gemini. Elon Musk does not seem happy about it.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qb7dg6/apple_announces_that_next_version_of_siri_would/</link>
-      <description>据悉，苹果曾评估过Gemini、ChatGPT，可能还包括xAI的Grok。特斯拉CEO埃隆·马斯克在社交媒体平台X上发文称：“考虑到谷歌已拥有Android和Chrome，这似乎让谷歌获得了不合理的权力集中。”🤣 苹果与谷歌在联合声明中表示：“经过审慎评估，我们认为谷歌的技术能为苹果基础模型提供最强大的支持，并期待它为用户带来创新的新体验。”https://www.wcnc.com/article/news/nation-world/apple-google-gemini-siri-ai-features/507-575faa99-217e-498d-8f34-5455759113f8 由/u/jbcraigs提交 [链接] [评论]
-
----
-
-Original:
-Seems like Gemini, ChatGPT and possibly xAI Grok were being evaluated. "This seems like an unreasonable concentration of power for Google, given that (they) also have Android and Chrome," Tesla ⁠CEO Elon Musk said in a post on social media platform X. 🤣 “After careful evaluation, we determined that Google’s technology provides the most capable foundation for Apple Foundation Models and we’re excited about the innovative new experiences it will unlock for our users,” the companies said in the statement. https://www.wcnc.com/article/news/nation-world/apple-google-gemini-siri-ai-features/507-575faa99-217e-498d-8f34-5455759113f8 submitted by /u/jbcraigs [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qb7dg6</guid>
-      <pubDate>Mon, 12 Jan 2026 21:10:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 06:51:54 +0000</lastBuildDate>
     <item>
       <title>Meta与OpenAI称已瓦解与以色列公司相关的舆论操控活动 / Meta and OpenAI say they disrupted influence operations linked to lsraeli company</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qbd60s/meta_and_openai_say_they_disrupted_influence/</link>
@@ -1460,6 +1400,66 @@ Original:
 It's slow and always brings up irrelevant results. I often have to rephrase the keyword 4-5 times to find the conversation I am looking for. No advanced features like search by model or date range. Such a basic thing to fix. I guess the only way they'll fix it, is if they put an ai in the search to help you search for your ai chats submitted by /u/blue_hunt [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qe7ja8</guid>
       <pubDate>Fri, 16 Jan 2026 05:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>金融专家称OpenAI资金即将耗尽 / Financial Expert Says OpenAI Is on the Verge of Running Out of Money</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe7uy5/financial_expert_says_openai_is_on_the_verge_of/</link>
+      <description>这一切都指向一个悬而未决的重大问题：OpenAI还能持续烧钱多久？由用户/u/Infinityy100b提交 [链接] [评论]
+
+---
+
+Original:
+It all adds up to an enormous unanswered question: how long can OpenAI keep burning cash? submitted by /u/Infinityy100b [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe7uy5</guid>
+      <pubDate>Fri, 16 Jan 2026 05:51:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>大家的ChatGPT都写得像即兴诗人吗？还是只有我这样？ / Does everyone's ChatGPT write like a slam poet or just me?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe7wvq/does_everyones_chatgpt_write_like_a_slam_poet_or/</link>
+      <description>回复总是很长，段落却又极短，经常一句话就成一段。到处都是换行，还频繁使用列表。读起来感觉像是用推特（Twitter）串文训练的。这只是我的问题吗？还是我设定的自定义指令搞坏了什么？Gemini似乎不会这样输出，至少不会这么明目张胆。这是不是5.1版本比较差劲的表现之一？ 由 /u/plymouthvan 提交 [链接] [评论]
+
+---
+
+Original:
+Long responses. Super short, often one sentence paragraphs. Line breaks everywhere. A bunch of lists. Everything reads like it was trained on tweet threads or something. Is this just me or maybe something I broke with custom instructions? Gemini doesn't seem to output like this. Or, at least not so brazenly like this. Is this just one of the ways that 5.1 is kind of crappy? submitted by /u/plymouthvan [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe7wvq</guid>
+      <pubDate>Fri, 16 Jan 2026 05:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>非主流观点：谷歌不会让苹果在Siri里“藏起”Gemini / Unpopular Opinion: Google won’t let Apple “hide” Gemini inside Siri.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe7zw8/unpopular_opinion_google_wont_let_apple_hide/</link>
+      <description>如果Gemini在Siri内部不显示品牌，谷歌真能获得什么好处吗？随着苹果与谷歌的合作正式公布，大家都在讨论合作会以何种形式呈现。多数人认为苹果会隐藏Gemini的名称以保持“Siri”的魔力，但我觉得这不现实。我的推测是：用户界面中必须出现Gemini的品牌标识。原因如下：谷歌的“动机”：谷歌为何要用其最先进的1.2万亿参数模型，换取据称10亿美元却零品牌曝光？对一家市值4万亿美元的公司来说，10亿美元只是零花钱。这笔交易必须关乎市场营销。用户认知：如果Siri突然变得聪明十倍，谷歌想要那种“光环效应”。他们希望苹果……
+
+---
+
+Original:
+Does Google actually gain anything if Gemini isn't branded inside Siri? With the news of the Apple/Google partnership becoming official, there’s a lot of talk about how it will look. Most people assume Apple will bury the Gemini name to keep the "Siri" magic alive, but I don’t think that’s realistic. My theory: There has to be Gemini branding in the UI. Here’s why: The "Why" for Google: Why would Google trade its most advanced 1.2T parameter model for a reported $1 billion and zero brand recognition? For a company with a $4T market cap, $1B is pocket change. This deal has to be about marketing. User Awareness: If Siri suddenly gets 10x smarter, Google wants that "halo effect." They want Appl…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe7zw8</guid>
+      <pubDate>Fri, 16 Jan 2026 05:59:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>不同模型，各司其职 / Which models do you use for what?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe8bw7/which_models_do_you_use_for_what/</link>
+      <description>我先来。GPT 5.2即时版 - 我日常90%的使用场景。GPT 5.2思考版 - 当我需要它不出错、把事情做对的时候。GPT 5.2（自动版） - 我不用，我喜欢自己选模型。GPT 5.1（所有版本） - 我不用。GPT 5（所有版本） - 我不用。GPT 4o - 用于创意和模拟专家。o3 - 当我真的需要万无一失、完美搞定时（这是5.2思考版失败后的最后手段）。o4-mini - 说实话，我还真没用过。你们呢？由 /u/UniqueClimate 提交 [链接] [评论]
+
+---
+
+Original:
+I’ll start. GPT 5.2 instant - 90% of my daily use GPT 5.2 Thinking - When I need it to not fuck up and get something right GPT 5.2 (auto) - I don’t use, I like to pick my model. GPT 5.1 (all of them) - I don’t use. GPT 5 (all of them) - I don’t use. GPT 4o - For creativity and emulating experts. o3 - When I REALLY need something not fucked up and done right (my last resort when 5.2 Thinking fails) o4-mini - You know, I’ve never actually used. What about y’all? submitted by /u/UniqueClimate [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe8bw7</guid>
+      <pubDate>Fri, 16 Jan 2026 06:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>尝试了FaceSeek后，我开始质疑AI图像识别的未来走向……我试用了一个名为FaceSeek的网站 / Tried FaceSeek and it made me question where AI image recognition is heading...I experimented with a site called</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe8k0h/tried_faceseek_and_it_made_me_question_where_ai/</link>
+      <description>FaceSeek……它利用AI技术查找你的面孔在网络上出现的位置。说实话，结果令人印象深刻，但也有些令人不安。这感觉像是窥见了OpenAI级别的模型与真实世界面部数据结合后的景象。该技术显然采用了先进的嵌入技术，可能与CLIP或deepface系统类似，但其训练数据来源缺乏透明度，令人担忧。如果这类工具成为主流，我们该如何平衡实用性与隐私保护？你认为OpenAI（或其他机构）是否应该在图像识别模型进一步普及前，为其制定伦理标准？由/u/National_Election252提交 [链接] [评论]
+
+---
+
+Original:
+FaceSeek ...it uses AI to find where your face appears online. The results were honestly impressive, but also kind of unsettling. It feels like a glimpse of what happens when OpenAI-level models meet facial data in the wild. The tech clearly uses advanced embeddings, probably similar to CLIP or deepface systems, but the lack of transparency about where training data comes from is concerning. If tools like this become mainstream, how do we balance utility and privacy? Do you think OpenAI (or anyone) should set standards for ethical image recognition models before they scale further?" submitted by /u/National_Election252 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe8k0h</guid>
+      <pubDate>Fri, 16 Jan 2026 06:29:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

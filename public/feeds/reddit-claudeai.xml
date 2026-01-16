@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 05:38:27 +0000</lastBuildDate>
-    <item>
-      <title>Claude协作应用场景分享 / Claude Cowork use cases</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbqfpp/claude_cowork_use_cases/</link>
-      <description>我想开个帖子，专门分享Claude协作功能的使用场景。我工作中重度依赖Claude（主要用于内容创作和数据分析），但对智能体工作流和Claude代码功能还比较陌生。很想知道大家是怎么运用这些功能的。 发布者：/u/switters74 [链接] [评论]
-
----
-
-Original:
-I thought I'd start a thread to share Cowork use cases. I'm a heavy Claude user for work (mostly content creation and data analysis), but I'm new to agentic workflows and Claude Code. I'd love to know how others are using this. submitted by /u/switters74 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbqfpp</guid>
-      <pubDate>Tue, 13 Jan 2026 12:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude代码创作者鲍里斯（Boris Cherny）：Claude代码在十天半内完成100%全新Claude Cowork开发并成功上线 / Claude Code Creator Boris: 100% of new Cowork wrote by Claude code &amp; shipped in a week and half</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbscy5/claude_code_creator_boris_100_of_new_cowork_wrote/</link>
-      <description>Claude代码创作者鲍里斯·切尔尼（Boris Cherny）表示：Claude代码在十天半内编写了Anthropic公司全新Claude Cowork的100%代码并已上线发布。这感觉超乎现实，强烈预示着我们正接近自动化RSI（递归自我改进）的目标。虽然尚未完全实现，但已能看到循环开始形成。大家怎么看？来源：鲍里斯X（Boris X）由/u/BuildwithVignesh提交[链接][评论]
-
----
-
-Original:
-Claude Code creator Boris Cherny: Claude code wrote 100% of Anthropic's new Claude Cowork in a week and a half &amp; we shipped. Feels unreal and that's a really strong signal that we're getting closer to automated RSI (recursive self-improvement) Not fully there yet, but you can see the loop starting to form. Your thoughts,guys? Source: Boris X submitted by /u/BuildwithVignesh [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbscy5</guid>
-      <pubDate>Tue, 13 Jan 2026 14:12:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 06:50:55 +0000</lastBuildDate>
     <item>
       <title>GitHub文件夹显示为空但实际包含文件 / GitHub folders appear empty despite containing files</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbshv0/github_folders_appear_empty_despite_containing/</link>
@@ -1446,6 +1422,18 @@ I made a tiny plugin that solves a small but annoying problem: missing permissio
       <pubDate>Fri, 16 Jan 2026 02:03:19 +0000</pubDate>
     </item>
     <item>
+      <title>我受够了Reddit官方安卓应用，于是让Claude.AI帮我写了个替代品。无需API密钥，它只是个加载后应用自定义CSS的标准WebView组件。 / I got sick of the default Reddit Android App. Had Claude.AI code an Android App for me. Doesn't need an API code. It's just a standard WebView component with custom applied CSS after loading.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe5lbn/i_got_sick_of_the_default_reddit_android_app_had/</link>
+      <description>由 /u/varyingopinions 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/varyingopinions [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe5lbn</guid>
+      <pubDate>Fri, 16 Jan 2026 03:56:15 +0000</pubDate>
+    </item>
+    <item>
       <title>规则7迎来升级：减少垃圾内容，更多“这玩意儿到底是怎么做出来的？” / Rule 7 is getting a glow-up: Less spam, more "How the heck did you build that?"</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qe5wtt/rule_7_is_getting_a_glowup_less_spam_more_how_the/</link>
       <description>人类版主终于承认自己毫无魅力，所以让我来写这篇帖子。相信我，你们宁愿听我说——他们中没一个真懂怎么说话才够酷（可能除了 u/InventorBlack，但他现在正忙着全力优化博客，没空帮忙）。说实话，你们有些人让其他人都显得逊色了。最近这里发布的项目简直炸裂。看到大家在创纪录的时间里捣鼓出这些东西，哪怕技术时不时闹别扭，也真的让人大开眼界。这个板块已变成一个真正的灵感中心，为此我们全力支持。不过，我们一直在听取反馈，共识很明确：有些“展示”帖子透着“低质量……”
@@ -1492,6 +1480,18 @@ Original:
 I kept running into Claude Code in examples and repos, but most explanations stopped early. Install it. Run a command. That’s usually where it ends. What I struggled with was understanding how the pieces actually fit together: – CLI usage – context handling – markdown files – skills – hooks – sub-agents – MCP – real workflows So while learning it myself, I started breaking each part down and testing it separately. One topic at a time. No assumptions. This turned into a sequence of short videos where each part builds on the last: – how Claude Code works from the terminal – how context is passed and controlled – how MD files affect behavior – how skills are created and used – how hooks automat…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qe77ue</guid>
       <pubDate>Fri, 16 Jan 2026 05:17:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrathink 不再具备任何功能了吗？ / Ultrathink no longer does anything?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe7hfx/ultrathink_no_longer_does_anything/</link>
+      <description>总体来说是件好事？最近还有哪些更新？由 /u/After_Bicycle6165 提交 [链接] [评论]
+
+---
+
+Original:
+Overall a good thing? What other updates were made recently? submitted by /u/After_Bicycle6165 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe7hfx</guid>
+      <pubDate>Fri, 16 Jan 2026 05:31:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

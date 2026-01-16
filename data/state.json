@@ -1211,7 +1211,22 @@
     "reddit-claudeai::t3_1qe77ue": 1768541907,
     "reddit-openai::t3_1qe7ja8": 1768541914,
     "reddit-bard::t3_1qe6wjg": 1768541921,
-    "reddit-askreddit::t3_1qdw3t6": 1768541928
+    "reddit-askreddit::t3_1qdw3t6": 1768541928,
+    "reddit-ai-agents::t3_1qe8g2o": 1768546188,
+    "reddit-ai-agents::t3_1qe8m5y": 1768546206,
+    "reddit-artificial::t3_1qe7qql": 1768546224,
+    "reddit-chatgpt::t3_1qe7fhf": 1768546231,
+    "reddit-claudeai::t3_1qe7hfx": 1768546248,
+    "reddit-claudeai::t3_1qe5lbn": 1768546255,
+    "reddit-openai::t3_1qe7uy5": 1768546261,
+    "reddit-openai::t3_1qe7wvq": 1768546272,
+    "reddit-openai::t3_1qe8bw7": 1768546288,
+    "reddit-openai::t3_1qe7zw8": 1768546302,
+    "reddit-openai::t3_1qe8k0h": 1768546313,
+    "reddit-askreddit::t3_1qe37qj": 1768546319,
+    "reddit-askreddit::t3_1qe64sh": 1768546326,
+    "reddit-askreddit::t3_1qe84am": 1768546330,
+    "reddit-android::t3_1qe7xtn": 1768546335
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -6017,6 +6032,66 @@
     "9bc01fd7884c943411464a79b83044b2fbfa5dd8dc18a169007b86b65a43d5de": {
       "zh_title": "[严肃讨论] 除了护照或护照卡，如果移民海关执法局（ICE）当场拦下你，该如何实际证明美国公民身份？",
       "zh_summary": "由用户 /u/lakeshowfoshooo 提交 [链接] [评论]"
+    },
+    "b4a9951db9e36e127c781cc0a5c73963307ec73058184a3bce40608a5af2c201": {
+      "zh_title": "设计协调器的骨架：探寻合适的思维结构",
+      "zh_summary": "反思协调器智能体在多智能体系统中的基础形态。当注意力从个体行为转向连接它们的结构时，协调器不仅作为一个技术组件出现，更成为一种组织原则——协调、意图与约束交汇之处。在实施之前，当协调器主要还停留在一系列问题阶段时，我对他人如何看待这一早期阶段很感兴趣：• 除了简单分配任务，协调器在智能体“生态”中扮演什么核心角色？• 人们如何界定引导与自主之间的边界——介于流程塑造与……"
+    },
+    "09624eca39723a1af1a7c923260ded3ffc6cb314305637c7f6954498dffcefb6": {
+      "zh_title": "AI智能体开发：选Python还是TypeScript？你们用框架还是自研核心逻辑？",
+      "zh_summary": "各位智能体开发者，你们主要用Python还是TypeScript构建AI智能体？如果两种都用过，更偏好哪种？为什么？另外：你们是依赖现成的智能体框架，还是自己编写核心粘合逻辑？如果选择自研，是什么促使你们走这个方向？很好奇大家在实际开发中都是怎么做的。 提交者：/u/dmpiergiacomo [链接] [评论]"
+    },
+    "d67fec356ee56e3f9e6235b5de9c1819b3cded412cb5b118554503106f12e20d": {
+      "zh_title": "每日AI快讯 2026年1月15日",
+      "zh_summary": "维基百科（Wikipedia）在庆祝成立25周年之际，与微软（Microsoft）、Meta和Perplexity签署了AI合作协议。[1] AI新闻初创公司Symbolic.ai与鲁珀特·默多克（Rupert Murdoch）的新闻集团（News Corp）达成合作。[2] 英伟达（NVIDIA）开源KVzap：一种先进的KV缓存剪枝方法，可实现近乎无损的2-4倍压缩。[3] 阿里巴巴（Alibaba）升级通义千问（Qwen）应用，新增订餐、旅行预订功能。[4] 来源：[1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-comp…"
+    },
+    "9136646174972d7963446b608256796d3ec6e18e4c238426fd05939bf1b60e9e": {
+      "zh_title": "你会是什么宠物",
+      "zh_summary": "如果我是宠物店里的动物，请生成一张图片，展示我会是什么样子、会成为哪种动物。尽可能贴近我的个性来呈现。这对我来说确实很贴切。由 /u/Particular-Crew5978 提交 [链接] [评论]"
+    },
+    "cb8b22ecded93e4e35736c74788504ab4ba881009d4e18d432563180c3a55892": {
+      "zh_title": "Ultrathink 不再具备任何功能了吗？",
+      "zh_summary": "总体来说是件好事？最近还有哪些更新？由 /u/After_Bicycle6165 提交 [链接] [评论]"
+    },
+    "3bec2135e3b01a49f9d920732bf78b6bcafe135f7312e5f2c53b034fb0b2b6e5": {
+      "zh_title": "我受够了Reddit官方安卓应用，于是让Claude.AI帮我写了个替代品。无需API密钥，它只是个加载后应用自定义CSS的标准WebView组件。",
+      "zh_summary": "由 /u/varyingopinions 提交 [链接] [评论]"
+    },
+    "1a29ca53e679014b6c9f7116acd354f30685df79d6907381669447b8d11c8562": {
+      "zh_title": "金融专家称OpenAI资金即将耗尽",
+      "zh_summary": "这一切都指向一个悬而未决的重大问题：OpenAI还能持续烧钱多久？由用户/u/Infinityy100b提交 [链接] [评论]"
+    },
+    "2cd73388fbfead7ffeb8a7925bce2d25fa0db81a7de900a0938f08bedf2c9c3f": {
+      "zh_title": "大家的ChatGPT都写得像即兴诗人吗？还是只有我这样？",
+      "zh_summary": "回复总是很长，段落却又极短，经常一句话就成一段。到处都是换行，还频繁使用列表。读起来感觉像是用推特（Twitter）串文训练的。这只是我的问题吗？还是我设定的自定义指令搞坏了什么？Gemini似乎不会这样输出，至少不会这么明目张胆。这是不是5.1版本比较差劲的表现之一？ 由 /u/plymouthvan 提交 [链接] [评论]"
+    },
+    "367f3d0caf144a8f2b1f3fd51dffd18bd5646a2833de43a9703c997b8c72ed38": {
+      "zh_title": "不同模型，各司其职",
+      "zh_summary": "我先来。GPT 5.2即时版 - 我日常90%的使用场景。GPT 5.2思考版 - 当我需要它不出错、把事情做对的时候。GPT 5.2（自动版） - 我不用，我喜欢自己选模型。GPT 5.1（所有版本） - 我不用。GPT 5（所有版本） - 我不用。GPT 4o - 用于创意和模拟专家。o3 - 当我真的需要万无一失、完美搞定时（这是5.2思考版失败后的最后手段）。o4-mini - 说实话，我还真没用过。你们呢？由 /u/UniqueClimate 提交 [链接] [评论]"
+    },
+    "233b1f638e6211cc935d2050abc7472f9619f45bef6a9c682591dce034b0b073": {
+      "zh_title": "非主流观点：谷歌不会让苹果在Siri里“藏起”Gemini",
+      "zh_summary": "如果Gemini在Siri内部不显示品牌，谷歌真能获得什么好处吗？随着苹果与谷歌的合作正式公布，大家都在讨论合作会以何种形式呈现。多数人认为苹果会隐藏Gemini的名称以保持“Siri”的魔力，但我觉得这不现实。我的推测是：用户界面中必须出现Gemini的品牌标识。原因如下：谷歌的“动机”：谷歌为何要用其最先进的1.2万亿参数模型，换取据称10亿美元却零品牌曝光？对一家市值4万亿美元的公司来说，10亿美元只是零花钱。这笔交易必须关乎市场营销。用户认知：如果Siri突然变得聪明十倍，谷歌想要那种“光环效应”。他们希望苹果……"
+    },
+    "1a1515834fded04f9b266b90fc92624c3f205df196c68cc2dd8fd54a40171dc3": {
+      "zh_title": "尝试了FaceSeek后，我开始质疑AI图像识别的未来走向……我试用了一个名为FaceSeek的网站",
+      "zh_summary": "FaceSeek……它利用AI技术查找你的面孔在网络上出现的位置。说实话，结果令人印象深刻，但也有些令人不安。这感觉像是窥见了OpenAI级别的模型与真实世界面部数据结合后的景象。该技术显然采用了先进的嵌入技术，可能与CLIP或deepface系统类似，但其训练数据来源缺乏透明度，令人担忧。如果这类工具成为主流，我们该如何平衡实用性与隐私保护？你认为OpenAI（或其他机构）是否应该在图像识别模型进一步普及前，为其制定伦理标准？由/u/National_Election252提交 [链接] [评论]"
+    },
+    "96e58d729083475bf9794f55d164333dd26faedc7f709fa5460cc5d327daa928": {
+      "zh_title": "还记得哪些曾被热捧、结果却彻底翻车的事物？",
+      "zh_summary": "由用户 /u/Weak_Yak_4719 提交 [链接] [评论]"
+    },
+    "8c0627908345bffd6688eda7c0ae106fa88810152fc471d6ddd474e18e44903e": {
+      "zh_title": "在感情关系中，人们假装无所谓但实际上至关重要的事是什么？",
+      "zh_summary": "由用户 /u/Illustrious-Fun2980 提交 [链接] [评论]"
+    },
+    "aeb8886efb66d7f4316e578a5383629d7792e549706557107cc0e6560a3a0046": {
+      "zh_title": "大多数人还没准备好接受的一个真相是什么？",
+      "zh_summary": "由 /u/nadiaaavelvet 提交 [链接] [评论]"
+    },
+    "f17e85899d5a7a775bfad7b12eff391ed9fb36003d2d40018f79ac0c29c032c3": {
+      "zh_title": "如果安卓明天就淘汰小部件，我也不会怀念它们",
+      "zh_summary": "由 /u/BcuzRacecar 提交 [链接] [评论]"
     }
   }
 }

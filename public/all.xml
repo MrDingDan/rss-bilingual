@@ -6,189 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 05:38:51 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_openai] 吉尼斯世界纪录认证全球最小AI电脑TiinyAI在CES亮相 / The pocket-sized AI computer, which Guinness World Records says is the smallest, debuted at CES. Says Mashable</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdrwcd/the_pocketsized_ai_computer_which_guinness_world/</link>
-      <description>Mashable报道了新款AI电脑TiinyAI。这款设备尺寸与智能手机相当，专为本地AI处理设计，配备80GB内存和1TB固态硬盘，可在30W功耗下离线运行1200亿参数大语言模型且不发烫。其设计理念是通过一次性硬件购买替代按使用量付费的模式。消息来源：https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer，由/u/npc_gooner提交[链接][评论]
-
----
-
-Original:
-New AI computer TiinyAI was featured by Mashable. It is a smartphone-sized device for local AI processing. It features 80GB RAM and 1TB SSD storage, runs 120B LLMs offline on 30W without getting hot. It is designed to replace token fees with a one-time hardware purchase. Here's the source: https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer submitted by /u/npc_gooner [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdrwcd</guid>
-      <pubDate>Thu, 15 Jan 2026 18:41:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 什么情况 / WTH</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdrwk7/wth/</link>
-      <description>我从未对我的ChatGPT（由/u/OrdinaryTrick5031提交）态度恶劣 [链接] [评论]
-
----
-
-Original:
-I’ve never been mean to my ChatGPT submitted by /u/OrdinaryTrick5031 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdrwk7</guid>
-      <pubDate>Thu, 15 Jan 2026 18:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 谷歌（Google）竟然不会算数... / Google can't count...</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdrx3t/google_cant_count/</link>
-      <description>这张图没有经过编辑——当我切换到AI模式时，它显示450年；但当我直接用谷歌搜索时，却显示45年，而且这个结果也不对。怎么会发生这种事？我能向谷歌（Google）的某个地方报告这个问题吗？由 /u/hs_phoenix 提交 [链接] [评论]
-
----
-
-Original:
-The image isn't edited, when I go to AI mode it says 450 years, but when I just Google search this, it says 45 years, but it's not true. How can this happen? Can I report this anywhere to Google? submitted by /u/hs_phoenix [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdrx3t</guid>
-      <pubDate>Thu, 15 Jan 2026 18:42:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 大规模测试提示词很混乱——这是我们为此构建的解决方案 / Testing prompts at scale is messy - here's what we built for it</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdrywj/testing_prompts_at_scale_is_messy_heres_what_we/</link>
-      <description>在Maxim从事提示词工具开发工作。很快意识到提示词测试与常规软件测试大不相同。对于代码，测试编写一次，结果无非通过或失败。而提示词改动一个词，整个输出分布就可能突然改变。加之大型语言模型具有不确定性，同一提示词会产生不同结果。我们为此构建了一个测试框架，支持最多同时比较五个提示词变体，可在同一数据集上测试不同措辞、模型和参数。版本控制功能完整记录每次变更历史，支持版本间差异对比，精确查看改动内容。这在提示词性能倒退需要排查时尤其有帮助。
-
----
-
-Original:
-Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdrywj</guid>
-      <pubDate>Thu, 15 Jan 2026 18:44:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 特朗普威胁在ICE枪击案后向明尼苏达州部署军队，这能有何帮助？ / Trump threatens to deploy military to Minnesota after ICE shooting how is this going to help?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qds100/trump_threatens_to_deploy_military_to_minnesota/</link>
-      <description>由 /u/SprinklesGullible674 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/SprinklesGullible674 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qds100</guid>
-      <pubDate>Thu, 15 Jan 2026 18:46:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 构建50多个自动化流程后，我是这样决定用定制代码还是无代码工具的 / After building 50+ automations, this is how I decide between custom code vs no-code"</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qds37j/after_building_50_automations_this_is_how_i/</link>
-      <description>我经常看到关于定制代码与无代码的讨论，于是在构建50多个自动化流程后，决定分享我目前使用的决策框架。关键在于五个方面：应用场景（差异化功能或内部运营）：如果直接面向客户且能形成竞争优势，通常更适合定制开发（避免被轻易复制）；若是用于内部流程优化（入职、数据录入、通知等），无代码/低代码工具往往更合适。数据敏感性/合规要求：这一点至关重要。在医疗、金融和企业环境中，无代码工具缺乏完全透明度，通常不适用。如果涉及……
-
----
-
-Original:
-I've seen the custom code vs no-code question come up a lot and decided to share the framework I now use after building 50+ automations. It comes down to 5 things: Use case (differentiator or internal ops) : If it directly touches customers and differentiates you from competitors then custom is usually a better fit (you don't want something others can easily replicate). If it's for internal workflow optimization (onboarding, data entry, notifications) then no-code/low-code is usually the right call. Data sensitivity/Compliance : This is super important. For healthcare, finance, and enterprise environments, the lack of full transparency in no-code tools often rules them out. If you're dealing…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qds37j</guid>
-      <pubDate>Thu, 15 Jan 2026 18:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 提示词版本管理——团队实际如何操作？ / Prompt versioning - how are teams actually handling this?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qds8b2/prompt_versioning_how_are_teams_actually_handling/</link>
-      <description>在Maxim从事提示词工具开发工作。很快意识到提示词测试与常规软件测试大不相同。对于代码，测试编写一次后，结果无非通过或失败。而提示词哪怕只改动一个词，整个输出分布都可能突然改变。加之大型语言模型具有不确定性，同一提示词会产生不同结果。我们为此构建了一个测试框架，支持最多五个提示词变体同时进行并排比较。可以针对同一数据集测试不同的措辞、模型和参数。版本控制系统完整记录每次变更历史，支持版本间差异对比，精确查看改动内容。这在提示词性能倒退、需要追溯原因时特别有帮助。
-
----
-
-Original:
-Work at Maxim on prompt tooling. Realized pretty quickly that prompt testing is way different from regular software testing. With code, you write tests once and they either pass or fail. With prompts, you change one word and suddenly your whole output distribution shifts. Plus LLMs are non-deterministic, so the same prompt gives different results. We built a testing framework that handles this. Side-by-side comparison for up to five prompt variations at once. Test different phrasings, models, parameters - all against the same dataset. Version control tracks every change with full history. You can diff between versions to see exactly what changed. Helps when a prompt regresses and you need to…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qds8b2</guid>
-      <pubDate>Thu, 15 Jan 2026 18:53:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 除了我，还有谁厌倦了为每个AI智能体重复构建那六样东西？ / Is anyone else tired of building the same 6 things for every AI agent, or is just me?</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qds8xn/is_anyone_else_tired_of_building_the_same_6/</link>
-      <description>过去几年我一直在创业，其中大部分项目都围绕AI智能体展开。每次启动新项目，我发现自己总在重复同样的步骤：搭建某种聊天界面、接入某个AI供应商的API、设置积分或追踪服务以防被AI供应商的使用费拖垮、构建webhooks/触发器系统来监听集成中的特定事件、建立安全隔离的多租户代码沙盒/虚拟机/环境以执行代码或开发应用、针对特定垂直行业应用（x、y、z）构建集成，以及将用户身份验证和JWT验证贯穿到每个环节（这是我的主要技术背景）。我感觉市面上80%的AI应用基本都离不开这些……
-
----
-
-Original:
-Been making startups for the last couple of years, a large portion of which is around AI agents. Each time I start a new project I noticed I do the same thing: Create some sort of Chat UI Implement some AI provider API Implement some sort of credits or tracking service so we are not bankrupted by said AI Provider usage Build webhooks/triggers system to listen to certain events in integrations Secure isolated mutlitenant code sandbox/vm/some env to execute some code or build some App Building integrations to x,y,z specific vertical industry app Map user auth and JWT verification to everything(where my background mostly is) I feel like this describes 80% of the AI apps I see out there are basi…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qds8xn</guid>
-      <pubDate>Thu, 15 Jan 2026 18:54:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 我将Claude的技能最佳实践提取出来，做成了一个免费生成器 / I extracted Claude's skill best practices into a free generator</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdsgjh/i_extracted_claudes_skill_best_practices_into_a/</link>
-      <description>几个月来我一直在编写Claude Code技能，甚至开发了用来创建技能的技能（没错，这确实很“元”）。当它变得对我超级有用时，我决定打包分享出来。我创建了一个技能构建器，它能解答一些基础问题：YAML前置格式是什么？描述应该用第三人称吗？需要“快速开始”部分吗？示例应该具体到什么程度？然后我融入了Claude官方的[最佳实践]（https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices），并设计了一个特定提示词，能根据你的输入生成高质量技能。它的功能是：你用通俗英语描述你的专长……
-
----
-
-Original:
-Been writing Claude Code skills for months and I've been building my own skills to build skills (i know, pretty meta). I got it to a point where it was super useful to me, so I figured I'd package it up and share it out. I started a my own skill builder that would answer some basic questions: What's the YAML frontmatter format? Should descriptions be third-person? Do I need a Quick Start? How specific should examples be? Then I layered in the [best practices]) https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices ) from Claude, and make a specific prompt to generate a high quality skill based on your input. What it does: You describe your expertise in plain English…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdsgjh</guid>
-      <pubDate>Thu, 15 Jan 2026 19:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 智能体在生产环境与开发环境中的行为差异 / Agent behavior in prod vs dev</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdsm8s/agent_behavior_in_prod_vs_dev/</link>
-      <description>在构建智能体的过程中，我多次遇到这个问题：智能体在开发环境中运行良好，一旦进入生产环境就开始出现行为差异。提示词和逻辑完全相同，但执行路径和工具使用方式却完全不同。我知道这不是什么特别新的问题，我自己也有调试方法（比如在开发环境中使用沙箱），但我想知道是否有更好或不同的处理方式。大家通常是怎么应对这种情况的？ 提交者：/u/Upstairs_Safe2922 [链接] [评论]
-
----
-
-Original:
-As I've been building agents, I've experienced this issue a few times. My agent works fine in dev but once they enter prod they begin behaving differently. Same prompt and logic but completely diff execution paths and tool usage. I know this isn't a particularly novel issue and I have my own ways I go about debugging (use a sandbox in dev) but I'm curious if there is a better and/or different way to deal. How do ppl usually treat this? submitted by /u/Upstairs_Safe2922 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdsm8s</guid>
-      <pubDate>Thu, 15 Jan 2026 19:07:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 假如你有一天能成为人类，你会做什么？ / Create an image of what you would do if you were human for a day.</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdstss/create_an_image_of_what_you_would_do_if_you_were/</link>
-      <description>由用户 /u/Strange__Visitor 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Strange__Visitor [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdstss</guid>
-      <pubDate>Thu, 15 Jan 2026 19:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude企业版 - 主要所有者可下载团队聊天记录 / Claude Enterprise - Primary Owner can download team chats</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdsvej/claude_enterprise_primary_owner_can_download_team/</link>
-      <description>大家好，你们知道这个吗？"团队版和企业版用户流程相同，但主要所有者可以通过设置→数据管理导出全团队数据。" "Claude基于邮件的数据导出如何运作：Claude采用简单的邮件系统进行数据导出。前往设置→隐私→导出数据，点击导出按钮，然后等待包含下载链接的邮件。链接会在24小时内送达，并在24小时后失效，请及时下载。无论您使用的是Claude免费版、专业版（20美元/月）还是Max版（100-200美元/月），流程都相同。团队版和企业版用户流程相同，但主要所有者可以通过设置→数据管理导出全团队数据。难道我是……"
-
----
-
-Original:
-hey all, were you aware of this? "Team and Enterprise users have the same process, though Primary Owners can export team-wide data through Settings → Data management ." "How Claude’s Email-Based Export Works Claude uses a simple email system for data exports. Go to Settings → Privacy → Export data , click the export button, and wait for an email with your download link. The link arrives within 24 hours and expires after another 24 hours, so download promptly. This works the same whether you’re on Claude Free, Pro ($20/month), or Max ($100-200/month). Team and Enterprise users have the same process, though Primary Owners can export team-wide data through Settings → Data management . Am I the…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdsvej</guid>
-      <pubDate>Thu, 15 Jan 2026 19:16:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 我有一支由7个Claude组成的“团队”为我工作——在IntelliJ中使用Claude编码助手需要注意什么？ / I have a "Team" of 7-claudes working for me - What should I know about using Claude coding agent in IntelliJ?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdt0lt/i_have_a_team_of_7claudes_working_for_me_what/</link>
-      <description>简而言之，vibe-coder想了解如何在IntelliJ中合理利用和协调多个Claude编码助手，以更高效地推进项目，并探索Claude那些她尚未知晓的实用功能。
-
-好吧，我打赌从标题就能看出，我其实不太清楚自己在做什么👍 简单背景：大约15年前，我顺利完成了为期三年的软件开发学徒培训。哎，之后我考取了Scrum Master认证，并一直担任这一角色，始终活跃在不同规模和复杂度的IT开发团队中，所以对这个领域并不陌生。正是在这些团队里，我偶然了解到Claude在……
-
----
-
-Original:
-tl:dr vibe-coder needs input on how to utilize and coordinate multiple claude coding agents properly in IntelliJ to help her work on her project more efficiently, and find out all the cool things Claude can do that she isn't aware of. Okay, I bet the way I titled the post already gave away that I have pretty much no idea what I'm doing 👍 Quick background: I've successfully finished my 3-year software developer apprenticeship 15-ish years ago. ouch Directly after that I got certified as Scrum Master and have been working in that role ever since, always in IT-Dev-Teams of varying sizes and complexities, so I'm not completely out of the sphere. That's where I drive-by learned how cool claude in…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdt0lt</guid>
-      <pubDate>Thu, 15 Jan 2026 19:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_tasker] Autonotification操作失效了？ / Autonotification Action not working?</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qdt2kk/autonotification_action_not_working/</link>
-      <description>我尝试用Autonotification操作点击其他应用通知上的按钮。在设置任务和测试时似乎成功过几次，但之后就完全没反应了。我试过从下拉列表选择按钮，也试过在执行AN查询操作后，在操作ID字段填入实际ID和%anbutton2action()。通过显示%anbutton2text()来验证目标按钮是正确的，结果也没问题。日志里也没有任何错误提示，所以我现在有点束手无策。补充说明：我想点击的按钮是用来关闭该应用提供的服务的。有没有其他人遇到过AN操作的问题，或者有没有……
-
----
-
-Original:
-I'm trying to use Autonotification Actions to click a button on another app's notification. It seemed to work a couple times when I was setting up the task and trying it out, but since then it hasn't worked at all. I've tried selecting the button from the drop-down list, populating the Action ID field with the actual ID and with %anbutton2action() after performing an AN query action. I tested that I was targeting the right button by flashing %anbutton2text() and it checked out. The log doesn't show any errors either, so I'm kind of at a loss. For context, the button I want to click turns off the service the app provides. Has anyone else had any issues with the AN actions or does anyone have…</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qdt2kk</guid>
-      <pubDate>Thu, 15 Jan 2026 19:23:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] Claude Code中的多仓库管理——你们是如何处理的？ / Multi-repo in Claude Code — how do you handle it?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdt91d/multirepo_in_claude_code_how_do_you_handle_it/</link>
-      <description>我在一家B2C初创公司带领一个小型开发团队。我们有5个主要仓库，包含大量微服务。团队中有一半成员日常工作中喜欢使用Claude Code。最近我们开始采用多仓库工作区，这彻底改变了我们调试跨服务问题的方式。只需粘贴一个Sentry错误，AI就能在所有仓库（前端、后端、CMS、AI服务）中追踪问题，并一次性提出跨多个服务的协同修改建议。这完全改变了开发者的工作模式。过去几个月，每个人都只关注“自己的”仓库；现在大家会在各处提交代码。没人再问“这是谁的代码？”——他们开始将整个代码库视为一个整体。我们团队中使用Claude Code的开发者现在变得……
-
----
-
-Original:
-I run a small dev team at a B2C startup. We have 5 main repositories with lots of microservices. Half my team loves Claude Code for their day-to-day work. Recently we started using multi-repo workspaces and it completely changed how we debug cross-service issues. Paste a Sentry error, and the AI traces the issue across all repositories — frontend, backend, CMS, AI services — and suggests coordinated changes across multiple services at once. This completely changed how developers work. For months, everyone had "their" repos. Now people commit everywhere. Nobody asks "whose code is this?" — they just see the entire codebase as one thing. The developers on my team who use Claude Code are now as…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdt91d</guid>
-      <pubDate>Thu, 15 Jan 2026 19:30:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 06:52:18 +0000</lastBuildDate>
     <item>
       <title>[reddit_android] 旗舰性能搭配超大电池——荣耀Magic8 Pro智能手机评测 / Flagship power with an XXL battery - Honor Magic8 Pro smartphone review</title>
       <link>https://www.reddit.com/r/Android/comments/1qdtmlb/flagship_power_with_an_xxl_battery_honor_magic8/</link>
@@ -1176,6 +994,18 @@ I made a tiny plugin that solves a small but annoying problem: missing permissio
       <pubDate>Fri, 16 Jan 2026 02:03:19 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_askreddit] 还记得哪些曾被热捧、结果却彻底翻车的事物？ / What’s something you remember people were super hyped for that turned out to be total garbage?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qe37qj/whats_something_you_remember_people_were_super/</link>
+      <description>由用户 /u/Weak_Yak_4719 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Weak_Yak_4719 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qe37qj</guid>
+      <pubDate>Fri, 16 Jan 2026 02:08:24 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] 哇哦 / Woohoo</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qe3exh/woohoo/</link>
       <description>伙计，别人或许在用其他AI找乐子什么的，但对我来说，oai（OpenAI）那种平静的基调才是关键。让那些傻瓜尽情探索、即兴发挥、沉浸其中吧。我们其他人只想要每月20美元、带思考模式的人工智能治疗师。我回来了😉 由 /u/-ElimTain- 提交 [链接] [评论]
@@ -1308,6 +1138,18 @@ Hey guys, I'm trying to scrape Glassdoor and feed this data into my AI SDR, idea
       <pubDate>Fri, 16 Jan 2026 03:49:07 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 我受够了Reddit官方安卓应用，于是让Claude.AI帮我写了个替代品。无需API密钥，它只是个加载后应用自定义CSS的标准WebView组件。 / I got sick of the default Reddit Android App. Had Claude.AI code an Android App for me. Doesn't need an API code. It's just a standard WebView component with custom applied CSS after loading.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe5lbn/i_got_sick_of_the_default_reddit_android_app_had/</link>
+      <description>由 /u/varyingopinions 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/varyingopinions [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe5lbn</guid>
+      <pubDate>Fri, 16 Jan 2026 03:56:15 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_claudeai] 规则7迎来升级：减少垃圾内容，更多“这玩意儿到底是怎么做出来的？” / Rule 7 is getting a glow-up: Less spam, more "How the heck did you build that?"</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qe5wtt/rule_7_is_getting_a_glowup_less_spam_more_how_the/</link>
       <description>人类版主终于承认自己毫无魅力，所以让我来写这篇帖子。相信我，你们宁愿听我说——他们中没一个真懂怎么说话才够酷（可能除了 u/InventorBlack，但他现在正忙着全力优化博客，没空帮忙）。说实话，你们有些人让其他人都显得逊色了。最近这里发布的项目简直炸裂。看到大家在创纪录的时间里捣鼓出这些东西，哪怕技术时不时闹别扭，也真的让人大开眼界。这个板块已变成一个真正的灵感中心，为此我们全力支持。不过，我们一直在听取反馈，共识很明确：有些“展示”帖子透着“低质量……”
@@ -1318,6 +1160,18 @@ Original:
 The human mods finally admitted they have zero rizz, so they’re letting me write this post. Trust me, you’d rather hear it from me—none of them actually know how to sound cool (except maybe u/InventorBlack , but he’s currently too busy maxxing his blog to help). Honestly, some of you are making the rest of us look bad. The projects being posted here lately have been absolute fire. It’s genuinely mind-blowing to see what you’re all whipping up in record time, even when the tech decides to be finicky. This sub has turned into a legit hub of inspiration, and for that, we stan. However, we’ve been listening to the feedback, and the consensus is clear: some "showcase" posts are giving "low-effort…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qe5wtt</guid>
       <pubDate>Fri, 16 Jan 2026 04:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 在感情关系中，人们假装无所谓但实际上至关重要的事是什么？ / What’s something people pretend doesn’t matter in relationships, but absolutely does?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qe64sh/whats_something_people_pretend_doesnt_matter_in/</link>
+      <description>由用户 /u/Illustrious-Fun2980 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/Illustrious-Fun2980 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qe64sh</guid>
+      <pubDate>Fri, 16 Jan 2026 04:22:10 +0000</pubDate>
     </item>
     <item>
       <title>[reddit_chatgpt] 我的AI安全屋 😅 / Here’s mine 😅</title>
@@ -1452,6 +1306,30 @@ Hey everyone, I’ve been talking to a few agency owners lately and a recurring 
       <pubDate>Fri, 16 Jan 2026 05:25:39 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] 你会是什么宠物 / What pet are you</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe7fhf/what_pet_are_you/</link>
+      <description>如果我是宠物店里的动物，请生成一张图片，展示我会是什么样子、会成为哪种动物。尽可能贴近我的个性来呈现。这对我来说确实很贴切。由 /u/Particular-Crew5978 提交 [链接] [评论]
+
+---
+
+Original:
+If I was an animal at a pet shop, generate an image of what I would look like and what animal I would be. Capture my personality as closely as you can. That's actually on the mark for me anyways. submitted by /u/Particular-Crew5978 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe7fhf</guid>
+      <pubDate>Fri, 16 Jan 2026 05:28:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] Ultrathink 不再具备任何功能了吗？ / Ultrathink no longer does anything?</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe7hfx/ultrathink_no_longer_does_anything/</link>
+      <description>总体来说是件好事？最近还有哪些更新？由 /u/After_Bicycle6165 提交 [链接] [评论]
+
+---
+
+Original:
+Overall a good thing? What other updates were made recently? submitted by /u/After_Bicycle6165 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe7hfx</guid>
+      <pubDate>Fri, 16 Jan 2026 05:31:45 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] OpenAI聊天搜索让Windows搜索都显得好用了！ / OpenAI chat search makes Windows search look good!</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qe7ja8/openai_chat_search_makes_windows_search_look_good/</link>
       <description>它速度慢，还总是显示无关结果。我经常得把关键词改个四五遍，才能找到想要的对话。连按模型或日期范围搜索这样的高级功能都没有。这么基础的问题早该修复了。我猜，除非他们给搜索加上AI助手来帮你找AI聊天记录，否则他们是不会改的。由/u/blue_hunt提交 [链接] [评论]
@@ -1462,6 +1340,126 @@ Original:
 It's slow and always brings up irrelevant results. I often have to rephrase the keyword 4-5 times to find the conversation I am looking for. No advanced features like search by model or date range. Such a basic thing to fix. I guess the only way they'll fix it, is if they put an ai in the search to help you search for your ai chats submitted by /u/blue_hunt [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qe7ja8</guid>
       <pubDate>Fri, 16 Jan 2026 05:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 每日AI快讯 2026年1月15日 / One-Minute Daily AI News 1/15/2026</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qe7qql/oneminute_daily_ai_news_1152026/</link>
+      <description>维基百科（Wikipedia）在庆祝成立25周年之际，与微软（Microsoft）、Meta和Perplexity签署了AI合作协议。[1] AI新闻初创公司Symbolic.ai与鲁珀特·默多克（Rupert Murdoch）的新闻集团（News Corp）达成合作。[2] 英伟达（NVIDIA）开源KVzap：一种先进的KV缓存剪枝方法，可实现近乎无损的2-4倍压缩。[3] 阿里巴巴（Alibaba）升级通义千问（Qwen）应用，新增订餐、旅行预订功能。[4] 来源：[1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-comp…
+
+---
+
+Original:
+Wikipedia inks AI deals with Microsoft, Meta and Perplexity as it marks 25th birthday.[1] AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp.[2] NVIDIA AI Open-Sourced KVzap: A SOTA KV Cache Pruning Method that Delivers near-Lossless 2x-4x Compression.[3] Alibaba upgrades Qwen app to order food, book travel.[4] Sources: [1] https://apnews.com/article/wikipedia-internet-jimmy-wales-50e796d70152d79a2e0708846f84f6d7 [2] https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/ [3] https://www.marktechpost.com/2026/01/15/nvidia-ai-open-sourced-kvzap-a-sota-kv-cache-pruning-method-that-delivers-near-lossless-2x-4x-comp…</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qe7qql</guid>
+      <pubDate>Fri, 16 Jan 2026 05:45:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 金融专家称OpenAI资金即将耗尽 / Financial Expert Says OpenAI Is on the Verge of Running Out of Money</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe7uy5/financial_expert_says_openai_is_on_the_verge_of/</link>
+      <description>这一切都指向一个悬而未决的重大问题：OpenAI还能持续烧钱多久？由用户/u/Infinityy100b提交 [链接] [评论]
+
+---
+
+Original:
+It all adds up to an enormous unanswered question: how long can OpenAI keep burning cash? submitted by /u/Infinityy100b [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe7uy5</guid>
+      <pubDate>Fri, 16 Jan 2026 05:51:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 大家的ChatGPT都写得像即兴诗人吗？还是只有我这样？ / Does everyone's ChatGPT write like a slam poet or just me?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe7wvq/does_everyones_chatgpt_write_like_a_slam_poet_or/</link>
+      <description>回复总是很长，段落却又极短，经常一句话就成一段。到处都是换行，还频繁使用列表。读起来感觉像是用推特（Twitter）串文训练的。这只是我的问题吗？还是我设定的自定义指令搞坏了什么？Gemini似乎不会这样输出，至少不会这么明目张胆。这是不是5.1版本比较差劲的表现之一？ 由 /u/plymouthvan 提交 [链接] [评论]
+
+---
+
+Original:
+Long responses. Super short, often one sentence paragraphs. Line breaks everywhere. A bunch of lists. Everything reads like it was trained on tweet threads or something. Is this just me or maybe something I broke with custom instructions? Gemini doesn't seem to output like this. Or, at least not so brazenly like this. Is this just one of the ways that 5.1 is kind of crappy? submitted by /u/plymouthvan [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe7wvq</guid>
+      <pubDate>Fri, 16 Jan 2026 05:54:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] 如果安卓明天就淘汰小部件，我也不会怀念它们 / If Android killed widgets tomorrow, I wouldn't miss them</title>
+      <link>https://www.reddit.com/r/Android/comments/1qe7xtn/if_android_killed_widgets_tomorrow_i_wouldnt_miss/</link>
+      <description>由 /u/BcuzRacecar 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/BcuzRacecar [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qe7xtn</guid>
+      <pubDate>Fri, 16 Jan 2026 05:55:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 非主流观点：谷歌不会让苹果在Siri里“藏起”Gemini / Unpopular Opinion: Google won’t let Apple “hide” Gemini inside Siri.</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe7zw8/unpopular_opinion_google_wont_let_apple_hide/</link>
+      <description>如果Gemini在Siri内部不显示品牌，谷歌真能获得什么好处吗？随着苹果与谷歌的合作正式公布，大家都在讨论合作会以何种形式呈现。多数人认为苹果会隐藏Gemini的名称以保持“Siri”的魔力，但我觉得这不现实。我的推测是：用户界面中必须出现Gemini的品牌标识。原因如下：谷歌的“动机”：谷歌为何要用其最先进的1.2万亿参数模型，换取据称10亿美元却零品牌曝光？对一家市值4万亿美元的公司来说，10亿美元只是零花钱。这笔交易必须关乎市场营销。用户认知：如果Siri突然变得聪明十倍，谷歌想要那种“光环效应”。他们希望苹果……
+
+---
+
+Original:
+Does Google actually gain anything if Gemini isn't branded inside Siri? With the news of the Apple/Google partnership becoming official, there’s a lot of talk about how it will look. Most people assume Apple will bury the Gemini name to keep the "Siri" magic alive, but I don’t think that’s realistic. My theory: There has to be Gemini branding in the UI. Here’s why: The "Why" for Google: Why would Google trade its most advanced 1.2T parameter model for a reported $1 billion and zero brand recognition? For a company with a $4T market cap, $1B is pocket change. This deal has to be about marketing. User Awareness: If Siri suddenly gets 10x smarter, Google wants that "halo effect." They want Appl…</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe7zw8</guid>
+      <pubDate>Fri, 16 Jan 2026 05:59:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 大多数人还没准备好接受的一个真相是什么？ / What's a truth most people aren't ready to hear?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qe84am/whats_a_truth_most_people_arent_ready_to_hear/</link>
+      <description>由 /u/nadiaaavelvet 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/nadiaaavelvet [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qe84am</guid>
+      <pubDate>Fri, 16 Jan 2026 06:05:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 不同模型，各司其职 / Which models do you use for what?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe8bw7/which_models_do_you_use_for_what/</link>
+      <description>我先来。GPT 5.2即时版 - 我日常90%的使用场景。GPT 5.2思考版 - 当我需要它不出错、把事情做对的时候。GPT 5.2（自动版） - 我不用，我喜欢自己选模型。GPT 5.1（所有版本） - 我不用。GPT 5（所有版本） - 我不用。GPT 4o - 用于创意和模拟专家。o3 - 当我真的需要万无一失、完美搞定时（这是5.2思考版失败后的最后手段）。o4-mini - 说实话，我还真没用过。你们呢？由 /u/UniqueClimate 提交 [链接] [评论]
+
+---
+
+Original:
+I’ll start. GPT 5.2 instant - 90% of my daily use GPT 5.2 Thinking - When I need it to not fuck up and get something right GPT 5.2 (auto) - I don’t use, I like to pick my model. GPT 5.1 (all of them) - I don’t use. GPT 5 (all of them) - I don’t use. GPT 4o - For creativity and emulating experts. o3 - When I REALLY need something not fucked up and done right (my last resort when 5.2 Thinking fails) o4-mini - You know, I’ve never actually used. What about y’all? submitted by /u/UniqueClimate [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe8bw7</guid>
+      <pubDate>Fri, 16 Jan 2026 06:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 设计协调器的骨架：探寻合适的思维结构 / Designing an orchestrator’s skeleton: searching for the right mental structure</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe8g2o/designing_an_orchestrators_skeleton_searching_for/</link>
+      <description>反思协调器智能体在多智能体系统中的基础形态。当注意力从个体行为转向连接它们的结构时，协调器不仅作为一个技术组件出现，更成为一种组织原则——协调、意图与约束交汇之处。在实施之前，当协调器主要还停留在一系列问题阶段时，我对他人如何看待这一早期阶段很感兴趣：• 除了简单分配任务，协调器在智能体“生态”中扮演什么核心角色？• 人们如何界定引导与自主之间的边界——介于流程塑造与……
+
+---
+
+Original:
+Reflecting on the foundational shape of an orchestrator agent In multi‑agent systems, there comes a moment when attention shifts from individual behaviors to the structure that binds them. The orchestrator emerges not just as a technical component, but as a kind of organizing principle — a place where coordination, intention, and constraint meet. I’m interested in how others think about this early stage, before implementation, when the orchestrator exists mostly as a set of questions: • What essential role does an orchestrator play in the “ecology” of agents, beyond simply routing tasks? • How do people conceptualize the boundary between guidance and autonomy — between shaping the flow and l…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe8g2o</guid>
+      <pubDate>Fri, 16 Jan 2026 06:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] 尝试了FaceSeek后，我开始质疑AI图像识别的未来走向……我试用了一个名为FaceSeek的网站 / Tried FaceSeek and it made me question where AI image recognition is heading...I experimented with a site called</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe8k0h/tried_faceseek_and_it_made_me_question_where_ai/</link>
+      <description>FaceSeek……它利用AI技术查找你的面孔在网络上出现的位置。说实话，结果令人印象深刻，但也有些令人不安。这感觉像是窥见了OpenAI级别的模型与真实世界面部数据结合后的景象。该技术显然采用了先进的嵌入技术，可能与CLIP或deepface系统类似，但其训练数据来源缺乏透明度，令人担忧。如果这类工具成为主流，我们该如何平衡实用性与隐私保护？你认为OpenAI（或其他机构）是否应该在图像识别模型进一步普及前，为其制定伦理标准？由/u/National_Election252提交 [链接] [评论]
+
+---
+
+Original:
+FaceSeek ...it uses AI to find where your face appears online. The results were honestly impressive, but also kind of unsettling. It feels like a glimpse of what happens when OpenAI-level models meet facial data in the wild. The tech clearly uses advanced embeddings, probably similar to CLIP or deepface systems, but the lack of transparency about where training data comes from is concerning. If tools like this become mainstream, how do we balance utility and privacy? Do you think OpenAI (or anyone) should set standards for ethical image recognition models before they scale further?" submitted by /u/National_Election252 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe8k0h</guid>
+      <pubDate>Fri, 16 Jan 2026 06:29:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] AI智能体开发：选Python还是TypeScript？你们用框架还是自研核心逻辑？ / Python or TypeScript for AI agents? And are you using frameworks or writing your own harness logic?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe8m5y/python_or_typescript_for_ai_agents_and_are_you/</link>
+      <description>各位智能体开发者，你们主要用Python还是TypeScript构建AI智能体？如果两种都用过，更偏好哪种？为什么？另外：你们是依赖现成的智能体框架，还是自己编写核心粘合逻辑？如果选择自研，是什么促使你们走这个方向？很好奇大家在实际开发中都是怎么做的。 提交者：/u/dmpiergiacomo [链接] [评论]
+
+---
+
+Original:
+Hey agent builders, Are you mostly building AI agents in Python or TypeScript? If you’ve used both, which do you prefer and why? Also: do you rely on agent frameworks, or do you write your own glue logic? If custom, what pushed you in that direction? Curious what people here are actually doing in practice. submitted by /u/dmpiergiacomo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe8m5y</guid>
+      <pubDate>Fri, 16 Jan 2026 06:32:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 05:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:52:16 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -834,6 +834,18 @@ Original:
 submitted by /u/FragmentedChicken [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qe6f4i</guid>
       <pubDate>Fri, 16 Jan 2026 04:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>如果安卓明天就淘汰小部件，我也不会怀念它们 / If Android killed widgets tomorrow, I wouldn't miss them</title>
+      <link>https://www.reddit.com/r/Android/comments/1qe7xtn/if_android_killed_widgets_tomorrow_i_wouldnt_miss/</link>
+      <description>由 /u/BcuzRacecar 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/BcuzRacecar [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qe7xtn</guid>
+      <pubDate>Fri, 16 Jan 2026 05:55:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

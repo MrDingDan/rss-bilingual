@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 05:37:29 +0000</lastBuildDate>
-    <item>
-      <title>A2A MCP 服务器：专为 A2A 协议打造的 MCP 服务器！ / A2A MCP server, an MCP server for the A2A protocol!</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbxsad/a2a_mcp_server_an_mcp_server_for_the_a2a_protocol/</link>
-      <description>过去一个月，我一直在开发一个 A2A MCP 服务器。该服务器可用于连接 A2A 服务器（远程代理）并发送消息。启动服务器时，需要提供一个或多个代理卡（Agent Card）URL，每个 URL 可设置自定义请求头用于身份验证、配置等。通过 list_available_agents 工具可查看代理及其技能，通过 send_message_to_agent 工具可向代理发送消息，而可能超出上下文负载的产物（Artifacts）可通过 view_text_artifact 和 view_data_artifact 工具查看。完整功能列表、快速入门及示例，请查看下方 GitHub 链接！由 /u/benclarkereddit 提交 [链接] [评论]
-
----
-
-Original:
-For the past month I’ve been working on an A2A MCP server. The server can be used to connect and send messages to A2A Servers (remote agents). The server needs to be initialised with one or more Agent Card URLs, each of which can have custom headers for authentication, configuration, etc. Agents and their skills can be viewed with the list_available_agents tool, messages can be sent to the agents with the send_message_to_agent tool, and Artifacts that would overload the context can be viewed with view_text_artifact and view_data_artifact tools. For a full list of features, quick start, and examples, check out the GitHub below! submitted by /u/benclarkereddit [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbxsad</guid>
-      <pubDate>Tue, 13 Jan 2026 17:44:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>构建AI智能体的十大工具（最新推荐） / Top 10 tools to build AI Agents (most recent)</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbzqkv/top_10_tools_to_build_ai_agents_most_recent/</link>
-      <description>过去一年，我一直在工作中构建AI智能体，这个行业变化快得几乎让人跟不上。这里列出一些我觉得有用的工具。高代码工具：Claude Agent SDK：这是一个Python包，让你可以直接使用Claude Code。如果你有Anthropic订阅，这几乎是目前最好的选择，不过集成方面有些问题（可通过MCP解决）。Google ADK：谷歌的Agent Development Kit是另一个好选择，更新更频繁，维护也比Claude的Agent SDK稍好。Deep Agents（基于LangGraph/LangChain/LangSmith）：这是一个相对较新的库，但建立在现有的Lang…基础上。
-
----
-
-Original:
-I’ve been building AI agents as a part of my work for the past year and the industry is almost changing too rapidly to keep up. I’m listing some of the tools I’ve found useful along the way. High-code Tools Claude Agent SDK : This is a python package that lets you use Claude Code directly. If you have an Anthropic subscription, it doesn’t get much better than this. Integrations are a problem though (can be resolved with MCPs) Google ADK : Google’s Agent Development Kit is another good option. It’s updated more frequently and is maintained slightly better than Claude’s agent SDK. Deep Agents (on LangGraph/LangChain/LangSmith): This is a relatively new library but is built on the existing Lang…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbzqkv</guid>
-      <pubDate>Tue, 13 Jan 2026 18:53:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 06:50:06 +0000</lastBuildDate>
     <item>
       <title>智能体可观测性与常规应用监控大不相同——维护者视角 / Agent observability is way different from regular app monitoring - maintainer's pov</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qc0i28/agent_observability_is_way_different_from_regular/</link>
@@ -1464,6 +1440,30 @@ Original:
 Hey everyone, I’ve been talking to a few agency owners lately and a recurring 'nightmare' keeps coming up: Multi-tenant spending control. Specifically, the fear of "Agent Sprawl" leading to runaway costs—like an AI agent getting stuck in a logic loop and burning through a client’s budget (or your main API key) at 3 AM while everyone is asleep. Right now, it seems most people are just setting 'Hard Limits' on the OpenAI dashboard and praying, or manually checking usage every day. But that doesn't solve the problem of separating billing for 10+ different clients or preventing one "rogue bot" from eating the entire agency's credit. I’m thinking about a 'Sober Manager' layer—basically a gateway…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qe7d8x</guid>
       <pubDate>Fri, 16 Jan 2026 05:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>设计协调器的骨架：探寻合适的思维结构 / Designing an orchestrator’s skeleton: searching for the right mental structure</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe8g2o/designing_an_orchestrators_skeleton_searching_for/</link>
+      <description>反思协调器智能体在多智能体系统中的基础形态。当注意力从个体行为转向连接它们的结构时，协调器不仅作为一个技术组件出现，更成为一种组织原则——协调、意图与约束交汇之处。在实施之前，当协调器主要还停留在一系列问题阶段时，我对他人如何看待这一早期阶段很感兴趣：• 除了简单分配任务，协调器在智能体“生态”中扮演什么核心角色？• 人们如何界定引导与自主之间的边界——介于流程塑造与……
+
+---
+
+Original:
+Reflecting on the foundational shape of an orchestrator agent In multi‑agent systems, there comes a moment when attention shifts from individual behaviors to the structure that binds them. The orchestrator emerges not just as a technical component, but as a kind of organizing principle — a place where coordination, intention, and constraint meet. I’m interested in how others think about this early stage, before implementation, when the orchestrator exists mostly as a set of questions: • What essential role does an orchestrator play in the “ecology” of agents, beyond simply routing tasks? • How do people conceptualize the boundary between guidance and autonomy — between shaping the flow and l…</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe8g2o</guid>
+      <pubDate>Fri, 16 Jan 2026 06:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI智能体开发：选Python还是TypeScript？你们用框架还是自研核心逻辑？ / Python or TypeScript for AI agents? And are you using frameworks or writing your own harness logic?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe8m5y/python_or_typescript_for_ai_agents_and_are_you/</link>
+      <description>各位智能体开发者，你们主要用Python还是TypeScript构建AI智能体？如果两种都用过，更偏好哪种？为什么？另外：你们是依赖现成的智能体框架，还是自己编写核心粘合逻辑？如果选择自研，是什么促使你们走这个方向？很好奇大家在实际开发中都是怎么做的。 提交者：/u/dmpiergiacomo [链接] [评论]
+
+---
+
+Original:
+Hey agent builders, Are you mostly building AI agents in Python or TypeScript? If you’ve used both, which do you prefer and why? Also: do you rely on agent frameworks, or do you write your own glue logic? If custom, what pushed you in that direction? Curious what people here are actually doing in practice. submitted by /u/dmpiergiacomo [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe8m5y</guid>
+      <pubDate>Fri, 16 Jan 2026 06:32:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
