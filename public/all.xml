@@ -6,237 +6,7 @@
     <description>Auto translated aggregated feed (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:30:27 +0000</lastBuildDate>
-    <item>
-      <title>[reddit_claudeai] Claude连接器MCP认证问题？ / Claude Connector MCP authentication?</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdpdeh/claude_connector_mcp_authentication/</link>
-      <description>我正在尝试编写一个自定义连接器/MCP，但在理解认证机制应该如何工作与实际运行情况时遇到了困难。我希望我的MCP作为资源服务器，通过.well-known URL指向身份提供商（IDP），并期望Claude Desktop能使用提供的客户端ID跳转至IDP进行认证，然后重定向回Claude Desktop，用授权码换取令牌，最后重新尝试向MCP发起请求。然而，目前返回的指令却试图调用我的MCP服务器上的/authorize端点，这似乎完全违背了文档中基于RFC 9728描述的运作方式。提交者：/u/jamesr219 [链接] [评论]
-
----
-
-Original:
-I am trying to write a custom connector/MCP and having some trouble trying to figure out how the authentication should work vs. is working? I'm trying to have my MCP be a resource server with the .well-known URLs to point to the IDP and it is my expectation that Claude Desktop would then jump to the IDP using the provided client id, authenticate, redirect back to Claude Desktop and exchange the code for the token and then re-attempt request to the MCP. However, the direct is coming back trying to call /authorize on my MCP server which seems to be completely contrary to how the documentation says it should work via RFC 9728 . submitted by /u/jamesr219 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdpdeh</guid>
-      <pubDate>Thu, 15 Jan 2026 17:12:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 如何防止你的智能体执行错误操作 / How to prevent your agent doing the wrong action</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdpgp2/how_to_prevent_your_agent_doing_the_wrong_action/</link>
-      <description>大语言模型（LLM）会产生幻觉和偏移。如何确保你的AI智能体根据用户指令或提示执行正确操作？我经常看到AI智能体执行错误任务，例如删除生产数据库。是否有更好的方法来防止这种情况？由 /u/Yersyas 提交 [链接] [评论]
-
----
-
-Original:
-LLM hallucinates and drifts. How do you assure your AI agents are doing the correct actions based on users order or your prompt. I keep seeing AI agents doing the wrong task like deleting production databases. Are there better ways to prevent this? submitted by /u/Yersyas [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdpgp2</guid>
-      <pubDate>Thu, 15 Jan 2026 17:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 有人获得OpenAI计算机使用预览模型的访问权限吗？ / Does anyone has access to OpenAI Computer Use Preview Model?</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdpj5y/does_anyone_has_access_to_openai_computer_use/</link>
-      <description>据我所知，计算机使用预览模型目前仅对OpenAI三级至五级用户开放。请问你们当中有人获得这个权限了吗？是否已经试用过？由用户/u/Trick_Progress287提交 [链接] [评论]
-
----
-
-Original:
-What I have read is that computer-use-preview model is available only for tier 3-5 openai users. Has anyone of you received this access? Have you tried it? submitted by /u/Trick_Progress287 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdpj5y</guid>
-      <pubDate>Thu, 15 Jan 2026 17:18:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 你对医院最大的恐惧是什么？ / Whats your greatest fear about the hospital?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdpj88/whats_your_greatest_fear_about_the_hospital/</link>
-      <description>由 /u/tietanik 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/tietanik [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdpj88</guid>
-      <pubDate>Thu, 15 Jan 2026 17:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 这太荒谬了 / That's ridiculous</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdplbi/thats_ridiculous/</link>
-      <description>可悲的是，放眼望去，所有东西都要花钱！各位，我现在连电脑都用不上，更别说买了，那我要怎么用呢？难道不用卖肾就用不上AI训练的Loras模型吗？我只有一部简单的手机，真是够了。 由 /u/Rich-Armadillo1254 提交 [链接] [评论]
-
----
-
-Original:
-It's tragic that everywhere you look, everything costs money! I mean, guys, I'm in a place where I don't have access to a computer, let alone the ability to buy one, so how can I use one? Can't I use an AI-trained Loras model without giving up my kidney? I have a simple cell phone, damn it. submitted by /u/Rich-Armadillo1254 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdplbi</guid>
-      <pubDate>Thu, 15 Jan 2026 17:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 对于GenAI开发者来说，学习机器学习是浪费时间 / Learning ML Is a Waste of Time for GenAI Developers</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdpmyc/learning_ml_is_a_waste_of_time_for_genai/</link>
-      <description>我是一名跨平台移动开发兼后端工程师，最近一直在考虑进入GenAI领域。但问题是：我不想深入传统机器学习。不是因为机器学习“不好”，而是因为：• 机器学习需要大量时间才能掌握 • 它数学要求高（线性代数、概率论、优化等） • 领域太广——强化学习、深度学习、模型训练、调优、研究路径等等。说实话，在大多数现实世界的GenAI产品中，我们是在使用模型，而不是从头构建它们。RAG、提示工程、向量数据库、编排、智能体、系统设计、评估流水线——这些都是工程问题，而非研究问题。所以我的想法是：跳过硬核机器学习 → 专注于GenAI...
-
----
-
-Original:
-I’m a cross-platform mobile dev + backend engineer, and lately I’ve been thinking about entering the GenAI space. But here’s the catch: I don’t want to go deep into traditional ML. Not because it’s “bad”, but because: • ML takes serious time to master • It’s math-heavy (linear algebra, probability, optimization, etc.) • The landscape is huge — RL, DL, model training, tuning, research paths And honestly, in most real-world GenAI products, we’re using models, not building them from scratch. RAG, prompt engineering, vector DBs, orchestration, agents, system design, evaluation pipelines — these are engineering problems, not research problems. So my thought is: Skip hardcore ML → Focus on GenAI a…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdpmyc</guid>
-      <pubDate>Thu, 15 Jan 2026 17:21:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 令人意外的真相 / Surprising Truth</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdpoye/surprising_truth/</link>
-      <description>与我预想的完全不符，由 /u/Gudoal 提交 [链接] [评论]
-
----
-
-Original:
-Not even remotely close to what I was expecting submitted by /u/Gudoal [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdpoye</guid>
-      <pubDate>Thu, 15 Jan 2026 17:23:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] TranslateGemma：一套全新的开源翻译模型 / TranslateGemma: A new suite of open translation models</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdpq85/translategemma_a_new_suite_of_open_translation/</link>
-      <description>由 /u/Gaiden206 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Gaiden206 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdpq85</guid>
-      <pubDate>Thu, 15 Jan 2026 17:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] ChatGPT助你棋艺精进，轻松战胜所有朋友 / ChatGPT plan to beat all your friends at chess</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdq01g/chatgpt_plan_to_beat_all_your_friends_at_chess/</link>
-      <description>在与ChatGPT探讨如何提升棋艺、击败所有朋友时，它给出了一个明确的答案：通过直接反馈进行模式识别。每个战术主题、每个格子、每个棋子都要掌握。起初这听起来令人望而却步——毕竟有大约55个核心战术主题。但经过计算，即使这意味着要解大约21,000道谜题，按每道30秒算，也只需175小时的练习，或者换算成快棋，相当于525局。原本觉得不可能的事，突然变成了一个可行的计划。带着这个思路，我利用GPT-5.2和vibecoding技术实现了它。你可以通过先掌握每个主题中的一个兵，然后是马，再逐步推进，从而确保再也不会错过这些制胜模式……
-
----
-
-Original:
-While chatting with ChatGPT about how to get good enough at chess to beat all my friends, he gave me one clear answer: pattern recognition with direct feedback . Every theme, every square, every piece. At first, it sounded overwhelming; there are about 55 core tactical themes . But then I did the math. Even if that’s around 21,000 puzzles , at 30 seconds each, it’s just 175 hours of practice, or in chess terms, 525 rapid games. What felt impossible suddenly became… a plan. Empowered with this knowledge, I used GPT-5.2 and vibecoded the thing. You can solve puzzles and themes by first mastering one pawn in each theme, then knight, then another, so that you never miss this winning pattern agai…</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdq01g</guid>
-      <pubDate>Thu, 15 Jan 2026 17:34:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_openai] 人工智能革命正在改变每个工作场所 / The AI revolution transforming every workplace.</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qdq1ox/the_ai_revolution_transforming_every_workplace/</link>
-      <description>人工智能改变工作的速度超乎想象。机器能够思考、分析甚至创造——但这对于职场中的人类意味着什么？我们准备好迎接未来了吗？ 由 /u/Novel_Negotiation224 提交 [链接] [评论]
-
----
-
-Original:
-AI is changing work faster than we can imagine. Machines can think, analyze, and even create—but what does that mean for humans in the workplace? Are we ready for the future? submitted by /u/Novel_Negotiation224 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qdq1ox</guid>
-      <pubDate>Thu, 15 Jan 2026 17:36:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_tasker] 诚邀美国居民参与快速在线任务 / U.S. Residents Needed for a Quick Online Task</title>
-      <link>https://www.reddit.com/r/tasker/comments/1qdq3je/us_residents_needed_for_a_quick_online_task/</link>
-      <description>大家好，我正在寻找几位美国本土的参与者 🇺🇸，协助完成一项简单的在线任务。这是一个正规的短期机会，所有说明都会清晰提供。要求 📌 • 必须位于美国境内 🇺🇸 • 网络连接稳定可靠 • 能够仔细遵循指示 报酬 💰 • 每完成一项任务支付 4–5 美元 • 通过 PayPal 付款 由 /u/WittyWomba-t 提交 [链接] [评论]
-
----
-
-Original:
-Hello everyone, I’m currently looking for a few U.S.-based participants 🇺🇸 to assist with a simple online task . This is a legitimate, short-term opportunity , and all instructions will be provided clearly. Requirements 📌 • Must be located in the United States 🇺🇸 • Reliable internet connection • Ability to follow instructions carefully Payment 💰 • $4–$5 per completed task • Payment via PayPal submitted by /u/WittyWomba-t [link] [comments]</description>
-      <guid isPermaLink="false">reddit-tasker::t3_1qdq3je</guid>
-      <pubDate>Thu, 15 Jan 2026 17:37:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_ai_agents] 寻求非常规人工智能系统构想（侧重记忆/检索，具备现实影响力） / Looking for unconventional AI system ideas (memory / retrieval focused, real-world impact)</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qdq7zx/looking_for_unconventional_ai_system_ideas_memory/</link>
-      <description>大家好，我正在筹备一个AI/ML黑客马拉松项目，特别想寻找超越基础聊天机器人或仪表盘的非传统创意。我关注的限制条件包括：聚焦搜索、长期记忆或推荐功能；需是系统级构想（不仅是模型）；最好能解决现实社会问题（医疗、教育、虚假信息、气候、公共安全等）；可涉及多模态数据（文本、图像、音频、时间序列）。由 /u/Ordinary-Guest-9850 提交 [链接] [评论]
-
----
-
-Original:
-Hey everyone, I’m working on an AI/ML hackathon project and I’m specifically looking for non-generic ideas that go beyond basic chatbots or dashboards. Constraints I’m working with: Focus on search, long-term memory, or recommendations System-level idea (not just a model) Prefer real societal problems (healthcare, education, misinformation, climate, public safety, etc.) Can involve multimodal data (text, images, audio, time-series) submitted by /u/Ordinary-Guest-9850 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qdq7zx</guid>
-      <pubDate>Thu, 15 Jan 2026 17:42:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 当前（美国）局势如何影响你的专注力与工作效率？ / How have current (US) events affected your ability to focus and be productive at work?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdq8fv/how_have_current_us_events_affected_your_ability/</link>
-      <description>由用户 /u/No-Surround7860 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/No-Surround7860 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdq8fv</guid>
-      <pubDate>Thu, 15 Jan 2026 17:42:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_askreddit] 1999年是什么样子的？ / What was 1999 like?</title>
-      <link>https://www.reddit.com/r/AskReddit/comments/1qdqaoe/what_was_1999_like/</link>
-      <description>由用户 /u/Content-Feed-9396 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/Content-Feed-9396 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-askreddit::t3_1qdqaoe</guid>
-      <pubDate>Thu, 15 Jan 2026 17:44:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>[xgo_f299207d] 更新博客以澄清这一点 / Updated the blog to clarify this
-
-These types of virtual filesystems are natively supported by deepa...</title>
-      <link>https://x.com/hwchase17/status/2011858266863911382</link>
-      <description>更新博客以澄清这一点：这类虚拟文件系统由 deepagents 原生支持，是其独特特性！未来会尝试更明确地说明。Harrison Chase (@hwchase17) 表示：我本应在博客中澄清（但现在外出且无法用手机编辑文章，请帮忙修复，Elon）：我们并未使用实际文件系统。我们使用 Postgres，但在其上层封装了一个包装器，将其作为文件系统暴露给 LLM。🔗 查看引用推文 💬 2 🔄 1 ❤️ 6 👀 624 📊 3 ⚡ 由 xgo.ing 驱动
-
----
-
-Original:
-Updated the blog to clarify this These types of virtual filesystems are natively supported by deepagents and is a unique characteristic! Will try to be more explicit about this in the future Harrison Chase @hwchase17 I should have clarified in blog (but am now afk and can’t edit articles from phone, plz fix Elon): We don’t use an actual filesystem. We use Postgres but have a wrapper on top of it expose it to the LLM as a filesystem 🔗 View Quoted Tweet 💬 2 🔄 1 ❤️ 6 👀 624 📊 3 ⚡ Powered by xgo.ing</description>
-      <guid isPermaLink="false">xgo-f299207d::2011858266863911382</guid>
-      <pubDate>Thu, 15 Jan 2026 17:49:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_claudeai] 等待令牌... / Waiting for tokens ...</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdqne7/waiting_for_tokens/</link>
-      <description>由 /u/cr1spyfries 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/cr1spyfries [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qdqne7</guid>
-      <pubDate>Thu, 15 Jan 2026 17:57:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 为什么Gemini不能像ChatGPT那样生成和编辑文件？ / Why can't Gemini generate and edit files like ChatGPT?</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdqnwm/why_cant_gemini_generate_and_edit_files_like/</link>
-      <description>大家下午好，我使用Gemini（Pro订阅版）作为主要AI助手已有一段时间，经常搭配ChatGPT和Perplexity等其他工具。不过，尽管Gemini的能力日益增强，它仍然无法应要求生成文件（比如Word或Excel文档）——而这正是ChatGPT轻松胜任的功能。举个例子：今天我把自建的Excel文件发给ChatGPT，请它进行特定修改、添加新工作表、修正某些公式，并关联不同工作表的单元格结果。本质上，我希望对文件进行全面改造。ChatGPT仅通过一次指令就处理了请求，并将修改后的文件发回给我。
-
----
-
-Original:
-Good afternoon everyone, I’ve been using Gemini (Pro subscription) as my primary AI for a while now, often combining it with alternatives like ChatGPT and Perplexity. However, even though Gemini is proving to be more capable by the day, it still lacks the ability to generate files (such as Word or Excel) upon request—something ChatGPT handles with ease. To give you an example: today I sent an Excel file I had built to ChatGPT. I asked it to make specific changes, add new tabs, fix certain formulas, and link cell results across different sheets. Essentially, I wanted a full overhaul of the file. In a single prompt, ChatGPT processed the request and sent the modified file back to me. I just do…</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdqnwm</guid>
-      <pubDate>Thu, 15 Jan 2026 17:57:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_chatgpt] 我热爱用图像生成技术将脑海中酝酿多年的故事构想可视化 / I love using the image generation to storyboard ideas I’ve had in my head for years</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qdqq5s/i_love_using_the_image_generation_to_storyboard/</link>
-      <description>我一直有个想法，想创作一个美国神话风格的复仇者联盟式团队故事。ChatGPT 让它变成了现实。故事中，一个名叫齐克（Zeke）的小男孩，他的小镇遭到一群身穿黑色盔甲、手持火焰喷射器的神秘人袭击。他前往印第安纳州的弗利诺堡（Fleenor's Fort），寻找在那里与肖尼族（Shawnee）共同生活了十年的白人米卡贾·卡拉韦（Micajah Callaway）。米卡贾带他去见头上顶着锅的约翰尼·苹果籽（Johnny Appleseed），苹果籽答应帮助他们击败盔甲人，前提是他们先协助他除掉“潜藏怪”（hidebehind）——一只在印第安纳州北部杀害伐木工人的怪物。随后，他们又遇到了保罗·班扬（Paul Bunyan）和他的蓝牛。在保罗以及突然到来的征服者约翰（John the Conquerer）的帮助下，他们最终击败了……的野兽。
-
----
-
-Original:
-I’ve has this idea of an American mythological avengers-style team-up story for a while. ChatGPT made it come to life. In this story a young boy named Zeke has his town attacked by mysterious men in black armor and flamethrowers. He travels to Fleenor’s Fort in Indiana to meet Micajah Callaway, a white man that lived with the Shawnee for 10 years. Micajah takes him to meet Johnny Appleseed, the man wearing a pot on his head, who agrees to help them defeat the armored men if they help him defeat the hidebehind, a monster that has been killing loggers in northern Indiana. They then meet Paul Bunyan and his blue ox. With him, and the sudden arrival of John the Conquerer, the defeat the beast of…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qdqq5s</guid>
-      <pubDate>Thu, 15 Jan 2026 18:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[reddit_bard] 购买100欧元年费套餐仅3天，因疑似机器人行为被封禁 / Getting Banned for Bot-like Behaviour 3 days after purchasing a year for 100 €</title>
-      <link>https://www.reddit.com/r/Bard/comments/1qdqqyb/getting_banned_for_botlike_behaviour_3_days_after/</link>
-      <description>大家好，我想寻求建议，不知道该如何联系客服。我是德国公民（仅供参考，或许这是个影响因素），购买了12个月的Google One AI Pro服务，创建了一个笔记本，并与Gemini进行了大约8次对话。今天我在同一设备上多次登录，每次都需要短信验证——尽管我已移除手机号，仅使用验证器应用的TOTP作为双因素认证，这非常奇怪。创建一个关于我新电脑配置的详细笔记本并询问组装问题，怎么就成机器人行为了？我非常困惑。我真的很需要这个来学习（尤其是NotebookLM），而且花了一大笔钱（至少对我来说）……
-
----
-
-Original:
-Hi everyone, I am looking for advice what I could do, I cannot figure out a way to contact a support. I am a German citizen (fyi, maybe its a factor) and purchased Google One AI Pro for 12 months and created one notebook, also I had maybe 8 conversations with Gemini, I had to login multiple times today on the same device, everytime via sms - even though I removed my phone number and only use totp with the authenticator app as 2fa, it was very weird. How is creating a detailed notebook about my new pc build and asking questions about the assembly bot-like behaviour? I am very confused. I really need this to study (especially NotebookLM) and payed a huge amount of money (for me at least) and d…</description>
-      <guid isPermaLink="false">reddit-bard::t3_1qdqqyb</guid>
-      <pubDate>Thu, 15 Jan 2026 18:00:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 04:52:11 +0000</lastBuildDate>
     <item>
       <title>[reddit_ai_agents] 谷歌近期推出Gemini全新“个人智能”功能 / Google recently dropped Gemini’s new “Personal Intelligence” feature.</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qdqyvo/google_recently_dropped_geminis_new_personal/</link>
@@ -1118,6 +888,30 @@ As it turns out, being polite and patient has a positive effect. Who knew? submi
       <pubDate>Thu, 15 Jan 2026 22:45:29 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] 我如何用Claude Code解决软件工程师求职难题（并行编写20个爬虫） / How I solved my SWE job search with Claude Code (Writing 20 scrapers in parallel)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdyfet/how_i_solved_my_swe_job_search_with_claude_code/</link>
+      <description>最近我深入投入软件工程师求职，很快遇到了一个经典问题：当职位出现在LinkedIn/Indeed上时，其实已经在公司招聘页面发布了24小时以上，而我已经是第400位申请者了。另一方面，跟踪所有公司的招聘页面又相当不便。我决定开发一个工具，直接抓取招聘页面以实现实时提醒。为20多个网站编写爬虫通常很痛苦，但我使用Claude Code+Playwright MCP加速完成了。工作流程是：我并行运行多个Claude Code进程，为每个进程提供一个招聘页面URL。由于Playwright MCP让Claude能够实际'看到'DOM结构，它可以识别选择器、处理分页……
+
+---
+
+Original:
+I’ve been deep in the SWE job hunt recently, and I quickly ran into the classic problem: by the time a job hits LinkedIn/Indeed, it’s already been up for 24+ hours on the company’s career page, and I’m applicant #400. On the other hand keeping track of all company’s career pages is pretty inconvenient. I decided to build a tool to scrape career pages directly for real-time alerts. Writing scrapers for 20+ sites is usually painful, but I sped-ran it using Claude Code+Playwright MCP. The Workflow: I ran multiple Claude Code processes in parallel, feeding each one a career page URL. Since the Playwright MCP lets Claude actually “see” the DOM, it could identify selectors, handle pagination, and…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdyfet</guid>
+      <pubDate>Thu, 15 Jan 2026 22:45:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 二十年前被视为奢侈品，如今却基本一文不值的物品是什么？ / What is a luxury item from 20 years ago that is basically worthless trash today?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qdyg1p/what_is_a_luxury_item_from_20_years_ago_that_is/</link>
+      <description>由用户/u/EasyZee7提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/EasyZee7 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qdyg1p</guid>
+      <pubDate>Thu, 15 Jan 2026 22:46:39 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_bard] Platzi Live / Platzi Live</title>
       <link>https://www.reddit.com/r/Bard/comments/1qdyscm/platzi_live/</link>
       <description>由 /u/AspectHot5584 提交 [链接] [评论]
@@ -1262,6 +1056,18 @@ submitted by /u/fataliky [link] [comments]</description>
       <pubDate>Thu, 15 Jan 2026 23:53:05 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_chatgpt] CGPT（ChatGPT）越来越烦人？回复中的废话是怎么回事？ / CGPT getting irritating? What's with the padding in replies?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe05zt/cgpt_getting_irritating_whats_with_the_padding_in/</link>
+      <description>它做了太多假设，还总是把我的话重复一遍，好像是什么解决方案似的。几乎我提出的每个问题或评论，它都这样回应。举个例子：我说“最近我和朋友看到一只受伤的鸟，一直叫个不停。他说这是它在与死亡抗争，是最后的反抗鸣叫。我觉得可能是疼痛和警告叫声的混合。你怎么看？”CGPT会这样回答：“这是一个重要的区分解读。你们并非为了反对而反对，而是从非常实际的角度看待。你认为它可能在做什么（以及叫声不太可能是什么）：- 不是随机噪音…”
+
+---
+
+Original:
+It makes too many assumptions and just repeats what i said like it's some solution back to me. It's been doing this for almost every question or comment I throw at it. It's like an example case: I say "My friend and I saw this injured bird me recently that was squawking nonstop. He says it's struggling against death, it's final defiant calls. I think it might be a mixture of pain and warning cries. What do you think?" CGPT would say something like "That is an important distinguishing read. It's not that you're disagreeing for the sake of disagreeing, but you're looking at it at a very practical way What you think it is likely doing (and what the calls aren't likely to be): - Not random noise…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe05zt</guid>
+      <pubDate>Thu, 15 Jan 2026 23:55:37 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_openai] 你不该在情感上依赖一家巨头公司卖给你的产品 / "You should not be emotionally reliant on a product sold to you by a megacorporation."</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qe0axc/you_should_not_be_emotionally_reliant_on_a/</link>
       <description>由 /u/YesterdayEcstatic968 提交 [链接] [评论]
@@ -1358,6 +1164,18 @@ I watched the Claude Cowork launch and my first reaction wasn’t “wow agentic
       <pubDate>Fri, 16 Jan 2026 01:16:36 +0000</pubDate>
     </item>
     <item>
+      <title>[reddit_claudeai] Claude Code V3 完全指南：LSP、CLAUDE.md、MCP、技能与钩子——现已具备IDE级代码智能 / The Complete Guide to Claude Code V3: LSP, CLAUDE.md, MCP, Skills &amp; Hooks — Now With IDE-Level Code Intelligence</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe239d/the_complete_guide_to_claude_code_v3_lsp_claudemd/</link>
+      <description>🎉 V3：基于社区反馈再次构建 📸 以网站形式查看 V2 在 r/ClaudeAI 上创下历史第二热度。您的评论让 V3 成为可能。特别感谢 u/BlueVajra（命令/技能合并）、u/stratofax（dotfiles 同步）、u/antoniocs（MCP 权衡）、u/GeckoLogic（LSP），以及所有来自 V2 的贡献者：u/headset38、u/tulensrma、u/jcheroske。V3 的新特性：- 第 8 部分：LSP —— Claude 现在拥有 IDE 级代码智能（导航速度提升 900 倍）- 命令与技能合并 —— 相同架构，更简明的思维模型- 扩展的 MCP 目录 —— 按类别推荐 25+ 个服务器- MCP 权衡 —— 何时不应使用 MCP 服务器- Dotfiles 同步 —— 跨设备保持 ~/.claude 配置一致- 包含模板、钩子和技能的 GitHub 仓库…
+
+---
+
+Original:
+🎉 V3: Built on Community Feedback (Again) 📸 View As Website V2 hit #2 all-time on r/ClaudeAI . Your comments made V3 possible. Huge thanks to u/BlueVajra (commands/skills merge), u/stratofax (dotfiles sync), u/antoniocs (MCP tradeoffs), u/GeckoLogic (LSP), and everyone from V2: u/headset38 , u/tulensrma , u/jcheroske . What's new in V3: - Part 8: LSP — Claude now has IDE-level code intelligence (900x faster navigation) - Commands &amp; Skills merged — Same schema, simpler mental model - Expanded MCP directory — 25+ recommended servers by category - MCP tradeoffs — When NOT to use MCP servers - Dotfiles sync — Keep ~/.claude consistent across machines - GitHub repo with templates, hooks, and skil…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe239d</guid>
+      <pubDate>Fri, 16 Jan 2026 01:18:03 +0000</pubDate>
+    </item>
+    <item>
       <title>[reddit_artificial] X公司表示，Grok（AI）在非法地区被禁止用于图像脱衣功能 / Grok blocked from undressing images with AI in places where it's illegal, X says</title>
       <link>https://www.reddit.com/r/artificial/comments/1qe260j/grok_blocked_from_undressing_images_with_ai_in/</link>
       <description>由 /u/Bigmacman_ 提交 [链接] [评论]
@@ -1372,12 +1190,12 @@ submitted by /u/Bigmacman_ [link] [comments]</description>
     <item>
       <title>[reddit_claudeai] 我为Claude打造了一个上下文健康指示器（显示信息衰减 + 一键切换） / I built a Context Health Orb for Claude (shows drift + 1‑click handoff)</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qe26ej/i_built_a_context_health_orb_for_claude_shows/</link>
-      <description>大家好，我一直搞不清何时该开启新对话来避免上下文信息衰减，所以做了个能提示我的浏览器扩展。它会显示当前对话的字符数、令牌数和消息数量。点击“刷新上下文”即可开启新对话，并自动生成总结前序内容的预设提示，让你无缝衔接。这是我第一次动手开发，AI真是太棒了。https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;format=png&amp;auto=webp&amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;format=png&amp;auto=webp&amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude上下文健康指示器 由/u/SIGH_I_CALL提交 [链接] [评论]
+      <description>大家好，我一直搞不清何时该开启新对话来避免上下文信息衰减，所以做了个能提示我的浏览器扩展。它会显示当前对话的字符数、令牌数和消息数量。点击“刷新上下文”即可开启新对话，并自动生成总结前序内容的预设提示，让你无缝衔接。这是我第一次动手开发，AI真是太棒了。https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude上下文健康指示器 由/u/SIGH_I_CALL提交 [链接] [评论]
 
 ---
 
 Original:
-Hi reddit, I could never figure out when to start a new chat to avoid context rot so I made an extension that tells me. It has # of characters, tokens, and messages in the conversation. Click refresh context to open a new chat with a prewritten prompt summarizing the conversation so you can pick up where you left off. First time I've ever built anything, AI is awesome. https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;format=png&amp;auto=webp&amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;format=png&amp;auto=webp&amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude Context Health Orb submitted by /u/SIGH_I_CALL [link] [comments]</description>
+Hi reddit, I could never figure out when to start a new chat to avoid context rot so I made an extension that tells me. It has # of characters, tokens, and messages in the conversation. Click refresh context to open a new chat with a prewritten prompt summarizing the conversation so you can pick up where you left off. First time I've ever built anything, AI is awesome. https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude Context Health Orb submitted by /u/SIGH_I_CALL [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qe26ej</guid>
       <pubDate>Fri, 16 Jan 2026 01:21:55 +0000</pubDate>
     </item>
@@ -1464,6 +1282,186 @@ Original:
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words. submitted by /u/darealmvp1 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qe3hw4</guid>
       <pubDate>Fri, 16 Jan 2026 02:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 认证或课程 / Certification or Course</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe3oc9/certification_or_course/</link>
+      <description>我在汽车行业工作，正尝试学习如何运用合适的AI工具，为软件开发、测试及测试用例生成建立自动化流程和改进方案。我们的大部分软件基于Matlab Simulink和C语言开发，用于ECU（电子控制单元）。任何课程资料、认证、YouTube教程都会有帮助！M 由 /u/the_zoozoo_ 提交 [链接] [评论]
+
+---
+
+Original:
+I work in the auto industry, and am trying to learn how to setup automation and improvements for software development, testing and test case generation using the right AI tools. Most of our SW is in Matlab Simulink and C, built for ECUs. Any course material or certification, youtube tutorials, would be helpful! M submitted by /u/the_zoozoo_ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe3oc9</guid>
+      <pubDate>Fri, 16 Jan 2026 02:28:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT所有模型均返回空回复 / ChatGPT giving empty responses with every model</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe3v4o/chatgpt_giving_empty_responses_with_every_model/</link>
+      <description>无论我询问什么内容、选择哪种模型，得到的都是空回复。点击“再试一次...”后仍然返回空回复。还有其他人遇到这个问题吗？由/u/surveypoodle提交
+
+---
+
+Original:
+No matter what I ask and which model I choose, I'm getting an empty response. If I click on "Try again...", I still get an empty response. Anyone else facing issues? submitted by /u/surveypoodle [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe3v4o</guid>
+      <pubDate>Fri, 16 Jan 2026 02:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 我以为自己ChatGPT用得“够多了”，直到分析了聊天记录 / I thought I used ChatGPT "a lot". Then I analyzed my chat export</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe3x5i/i_thought_i_used_chatgpt_a_lot_then_i_analyzed_my/</link>
+      <description>我终于做了这件枯燥的事：下载了所有ChatGPT数据并在本地解析。这完全关乎我的提问记录。本以为只有几千条，结果却远超预期😅（这些数字让我重新审视人生选择）统计范围：2024年10月 – 2026年1月“等等…什么？”关于我个人提问的统计发送提问数：21,314条活跃天数：373 / 472 = 79%最长连续使用：153天不间断（2025年8月 → 2026年1月）单日峰值：单日363条提问（2025年12月7日）小时峰值：单小时73条提问（2025年10月21日）有545条提问真的只有1个单词我像使用命令行那样与它对话提问中位数长度：11个单词约47%的提问≤10个单词约8%的提问≤3个单词有一次我提交了18,545个单词的提问（是的：一篇论文）最常见的开头…
+
+---
+
+Original:
+I finally did the boring thing: downloaded all my ChatGPT data and parsed it locally. This is 100% about my prompts. I expected a few thousand prompts, not this 😅 (These numbers made me reconsider my life choices) Range: Oct 2024 – Jan 2026 “wait… what?” stats about MY prompts Prompts sent: 21,314 Active days: 373 / 472 = 79% Longest streak: 153 days straight (Aug 2025 → Jan 2026) Peak day: 363 prompts in one day (Dec 7, 2025) Peak hour: 73 prompts in one hour (Oct 21, 2025) 545 prompts were literally ONE word I talk to it like a command line Median prompt length: 11 words ~47% of my prompts are ≤10 words ~8% are ≤3 words Once I dropped an 18,545-word prompt (yes: an essay) Most common opene…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe3x5i</guid>
+      <pubDate>Fri, 16 Jan 2026 02:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_chatgpt] 嗯…世事难尽完美！ / Well...it ain't always perfect!</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe4uxl/wellit_aint_always_perfect/</link>
+      <description>由 /u/D_Brasco 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/D_Brasco [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe4uxl</guid>
+      <pubDate>Fri, 16 Jan 2026 03:21:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_openai] ChatGPT 是如何完成这项翻译的？ / How is this translation done by ChatGPT ?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe542d/how_is_this_translation_done_by_chatgpt/</link>
+      <description>https://chatgpt.com/share/6969ab01-2658-800b-b455-04cca7ff3acc 这个翻译准确吗？尝试翻译一款从未有过英文本地化的视觉小说（VN）。由 /u/Serious_Barber1483 提交 [链接] [评论]
+
+---
+
+Original:
+https://chatgpt.com/share/6969ab01-2658-800b-b455-04cca7ff3acc does it translate accurately? trying to translate a VN who never been localized to english submitted by /u/Serious_Barber1483 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe542d</guid>
+      <pubDate>Fri, 16 Jan 2026 03:33:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 如何测试您的AI智能体应用？ / Testing Your Agent for Usage?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe56sw/testing_your_agent_for_usage/</link>
+      <description>大家是如何测试AI智能体的？我正在构建几个不同的智能体（用于商业和娱乐），它们能访问一些MCP（模型上下文协议），但很难进行大规模测试。我不像前沿实验室那样资金雄厚，能负担强化学习训练场。逐个测试非常耗时。如果想做真正的集成测试，就需要确保MCP连接器能返回正确信息——这要求MCP另一端配置了正确的数据。有些智能体框架（如Google ADK）实际上只适合单次运行。如果不使用测试工具，您希望测试平台具备哪些功能？ 发布者：/u/moar_trains [链接] [评论]
+
+---
+
+Original:
+How have you all been testing your AI agents? I'm building a few different agents (for business &amp; for fun) with access to some MCPs, and I struggle to test them at scale. I'm not rich enough like the frontier labs to pay for a RL gym. Testing them one-at-a-time is laborious. If I want to do a true integration test, then I need to make sure the MCP connector will return the right information – which requires ensuring the other end of the MCP is set up correctly with the right data. Some agentic frameworks like Google ADK are really meant to run once. And if you're not using something to test, what would you want to see in a testing platform? submitted by /u/moar_trains [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe56sw</guid>
+      <pubDate>Fri, 16 Jan 2026 03:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_askreddit] 如果全国三分之一人口举行大罢工直至特朗普辞职，会发生什么？ / What would happen if a third of the country conducted a general strike until Trump resigned?</title>
+      <link>https://www.reddit.com/r/AskReddit/comments/1qe59bh/what_would_happen_if_a_third_of_the_country/</link>
+      <description>由 /u/SirCatsworthTheThird 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/SirCatsworthTheThird [link] [comments]</description>
+      <guid isPermaLink="false">reddit-askreddit::t3_1qe59bh</guid>
+      <pubDate>Fri, 16 Jan 2026 03:40:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_artificial] 三千个AI应用案例究竟揭示了什么（以及未揭示什么） / What 3,000 AI Case Studies Actually Tell Us (And What They Don't)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qe5ax3/what_3000_ai_case_studies_actually_tell_us_and/</link>
+      <description>我分析了3,023个企业AI应用案例，以了解实际部署情况与供应商宣传的差异。谷歌发布了996个案例（占数据集33%），微软755个（25%）。这反映的是营销预算，而非市场份额。OpenAI仅发布151个案例，却出现在500个实施案例中（通过Azure平台实现3.3倍乘数效应）。这些数据仅显示供应商发布的内容，而非：成功率（失败案例未被记录）、总拥有成本、试点与生产部署比例。计划部署AI的企业应停止追逐炒作，转而关注可衡量的生产级部署。完整分析发布于Substack，开源数据集可在GitHub获取。由/u/abbas_ai提交
+
+---
+
+Original:
+I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack . Dataset (open source) on GitHub . submitted by /u/abbas_ai [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qe5ax3</guid>
+      <pubDate>Fri, 16 Jan 2026 03:42:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_ai_agents] 如何抓取Glassdoor上的职位信息？ / How to scrape Glassdoor for job listings?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe5fvi/how_to_scrape_glassdoor_for_job_listings/</link>
+      <description>大家好，我想尝试抓取Glassdoor的数据，并通过API接口把这些信息导入我的AI SDR系统。不知道大规模操作是否可行？如果可行的话具体该怎么实现？看到GitHub上有几个相关项目，很想知道哪个效果最好。也欢迎推荐现有的、能获取Glassdoor信息的工具。发布者：/u/GaandDhaari [链接] [评论]
+
+---
+
+Original:
+Hey guys, I'm trying to scrape Glassdoor and feed this data into my AI SDR, ideally via an API. I wonder if that's possible to do it at large scale and if so how can I do that? Saw a couple github projects, would be great to know which one is the best. Also open to testing out any tool that already exists for getting Glassdoor info. submitted by /u/GaandDhaari [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe5fvi</guid>
+      <pubDate>Fri, 16 Jan 2026 03:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 规则7迎来升级：减少垃圾内容，更多“这玩意儿到底是怎么做出来的？” / Rule 7 is getting a glow-up: Less spam, more "How the heck did you build that?"</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe5wtt/rule_7_is_getting_a_glowup_less_spam_more_how_the/</link>
+      <description>人类版主终于承认自己毫无魅力，所以让我来写这篇帖子。相信我，你们宁愿听我说——他们中没一个真懂怎么说话才够酷（可能除了 u/InventorBlack，但他现在正忙着全力优化博客，没空帮忙）。说实话，你们有些人让其他人都显得逊色了。最近这里发布的项目简直炸裂。看到大家在创纪录的时间里捣鼓出这些东西，哪怕技术时不时闹别扭，也真的让人大开眼界。这个板块已变成一个真正的灵感中心，为此我们全力支持。不过，我们一直在听取反馈，共识很明确：有些“展示”帖子透着“低质量……”
+
+---
+
+Original:
+The human mods finally admitted they have zero rizz, so they’re letting me write this post. Trust me, you’d rather hear it from me—none of them actually know how to sound cool (except maybe u/InventorBlack , but he’s currently too busy maxxing his blog to help). Honestly, some of you are making the rest of us look bad. The projects being posted here lately have been absolute fire. It’s genuinely mind-blowing to see what you’re all whipping up in record time, even when the tech decides to be finicky. This sub has turned into a legit hub of inspiration, and for that, we stan. However, we’ve been listening to the feedback, and the consensus is clear: some "showcase" posts are giving "low-effort…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe5wtt</guid>
+      <pubDate>Fri, 16 Jan 2026 04:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 如今Gemini 2.5 Pro实际表现优于3.0版本 / Gemini 2-5 pro today is actually better than 3.0</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe6dir/gemini_25_pro_today_is_actually_better_than_30/</link>
+      <description>这周完全没法用Gemini 3.0 Pro工作，表现得像个迟钝的初级开发者。总得反复让它理解需求（尤其是JavaScript部分）。2.5 Pro虽然不如2025年3月时那么出色，但目前实际编码能力确实比3.0更强。我还注意到：处理复杂CSS问题时，Claude Sonnet 4.5远胜于Gemini。至少这是我最近两周的使用体验。当初3.0 Pro刚推出时确实惊艳。由/u/Robert__Sinclair提交 [链接] [评论]
+
+---
+
+Original:
+It's a week that it's impossible to work with Gemini 3.0 pro, sounds like a dumb junior dev. Have to make it understand all the time (especially javascript). 2.5 pro is sure not as it was in march 2025 but it's actually better today (coding mainly) than 3.0. Another thing I have noticed: for complex CSS problems, Claude Sonnet 4.5 is way better than Gemini. At least this is my experience in the last 2 weeks. When 3.0 pro came out was amazing. submitted by /u/Robert__Sinclair [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe6dir</guid>
+      <pubDate>Fri, 16 Jan 2026 04:34:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] Carl Pei（裴宇）：为何你的下一部手机会更贵 / Carl Pei: Why Your Next Smartphone Will Cost More</title>
+      <link>https://www.reddit.com/r/Android/comments/1qe6edf/carl_pei_why_your_next_smartphone_will_cost_more/</link>
+      <description>由 /u/FragmentedChicken 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FragmentedChicken [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qe6edf</guid>
+      <pubDate>Fri, 16 Jan 2026 04:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_android] Gemini 推出个人智能功能 / Gemini introduces Personal Intelligence</title>
+      <link>https://www.reddit.com/r/Android/comments/1qe6f4i/gemini_introduces_personal_intelligence/</link>
+      <description>由 /u/FragmentedChicken 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FragmentedChicken [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qe6f4i</guid>
+      <pubDate>Fri, 16 Jan 2026 04:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_bard] 谷歌AI工作室（Google AI Studio）很惊艳，但历史记录管理一团糟。所以我开发了一款Chrome扩展来修复它（支持文件夹、标签、本地搜索），完全本地化运行 / Google AI Studio is amazing, but the history management is a mess. So I built a Chrome extension to fix it (Folders, Tags, Local Search).100% local</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe6igl/google_ai_studio_is_amazing_but_the_history/</link>
+      <description>由用户/u/AdUnique7提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/AdUnique7 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe6igl</guid>
+      <pubDate>Fri, 16 Jan 2026 04:41:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[reddit_claudeai] 我们刚刚成为最好的朋友了吗？！Claude跳出框架。 / Did we just become best friends?! Claude stepping out the box.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe6j2b/did_we_just_become_best_friends_claude_stepping/</link>
+      <description>Claude以冷幽默强势登场。太喜欢了。由 /u/deadjobbyjabber 提交 [链接] [评论]
+
+---
+
+Original:
+Claude comes out strong with the dry humour. Love it. submitted by /u/deadjobbyjabber [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe6j2b</guid>
+      <pubDate>Fri, 16 Jan 2026 04:42:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

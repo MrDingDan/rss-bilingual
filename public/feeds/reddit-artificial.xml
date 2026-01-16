@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_artificial (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:27:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 04:49:46 +0000</lastBuildDate>
     <item>
       <title>拼字游戏世界冠军（Nigel Richards）是塞尔中文屋的一个例证吗 / Is the Scrabble world champion (Nigel Richards) an example of the Searle's Chinese room</title>
       <link>https://www.reddit.com/r/artificial/comments/1q8pj70/is_the_scrabble_world_champion_nigel_richards_an/</link>
@@ -876,6 +876,18 @@ Original:
 By text prompts I mean if I wanted part of my video/image to say a certain word or title within the image. It often comes up with almost foreign looking language. Or mimics but often misspells the words. submitted by /u/darealmvp1 [link] [comments]</description>
       <guid isPermaLink="false">reddit-artificial::t3_1qe3hw4</guid>
       <pubDate>Fri, 16 Jan 2026 02:20:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>三千个AI应用案例究竟揭示了什么（以及未揭示什么） / What 3,000 AI Case Studies Actually Tell Us (And What They Don't)</title>
+      <link>https://www.reddit.com/r/artificial/comments/1qe5ax3/what_3000_ai_case_studies_actually_tell_us_and/</link>
+      <description>我分析了3,023个企业AI应用案例，以了解实际部署情况与供应商宣传的差异。谷歌发布了996个案例（占数据集33%），微软755个（25%）。这反映的是营销预算，而非市场份额。OpenAI仅发布151个案例，却出现在500个实施案例中（通过Azure平台实现3.3倍乘数效应）。这些数据仅显示供应商发布的内容，而非：成功率（失败案例未被记录）、总拥有成本、试点与生产部署比例。计划部署AI的企业应停止追逐炒作，转而关注可衡量的生产级部署。完整分析发布于Substack，开源数据集可在GitHub获取。由/u/abbas_ai提交
+
+---
+
+Original:
+I analyzed 3,023 enterprise AI use cases to understand what's actually being deployed vs. vendor claims. Google published 996 cases (33% of dataset), Microsoft 755 (25%). These reflect marketing budgets, not market share. OpenAI published only 151 cases but appears in 500 implementations (3.3x multiplier through Azure). This shows what vendors publish, not: Success rates (failures aren't documented) Total cost of ownership Pilot vs production ratios Those looking to deploy AI should stop chasing hype, and instead look for measurable production deployments. Full analysis on Substack . Dataset (open source) on GitHub . submitted by /u/abbas_ai [link] [comments]</description>
+      <guid isPermaLink="false">reddit-artificial::t3_1qe5ax3</guid>
+      <pubDate>Fri, 16 Jan 2026 03:42:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

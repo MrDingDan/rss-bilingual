@@ -6,31 +6,7 @@
     <description>Auto translated feed for reddit_openai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:29:27 +0000</lastBuildDate>
-    <item>
-      <title>Sora 2 大型讨论帖（第三部分） / Sora 2 megathread (part 3)</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1o8kmg9/sora_2_megathread_part_3/</link>
-      <description>上一个帖子因达到10万条评论上限而关闭。请勿尝试购买邀请码，谨防受骗。请勿尝试出售邀请码，否则将面临永久封禁。我们已在Discord设置了机器人来分发邀请码，若在此处评论中找不到邀请码，请加入Discord并查看 #sora-invite-codes 频道。该频道持续发布大量可用邀请码！更新：由于大量用户涌入导致Discord误判为机器人攻击而锁定服务器，现正等待Discord解锁。也可查看Chambers平台上的大型讨论帖获取邀请信息。由 /u/WithoutReason1729 提交 [链接] [评论]
-
----
-
-Original:
-The last one hit the post limit of 100,000 comments. Do not try to buy codes. You will get scammed. Do not try to sell codes. You will get permanently banned. We have a bot set up to distribute invite codes in the Discord so join if you can't find codes in the comments here. Check the #sora-invite-codes channel. The Discord has dozens of invite codes available, with more being posted constantly! Update: Discord is down until Discord unlocks our server. The massive flood of joins caused the server to get locked because Discord thought we were botting lol. Also check the megathread on Chambers for invites. submitted by /u/WithoutReason1729 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1o8kmg9</guid>
-      <pubDate>Thu, 16 Oct 2025 22:41:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>没错 / Not wrong</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1qanxqa/not_wrong/</link>
-      <description>由 /u/cobalt1137 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/cobalt1137 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-openai::t3_1qanxqa</guid>
-      <pubDate>Mon, 12 Jan 2026 06:48:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 04:51:17 +0000</lastBuildDate>
     <item>
       <title>OpenAI 发布官方《Codex 入门指南》教程视频 / OpenAI releases official “Getting started with Codex” tutorial video</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1qaz8l4/openai_releases_official_getting_started_with/</link>
@@ -1460,6 +1436,30 @@ Original:
 Man, other people might be having fun and stuff with other AI, but for me, it’s all about the oai calm grounding. Let those fools explore, riff, and vibe all they want. The rest of us just want our $20/mo artificial therapist with thinking mode. I’m so back 😉 submitted by /u/-ElimTain- [link] [comments]</description>
       <guid isPermaLink="false">reddit-openai::t3_1qe3exh</guid>
       <pubDate>Fri, 16 Jan 2026 02:17:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT所有模型均返回空回复 / ChatGPT giving empty responses with every model</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe3v4o/chatgpt_giving_empty_responses_with_every_model/</link>
+      <description>无论我询问什么内容、选择哪种模型，得到的都是空回复。点击“再试一次...”后仍然返回空回复。还有其他人遇到这个问题吗？由/u/surveypoodle提交
+
+---
+
+Original:
+No matter what I ask and which model I choose, I'm getting an empty response. If I click on "Try again...", I still get an empty response. Anyone else facing issues? submitted by /u/surveypoodle [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe3v4o</guid>
+      <pubDate>Fri, 16 Jan 2026 02:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 是如何完成这项翻译的？ / How is this translation done by ChatGPT ?</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1qe542d/how_is_this_translation_done_by_chatgpt/</link>
+      <description>https://chatgpt.com/share/6969ab01-2658-800b-b455-04cca7ff3acc 这个翻译准确吗？尝试翻译一款从未有过英文本地化的视觉小说（VN）。由 /u/Serious_Barber1483 提交 [链接] [评论]
+
+---
+
+Original:
+https://chatgpt.com/share/6969ab01-2658-800b-b455-04cca7ff3acc does it translate accurately? trying to translate a VN who never been localized to english submitted by /u/Serious_Barber1483 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-openai::t3_1qe542d</guid>
+      <pubDate>Fri, 16 Jan 2026 03:33:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

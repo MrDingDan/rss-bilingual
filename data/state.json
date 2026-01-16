@@ -1180,7 +1180,26 @@
     "reddit-askreddit::t3_1qe1jf9": 1768530611,
     "reddit-askreddit::t3_1qe2hoa": 1768530615,
     "reddit-askreddit::t3_1qe03dy": 1768530619,
-    "reddit-askreddit::t3_1qdvqm5": 1768530624
+    "reddit-askreddit::t3_1qdvqm5": 1768530624,
+    "reddit-ai-agents::t3_1qe5fvi": 1768538961,
+    "reddit-ai-agents::t3_1qe56sw": 1768538970,
+    "reddit-ai-agents::t3_1qe3oc9": 1768538976,
+    "reddit-artificial::t3_1qe5ax3": 1768538986,
+    "reddit-chatgpt::t3_1qe4uxl": 1768538992,
+    "reddit-chatgpt::t3_1qe3x5i": 1768539006,
+    "reddit-chatgpt::t3_1qe05zt": 1768539018,
+    "reddit-claudeai::t3_1qe5wtt": 1768539028,
+    "reddit-claudeai::t3_1qe239d": 1768539046,
+    "reddit-claudeai::t3_1qe6j2b": 1768539056,
+    "reddit-claudeai::t3_1qdyfet": 1768539065,
+    "reddit-openai::t3_1qe3v4o": 1768539071,
+    "reddit-openai::t3_1qe542d": 1768539077,
+    "reddit-bard::t3_1qe6igl": 1768539083,
+    "reddit-bard::t3_1qe6dir": 1768539095,
+    "reddit-askreddit::t3_1qdyg1p": 1768539107,
+    "reddit-askreddit::t3_1qe59bh": 1768539112,
+    "reddit-android::t3_1qe6f4i": 1768539124,
+    "reddit-android::t3_1qe6edf": 1768539128
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -5862,6 +5881,82 @@
     "91834e368a5a5487b7e563f51e961a2bfcd88cead37c630315f73705bb69fe0b": {
       "zh_title": "Reddit上的老师们，你们是如何忍受那些无法从班级中移除的问题学生的？",
       "zh_summary": "由用户 /u/Spiritual_Big_9927 提交 [链接] [评论]"
+    },
+    "e25c0e217723a103147bd604012807b051388511d1a68d6edd93712114d6c167": {
+      "zh_title": "如何抓取Glassdoor上的职位信息？",
+      "zh_summary": "大家好，我想尝试抓取Glassdoor的数据，并通过API接口把这些信息导入我的AI SDR系统。不知道大规模操作是否可行？如果可行的话具体该怎么实现？看到GitHub上有几个相关项目，很想知道哪个效果最好。也欢迎推荐现有的、能获取Glassdoor信息的工具。发布者：/u/GaandDhaari [链接] [评论]"
+    },
+    "61f8b63034996e4ab303f314db45070fde8d4d1ab2ba6e7f906f0c1bdb88ef08": {
+      "zh_title": "如何测试您的AI智能体应用？",
+      "zh_summary": "大家是如何测试AI智能体的？我正在构建几个不同的智能体（用于商业和娱乐），它们能访问一些MCP（模型上下文协议），但很难进行大规模测试。我不像前沿实验室那样资金雄厚，能负担强化学习训练场。逐个测试非常耗时。如果想做真正的集成测试，就需要确保MCP连接器能返回正确信息——这要求MCP另一端配置了正确的数据。有些智能体框架（如Google ADK）实际上只适合单次运行。如果不使用测试工具，您希望测试平台具备哪些功能？ 发布者：/u/moar_trains [链接] [评论]"
+    },
+    "8d9f86c8b41a2f3d240df4cb9ea7d600c471775c7a8205488880e2a253b1e994": {
+      "zh_title": "认证或课程",
+      "zh_summary": "我在汽车行业工作，正尝试学习如何运用合适的AI工具，为软件开发、测试及测试用例生成建立自动化流程和改进方案。我们的大部分软件基于Matlab Simulink和C语言开发，用于ECU（电子控制单元）。任何课程资料、认证、YouTube教程都会有帮助！M 由 /u/the_zoozoo_ 提交 [链接] [评论]"
+    },
+    "9b7233d6f183dcfad763d27254d26eca26a6e8c649ddb0939043e6b626c07e9b": {
+      "zh_title": "三千个AI应用案例究竟揭示了什么（以及未揭示什么）",
+      "zh_summary": "我分析了3,023个企业AI应用案例，以了解实际部署情况与供应商宣传的差异。谷歌发布了996个案例（占数据集33%），微软755个（25%）。这反映的是营销预算，而非市场份额。OpenAI仅发布151个案例，却出现在500个实施案例中（通过Azure平台实现3.3倍乘数效应）。这些数据仅显示供应商发布的内容，而非：成功率（失败案例未被记录）、总拥有成本、试点与生产部署比例。计划部署AI的企业应停止追逐炒作，转而关注可衡量的生产级部署。完整分析发布于Substack，开源数据集可在GitHub获取。由/u/abbas_ai提交"
+    },
+    "cd6f1164b1905ea37bab3947f8352f6387dd46ee69f9794882643abe483c4806": {
+      "zh_title": "嗯…世事难尽完美！",
+      "zh_summary": "由 /u/D_Brasco 提交 [链接] [评论]"
+    },
+    "a477df87707570f82fe2bee8f9a2df59486d67e7ed2a3af8ca215eaa16b6985d": {
+      "zh_title": "我以为自己ChatGPT用得“够多了”，直到分析了聊天记录",
+      "zh_summary": "我终于做了这件枯燥的事：下载了所有ChatGPT数据并在本地解析。这完全关乎我的提问记录。本以为只有几千条，结果却远超预期😅（这些数字让我重新审视人生选择）统计范围：2024年10月 – 2026年1月“等等…什么？”关于我个人提问的统计发送提问数：21,314条活跃天数：373 / 472 = 79%最长连续使用：153天不间断（2025年8月 → 2026年1月）单日峰值：单日363条提问（2025年12月7日）小时峰值：单小时73条提问（2025年10月21日）有545条提问真的只有1个单词我像使用命令行那样与它对话提问中位数长度：11个单词约47%的提问≤10个单词约8%的提问≤3个单词有一次我提交了18,545个单词的提问（是的：一篇论文）最常见的开头…"
+    },
+    "e6388dbd63af74237d4eec1f126dd92bb9af3654fc1b508eb0d5b9a7eb7b1604": {
+      "zh_title": "CGPT（ChatGPT）越来越烦人？回复中的废话是怎么回事？",
+      "zh_summary": "它做了太多假设，还总是把我的话重复一遍，好像是什么解决方案似的。几乎我提出的每个问题或评论，它都这样回应。举个例子：我说“最近我和朋友看到一只受伤的鸟，一直叫个不停。他说这是它在与死亡抗争，是最后的反抗鸣叫。我觉得可能是疼痛和警告叫声的混合。你怎么看？”CGPT会这样回答：“这是一个重要的区分解读。你们并非为了反对而反对，而是从非常实际的角度看待。你认为它可能在做什么（以及叫声不太可能是什么）：- 不是随机噪音…”"
+    },
+    "12e9ed54c942aaa7be3582c26ac8c65ea4faeb0325b07a5f6d95b21ae383a543": {
+      "zh_title": "规则7迎来升级：减少垃圾内容，更多“这玩意儿到底是怎么做出来的？”",
+      "zh_summary": "人类版主终于承认自己毫无魅力，所以让我来写这篇帖子。相信我，你们宁愿听我说——他们中没一个真懂怎么说话才够酷（可能除了 u/InventorBlack，但他现在正忙着全力优化博客，没空帮忙）。说实话，你们有些人让其他人都显得逊色了。最近这里发布的项目简直炸裂。看到大家在创纪录的时间里捣鼓出这些东西，哪怕技术时不时闹别扭，也真的让人大开眼界。这个板块已变成一个真正的灵感中心，为此我们全力支持。不过，我们一直在听取反馈，共识很明确：有些“展示”帖子透着“低质量……”"
+    },
+    "c274570696a6d76a00379cabc0e15c9f3b794e7751d95b87ddbdb6713299c5f5": {
+      "zh_title": "Claude Code V3 完全指南：LSP、CLAUDE.md、MCP、技能与钩子——现已具备IDE级代码智能",
+      "zh_summary": "🎉 V3：基于社区反馈再次构建 📸 以网站形式查看 V2 在 r/ClaudeAI 上创下历史第二热度。您的评论让 V3 成为可能。特别感谢 u/BlueVajra（命令/技能合并）、u/stratofax（dotfiles 同步）、u/antoniocs（MCP 权衡）、u/GeckoLogic（LSP），以及所有来自 V2 的贡献者：u/headset38、u/tulensrma、u/jcheroske。V3 的新特性：- 第 8 部分：LSP —— Claude 现在拥有 IDE 级代码智能（导航速度提升 900 倍）- 命令与技能合并 —— 相同架构，更简明的思维模型- 扩展的 MCP 目录 —— 按类别推荐 25+ 个服务器- MCP 权衡 —— 何时不应使用 MCP 服务器- Dotfiles 同步 —— 跨设备保持 ~/.claude 配置一致- 包含模板、钩子和技能的 GitHub 仓库…"
+    },
+    "7cd00fa2703acc829374006f63866df727e5f6f8413a1435351417d65ddd113f": {
+      "zh_title": "我们刚刚成为最好的朋友了吗？！Claude跳出框架。",
+      "zh_summary": "Claude以冷幽默强势登场。太喜欢了。由 /u/deadjobbyjabber 提交 [链接] [评论]"
+    },
+    "8a91473a6d3a4ab250a480da946b0eb063f80addeeabe86cd849aa846842bb0b": {
+      "zh_title": "我如何用Claude Code解决软件工程师求职难题（并行编写20个爬虫）",
+      "zh_summary": "最近我深入投入软件工程师求职，很快遇到了一个经典问题：当职位出现在LinkedIn/Indeed上时，其实已经在公司招聘页面发布了24小时以上，而我已经是第400位申请者了。另一方面，跟踪所有公司的招聘页面又相当不便。我决定开发一个工具，直接抓取招聘页面以实现实时提醒。为20多个网站编写爬虫通常很痛苦，但我使用Claude Code+Playwright MCP加速完成了。工作流程是：我并行运行多个Claude Code进程，为每个进程提供一个招聘页面URL。由于Playwright MCP让Claude能够实际'看到'DOM结构，它可以识别选择器、处理分页……"
+    },
+    "4d12968af26588e8dd32d26a9b2c715254a5f671c3c273ed9e917854e6d5cef6": {
+      "zh_title": "ChatGPT所有模型均返回空回复",
+      "zh_summary": "无论我询问什么内容、选择哪种模型，得到的都是空回复。点击“再试一次...”后仍然返回空回复。还有其他人遇到这个问题吗？由/u/surveypoodle提交"
+    },
+    "ff7e5848d013ace89a56870a3740111d63f06778afda5d231e0d5d57cce1405a": {
+      "zh_title": "ChatGPT 是如何完成这项翻译的？",
+      "zh_summary": "https://chatgpt.com/share/6969ab01-2658-800b-b455-04cca7ff3acc 这个翻译准确吗？尝试翻译一款从未有过英文本地化的视觉小说（VN）。由 /u/Serious_Barber1483 提交 [链接] [评论]"
+    },
+    "63431dfcc4c1b3159c1a9fdaeca4204cb61e1dd41764a5f5639fab0c85f2e9ee": {
+      "zh_title": "谷歌AI工作室（Google AI Studio）很惊艳，但历史记录管理一团糟。所以我开发了一款Chrome扩展来修复它（支持文件夹、标签、本地搜索），完全本地化运行",
+      "zh_summary": "由用户/u/AdUnique7提交 [链接] [评论]"
+    },
+    "39fcf2afe77b730f18a9c7bccf5dc0b62b1370c5a9d652806f6d5fbb6558a6fa": {
+      "zh_title": "如今Gemini 2.5 Pro实际表现优于3.0版本",
+      "zh_summary": "这周完全没法用Gemini 3.0 Pro工作，表现得像个迟钝的初级开发者。总得反复让它理解需求（尤其是JavaScript部分）。2.5 Pro虽然不如2025年3月时那么出色，但目前实际编码能力确实比3.0更强。我还注意到：处理复杂CSS问题时，Claude Sonnet 4.5远胜于Gemini。至少这是我最近两周的使用体验。当初3.0 Pro刚推出时确实惊艳。由/u/Robert__Sinclair提交 [链接] [评论]"
+    },
+    "9faf4e694657402173e96b5315b8ba644a545d7a7882184e967a82d8db58f843": {
+      "zh_title": "二十年前被视为奢侈品，如今却基本一文不值的物品是什么？",
+      "zh_summary": "由用户/u/EasyZee7提交 [链接] [评论]"
+    },
+    "a73a7747cc89244f824cdcc441c3ee5b0e5cc98e04099dfb7ec5b73303fe8859": {
+      "zh_title": "如果全国三分之一人口举行大罢工直至特朗普辞职，会发生什么？",
+      "zh_summary": "由 /u/SirCatsworthTheThird 提交 [链接] [评论]"
+    },
+    "3f0c5b72b2a0f816f5dad40efdc5cb381bc322b96cd94bee9f9da16b7329f021": {
+      "zh_title": "Gemini 推出个人智能功能",
+      "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
+    },
+    "cbcebf459bdb478bea58b463095f8eeedce63529dd4e878c4eebac760211ac1c": {
+      "zh_title": "Carl Pei（裴宇）：为何你的下一部手机会更贵",
+      "zh_summary": "由 /u/FragmentedChicken 提交 [链接] [评论]"
     }
   }
 }

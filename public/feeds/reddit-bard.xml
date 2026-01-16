@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_bard (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 04:51:35 +0000</lastBuildDate>
     <item>
       <title>✨/r/Bard Discord 服务器✨ / ✨/r/Bard Discord Server✨</title>
       <link>https://www.reddit.com/r/Bard/comments/11ys2mn/rbard_discord_server/</link>
@@ -1098,6 +1098,30 @@ Original:
 This has been happening for so long and yet there is no fix? At this point whats the point in having a subscription when its basically blind after reading more than 1000 words, or when i send a file. This only happens on the website submitted by /u/THE-WIZARD-COUNCIL [link] [comments]</description>
       <guid isPermaLink="false">reddit-bard::t3_1qe2j5i</guid>
       <pubDate>Fri, 16 Jan 2026 01:38:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>如今Gemini 2.5 Pro实际表现优于3.0版本 / Gemini 2-5 pro today is actually better than 3.0</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe6dir/gemini_25_pro_today_is_actually_better_than_30/</link>
+      <description>这周完全没法用Gemini 3.0 Pro工作，表现得像个迟钝的初级开发者。总得反复让它理解需求（尤其是JavaScript部分）。2.5 Pro虽然不如2025年3月时那么出色，但目前实际编码能力确实比3.0更强。我还注意到：处理复杂CSS问题时，Claude Sonnet 4.5远胜于Gemini。至少这是我最近两周的使用体验。当初3.0 Pro刚推出时确实惊艳。由/u/Robert__Sinclair提交 [链接] [评论]
+
+---
+
+Original:
+It's a week that it's impossible to work with Gemini 3.0 pro, sounds like a dumb junior dev. Have to make it understand all the time (especially javascript). 2.5 pro is sure not as it was in march 2025 but it's actually better today (coding mainly) than 3.0. Another thing I have noticed: for complex CSS problems, Claude Sonnet 4.5 is way better than Gemini. At least this is my experience in the last 2 weeks. When 3.0 pro came out was amazing. submitted by /u/Robert__Sinclair [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe6dir</guid>
+      <pubDate>Fri, 16 Jan 2026 04:34:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>谷歌AI工作室（Google AI Studio）很惊艳，但历史记录管理一团糟。所以我开发了一款Chrome扩展来修复它（支持文件夹、标签、本地搜索），完全本地化运行 / Google AI Studio is amazing, but the history management is a mess. So I built a Chrome extension to fix it (Folders, Tags, Local Search).100% local</title>
+      <link>https://www.reddit.com/r/Bard/comments/1qe6igl/google_ai_studio_is_amazing_but_the_history/</link>
+      <description>由用户/u/AdUnique7提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/AdUnique7 [link] [comments]</description>
+      <guid isPermaLink="false">reddit-bard::t3_1qe6igl</guid>
+      <pubDate>Fri, 16 Jan 2026 04:41:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

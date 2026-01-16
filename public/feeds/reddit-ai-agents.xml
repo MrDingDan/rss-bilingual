@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_ai_agents (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:27:20 +0000</lastBuildDate>
-    <item>
-      <title>打造一个FOSS、本地优先的Claude Cowork替代品 / Building a FOSS, local-first alternative to Claude Cowork</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbu3fz/building_a_foss_localfirst_alternative_to_claude/</link>
-      <description>大家好，我正在开发一款应用，它包含AI工作区，每个工作区都有独立的虚拟文件系统，以及能够使用工具进行读写操作的智能体——这些功能对编程智能体来说很常见，但这款应用面向非编程任务，设置和使用都很简单。可以把它想象成Cursor，但拥有类似ChatGPT的用户界面，或者类似于Anthropic公司开发的Cowork。应用目前处于早期阶段，但已可用，至少可以作为ChatGPT的替代品。我非常期待大家的反馈。也欢迎大家随时提问，比如它的工作原理、面临的挑战等等。我目前的设想是将其部署在企业中，帮助优化特定工作流程——特别是那些重视数据和工作流程自主权的团队。在一个简洁的包装中构建定制智能体和集成……
-
----
-
-Original:
-Hi, I’m building an app with AI workspaces that have their own virtual file system, and agents that can read/write to it while using tools - all as usual for coding agents, but the app is for non-coding tasks, simple to set up and use. Think Cursor but with a ChatGPT-like UI. Or similar to what Anthropic does with Cowork. The app is early-stage but usable, at least as a replacement for ChatGPT. I would love to get feedback. Also, feel free to ask any questions about how it works, challenges, etc. My current bet is on deploying it at companies to help with specific workflows - especially for teams who value owning their data and workflows. Building custom agents and integrations in a neat wra…</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbu3fz</guid>
-      <pubDate>Tue, 13 Jan 2026 15:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>为AI工具众筹创意 / Crowdsourcing ideas for AI tools</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbu9kh/crowdsourcing_ideas_for_ai_tools/</link>
-      <description>我正在尝试一个公开的“愿望板”，让人们描述或点赞他们真正想要的AI工具，为开发者提供项目灵感。好奇这样的方式是否有用，或者大家是否已经在使用其他替代方案？由 /u/seetherealitynow 提交 [链接] [评论]
-
----
-
-Original:
-I’m experimenting with a public “wishboard” where people describe or upvote AI tools they actually want, giving builders ideas for projects to take on. Curious whether something like this would be useful, or if people already use alternatives? submitted by /u/seetherealitynow [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbu9kh</guid>
-      <pubDate>Tue, 13 Jan 2026 15:28:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>关于语音助手使用体验劝阻潜在客户的经历 / Your experience w/ of voice agent usage dissuading incoming Leads</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1qbw3ah/your_experience_w_of_voice_agent_usage_dissuading/</link>
-      <description>我们正考虑在某种程度上使用语音助手。不确定这是否适用于新来的潜在客户，也不确定是否计划用于过去处理过的现有冷线索。我们的理想客户年龄偏大，所以我有点担心会遇到抵触。我自己就很讨厌和AI机器人对话，尽管我对技术还算适应。因此想了解是否有其他人遇到过类似情况——当客户群体年龄较大时，与语音助手互动的体验如何。提交者：/u/bs_hoffman [链接] [评论]
-
----
-
-Original:
-We are considering using voice agents in some capacity. Not sure if that means incoming new leads, not sure if we plan on using it on existing cold leads we've dealt with in the past. Our ideal client tends to be older so I'm a bit worried about the pushback. I know myself, I hate when I have to talk to an AI bot and I am comfortable with technology, so curious if anyone else has went through something similar when your clientele is older and interacted with voice agents and your experience. submitted by /u/bs_hoffman [link] [comments]</description>
-      <guid isPermaLink="false">reddit-ai-agents::t3_1qbw3ah</guid>
-      <pubDate>Tue, 13 Jan 2026 16:35:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 04:49:36 +0000</lastBuildDate>
     <item>
       <title>ChatGPT确实存在邓宁-克鲁格效应 / Chatgpt sure has the Dunning-Kruger effect</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1qbxqrv/chatgpt_sure_has_the_dunningkruger_effect/</link>
@@ -1464,6 +1428,42 @@ Original:
 I watched the Claude Cowork launch and my first reaction wasn’t “wow agentic AI.” It was “yeah… my desktop is a mess too.” That’s why it’s landing. It’s a super gettable pain point. What’s interesting to me is what happens after the magic moment. When AI is drafting and suggesting, being wrong mostly costs time. You rerun it, edit it, move on. Once a system can act on real state, it’s different. Files move. Tasks run. Stuff gets renamed or deleted. Outcomes persist even if you weren’t watching closely. The question shifts from “does this help” to “who owns what happens next.” People keep repeating how fast it was built, mostly by the model itself. That’s impressive, but it also means we’re s…</description>
       <guid isPermaLink="false">reddit-ai-agents::t3_1qe223c</guid>
       <pubDate>Fri, 16 Jan 2026 01:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>认证或课程 / Certification or Course</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe3oc9/certification_or_course/</link>
+      <description>我在汽车行业工作，正尝试学习如何运用合适的AI工具，为软件开发、测试及测试用例生成建立自动化流程和改进方案。我们的大部分软件基于Matlab Simulink和C语言开发，用于ECU（电子控制单元）。任何课程资料、认证、YouTube教程都会有帮助！M 由 /u/the_zoozoo_ 提交 [链接] [评论]
+
+---
+
+Original:
+I work in the auto industry, and am trying to learn how to setup automation and improvements for software development, testing and test case generation using the right AI tools. Most of our SW is in Matlab Simulink and C, built for ECUs. Any course material or certification, youtube tutorials, would be helpful! M submitted by /u/the_zoozoo_ [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe3oc9</guid>
+      <pubDate>Fri, 16 Jan 2026 02:28:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何测试您的AI智能体应用？ / Testing Your Agent for Usage?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe56sw/testing_your_agent_for_usage/</link>
+      <description>大家是如何测试AI智能体的？我正在构建几个不同的智能体（用于商业和娱乐），它们能访问一些MCP（模型上下文协议），但很难进行大规模测试。我不像前沿实验室那样资金雄厚，能负担强化学习训练场。逐个测试非常耗时。如果想做真正的集成测试，就需要确保MCP连接器能返回正确信息——这要求MCP另一端配置了正确的数据。有些智能体框架（如Google ADK）实际上只适合单次运行。如果不使用测试工具，您希望测试平台具备哪些功能？ 发布者：/u/moar_trains [链接] [评论]
+
+---
+
+Original:
+How have you all been testing your AI agents? I'm building a few different agents (for business &amp; for fun) with access to some MCPs, and I struggle to test them at scale. I'm not rich enough like the frontier labs to pay for a RL gym. Testing them one-at-a-time is laborious. If I want to do a true integration test, then I need to make sure the MCP connector will return the right information – which requires ensuring the other end of the MCP is set up correctly with the right data. Some agentic frameworks like Google ADK are really meant to run once. And if you're not using something to test, what would you want to see in a testing platform? submitted by /u/moar_trains [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe56sw</guid>
+      <pubDate>Fri, 16 Jan 2026 03:37:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>如何抓取Glassdoor上的职位信息？ / How to scrape Glassdoor for job listings?</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1qe5fvi/how_to_scrape_glassdoor_for_job_listings/</link>
+      <description>大家好，我想尝试抓取Glassdoor的数据，并通过API接口把这些信息导入我的AI SDR系统。不知道大规模操作是否可行？如果可行的话具体该怎么实现？看到GitHub上有几个相关项目，很想知道哪个效果最好。也欢迎推荐现有的、能获取Glassdoor信息的工具。发布者：/u/GaandDhaari [链接] [评论]
+
+---
+
+Original:
+Hey guys, I'm trying to scrape Glassdoor and feed this data into my AI SDR, ideally via an API. I wonder if that's possible to do it at large scale and if so how can I do that? Saw a couple github projects, would be great to know which one is the best. Also open to testing out any tool that already exists for getting Glassdoor info. submitted by /u/GaandDhaari [link] [comments]</description>
+      <guid isPermaLink="false">reddit-ai-agents::t3_1qe5fvi</guid>
+      <pubDate>Fri, 16 Jan 2026 03:49:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

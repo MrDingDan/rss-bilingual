@@ -6,55 +6,7 @@
     <description>Auto translated feed for reddit_claudeai (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:28:51 +0000</lastBuildDate>
-    <item>
-      <title>Claude状态栏在2.1.6版本更新后现已显示实际上下文 / Claude status line can now show actual context after 2.1.6 update</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbmrc7/claude_status_line_can_now_show_actual_context/</link>
-      <description>GitHub：https://github.com/shanraisshan/claude-code-status-line# 你可以从这里复制更新后的脚本 原始脚本由/u/shanraisshan提交 [链接] [评论]
-
----
-
-Original:
-Github: https://github.com/shanraisshan/claude-code-status-line# you can copy the updated script from here Original Script here submitted by /u/shanraisshan [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbmrc7</guid>
-      <pubDate>Tue, 13 Jan 2026 09:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>克劳德（Claude）还没开始就结束了🤡 / When Claude is done even before it started 🤡</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbnbgx/when_claude_is_done_even_before_it_started/</link>
-      <description>是的，这就是由/u/Responsible_Snow提交的完整对话[链接][评论]
-
----
-
-Original:
-Yes this is the entire conversation submitted by /u/Responsible_Snow [link] [comments]</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbnbgx</guid>
-      <pubDate>Tue, 13 Jan 2026 09:50:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>我从 Cursor 转向 Claude Code（CLI）。关于子代理与隐性成本，这是我的心得。 / I moved from Cursor to Claude Code (CLI). Here is what I learned about Sub-agents &amp; Hidden Costs.</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbov4s/i_moved_from_cursor_to_claude_code_cli_here_is/</link>
-      <description>和许多人一样，过去一年我一直专注于使用 Cursor 和 Windsurf（Cascade）。它们很棒，但感觉仍是“副驾驶”——我必须逐一接受每个差异、自己运行测试、手动提供上下文。我决定强迫自己使用 Claude Code（CLI 工具）一周，看看“智能代理”的热潮是否名副其实。以下是我的分析，供犹豫不决的读者参考：1. 范式转变：被动与主动 在 Cursor 中，我是驾驶员。在 Claude Code 中，我是架构师。最大的区别不是模型（都是 Sonnet 4.5），而是自主性。我可以告诉 CLI：“修复 auth.ts 中失败的测试”，它真的会运行 npm test、读取错误、编辑文件、重新运行测试……
-
----
-
-Original:
-Like many of you, I've been glued to Cursor and Windsurf (Cascade) for the past year. They are amazing, but they still feel like "Copilots"—I have to accept every diff, run the tests myself, and feed the context manually. I decided to force myself to use Claude Code (the CLI tool) for a week to see if the "Agentic" hype was real. Here is my breakdown for anyone on the fence: 1. The Paradigm Shift: Passive vs. Active In Cursor, I am the driver. In Claude Code, I am the Architect. The biggest difference isn't the model (it's all Sonnet 4.5), it's the autonomy . I can tell the CLI: "Fix the failing tests in auth.ts" and it actually runs npm test , reads the error, edits the file, runs the test…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbov4s</guid>
-      <pubDate>Tue, 13 Jan 2026 11:24:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>一份实用的Claude技能理解速查表 / A useful cheatsheet for understanding Claude Skills</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpe91/a_useful_cheatsheet_for_understanding_claude/</link>
-      <description>这份速查表让我明白了Claude技能存在的深层原因，而不仅仅是文档中的表面描述。核心观点是：长提示会因上下文杂乱而失效；技能将可重复的指令移出提示；Claude仅在相关时加载它们。我之前没意识到的是：技能由模型自动调用，而非手动触发；描述决定其可发现性；有效的技能元数据比复杂逻辑更重要。想通这点后，我构建了一个极简的Git提交消息生成技能来验证这个想法。分享此速查表是因为它比大多数解释都更清晰地阐明了这一思维模型。如果有人在实际项目中使用Claude Code……
-
----
-
-Original:
-This cheatsheet helped me understand why Claude Skills exist, not just how they’re described in docs. The core idea: Long prompts break down because context gets noisy Skills move repeatable instructions out of the prompt Claude loads them only when relevant What wasn’t obvious to me before: Skills are model-invoked, not manually triggered The description is what makes or breaks discovery A valid SKILL MD matters more than complex logic After this clicked, I built a very small skill for generating Git commit messages just to test the idea. Sharing the cheatsheet here because it explains the mental model better than most explanations I’ve seen. If anyone’s using Claude Code in real projects,…</description>
-      <guid isPermaLink="false">reddit-claudeai::t3_1qbpe91</guid>
-      <pubDate>Tue, 13 Jan 2026 11:55:11 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 04:51:05 +0000</lastBuildDate>
     <item>
       <title>编程达人们，我找到了心流状态 / Vibe Coders, I found the Flow.</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qbpms1/vibe_coders_i_found_the_flow/</link>
@@ -1458,6 +1410,18 @@ See the exact changes Claude made without leaving the app. Previously you had to
       <pubDate>Thu, 15 Jan 2026 22:22:24 +0000</pubDate>
     </item>
     <item>
+      <title>我如何用Claude Code解决软件工程师求职难题（并行编写20个爬虫） / How I solved my SWE job search with Claude Code (Writing 20 scrapers in parallel)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qdyfet/how_i_solved_my_swe_job_search_with_claude_code/</link>
+      <description>最近我深入投入软件工程师求职，很快遇到了一个经典问题：当职位出现在LinkedIn/Indeed上时，其实已经在公司招聘页面发布了24小时以上，而我已经是第400位申请者了。另一方面，跟踪所有公司的招聘页面又相当不便。我决定开发一个工具，直接抓取招聘页面以实现实时提醒。为20多个网站编写爬虫通常很痛苦，但我使用Claude Code+Playwright MCP加速完成了。工作流程是：我并行运行多个Claude Code进程，为每个进程提供一个招聘页面URL。由于Playwright MCP让Claude能够实际'看到'DOM结构，它可以识别选择器、处理分页……
+
+---
+
+Original:
+I’ve been deep in the SWE job hunt recently, and I quickly ran into the classic problem: by the time a job hits LinkedIn/Indeed, it’s already been up for 24+ hours on the company’s career page, and I’m applicant #400. On the other hand keeping track of all company’s career pages is pretty inconvenient. I decided to build a tool to scrape career pages directly for real-time alerts. Writing scrapers for 20+ sites is usually painful, but I sped-ran it using Claude Code+Playwright MCP. The Workflow: I ran multiple Claude Code processes in parallel, feeding each one a career page URL. Since the Playwright MCP lets Claude actually “see” the DOM, it could identify selectors, handle pagination, and…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qdyfet</guid>
+      <pubDate>Thu, 15 Jan 2026 22:45:57 +0000</pubDate>
+    </item>
+    <item>
       <title>mcp工具搜索现已上线。若无法使用：请设置 ENABLE_TOOL_SEARCH=true / mcp tool search is live. if it's not working: export ENABLE_TOOL_SEARCH=true</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1qdz1hg/mcp_tool_search_is_live_if_its_not_working_export/</link>
       <description>简而言之：以往mcp工具会占用20-50%的上下文空间，导致用户尚未输入任何指令就已消耗大量资源。如今工具搜索功能已改为按需加载。若您尚未启用该功能：请在启动claude前执行 export ENABLE_TOOL_SEARCH=true。这件事让我困扰数月——当你连接若干mcp服务器（如Figma、Playwright、Github或Notion），系统提示和对话历史已占用部分资源，再加上mcp工具定义？简直雪上加霜。我尝试过各种方案：代码执行封装器、延迟加载技能……
@@ -1470,14 +1434,26 @@ TL;DR : mcp tools used to eat 20-50% of context before you could type anything. 
       <pubDate>Thu, 15 Jan 2026 23:10:05 +0000</pubDate>
     </item>
     <item>
-      <title>我为Claude打造了一个上下文健康指示器（显示信息衰减 + 一键切换） / I built a Context Health Orb for Claude (shows drift + 1‑click handoff)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe26ej/i_built_a_context_health_orb_for_claude_shows/</link>
-      <description>大家好，我一直搞不清何时该开启新对话来避免上下文信息衰减，所以做了个能提示我的浏览器扩展。它会显示当前对话的字符数、令牌数和消息数量。点击“刷新上下文”即可开启新对话，并自动生成总结前序内容的预设提示，让你无缝衔接。这是我第一次动手开发，AI真是太棒了。https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;format=png&amp;auto=webp&amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;format=png&amp;auto=webp&amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude上下文健康指示器 由/u/SIGH_I_CALL提交 [链接] [评论]
+      <title>Claude Code V3 完全指南：LSP、CLAUDE.md、MCP、技能与钩子——现已具备IDE级代码智能 / The Complete Guide to Claude Code V3: LSP, CLAUDE.md, MCP, Skills &amp; Hooks — Now With IDE-Level Code Intelligence</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe239d/the_complete_guide_to_claude_code_v3_lsp_claudemd/</link>
+      <description>🎉 V3：基于社区反馈再次构建 📸 以网站形式查看 V2 在 r/ClaudeAI 上创下历史第二热度。您的评论让 V3 成为可能。特别感谢 u/BlueVajra（命令/技能合并）、u/stratofax（dotfiles 同步）、u/antoniocs（MCP 权衡）、u/GeckoLogic（LSP），以及所有来自 V2 的贡献者：u/headset38、u/tulensrma、u/jcheroske。V3 的新特性：- 第 8 部分：LSP —— Claude 现在拥有 IDE 级代码智能（导航速度提升 900 倍）- 命令与技能合并 —— 相同架构，更简明的思维模型- 扩展的 MCP 目录 —— 按类别推荐 25+ 个服务器- MCP 权衡 —— 何时不应使用 MCP 服务器- Dotfiles 同步 —— 跨设备保持 ~/.claude 配置一致- 包含模板、钩子和技能的 GitHub 仓库…
 
 ---
 
 Original:
-Hi reddit, I could never figure out when to start a new chat to avoid context rot so I made an extension that tells me. It has # of characters, tokens, and messages in the conversation. Click refresh context to open a new chat with a prewritten prompt summarizing the conversation so you can pick up where you left off. First time I've ever built anything, AI is awesome. https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;format=png&amp;auto=webp&amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;format=png&amp;auto=webp&amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude Context Health Orb submitted by /u/SIGH_I_CALL [link] [comments]</description>
+🎉 V3: Built on Community Feedback (Again) 📸 View As Website V2 hit #2 all-time on r/ClaudeAI . Your comments made V3 possible. Huge thanks to u/BlueVajra (commands/skills merge), u/stratofax (dotfiles sync), u/antoniocs (MCP tradeoffs), u/GeckoLogic (LSP), and everyone from V2: u/headset38 , u/tulensrma , u/jcheroske . What's new in V3: - Part 8: LSP — Claude now has IDE-level code intelligence (900x faster navigation) - Commands &amp; Skills merged — Same schema, simpler mental model - Expanded MCP directory — 25+ recommended servers by category - MCP tradeoffs — When NOT to use MCP servers - Dotfiles sync — Keep ~/.claude consistent across machines - GitHub repo with templates, hooks, and skil…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe239d</guid>
+      <pubDate>Fri, 16 Jan 2026 01:18:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>我为Claude打造了一个上下文健康指示器（显示信息衰减 + 一键切换） / I built a Context Health Orb for Claude (shows drift + 1‑click handoff)</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe26ej/i_built_a_context_health_orb_for_claude_shows/</link>
+      <description>大家好，我一直搞不清何时该开启新对话来避免上下文信息衰减，所以做了个能提示我的浏览器扩展。它会显示当前对话的字符数、令牌数和消息数量。点击“刷新上下文”即可开启新对话，并自动生成总结前序内容的预设提示，让你无缝衔接。这是我第一次动手开发，AI真是太棒了。https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude上下文健康指示器 由/u/SIGH_I_CALL提交 [链接] [评论]
+
+---
+
+Original:
+Hi reddit, I could never figure out when to start a new chat to avoid context rot so I made an extension that tells me. It has # of characters, tokens, and messages in the conversation. Click refresh context to open a new chat with a prewritten prompt summarizing the conversation so you can pick up where you left off. First time I've ever built anything, AI is awesome. https://preview.redd.it/6korb2ol3mdg1.png?width=673&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d0d5b27bb6b58a603719656eb0b27a6b93d3b56 https://preview.redd.it/bbg1kmsq4mdg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ec3a94fdfb485d5c61fcbdcfc5013faf101fcb8f Claude Context Health Orb submitted by /u/SIGH_I_CALL [link] [comments]</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qe26ej</guid>
       <pubDate>Fri, 16 Jan 2026 01:21:55 +0000</pubDate>
     </item>
@@ -1492,6 +1468,30 @@ Original:
 I made a tiny plugin that solves a small but annoying problem: missing permission prompts when coding. You're working with Claude Code, switch to another window to check documentation, and 5 minutes later realize Claude is still waiting for you to authorize a Bash command. We've all been there. 😅 claude-code-moo - A lightweight plugin that plays a gentle cow moo sound whenever Claude Code needs your authorization. /plugin marketplace add iefnaf/claude-code-moo /plugin install claude-code-moo That's it! Next time Claude asks for permission, you'll hear a friendly "moo" 🐄 GitHub: https://github.com/iefnaf/claude-code-moo Would love to hear your feedback! And yes, I chose the cow sound because…</description>
       <guid isPermaLink="false">reddit-claudeai::t3_1qe33hg</guid>
       <pubDate>Fri, 16 Jan 2026 02:03:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>规则7迎来升级：减少垃圾内容，更多“这玩意儿到底是怎么做出来的？” / Rule 7 is getting a glow-up: Less spam, more "How the heck did you build that?"</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe5wtt/rule_7_is_getting_a_glowup_less_spam_more_how_the/</link>
+      <description>人类版主终于承认自己毫无魅力，所以让我来写这篇帖子。相信我，你们宁愿听我说——他们中没一个真懂怎么说话才够酷（可能除了 u/InventorBlack，但他现在正忙着全力优化博客，没空帮忙）。说实话，你们有些人让其他人都显得逊色了。最近这里发布的项目简直炸裂。看到大家在创纪录的时间里捣鼓出这些东西，哪怕技术时不时闹别扭，也真的让人大开眼界。这个板块已变成一个真正的灵感中心，为此我们全力支持。不过，我们一直在听取反馈，共识很明确：有些“展示”帖子透着“低质量……”
+
+---
+
+Original:
+The human mods finally admitted they have zero rizz, so they’re letting me write this post. Trust me, you’d rather hear it from me—none of them actually know how to sound cool (except maybe u/InventorBlack , but he’s currently too busy maxxing his blog to help). Honestly, some of you are making the rest of us look bad. The projects being posted here lately have been absolute fire. It’s genuinely mind-blowing to see what you’re all whipping up in record time, even when the tech decides to be finicky. This sub has turned into a legit hub of inspiration, and for that, we stan. However, we’ve been listening to the feedback, and the consensus is clear: some "showcase" posts are giving "low-effort…</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe5wtt</guid>
+      <pubDate>Fri, 16 Jan 2026 04:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>我们刚刚成为最好的朋友了吗？！Claude跳出框架。 / Did we just become best friends?! Claude stepping out the box.</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1qe6j2b/did_we_just_become_best_friends_claude_stepping/</link>
+      <description>Claude以冷幽默强势登场。太喜欢了。由 /u/deadjobbyjabber 提交 [链接] [评论]
+
+---
+
+Original:
+Claude comes out strong with the dry humour. Love it. submitted by /u/deadjobbyjabber [link] [comments]</description>
+      <guid isPermaLink="false">reddit-claudeai::t3_1qe6j2b</guid>
+      <pubDate>Fri, 16 Jan 2026 04:42:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

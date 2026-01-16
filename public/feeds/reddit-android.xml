@@ -6,7 +6,7 @@
     <description>Auto translated feed for reddit_android (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 04:52:09 +0000</lastBuildDate>
     <item>
       <title>Nothing Phone广告因严厉批评将部分撤下 / Nothing Phone ads to disappear following harsh criticism, at least partially</title>
       <link>https://www.reddit.com/r/Android/comments/1q8moe0/nothing_phone_ads_to_disappear_following_harsh/</link>
@@ -810,6 +810,30 @@ Original:
 submitted by /u/FragmentedChicken [link] [comments]</description>
       <guid isPermaLink="false">reddit-android::t3_1qdxlnq</guid>
       <pubDate>Thu, 15 Jan 2026 22:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carl Pei（裴宇）：为何你的下一部手机会更贵 / Carl Pei: Why Your Next Smartphone Will Cost More</title>
+      <link>https://www.reddit.com/r/Android/comments/1qe6edf/carl_pei_why_your_next_smartphone_will_cost_more/</link>
+      <description>由 /u/FragmentedChicken 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FragmentedChicken [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qe6edf</guid>
+      <pubDate>Fri, 16 Jan 2026 04:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini 推出个人智能功能 / Gemini introduces Personal Intelligence</title>
+      <link>https://www.reddit.com/r/Android/comments/1qe6f4i/gemini_introduces_personal_intelligence/</link>
+      <description>由 /u/FragmentedChicken 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/FragmentedChicken [link] [comments]</description>
+      <guid isPermaLink="false">reddit-android::t3_1qe6f4i</guid>
+      <pubDate>Fri, 16 Jan 2026 04:37:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

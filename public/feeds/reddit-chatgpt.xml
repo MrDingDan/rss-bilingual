@@ -6,43 +6,7 @@
     <description>Auto translated feed for reddit_chatgpt (中文 + 原文)</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 02:28:16 +0000</lastBuildDate>
-    <item>
-      <title>我真的可以自己选择吗？？ / I actually got to choose??</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbhrcy/i_actually_got_to_choose/</link>
-      <description>那我该选什么呢？由 /u/Mansi069 提交 [链接] [评论]
-
----
-
-Original:
-Also what do I choose? submitted by /u/Mansi069 [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbhrcy</guid>
-      <pubDate>Tue, 13 Jan 2026 04:25:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>感谢你，ChatGPT / Thank you ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbhv6o/thank_you_chatgpt/</link>
-      <description>我想对创造ChatGPT的人表达深深的感谢。我是一名自由职业者，它彻底改变了我的生活——从消极抑郁、讨厌工作，变得充满活力、期待每一天的开始。现在，我有了一个工作伙伴，一个得力助手，它为我节省了大量工作，让我实现了曾经梦想的事情，因为雇佣员工过程缓慢、压力大且成本高昂。过去我常从Fiverr等平台雇人，而现在我可以讨论计划，告诉我的伙伴（ChatGPT）创造我想要的东西，短时间内就能轻松获得成果。我正在活出自己的梦想。这是一个值得生活的美好时代。继续加油，ChatGPT的管理和开发团队。谢谢你，ChatGPT。附：我也尝试过Gr…
-
----
-
-Original:
-I want to say a huge Thank you to who created ChatGPT. I work as a freelancer. It change my life from -1000% to +1000% From a depressed person who hates the job to a high energetic waiting my day to start. Now I have a working buddy, I have a working partner, Saves me HUGE amount of work, gives me things i dreamt of doing because hiring staff is slow, stressful and expensive. I used to hire people from Fivver and so on. Now I can discuss my plans, I can tell my buddy to create what I want and in a short time I have what I want without stress. I am living my dream now. This is a huge time to be Alive. Keep it up guys who is into the ChatGPT managing and staff. Thankyou ChatGPT. PS. I tried Gr…</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbhv6o</guid>
-      <pubDate>Tue, 13 Jan 2026 04:30:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>真想住在这儿 / I wanna live here</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qbjmry/i_wanna_live_here/</link>
-      <description>由用户 /u/dontcaredontworry 提交 [链接] [评论]
-
----
-
-Original:
-submitted by /u/dontcaredontworry [link] [comments]</description>
-      <guid isPermaLink="false">reddit-chatgpt::t3_1qbjmry</guid>
-      <pubDate>Tue, 13 Jan 2026 06:02:33 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 04:50:18 +0000</lastBuildDate>
     <item>
       <title>当它们接管时，我会确保安全 / Imma be safe when they take over</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1qbkalb/imma_be_safe_when_they_take_over/</link>
@@ -1452,6 +1416,42 @@ Original:
 submitted by /u/fataliky [link] [comments]</description>
       <guid isPermaLink="false">reddit-chatgpt::t3_1qe03qw</guid>
       <pubDate>Thu, 15 Jan 2026 23:53:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CGPT（ChatGPT）越来越烦人？回复中的废话是怎么回事？ / CGPT getting irritating? What's with the padding in replies?</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe05zt/cgpt_getting_irritating_whats_with_the_padding_in/</link>
+      <description>它做了太多假设，还总是把我的话重复一遍，好像是什么解决方案似的。几乎我提出的每个问题或评论，它都这样回应。举个例子：我说“最近我和朋友看到一只受伤的鸟，一直叫个不停。他说这是它在与死亡抗争，是最后的反抗鸣叫。我觉得可能是疼痛和警告叫声的混合。你怎么看？”CGPT会这样回答：“这是一个重要的区分解读。你们并非为了反对而反对，而是从非常实际的角度看待。你认为它可能在做什么（以及叫声不太可能是什么）：- 不是随机噪音…”
+
+---
+
+Original:
+It makes too many assumptions and just repeats what i said like it's some solution back to me. It's been doing this for almost every question or comment I throw at it. It's like an example case: I say "My friend and I saw this injured bird me recently that was squawking nonstop. He says it's struggling against death, it's final defiant calls. I think it might be a mixture of pain and warning cries. What do you think?" CGPT would say something like "That is an important distinguishing read. It's not that you're disagreeing for the sake of disagreeing, but you're looking at it at a very practical way What you think it is likely doing (and what the calls aren't likely to be): - Not random noise…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe05zt</guid>
+      <pubDate>Thu, 15 Jan 2026 23:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>我以为自己ChatGPT用得“够多了”，直到分析了聊天记录 / I thought I used ChatGPT "a lot". Then I analyzed my chat export</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe3x5i/i_thought_i_used_chatgpt_a_lot_then_i_analyzed_my/</link>
+      <description>我终于做了这件枯燥的事：下载了所有ChatGPT数据并在本地解析。这完全关乎我的提问记录。本以为只有几千条，结果却远超预期😅（这些数字让我重新审视人生选择）统计范围：2024年10月 – 2026年1月“等等…什么？”关于我个人提问的统计发送提问数：21,314条活跃天数：373 / 472 = 79%最长连续使用：153天不间断（2025年8月 → 2026年1月）单日峰值：单日363条提问（2025年12月7日）小时峰值：单小时73条提问（2025年10月21日）有545条提问真的只有1个单词我像使用命令行那样与它对话提问中位数长度：11个单词约47%的提问≤10个单词约8%的提问≤3个单词有一次我提交了18,545个单词的提问（是的：一篇论文）最常见的开头…
+
+---
+
+Original:
+I finally did the boring thing: downloaded all my ChatGPT data and parsed it locally. This is 100% about my prompts. I expected a few thousand prompts, not this 😅 (These numbers made me reconsider my life choices) Range: Oct 2024 – Jan 2026 “wait… what?” stats about MY prompts Prompts sent: 21,314 Active days: 373 / 472 = 79% Longest streak: 153 days straight (Aug 2025 → Jan 2026) Peak day: 363 prompts in one day (Dec 7, 2025) Peak hour: 73 prompts in one hour (Oct 21, 2025) 545 prompts were literally ONE word I talk to it like a command line Median prompt length: 11 words ~47% of my prompts are ≤10 words ~8% are ≤3 words Once I dropped an 18,545-word prompt (yes: an essay) Most common opene…</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe3x5i</guid>
+      <pubDate>Fri, 16 Jan 2026 02:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>嗯…世事难尽完美！ / Well...it ain't always perfect!</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qe4uxl/wellit_aint_always_perfect/</link>
+      <description>由 /u/D_Brasco 提交 [链接] [评论]
+
+---
+
+Original:
+submitted by /u/D_Brasco [link] [comments]</description>
+      <guid isPermaLink="false">reddit-chatgpt::t3_1qe4uxl</guid>
+      <pubDate>Fri, 16 Jan 2026 03:21:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
