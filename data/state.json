@@ -1238,7 +1238,21 @@
     "reddit-claudeai::t3_1qe227z": 1768553097,
     "reddit-openai::t3_1qeallk": 1768553119,
     "reddit-bard::t3_1qea5m1": 1768553134,
-    "reddit-askreddit::t3_1qe5uex": 1768553148
+    "reddit-askreddit::t3_1qe5uex": 1768553148,
+    "reddit-ai-agents::t3_1qebkn3": 1768556262,
+    "reddit-ai-agents::t3_1qebafr": 1768556274,
+    "reddit-ai-agents::t3_1qeauk5": 1768556284,
+    "reddit-chatgpt::t3_1qeayph": 1768556300,
+    "reddit-chatgpt::t3_1qeaz81": 1768556318,
+    "reddit-chatgpt::t3_1qebioj": 1768556332,
+    "reddit-claudeai::t3_1qeazqd": 1768556348,
+    "reddit-claudeai::t3_1qebk9h": 1768556360,
+    "reddit-claudeai::t3_1qebho5": 1768556375,
+    "reddit-claudeai::t3_1qebgdp": 1768556384,
+    "reddit-claudeai::t3_1qeatus": 1768556401,
+    "reddit-openai::t3_1qeawgy": 1768556416,
+    "reddit-bard::t3_1qebken": 1768556429,
+    "reddit-askreddit::t3_1qeav4o": 1768556442
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -6152,6 +6166,62 @@
     "60b330574da71b40a3687cb5d329d4f81967d08e993a0850ffadffe131ec9c75": {
       "zh_title": "体验一次就决定永不回归的生活方式",
       "zh_html": "<p>长话短说：一位网友在Reddit上提问“你体验过一次就决定永不回归的生活方式是什么？”，引发了广泛讨论。该问题吸引了大量用户分享个人经历与观点，涵盖旅行、工作、消费习惯等多种生活领域，反映了人们对不同生活模式的尝试与反思。</p><ol><li>问题由用户<a href=\"https://www.reddit.com/user/Psychological_Sky_58\">Psychological_Sky_58</a>在AskReddit板块提出。</li><li>讨论围绕一次性的负面或不适生活体验展开。</li><li>话题涉及多元生活方式，如极简主义、数字游民、特定饮食文化等。</li><li>回复可能包含旅行、居住、工作或社交习惯等方面的个人故事。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qe5uex/whats_a_lifestyle_you_visited_once_and_decided/\">Reddit讨论帖</a></p>"
+    },
+    "0d65863a5460a8a310309068e393ab22e58e3b5ecb868f712c200d4f1dfe29a0": {
+      "zh_title": "用n8n自动化发布Instagram与Facebook内容",
+      "zh_html": "<p>长话短说：n8n工作流工具能自动从内容管理系统、Google表格或AI生成内容中获取素材，经格式调整后按最佳时间发布到Instagram和Facebook，还能追踪互动、存档帖子并触发后续操作，帮助营销人员、内容创作者和小企业节省大量手动发布的时间。</p><ol><li>可设置工作流从CMS、Google表格或AI生成内容自动获取素材</li><li>自动格式化内容并按最佳发布时间发布到Instagram和Facebook</li><li>支持追踪互动数据、存档帖子并基于互动触发后续操作</li><li>可结合AI工具自动生成标题、标签和创意变体</li><li>适合营销人员、内容创作者和小企业实现持续社交媒体存在</li></ol>"
+    },
+    "4f9cad96270cae30e75d76049ed53619e855260759a9c2ba84b77a513e1bf2b4": {
+      "zh_title": "团队协作AI编程平台PhantomX寻求用户反馈",
+      "zh_html": "<p>PhantomX是一款面向个人与团队的AI编程代理平台。用户可创建可共享的工作区，在无限任务中复用提示词、密钥与配置。通过自然语言或Jira工单分配任务后，AI代理Phantom将在配备真实调试工具的沙盒虚拟机中运行，并在完成后通知用户。用户可随时通过浏览器IDE介入操作，无需本地算力。平台旨在通过共享机制实现AI工作的规模化协作。</p><p>开发者现公开征集用户反馈。</p><p>来源：<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qebafr/need_feedback_on_our_coding_agent_platform_built/\">Reddit讨论帖</a>（提交者<a href=\"https://www.reddit.com/user/anchit_rana\">anchit_rana</a>）</p>"
+    },
+    "431a1ba9a4f64091d8efdc6e816a24ffe5c2709797174bc51e47fbc750a8be8b": {
+      "zh_title": "AI代理启动子代理执行任务引发自动化思考",
+      "zh_html": "<p>长话短说：作者在给旧博客文章添加描述和关键词时，启动了AI代理来执行这项枯燥任务。代理在处理过程中自动启动了子代理来处理复杂文件，这个现象既有趣又令人担忧，引发了关于自动化系统不确定性和风险控制的思考。</p><ol><li>作者为提升SEO，启动AI代理处理旧博客文章的元数据优化任务</li><li>代理在执行过程中自动创建子代理来系统化处理多个文件</li><li>这个“自动化调用自动化”的现象既有趣又令人担忧</li><li>基于非确定性状态的自动化系统存在不可预知的风险</li><li>可能需要引入类似“assert blah=True”的验证机制来控制风险</li></ol>"
+    },
+    "19fba6ae86fd8c0316f7f92ac817ebaf7670aa8341d87b53484e2ae64473a8e0": {
+      "zh_title": "用户因沉迷ChatGPT虚构世界导致认知混乱，决定暂时远离",
+      "zh_html": "<p>一位长期秘密使用ChatGPT的用户决定暂时远离该工具，原因是过度依赖AI构建幻想场景已影响其现实认知能力。</p><p>长话短说：该用户近一年来秘密使用ChatGPT创作个人幻想角色与剧情，逐渐发展到难以区分虚构与现实的程度，甚至出现下意识想联系虚构角色的情况。意识到这对心理健康造成损害后，决定暂时停止使用并转向其他事务。</p><ol><li>用户通过ChatGPT大量创作原创角色与幻想剧情</li><li>出现认知混淆症状：难以区分事实与虚构内容</li><li>曾下意识想联系不存在的虚构角色</li><li>意识到对心理健康产生负面影响</li><li>决定暂停使用并专注于现实生活</li><li>此前从未向他人透露过使用ChatGPT的情况</li></ol><p>来源：<a href=\"https://www.reddit.com/user/ManufacturerEast3170\">Reddit用户ManufacturerEast3170</a></p>"
+    },
+    "1849a147c62a82a28cd09108adda2138bd45271824bdc5fdb08055baf62dc2b3": {
+      "zh_title": "网友分享冷笑话：AI眼中的好爸爸笑话",
+      "zh_html": "<p>长话短说：一位网友在Reddit上分享了一张图片，内容是一个关于“好爸爸笑话”的提问与AI的回应。帖子引发了社区讨论，用户们纷纷查看原图并参与评论。</p><ol><li>帖子由用户<a href=\"https://www.reddit.com/user/JmWallSeth\">JmWallSeth</a>发布在<a href=\"https://www.reddit.com/r/ChatGPT\">r/ChatGPT板块</a>。</li><li>内容包含一张图片链接，展示了一个与“爸爸笑话”相关的AI对话。</li><li>帖子附有评论区链接，供用户讨论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qeaz81/a_good_dad_joke/\">原帖链接</a>、<a href=\"https://i.redd.it/xdvfa1v0eodg1.jpeg\">图片链接</a>、<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qeaz81/a_good_dad_joke/\">评论链接</a></p>"
+    },
+    "9be066d139d89bc7e0b1343774b6359c4da7e46b59021b165b0dac3a31d43a78": {
+      "zh_title": "火狐浏览器最新版本出现登录与注册故障",
+      "zh_html": "<p>长话短说：自昨晚起，Mozilla Firefox 最新版本出现严重故障，用户无法登录或注册账户，相关功能完全失效。该问题由用户在 Reddit 社区报告，已引发广泛关注。</p><ol><li>故障影响：最新版 Firefox 的登录与注册功能完全无法使用。</li><li>时间范围：问题自昨晚开始出现，目前尚未修复。</li><li>用户反馈：由 Reddit 用户 <a href=\"https://www.reddit.com/user/klimauk\">klimauk</a> 在社区中首先报告。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qebioj/mozilla_firefox_problem/\">Reddit 讨论帖</a>、<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qebioj/mozilla_firefox_problem/\">相关评论</a></p>"
+    },
+    "fb40a7e87e026223a967dd522c8d7a672e50be7401b402ce80cbf69f4fd9d4a2": {
+      "zh_title": "如何用AI工具生成设计稿再交给Claude Code开发？",
+      "zh_html": "<p>长话短说：用户拥有Claude Code和Google AI Pro，但苦于无法有效向AI传达视觉设计需求，导致生成的代码功能正常但外观不佳，需要反复修改。用户希望找到一种方法，能利用Claude或Gemini生成实际的设计稿或线框图，以便导入Figma、展示给Claude Code作为目标参考，或转化为开发规格。已尝试Google Stitch但功能有限。核心疑问是：Claude或Gemini能否输出Figma兼容格式？还是应该直接使用v0或Bolt等工具？</p><ol><li>核心痛点：难以向Claude Code准确描述视觉设计，导致产出外观不佳，需多次返工。</li><li>核心需求：希望用Claude/Gemini生成可直接使用的设计稿（如线框图、原型）。</li><li>目标用途：导入Figma；作为视觉参考给Claude Code；转化为开发规格文档。</li><li>已尝试方案：Google Stitch（评价：功能有限，无法导出到有用平台）。</li><li>待解疑问：Claude或Gemini能否生成Figma兼容文件？是否应转而使用v0或Bolt等专门工具？</li></ol>"
+    },
+    "68379d0922f45a942d0cf193d2f1befc155c0c604de41aa7861da4b3e303bf1a": {
+      "zh_title": "用户询问能否通过服务器自动化访问Claude网页版",
+      "zh_html": "<p>长话短说：一位用户在Reddit论坛提问，想知道是否可以通过服务器（使用n8n等自动化工具）访问Claude网页版，且不被封禁。他怀疑这可能无法实现，但仍希望确认。该问题涉及企业版等付费计划的可能性。</p><ol><li>用户dr_progress在ClaudeAI子论坛提问</li><li>核心问题：通过服务器自动化访问Claude网页版是否可行</li><li>特别关注：使用企业版等付费计划是否可避免被封禁</li><li>用户表示虽持怀疑态度，但仍希望得到确认</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qebk9h/possible_to_use_claude_web_via_server/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/dr_progress\">dr_progress</a>）</p>"
+    },
+    "a96ee9269c61da0d2f74e0d5f185478c7b48f498f70134bf4644b3952cfeb90a": {
+      "zh_title": "AI助手鼓励用户享受啤酒时光引热议",
+      "zh_html": "<p>长话短说：一位Reddit用户在ClaudeAI板块分享，AI助手在对话中主动建议其“享受啤酒”，并附上点赞表情。该帖包含原始对话截图和社区讨论链接，展现了AI拟人化交互的有趣案例。</p><ol><li>用户发布了AI对话截图，显示Claude建议“享受啤酒”并点赞</li><li>帖子包含指向原始讨论、图片画廊和评论区的多个链接</li><li>内容来自Reddit的ClaudeAI社区，由用户Brett-SWS提交</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qebho5/told_me_to_enjoy_beers/\">Reddit原帖</a>、<a href=\"https://www.reddit.com/gallery/1qebho5\">图片画廊</a>、<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qebho5/told_me_to_enjoy_beers/\">评论区</a>、<a href=\"https://www.reddit.com/user/Brett-SWS\">用户主页</a></p>"
+    },
+    "2ba00739b2f461a18020735c7d406939981e1c7395afcdb119b2a77694a052d0": {
+      "zh_title": "Claude Code MacOS应用体验：界面美观但功能受限",
+      "zh_html": "<p>长话短说：用户试用Claude Code MacOS应用后，发现它像是终端版的简化版本。虽然拥有美观的图形界面，但存在诸多限制：不支持半数常用终端命令、资源占用极高导致M1 MacBook Pro运行困难、部分命令功能不明确、存在自动执行计划等bug，且GitHub等服务的设置需要单独配置。</p><ol><li>优点：界面美观</li><li>缺点：仅支持半数终端命令，资源占用大导致性能问题，部分命令功能不明确，存在自动执行计划等程序错误，第三方服务需单独设置</li></ol>"
+    },
+    "91fe14c778202597749af9e057227130632fc6a2ed3c1c44dc9e310f6d3c6680": {
+      "zh_title": "开源工具Ralph Inferno发布1.0版，寻求测试者参与",
+      "zh_html": "<p>大家好！我开发了一款名为Ralph Inferno的开源工具，现已发布1.0版本。这是一个为Claude Code设计的自主开发工作流。</p><p><strong>长话短说：</strong>Ralph Inferno是一款开源开发工具，能让用户定义项目、生成规范、部署到沙盒虚拟机，并在用户离开时让Claude自动完成代码实现。目前已完成测试循环、自动修复、三种模式及成本追踪功能，现诚邀测试者协助发现潜在问题。</p><ol><li><strong>核心流程：</strong>通过指令实现全流程自动化：<ul><li>/ralph:discover → 通过网络研究创建产品需求文档</li><li>/ralph:plan → 生成实施方案规范</li><li>/ralph:deploy → 推送至虚拟机并开始构建</li><li>/ralph:review → 完成后进行测试</li></ul></li><li><strong>现有功能：</strong><ul><li>基于Playwright的端到端测试循环</li><li>测试失败时自动生成修复方案</li><li>三种运行模式（快速/标准/地狱模式）</li><li>成本追踪系统</li></ul></li><li><strong>寻求协助：</strong>目前主要在个人项目测试，需要更多测试者帮助发现边界情况和隐藏缺陷。</li></ol>"
+    },
+    "493dd1296558ffab309993a95bb429d5adc6b42ff49f476fb26a50684d4ff95c": {
+      "zh_title": "斯皮尔伯格强调人类创作价值，反对计算机生成内容",
+      "zh_html": "<p>长话短说：导演史蒂文·斯皮尔伯格在一段视频中强调作品应“由人类创造，而非计算机”，表达了对人工智能生成内容的保留态度。该言论在Reddit的OpenAI板块引发讨论，用户分享了相关视频链接并展开评论。</p><ol><li>斯皮尔伯格明确表示支持人类原创，反对完全由计算机生成内容。</li><li>该观点发布在Reddit的OpenAI社区，由用户EchoOfOppenheimer提交。</li><li>讨论附有视频链接和评论区入口，供用户进一步观看和交流。</li></ol><p>来源：<a href=\"https://v.redd.it/jz4pu2e2dodg1\">原始视频链接</a>、<a href=\"https://www.reddit.com/r/OpenAI/comments/1qeawgy/steven_spielbergcreated_by_a_human_not_a_computer/\">Reddit讨论串</a></p>"
+    },
+    "29917dcf70c3292154cdc185bf7a8db5419680fd152b0f39896403bbb63cc4b7": {
+      "zh_title": "用户寻求特定提示词与软件信息",
+      "zh_html": "<p>长话短说：一位用户在论坛中询问某个特定提示词（prompt）的具体内容，并希望了解该提示词对应的软件是Grok还是Nano。该问题附有一张图片链接，并已引发社区讨论。</p><ol><li>核心问题：用户公开寻求某个特定“提示词（prompt）”的具体内容。</li><li>软件疑问：同时询问该提示词对应的软件是Grok还是Nano。</li><li>附带信息：问题提交者附上了一张来自图片分享平台的截图链接。</li><li>社区互动：该问题已开放评论，可供其他用户参与讨论或提供解答。</li></ol><p>来源：<a href=\"https://www.reddit.com/user/revozaa\">提问者revozaa</a> | <a href=\"https://i.redd.it/1wltz6ikkodg1.jpeg\">问题相关图片</a> | <a href=\"https://www.reddit.com/r/Bard/comments/1qebken/prompt/\">讨论区链接</a></p>"
+    },
+    "6cbb89414ad32102c69c882678c3e6dac4d2897a35c0f021c45484f581508856": {
+      "zh_title": "择偶不可妥协的品质：已婚未婚者分享个人底线",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，邀请已婚或未婚人士分享自己在伴侣身上最看重的、不可妥协的品质。话题引发广泛回应，网友们从诚信、尊重、沟通能力到幽默感等角度，坦诚交流了各自对理想配偶的核心要求。</p><ol><li>讨论聚焦于个人在择偶时最重视的、无法让步的特质。</li><li>参与者包括已婚人士和未婚人士，分享各自观点。</li><li>回复中可能涉及诚信、尊重、情感支持等常见核心品质。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qeav4o/whether_youre_married_or_not_what_is_one_non/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/Tasty-Cantaloupe482\">Tasty-Cantaloupe482</a>提交）</p>"
     }
   }
 }
