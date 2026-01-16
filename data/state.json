@@ -1226,7 +1226,14 @@
     "reddit-askreddit::t3_1qe37qj": 1768546319,
     "reddit-askreddit::t3_1qe64sh": 1768546326,
     "reddit-askreddit::t3_1qe84am": 1768546330,
-    "reddit-android::t3_1qe7xtn": 1768546335
+    "reddit-android::t3_1qe7xtn": 1768546335,
+    "reddit-ai-agents::t3_1qe9qp0": 1768549739,
+    "reddit-ai-agents::t3_1qe9l58": 1768549753,
+    "reddit-chatgpt::t3_1qe7c9l": 1768549769,
+    "reddit-claudeai::t3_1qe9i6x": 1768549782,
+    "reddit-claudeai::t3_1qe3du2": 1768549795,
+    "reddit-openai::t3_1qe91fj": 1768549818,
+    "reddit-askreddit::t3_1qe8vpv": 1768549835
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -6092,6 +6099,34 @@
     "f17e85899d5a7a775bfad7b12eff391ed9fb36003d2d40018f79ac0c29c032c3": {
       "zh_title": "如果安卓明天就淘汰小部件，我也不会怀念它们",
       "zh_summary": "由 /u/BcuzRacecar 提交 [链接] [评论]"
+    },
+    "bec620a84a54063a27cf9dda8409047abe528e31ce9b0d6a497bcad9dd535d17": {
+      "zh_title": "企业级智能浏览器应用兴起，运行时安全护栏成焦点",
+      "zh_html": "<p>智能浏览器正从试点快速转向真实企业工作负载，其自主性带来了数据保护、访问控制和操作可靠性方面的严重风险。</p><p>长话短说：随着智能浏览器在企业中承担更多实际工作，其自主操作能力引发了数据安全、权限管控和运行可靠性的担忧。安全负责人需关注如何在运行时实施有效的安全护栏，确保最小权限访问、实时监控和上下文感知控制。</p><ol><li>当智能体接入SaaS应用、内部工具或浏览器工作流时，如何实施最小权限访问控制？</li><li>在生产环境中，哪些运行时控制机制能有效拦截未授权操作、数据泄露或策略违规？</li><li>安全护栏是否具备上下文感知能力（用户、设备、会话、数据分类），还是主要局限于模型层面？</li><li>当智能体跨多个工具和环境操作时，如何进行审计、监控和行为溯源？</li></ol><p>来源：<a href=\"https://www.redd…\">Reddit讨论</a></p>"
+    },
+    "d4f8f43d784be43bde228b1b87b430e6cdc72fbe6418c745e0ff12a5fe6938f8": {
+      "zh_title": "放弃AI浏览器，用Cursor打造你的专属研究助手",
+      "zh_html": "<p>在尝试了多款AI浏览器后，我发现Atlas最合心意，但仍感觉其“代理”能力和深度研究功能有所欠缺。</p><p>本周Anthropic推出了Claude Code的Cowork功能，加上Amjad在推文中讨论编程助手正成为微软Copilot应有的样子，我决定用Cursor打造自己的“简易版Cowork”。</p><p>长话短说：我使用Cursor的Opus 4.5代理进行潜在客户开发，它自动打开Chrome标签页并登录Twitter、LinkedIn和Clay等平台，展示了将AI助手与浏览器功能结合的研究潜力。</p><ol><li>AI浏览器普遍存在代理能力和深度研究功能不足的问题</li><li>Anthropic新推出的Cowork功能引发对编程助手发展的思考</li><li>Cursor内置的浏览器功能可被巧妙利用来构建个性化研究工具</li><li>通过Opus 4.5代理实现跨平台自动登录和数据处理</li></ol>"
+    },
+    "27080482bd465e2036db61f2e5ec7d7dc3893729a7733ef67bebc7d4c47d046d": {
+      "zh_title": "暴躁版童话朗读：全程嘶吼与脏话的儿童故事",
+      "zh_html": "<p>长话短说：一位Reddit用户要求ChatGPT用全程嘶吼和夹杂大量脏话的方式朗读一个儿童故事，并将生成的暴躁版音频分享了出来。内容警告：音频中含有大量粗俗语言。</p><ol><li>用户“TokiSharki”在Reddit的ChatGPT板块发布了一个特殊请求的成果。</li><li>他让AI用“大喊大叫并全程骂人”的风格来朗读一个儿童故事。</li><li>生成的音频被发布在视频分享平台，链接附在帖子中。</li><li>帖子明确给出了内容警告（CW），提示含有大量脏话。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qe7c9l/read_me_a_childrens_story_but_yell_and_swear_the/\">原讨论帖</a>、<a href=\"https://v.redd.it/9keny78jcndg1\">暴躁版故事音频</a>、<a href=\"https://www.reddit.com/user/TokiSharki\">发布者主页</a></p>"
+    },
+    "81a38a68b094db8367fa5a46d41eb7540dcc6107d0c6e13e25b50839d5963383": {
+      "zh_title": "AI时代，我的计算机学位是否白读了？",
+      "zh_html": "<p>上周，我目睹Claude Code在10分钟内构建了一个全栈应用，而同样的任务我需要两天。四年的大学教育，AI瞬间就能掌握。</p><p>“初级职位，要求3-5年经验。”这曾是笑话，如今已成现实。过去招聘10名初级开发者的公司，现在只招2人。一位资深工程师借助AI，能完成五个人的工作。AI处理的所有琐碎任务，恰恰是初级工程师的日常工作，也是我们学习的方式。职业阶梯的底层正在被自动化取代。</p><p>这种现象无处不在。我从事市场营销的朋友目睹公司用Claude和ChatGPT取代了三名文案。她保住了管理AI的工作，但正在训练自己的替代者。</p><p>法律研究员、金融分析师、设计师——如今都在与AI竞争。我们曾以为认知工作是安全的，结果却并非如此。</p>"
+    },
+    "fc25146027b0478fb9f735abff20494ed80f588ae17a22b47e41be9fbce60e95": {
+      "zh_title": "Claude手机应用频繁丢失输入内容，用户反馈使用问题",
+      "zh_html": "<p>长话短说：用户反映在使用Claude iPhone应用时频繁遇到问题，主要是在输入较长提示词并开始生成回答后，若切换应用或聊天窗口，返回时新输入的内容会消失，并显示红色错误提示框。用户认为语音聊天功能优于桌面版和网页版，但此故障严重影响使用体验。</p><ol><li>用户主要使用Claude iPhone应用的语音聊天功能，认为其体验远超桌面版和网页版。</li><li>故障现象：输入长提示词并看到回答开始生成后，若切换应用或聊天窗口，返回时新提示词会完全消失。</li><li>界面顶部会显示红色小错误提示框，内容为“我们遇到了问题”。</li><li>用户表示此问题发生频率很高，并询问其他用户是否遇到类似情况。</li></ol>"
+    },
+    "26138db1139d4837419a5b175c20e488bc2d78f7920533eb6179c618d53d9910": {
+      "zh_title": "用户反映GPT突然无法生成PDF文件",
+      "zh_html": "<p>近日，有用户发现GPT模型突然无法生成PDF文件，即使联系官方支持也未获得明确确认。</p><p>长话短说：一位用户在Reddit社区发帖称，之前GPT能正常生成PDF，但现在该功能似乎失效，且官方支持也未明确回应此问题。帖子附有截图，引发了其他用户的讨论。</p><ol><li>用户“CheesecakePlane8818”在<a href=\"https://www.reddit.com/r/OpenAI/comments/1qe91fj/gpt_not_generating_pdf_anymore/\">OpenAI版块发帖</a>反映问题</li><li>此前GPT曾多次成功生成PDF，目前功能疑似中断</li><li>官方支持未明确确认该功能状态</li><li>帖子包含<a href=\"https://i.redd.it/6j6aoe01tndg1.jpeg\">问题截图</a>和<a href=\"https://www.reddit.com/r/OpenAI/comments/1qe91fj/gpt_not_generating_pdf_anymore/\">讨论链接</a></li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qe91fj/gpt_not_generating_pdf_anymore/\">Reddit讨论帖</a>（发帖人：<a href=\"https://www.reddit.com/user/CheesecakePlane8818\">CheesecakePlane8818</a>）</p>"
+    },
+    "4bca1ea4dd0fcf19a239f574a64fdd6d543b877f8f2edd5449f2367121b40906": {
+      "zh_title": "那些曾被误认为是爱的情感，其实是什么？",
+      "zh_html": "<p>长话短说：Reddit用户分享了自己曾将某些情感或关系误认为是爱情的经历。这些“误认”往往源于对陪伴、习惯、拯救欲或自我投射的混淆，而非真正的爱。许多人是在事后反思或经历成长后才意识到这一点。</p><ol><li>将强烈的陪伴需求或害怕孤独误认为是爱。</li><li>把习惯性的依赖或舒适感当成了爱情。</li><li>错把“拯救他人”的欲望或同情心视为爱。</li><li>将对理想关系的投射或自我验证的需要混淆为爱。</li><li>在成长或经历新关系后，才回头看清当初的误判。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qe8vpv/what_did_you_mistake_for_love_that_actually_wasnt/\">Reddit讨论串</a>（由用户<a href=\"https://www.reddit.com/user/whateveryouwant2000\">whateveryouwant2000</a>提交）</p>"
     }
   }
 }
