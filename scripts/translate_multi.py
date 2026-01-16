@@ -8,6 +8,8 @@ import requests
 import feedparser
 
 STATE_PATH = "data/state.json"
+USAGE_HISTORY_PATH = "data/usage_history.json"
+
 OUT_DIR = "public"
 FEEDS_DIR = os.path.join(OUT_DIR, "feeds")
 ALL_PATH = os.path.join(OUT_DIR, "all.xml")
@@ -28,7 +30,7 @@ REQUEST_TIMEOUT = int(os.environ.get("REQUEST_TIMEOUT", "30"))
 
 UA = os.environ.get(
     "HTTP_USER_AGENT",
-    "Mozilla/5.0 (compatible; rss-bilingual-bot/1.0; +https://github.com/)"
+    "Mozilla/5.0 (compatible; rss-zh-bot/1.0; +https://github.com/)"
 )
 
 # rsshub:// 简写别名
@@ -36,9 +38,10 @@ RSSHUB_ALIAS = {
     "hackernews": "hn/newest",
 }
 
-# -----------------------
-# State
-# -----------------------
+# ---- token usage & pricing (DeepSeek V3.2 default: in 2 RMB / 1M, out 3 RMB / 1M) ----
+USAGE = {"prompt": 0, "completion": 0, "total": 0}
+PRICE_IN_PER_M = float(os.environ.get("PRICE_IN_PER_M", "2"))
+PRICE_OUT_PER_M = float(os.environ.get("PRICE_OUT_PER_M", "3"))
 
 def load_state():
     if os.path.exists(STATE_PATH):
@@ -51,9 +54,19 @@ def save_state(state):
     with open(STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
-# -----------------------
-# Text helpers
-# -----------------------
+def load_usage_history():
+    if os.path.exists(USAGE_HISTORY_PATH):
+        try:
+            with open(USAGE_HISTORY_PATH, "r", encoding="utf-8") as f:
+                return json.load(f) or []
+        except Exception:
+            return []
+    return []
+
+def save_usage_history(hist):
+    os.makedirs(os.path.dirname(USAGE_HISTORY_PATH), exist_ok=True)
+    with open(USAGE_HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(hist, f, ensure_ascii=False, indent=2)
 
 def strip_html(text: str) -> str:
     """
@@ -144,10 +157,6 @@ def parse_feed_lines(raw: str):
         else:
             yield None, line
 
-# -----------------------
-# Fetch feed
-# -----------------------
-
 def fetch_feed(url: str):
     r = requests.get(url, headers={"User-Agent": UA}, timeout=REQUEST_TIMEOUT)
     r.raise_for_status()
@@ -174,10 +183,6 @@ def parse_time(entry) -> datetime:
                 pass
     return datetime.now(timezone.utc)
 
-# -----------------------
-# LLM call (OpenAI-compatible variants)
-# -----------------------
-
 def chat_completions_urls(base: str) -> list[str]:
     base = (base or "").rstrip("/")
     urls = []
@@ -203,7 +208,7 @@ def call_llm(prompt: str) -> str:
         "model": AI_MODEL,
         "temperature": 0.2,
         "messages": [
-            {"role": "system", "content": "你是一个高质量RSS中文摘要与改写助手。必须严格按用户要求输出JSON。"},
+            {"role": "system", "content": "你是一个高质量RSS中文摘要与改写助手。必须严格按要求输出JSON。"},
             {"role": "user", "content": prompt},
         ],
     }
@@ -217,15 +222,19 @@ def call_llm(prompt: str) -> str:
                 continue
             resp.raise_for_status()
             data = resp.json()
+
+            # usage 统计（如果服务端不返回 usage，这里会累加 0）
+            u = data.get("usage") or {}
+            USAGE["prompt"] += int(u.get("prompt_tokens", 0))
+            USAGE["completion"] += int(u.get("completion_tokens", 0))
+            USAGE["total"] += int(u.get("total_tokens", 0))
+
             return data["choices"][0]["message"]["content"]
         except Exception as e:
             last_err = e
             continue
-    raise RuntimeError(f"All chat endpoints failed. Last error: {last_err}")
 
-# -----------------------
-# Translate + format to HTML
-# -----------------------
+    raise RuntimeError(f"All chat endpoints failed. Last error: {last_err}")
 
 def translate_to_zh_html(title_en: str, summary_en: str, state) -> tuple[str, str]:
     title_en = (title_en or "").strip()
@@ -267,16 +276,11 @@ def translate_to_zh_html(title_en: str, summary_en: str, state) -> tuple[str, st
         zh_title = ""
         zh_html = f"<p>{html.escape(content.strip())}</p>"
 
-    # 最小兜底：确保至少<p>包裹
     if zh_html and not re.search(r"<\s*p\b|<\s*ol\b|<\s*ul\b", zh_html, flags=re.I):
         zh_html = f"<p>{zh_html}</p>"
 
     state["translations"][cache_key] = {"zh_title": zh_title, "zh_html": zh_html}
     return zh_title, zh_html
-
-# -----------------------
-# Read existing items (prefer content:encoded)
-# -----------------------
 
 def read_existing_items(path: str):
     if not os.path.exists(path):
@@ -298,10 +302,6 @@ def read_existing_items(path: str):
             "published": parse_time(e),
         })
     return items
-
-# -----------------------
-# Write RSS with CDATA + content:encoded (avoid "一坨")
-# -----------------------
 
 def _cdata(s: str) -> str:
     s = (s or "").replace("]]>", "]]]]><![CDATA[>")
@@ -330,7 +330,6 @@ def write_feed(path: str, title: str, desc: str, items: list[dict]):
         link = it.get("link", "")
         html_fragment = it.get("html", "") or ""
 
-        # 永远补一个“原文链接”
         if link:
             html_fragment += f"<p><a href='{_esc(link)}'>原文链接</a></p>"
 
@@ -348,9 +347,36 @@ def write_feed(path: str, title: str, desc: str, items: list[dict]):
     with open(path, "w", encoding="utf-8") as f:
         f.write("".join(rss))
 
-# -----------------------
-# Main
-# -----------------------
+def write_cost_summary(total_new: int):
+    cost_rmb = (USAGE["prompt"] / 1_000_000) * PRICE_IN_PER_M + (USAGE["completion"] / 1_000_000) * PRICE_OUT_PER_M
+
+    print(f"[COST] prompt={USAGE['prompt']} completion={USAGE['completion']} total={USAGE['total']} RMB≈{cost_rmb:.4f}")
+
+    # Actions Summary
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_path:
+        with open(summary_path, "a", encoding="utf-8") as f:
+            f.write("\n## 本次API用量与费用估算\n")
+            f.write(f"- 本次新增条目（翻译/改写）：{total_new}\n")
+            f.write(f"- prompt_tokens: {USAGE['prompt']}\n")
+            f.write(f"- completion_tokens: {USAGE['completion']}\n")
+            f.write(f"- total_tokens: {USAGE['total']}\n")
+            f.write(f"- 估算费用（RMB）: {cost_rmb:.4f}（输入{PRICE_IN_PER_M}/1M，输出{PRICE_OUT_PER_M}/1M）\n")
+
+    # history json
+    hist = load_usage_history()
+    hist.append({
+        "ts_utc": datetime.now(timezone.utc).isoformat(),
+        "new_items": total_new,
+        "prompt_tokens": USAGE["prompt"],
+        "completion_tokens": USAGE["completion"],
+        "total_tokens": USAGE["total"],
+        "price_in_per_m": PRICE_IN_PER_M,
+        "price_out_per_m": PRICE_OUT_PER_M,
+        "cost_rmb_est": round(cost_rmb, 6),
+    })
+    hist = hist[-500:]
+    save_usage_history(hist)
 
 def main():
     if not FEED_URLS_RAW:
@@ -394,7 +420,6 @@ def main():
 
             title_en = (getattr(e, "title", "") or "").strip()
             summary_raw = getattr(e, "summary", "") or getattr(e, "description", "") or ""
-            # 输入适当截断，控费
             summary_en = clip(strip_html(summary_raw), 800)
 
             link = (getattr(e, "link", "") or "").strip()
@@ -432,7 +457,6 @@ def main():
         )
         print(f"[OK] {f['name']}: new={len(new_items)} -> {out_path}")
 
-    # 聚合 all.xml：标题加来源前缀
     existing_all = read_existing_items(ALL_PATH)
     for it in all_new_items:
         it["title"] = f"[{it['source']}] {it['title']}"
@@ -448,7 +472,6 @@ def main():
         items=final_all,
     )
 
-    # index.html
     os.makedirs(OUT_DIR, exist_ok=True)
     rows = []
     for f in feeds:
@@ -466,6 +489,7 @@ def main():
         w.write(index)
 
     save_state(state)
+    write_cost_summary(total_new)
     print(f"[DONE] total_new={total_new} all={ALL_PATH}")
 
 if __name__ == "__main__":
