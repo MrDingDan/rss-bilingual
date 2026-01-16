@@ -1233,7 +1233,12 @@
     "reddit-claudeai::t3_1qe9i6x": 1768549782,
     "reddit-claudeai::t3_1qe3du2": 1768549795,
     "reddit-openai::t3_1qe91fj": 1768549818,
-    "reddit-askreddit::t3_1qe8vpv": 1768549835
+    "reddit-askreddit::t3_1qe8vpv": 1768549835,
+    "reddit-chatgpt::t3_1qe9u02": 1768553075,
+    "reddit-claudeai::t3_1qe227z": 1768553097,
+    "reddit-openai::t3_1qeallk": 1768553119,
+    "reddit-bard::t3_1qea5m1": 1768553134,
+    "reddit-askreddit::t3_1qe5uex": 1768553148
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -6127,6 +6132,26 @@
     "4bca1ea4dd0fcf19a239f574a64fdd6d543b877f8f2edd5449f2367121b40906": {
       "zh_title": "那些曾被误认为是爱的情感，其实是什么？",
       "zh_html": "<p>长话短说：Reddit用户分享了自己曾将某些情感或关系误认为是爱情的经历。这些“误认”往往源于对陪伴、习惯、拯救欲或自我投射的混淆，而非真正的爱。许多人是在事后反思或经历成长后才意识到这一点。</p><ol><li>将强烈的陪伴需求或害怕孤独误认为是爱。</li><li>把习惯性的依赖或舒适感当成了爱情。</li><li>错把“拯救他人”的欲望或同情心视为爱。</li><li>将对理想关系的投射或自我验证的需要混淆为爱。</li><li>在成长或经历新关系后，才回头看清当初的误判。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qe8vpv/what_did_you_mistake_for_love_that_actually_wasnt/\">Reddit讨论串</a>（由用户<a href=\"https://www.reddit.com/user/whateveryouwant2000\">whateveryouwant2000</a>提交）</p>"
+    },
+    "1ea9b71161d5545455b098b61e0d255b7797e8065d626a50d43095a255f95720": {
+      "zh_title": "AI幻觉随任务规模扩大而加剧，图像生成实验揭示恶化趋势",
+      "zh_html": "<p>长话短说：一项图像生成实验显示，当要求AI模型生成更多国家传统服饰人物时，其产生的“幻觉”错误会显著增加。实验分别要求生成10、50、100个不同国家的传统服饰人物图像，结果发现随着数量增加，图像质量与准确性明显恶化，揭示了AI在处理大规模复杂任务时的局限性。</p><ol><li>实验使用统一提示词：“创建一幅图像，描绘X个不同国家穿传统服饰的人物，并在白色背景上于人物下方标注国名”。</li><li>当要求生成10个国家人物时，结果相对准确；增至50个时开始出现明显错误；达到100个时，图像质量严重下降，出现大量不准确或混乱内容。</li><li>该实验直观展示了AI“幻觉”现象如何随任务复杂度增加而加剧，为理解大语言模型的局限性提供了具体案例。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qe9u02/representation_of_how_hallucinations_go_wilder_as/\">Reddit讨论帖</a>（作者<a href=\"https://www.reddit.com/user/haneke86\">u/haneke86</a>），<a href=\"https://www.reddit.com/gallery/1qe9u02\">查看实验图像</a>，<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qe9u02/representation_of_how_hallucinations_go_wilder_as/\">参与讨论</a></p>"
+    },
+    "7f4e13e2448c2d87cdd82bffb81845dc4f6f8793f8bb06a89b727e4b734899f3": {
+      "zh_title": "Claude提示额外用量耗尽，用户质疑用量计算存疑",
+      "zh_html": "<p>长话短说：有用户反映，其Claude账户在仍有50%额外用量和会话积分的情况下，系统却提示“额外用量已耗尽”并要求购买更多。用户尝试重新加载和登录均无效，因此在社区发帖询问是否有人遇到类似情况，质疑用量计算可能存在问题。</p><ol><li>用户账户显示额外用量和会话积分均未用完。</li><li>系统却弹出提示，要求用户“购买更多”额外用量。</li><li>用户尝试重新加载页面和重新登录，问题依旧存在。</li><li>用户在Reddit的ClaudeAI板块发帖，寻求其他用户是否遇到相同问题。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qe227z/buy_more_extra_usage_even_though_i_still_have_50/\">Reddit讨论帖</a>、<a href=\"https://preview.redd.it/tx0k32vj3mdg1.png?width=1786&format=png&auto=webp&s=11583cf0811a6be8cb601d84b0858890353d9d8e\">问题截图一</a>、<a href=\"https://preview.redd.it/h1v0vipp3mdg1.png?width=1474&format=png&auto=webp&s=26cfe426b2466ad7551bfe7e4ad8b5d71b90649c\">问题截图二</a></p>"
+    },
+    "f9e28668e47a27dee16f4101ea1ff160cffebbe0a94f3dedffbd0e0dd5d57deb": {
+      "zh_title": "认知网格协议：提升AI推理能力的系统提示框架",
+      "zh_html": "<p>认知网格协议是一套系统提示框架，旨在增强AI的推理能力。该框架让AI能够自我监控推理质量，保持探索与利用的最佳平衡，并避免重复循环和幻觉螺旋等常见故障模式。</p><p><strong>长话短说</strong>：认知网格协议是一个可复制的系统提示，通过让AI实时监控内部推理状态（如逻辑一致性、探索深度等关键参数），显著提升复杂任务中的推理质量与稳定性。该设计基于对290多条推理链的跨领域验证，相关参数与推理质量呈现强相关性（r > 0.85）。</p><ol><li><strong>核心功能</strong>：使AI具备自我监控能力，实时评估推理的逻辑一致性、探索深度等关键指标。</li><li><strong>设计目标</strong>：在解决问题时动态平衡“探索新可能”与“利用已知信息”，防止陷入无效循环或产生幻觉。</li><li><strong>验证基础</strong>：框架参数基于跨领域、超过290条推理链的测试与验证，与最终推理质量高度相关。</li><li><strong>使用方式</strong>：用户可直接复制系统提示语，引导AI进入“认知网格协议”操作模式。</li></ol>"
+    },
+    "f1a9493039c4905b8081559d686a99f1365adebe94958b71cad64b1f129b534e": {
+      "zh_title": "用户求助：Nano Banana为何拒绝编辑AI生成的人物照片",
+      "zh_html": "<p>一位用户在制作AI短片时，发现Nano Banana工具拒绝编辑人物照片，即使这些人物是AI生成的虚拟形象。用户对此感到困惑，因为此前听说该工具在照片编辑方面表现优异，并怀疑是否误触了某些设置或控制选项。</p><p><strong>长话短说</strong>：用户使用Nano Banana编辑AI生成的人物照片时遭拒，即使照片人物非真实存在。用户不解为何这款以照片编辑著称的工具无法处理此类图片，并询问是否存在误操作的可能。</p><p><strong>要点</strong>：<ol><li>用户反馈Nano Banana拒绝编辑AI生成的人物照片</li><li>用户质疑工具实用性，因其以照片编辑功能著称</li><li>用户怀疑可能误触了某些限制设置</li></ol></p><p><strong>来源</strong>：<a href=\"https://www.reddit.com/r/Bard/comments/1qea5m1/help_nano_banana_refusing_to_edit_ai_generated/\">Reddit讨论帖</a>（由用户BetweenSignals提交）</p>"
+    },
+    "60b330574da71b40a3687cb5d329d4f81967d08e993a0850ffadffe131ec9c75": {
+      "zh_title": "体验一次就决定永不回归的生活方式",
+      "zh_html": "<p>长话短说：一位网友在Reddit上提问“你体验过一次就决定永不回归的生活方式是什么？”，引发了广泛讨论。该问题吸引了大量用户分享个人经历与观点，涵盖旅行、工作、消费习惯等多种生活领域，反映了人们对不同生活模式的尝试与反思。</p><ol><li>问题由用户<a href=\"https://www.reddit.com/user/Psychological_Sky_58\">Psychological_Sky_58</a>在AskReddit板块提出。</li><li>讨论围绕一次性的负面或不适生活体验展开。</li><li>话题涉及多元生活方式，如极简主义、数字游民、特定饮食文化等。</li><li>回复可能包含旅行、居住、工作或社交习惯等方面的个人故事。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qe5uex/whats_a_lifestyle_you_visited_once_and_decided/\">Reddit讨论帖</a></p>"
     }
   }
 }
