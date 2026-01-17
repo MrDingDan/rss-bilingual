@@ -1469,7 +1469,27 @@
     "reddit-tasker::t3_1qfhtwm": 1768685807,
     "reddit-tasker::t3_1qfjund": 1768685821,
     "reddit-tasker::t3_1qfh2sg": 1768685832,
-    "reddit-tasker::t3_1qf6zsn": 1768685846
+    "reddit-tasker::t3_1qf6zsn": 1768685846,
+    "reddit-chatgpt::t3_1qfpajb": 1768686319,
+    "reddit-claudeai::t3_1qfiww5": 1768686331,
+    "reddit-openai::t3_1qffd8k": 1768686350,
+    "reddit-askreddit::t3_1qfn3gu": 1768686370,
+    "reddit-askreddit::t3_1qet2l9": 1768686382,
+    "reddit-askreddit::t3_1qfnqb4": 1768686394,
+    "reddit-android::t3_1qegah4": 1768686416,
+    "reddit-tasker::t3_1qet2gw": 1768686430,
+    "reddit-tasker::t3_1qep2ur": 1768686443,
+    "reddit-tasker::t3_1qenmft": 1768686458,
+    "reddit-tasker::t3_1qetqyj": 1768686470,
+    "xgo-931d6e88::2012608415126650996": 1768686481,
+    "xgo-931d6e88::2012608054542356532": 1768686493,
+    "xgo-931d6e88::2012583082516254992": 1768686506,
+    "xgo-931d6e88::2012582501454414130": 1768686522,
+    "xgo-931d6e88::2012258911458308107": 1768686530,
+    "xgo-931d6e88::2012253642263249167": 1768686542,
+    "xgo-f299207d::2012340549974475163": 1768686557,
+    "xgo-f299207d::2012340184403034146": 1768686565,
+    "xgo-63316630::2012271373507510329": 1768686579
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -7307,6 +7327,86 @@
     "bad0c9de803168b02a3da025cdfda372cf2e764d81fe5232ce6dab6c931b625e": {
       "zh_title": "求助：Android Auto车机音量自动调节方案",
       "zh_html": "<p>长话短说：用户发现Android Auto导航和Google助理音量会自动降低，需手动调整车机系统内的“铃声音量”才能恢复。用户希望用Tasker实现自动化操作，但从未用过Tasker，寻求设置指导。</p><ol><li>问题：车机系统会莫名降低Android Auto导航和Google助理的音量。</li><li>临时解决方法：进入车机（非原厂系统）的“声音设置”，调整“铃声音量”滑块（任意方向），即可恢复正常。</li><li>设置界面：共有“媒体音量”、“闹钟音量”和“铃声音量”三个滑块。</li><li>需求：询问是否能用Tasker自动化执行上述调节操作。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/tasker/comments/1qf6zsn/help_with_android_auto_headunit_volume/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/dimibak\">dimibak</a>）</p>"
+    },
+    "4eafdd56052193d2e2e23033a2400838b6afe3c6c93a4ad5fee4960c246eb04f": {
+      "zh_title": "ChatGPT将引入广告，免费用户将看到相关内容推广",
+      "zh_html": "<p>长话短说：OpenAI首席执行官Sam Altman表示，ChatGPT将引入广告，免费用户将看到相关内容推广。这一消息在Reddit社区引发讨论，用户分享了相关截图和评论。</p><ol><li>OpenAI计划在ChatGPT中引入广告。</li><li>免费用户将看到相关内容推广。</li><li>消息来源为Reddit社区讨论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfpajb/ads_coming_into_chatgpt/\">Reddit讨论帖</a>、<a href=\"https://i.redd.it/8jhjkpkp8zdg1.jpeg\">相关截图</a>、<a href=\"https://www.reddit.com/user/armchairtycoon\">用户armchairtycoon</a></p>"
+    },
+    "051a651ea478c70dfb6e32dee5802c05f6f24718d5767270afc64c861cee85d2": {
+      "zh_title": "如何组织工作流：从技能与代理到流程定义",
+      "zh_html": "<p>在掌握技能和代理之后，如何组织工作流成为关键问题。例如，构建一个端到端的工作流程：设计文档生成→人工审核→计划创建→人工审核→任务创建→并行实施→PR创建→人工审核→合并，并循环执行。</p><p>这些步骤可以分解为技能：创建设计文档、创建计划、生成任务、创建PR；以及代理：编码代理（知道如何编写代码并使用创建PR技能）。</p><p>但工作流本身在哪里定义？目前，工作流逻辑分散在各个技能中（例如，创建设计文档知道下一步应调用创建计划，而创建计划知道应先调用创建设计文档）。这导致技能之间紧密耦合，而它们本应是独立的。</p>"
+    },
+    "45ab91ada914a7583931bc309fab4cc45ccdc12a4022ca07e103bd14f38bcda4": {
+      "zh_title": "用户投诉账户删除功能失效，六个月无法注销个人资料",
+      "zh_html": "<p>长话短说：一名用户反映，自己尝试删除账户已超过六个月，但每次操作都遇到相同的错误提示。用户出于对互联网环境负担和数据泛滥的担忧，希望停止使用服务，却疑似遭遇系统故意阻拦。该用户呼吁其他网友分享类似经历和解决方案。</p><ol><li>用户持续六个月无法成功删除账户，每次尝试均显示错误。</li><li>用户因环境与数据隐私顾虑，希望停止贡献个人数据。</li><li>用户怀疑平台可能存在故意阻止注销的行为。</li><li>发帖者征集其他用户的类似遭遇与应对方法。</li></ol><p>来源：<a href=\"https://www.reddit.com/user/RandomWeebuwu69_LoL\">发帖者 /u/RandomWeebuwu69_LoL</a>，<a href=\"https://www.reddit.com/r/OpenAI/comments/1qffd8k/profile_deletions_are_impossible/\">原文链接</a>，<a href=\"https://www.reddit.com/r/OpenAI/comments/1qffd8k/profile_deletions_are_impossible/\">评论链接</a></p>"
+    },
+    "8bc137bec44494ea38616cc6ad581787ac24baa80ab50236df38ad4964673be0": {
+      "zh_title": "网友分享飙车极限速度，最高时速惊人",
+      "zh_html": "<p>长话短说：在Reddit的“AskReddit”板块，网友发起讨论“你在车里开过的最快速度是多少？”，吸引了众多用户分享自己的飙车经历。从高速公路上的超速到赛道上的极限驾驶，回答五花八门，展现了不同的驾驶文化和冒险故事。</p><ol><li>讨论由用户<a href=\"https://www.reddit.com/user/mrmadebymemories\">mrmadebymemories</a>发起，主题围绕个人在汽车中达到的最高速度。</li><li>帖子链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfn3gu/what_is_the_fastest_you_have_gone_in_a_car/\">原帖</a>，评论区：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfn3gu/what_is_the_fastest_you_have_gone_in_a_car/\">评论</a>。</li><li>用户们分享了从日常超速到专业赛道测试的各种经历，引发了对速度、安全和驾驶文化的热议。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfn3gu/what_is_the_fastest_you_have_gone_in_a_car/\">Reddit讨论帖</a></p>"
+    },
+    "02c4717792f2568a21c51b06dd2615ac726fa238f211260aabc5aaa3fb159a34": {
+      "zh_title": "坚持锻炼后，身体最明显的变化是什么？",
+      "zh_html": "<p>长话短说：Reddit用户分享开始规律锻炼后最显著的积极变化，包括精力提升、睡眠改善、情绪稳定和身体机能增强。许多人都提到，运动带来的心理益处和日常活力提升最为明显。</p><ol><li>精力更充沛，白天不易疲劳</li><li>睡眠质量显著改善，入睡更快</li><li>情绪更稳定，焦虑和压力感降低</li><li>身体力量和耐力明显提升</li><li>整体自信心和生活满足感增强</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qet2l9/people_who_started_exercising_regulary_what_were/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/Haunted_darkness63\">Haunted_darkness63</a>发起）</p>"
+    },
+    "481e8a8d9fa0c2234b87d33839f79e3ced53716f03ab6c756da17eaac40df61c": {
+      "zh_title": "众人皆爱我却无感的事物有哪些？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问有哪些事物是大多数人喜爱但自己却完全无感的。该话题引发网友热烈回应，分享各自与众不同的好恶观。</p><ol><li>用户<a href=\"https://www.reddit.com/user/Old-Research-3310\">Old-Research-3310</a>在AskReddit板块发起提问</li><li>讨论主题：普遍受欢迎但个人反感的事物</li><li>帖子已获得大量互动评论</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfnqb4/what_is_something_most_people_love_but_you_dont/\">Reddit原帖</a></p>"
+    },
+    "9c0c17f29b3a309125365925dbb2c4a4b0cf78cee193bf49ec37f06ed4ff1fb5": {
+      "zh_title": "三星手机与Win11电脑文件夹同步方案求助",
+      "zh_html": "<p>长话短说：用户寻求一款安卓应用，用于将三星手机的DCIM相册文件夹与Windows 11电脑的“Photos”文件夹直接同步，希望避开云服务，并实现连接家庭WiFi时自动同步。用户已购买FolderSync Pro但卡在配置环节。</p><ol><li>核心需求：三星手机与Windows 11笔记本间的文件夹双向同步</li><li>重点同步：手机DCIM相册文件夹 ↔ 电脑“Photos”文件夹</li><li>关键要求：无需云服务，直接通过家庭网络同步</li><li>理想功能：手机连接家庭WiFi时自动触发同步</li><li>当前困境：已购FolderSync Pro应用，但配置时因云服务选项过多而受阻</li></ol><p>来源：<a href=\"https://www.reddit.com/user/Limp_Oil_458\">Reddit用户Limp_Oil_458</a>发布于<a href=\"https://www.reddit.com/r/Android/comments/1qegah4/sync_folders_between_samsung_galaxy_a\">Android板块讨论串</a></p>"
+    },
+    "6b9d70a26328810bc8131d825e0f905fe9b8c3f7186f0ba3c2aea8f08cdfa7f9": {
+      "zh_title": "Tasker反复请求ADB WiFi权限，Shizuku检测正常",
+      "zh_html": "<p>长话短说：用户在使用Tasker时，即使通过CheckShizuku()检测显示Shizuku可用（%can_shizuku_be_used返回true），Tasker仍反复请求ADB WiFi权限，而其他应用无此问题。用户已安装Shizuku分支版本，寻求解决方案。</p><ol><li>核心问题：Tasker在Shizuku服务可用的情况下，仍不断要求ADB WiFi权限。</li><li>环境状态：CheckShizuku()函数检测通过，%can_shizuku_be_used变量为真。</li><li>对比情况：其他应用可正常使用Shizuku，无权限请求问题。</li><li>已知条件：用户已安装Shizuku分支版本。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/tasker/comments/1qet2gw/tasker_keeps_asking_for_adb_wifi/\">Reddit原帖讨论</a> | <a href=\"https://www.reddit.com/user/AutomatedTask\">作者AutomatedTask</a></p>"
+    },
+    "911a93b51e9d520856f7f6878fa6ed61d5dfdd053c38789b214187f4722eeefb": {
+      "zh_title": "任务配置关键区别：活动与服务选择需谨慎",
+      "zh_html": "<p>长话短说：用户在配置自动化应用时发现，选择应用作为触发器时，“活动”与“服务”选项存在重要区别，需谨慎选择。同时涉及“反转”和“全部”选项的差异。用户希望找到相关功能的官方说明文档。</p><ol><li>配置应用触发器时，注意区分“活动”与“服务”选项</li><li>同时留意“反转”和“全部”选项的差异</li><li>用户呼吁提供官方文档说明这些区别</li></ol><p>来源：<a href=\"https://www.reddit.com/user/mmediaman2\">u/mmediaman2</a> 发布于 <a href=\"https://www.reddit.com/r/tasker/comments/1qep2ur/apparent_important_distinction/\">Reddit讨论帖</a></p>"
+    },
+    "270eca3505ce8c8ceba786380e7066cc559418efd666aae45d7b12cd47a28ace": {
+      "zh_title": "求助：如何让Tasker在未充电时自动关闭平板电脑",
+      "zh_html": "<p>一位用户在Reddit的Tasker板块求助，希望实现当平板电脑未检测到电源时自动关机。该设备已获取Root权限，但用户不清楚如何设置Tasker任务来实现这一功能。</p><p><strong>长话短说</strong>：用户希望利用Tasker实现平板电脑在未充电时自动关机，适用于车载场景。设备已Root，但需要具体的Tasker任务配置指导。</p><ol><li>使用场景：车载平板，希望在未充电时自动关机以节省电量或保护设备。</li><li>当前状态：设备已获取Root权限，具备执行关机命令的系统权限。</li><li>核心需求：在Tasker中创建条件触发任务，当电源断开时执行关机命令。</li><li>求助内容：需要具体的Tasker任务配置步骤或示例。</li></ol><p><strong>来源</strong>：<a href=\"https://www.reddit.com/r/tasker/comments/1qenmft/shutdown_if_not_charging/\">Reddit原帖</a>（作者：<a href=\"https://www.reddit.com/user/DecayedMint\">DecayedMint</a>）</p>"
+    },
+    "cded31b6a207488709c0b445c1b10d65a90dba2d4a8c73569e292abbbd2a52b9": {
+      "zh_title": "无需账户浏览Instagram并下载内容：开源隐私工具SpyBroski发布",
+      "zh_html": "<p>长话短说：开发者分享了一款名为SpyBroski的网页工具，旨在让用户无需登录即可匿名浏览Instagram等社交平台内容，避免留下访问痕迹。该工具完全开源且无需注册，支持查看动态、下载高清视频、追踪关注变化等功能，最初为个人隐私需求开发，现已向社区开放。</p><ol><li>匿名查看Instagram动态（不会出现在对方查看列表中）</li><li>下载Instagram短视频和帖子的高清版本</li><li>匿名查看并下载Snapchat动态</li><li>下载无水印的TikTok视频</li><li>无需账户浏览X（原Twitter）个人资料</li><li>关注/取关追踪功能</li></ol><p>来源：<a href=\"http://spybroski.com\">SpyBroski工具官网</a></p>"
+    },
+    "c59aec837ad5e46f0b2844de2bfb73455842f2108e8f1c2afb282474680f3261": {
+      "zh_title": "多数文章本可缩成一条推文，是我太挑剔吗？",
+      "zh_html": "<p>长话短说：作者感叹许多网络文章内容单薄，其实用一条推文就能说清，怀疑是自己要求太高，还是普遍现象，并邀请读者分享看法。</p><ol><li>许多文章内容简短，本可压缩成一条推文</li><li>作者不确定这是个人感受还是普遍问题</li><li>公开征求读者对此现象的看法</li></ol><p>来源：<a href=\"https://xgo.ing\">xgo.ing</a></p>"
+    },
+    "cec877bed60c6ac0d0fb8f46cff93b523e3476b481aa2b202b31af5bded5f3e5": {
+      "zh_title": "奖励工程时代终结？大语言模型或开启多智能体协调新范式",
+      "zh_html": "<p>长话短说：一篇论文提出，奖励工程一直是多智能体强化学习的瓶颈，但大语言模型可能带来根本性转变——从手工设计奖励函数转向用自然语言描述目标。若语言能表达人类意图，且大语言模型能将其转化为有效奖励，奖励工程的终结可能标志着真正可扩展的多智能体协调的开始。</p><ol><li>奖励工程是多智能体强化学习中持续存在的瓶颈</li><li>论文认为大语言模型实现了从手工奖励函数到自然语言目标的根本转变</li><li>用语言描述意图可避免将人类意图转化为数字的失真和易错过程</li><li>EUREKA实验显示GPT-4仅凭语言描述就能生成达到人类水平的奖励函数</li><li>该模型生成的奖励函数性能甚至超越了人类设计的方案</li></ol>"
+    },
+    "a218cc014f75849673e5e3586c5491db77b3f7a78cec29bdf899d4886b53dec8": {
+      "zh_title": "研究者推出ralph-research插件，可端到端实现论文并复现结果",
+      "zh_html": "<p>长话短说：研究者elvis（@omarsar0）宣布推出ralph-research插件，该工具已能端到端实现AI论文概念并运行自改进循环实验。他表示将继续优化，但当前版本已非常强大，目标是复现论文结果，这对研究者而言更令人兴奋。</p><ol><li>该插件基于ralph-loop开发，专门用于实现论文</li><li>整个插件由Claude Code一次性生成，但已能编码AI论文概念</li><li>可在自改进循环中运行实验，效果令人惊叹</li><li>研究者将继续实验和改进该工具</li></ol><p>来源：<a href=\"https://x.com/omarsar0/status/2010359146927763804\">原始推文</a>、<a href=\"https://x.com/omarsar0/status/2010359146927763804/video/1\">视频链接</a></p>"
+    },
+    "833901d02f84886805369591298cbb2cfadd4435e97a46d93696df337e5d8b8a": {
+      "zh_title": "Ralph Research推出进度监控仪表盘，可视化追踪代码实验",
+      "zh_html": "<p>Ralph Research现已推出进度监控仪表盘。在Claude Code内部运行ralph-research循环时，现在可以可视化追踪代码实现和实验过程。</p><p>Claude Code的钩子功能非常出色！目前正在构建一个控制中心，用于协调和扩展实验规模。</p><p><strong>长话短说</strong>：Ralph Research新推出可视化仪表盘，让开发者能在Claude Code环境中实时监控ralph-research循环的代码实现与实验进展。该工具利用Claude Code的钩子功能，并计划进一步构建实验控制中心以提升实验协调与扩展能力。</p><ol><li>Ralph Research推出全新进度监控仪表盘</li><li>可在Claude Code中可视化追踪代码实现与实验过程</li><li>Claude Code钩子功能受到开发者好评</li><li>正在构建控制中心以协调和扩展实验规模</li></ol><p>来源：<a href=\"https://x.com/omarsar0/status/2012582501454414130/video/1\">Twitter视频链接</a> | <a href=\"https://xgo.ing\">xgo.ing</a></p>"
+    },
+    "96c42f324fa95dd388f71cc92380774968a50cf0419431ae46eefbe5651e100e": {
+      "zh_title": "无需自建工具，掌握智能体运作核心同样关键",
+      "zh_html": "<p>即使你不构建自己的软件或编排工具，也能深入了解让智能体工作需要什么。我认为，经过一些配置，Claude Code已经足够好用，所以现在开始并不晚。</p><p>但Cowork让工作场景中的编排智能体更易上手，而且目前表现已相当不错。</p><p>作为研究者和开发者，我过去几个月一直在构建自己的编排器，以便自由选用模型、构建可广泛复用的技能、适配各种智能体框架和工作流。这种个性化定制，正是保持前沿竞争力所应追求的方向。</p>"
+    },
+    "d3d506c711b790f1df7fcbed78bcd73d81f54fc83220eb6e267ec52033cd0d70": {
+      "zh_title": "构建理想AI协作者成趋势 Anthropic Cowork预示智能体编排工具新浪潮",
+      "zh_html": "<p>长话短说：随着Anthropic推出Cowork等工具，构建个性化AI协作者正成为新趋势。未来重点在于创建直观界面来交互、管理和编排智能体，提升人机协作效率。从工作到创业，非技术人员也能通过技能和插件构建强大应用，关键在于对领域有深刻理解。</p><ol><li>Anthropic的Cowork标志着智能体编排工具新浪潮的到来</li><li>核心不仅是简化Claude Code使用，更是构建直观的人机交互界面</li><li>人机通信方式在各领域都存在创新空间</li><li>借助技能和插件，非技术人员也能构建强大的智能体应用</li><li>成功关键在于对特定领域有良好的品味和理解</li></ol>"
+    },
+    "115f17cd639ffbaedbb70e047fa48c348e082e8587943296814a65ead94414b7": {
+      "zh_title": "品牌博客创作利器：LangChain智能助手精准记忆品牌声线",
+      "zh_html": "<p>长话短说：用户ReidBKimball分享使用LangChain的AgentBuilder工具后，每天早晨6点自动收到一篇符合其品牌声线的优质博客草稿，极大提升了其Meadow Mentor项目的营销效率。该工具特别强调对品牌声线的记忆能力，确保内容风格一致。</p><ol><li>LangChain的AgentBuilder能自动生成符合特定品牌声线的博客内容。</li><li>用户设定后，工具每天早晨6点准时推送草稿。</li><li>生成的内容质量优秀，有效助力营销工作。</li><li>用户使用了Gemini 3模型。</li></ol><p>来源：<a href=\"https://x.com/ReidBKimball/status/2012204576057762157\">ReidBKimball的推文</a>、<a href=\"https://x.com/LangChain\">LangChain官方账号</a>、<a href=\"https://xgo.ing\">xgo.ing</a></p>"
+    },
+    "8eba7bc72118d26c3f26a1340b554d5dfe00ac0d2d1919d27d466582f3b837bb": {
+      "zh_title": "swyx称赞是最高赞誉，肯定langchain文章质量",
+      "zh_html": "<p>swyx对langchain相关文章的撰写质量给予了高度评价，称其“写得很好”。</p><p>来源：<a href=\"https://x.com/hwchase17/status/2011814697889316930\">相关推文</a>、<a href=\"https://x.com/swyx/status/2012337482222952742\">引用推文</a>、<a href=\"https://xgo.ing\">xgo.ing</a></p>"
+    },
+    "6a4ce6a11aa2689994f3e913ea41fd15550b20bb91852ff0bb21a9976716d040": {
+      "zh_title": "AI生成假新闻图片引争议，风投公司宣传配图被指张冠李戴",
+      "zh_html": "<p>长话短说：有评论指出，某知名风投公司在宣传其新150亿美元基金时，配图使用了AI生成的假新闻图片，引发争议。该图片与文章主题不符，被质疑为张冠李戴，反映了该公司近年来的品牌设计选择问题。</p><ol><li>评论者指出，风投公司在强调美国重要性的博客文章中，配图却使用了珠穆朗玛峰的图片。</li><li>该图片被证实为AI生成，属于假新闻图片。</li><li>这一选择被视为该公司近年来品牌视觉设计决策的典型体现。</li></ol><p>来源：<a href=\"https://x.com/gerstenzang/status/2009626465013465095\">相关推文</a>、<a href=\"https://xgo.ing\">xgo.ing</a></p>"
     }
   }
 }
