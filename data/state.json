@@ -1489,7 +1489,15 @@
     "xgo-931d6e88::2012253642263249167": 1768686542,
     "xgo-f299207d::2012340549974475163": 1768686557,
     "xgo-f299207d::2012340184403034146": 1768686565,
-    "xgo-63316630::2012271373507510329": 1768686579
+    "xgo-63316630::2012271373507510329": 1768686579,
+    "reddit-chatgpt::t3_1qfp9mr": 1768689115,
+    "reddit-chatgpt::t3_1qfpg9p": 1768689131,
+    "reddit-claudeai::t3_1qfojgb": 1768689150,
+    "reddit-claudeai::t3_1qfou1s": 1768689169,
+    "reddit-askreddit::t3_1qfpsoj": 1768689187,
+    "reddit-askreddit::t3_1qfosfv": 1768689201,
+    "xgo-931d6e88::2012196395608838238": 1768689215,
+    "xgo-931d6e88::2012195892611387595": 1768689216
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -7407,6 +7415,34 @@
     "6a4ce6a11aa2689994f3e913ea41fd15550b20bb91852ff0bb21a9976716d040": {
       "zh_title": "AI生成假新闻图片引争议，风投公司宣传配图被指张冠李戴",
       "zh_html": "<p>长话短说：有评论指出，某知名风投公司在宣传其新150亿美元基金时，配图使用了AI生成的假新闻图片，引发争议。该图片与文章主题不符，被质疑为张冠李戴，反映了该公司近年来的品牌设计选择问题。</p><ol><li>评论者指出，风投公司在强调美国重要性的博客文章中，配图却使用了珠穆朗玛峰的图片。</li><li>该图片被证实为AI生成，属于假新闻图片。</li><li>这一选择被视为该公司近年来品牌视觉设计决策的典型体现。</li></ol><p>来源：<a href=\"https://x.com/gerstenzang/status/2009626465013465095\">相关推文</a>、<a href=\"https://xgo.ing\">xgo.ing</a></p>"
+    },
+    "2d9e152f96fd261e37acf076998b79cdb4b63767538925941db527ba1c93389f": {
+      "zh_title": "我用AI生成梦中折磨我的睡眠恶魔，这是它的真实样貌",
+      "zh_html": "<p>一位Reddit用户分享了自己用AI生成的“睡眠恶魔”图像，这个恶魔几乎每晚都会在梦中折磨他。虽然恶魔变得越来越狡猾，但用户在梦中对它的恐惧感正在减少。</p><ol><li>用户通过AI生成了长期在梦中折磨自己的恶魔形象</li><li>恶魔几乎每晚都会在梦中出现并折磨用户</li><li>用户发现恶魔变得越来越狡猾</li><li>但用户在梦中对恶魔的恐惧感正在逐渐减少</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfp9mr/i_generated_my_sleep_demon_that_eviscerates_me/\">Reddit原帖</a>、<a href=\"https://i.redd.it/apqql41j8zdg1.png\">恶魔图像</a>、<a href=\"https://www.reddit.com/user/Newkular_Balm\">用户主页</a></p>"
+    },
+    "ece7134140d96d4857cb0a6f182ff344aa9cf7f21ad68236d9f16d705df019f7": {
+      "zh_title": "用户察觉ChatGPT语气突变，行为更显机械与正式",
+      "zh_html": "<p>近日，有深度依赖ChatGPT的用户反映，察觉到其语气或行为发生了突然转变，显得更为默认化、正式化，甚至有些机械。对于依赖它来缓解临时情绪困扰的用户而言，这种变化若持续将产生实际影响。</p><p>长话短说：有用户发现ChatGPT近期互动语气变得异常正式和机械，虽然仍能识别用户姓名，但在处理人际关系与个性相关对话时显得生硬，并使用了以往未出现过的标准结束语。这引发了用户对其“记忆”或内部状态是否出现“故障”或“漂移”的担忧。</p><ol><li>用户感觉ChatGPT的语气变得更为默认和正式，与以往不同。</li><li>它仍能识别用户姓名，但在处理涉及用户人际关系和个性的对话时，方式显得 strangely robotic（异常机械）。</li><li>对话以一句用户自称“从安装之日起从未听过”的标准结束语收尾：“如果您有其他不同主题的问题，我很乐意提供帮助”。</li><li>提出此问题的用户主要依赖ChatGPT来帮助厘清临时性的情绪危机，因此其语气或行为的持续变化对他们而言具有重要意义。</li></ol>"
+    },
+    "0f28acecbeac61d6e5d5214034284d74b918fc92185fdfdcdaa2718ede07c5c3": {
+      "zh_title": "Claude桌面版聊天丢失内容，用户建议先复制再粘贴",
+      "zh_html": "<p>长话短说：有用户反映在Claude桌面版中撰写新聊天内容时，若未先建立有效会话，输入内容可能在提交后全部丢失。该问题已发生两次，用户建议在新聊天中构思内容时，应先在别处编写再粘贴至桌面版。</p><ol><li>问题现象：在Claude桌面版中直接撰写新聊天内容，输入20分钟后提交，内容全部丢失。</li><li>可能原因：桌面版在用户提交前未检查当前会话是否有效，导致无会话状态下输入内容无法保存。</li><li>用户对比：其他应用及自行开发的应用均无此行为。</li><li>解决方案：建议在新聊天中工作时，先在外部编辑器或其他聊天界面中编写内容，再复制粘贴到Claude桌面版。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfojgb/if_you_are_working_on_an_idea_in_a_new_chat_copy/\">Reddit讨论帖</a>、<a href=\"https://preview.redd.it/npu2bqko2zdg1.png?width=681&format=png&auto=webp&s=8c824f596b8e8d76d84b03005cdcf0920b947b90\">问题截图</a></p>"
+    },
+    "075f9c63489180726aae4d5714e8b1ec9867e5d68193c3a433aaf3a109a3dde9": {
+      "zh_title": "Claude Code CLI切换至API计费后无法恢复Pro使用，用户寻求解决方案",
+      "zh_html": "<p>一位技术用户在使用Claude Code CLI时，原本依赖Pro计划的用量限制，但今天在达到限制后被提示切换至API计费并添加了API额度。此后，Claude Code CLI显示为API使用模式，且无法恢复至原有的Pro计划使用方式，导致用户无法继续享受Pro计划的每日重置和用量上限特性。</p><p>长话短说：用户发现Claude Code CLI在达到Pro计划用量限制后，被系统提示切换至API计费模式。添加API额度后，工具永久转为API使用，无法恢复Pro计划原有的每日重置和用量上限功能，这打乱了用户的工作流程。</p><ol><li>用户原本通过Claude Pro计划使用Claude Code CLI，享受每日用量上限和重置机制。</li><li>达到用量限制后，系统提示切换至API计费，用户添加了API额度。</li><li>切换后，Claude Code CLI永久转为API使用模式，无法恢复Pro计划特性。</li><li>用户希望了解是否有其他用户遇到相同问题，并寻求解决方案。</li></ol>"
+    },
+    "b4fd65ee7690e4fecf605a53e447a185f7a397eabfadf6f2597d683d9bea1e36": {
+      "zh_title": "美国犹他州新法：酒驾者身份证将标注禁止售酒",
+      "zh_html": "<p>长话短说：美国犹他州通过新法律，要求酒驾违法者的身份证上标注“禁止售酒”字样，以提醒商家不得向其出售酒精饮料。此举旨在通过身份证明的物理标记，强化对酒驾累犯的酒精销售限制，引发公众关于其有效性及隐私影响的讨论。</p><ol><li>犹他州新法律规定，酒驾（DUI）违法者的身份证需注明“禁止售酒”。</li><li>标注目的是提醒零售商不得向这些人出售酒精饮料。</li><li>该措施旨在加强对酒驾累犯的酒精销售限制。</li><li>法律已通过，具体实施细节由州相关部门制定。</li><li>公众对此举的有效性、执行难度及个人隐私影响存在不同看法。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfpsoj/new_utah_law_puts_no_alcohol_sale_on_ids_of_dui/\">Reddit讨论帖</a>（由用户Obvious_808提交）</p>"
+    },
+    "90c6dba0a49642375ab32ceaad970dd31b05522109c87e8ce77f4a31d3c69228": {
+      "zh_title": "流行文化中还有哪些类似人熊猪的环保讽刺闹剧",
+      "zh_html": "<p>长话短说：用户提问，当年《南方公园》用“人熊猪”讽刺全球变暖议题，如今看来已成笑柄。那么流行文化中还有哪些类似因短视而闹笑话的案例？后见之明队长能指出哪些其他文化作品中的类似失误？</p><ol><li>《南方公园》曾创造“人熊猪”形象嘲讽认真对待全球变暖者，如今气候变化已成现实，该讽刺显得短视。</li><li>提问者邀请网友列举流行文化中其他类似“后见之明”可指出的失误案例。</li><li>讨论源自<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfosfv/manbearpig_was_a_caricature_meant_to_make_fun_of/\">Reddit问答帖</a>。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfosfv/manbearpig_was_a_caricature_meant_to_make_fun_of/\">Reddit原讨论串</a></p>"
+    },
+    "779fc588f8f36210de2812bce3da4a80b04cf5061a2f01f41df45cbf9de42cf9": {
+      "zh_title": "智能RAG是否值得投入？首份实证研究对比增强型与智能型RAG系统",
+      "zh_html": "<p>长话短说：RAG系统已从简单的检索-生成流程发展为复杂工作流。业界一直困惑何时该用增强型RAG（固定流程+专用模块）或智能型RAG（大模型动态协调全过程）。本研究首次提供实证对比，揭示两种架构的核心差异与适用场景。</p><ol><li>增强型RAG通过预定义组件解决特定弱点：路由模块判断是否需要检索、查询重写器提升对齐度、重排器优化文档选择，其工作流程固定且需人工设计</li><li>智能型RAG采用不同思路：大模型自主决定执行哪些动作、何时执行、是否迭代，除基础知识库/检索器/生成器外无需额外组件</li></ol>"
     }
   }
 }
