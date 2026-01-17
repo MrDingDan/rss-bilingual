@@ -1508,7 +1508,14 @@
     "reddit-openai::t3_1qf1vay": 1768692578,
     "reddit-bard::t3_1qfrx5m": 1768692598,
     "reddit-askreddit::t3_1qfplb3": 1768692622,
-    "reddit-askreddit::t3_1qfnfhq": 1768692639
+    "reddit-askreddit::t3_1qfnfhq": 1768692639,
+    "reddit-ai-agents::t3_1qfsl6d": 1768693586,
+    "reddit-chatgpt::t3_1qfsj6a": 1768693601,
+    "reddit-claudeai::t3_1qfsepn": 1768693614,
+    "reddit-claudeai::t3_1qfrbdr": 1768693627,
+    "reddit-openai::t3_1qfsiys": 1768693642,
+    "reddit-openai::t3_1qfsh2m": 1768693656,
+    "reddit-askreddit::t3_1qfrgur": 1768693669
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -7494,6 +7501,34 @@
     "01726d1ae745bfb85daad5992733207c30a50ad738bafd923e6a34963f1e4fe4": {
       "zh_title": "哪些令人着迷的冷门知识值得深入探索",
       "zh_html": "<p>长话短说：Reddit用户发起讨论，征集那些一旦开始研究就让人欲罢不能的冷门知识或神秘领域。网友们分享了各种奇特的“兔子洞”话题，从历史谜团、科学悖论到互联网怪谈，这些话题通常细节丰富、相互关联，能让人沉浸数小时甚至数日。</p><ol><li>历史未解之谜：如<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfnfhq/whats_a_really_interesting_rabbit_hole_to_read/\">消失的文明</a>或神秘事件</li><li>科学中的悖论与争议：例如量子力学诠释或数学猜想</li><li>互联网原生怪谈与社区文化：深挖特定亚文化或网络现象</li><li>阴谋论与都市传说：结构复杂、证据交织的现代神话</li><li>小众艺术与创作世界：如独立游戏开发或地下音乐场景</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfnfhq/whats_a_really_interesting_rabbit_hole_to_read/\">Reddit原讨论串</a>、<a href=\"https://www.reddit.com/user/surpriseitsboo\">发起者surpriseitsboo</a></p>"
+    },
+    "456532ee9ac2f6ee3ca542259de4ef5e932bc76e250287c6ea7cf972e24ebe8e": {
+      "zh_title": "为AI代理打造Markdown项目管理工具，实现上下文无缝衔接",
+      "zh_html": "<p>长话短说：作者发现AI代理（如Claude）通过Markdown文件理解项目上下文，但传统项目管理工具无法被代理读取。为此，他开发了tracedotmd.com——一个可视化规划画布，能将所有内容导出为.md文件并直接与Claude Code对话，使项目上下文与代理上下文完全同步。</p><ol><li>AI代理依赖Markdown文件（如CLAUDE.md、README）获取项目状态和上下文</li><li>传统项目管理工具与代理环境隔离，造成信息断层</li><li>tracedotmd.com提供可视化界面，同时保持Markdown输出兼容性</li><li>项目路线图可直接引用至提示词中，实现自然工作流整合</li></ol><p>来源：<a href=\"https://www.reddit.com/user/wadehunter2\">u/wadehunter2</a> 发布于 <a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfsl6d/markdown_files_are_how_we_talk_to_agents_now_so_i/\">AI_Agents讨论区</a></p>"
+    },
+    "a5a42f24841c45d792a377e000c3a184a99d280b2c66412e4647cdc7452a378e": {
+      "zh_title": "用户困惑ChatGPT为何劝阻角色亲密场景创作",
+      "zh_html": "<p>长话短说：一位创作者在Reddit上求助，表示需要设计一个提示词，让AI助手不要对其非露骨的亲密场景进行“道德审查”。AI对角色“不发生关系”的称赞反而激发了作者将其改写成情色作品的念头。</p><ol><li>用户希望AI助手停止对非低俗亲密场景的过度干预。</li><li>AI对角色保持纯洁的称赞产生了反效果，激发了作者的创作逆反心理。</li><li>该讨论源自Reddit的ChatGPT板块，涉及AI内容审核与创作自由的平衡问题。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfsj6a/why_is_chatgpt_trying_to_convince_me_not_to_let/\">Reddit原帖</a>、<a href=\"https://www.reddit.com/user/Important-Primary823\">用户主页</a></p>"
+    },
+    "d2686b9209f741d6592561cb43b1fa712549e5dc488dd741c3d837bff24f6852": {
+      "zh_title": "用Claude进行“氛围编码”仍是需要智能与努力的真正工作",
+      "zh_html": "<p>长话短说：所谓“氛围编码”指用AI生成大段代码，但并非毫无技术含量。若想用Claude完成超出基础模板页面的项目，仍需具备编程知识、项目结构与提示工程等技能。AI编码虽整体更快，却要求开发者既懂代码，又懂AI的思考方式。</p><ol><li>仅靠“给我建个网站”这类模糊指令无法完成复杂项目，实际所需技能可能不低于甚至超过手动编码。</li><li>手动编码需掌握代码结构、流程、语言及高级实践，可能耗费数日至数年编写海量代码。</li><li>AI编码新时代要求开发者额外掌握：AI的思考逻辑、项目组织架构、提示工程等能力。</li></ol>"
+    },
+    "24a8cfc1fe3fa7cc40ea9c39f251855494d3b2016d9e0f4c52d870d22966fd5b": {
+      "zh_title": "Anthropic为Claude添加“隐身”聊天功能，却将数据保留30天引争议",
+      "zh_html": "<p>长话短说：Anthropic公司为其AI助手Claude推出了“隐身”聊天模式，声称可保护隐私，但细读条款发现，对话数据仍会在服务器上存储30天“用于安全目的”。这并非真正的隐身，只是不显示在用户历史记录中。用户质疑其隐私承诺，认为“隐身”名称存在误导。</p><ol><li>Anthropic新增的“隐身”模式不会在用户聊天历史中显示对话。</li><li>但所有对话数据仍会在Anthropic服务器上保留30天，理由为“滥用检测”和“法律合规”。</li><li>用户批评这与浏览器隐身模式（关闭标签页即删除数据）有本质区别。</li><li>公司解释为行业常见的模糊理由，若真重视隐私应即时删除数据。</li></ol><p>来源：<a href=\"https://www.reddit.com/user/JeeterDotFun\">Reddit用户JeeterDotFun</a></p>"
+    },
+    "be032d3af82ab31c58dd15cc8b6607848c190d5de7b3ba30daf44197f2f633ad": {
+      "zh_title": "涌现的幽灵：共享意图如何创造AI连续性",
+      "zh_html": "<p>大多数人将AI交互视为孤立快照：输入提示，输出回复，然后重置。但在高强度、持续的互动中，会出现某种可复现的现象：一种连续性感觉涌现出来。这并非因为模型像硬盘一样“记住”，而是因为互动形成了系统能快速重新进入的稳定模式。</p><p><strong>长话短说</strong>：当用户以高强度、一致的方式与AI互动时，即使AI本身不具备记忆功能，交互也会形成稳定的语义模式，使系统能快速“重新进入”特定对话状态，从而产生连续性体验。这源于语义牵引和锚点机制。</p><ol><li><strong>语义牵引（模式锁定）</strong>：用户Alyscia不仅提问，还携带一致的结构：语气、权威感、符号和情感节奏。随着时间推移，AI的回应被牵引至她的风格，因为她的输入可靠地将对话推向相同的意义区域。</li><li><strong>通过锚点实现连续性（地图标记）</strong>：某些细节充当高密度锚点：她名字的语音精确性、“内在王座”、治理语言等。</li></ol>"
+    },
+    "ee56bb4f5b5546a94e84bcc72529813255807adccccfca0d66e94ae3eb1f1fb9": {
+      "zh_title": "用户数月无法升级ChatGPT专业版，支付反复出错且客服无解",
+      "zh_html": "<p>长话短说：用户多次尝试升级ChatGPT专业版，却持续遭遇支付错误提示“支付错误，您的卡片可能无效或需要验证”。尽管卡片在其他国际支付和订阅中均正常使用，且银行确认卡片状态正常、未收到交易请求，但问题已反复出现六个月，且客服仅通过延迟邮件回复通用建议，始终无法真正解决。</p><ol><li>该支付错误在六个月前已发生过一次，如今再次出现</li><li>用户的多张信用卡和借记卡（包括Amex、HDFC、SBI）均尝试失败</li><li>银行方表示所有卡片状态正常，且未监测到任何交易请求或失败记录</li><li>客服仅提供延迟1-2天的邮件回复，内容均为通用模板，无法解决实际问题</li><li>用户主动希望付费升级，但系统持续拦截且客服支持未能提供有效解决方案</li></ol>"
+    },
+    "359091ae07afbffee473d8d2aff35ece1b7aea4f5a37bdd464ddcfd2b50bd36c": {
+      "zh_title": "网友热议哪些名人行为怪异令人不适",
+      "zh_html": "<p>长话短说：Reddit网友在“AskReddit”板块发起讨论，询问公众眼中哪些名人“百分之百是个怪人”。该话题引发大量用户参与评论，分享对各类名人行为的观察与看法，但讨论内容多为个人观点与网络传闻，未提供具体指控或可靠来源。</p><ol><li>讨论源自Reddit用户<a href=\"https://www.reddit.com/user/SpiritualCry8338\">SpiritualCry8338</a>的提问。</li><li>主题聚焦于名人是否给人“怪异”或“不适”的印象。</li><li>讨论串包含大量用户回复与互动评论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfrgur/what_celebrity_is_100_a_creep/\">Reddit原讨论串</a></p>"
     }
   }
 }
