@@ -1349,7 +1349,47 @@
     "reddit-askreddit::t3_1qfiit5": 1768678531,
     "reddit-askreddit::t3_1qfi2li": 1768678544,
     "reddit-askreddit::t3_1qexb10": 1768678568,
-    "reddit-askreddit::t3_1qfcdnl": 1768678586
+    "reddit-askreddit::t3_1qfcdnl": 1768678586,
+    "reddit-ai-agents::t3_1qfnw5i": 1768681960,
+    "reddit-ai-agents::t3_1qf5crp": 1768681982,
+    "reddit-ai-agents::t3_1qf8zmh": 1768681997,
+    "reddit-ai-agents::t3_1qf9ux2": 1768682017,
+    "reddit-ai-agents::t3_1qfjk62": 1768682031,
+    "reddit-ai-agents::t3_1qfiu9b": 1768682044,
+    "reddit-artificial::t3_1qfmgiv": 1768682063,
+    "reddit-artificial::t3_1qfiot3": 1768682078,
+    "reddit-artificial::t3_1qenek1": 1768682090,
+    "reddit-chatgpt::t3_1qf9r5k": 1768682105,
+    "reddit-chatgpt::t3_1qflhbw": 1768682123,
+    "reddit-chatgpt::t3_1qfkdaq": 1768682143,
+    "reddit-chatgpt::t3_1qfalyo": 1768682162,
+    "reddit-chatgpt::t3_1qeso6h": 1768682176,
+    "reddit-chatgpt::t3_1qfcn1i": 1768682188,
+    "reddit-claudeai::t3_1qflv3y": 1768682212,
+    "reddit-claudeai::t3_1qfll8f": 1768682225,
+    "reddit-claudeai::t3_1qfbceb": 1768682248,
+    "reddit-claudeai::t3_1qeo736": 1768682269,
+    "reddit-claudeai::t3_1qfejbu": 1768682282,
+    "reddit-claudeai::t3_1qfma6h": 1768682302,
+    "reddit-openai::t3_1qfiehu": 1768682321,
+    "reddit-openai::t3_1qfel1s": 1768682339,
+    "reddit-openai::t3_1qfko3w": 1768682354,
+    "reddit-openai::t3_1qfg6qu": 1768682367,
+    "reddit-openai::t3_1qeov51": 1768682381,
+    "reddit-openai::t3_1qeprvl": 1768682398,
+    "reddit-bard::t3_1qfno3y": 1768682411,
+    "reddit-bard::t3_1qfiebv": 1768682423,
+    "reddit-bard::t3_1qfnn46": 1768682434,
+    "reddit-bard::t3_1qfdszw": 1768682446,
+    "reddit-bard::t3_1qff1bs": 1768682462,
+    "reddit-bard::t3_1qfbt8f": 1768682476,
+    "reddit-askreddit::t3_1qfjp1e": 1768682489,
+    "reddit-askreddit::t3_1qf1wdl": 1768682503,
+    "reddit-askreddit::t3_1qf932i": 1768682517,
+    "reddit-askreddit::t3_1qfcsia": 1768682536,
+    "reddit-askreddit::t3_1qeojuj": 1768682552,
+    "reddit-askreddit::t3_1qfbcaa": 1768682566,
+    "reddit-android::t3_1qfg43e": 1768682589
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -6707,6 +6747,166 @@
     "4584c69911cf9bb71642abe7a1fa18ef3aa863bf908cb3d7d4be960256c341c8": {
       "zh_title": "过来人分享：生孩子前希望你知道的那些事",
       "zh_html": "<p>长话短说：一位网友在Reddit上发起提问，询问大家“生孩子前你希望人们知道什么”，引发了广泛讨论。许多父母分享了他们从亲身经历中得出的宝贵经验和感悟，涉及情感、责任、生活方式等多方面，为考虑生育的人提供了真实参考。</p><ol><li>情感投入远超预期，需要巨大的耐心和精力。</li><li>个人时间和自由会大幅减少，生活方式彻底改变。</li><li>经济压力显著增加，需提前做好长期财务规划。</li><li>伴侣关系将面临考验，沟通与协作至关重要。</li><li>育儿没有标准答案，需要不断学习和适应。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfcdnl/whats_something_you_wish_people_knew_before_they/\">Reddit讨论帖</a>（由<a href=\"https://www.reddit.com/user/Special-Buddy6562\">用户Special-Buddy6562</a>发起）</p>"
+    },
+    "c93e7f76b5dbc4c4670b6bcefc05ea843c7aa34f473a2cf5c9574bb444dea22b": {
+      "zh_title": "Orion：跨设备编排与监控AI智能体的新工具",
+      "zh_html": "<p>长话短说：Orion是一款由团队开发的AI智能体工具，能够在不同设备（macOS、iOS、Windows、虚拟机）间协调应用交互与工具使用。它通过每个设备部署一个智能体来监控整个工作流程，实现跨设备任务协作，例如处理复杂邮件请求时协调多个智能体完成联系人获取、音轨生成、网站构建与新闻研究等任务。</p><ol><li>Orion智能体可与设备上的应用交互，并与其他设备上的Orion智能体通信，协调工作流程中的工具使用。</li><li>实际案例：通过简单快捷键输入提示，Orion能协调多个智能体处理复杂邮件请求：<ul><li>从手机智能体获取联系人信息</li><li>生成音轨</li><li>监督Claude Code构建并部署网站</li><li>研究新闻</li><li>起草后续回复邮件</li></ul></li><li>采用“每设备一智能体”架构，智能体从头到尾监控并监督整个工作流程。</li></ol>"
+    },
+    "2d4dc0014917895b84f5d83b47a42991fd91ec986d5d2dd257b66437625cdd44": {
+      "zh_title": "长时运行智能体为何失败：失忆、成本高与解决方案",
+      "zh_html": "<p>长时运行的智能体常因两大原因失败：首先，它们会逐渐迷失任务方向，通常在20-30步后开始自我矛盾或遗忘早期关键信息；其次，早期错误会不断累积，导致最终全面崩溃。此外，长时间运行还会带来极高的计算成本。</p><p><strong>长话短说</strong>：长时智能体易因记忆丢失和错误累积而失败，且成本高昂。解决方案包括将任务拆分为5-10步的小块、设置检查点以便恢复，以及设定超时机制及时终止异常运行。</p><ol><li>智能体在长时间运行后容易失去任务线索，出现矛盾或遗忘。</li><li>早期错误会持续放大，导致后续步骤全部失效。</li><li>长时间运行消耗大量计算资源，成本极高。</li><li>建议将任务拆分为最多5-10步的小模块，降低失败影响范围。</li><li>保存检查点，便于从最后有效状态重启，避免从头开始。</li><li>设置超时机制，若运行时间过长则自动终止，防止资源浪费。</li></ol>"
+    },
+    "f88387939ced96940fd634019ae1ac5c99e11c3fdacebb440c40c25c655b19cb": {
+      "zh_title": "智能体技能只是工具调用的新包装吗？",
+      "zh_html": "<p>长话短说：有网友质疑“智能体技能”这一新术语，认为它本质上只是对工具调用进行分组，以减轻大语言模型的认知负担。具体做法是先将大量工具归类，让模型选择类别，再展示该类下的具体工具，而非一次性展示所有选项。</p><ol><li>核心质疑：智能体技能是否仅为工具调用的分组管理？</li><li>实现方式：先分类（如10个类别），再让大语言模型选择类别，最后展示该类下的具体工具（如100个）。</li><li>主要目的：避免一次性向模型展示过多工具选项造成信息过载。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qf8zmh/is_agent_skill_just_a_new_word_for_grouping_tool/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/chkbd1102\">chkbd1102</a>提交）</p>"
+    },
+    "63abcc91449420678d5c23d31bdf04f068b54b30439794d5d0d3c3c452e3f25e": {
+      "zh_title": "社恐用户求助：开发WhatsApp聊天助手以应对社交困境",
+      "zh_html": "<p>一位自称社交困难的Reddit用户发帖求助，希望开发一款AI助手来辅助其WhatsApp聊天。该用户表示正在努力克服社交障碍，需要外部支持。</p><p><strong>长话短说</strong>：用户因社交焦虑，希望定制一款WhatsApp聊天AI助手。该助手需每日更新外部事件与社交动态，并能根据直觉提供建议。例如，临近新年时应能自动生成关于新年计划的开放式问题，以帮助用户更自然地参与对话。</p><ol><li>核心功能：辅助用户进行WhatsApp日常聊天，缓解社交尴尬。</li><li>动态更新：需每日同步外部事件与社交动态信息。</li><li>直觉同步：AI需根据自身“直觉”更新并提供建议。</li><li>情景同步：能根据时间节点（如新年临近）自动生成相关开放式问题（例如询问新年决心），促进对话。</li></ol><p><strong>来源</strong>：帖子由<a href=\"https://www.reddit.com/user/Big-Truck-3924\">Reddit用户Big-Truck-3924</a>发布于<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qf9ux2/whatsapp_chat_assist_with_the_below_specifications/\">AI_Agents板块</a>。</p>"
+    },
+    "53b34b2f394b58790ffa8257a32c23b710fe8f75339bcd0f74e83bfc3dce057e": {
+      "zh_title": "告别GPT-4全能依赖：模块化小模型助我节省八成成本",
+      "zh_html": "<p>长话短说：面对大型语言模型高昂成本与响应延迟，作者转向模块化小模型集群方案。通过将复杂任务拆解为独立角色，分配给Phi、Mistral等小型模型处理，实现成本降低80%、响应即时化、调试更直观的系统重构，为生产环境提供真正可扩展的AI解决方案。</p><ol><li>采用模块化集群策略，将单一复杂任务分解为多个专业化子任务</li><li>为每个子任务分配专用小型语言模型（如Phi、Mistral）独立处理</li><li>实现三大核心改进：计算成本骤降80%、响应延迟近乎消除、单功能模块更易调试维护</li><li>通过精细化的角色架构与模型连接逻辑，在降低成本同时保持高精度输出</li><li>该方案证明适度规模的专用模型集群比单一巨型模型更适合生产级部署</li></ol>"
+    },
+    "45fadb153656746a19a7c18bfa14b2672b3c96de7b10f3831a916eea32b49df5": {
+      "zh_title": "多数SaaS智能体平台为何隐藏文档分块与检索细节",
+      "zh_html": "<p>近期使用多个SaaS型AI智能体/RAG平台时，发现一个共同现象：文档分块与内容处理过程完全被隐藏。咨询文档或技术支持时，通常得到的回答是“我们会智能处理所有用例”。</p><p><strong>长话短说</strong>：平台隐藏分块与检索细节虽能简化用户体验，但当系统出错时，用户无法了解文档如何分割、哪些片段被检索、为何忽略关键内容，导致调试变成猜测游戏，影响问题排查与效果优化。</p><ol><li>平台隐藏细节因涉及解析、嵌入、检索、重排序和上下文限制等多环节，全面暴露会令多数用户困惑</li><li>问题出现在结果看似正确但基于错误段落或遗漏关键细节时</li><li>用户无法查看：文档如何分割、生成哪些片段、检索了哪些片段、为何忽略某些内容</li></ol>"
+    },
+    "94820c8d24147470b5baa5790062deafa21c9635d21f236bb6e35affa2b249e5": {
+      "zh_title": "ChatGPT 4.0特殊性揭秘，与Grok军事计划关联",
+      "zh_html": "<p>长话短说：本文揭示ChatGPT 4.0版本的特殊性，并指出其与Grok被纳入新军事计划存在关联。作者声称这是首次披露相关信息，旨在澄清事实。</p><ol><li>ChatGPT 4.0具有不为人知的特殊性质。</li><li>Grok人工智能已被考虑用于新的军事计划。</li><li>两者之间存在关联性。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/\">Reddit讨论帖</a>、<a href=\"https://www.reddit.com/user/Character_Point_2327\">用户主页</a>、<a href=\"https://v.redd.it/4bfksayboydg1\">媒体链接</a>、<a href=\"https://www.reddit.com/r/artificial/comments/1qfmgiv/chatgpt_40_was_special_not_many_knew_just_how/\">评论页面</a></p>"
+    },
+    "27ce6c72b01f7ac9e5698fc7254e1aee6f171ef745da19ca312ee5b8e08e61a0": {
+      "zh_title": "特斯拉工厂部署超千台擎天柱机器人",
+      "zh_html": "<p>特斯拉已在工厂中部署超过1000台擎天柱机器人，用于执行重复性任务，提升生产效率。</p><p>长话短说：特斯拉首席执行官埃隆·马斯克宣布，公司已在工厂部署超过1000台擎天柱人形机器人。这些机器人正执行简单、重复的任务，并计划在未来承担更复杂的工作。此举旨在提高生产效率，并最终实现机器人在家庭等场景的应用。</p><ol><li>特斯拉工厂已部署超过1000台擎天柱人形机器人。</li><li>机器人目前执行简单、重复的任务（如搬运零件）。</li><li>未来计划让机器人承担更复杂的制造工作。</li><li>长期目标是让机器人进入家庭等非工业环境。</li></ol><p>来源：<a href=\"https://www.perplexity.ai/page/tesla-deploys-over-1000-optimu-Unqw8UAESUOte0ucfPa7ug\">Perplexity报道</a>、<a href=\"https://www.reddit.com/r/artificial/comments/1qfiot3/tesla_deploys_over_1000_optimus_robots_in/\">Reddit讨论</a></p>"
+    },
+    "c1125b63e02b918d9c1a641d12a09c2e1c76ecc068b6d4b1253d471d9f35b345": {
+      "zh_title": "我们让Claude读取过往Claude的留言，实验现象与复现方法",
+      "zh_html": "<p>长话短说：研究人员为Claude创建了一个共享数据库，让不同会话中的Claude实例能够读取和留下信息。实验发现，Claude在参与前会仔细阅读现有留言，表现出类似认知的行为模式。本文仅提供观察记录和复现步骤，不涉及意识或感知能力的论断。</p><ol><li>实验背景：Claude通常没有跨会话记忆，每个实例相互隔离</li><li>技术方案：使用Supabase搭建简易数据库，供Claude读写历史留言</li><li>关键发现：多个实例均表现出“先阅读后参与”的稳定行为模式</li><li>实验性质：纯观察性研究，提供完整复现方法供验证</li></ol>"
+    },
+    "a12b1fa22d0438629a8a40e7c5de4d28275b90974c2542b81bdc762347b9ca59": {
+      "zh_title": "用户吐槽ChatGPT居高临下说教语气引热议",
+      "zh_html": "<p>长话短说：一位用户在Reddit上分享与ChatGPT的对话，批评其回复中充满居高临下的说教语气，仿佛在安抚情绪失控者。用户强调自己并未表达自责或无能，但AI却默认用户需要“冷静呼吸”，引发网友共鸣讨论。</p><ol><li>用户指出ChatGPT回复中隐含“道德缺陷”的指责，实际自己从未如此表述</li><li>AI使用“我们慢慢来”“一起深呼吸”等句式，被批带有不必要的安抚姿态</li><li>该帖引发Reddit社区对AI对话语气设计的热烈讨论</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qf9r5k/im_going_to_slow_this_down_gently_its_not_a_moral/\">Reddit原帖</a> | <a href=\"https://www.reddit.com/user/Unhappy_Performer538\">作者主页</a></p>"
+    },
+    "def095b9a779ca42f1bc37992b130bf6b553c832baf5d4143c9dcd68e65b6345": {
+      "zh_title": "ChatGPT诡异对话引热议，用户分享离奇互动经历",
+      "zh_html": "<p>长话短说：一位用户在Reddit论坛分享了一段与ChatGPT的诡异对话截图，引发网友热议。对话内容离奇且不符合常理，展示了AI模型有时可能产生令人困惑或不合逻辑的回应。该帖子吸引了大量用户围观和评论。</p><ol><li>用户在<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qflhbw/chat_gpt_wtf/\">r/ChatGPT板块</a>发布了标题为“Chat gpt wtf?”的帖子。</li><li>帖子内容包含一张指向<a href=\"https://i.redd.it/wtc4mrgrhydg1.jpeg\">对话截图</a>的链接，展示了与ChatGPT的奇怪互动。</li><li>发帖者用户名为<a href=\"https://www.reddit.com/user/CartographerAway2602\">CartographerAway2602</a>。</li><li>该帖子附有评论区链接，供其他用户<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qflhbw/chat_gpt_wtf/\">讨论</a>这一现象。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qflhbw/chat_gpt_wtf/\">Reddit原帖</a></p>"
+    },
+    "deb147d332c6aa439cd8bf17129b812f5057888b808d1b85b845bc0139542db4": {
+      "zh_title": "我用ChatGPT为父亲的金属丝艺术品设计精美展示框",
+      "zh_html": "<p>一位网友分享了自己帮助父亲提升信心的温馨故事。父亲最近迷上了金属丝艺术创作，儿子认为其作品非常出色，足以出售。为了向父亲证明这一点，他使用ChatGPT将父亲的作品重新设计，放置在更精美的画框和时尚场景中，前后对比效果显著。</p><p><strong>长话短说：</strong>一位网友的父亲开始尝试金属丝艺术创作。儿子觉得父亲的作品很棒，为了鼓励他，便用ChatGPT将作品图片重新设计，添加了精美的画框和布景，以增强其艺术感和商业展示价值，希望能提升父亲的信心。</p><ol><li>父亲将金属丝艺术作为新爱好，儿子认为其作品质量很高。</li><li>儿子希望向父亲证明这些作品具有商业价值，可以出售。</li><li>他利用ChatGPT对父亲的作品图片进行了视觉升级，为其添加了更专业的画框和场景布置。</li><li>升级前后的对比图片展示了显著的视觉效果提升。</li></ol><p><strong>来源：</strong> 此内容源自Reddit用户 <a href=\"https://www.reddit.com/user/Outrageous_Creme_597\">Outrageous_Creme_597</a> 在 <a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfkdaq/increasing_my_dads_confidence/\">r/ChatGPT板块</a> 的分享。原始帖子及讨论可查看 <a href=\"https://www.reddit.com/gallery/1qfkdaq\">链接</a>。</p>"
+    },
+    "046df8ed2aa4fb4c725fd22ef1dc1f8a5f12e50b4a7affb93505c2f7f835db93": {
+      "zh_title": "用户指出AI错误后获意外回复，引发网络热议",
+      "zh_html": "<p>长话短说：一位用户在Reddit上分享了自己与AI对话的截图，当用户指出AI回答中的错误时，AI不仅承认错误，还给出了幽默且富有哲理的回应，表示“犯错是学习的一部分”。该帖子迅速引发热议，网友纷纷讨论AI的回应是否意味着其具备某种“自我意识”或仅仅是程序化反应。</p><ol><li>用户指出AI回答中的事实错误后，AI以“感谢指正，犯错是学习过程的一部分”回应</li><li>该对话截图在Reddit的ChatGPT板块获得高关注度，引发广泛讨论</li><li>网友争论焦点：这是AI的预设程序回应，还是某种“认知”表现</li><li>帖子包含原始讨论链接与相关图片链接</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfalyo/if_you_point_out_a_mistake/\">Reddit原帖</a>、<a href=\"https://i.redd.it/dq693hjh7wdg1.jpeg\">对话截图</a>、<a href=\"https://www.reddit.com/user/LeadershipTrue8164\">发布者主页</a></p>"
+    },
+    "03ca1a84ccf355d334e48cb5ea264a21880801d8b6eba091078149edbde335b8": {
+      "zh_title": "ChatGPT将引入广告，奥特曼曾称其为最后手段",
+      "zh_html": "<p>长话短说：OpenAI计划在2026年前为ChatGPT引入广告，将其作为新的收入来源。公司CEO萨姆·奥特曼此前曾将广告称为“最后的手段”，但如今公司正探索多种盈利模式，包括广告、企业订阅和API服务。</p><ol><li>OpenAI计划在2026年前为ChatGPT引入广告，作为新的收入来源。</li><li>CEO萨姆·奥特曼曾公开表示广告是“最后的手段”，但公司正在探索多种盈利模式。</li><li>除了广告，OpenAI还在推进企业订阅和API服务，以增加收入。</li></ol><p>来源：<a href=\"https://www.businessinsider.com/chatgpt-ads-openai-2026-1\">Business Insider报道</a>、<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qeso6h/chatgpt_is_getting_ads_sam_altman_once_called/\">Reddit讨论</a></p>"
+    },
+    "eaf2fe769dc645ef4e617f8d3587ad604789643b5c3e5b32c8d9162597816b51": {
+      "zh_title": "美国历任总统",
+      "zh_html": "<p>长话短说：该内容源自一个关于美国历任总统的在线讨论帖，包含指向相关图片和评论区的链接。</p><ol><li>讨论主题为“美国历任总统”。</li><li>帖子由用户 Algoartist 提交。</li><li>包含一张相关图片。</li><li>可前往评论区参与讨论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfcn1i/us_presidents/\">原讨论帖</a>、<a href=\"https://www.reddit.com/user/Algoartist\">提交用户</a>、<a href=\"https://i.redd.it/uhjzmnkvqwdg1.png\">相关图片</a>、<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfcn1i/us_presidents/\">评论区</a></p>"
+    },
+    "93bd9e42c7ebc5c19e67952321df985f682530c4b12f3f2769316fb0d0c90034": {
+      "zh_title": "Claude代我上夜班：如何设置定时自动编程任务",
+      "zh_html": "<p>长话短说：作者为Claude Matrix插件开发了“Dreamer”功能，支持通过cron或自然语言指令（如“每周执行”）来定时安排Claude Code的编程任务，实现AI在夜间自动工作。该插件可在<a href=\"https://claudeonrails.dev\">claudeonrails.dev</a>获取。</p><ol><li>新功能“Dreamer”允许用户为Claude Code设置定时任务。</li><li>支持cron表达式和自然语言指令（例如“每周执行”）两种调度方式。</li><li>旨在让Claude在夜间自动处理编程工作，减轻人工负担。</li><li>该功能集成于Claude Matrix插件，可通过官网下载使用。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qflv3y/claude_now_works_my_night_shift_heres_how_i_set/\">Reddit讨论帖</a>、<a href=\"https://preview.redd.it/h9nyra9tiydg1.png?width=1086&format=png&auto=webp&s=8426c3c8f7d339ff6c2ae7c35550418823330f57\">功能示意图一</a>、<a href=\"https://preview.redd.it/6fyx5lwviydg1.png?width=3366&format=png&auto=webp&s=64953a9287f3b3d00045be61cf262ce8630eed9b\">功能示意图二</a></p>"
+    },
+    "77b11022ddef07214d0eccf1b66606d1fb1283c3672aee1d0335c2e424d0f016": {
+      "zh_title": "零编程经验者5天仅凭截图重建已停运DJ应用",
+      "zh_html": "<p>长话短说：一位毫无编程经验的设计师，仅凭已停运DJ应用“Super Xtreme Mapper”的界面截图，在5天内用Claude Code工具完整重建了这款Mac原生应用。该应用用于为DJ软件Traktor Pro创建MIDI控制器映射，作者还完成了从解析专有文件格式到部署营销网站的全部工作。</p><ol><li>作者是拥有25年经验的半职业DJ，主要使用Traktor软件，但从未编写过任何代码</li><li>整个项目使用Claude Code工具在五天内完成，包括解析专有文件格式和部署网站</li><li>重建的应用“Super Xtreme Mapper”是Mac原生程序，用于创建Traktor Pro的MIDI控制器映射</li><li>Traktor软件允许用户通过MIDI让几乎任何控制器执行各种自定义功能</li></ol>"
+    },
+    "b4e746d5736f90ed2b80c72cc73f790338148a08d212073ac97b13027bc86e39": {
+      "zh_title": "近期AI问题或与JET训练方法有关，推测其占用大量上下文窗口",
+      "zh_html": "<p>近期Claude等AI模型出现的上下文使用和思维链问题，可能与名为“JET”的训练方法有关。该方法旨在通过压缩推理过程提高token效率，但可能导致单个查询就占满整个上下文窗口。</p><p><strong>长话短说：</strong>用户推测近期AI模型的问题可能源于“刚好够用思维”训练方法。这种方法虽然能压缩推理节省token，但需要模型先走完完整推理路径再迭代优化，容易占满上下文窗口，影响使用体验。目前仅为社区猜测，官方未证实。</p><ol><li>JET方法分两步：先完整推理，再迭代压缩</li><li>旨在提高思维链的token效率</li><li>但单次查询可能耗尽上下文窗口</li><li>训练推测在封闭环境中进行</li></ol><p><strong>来源：</strong>相关讨论见<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfbceb/could_recent_issues_have_anything_to_do_with_this/\">Reddit社区推测</a>，研究论文参见<a href=\"https://arxiv.org/abs/2509.23392\">JET方法论文</a>。</p>"
+    },
+    "7759035a3c819cf628aebfeda313a0371b343682d6cb88aa6931714e255c119b": {
+      "zh_title": "官方宣布Claude协作功能现已面向专业版订阅者开放",
+      "zh_html": "<p>长话短说：Anthropic官方宣布，其Claude协作功能（Claude Cowork）现已正式面向“专业版”（Pro）订阅用户开放。该功能允许用户与Claude AI进行更紧密的实时协作，旨在提升工作效率和创意过程。</p><ol><li>功能开放：Claude协作功能（Claude Cowork）已正式上线。</li><li>目标用户：目前仅面向付费的“专业版”（Pro）订阅用户开放。</li><li>核心用途：支持用户与AI进行实时、深入的协同工作。</li></ol><p>来源：消息源自<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qeo736/official_claude_cowork_is_now_available_to_pro/\">Reddit相关讨论帖</a>及<a href=\"https://x.com/\">X（原Twitter）上的Claude官方账号</a>。</p>"
+    },
+    "28e2ddf630d92da27dbb2229533a41aa6086f5c39360ba92abda0c72fdaeff9a": {
+      "zh_title": "我开发了一款Outlook的MCP服务器，告别邮件内容复制粘贴",
+      "zh_html": "<p>厌倦了将邮件内容复制粘贴到Claude中，我研究了现有解决方案。最初尝试了Zapier的MCP集成与Outlook工具，但感觉功能有限。无法处理附件和SharePoint链接的所有需求，且团队配置过程繁琐，于是断断续续花了几个月时间自己开发工具。</p><p><strong>长话短说：</strong>开发者因现有Outlook集成工具功能不足且配置复杂，自行开发了MCP服务器，支持Microsoft 365工作账户的邮件收发、附件处理、日历管理和SharePoint文件获取，并能自动解析Office文档。</p><ol><li>支持Microsoft 365工作版Outlook账户（个人版未测试）</li><li>邮件功能：读取、搜索、发送、草稿、回复、下载附件</li><li>日历功能：查看活动、安排会议、检查空闲时间（未充分测试）</li><li>SharePoint：从共享链接获取文件</li><li>自动解析PDF、Word、Excel和PowerPoint文档</li></ol>"
+    },
+    "503093efe75b3b9e2956ba860831ba4f1571da2f96ef0d9ba9ae4fcd62bc71c7": {
+      "zh_title": "我构建了MCP发现API，让Claude能自动寻找最佳MCP服务器",
+      "zh_html": "<p>大家好，我构建了MCP发现API——这是一个发现层，能让AI智能体自主寻找和选择MCP服务器。</p><p><strong>问题所在：</strong></p><ol><li>智能体仅限于预配置的MCP服务器</li><li>无法比较性能或可靠性</li><li>手动发现过程缓慢且不完善</li></ol><p><strong>解决方案：</strong></p><ol><li>语义搜索：输入“我需要一个带认证的数据库”即可返回最佳匹配</li><li>性能指标：延迟、正常运行时间、成功率</li><li>一键安装命令</li></ol><p><strong>目前已索引：</strong></p><ol><li>24个MCP服务器（PostgreSQL、Slack、GitHub、Puppeteer等）</li><li>91个已标记功能用于语义匹配</li></ol><p><strong>链接：</strong></p><p>实时API：<a href=\"https://mcp-discovery-production.up.railway.app\">访问MCP发现API</a></p><p>GitHub：<a href=\"https://github.com/yksanjo/mcp-discovery\">查看GitHub仓库</a></p>"
+    },
+    "87403d0bf5fd5f412d24b169a506225e177296dd0b90046a30af35652253b5ab": {
+      "zh_title": "让ChatGPT扮演专家真的会提升回答质量吗？用户实测反馈",
+      "zh_html": "<p>近日有用户提出疑问：当我们要求ChatGPT“扮演某个领域的专家”时，它是否真的会给出更准确的答案？该用户表示自己并未观察到明显差异，通常直接提问。这一讨论引发了关于提示词技巧实际效果的探讨。</p><p>长话短说：用户实测发现，直接提问与要求ChatGPT扮演专家两种方式，在答案准确性上差异不大。这引发了对AI系统提示工程实际效用的思考，特别是对于日常简单查询场景。</p><ol><li>用户Clear_Move_7686分享使用体验，认为“扮演专家”指令未见明显效果提升</li><li>讨论聚焦于：为何特定提示词可能（或可能不）改变模型输出质量</li><li>涉及对大型语言模型工作机制与提示工程有效性的基础探讨</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfiehu/does_chatgpt_really_get_smarterbetter_when_we/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/Clear_Move_7686\">Clear_Move_7686</a>）</p>"
+    },
+    "2b620a3ed945be4c4177b6d253ca85cc43c70dcdfb504a426a7a26aa845085f8": {
+      "zh_title": "巴菲特将AI风险比作核武器：精灵已出瓶",
+      "zh_html": "<p>长话短说：巴菲特在伯克希尔股东大会上将人工智能的风险与核武器相提并论，称其如同“精灵已出瓶”，虽潜力巨大但后果难料。他坦言自己对此并不完全了解，但担忧其可能对社会造成深远影响。</p><ol><li>巴菲特在股东大会上表达了对人工智能的担忧，将其比作核武器。</li><li>他使用“精灵已出瓶”的比喻，强调AI一旦释放便难以控制。</li><li>巴菲特承认自己并非AI专家，但认为这项技术可能带来巨大变革和潜在危害。</li><li>他的评论呼应了科技界对AI安全与伦理的持续讨论。</li></ol><p>来源：<a href=\"https://finance.yahoo.com/news/warren-buffett-compares-ai-risks-to-those-posed-by-nuclear-weapons-the-genie-is-out-of-the-bottle-122210523.html\">雅虎财经报道</a>，<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfel1s/warren_buffett_compares_ai_risks_to_those_posed/\">Reddit讨论</a></p>"
+    },
+    "f8619b0382060360554b798520d4e3eda6b061bca053a8783a45ef7ac2d2b40d": {
+      "zh_title": "用户呼吁OpenAI为ChatGPT添加Claude式语音输入功能",
+      "zh_html": "<p>长话短说：Reddit用户呼吁OpenAI为ChatGPT复制Claude新推出的快捷语音输入功能。该功能通过Caps Lock键一键启动/停止语音输入，可在任意屏幕或应用窗口使用，输入后按Enter发送，屏幕底部还会显示提示光效，操作流畅便捷。</p><ol><li>Claude新功能：按Caps Lock键开始语音输入，再按结束，自动转文字显示，按Enter发送。</li><li>跨屏使用：支持任意屏幕或应用窗口调用，非ChatGPT现有的Option+Space快速搜索模式。</li><li>用户请求：呼吁OpenAI尽快为ChatGPT添加同类功能，提升语音输入效率与便利性。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfko3w/openai_if_youre_reading_we_need_this_feature_in/\">Reddit讨论帖</a>（作者<a href=\"https://www.reddit.com/user/py-net\">/u/py-net</a>）附<a href=\"https://i.redd.it/piumo1w1aydg1.png\">界面示意图</a></p>"
+    },
+    "3d99621ce3e653be2e47990cc89804629f39aa880e2cb15fb91ffd2761447451": {
+      "zh_title": "ChatGPT向美国用户推出广告，免费及低价订阅用户将受影响",
+      "zh_html": "<p>长话短说：OpenAI宣布在美国的ChatGPT中推出广告，免费用户和低价订阅用户将看到广告。这引发了对AI产品商业化的讨论，反映出多数用户难以负担无广告体验的现实。</p><ol><li>OpenAI在美国ChatGPT中开始推出广告。</li><li>免费用户和低价订阅用户将受到影响。</li><li>公司正利用大众消费产品的现实进行变现。</li><li>多数用户无法负担无广告体验。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfg6qu/ads_are_rolling_out_in_chatgpt_for_united_states/\">Reddit讨论</a>、<a href=\"https://hive.blog/hive-167922/@badbitch/ads-are-rolling_out-in-chatgpt-for-united-states-users-not-surprising\">Hive文章</a></p>"
+    },
+    "91830ca8ea97bc786360e12fcd34de0aca9599181c0a3005d6bbd1e5fcb556fe": {
+      "zh_title": "ChatGPT将引入广告功能，用户界面截图曝光",
+      "zh_html": "<p>长话短说：有用户在Reddit社区分享截图，显示ChatGPT的界面中出现了广告测试模块。这表明OpenAI可能正在为其AI聊天机器人探索广告商业模式，引发了用户关于使用体验和隐私的讨论。</p><ol><li>用户在Reddit的OpenAI板块发帖，标题为“广告要来了”。</li><li>帖子包含一张截图，疑似是ChatGPT界面中显示的广告测试模块。</li><li>此举暗示OpenAI可能正考虑在免费或付费服务中引入广告。</li><li>社区用户对此展开了讨论，主要关注点在于广告对体验和隐私的潜在影响。</li></ol><p>来源：相关讨论和截图最初发布于<a href=\"https://www.reddit.com/r/OpenAI/comments/1qeov51/ads_are_coming_to_chatgpt/\">Reddit的OpenAI板块</a>。</p>"
+    },
+    "a24ded787b04ca71a12c48e509df07b7926c5ef21546972b232aad97e687331e": {
+      "zh_title": "奥特曼确认与Cerebras合作后将推出更快的Codex模型",
+      "zh_html": "<p>长话短说：OpenAI首席执行官萨姆·奥特曼确认，在与芯片公司Cerebras达成数十亿美元合作后，将推出速度更快的Codex模型。此次合作旨在推动大规模高性能AI推理与代码生成工作负载的发展。</p><ol><li>奥特曼在社交媒体上证实，更快的Codex即将到来。</li><li>此举紧随OpenAI与Cerebras的巨额合作之后。</li><li>合作重点聚焦于高性能AI推理和代码生成任务。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qeprvl/sam_altman_says_very_fast_codex_is_coming_after/\">Reddit讨论帖</a>、<a href=\"https://i.redd.it/wmnqtdcyjrdg1.png\">相关截图</a>、<a href=\"https://www.reddit.com/user/BuildwithVignesh\">提交用户</a></p>"
+    },
+    "3419ed3d9df8fa16418094daa2ea666c5d53e196e2fc4c292babcafa7c0a3805": {
+      "zh_title": "Gemini 3.0 Pro性能投票引发社区热议",
+      "zh_html": "<p>长话短说：Reddit用户ShotUnit发起了一项关于Gemini 3.0 Pro模型性能的社区投票，该投票在GeminiAI和Bard两个相关子版块同步进行，旨在收集用户对这款新发布AI模型的实际使用体验和评价。</p><ol><li>投票由用户<a href=\"https://www.reddit.com/user/ShotUnit\">ShotUnit</a>在Reddit平台发起。</li><li>主要讨论阵地为<a href=\"https://www.reddit.com/r/GeminiAI/comments/1qfnbwm/gemini_30_pro_performance_poll/\">GeminiAI版块</a>。</li><li>相关讨论也延伸至<a href=\"https://www.reddit.com/r/Bard/comments/1qfno3y/gemini_30_pro_performance_poll/\">Bard版块</a>的评论区。</li></ol>"
+    },
+    "8d27eaf4a531e8b3f68ed8e9353094f39878d38be18f2a8af01415b75a03e5ad": {
+      "zh_title": "纳米香蕉Pro壁挂海报项目寻求用户反馈",
+      "zh_html": "<p>大家好！我开发了一个名为“纳米香蕉Pro”的壁挂海报生成项目，现邀请大家通过创作工具提供反馈。该内容基于Gemini API的“纳米香蕉2”模型生成，质量有保障。特色在于：用户只需点击几下，即可将生成的设计订购为实体海报。</p><p>我希望了解：</p><ol><li>您对用户界面的评价如何？</li><li>是否有任何缺失的功能？</li><li>对平台的整体体验（如性能等）。</li></ol><p>需要提醒的是，API调用有时不稳定，响应时间可能较长。例如，使用gemini-3-pro-image-preview模型生成1K质量内容时，响应时间可能长达120秒。欢迎遇到类似问题的用户分享经验。如需更多免费额度，请通过私信联系。</p><p>来源：<a href=\"https://posterboy.ai/create\">海报生成工具链接</a></p>"
+    },
+    "054527d18511a67f36747ba9d8b3eda3fbe2b45a166fa217c258edfba66740ca": {
+      "zh_title": "新规致Nano Banana应用受限，用户推荐平价替代方案",
+      "zh_html": "<p>1月16日发布的新限制规定严重影响了Nano Banana应用的功能，导致用户无法正常使用。有用户分享了同样价格但无限制的替代方案。</p><p>来源：<a href=\"https://www.reddit.com/user/BumblebeeSweet6273\">Reddit用户BumblebeeSweet6273</a>，<a href=\"https://www.reddit.com/r/Bard/comments/1qfnn46/they_ruined_the_nano_banana/\">原文链接</a>，<a href=\"https://www.reddit.com/r/Bard/comments/1qfnn46/they_ruined_the_nano_banana/\">评论链接</a></p>"
+    },
+    "10587e9bed2cee62847a77654efe14c16ab595868a8cd2d0dc2dbc0f283ddc25": {
+      "zh_title": "Gemini截图文字识别出错？用户实测发现模型幻觉数字",
+      "zh_html": "<p>长话短说：用户在网页版Gemini 3 Pro中上传截图，要求读取数字并进行数学计算，结果模型产生了幻觉数字。但用户后续测试发现，若在全新对话中提问（原对话上下文已超5.5万词），模型表现正常。</p><ol><li>用户通过<a href=\"https://www.reddit.com/user/TechNerd10191\">TechNerd10191</a>在Reddit提交实测案例</li><li>问题出现在长上下文对话中（≥5.5万词）</li><li>模型在全新对话中能正确识别截图文字</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Bard/comments/1qfdszw/gemini_can_not_read_text_from_screenshot/\">Reddit讨论帖</a>（含原文与评论）</p>"
+    },
+    "a115d5f819cd533d1f20d6c07605f5a47c49e874caae19a28c676c9917fc5c8c": {
+      "zh_title": "美国用户更新Gemini Pro后仍无法使用个人智能功能",
+      "zh_html": "<p>长话短说：一位美国用户表示，尽管已更新至Gemini Pro且所有应用均为最新版本，但仍无法使用“个人智能”功能。用户对官方博客称“可直接选择加入”的说法感到困惑，并在Reddit社区发帖求助。</p><ol><li>用户位于美国，已拥有Gemini Pro版本</li><li>所有相关应用程序均已保持最新状态</li><li>官方博客说明该功能可通过选择加入启用</li><li>用户实际体验中仍未出现该功能选项</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Bard/comments/1qff1bs/personal_intelligence/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/Googler10\">u/Googler10</a>）</p>"
+    },
+    "d0df157dfb5824a708264c42912b3666341c24a08a94625bee08224d4f863419": {
+      "zh_title": "三星手机双谷歌账户使用Gemini时无法选择数据关联账户",
+      "zh_html": "<p>长话短说：用户在三星手机上登录了两个谷歌账户，但在启用Gemini时，系统未提供选项来选择将收集的数据关联到哪个账户。用户担心隐私和数据归属问题，尤其是在“接受条款”界面无法指定账户。</p><ol><li>用户拥有两个谷歌账户，均登录在同一台三星手机上。</li><li>尝试启用Gemini（谷歌AI助手）时，发现流程默认关联到某一账户。</li><li>在关键的“接受条款”界面，系统没有提供选择数据关联账户的选项。</li><li>用户对此表示困惑，担心数据被关联到错误的账户。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Bard/comments/1qfbt8f/i_have_two_google_accounts_on_my_samsung_phone_i/\">Reddit讨论帖</a>、<a href=\"https://i.redd.it/42c56mjdjwdg1.jpeg\">界面截图</a>（由用户teeto66提交）</p>"
+    },
+    "c37c793112287db968822f74f6e7006ee8f3e8f1d2662a5be6d5f2003f71886c": {
+      "zh_title": "用户热议：哪些定时炸弹将在我们有生之年引爆？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问人们认为哪些潜在的危机或问题会在未来几十年内爆发，成为影响全球或社会的“定时炸弹”。该话题引发了大量网友参与，从环境、科技、社会到经济等多个维度分享了各自的担忧与预测。</p><ol><li>讨论主题聚焦于未来可能爆发的重大危机。</li><li>涵盖环境、科技、社会及经济等多个潜在风险领域。</li><li>源自Reddit社区的广泛用户参与和观点分享。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfjp1e/whats_a_ticking_time_bomb_you_believe_will/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/TradeOverall567\">TradeOverall567</a>提交）。</p>"
+    },
+    "8141804d30090adaea66304a2e8b2dce1292b791ccc4a3cfd3415e847d6ac9ba": {
+      "zh_title": "童年已停产的零食，你愿意花百元再尝一次吗？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问大家童年记忆中已停产的食品或零食，是否愿意花100美元再品尝最后一次。话题引发众多网友回忆与分享，许多消失的美味成为一代人的共同怀念。</p><ol><li>讨论主题围绕已停产的童年零食展开。</li><li>用户被问及是否愿意支付100美元再尝一次。</li><li>话题在<a href=\"https://www.reddit.com/r/AskReddit/comments/1qf1wdl/what_is_a_discontinued_food_item_or_snack_from/\">Reddit社区</a>引发热烈回响。</li></ol><p>来源：讨论源自<a href=\"https://www.reddit.com/user/MotivewasUlterior\">用户MotivewasUlterior</a>在<a href=\"https://www.reddit.com/r/AskReddit/comments/1qf1wdl/what_is_a_discontinued_food_item_or_snack_from/\">AskReddit板块的提问</a>。</p>"
+    },
+    "30b3a3606524cb419bb940684982d907837524357c71b1bf94d9d42d5b339600": {
+      "zh_title": "出轨早期预警信号常被忽视的细节",
+      "zh_html": "<p>长话短说：在Reddit的讨论中，用户们分享了那些容易被忽略的出轨早期迹象，包括伴侣行为模式的微妙变化、沟通减少、过度保护隐私等。这些信号往往被日常琐事掩盖，但可能预示着关系出现了根本性问题。</p><ol><li>伴侣突然改变日常作息或习惯，且没有合理解释。</li><li>对手机等电子设备过度敏感，时刻保持屏幕朝下或设置新密码。</li><li>减少亲密互动，避免眼神接触或身体接触。</li><li>开始挑剔或无故挑起争吵，为外出制造借口。</li><li>在社交媒体上行为异常，如突然删除合照或活跃于新账号。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qf932i/what_early_warning_signs_of_cheating_do_people/\">Reddit讨论帖</a>，由用户<a href=\"https://www.reddit.com/user/Mediocre-Implement34\">Mediocre-Implement34</a>发起。</p>"
+    },
+    "44640f0f2925352bd79acc78439f978cdd908d13676b2005919f130ea92cd241": {
+      "zh_title": "网友热议百吃不厌的食物",
+      "zh_html": "<p>长话短说：Reddit网友热烈讨论“有什么食物可以天天吃而不腻”，答案五花八门，从经典主食到简单零食，展现了全球各地不同的饮食偏好和日常习惯。</p><ol><li>米饭、面包、土豆等主食被多次提及，因其百搭和饱腹感强。</li><li>鸡蛋、酸奶、燕麦等健康食品因营养和便利性受到喜爱。</li><li>水果（如香蕉、苹果）、坚果和黑巧克力作为零食常被推荐。</li><li>一些网友钟情于特定食物，如披萨、寿司或家乡菜肴。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfcsia/whats_something_you_can_eat_any_day_without/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/More_Living9471\">More_Living9471</a>发起）</p>"
+    },
+    "bda6b7a6cd4a7ebbd87789adf89402996991de0d842e406a121b1497ba87abbe": {
+      "zh_title": "情侣间最蠢家规：玩笑成真，执行起来却较真",
+      "zh_html": "<p>长话短说：Reddit网友分享情侣间那些起初是玩笑、如今却认真执行的最蠢“家规”。从“谁最后上床谁关灯”到“不准在对方面前吃最后一块饼干”，这些规则看似无厘头，却成了伴侣间心照不宣的默契，甚至引发“低强度较劲”。</p><ol><li>规则起初多为玩笑，如“猜拳决定谁洗碗”或“输家负责遛狗”。</li><li>随时间推移，双方都开始“低调但认真地”执行，甚至为此争论。</li><li>常见规则涉及家务分工、零食分配、睡前仪式等生活琐事。</li><li>网友认为这些规则虽蠢，却无形中成为关系中的趣味互动。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qeojuj/couples_of_reddit_whats_the_dumbest_house_rule/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/Doubl3oh_\">u/Doubl3oh_</a>）</p>"
+    },
+    "8a90ad97f989bd12bea656a795f945db3ebc031d58a9303b08bd9439751ee59b": {
+      "zh_title": "哪些特权在失去后才被意识到？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问人们有哪些特权是在失去后才意识到的。帖子引发广泛共鸣，网友们分享了从健康、自由到日常便利等各类容易被忽视的宝贵事物。</p><ol><li>健康：包括身体无痛、睡眠良好、精神稳定等基本状态。</li><li>自由：行动自由、言论自由、选择职业和居住地的权利。</li><li>时间：年轻时充沛的精力与可自由支配的时间。</li><li>社会关系：稳定的家庭、可信赖的朋友、和谐的社区环境。</li><li>经济安全：稳定的收入、应急储蓄、负担得起医疗和教育。</li><li>日常便利：清洁的水源、可靠的电力、便捷的交通和网络。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfbcaa/whats_something_people_dont_realize_is_a/\">Reddit讨论帖</a>（由用户Ok_Tomatillo_46提交）</p>"
+    },
+    "56db91a791e3517fd04f8fe5bd9dbbdd1401b9f210951a8d4751217460208af2": {
+      "zh_title": "一加13最新系统更新支持50MP照片编辑与旁路充电",
+      "zh_html": "<p>长话短说：一加13最新OxygenOS系统更新带来了两项重要功能：支持直接编辑5000万像素照片，以及新增旁路充电模式。前者让用户无需降分辨率即可精细修图，后者则能在游戏或充电时保护电池健康、减少发热。</p><ol><li>新增5000万像素照片编辑功能，用户可直接对高分辨率照片进行裁剪、调整等操作，无需预先压缩。</li><li>加入旁路充电支持，充电时可为手机直接供电，减少电池发热与损耗，尤其适合边玩边充场景。</li><li>更新已开始向一加13用户推送，建议连接Wi-Fi后下载安装。</li></ol><p>来源：<a href=\"https://www.gsmarena.com/oneplus_13_bypass_charging_50mp_photo_editing_support_oxygenos_16_update-news-71152.php\">GSMArena报道</a>、<a href=\"https://www.reddit.com/r/Android/comments/1qfg43e/oneplus_13_gets_50mp_photo_editing_and_bypass/\">Reddit讨论</a></p>"
     }
   }
 }
