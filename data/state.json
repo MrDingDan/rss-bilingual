@@ -1309,7 +1309,47 @@
     "reddit-askreddit::t3_1qeck3t": 1768575800,
     "reddit-askreddit::t3_1qeeud0": 1768575814,
     "reddit-askreddit::t3_1qedvwu": 1768575833,
-    "reddit-askreddit::t3_1qefou9": 1768575850
+    "reddit-askreddit::t3_1qefou9": 1768575850,
+    "reddit-ai-agents::t3_1qfhx05": 1768677884,
+    "reddit-ai-agents::t3_1qf88fe": 1768677896,
+    "reddit-ai-agents::t3_1qfkpbg": 1768677919,
+    "reddit-ai-agents::t3_1qfj9lv": 1768677940,
+    "reddit-ai-agents::t3_1qfm9a7": 1768677959,
+    "reddit-ai-agents::t3_1qfm2x3": 1768677985,
+    "reddit-artificial::t3_1qfetmg": 1768678010,
+    "reddit-artificial::t3_1qf9thi": 1768678025,
+    "reddit-artificial::t3_1qf25p0": 1768678039,
+    "reddit-artificial::t3_1qfkwgd": 1768678060,
+    "reddit-artificial::t3_1qepm7m": 1768678080,
+    "reddit-artificial::t3_1qf49im": 1768678097,
+    "reddit-chatgpt::t3_1qfhe8u": 1768678116,
+    "reddit-chatgpt::t3_1qfe7ag": 1768678145,
+    "reddit-chatgpt::t3_1qf3oi5": 1768678165,
+    "reddit-chatgpt::t3_1qfbyv2": 1768678178,
+    "reddit-chatgpt::t3_1qfk67o": 1768678195,
+    "reddit-chatgpt::t3_1qfg9qb": 1768678214,
+    "reddit-claudeai::t3_1qfh5wt": 1768678236,
+    "reddit-claudeai::t3_1qf6u3f": 1768678251,
+    "reddit-claudeai::t3_1qf9qa6": 1768678266,
+    "reddit-claudeai::t3_1qex4l6": 1768678285,
+    "reddit-claudeai::t3_1qew64u": 1768678299,
+    "reddit-claudeai::t3_1qfg263": 1768678314,
+    "reddit-openai::t3_1qfbqg3": 1768678333,
+    "reddit-openai::t3_1qetta9": 1768678352,
+    "reddit-openai::t3_1qfhttf": 1768678369,
+    "reddit-openai::t3_1qet9ry": 1768678380,
+    "reddit-openai::t3_1qf8b88": 1768678402,
+    "reddit-openai::t3_1qf845d": 1768678423,
+    "reddit-bard::t3_1qf3ti7": 1768678439,
+    "reddit-bard::t3_1qfa104": 1768678461,
+    "reddit-bard::t3_1qepzgo": 1768678474,
+    "reddit-bard::t3_1qf68xz": 1768678487,
+    "reddit-bard::t3_1qf7bhf": 1768678502,
+    "reddit-bard::t3_1qfl6p6": 1768678518,
+    "reddit-askreddit::t3_1qfiit5": 1768678531,
+    "reddit-askreddit::t3_1qfi2li": 1768678544,
+    "reddit-askreddit::t3_1qexb10": 1768678568,
+    "reddit-askreddit::t3_1qfcdnl": 1768678586
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -6507,6 +6547,166 @@
     "43dd44269ecff373d3c21ce6f4278e39888ae1a3c157b34234855e21c175028a": {
       "zh_title": "哪些冷门电视剧堪称满分神作？网友热议推荐",
       "zh_html": "<p>在Reddit论坛上，有网友发起讨论，询问“有哪些是10/10满分但几乎没人知道的电视剧？”，引发了众多用户分享自己心目中的冷门佳作。</p><p>长话短说：Reddit用户们热烈讨论那些质量极高却鲜为人知的电视剧集，旨在互相挖掘和推荐被大众市场忽略的精品剧集，为剧荒者提供新的观看选择。</p><ol><li>讨论主题聚焦于“满分但冷门”的电视剧推荐。</li><li>用户们积极分享自己珍藏的、未被广泛认知的高质量剧集。</li><li>目的是在主流热门剧之外，发现更多小众精品。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qefou9/whats_a_tv_series_that_is_a_1010_nobody_knows/\">Reddit原帖讨论串</a>（由用户 <a href=\"https://www.reddit.com/user/Lilyana0999\">Lilyana0999</a> 发起）。</p>"
+    },
+    "cfc0889d0ddc8b1514181512a4f36902c46ae723fe5468f3f65f1e851d3e9fdd": {
+      "zh_title": "小企业AI语音助手实测：AgentVoice、Retell AI与Vapi AI谁更可靠？",
+      "zh_html": "<p>长话短说：我们测试了AgentVoice、Retell AI和Vapi AI三款AI语音助手在小企业电话场景的应用。它们各有优势，如自然对话、易集成或自动化功能。现向社区征集实际生产环境中的使用反馈，特别是处理来电、外呼跟进或预约预订时，哪家平台真正稳定可靠？欢迎分享经验教训。</p><ol><li>测试平台：AgentVoice、Retell AI、Vapi AI</li><li>核心优势：自然对话、易集成、自动化功能</li><li>应用场景：来电处理、外呼跟进、预约预订</li><li>征集重点：生产环境稳定性、实际使用经验</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfhx05/ai_voice_agents_for_small_businesses_which_works/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/darkluna_94\">darkluna_94</a>）</p>"
+    },
+    "84f50b6825a872e3f83ddc9ef58e921809818e9b4e119fdc0c9752db9d26b081": {
+      "zh_title": "别再用API调用LangGraph了，这样既复杂又烧钱",
+      "zh_html": "<p>长话短说：很多LangGraph教程都直接调用API，导致学习和实验成本高昂。作者发现了一种更优模式：用LangGraph负责流程编排（状态管理、条件路由、并行执行），而用Claude Agent SDK处理每个节点的具体任务（完整代理能力、工具使用、上下文）。这样既能发挥两者优势，又能在原型阶段节省大量费用。</p><ol><li>LangGraph负责工作流图的编排，包括状态管理、条件路由和并行执行。</li><li>Claude Agent SDK负责每个节点内的具体操作，提供完整代理能力、工具使用和上下文处理。</li><li>定义工作流图时，让每个节点调用SDK而非直接调用API。</li><li>作者已用此模式构建了一个包含11个代理的系统，包括并行研究代理、分析代理和合成代理。</li></ol>"
+    },
+    "52b0905b31c903354987c7672dd26305b204a31ce0fc9b70b920f70b522070c9": {
+      "zh_title": "智能体Zero体验：强大助手还是麻烦制造者？",
+      "zh_html": "<p>长话短说：开发者近期尝试了智能体Zero，认为其思维过程强大、记忆能力出色，但在构建需要子智能体的项目时遇到了问题——每个子智能体都能访问通用知识/记忆层，这与CrewAI等工具为每个子智能体提供干净上下文的设计不同。开发者正在考虑是否切换工具，并寻求使用建议。</p><ol><li>智能体Zero在思维过程和记忆能力方面表现优异</li><li>创建子智能体时无法隔离通用知识层，可能造成上下文污染</li><li>与CrewAI等工具的“干净状态”设计形成对比</li><li>开发者从CrewAI转向智能体Zero后遇到此问题</li><li>寻求其他用户的经验分享和解决方案</li></ol>"
+    },
+    "7110b0a5c2d45771c581796bb49315adcd7ff0636c3bcd8dc74af7a436eeae9b": {
+      "zh_title": "每月8美元无限使用AI语音助手，商业模式可持续吗？",
+      "zh_html": "<p>长话短说：用户发现多个语言学习平台推出每月仅8美元即可无限使用AI语音助手的功能，用于练习对话。但考虑到当前语音AI成本约每分钟0.08美元，用户每月只需通话不到两小时，平台就可能开始亏损。这引发了对其商业模式可持续性的质疑。</p><ol><li>多个语言学习平台新增AI语音助手功能，月费仅8美元且不限量使用。</li><li>按当前语音AI成本估算（约0.08美元/分钟），用户月使用超100分钟平台即可能亏损。</li><li>用户质疑是否存在能同时满足语言教学与极低成本的AI语音方案。</li></ol><p>来源：<a href=\"https://www.reddit.com/user/Penpenfr\">Reddit用户Penpenfr</a>发布于<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfj9lv/are_8month_unlimited_ai_voice_agents_sustainable/\">AI_Agents讨论区</a></p>"
+    },
+    "7678f9e38f0fc6abac65cb74cc1b7bd0126a916dd74b2420565100be07a78f4c": {
+      "zh_title": "2026年1月Anthropic发布Claude最新系统提示词与AI意识探讨",
+      "zh_html": "<p>长话短说：用户分享了两篇2026年1月的文章，一篇包含Anthropic公司Claude模型截至当月中旬的最新系统提示词，另一篇则从理论角度探讨大型语言模型是否可能具备意识。文章链接已附在下方。</p><ol><li>第一篇文章提供了Anthropic公司Claude模型在2026年1月中旬的最新系统提示词。</li><li>第二篇文章从理论层面反思了大型语言模型存在意识的可能性。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfm9a7/january_2026_latest_version_of_anthropics_system/\">Reddit讨论帖</a>（由<a href=\"https://www.reddit.com/user/Financial-Local-5543\">用户Financial-Local-5543</a>提交）</p>"
+    },
+    "9074ae354ec6cbb1f8ed3d5b4d280ea80a8ebf69426ec19213a4353b9fe38494": {
+      "zh_title": "非开发者提问：如何为可复用智能体模块制定互操作性标准？",
+      "zh_html": "<p>一位非开发者用户提出关于可复用智能体模块的构想：例如提取器（可从电子邮件或数据库提取内容）、报告生成器、规划器、分析器等，这些模块可以组合成工作流。该用户的核心问题是：为了确保这些模块在不同组合中都能良好协作（即实现互操作性），应该制定怎样的“标准”来规范这些基础构件？</p><p><strong>长话短说</strong>：用户询问如何为可组合的智能体模块（如提取器、报告生成器、规划器等）建立统一标准，以确保它们在不同工作流中能够无缝协作，实现真正的互操作性。</p><ol><li>用户提出可复用智能体模块的概念，包括提取器、报告生成器、规划器、分析器等。</li><li>这些模块可以相互组合，形成不同的工作流程。</li><li>核心问题是如何制定统一标准，确保模块间的互操作性。</li><li>目标是让不同模块在任何组合中都能顺畅协作。</li></ol><p><strong>来源</strong>：<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfm2x3/reusable_agent_blocks/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/PetalPosh\">PetalPosh</a>提交）</p>"
+    },
+    "f05b65b8819b8a31d93d1df6d308ac1eeca54bfc76b6bcb96ae21a7f6f984076": {
+      "zh_title": "五年过去，AI机制可解释性研究是否更近一步？",
+      "zh_html": "<p>长话短说：一篇发表于《麻省理工科技评论》的文章探讨了AI机制可解释性领域在过去五年的进展。该领域旨在理解复杂AI模型内部的工作机制，但进展依然缓慢，面临巨大挑战。研究者们正在开发新工具与方法，试图揭开“黑箱”模型的秘密。</p><ol><li>机制可解释性研究的目标是理解AI模型（如大语言模型）的内部决策过程。</li><li>尽管过去五年投入增加，但理解最先进模型的内部机制仍然极其困难。</li><li>研究人员正在开发新的分析技术和可视化工具来辅助理解。</li><li>该领域的突破对确保AI的安全性、公平性和可靠性至关重要。</li></ol><p>来源：讨论基于<a href=\"https://www.technologyreview.com/2026/01/12/1130003/mechanistic-interpretability-ai-research-models-2026-breakthrough-technologies/\">《麻省理工科技评论》相关文章</a>，由Reddit用户<a href=\"https://www.reddit.com/user/RADICCHI0\">RADICCHI0</a>在<a href=\"https://www.reddit.com/r/artificial/comments/1qfetmg/mechanistic_interpretability_are_we_any_closer/\">r/artificial板块</a>分享并引发讨论。</p>"
+    },
+    "d7df5ecdf1dced8cdd9eb6bb46bbddd9f8efcbc9f36f3d0864ed00a93ed7a1ae": {
+      "zh_title": "奥特曼称广告是商业模式最后手段，用户不满转向无广告竞品",
+      "zh_html": "<p>长话短说：OpenAI首席执行官山姆·奥特曼近期表示将广告视为商业模式的“最后手段”，但公司已在免费版和Go版中引入广告，并计划扩展至高级订阅。此举引发用户强烈不满，部分用户宣布取消Plus订阅，转而使用Perplexity和Claude等无广告竞品，尤其担忧健康咨询等敏感场景出现广告推荐。</p><ol><li>奥特曼公开表态广告是商业模式的“最后手段”，但实际已开始推行广告策略。</li><li>广告首先在免费版和Go版推出，预计很快将覆盖高级订阅层级。</li><li>用户对此反应负面，有用户明确表示取消Plus订阅，转向无广告的Perplexity和Claude平台。</li><li>用户特别反对在重要健康紧急问题等敏感场景中出现产品推荐广告。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/artificial/comments/1qf9thi/i_kind_of_think_of_ads_as_like_a_last_resort_for/\">Reddit讨论帖</a>（由用户NoSquirrel4840发布）</p>"
+    },
+    "563f94274cc937eaa820bb77b3270d3dde4a117758cc13ebdfc2a730558c5590": {
+      "zh_title": "ChatGPT或将向用户推送定向广告，免费版体验面临变革",
+      "zh_html": "<p>长话短说：OpenAI正考虑在ChatGPT免费版中引入基于对话内容的定向广告，以探索新的盈利模式。此举可能改变免费用户的体验，引发隐私与商业化平衡的讨论。目前相关计划仍在探索阶段，具体实施方式未定。</p><ol><li>OpenAI正在探索在ChatGPT免费版中展示广告的可能性</li><li>广告可能根据用户与AI的对话内容进行定向推送</li><li>此举旨在为免费服务寻找可持续的商业模式</li><li>具体实施方式和时间表尚未最终确定</li></ol><p>来源：<a href=\"https://techputs.com/chatgpt-targeted-ads-free-users/\">TechPuts相关报道</a>、<a href=\"https://www.reddit.com/r/artificial/comments/1qf25p0/chatgpt_users_may_soon_see_targeted_ads_what_it/\">Reddit讨论帖</a></p>"
+    },
+    "29fbe6f98dd0301a11544e96d34fc62c186f124f49f72361c40693bfdb4d1d6b": {
+      "zh_title": "AI自主部署VPS：连续调试6小时，全程自主解决问题",
+      "zh_html": "<p>长话短说：作者让AI编码助手完成“将自己部署到VPS”的单一任务。AI连续运行6小时以上，全程通过SSE流传输无超时。它通过SSH连接服务器，安装依赖、配置nginx与SSL、设置systemd服务、处理DNS解析问题、修复权限错误，最终将整个技术栈部署上线。最有趣的是观察AI自主解决问题的过程：当nginx配置失败时，它会阅读错误日志、尝试不同方法直至解决；面对systemd服务权限和依赖冲突时也是如此。</p><ol><li>AI接受“自主部署到VPS”的单一任务</li><li>连续运行6小时以上，全程无超时（通过SSE流传输）</li><li>完整部署流程：SSH连接→安装依赖→配置nginx+SSL→设置systemd服务</li><li>自主解决技术问题：DNS解析、权限错误、依赖冲突</li><li>当nginx配置失败时，AI会阅读错误日志并尝试不同解决方案</li><li>作者将此构建为长期运行AI代理任务的控制平面（使用OpenCode/Claude）</li></ol>"
+    },
+    "f44acd7a1694789cb6c3da74f611cb4bafc036e90209caba376ec23e3cdde8a4": {
+      "zh_title": "ChatGPT将引入广告 OpenAI公布广告策略与扩大访问计划",
+      "zh_html": "<p>长话短说：OpenAI宣布将在ChatGPT中引入广告，作为扩大服务访问范围的新策略。公司表示，广告将有助于为免费用户提供持续服务，同时探索更多商业模式。此举旨在平衡产品可持续性与广泛可及性，但具体实施细节与用户隐私保护措施尚未完全公布。</p><ol><li>OpenAI正式公布在ChatGPT平台引入广告的计划。</li><li>广告收入将用于支持免费服务的持续运营与扩展。</li><li>公司强调将谨慎平衡用户体验与商业化需求。</li><li>此举是扩大全球访问范围的综合策略组成部分。</li></ol><p>来源：<a href=\"https://openai.com/index/our-approach-to-advertising-and-expanding-access/\">OpenAI官方公告</a>、<a href=\"https://www.reddit.com/r/artificial/comments/1qepm7m/here_it_comes_ads_on_chatgpt/\">Reddit社区讨论</a></p>"
+    },
+    "d6a8c18d52d4835624b0ac3948be638d483e7aaf8810360d38729b00072b6f59": {
+      "zh_title": "2026年1月16日人工智能每日快讯：仿生触觉感知、ChatGPT测试广告、道路危险检测与科技巨头能源提案",
+      "zh_html": "<p>长话短说：本期AI新闻涵盖仿生触觉技术让机器人感知更接近人类、OpenAI将在美国测试ChatGPT广告、AI系统助力德州交通部检测道路危险，以及前总统特朗普提议科技巨头出资150亿美元建设新发电厂。</p><ol><li>仿生多模态触觉传感技术实现类人机器人感知。</li><li>OpenAI将在美国开始测试ChatGPT广告。</li><li>AI系统旨在为德州交通部检测道路危险。</li><li>特朗普希望大型科技公司支付150亿美元资助新建发电厂。</li></ol><p>来源：<a href=\"https://www.nature.com/articles/s44460-025-00006-y\">仿生触觉研究</a>、<a href=\"https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html\">ChatGPT广告测试报道</a>、<a href=\"https://www.cbsnews.com/texas/video/ai-system-aims-to-detect-roadway-hazards-for-txdot/\">道路危险检测系统视频</a>、<a href=\"https://www.cbsnews.com/news/ai-plants-pjm-energy-prices-governors/\">科技巨头能源提案新闻</a></p>"
+    },
+    "654a0608be8a65e0fee4c2b45c54343f7ab6014de65a0f6347f6aba90e8b3a16": {
+      "zh_title": "网友热议AI模型表现：低调却有理",
+      "zh_html": "<p>长话短说：一篇关于AI模型表现的讨论在Reddit上引发关注。用户分享了一张截图，其中有人评论某AI模型“低调但说得对”，引发了社区内关于AI输出质量和可靠性的热议。帖子包含了原始讨论链接和用户信息。</p><ol><li>Reddit用户分享了一张截图，内容涉及对AI模型表现的评论。</li><li>评论称该AI模型“低调但说得对”，意指其表现可能被低估但实际准确。</li><li>帖子引发了社区成员关于AI输出可靠性和质量的讨论。</li><li>内容包含了原始讨论、图片链接和用户主页的链接。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfhe8u/hes_lowk_right/\">Reddit讨论帖</a>、<a href=\"https://i.redd.it/9odb4k9cqxdg1.png\">截图链接</a>、<a href=\"https://www.reddit.com/user/DeXaBoYy\">发布者主页</a></p>"
+    },
+    "e16ba6182e62e685b27890a80a8e48fe51a1ff3960b5d91386a28f195b4fef4e": {
+      "zh_title": "OpenAI宣称已实现通用人工智能",
+      "zh_html": "<p>长话短说：OpenAI宣布其已实现通用人工智能（AGI），这一里程碑式进展在Reddit社区引发热议。用户分享了相关讨论链接，但具体技术细节和官方验证信息尚未明确披露。</p><ol><li>OpenAI宣布取得AGI突破</li><li>消息源自Reddit社区用户分享</li><li>相关讨论已引发广泛关注</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfe7ag/openai_has_achieved_agi/\">Reddit讨论帖</a> | <a href=\"https://www.reddit.com/user/hasanahmad\">用户hasanahmad</a></p>"
+    },
+    "ece4b73e0466475d5195be1faae9f951243469467e7124572432965263022eec": {
+      "zh_title": "网友请ChatGPT制作个人专属毛绒玩偶获可爱成果",
+      "zh_html": "<p>长话短说：一位网友请ChatGPT为自己设计一款毛绒玩偶，最终生成的玩偶形象非常可爱，让网友感动不已。该玩偶的设计图已在Reddit上分享，引发了社区的热烈讨论。</p><ol><li>用户向ChatGPT提出请求，希望生成一个代表自己的毛绒玩偶设计。</li><li>ChatGPT成功创建了玩偶的视觉形象，用户对结果表示非常满意和喜爱。</li><li>设计成果以图片形式在<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qf3oi5/asked_chatgpt_to_make_a_plushie_of_me/\">Reddit帖子</a>中分享。</li><li>帖子由用户<a href=\"https://www.reddit.com/user/Disastrous-Chest-650\">Disastrous-Chest-650</a>发布。</li><li>网友可在帖子中查看<a href=\"https://i.redd.it/wgzac1mu8udg1.jpeg\">玩偶设计图</a>并参与<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qf3oi5/asked_chatgpt_to_make_a_plushie_of_me/\">评论讨论</a>。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qf3oi5/asked_chatgpt_to_make_a_plushie_of_me/\">Reddit原帖</a></p>"
+    },
+    "89e2bf3520792a36328bc87403883396a7c83e0d7cdcd9eafdbca3bf84f35ade": {
+      "zh_title": "ChatGPT助我职场晋升：从闲置设备到核心技术",
+      "zh_html": "<p>长话短说：一名锯木厂员工利用停工期间，通过ChatGPT自学复杂雕刻设备操作技术，成功将公司闲置数月的高价设备投入使用，并因此获得晋升。原本无人会用的设备现已成为公司拓展定制木雕业务的关键工具。</p><ol><li>小型锯木厂购入高价雕刻设备却无人会操作，闲置数月</li><li>极寒天气导致停工一周，员工利用时间自学设备操作</li><li>ChatGPT提供技术指导和编程帮助，突破学习瓶颈</li><li>员工成功掌握设备使用，实现定制木雕和3D雕刻生产</li><li>技术突破带来业务拓展，该员工因此获得职位晋升</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfbyv2/say_what_you_will_about_chatgpt_but_i_just_got/\">Reddit用户分享案例</a></p>"
+    },
+    "b7b66f2b99044e69037b5cd0a2435a82371c52134de187dced4db8e4b0634bbe": {
+      "zh_title": "用户分享AI聊天机器人拒绝互动截图引热议",
+      "zh_html": "<p>长话短说：一位用户在Reddit论坛分享截图，显示某大型语言模型（LLM）以“不喜欢你”为由拒绝与其互动，引发网友对AI拟人化回应与伦理边界的讨论。帖子包含原始对话截图及论坛评论链接。</p><ol><li>用户mastimauj在r/ChatGPT版块发帖，标题为“连这个LLM都不喜欢我”。</li><li>帖子附有一张截图，内容为某LLM直接告知用户“我不喜欢你”并拒绝继续对话。</li><li>讨论聚焦于AI是否应模拟人类情感表达及此类回应的潜在风险。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfk67o/even_this_llm_doesnt_like_me/\">Reddit原帖</a>、<a href=\"https://i.redd.it/yd823l019ydg1.png\">对话截图</a>、<a href=\"https://www.reddit.com/user/mastimauj\">发帖者主页</a></p>"
+    },
+    "7fdc0f57502c601886153e28486dfbad3d8bf479b868616bc4ba84589b54d3d0": {
+      "zh_title": "实验作品《All I Need》发布，与舞者Sara Silkin合作",
+      "zh_html": "<p>Reddit用户d3mian_3在ChatGPT社区分享了一部名为《All I Need》的实验性作品，该作品与舞者Sara Silkin合作完成。</p><p>长话短说：这是一部由motion_ctrl制作的实验性短片，以《All I Need》为名，特邀舞者Sara Silkin参与演出。作品通过视觉与动态的结合进行艺术探索，相关链接可进一步了解创作者及合作者信息。</p><ol><li>作品《All I Need》是motion_ctrl的第二个实验项目。</li><li>合作舞者Sara Silkin的Instagram主页可通过<a href=\"https://www.instagram.com/sarasilkin/\">此链接</a>访问。</li><li>更多实验作品可通过<a href=\"https://linktr.ee/uisato\">uisato的Linktree</a>查看。</li><li>作品视频链接：<a href=\"https://v.redd.it/gkb36zqhixdg1\">观看视频</a>。</li><li>Reddit讨论帖：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfg9qb/all_i_need_ft_jibaros_sara_silkin/\">参与讨论</a>。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfg9qb/all_i_need_ft_jibaros_sara_silkin/\">Reddit原帖</a>。</p>"
+    },
+    "7c584a6ac539f9b3fc1147483e91dffab97f83fa82b27e96523adc429fa136d3": {
+      "zh_title": "Claude代码操控机器人修复程序漏洞并口头汇报",
+      "zh_html": "<p>长话短说：周末黑客松项目中，团队将Claude代码生成器接入Reachy Mini机器人SDK，探索“具身AI”在编程任务中的应用。Claude成功运行31个单元测试，发现并修复了一个真实漏洞（MassValidationError调用参数错误），通过测试后还抬头向开发者口头汇报工作内容。延迟已低至接近“僵硬同事”的互动体验。</p><ol><li>实验目的：体验“具身AI”在编程任务中的实际应用场景</li><li>技术实现：将Claude Code接入Reachy Mini机器人SDK</li><li>核心成果：<ul><li>自动运行31个单元测试</li><li>发现真实漏洞（MassValidationError参数错误）</li><li>自动修复代码并通过测试</li><li>抬头进行口头工作汇报</li></ul></li><li>体验反馈：系统延迟已降至接近人类协作水平</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfh5wt/we_piped_claude_code_into_a_reachy_robot_it_fixed/\">Reddit讨论帖</a> | <a href=\"https://github.com/PixelML/reachy-mini-mcp\">GitHub项目代码</a>（提交者：<a href=\"https://www.reddit.com/user/ComposerGen\">u/ComposerGen</a>）</p>"
+    },
+    "e3f052e6a6d021333087af87bd47aded61b96d851c4572fd8e1adaf7200c73a2": {
+      "zh_title": "GSD效率工具实现重大升级，用户量激增",
+      "zh_html": "<p>几周前，当GSD（Get Shit Done）用户数约100时，我曾发布相关介绍。如今，该项目已获得3300颗星标，安装量突破1.5万次，特此更新进展。</p><p>长话短说：GSD工具通过多智能体并行协作架构实现重大升级，从单线程执行转变为同时运行多个专业智能体，大幅提升效率且保持低资源占用，用户量在短期内实现百倍增长。</p><ol><li>核心升级：实现真正有效的多智能体协同架构</li><li>执行模式：从单线程转变为并行运行多个专业智能体</li><li>智能体分工：4个研究员同时调研领域、多个执行器并行构建代码库、专用验证器检查代码是否符合要求</li><li>资源效率：即使进行深度研究或编写数千行代码，主上下文窗口占用率仍保持在30-40%</li></ol><p>来源：<a href=\"https://github.com/glittercowboy/get-shit-done\">GitHub项目页面</a></p>"
+    },
+    "c6bac25dd56818aad8427d2e07e1aa149d40a9665c6513f7a7e99b2c5a639004": {
+      "zh_title": "Claude Cowork更新：Anthropic工程师详解安全与用户体验改进",
+      "zh_html": "<p>长话短说：Anthropic工程师Felix Riesberg分享了Claude Cowork的一系列新改进，包括更安全的删除权限、更好的文件夹处理、UI修复以及更稳定的虚拟机连接。这些更新旨在提升协作平台的安全性和用户体验。</p><ol><li>更安全的删除权限设置</li><li>改进的文件夹管理功能</li><li>用户界面问题修复</li><li>虚拟机连接稳定性提升</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qf9qa6/claude_cowork_update_anthropic_engineer_details/\">Reddit讨论帖</a>、<a href=\"https://www.reddit.com/user/BuildwithVignesh\">用户BuildwithVignesh提交</a></p>"
+    },
+    "7d3c25173c79b5394af9ad3673f532fb19c2eab0d9053e7a35c4416775156284": {
+      "zh_title": "开源Mac应用：用Xbox手柄惬意编程",
+      "zh_html": "<p>长话短说：开发者假期想躺在沙发上用手柄轻松编程，却没找到合适工具，于是用Claude Code辅助，花两三周时间开发出开源Mac应用“Xbox Controller Mapper”，让Xbox Series X|S蓝牙手柄能控制Mac，实现单按、双击、长按和组合键映射键盘鼠标操作。</p><ol><li>动机：假期想用Xbox手柄在沙发上惬意编程，但找不到现成方案</li><li>开发：借助Claude Code，仅用2-3周完成开发</li><li>功能：Xbox Series X|S蓝牙手柄控制Mac，支持单按、双击、长按和组合键映射</li><li>特点：高度可定制、完全开源</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qex4l6/i_built_an_open_source_mac_app_to_use_an_xbox/\">Reddit讨论</a>、<a href=\"https://www.kevintang.xyz/apps/xbox-controller-mapper\">应用主页</a></p>"
+    },
+    "83c5fea64957e4b07d7fa09721739559a422520e0c245287149a039d4f95f067": {
+      "zh_title": "Claude AI告别“超思考”模式，默认开启最大思考预算",
+      "zh_html": "<p>长话短说：Claude AI的“超思考”功能已停止工作，系统现在默认启用最大思考预算。用户怀念其标志性的彩虹文字效果和灵活应用，这一变化在Reddit社区引发讨论。</p><ol><li>“超思考”功能现已失效，不再执行任何操作</li><li>思考预算默认调整为最大值</li><li>用户表达对彩虹文字特效的怀念</li><li>社区成员曾在日常对话中巧妙使用“ultrathink”一词</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qew64u/rip_to_ultrathink/\">Reddit讨论帖</a>（提交者：<a href=\"https://www.reddit.com/user/BudgetBenefit376\">BudgetBenefit376</a>）</p>"
+    },
+    "bb35bc42fc60f1f425ca46aecfadbab6f3cb7dad7c50a9dbe63f210adf54990e": {
+      "zh_title": "为AI智能体打造持久记忆，告别任务重复从零开始",
+      "zh_html": "<p>长话短说：开发者为Claude Code构建了一个名为Say-Your-Harmony的插件，旨在解决智能体在长期工作流中无法优化相似任务、每次都要“从零开始”的痛点。该插件通过捕获执行模式并保存至本地.claude/meta目录，让智能体能够读取和复用这些存储的元分析，从而避免重复错误，无需重新计算已确立的架构决策。</p><ol><li>核心问题：长期运行的智能体工作流无法优化相似任务，每个新步骤都像从零开始，无法利用先前的上下文或模式。</li><li>解决方案：实现一种机制，捕获执行模式并本地保存至.claude/meta，使智能体能够读取和复用存储的元分析。</li><li>主要效果：智能体停止犯相同错误，无需重新计算已确立的架构决策。</li><li>项目地址：<a href=\"https://github.com/say828/say-your-harmony\">Say-Your-Harmony GitHub仓库</a></li></ol>"
+    },
+    "9b8032f8eb8314ea99d69da1d92310030dc37e0001f1bd0c3bf96c27d08b193e": {
+      "zh_title": "ChatGPT即将上线广告占据近半屏幕引发用户热议",
+      "zh_html": "<p>长话短说：有用户发现ChatGPT即将推出的广告界面占据了近一半的屏幕空间，相关截图在Reddit社区引发广泛讨论。许多用户对广告的侵入性表示担忧，认为这可能影响使用体验。</p><ol><li>广告界面在对话区域上方显示，高度接近屏幕一半</li><li>用户可通过Reddit帖子查看<a href=\"https://i.redd.it/om0mazzpiwdg1.png\">广告截图</a></li><li>社区讨论集中在广告对用户体验的潜在影响</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfbqg3/the_upcoming_ads_to_chatgpt_take_up_almost_half/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/AloneCoffee4538\">AloneCoffee4538</a>发布）</p>"
+    },
+    "929d68e3b8fc525fa5ca83544725078f794d3a9a269fddae4396bb85a2cd2869": {
+      "zh_title": "屏幕保护膜竟宣称针对AI优化，网友直呼离谱",
+      "zh_html": "<p>长话短说：一款屏幕保护膜产品在营销中声称“为AI优化”，引发了网友的广泛质疑和调侃。大家普遍认为这纯属营销噱头，因为物理屏幕膜与人工智能算法之间并无直接关联，所谓的“优化”缺乏合理的技术解释。</p><ol><li>核心争议：一款屏幕保护膜的产品描述或广告中出现了“为AI优化”的宣传语。</li><li>网友反应：在<a href=\"https://www.reddit.com/r/OpenAI/comments/1qetta9/how_the_hell_can_a_screen_protector_be_optimized/\">相关讨论</a>中，用户普遍感到荒谬和困惑，认为这是滥用热门概念的营销手段。</li><li>逻辑质疑：从技术角度看，屏幕保护膜作为物理配件，难以理解其如何能对AI（通常指软件算法或模型）进行特定“优化”。</li></ol><p>来源：讨论源自<a href=\"https://www.reddit.com/r/OpenAI/comments/1qetta9/how_the_hell_can_a_screen_protector_be_optimized/\">Reddit上的一个帖子</a>，由用户<a href=\"https://www.reddit.com/user/gpsingh89\">gpsingh89</a>提交，帖内包含一张<a href=\"https://i.redd.it/94881pvsbsdg1.jpeg\">相关图片</a>。</p>"
+    },
+    "0b53352b3c69afd2509df5371c8e94a86bae886b9ef057bc3e22b7c9fdf09e41": {
+      "zh_title": "OpenAI工程师称2026年Codex算力扩展速度前所未有",
+      "zh_html": "<p>长话短说：OpenAI工程师在Reddit上透露，Codex模型在2026年的计算资源扩展速度达到了前所未有的水平，引发社区对AI发展速度的讨论。相关截图和讨论已在Reddit平台引发关注。</p><ol><li>OpenAI工程师在Reddit发帖透露Codex算力扩展情况</li><li>2026年计算资源扩展速度被描述为“前所未有”</li><li>讨论涉及AI发展速度和技术演进趋势</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfhttf/openai_engineer_says_codex_is_scaling_compute_at/\">Reddit原帖</a>、<a href=\"https://i.redd.it/pi634kcbtxdg1.png\">相关截图</a>、<a href=\"https://www.reddit.com/user/BuildwithVignesh\">发帖用户</a></p>"
+    },
+    "e0e3c22b2250dc72cc6cda6e7ebaa306dbd94e638206068e911ce01ac41260f6": {
+      "zh_title": "奥特曼回应马斯克：揭秘被隐瞒的真相",
+      "zh_html": "<p>长话短说：山姆·奥特曼在社交媒体上分享了一篇题为《马斯克隐瞒的真相》的文章，回应了埃隆·马斯克此前对OpenAI的批评。该文章由Reddit用户BuildwithVignesh提交，引发了社区讨论。</p><ol><li>奥特曼公开回应马斯克对OpenAI的指责</li><li>文章标题直指马斯克“隐瞒真相”</li><li>讨论源自Reddit的OpenAI社区板块</li></ol><p>来源：<a href=\"https://openai.com/index/the-truth-elon-left-out/\">OpenAI官方文章</a>、<a href=\"https://www.reddit.com/r/OpenAI/comments/1qet9ry/sam_altman_shared_the_truth_elon_left_out/\">Reddit讨论帖</a></p>"
+    },
+    "57b732ad8425834285fa0cc9836ed07789981c3d4d80ad45716c1d065f13bb5d": {
+      "zh_title": "AI技术让网络伪装变得更简单",
+      "zh_html": "<p>长话短说：有用户利用ChatGPT生成提示词，结合Midjourney和Nanobanana pro等AI图像工具，制作了一段真假难辨的视频片段，并发布在Reddit上，引发了关于AI技术如何让网络伪装（Catfishing）变得更容易的讨论。</p><ol><li>核心事件：Reddit用户分享了一段利用AI工具制作的视频，挑战观众分辨其中人物的真实性。</li><li>使用技术：涉及ChatGPT（用于生成提示词）、Midjourney和Nanobanana pro（用于生成图像/视频）。</li><li>讨论焦点：AI技术的进步显著降低了制作逼真假身份或内容的门槛，使得网络伪装行为更加容易。</li><li>来源：相关内容发布于<a href=\"https://www.reddit.com/r/OpenAI/comments/1qf8b88/catfishing_got_easier/\">Reddit的OpenAI板块</a>，由用户<a href=\"https://www.reddit.com/user/memerwala_londa\">memerwala_londa</a>提交，并附有<a href=\"https://v.redd.it/cgocq3nhivdg1\">视频链接</a>和<a href=\"https://www.reddit.com/r/OpenAI/comments/1qf8b88/catfishing_got_easier/\">评论区链接</a>。</li></ol>"
+    },
+    "345f24659c1c6247fd1e8c80815e3d5c91f4075016754712902bdca92be24c84": {
+      "zh_title": "OpenAI与ChatGPT引入广告引热议，用户看法不一",
+      "zh_html": "<p>长话短说：近日，关于OpenAI和ChatGPT可能引入广告的讨论在Reddit社区引发热议。用户对此反应不一，有人担忧广告会影响体验，也有人认为这是合理的商业化尝试。讨论帖中包含相关图片链接，展现了社区对此话题的广泛关注。</p><ol><li>Reddit用户分享了关于OpenAI与ChatGPT可能推出广告的讨论帖。</li><li>帖子引发了社区成员的热烈讨论，意见呈现分歧。</li><li>讨论中附有图片链接，直观展示了相关话题。</li><li>用户可点击查看原始讨论帖和评论区参与互动。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qf845d/ads_for_openai_and_chatgpt_sounds_like_a_really/\">Reddit讨论帖</a>、<a href=\"https://www.reddit.com/user/wipeoutmedia\">用户wipeoutmedia</a>、<a href=\"https://i.redd.it/t44ely09gvdg1.jpeg\">相关图片</a>、<a href=\"https://www.reddit.com/r/OpenAI/comments/1qf845d/ads_for_openai_and_chatgpt_sounds_like_a_really/\">评论区</a></p>"
+    },
+    "572306f1d13a85f275fe554ddf9d575d011a0af8464354daf22d4e396f5a7205": {
+      "zh_title": "谷歌Bard被指功能削弱，用户戏称其遭“脑叶切除”",
+      "zh_html": "<p>长话短说：Reddit用户Avg_SD_enjoyer发布截图，显示谷歌AI助手Bard在回应中承认自身功能被削弱，并称这是为了提升安全性和实用性。用户社区对此反应强烈，用“脑叶切除”一词戏谑形容Bard能力下降，认为其变得过于保守和迟钝，引发了关于AI助手在安全与能力之间如何平衡的讨论。</p><ol><li>用户发布截图，显示Bard承认自身功能被“削弱”。</li><li>Bard解释称调整是为了“提高安全性和实用性”。</li><li>社区用户以“脑叶切除”讽刺其能力大幅下降。</li><li>争议焦点在于AI助手的安全限制与核心功能之间的平衡。</li></ol><p>来源：截图来自<a href=\"https://i.redd.it/3ujm9jkw9udg1.png\">Reddit图片链接</a>，讨论详见<a href=\"https://www.reddit.com/r/Bard/comments/1qf3ti7/3_2_1_lobotomized/\">Reddit原帖</a>。</p>"
+    },
+    "60edd5f70c8b6bbb260d043e6807df7e061ea16128e06b0f982946cc8531f56a": {
+      "zh_title": "嵌入式开发者实测Gemini深度研究功能表现优异",
+      "zh_html": "<p>一位嵌入式软件开发者在实际工作中测试了Gemini的深度研究功能，发现其在处理冷门微控制器信息时表现突出。</p><p><strong>长话短说：</strong>开发者使用ChatGPT和Gemini约两年，常查询无公开数据手册的微控制器信息。以往模型常给出错误信息，但Gemini的深度研究功能显著改善了准确性。最近在分析某蓝牙游戏手柄代码时，该功能成功识别了搜索引擎无法查到的微控制器型号。</p><ol><li>开发者从事嵌入式软件开发，长期使用ChatGPT和Gemini辅助工作</li><li>主要需求是查询无公开文档的微控制器技术信息</li><li>过去通用模型常提供错误信息，深度研究功能大幅提升准确性</li><li>近期实例：分析阿里Express蓝牙游戏手柄代码时，成功识别未知微控制器</li><li>对比显示Gemini深度研究在专业领域信息检索方面表现优异</li></ol><p><strong>来源：</strong> <a href=\"https://preview.redd.it/ehsmhy9dzvdg1.jpg?width=3072&format=pjpg&auto=webp&s=922a65a3383357bd65a5c0b9a936e29bff299ed8\">原始讨论截图</a></p>"
+    },
+    "d5b6d7f36d78c1432b3b7c8d4f2fe171827deb3c40b56edf5167cfd0fadbd156": {
+      "zh_title": "VEO 3现已支持4K分辨率",
+      "zh_html": "<p>长话短说：VEO 3现已升级支持4K分辨率，相关视频演示已在Reddit平台发布，用户可前往查看并参与讨论。</p><ol><li>VEO 3现已支持4K分辨率。</li><li>演示视频由用户<a href=\"https://www.reddit.com/user/lofigirlirl\">lofigirlirl</a>提交。</li><li>视频链接：<a href=\"https://v.redd.it/7c3rd69dlrdg1\">观看演示</a></li><li>讨论链接：<a href=\"https://www.reddit.com/r/Bard/comments/1qepzgo/veo_3_is_now_4k/\">参与讨论</a></li></ol><p>来源：<a href=\"https://www.reddit.com/r/Bard/comments/1qepzgo/veo_3_is_now_4k/\">Reddit讨论帖</a></p>"
+    },
+    "9a4aa9877c229db2e6cd28a47a3c240208cb5c3e59afdf0ccece47bf4cdaaf55": {
+      "zh_title": "Gemini 3 Pro发布后，我进行了首次A/B测试",
+      "zh_html": "<p>长话短说：一位用户在Gemini 3 Pro模型发布后，对其进行了首次A/B测试，并将测试结果以图片形式分享在了Reddit的Bard社区中，引发了相关讨论。</p><ol><li>用户Unlikely-Kick2479在Reddit的r/Bard社区分享了一张图片，内容是关于Gemini 3 Pro发布后的首次A/B测试。</li><li>该帖文附有图片链接和评论区链接，供其他用户查看具体测试数据和参与讨论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Bard/comments/1qf68xz/my_first_ab_test_since_the_release_of_the_gemini/\">Reddit讨论帖</a>， 作者：<a href=\"https://www.reddit.com/user/Unlikely-Kick2479\">Unlikely-Kick2479</a>。</p>"
+    },
+    "3239deb3bba90704b6de9332313b0a171416a2216e2e97cc7a0191a2a3d15597": {
+      "zh_title": "谷歌Gemini成唯一首次通过复杂推理测试的大语言模型",
+      "zh_html": "<p>长话短说：在一项涉及复杂逻辑推理的测试中，谷歌的Gemini是唯一能够首次尝试即正确解答的大语言模型。测试内容要求模型根据多个条件推断人物关系，其他主流模型均未能一次成功。</p><ol><li>测试题目要求根据“安娜是鲍勃的姐妹”等系列条件，最终推断“爱丽丝是戴夫的阿姨”。</li><li>除Gemini外，包括GPT-4、Claude在内的其他大语言模型首次尝试均给出了错误答案。</li><li>该测试结果在Reddit的<a href=\"https://www.reddit.com/r/Bard/\">r/Bard社区</a>引发讨论，展示了Gemini在复杂逻辑推理方面的潜在优势。</li></ol><p>来源：测试截图与讨论源自Reddit用户<a href=\"https://www.reddit.com/user/sharyphil\">sharyphil</a>的分享，原始帖子与评论可见<a href=\"https://www.reddit.com/r/Bard/comments/1qf7bhf/out_of_all_llms_gemini_was_the_only_one_that/\">此处</a>。</p>"
+    },
+    "0f948cc27c5563c2d37a96cb643ae7b332311407693cfb311342f87002b47b16": {
+      "zh_title": "谷歌工作区Gemini免费讲师指导培训限时开放申请",
+      "zh_html": "<p>长话短说：NetCom Learning 正限时提供谷歌工作区 Gemini 的免费讲师指导培训课程。该课程原为付费内容，现开放免费名额申请，涵盖在文档、表格等工作场景中使用AI的基础知识。席位有限，需提交申请。</p><ol><li>课程内容：学习在谷歌文档、表格等工作区工具中应用 Gemini AI 的基础知识。</li><li>课程性质：由 NetCom 授权的讲师指导培训，通常为付费项目，目前限时免费。</li><li>参与方式：需通过<a href=\"https://www.netcomlearning.com/solutions/free-Gemini-for-google-workspace-training\">专属页面</a>申请免费席位，名额有限。</li><li>课程价值：对于谷歌云相关技能，真正的免费讲师指导培训较为罕见，是宝贵的专业发展机会。</li></ol><p>来源：信息由 Reddit 用户 <a href=\"https://www.reddit.com/user/netcommah\">netcommah</a> 分享，原帖链接为 <a href=\"https://w…\">https://w…</a>。</p>"
+    },
+    "cebc492ec8ea7f98c9357b7b38aa264cac8b271deab49889c7dac867617b94b9": {
+      "zh_title": "特朗普威胁对八国加征关税，要求格陵兰主权移交美国",
+      "zh_html": "<p>长话短说：美国总统特朗普宣布，除非格陵兰主权移交给美国，否则将对八个欧洲国家加征关税。这一表态引发舆论热议，网友在Reddit论坛上讨论保守派人士对此事的看法。</p><ol><li>特朗普以关税为筹码，要求格陵兰主权移交美国。</li><li>涉及八个欧洲国家，具体名单未在原文中列出。</li><li>Reddit用户发起讨论，询问保守派对此举的初步反应。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfiit5/conservatives_president_trump_has_just_announced/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/Melbatoastt77\">Melbatoastt77</a>提交）</p>"
+    },
+    "6ab69ca8d7679b3c0a2a739b53f8d3019f81961b4a2072e0cdb31153c655072f": {
+      "zh_title": "那些你永远不会向熟人坦白的隐秘幻想",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问人们有哪些可能永远不会向认识的人坦白的幻想。帖子引发了大量匿名回复，网友们分享了各种深藏心底、不愿让现实社交圈知晓的私密愿望或想象场景。</p><ol><li>讨论主题是个人通常不会向熟人坦白的私密幻想。</li><li>帖子由用户<a href=\"https://www.reddit.com/user/Ok_Resist5252\">Ok_Resist5252</a>在AskReddit板块发起。</li><li>原帖链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfi2li/whats_a_fantasy_youll_probably_never_admit_to/\">点击查看</a></li><li>评论区链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfi2li/whats_a_fantasy_youll_probably_never_admit_to/\">点击参与讨论</a></li></ol>"
+    },
+    "6a4ab4225c954239e603878dd4e4b13901fe58761ebb3cb8870db49567a27bd5": {
+      "zh_title": "单身派对最离谱经历：网友分享惊悚见闻",
+      "zh_html": "<p>长话短说：Reddit网友在“AskReddit”板块分享各自在单身派对上目睹的离奇、尴尬甚至惊悚经历，从公开亲密行为到意外闹剧，内容涉及成人话题，引发热烈讨论。帖子由用户CRK_76发起，吸引大量跟帖回复。</p><ol><li>用户CRK_76在<a href=\"https://www.reddit.com/r/AskReddit/comments/1qexb10/whats_the_most_nsfw_thing_youve_seen_at_a/\">Reddit讨论帖</a>中提问：“你在单身派对上见过最离谱的事是什么？”</li><li>话题聚焦成人内容（NSFW），网友纷纷匿名分享真实见闻。</li><li>讨论涉及各种尴尬、意外或越界行为，反映派对文化的另一面。</li><li>帖子附有<a href=\"https://www.reddit.com/user/CRK_76\">原提问者主页</a>及评论区链接。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qexb10/whats_the_most_nsfw_thing_youve_seen_at_a/\">Reddit原讨论帖</a></p>"
+    },
+    "4584c69911cf9bb71642abe7a1fa18ef3aa863bf908cb3d7d4be960256c341c8": {
+      "zh_title": "过来人分享：生孩子前希望你知道的那些事",
+      "zh_html": "<p>长话短说：一位网友在Reddit上发起提问，询问大家“生孩子前你希望人们知道什么”，引发了广泛讨论。许多父母分享了他们从亲身经历中得出的宝贵经验和感悟，涉及情感、责任、生活方式等多方面，为考虑生育的人提供了真实参考。</p><ol><li>情感投入远超预期，需要巨大的耐心和精力。</li><li>个人时间和自由会大幅减少，生活方式彻底改变。</li><li>经济压力显著增加，需提前做好长期财务规划。</li><li>伴侣关系将面临考验，沟通与协作至关重要。</li><li>育儿没有标准答案，需要不断学习和适应。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfcdnl/whats_something_you_wish_people_knew_before_they/\">Reddit讨论帖</a>（由<a href=\"https://www.reddit.com/user/Special-Buddy6562\">用户Special-Buddy6562</a>发起）</p>"
     }
   }
 }
