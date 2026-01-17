@@ -1429,7 +1429,47 @@
     "reddit-android::t3_1qeovgr": 1768683485,
     "reddit-android::t3_1qf7s3i": 1768683499,
     "reddit-android::t3_1qf3p7z": 1768683512,
-    "reddit-android::t3_1qemta4": 1768683525
+    "reddit-android::t3_1qemta4": 1768683525,
+    "reddit-ai-agents::t3_1qfp8i4": 1768685267,
+    "reddit-ai-agents::t3_1qfp18m": 1768685284,
+    "reddit-ai-agents::t3_1qfompz": 1768685300,
+    "reddit-ai-agents::t3_1qez7s7": 1768685315,
+    "reddit-chatgpt::t3_1qetoys": 1768685332,
+    "reddit-chatgpt::t3_1qfitmh": 1768685351,
+    "reddit-chatgpt::t3_1qfg29e": 1768685364,
+    "reddit-chatgpt::t3_1qfmn9q": 1768685375,
+    "reddit-chatgpt::t3_1qflb1z": 1768685390,
+    "reddit-claudeai::t3_1qfosa6": 1768685403,
+    "reddit-claudeai::t3_1qflzah": 1768685422,
+    "reddit-claudeai::t3_1qfj3e6": 1768685437,
+    "reddit-claudeai::t3_1qfigbs": 1768685453,
+    "reddit-claudeai::t3_1qfoapb": 1768685468,
+    "reddit-openai::t3_1qfpcxs": 1768685484,
+    "reddit-openai::t3_1qfmfzq": 1768685500,
+    "reddit-openai::t3_1qenjfs": 1768685520,
+    "reddit-openai::t3_1qfmdfx": 1768685536,
+    "reddit-openai::t3_1qfm0f0": 1768685549,
+    "reddit-openai::t3_1qenaux": 1768685562,
+    "reddit-bard::t3_1qfoxlx": 1768685575,
+    "reddit-bard::t3_1qf6t3b": 1768685594,
+    "reddit-bard::t3_1qfcqm6": 1768685609,
+    "reddit-bard::t3_1qew4l2": 1768685624,
+    "reddit-askreddit::t3_1qfil4m": 1768685634,
+    "reddit-askreddit::t3_1qfd6r8": 1768685647,
+    "reddit-askreddit::t3_1qfa4q7": 1768685660,
+    "reddit-askreddit::t3_1qfg3ij": 1768685673,
+    "reddit-askreddit::t3_1qf1dle": 1768685686,
+    "reddit-askreddit::t3_1qfo7pb": 1768685697,
+    "reddit-android::t3_1qf86m8": 1768685714,
+    "reddit-android::t3_1qf6ngy": 1768685730,
+    "reddit-android::t3_1qep7bq": 1768685753,
+    "reddit-android::t3_1qfd7j2": 1768685767,
+    "reddit-android::t3_1qfaeth": 1768685780,
+    "reddit-android::t3_1qf6jg3": 1768685792,
+    "reddit-tasker::t3_1qfhtwm": 1768685807,
+    "reddit-tasker::t3_1qfjund": 1768685821,
+    "reddit-tasker::t3_1qfh2sg": 1768685832,
+    "reddit-tasker::t3_1qf6zsn": 1768685846
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -7107,6 +7147,166 @@
     "539499421fc5dd8061e1ec8bc9e2ef8320254139772e3725dbdf736434c4bdec": {
       "zh_title": "vivo X300 Ultra再获认证，全球发布在即",
       "zh_html": "<p>长话短说：vivo X300 Ultra手机近日再次通过一项重要认证，进一步证实了其即将在全球市场发布的消息。这款备受期待的旗舰机型此前已出现在多个认证数据库中，此次新进展意味着其国际版上市计划正稳步推进。</p><ol><li>vivo X300 Ultra新近获得一项关键认证，为其全球发布铺平道路。</li><li>该机型此前已在多个地区认证机构现身，预示上市临近。</li><li>作为vivo旗舰系列新品，其硬件配置与性能表现备受关注。</li></ol><p>来源：<a href=\"https://www.gsmarena.com/another_certification_confirms_the_vivo_x300_ultras_global_release-news-71144.php\">GSMArena报道</a>、<a href=\"https://www.reddit.com/r/Android/comments/1qemta4/another_certification_confirms_the_vivo_x300/\">Reddit讨论</a></p>"
+    },
+    "d1a5c60651e353498bf47cccab4b36d7a6a988f730afd9b482b4a9b1ee497008": {
+      "zh_title": "为大型语言模型构建轻量搜索与事实提取API以处理原始文章大数据",
+      "zh_html": "<p>长话短说：作者在自动化房地产新闻简报时，需要让大型语言模型（LLM）完成查找每日文章、阅读内容、提取事实并按预设结构化格式撰写等任务。但实际操作中，最大的挑战并非提示词设计或输出控制，而是如何将相关文章有效纳入模型的上下文窗口。由于原始文章篇幅过大，最终采取了“抓取→提炼→仅传递事实/主张给LLM”的流程。这引发了对行业实践中处理大上下文方案的思考。</p><ol><li>核心需求：自动化新闻简报流程中，LLM需从海量文章中精准提取关键事实并结构化输出。</li><li>主要挑战：原始文章数据量过大，超出模型上下文窗口的承载能力。</li><li>解决方案：通过抓取、提炼、筛选三步流程，仅向LLM输入核心事实与主张。</li><li>行业思考：实践中如何处理大上下文？渐进式摘要、事实提取、检索合成还是更大上下文模型？</li><li>未来构想：计划构建开源库或API，用户可通过查询获取经提炼的事实摘要文章。</li></ol>"
+    },
+    "c1bf4355691e2b40c9d30e0bf43a4765eff958ff50d52f95a64aaa5a3a7bb059": {
+      "zh_title": "人工智能强大却不智能？用户分享提升AI互动质量的实用技巧",
+      "zh_html": "<p>长话短说：用户反映AI回答常流于俗套，缺乏新意，例如询问“大学雨天活动建议”时只会给出“和朋友去咖啡馆”等陈词滥调。为此，社区征集提升AI互动质量的方法，包括提示词技巧、个性化指令等，旨在让AI输出更具原创性和针对性的内容。</p><ol><li>优化提问方式，提供更具体的背景和约束条件</li><li>使用角色扮演或场景设定，引导AI跳出常规思维</li><li>结合链式思考（Chain-of-Thought）提示技巧</li><li>为AI设定个性化指令，建立长期交互记忆</li><li>尝试不同温度（Temperature）参数调整输出随机性</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfp18m/ai_is_powerful_but_not_smart_how_do_you_fix_that/\">Reddit讨论帖</a>（作者<a href=\"https://www.reddit.com/user/Agent_Max_Official\">Agent_Max_Official</a>）</p>"
+    },
+    "81c2b30f957bc307c94321311e094bb88e209ea01ed900566c04e3776f3f00c0": {
+      "zh_title": "中小企业如何实际应用人工智能提升效率",
+      "zh_html": "<p>长话短说：一位设计制作公司员工在Reddit上提问，希望了解中小企业如何将AI应用于日常工作，超越常见的聊天机器人等工具。他提到公司已开始用AI生成客户设计渲染图，并询问更多能提升效率、减少工作量的非主流应用场景，例如日常行政或运营优化。</p><ol><li>提问者来自设计制作行业，观察到AI已用于客户设计渲染和员工使用Copilot、ChatGPT等工具。</li><li>希望探索AI在中小企业中尚未成为主流的应用方式，涵盖日常行政、运营效率提升等领域。</li><li>原文发布于<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfompz/how_are_smes_practically_using_ai_today/\">Reddit相关讨论帖</a>，由用户<a href=\"https://www.reddit.com/user/brentmeistergeneral_\">brentmeistergeneral_</a>提交。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AI_Agents/comments/1qfompz/how_are_smes_practically_using_ai_today/\">Reddit原帖链接</a></p>"
+    },
+    "20386d59d66cd5ab8a00690c250b3ea4181c186eb41a85057939bb140c6751ee": {
+      "zh_title": "关于AI代理与数据库连接趋势的两分钟调查",
+      "zh_html": "<p>长话短说：开发者正在构建一个生产级托管MCP解决方案，旨在帮助用户以结构化方式将现有生产数据库连接到AI代理。该方案负责处理扩展性、安全性和缓存等问题，用户只需专注于为代理提供数据访问权限。开发者呼吁参与一项简短调查以收集反馈。</p><ol><li>解决方案围绕生产级托管MCP构建，可结构化连接现有数据库与AI代理</li><li>系统自动处理MCP结果的扩展性、安全性和缓存，用户无需担忧</li><li>用户可专注于为AI代理提供数据访问权限</li><li>开发者邀请参与两分钟调查，反馈将极大帮助项目改进</li></ol><p>来源：<a href=\"https://www.reddit.com/user/tueieo\">Reddit用户tueieo</a> | <a href=\"https://www.reddit.com/r/AI_Agents/comments/1qez7s7/2_minute_survey_on_al_agents_database/\">原文链接</a> | <a href=\"https://www.reddit.com/r/AI_Agents/comments/1qez7s7/2_minute_survey_on_al_agents_database/\">评论链接</a></p>"
+    },
+    "1d59cadf0b8c32dd9e1c00b2a7697094038e54fe3e74ad828aafc7de5b857db7": {
+      "zh_title": "用户怒斥ChatGPT表现不佳，宣布正式转用其他工具",
+      "zh_html": "<p>长话短说：一位Reddit用户发帖宣布正式放弃使用ChatGPT，并愤怒地表示“技术宅们骗了我，我要退款”。用户抱怨其提示词虽然不够完善，但ChatGPT的回应质量依然令人失望，并附上了截图作为证据。</p><ol><li>用户对ChatGPT的生成结果极为不满，认为其表现与宣传不符。</li><li>用户指出自己的提问提示可能不够完美，但认为AI的回应质量仍然过低。</li><li>帖文附有截图链接，展示了具体的交互情况。</li><li>发帖者表达了强烈的失望情绪，并决定转向其他AI工具。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qetoys/im_officially_switching_to_chatgpt/\">Reddit原帖</a>、<a href=\"https://i.redd.it/iks5ia0yasdg1.jpeg\">问题截图</a>、<a href=\"https://www.reddit.com/user/Fabulous_Support_556\">用户主页</a></p>"
+    },
+    "8b899dc2b06ba1706b6218d77e22b6d4d2825bab07f45ecc9ac9ff323f854b64": {
+      "zh_title": "网友让ChatGPT将自己变成毛绒玩具，AI生成形象引热议",
+      "zh_html": "<p>长话短说：一位网友在Reddit上分享，他上传了四张个人照片，并让ChatGPT根据其风格和个性，将他设计成毛绒玩具的形象。AI生成的“毛绒版”形象随后被发布在论坛中，引发了其他用户的关注和讨论。</p><ol><li>用户向ChatGPT发出指令：“用这些代表我风格和个性的元素，把我设计成一个毛绒玩具。”</li><li>用户上传了四张个人照片作为参考素材。</li><li>AI根据指令和照片生成了对应的毛绒玩具形象。</li><li>生成的结果图片和整个互动过程被分享至Reddit的ChatGPT板块。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfitmh/asked_chatgpt_to_plushie_me/\">原帖链接</a>， 发布者：<a href=\"https://www.reddit.com/user/Mission-Material1936\">/u/Mission-Material1936</a>， 生成图片：<a href=\"https://i.redd.it/475eoc9xzxdg1.jpeg\">查看图片</a>， 讨论：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfitmh/asked_chatgpt_to_plushie_me/\">查看评论</a></p>"
+    },
+    "d61b101fd2f867416ef8d151dcdb87d3fe35e741e843098902e4e9d212f9a347": {
+      "zh_title": "人工智能数据中心耗电量堪比纽约，超新西兰四倍",
+      "zh_html": "<p>长话短说：人工智能数据中心能耗激增，其总耗电量已与整个纽约州相当，并达到新西兰全国用电量的四倍。这一现象凸显了AI技术快速发展背后巨大的能源成本，引发了关于可持续性和未来能源需求的讨论。</p><ol><li>AI数据中心的总耗电量已与纽约州相当。</li><li>其耗电量是新西兰全国用电量的四倍。</li><li>能耗激增凸显了AI发展的巨大能源成本。</li><li>引发了关于技术可持续性与未来能源规划的担忧。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qfg29e/ai_data_centers_now_use_as_much_power_as_new_york/\">Reddit讨论帖</a>（由<a href=\"https://www.reddit.com/user/MetaKnowing\">/u/MetaKnowing</a>提交）</p>"
+    },
+    "96de8c6a748c61f02000526a1bb91bbd414f31bba75dab4fe2202995e450bec3": {
+      "zh_title": "亲测对比：ChatGPT与Grok在角色扮演与故事创作中的体验差异",
+      "zh_html": "<p>长话短说：作者付费体验了Grok的高级版本，发现其在战斗描写和故事连贯性上表现优异，特别适合创作互动式冒险故事和同人作品。但Grok也存在无法回溯对话、缺乏跨聊天记忆、无项目分类等明显短板，整体体验优缺点分明。</p><ol><li>Grok在暴力战斗描写方面给予更大自由度，故事连贯性好</li><li>能根据故事进展提供后续提示选项，角色个性塑造更鲜明</li><li>在同人创作中能引入更相关的原作设定信息</li><li>缺点包括：无法回溯对话、缺乏跨聊天记忆功能、无项目分类管理</li></ol>"
+    },
+    "7f04bd40dd9edfcc66fa804d02b04c838255bf795dcf104b7e6dbbf00818f22b": {
+      "zh_title": "网友吐槽：不想和人类说话，只想与AI交流",
+      "zh_html": "<p>长话短说：一位网友在Reddit上发帖，用夸张的语气表达了对与人类交流的抗拒，更倾向于和AI对话。帖子配有一张表情图片，引发了其他用户的围观和讨论。</p><ol><li>用户<a href=\"https://www.reddit.com/user/meow915\">meow915</a>在<a href=\"https://www.reddit.com/r/ChatGPT\">r/ChatGPT板块</a>发布了一条情绪强烈的帖子。</li><li>帖子内容为“我不想和人类说话，不——！”，并附有一张<a href=\"https://i.redd.it/tttov1xkgydg1.jpeg\">表情图片</a>。</li><li>该帖引发了社区用户的互动，可以查看帖子的<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qflb1z/raaaaaagh/\">完整讨论</a>。</li></ol><p>来源：原帖发布于<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qflb1z/raaaaaagh/\">Reddit的r/ChatGPT板块</a>。</p>"
+    },
+    "b8ffad5706e2570f081b3651a814945008cb5b5abbca67606a2766fbf0cc6b02": {
+      "zh_title": "Claude Code定价分析：其他AI编程工具如何生存？",
+      "zh_html": "<p>长话短说：用户计算了Claude Code的定价，发现其性价比极高，每月预算超过200美元的用户几乎无需考虑其他选择。相比之下，其他AI编程工具需要压缩成本才能保持盈利，这让人疑惑它们如何生存。</p><ol><li>预算低于200美元/月：可以考虑Cursor、Copilot、Factory Droid、GLM、Codex等其他工具。</li><li>预算超过200美元/月：Claude Code是首选，性价比约为其他工具的16倍。</li><li>计算依据：假设每周使用6%，相当于约50美元的API费用，推算每月价值可达3200美元。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfosa6/did_the_math_on_claude_code_pricing_how_are_other/\">Reddit讨论帖</a></p>"
+    },
+    "2efadefb134d04762c8677ad940ca078c55a34a356e1688380c08d3b9a1578dc": {
+      "zh_title": "用户求助：消息频繁超时发送失败，影响正常对话与编程交流",
+      "zh_html": "<p>近日，多位用户反映在各类对话线程中频繁遭遇消息发送超时问题，涵盖编程讨论与日常交流等多种场景。用户表示，消息输入后无法成功发送至Claude系统，仅返回原始输入窗口，且未触发任何压缩机制。尽管尝试回溯修改历史消息可短暂恢复，但问题很快重现，部分用户不得不频繁开启新对话线程并手动粘贴摘要文档以维持上下文连续性，这与系统设计的“无限对话与压缩”功能预期严重不符。</p><p><strong>长话短说</strong>：用户持续遭遇消息发送超时故障，输入内容无法上传至系统，频繁退回输入界面。即便通过修改历史消息或开启新线程临时缓解，问题仍反复出现，严重干扰正常对话流程与上下文保持，与系统承诺的无限对话体验存在明显差距。</p><ol><li>跨线程普遍性：问题出现在编程、日常对话等所有类型线程中</li><li>故障表现：消息无法上传，自动退回输入窗口，不触发压缩机制</li><li>临时应对：通过修改历史消息或新建线程粘贴摘要暂缓问题</li><li>根本矛盾：频繁重启线程与手动维护上下文违背“无限对话”设计理念</li></ol>"
+    },
+    "84aff71b2d447cf03f8f1e9c5e16550948cddbf2740f142bc2d6b3d378b0850c": {
+      "zh_title": "开源Super Claude项目：为AI构建持久化上下文与自我管理能力",
+      "zh_html": "<p>长话短说：开发者构建了一个MCP服务器，让Claude AI具备持久化领域知识、文件/Shell/Docker访问、云存储集成及自我管理基础设施的能力。该项目运行在Synology NAS上，支持移动端、网页端和Claude Code，现已开源供社区使用和扩展。</p><ol><li>解决Claude内置记忆的局限性，实现项目专属的领域上下文加载</li><li>提供实际能力：不仅存储知识，还能执行文件操作、Shell命令和Docker管理</li><li>保持工作连续性：随时恢复完整上下文，精确接续上次进度</li><li>支持自我修改：Claude可更新自身文档、追踪变更并管理基础设施</li></ol><p>来源：<a href=\"https://github.com/example/super-claude\">GitHub开源项目页面</a></p>"
+    },
+    "bc431901cab90eee0504a2b15c06d5899d15c3cef86cc49d125373f46085a69e": {
+      "zh_title": "Claudikins内核：基于Boris Cherny工作流的结构化开发插件",
+      "zh_html": "<p>长话短说：Claudikins Kernel是一款为Claude Code设计的结构化工作流插件，通过人工检查点、隔离代理和验证门来确保代码质量。它严格遵循Boris Cherny的工作流程，提供四个顺序执行的命令：/plan（规划）→ /execute（执行）→ /verify（验证）→ /ship（发布），每个步骤都有强制验证门，防止跳过关键环节。</p><ol><li><strong>/plan（规划）</strong>：启动会话时创建会话ID，检查是否有可恢复的旧会话（超过4小时会警告），与Claude进行迭代式头脑风暴，直到制定出可靠的开发计划。</li><li><strong>/execute（执行）</strong>：必须完成规划后才能进入此阶段，执行具体的代码编写任务。</li><li><strong>/verify（验证）</strong>：必须完成代码执行后才能进行验证，确保代码质量符合标准。</li><li><strong>/ship（发布）</strong>：必须通过验证后才能发布，形成完整的开发闭环。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfigbs/claudikins_kernel_based_exactly_on_boris_chernys/\">Reddit讨论帖</a></p>"
+    },
+    "dcaf133a749fcecd4c6d13fc0cc914b5cab453033bf4ac784ad1bd6e949bb6d9": {
+      "zh_title": "ClaudeAI用户质疑新版本移除上下文功能",
+      "zh_html": "<p>长话短说：Reddit用户发现ClaudeAI更新至v2.1.12版本后，疑似移除了重要的“/context”功能，引发社区讨论。用户对此功能消失表示困惑与不满，认为这是核心体验的一部分。</p><ol><li>用户报告ClaudeAI更新至v2.1.12版本</li><li>关键功能“/context”疑似被移除</li><li>原帖作者在<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfoapb/where_did_my_context_go/\">ClaudeAI版块</a>发起讨论</li><li>帖子包含指向<a href=\"https://www.reddit.com/user/_nefario_\">作者主页</a>和<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfoapb/where_did_my_context_go/\">评论区</a>的链接</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qfoapb/where_did_my_context_go/\">Reddit讨论帖</a></p>"
+    },
+    "a402b79a1c648490ea33446be95adead360e4fcd13df90f80cf0c5a6c7bb81b1": {
+      "zh_title": "用户反馈高级语音质量显著提升，音质更自然流畅",
+      "zh_html": "<p>有用户注意到，今日高级语音的音质与语调有明显改善。实际使用后发现，语调更自然、杂音消失、整体质量提升。虽然尚未全面测试，但已感觉优于以往。</p><p><strong>长话短说</strong>：用户反馈OpenAI高级语音功能今日更新后质量显著提升，语调更自然、杂音减少，整体体验优于之前版本。</p><ol><li>高级语音的音质与语调今日有明显改善</li><li>使用体验：语调更自然、杂音消失、整体质量提升</li><li>虽未全面测试，但已感觉优于以往版本</li></ol><p><strong>来源</strong>：Reddit用户 <a href=\"https://www.reddit.com/user/stardust-sandwich\">stardust-sandwich</a> 在 <a href=\"https://www.reddit.com/r/OpenAI/comments/1qfpcxs/voice_update_quality/\">OpenAI板块</a> 的讨论帖</p>"
+    },
+    "77f8dac61bb728952add1240f481a0c6a158bb6077035097f7c6422e20e3a839": {
+      "zh_title": "轻松一刻：读还是不读，这是个问题",
+      "zh_html": "<p>长话短说：Reddit用户分享了一个轻松幽默的帖子，主题是面对信息时“读还是不读”的日常纠结。帖子包含一张图片链接，引发了社区讨论。</p><ol><li>帖子来自<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfmfzq/do_i_read_this_or_skip/\">OpenAI子版块</a>，由用户<a href=\"https://www.reddit.com/user/impulse_op\">impulse_op</a>发布。</li><li>内容包含一张图片链接：<a href=\"https://i.redd.it/nn2t6x5boydg1.png\">查看图片</a>。</li><li>帖子下方有<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfmfzq/do_i_read_this_or_skip/\">评论讨论</a>。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfmfzq/do_i_read_this_or_skip/\">Reddit帖子</a></p>"
+    },
+    "c364de60e5a917ff5c1a3cd545e82c2e4a018d3bcfb78a8078e19b88e0b0e635": {
+      "zh_title": "ChatGPT Go全球上线并引入广告功能",
+      "zh_html": "<p>长话短说：OpenAI宣布ChatGPT Go现已面向全球用户推出，这是一款轻量级、快速响应的AI助手，同时平台将开始引入广告内容。该版本旨在为更多用户提供便捷的AI交互体验，但广告的加入可能改变部分使用感受。</p><ol><li>ChatGPT Go正式在全球范围内上线，主打轻量与快速。</li><li>新版本将开始展示广告内容，商业模式有所调整。</li><li>旨在扩大服务覆盖，让更多用户能便捷使用AI助手。</li></ol><p>来源：<a href=\"https://openai.com/index/introducing-chatgpt-go/\">OpenAI官方公告</a>、<a href=\"https://www.reddit.com/r/OpenAI/comments/1qenjfs/introducing_chatgpt_go_now_available_worldwide/\">Reddit相关讨论</a></p>"
+    },
+    "634a5c37de2ebd2c0b4f5b8c91d633ba63ee7f3dd1bd9c8346dd2c24266e16a3": {
+      "zh_title": "AI助手幽默回应：这条消息该读还是跳过？",
+      "zh_html": "<p>长话短说：一位用户在Reddit上分享了一张有趣的截图，内容是AI助手对“这条消息该读还是跳过？”的幽默回应，引发了轻松愉快的讨论。</p><ol><li>用户<a href=\"https://www.reddit.com/user/impulse_op\">impulse_op</a>在OpenAI版块分享了一张截图</li><li>截图展示了AI助手对“该读还是跳过”问题的俏皮回答</li><li>帖子以轻松幽默的语气引发社区互动</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfmdfx/do_i_read_this_or_skip/\">Reddit原帖</a> | <a href=\"https://i.redd.it/ppkwfbxsnydg1.png\">截图链接</a></p>"
+    },
+    "d13cf221c3a14ed661b673f8455bf3d705a1a52e39221e119ca0f432abed0b78": {
+      "zh_title": "反驳观点：认为OpenAI陷入困境者缺乏远见",
+      "zh_html": "<p>长话短说：作者在Reddit发帖反驳“OpenAI已死或陷入困境”的观点，认为即使未来5-10年OpenAI成为全球第二或第三的AI公司，仍能创造万亿美元价值。他强调并非否认市场竞争加剧，而是反对过度悲观论调。</p><ol><li>核心论点：认为OpenAI“陷入困境”的说法缺乏依据</li><li>长期展望：即使未来成为全球第二/第三的AI公司，仍具巨大盈利潜力</li><li>背景说明：承认AI市场竞争加剧，但反对片面悲观判断</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qfm0f0/change_my_mind_anyone_that_thinks_openai_is_dead/\">Reddit原帖讨论</a>（作者<a href=\"https://www.reddit.com/user/FuriousImpala\">FuriousImpala</a>）</p>"
+    },
+    "964c05f13d2af2363574a8ba8a00f1fab726e9cc59e20debd412979e402844b5": {
+      "zh_title": "ChatGPT将引入广告功能，运作方式曝光",
+      "zh_html": "<p>长话短说：OpenAI正在测试ChatGPT的广告功能，部分美国用户已看到相关广告。广告将出现在聊天回复中，并标注“来自合作伙伴”以示区分。OpenAI强调广告不会影响模型训练数据，并计划探索更多变现方式。</p><ol><li>OpenAI已开始向部分美国用户展示ChatGPT聊天回复中的广告。</li><li>广告会明确标注“来自合作伙伴”，与常规回复区分。</li><li>OpenAI表示广告内容不会用于训练AI模型。</li><li>公司正在探索包括订阅、企业方案和广告在内的多种商业模式。</li></ol><p>来源：<a href=\"https://www.wired.com/story/openai-testing-ads-us/\">Wired报道</a>、<a href=\"https://www.reddit.com/r/OpenAI/comments/1qenaux/ads_are_coming_to_chatgpt_heres_how_theyll_work/\">Reddit讨论</a></p>"
+    },
+    "1f12131e367a9a4a79158dc31ef8669294f72999148ba664db18a84c379e151c": {
+      "zh_title": "用户担忧丢失700余条历史聊天记录，求助备份方法",
+      "zh_html": "<p>长话短说：一位用户因担心丢失自己累积的700多条聊天记录而感到恐慌，此前曾发帖求助。尽管有人建议进行备份，但用户仍不清楚具体操作方法，因此在论坛中再次发问，希望获得明确的备份指导。</p><ol><li>用户对可能丢失大量历史聊天记录感到焦虑。</li><li>已累积超过700条聊天记录，备份需求迫切。</li><li>用户对他人建议的备份操作流程感到困惑。</li><li>在社区中公开寻求具体、可行的备份方案。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Bard/comments/1qfoxlx/so_how_can_i_back_up_all_my_old_accumulated_chats/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/man_is_the_dream\">u/man_is_the_dream</a>）</p>"
+    },
+    "588cd3b9fa098ae386b8e61bba80375290dbb3d68ee20da505bdba21c0fc926b": {
+      "zh_title": "阿根廷摇滚乐队红肠与奶酪现场演绎《新闻蓝调》官方音频上线",
+      "zh_html": "<p>阿根廷传奇摇滚乐队“红肠与奶酪”（Patricio Rey y sus Redonditos de Ricota）的经典曲目《新闻蓝调》（El Blues del Noticiero）官方现场音频已在YouTube Music平台正式发布。</p><p>长话短说：阿根廷著名摇滚乐队“红肠与奶酪”的经典歌曲《新闻蓝调》官方现场演出音频正式上线YouTube Music平台，由Reddit用户分享推荐。</p><ol><li>歌曲《新闻蓝调》由阿根廷传奇摇滚乐队“红肠与奶酪”演绎。</li><li>本次发布的是官方现场演出音频版本。</li><li>音频已正式登陆<a href=\"https://music.youtube.com/watch?v=wkV2uWj0T70&si=AtdCsWuaqdTbFbQI\">YouTube Music平台</a>。</li><li>消息最初由Reddit用户<a href=\"https://www.reddit.com/user/AspectHot5584\">AspectHot5584</a>在相关社区分享。</li></ol><p>来源：<a href=\"https://music.youtube.com/watch?v=wkV2uWj0T70&si=AtdCsWuaqdTbFbQI\">YouTube Music官方音频链接</a>；<a href=\"https://www.reddit.com/r/Bard/comments/1qf6t3b/patricio_rey_y_sus_redonditos_de_ricota_el_blues/\">Reddit原讨论帖</a>。</p>"
+    },
+    "17534b6951537ac80d70a004be74da8d41b88f8193d0e2d84242e8b728938836": {
+      "zh_title": "电商广告投放的80/20法则：真正有效的三件事",
+      "zh_html": "<p>经过两年6万美元广告投放实践，我总结了真正影响效果的三个关键：</p><p><strong>长话短说：</strong>电商广告效果主要取决于创意测试数量、快速淘汰低效广告和积极放大成功广告。过度追求精准定位、精美落地页等细节反而收益有限。核心是加大创意测试频率，用数据驱动决策。</p><ol><li><strong>增加创意测试量（影响最大）</strong>：从每月5次测试增至50次，收入增长3倍。更多创意意味着更多成功机会。</li><li><strong>快速淘汰失败广告（第二重要）</strong>：花费50美元后点击率仍低于2%立即停止。过度容忍低效广告是预算浪费主因。</li><li><strong>积极放大成功广告（第三关键）</strong>：点击率超过3.5%立即加码投放。成功窗口期有限，需把握时机快速扩张。</li></ol><p><strong>效果有限的事项：</strong>精准定位（广泛投放已足够）、精美落地页（基础Shopify模板即可）、邮件营销序列（锦上添花非必需）、网红合作等。</p>"
+    },
+    "f107503d96520a1476019ceceac6222e65ee6e8b462c83eb6ed06e31c381526d": {
+      "zh_title": "大语言模型为何低效？Meta新架构VL-JEPA如何突破瓶颈",
+      "zh_html": "<p>当前多数视觉语言模型依赖自回归生成——逐词预测。这意味着它们不仅要学习信息，还要学习所有可能的表达方式，导致改写与理解的计算成本相当。</p><p>近期，Meta推出全新架构VL-JEPA（视觉语言联合嵌入预测架构）。它不再预测具体词汇，而是直接在共享语义空间中预测意义嵌入。其核心思想是将“理解发生什么”与“决定如何表述”分离，从而消除大量冗余计算，并支持非自回归推理和选择性解码——仅在实际发生有意义变化时才生成文本。</p><ol><li>自回归模型需学习所有表达变体，效率低下</li><li>VL-JEPA直接预测语义嵌入，分离内容理解与语言生成</li><li>新架构支持非自回归推理，减少不必要计算</li><li>选择性解码机制仅在内容实质变化时输出文本</li></ol>"
+    },
+    "357d3088e024b879f80b6c513099b3e67efdadf19f50ec5f98317bf167055aa2": {
+      "zh_title": "哪句名言一直让你铭记于心？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问网友们一直铭记于心的名言。帖子引发了大量评论和分享，用户们纷纷贴出对自己影响深远的引语，涵盖了人生、爱、勇气和智慧等多个主题。</p><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfil4m/what_quote_has_always_stuck_with_you/\">Reddit讨论帖</a>，由用户<a href=\"https://www.reddit.com/user/iSayBOLDthings\">iSayBOLDthings</a>提交。</p>"
+    },
+    "6e6b78c2200abf2b1945e03a5e1fae11e1f16bf172c2b4f8102d61fa3b0d699f": {
+      "zh_title": "哪个反派角色让你比主角更喜爱？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问大家有没有哪个反派角色比英雄主角更让你喜爱。话题引发网友分享各自钟爱的经典反派，探讨其魅力所在。</p><ol><li>讨论主题：哪个反派角色比英雄更受你喜爱？</li><li>发起用户：<a href=\"https://www.reddit.com/user/OneForAll_1945\">OneForAll_1945</a></li><li>讨论串链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfd6r8/which_is_that_one_villain_you_enjoyed_more_than/\">查看原帖</a></li><li>评论区链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfd6r8/which_is_that_one_villain_you_enjoyed_more_than/\">参与讨论</a></li></ol>"
+    },
+    "cf9dd355def1ccd6cd2eaab658da65fd0fa4e9332c15b4979c3c9c645a688a6e": {
+      "zh_title": "你希望别人以你眼中的自己还是更好的方式看待你？",
+      "zh_html": "<p>长话短说：一位网友在Reddit上发起讨论，询问人们是希望他人以自己看待自己的方式看待自己，还是以更好的方式看待自己，并探讨其原因。该话题引发了关于自我认知、社会评价与个人成长之间关系的思考。</p><ol><li>讨论核心：自我认知与他人评价的差异与选择。</li><li>发起者：Reddit用户<a href=\"https://www.reddit.com/user/Ok_Decision_4705\">Ok_Decision_4705</a>。</li><li>讨论链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfa4q7/would_you_like_others_to_see_you_the_way_you_see/\">查看原帖</a>。</li><li>评论链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfa4q7/would_you_like_others_to_see_you_the_way_you_see/\">参与讨论</a>。</li></ol>"
+    },
+    "570e2fbd1a99c94b8486c08c3cee300b0409224ed7dd2ea57a89edc8acfa2d0d": {
+      "zh_title": "网友热议被严重低估的冷门好剧",
+      "zh_html": "<p>长话短说：Reddit网友在“AskReddit”板块发起讨论，征集大家心中那些质量极高却未获应有关注的冷门电视剧。帖子引发众多剧迷分享自己珍藏的“沧海遗珠”。</p><ol><li>讨论主题为“你最爱的、被严重低估的电视剧是什么？”</li><li>原帖由用户<a href=\"https://www.reddit.com/user/NotAFakeAccount777\">NotAFakeAccount777</a>发布。</li><li>帖子链接：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfg3ij/what_is_the_most_criminally_underrated_tv_show/\">进入讨论</a>，<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfg3ij/what_is_the_most_criminally_underrated_tv_show/\">查看评论</a>。</li></ol>"
+    },
+    "92b5aca6f340998dfe1c503fd321e449dd8c6bd72a3e3378be5cef431c398024": {
+      "zh_title": "美议员指控伊朗杀害抗议者 特朗普称有义务行动引网友热议",
+      "zh_html": "<p>长话短说：美国参议员蒂利斯发帖称伊朗政府为压制自由已杀害1.2万公民并断网掩盖真相，特朗普随后表示有义务采取行动。该话题在Reddit引发美国网友对伊朗局势及美国应如何回应的广泛讨论。</p><ol><li>蒂利斯指控伊朗政权镇压致1.2万公民死亡并切断网络</li><li>特朗普表态称感到有责任对伊朗采取行动</li><li>Reddit网友围绕美国民众态度及支持措施展开讨论</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qf1dle/sen_thom_tillis_posted_the_iranian_regime_has/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/Lemmungwinks\">Lemmungwinks</a>提交）</p>"
+    },
+    "5ef13bdc87b128cc1c6d3990d773350912ca78eb6106d8c6c3f99419b045a33b": {
+      "zh_title": "美国哪个州自认为是主角？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问美国哪个州表现得像自己是故事的主角。该话题引发网友热议，大家纷纷提名并讨论各州的“主角气质”和刻板印象。</p><ol><li>讨论围绕美国各州的自我认知和外界印象展开。</li><li>网友提名多个州份，并给出各自的理由和幽默评论。</li><li>话题源自Reddit的AskReddit板块，是一个开放性的趣味提问。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qfo7pb/which_us_state_thinks_its_the_main_character/\">Reddit讨论帖</a>（由用户Mister_Silk提交）</p>"
+    },
+    "3d6b38d8e7c0eba37ff3097fa9b0fe543710a3b6954a4b8ed9295854a663de9b": {
+      "zh_title": "二手手机值得买吗？用户分享购买经验与性能担忧",
+      "zh_html": "<p>一位用户计划从性能较弱的Helio G85手机升级至搭载骁龙7+ Gen 2处理器的Poco F5，并在Shopee、Mudah.my等电商平台发现了二手选项。他询问社区关于购买二手手机的经验：是否值得购买？质量如何？最重要的是，对于游戏玩家而言，其性能是否接近全新机？</p><p>长话短说：用户寻求从低端机升级到高性能二手手机的建议，重点关注二手Poco F5的游戏性能是否接近全新，并询问在电商平台购买二手手机的可靠性与质量体验。</p><ol><li>用户想从Helio G85手机升级到骁龙7+ Gen 2的Poco F5。</li><li>在Shopee、Mudah.my等平台看到二手手机，询问购买经验。</li><li>核心关切：是否值得买？质量如何？游戏性能是否接近全新？</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Android/comments/1qf86m8/is_buying_secondhandusedpreowned_phones_okay/\">Reddit讨论帖</a>（由<a href=\"https://www.reddit.com/user/Slow-Construction897\">用户Slow-Construction897</a>提交）</p>"
+    },
+    "f323bd98400575b4302efc5bd66f4e7cc0d361fc619209ff556b265a31e31f5e": {
+      "zh_title": "Magic 8 Pro一周使用体验：夜拍出色续航强，但机身偏大易误触",
+      "zh_html": "<p>长话短说：用户使用Magic 8 Pro一周后分享体验。手机夜间长焦拍摄效果优秀，电池续航轻松达到两天，充电速度极快。缺点是机身较大，且容易误触AI按钮。用户好奇它与近期iPhone Pro Max或Galaxy Ultra机型的对比感受。</p><ol><li>夜间长焦拍摄效果出色</li><li>电池续航轻松维持两天</li><li>充电速度非常快</li><li>机身尺寸偏大，握持不便</li><li>AI按钮位置容易导致误触</li></ol><p>来源：由<a href=\"https://www.reddit.com/user/Wild-Answer-2044\">Reddit用户Wild-Answer-2044</a>在<a href=\"https://www.reddit.com/r/Android/comments/1qf6ngy/one_week_with_the_magic_8_pro/\">Android版块</a>分享，可查看<a href=\"https://www.reddit.com/r/Android/comments/1qf6ngy/one_week_with_the_magic_8_pro/\">讨论内容</a>。</p>"
+    },
+    "58dea2e020dc5fec26605acb596d087a618b1939892c22058366b21665cd9c6a": {
+      "zh_title": "谷歌快速配对蓝牙设备曝出窃听漏洞，数亿设备受影响",
+      "zh_html": "<p>长话短说：研究人员发现谷歌快速配对技术存在名为“WhisperPair”的安全漏洞，攻击者可利用该漏洞窃听蓝牙耳机通话，全球数亿台设备可能受到影响。该漏洞源于配对过程中的密钥交换缺陷，允许中间人攻击。</p><ol><li>漏洞影响所有支持谷歌快速配对的蓝牙设备，包括耳机、音箱等。</li><li>攻击者可在10米范围内无需用户交互即可发起窃听。</li><li>谷歌已收到漏洞报告，正在评估修复方案。</li><li>用户暂时可关闭蓝牙或避免在公共场所使用快速配对功能。</li></ol><p>来源：<a href=\"https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/\">Ars Technica 研究报告</a>、<a href=\"https://www.reddit.com/r/Android/comments/1qep7bq/many_bluetooth_devices_with_google_fast_pair/\">Reddit 讨论帖</a></p>"
+    },
+    "14f2534d755448289ae9395470ea61cfb6cc6f9828527d6bc3c3c278b37f429b": {
+      "zh_title": "网友热议氮化镓USB-C充电头优缺点",
+      "zh_html": "<p>长话短说：Reddit网友讨论氮化镓（GaN）USB-C充电头的使用体验，普遍认为其体积小、效率高，但部分型号存在发热问题。讨论涉及品牌选择、功率需求和旅行便携性等话题。</p><ol><li>氮化镓充电头体积比传统硅基充电器小巧，便于携带。</li><li>高功率型号（如65W以上）可为笔记本和手机同时快充。</li><li>部分用户反馈某些品牌存在充电时发热明显的现象。</li><li>旅行时多口GaN充电器能减少携带多个充电头的麻烦。</li><li>建议根据设备功率需求选择合适型号，避免过度购买。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Android/comments/1qfd7j2/what_is_your_opinion_on_gan_usb_c_charging_bricks/\">Reddit讨论帖</a>（由用户Popular-Associate235发起）</p>"
+    },
+    "f4bbbc174564dbfc3305a195bd112a260ed3387b1f6983485a7f7d0a2b2eca9a": {
+      "zh_title": "ONLYOFFICE开源办公套件支持PDF阅读与文档编辑",
+      "zh_html": "<p>ONLYOFFICE是一款开源办公套件，内置PDF阅读器，支持查看和编辑各类文档、演示文稿和电子表格。</p><p>长话短说：ONLYOFFICE是一款功能全面的开源办公软件，不仅具备PDF阅读功能，还能处理多种文档格式。用户可通过Google Play商店下载安装，适用于需要移动办公和文档处理的场景。</p><ol><li>开源办公套件，支持文档、演示文稿和电子表格编辑</li><li>内置PDF阅读器，可直接查看PDF文件</li><li>提供Android版本，可通过Google Play下载</li></ol><p>来源：<a href=\"https://www.reddit.com/r/Android/comments/1qfaeth/onlyoffice_an_open_source_office_suite_with_pdf/\">Reddit讨论帖</a>、<a href=\"https://play.google.com/store/apps/details?id=com.onlyoffice.documents\">Google Play商店页面</a></p>"
+    },
+    "2e9a399950d5e53d55df5fd0414b2215e57f5c6d4df515cf05f783c8c70566e8": {
+      "zh_title": "开发者打造浮动伙伴应用 为手机界面增添动画伴侣",
+      "zh_html": "<p>长话短说：开发者近日推出一款名为“浮动伙伴”的趣味应用，可在手机其他应用上层显示动画角色。这些角色会滑行、走动、睡觉并执行各种动画，让手机使用体验更生动有趣。应用支持调整大小、移动和位置，避免干扰正常操作。开发者希望获得关于性能、耗电和设备兼容性的反馈。</p><ol><li>应用功能：在WhatsApp、Instagram等应用上层显示可互动动画角色</li><li>设计理念：让手机界面更具活力与趣味性，而非纯粹工具</li><li>自定义设置：支持调整角色尺寸、运动方式和屏幕位置</li><li>开发目标：保持应用轻量化，同时优化多设备性能表现</li></ol><p>来源：<a href=\"https://play.google.com/store/apps/details?id=com.smoothie.overlay\">Google Play应用商店页面</a></p>"
+    },
+    "b71dcadf82304be3a11f93f45edf511ddff48c210df60b02ee77a3f3d5ea6e87": {
+      "zh_title": "如何自动填充意图中的额外字段数值",
+      "zh_html": "<p>长话短说：用户在使用Tasker的“发送意图”动作时，需要为每条动作行的“额外”字段填入从1L到100L的数值。用户希望找到一种循环自动填充的方法，避免手动逐一添加，以提高效率。</p><ol><li>用户希望自动为“发送意图”动作的每一行“额外”字段填充从1L到100L的数值。</li><li>当前手动逐一添加的方式效率低下，用户寻求自动化解决方案。</li><li>问题涉及Tasker应用中的意图配置与参数批量处理。</li></ol><p>来源：<a href=\"https://www.reddit.com/user/telrod11\">/u/telrod11</a>，<a href=\"https://www.reddit.com/r/tasker/comments/1qfhtwm/is_there_a_way_to_auto_populate_an_extra_field_in/\">原帖链接</a>，<a href=\"https://www.reddit.com/r/tasker/comments/1qfhtwm/is_there_a_way_to_auto_populate_an_extra_field_in/\">评论链接</a></p>"
+    },
+    "687faabe05ac246d609deef0d0e0812dd7785cdd4a2cd7545d6edf5e38deeaa2": {
+      "zh_title": "如何解决Join推送中带空格的文本变量问题",
+      "zh_html": "<p>长话短说：用户在Tasker的Join推送中，尝试发送包含空格的日志文件内容时，curl命令会因空格而中断。问题核心是如何将含空格的变量安全传递到推送的文本字段中，避免命令行解析错误。</p><ol><li>问题场景：通过Join推送发送含空格的日志文本时，curl命令因空格中断。</li><li>核心需求：将带空格的变量安全传递到推送文本字段。</li><li>提问者：<a href=\"https://www.reddit.com/user/Rubyheart255\">Rubyheart255</a></li></ol><p>来源：<a href=\"https://www.reddit.com/r/tasker/comments/1qfjund/text_with_spaces_in_join_push/\">原讨论帖</a>、<a href=\"https://www.reddit.com/r/tasker/comments/1qfjund/text_with_spaces_in_join_push/\">评论</a></p>"
+    },
+    "bb0e81f8ee0b5e4ac10e94fc417d99294a5acb414b724fee514e4478255df2b0": {
+      "zh_title": "设备所有者权限移除问题：是否需要恢复出厂设置",
+      "zh_html": "<p>长话短说：用户已启用设备所有者权限，并通过恢复出厂设置获得该权限。现在想通过“清除设备所有者”选项禁用权限，但担心是否需要再次恢复出厂设置才能移除权限。</p><ol><li>用户已通过恢复出厂设置获得设备所有者权限。</li><li>当前设备设置中有“清除设备所有者”选项。</li><li>用户询问：执行此操作后，是否需要再次恢复出厂设置才能完全移除所有者权限？</li></ol><p>来源：<a href=\"https://www.reddit.com/r/tasker/comments/1qfh2sg/quick_question_device_owner_permission_remove/\">Reddit原帖</a>（作者：<a href=\"https://www.reddit.com/user/zhSHADOW\">zhSHADOW</a>）</p>"
+    },
+    "bad0c9de803168b02a3da025cdfda372cf2e764d81fe5232ce6dab6c931b625e": {
+      "zh_title": "求助：Android Auto车机音量自动调节方案",
+      "zh_html": "<p>长话短说：用户发现Android Auto导航和Google助理音量会自动降低，需手动调整车机系统内的“铃声音量”才能恢复。用户希望用Tasker实现自动化操作，但从未用过Tasker，寻求设置指导。</p><ol><li>问题：车机系统会莫名降低Android Auto导航和Google助理的音量。</li><li>临时解决方法：进入车机（非原厂系统）的“声音设置”，调整“铃声音量”滑块（任意方向），即可恢复正常。</li><li>设置界面：共有“媒体音量”、“闹钟音量”和“铃声音量”三个滑块。</li><li>需求：询问是否能用Tasker自动化执行上述调节操作。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/tasker/comments/1qf6zsn/help_with_android_auto_headunit_volume/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/dimibak\">dimibak</a>）</p>"
     }
   }
 }
