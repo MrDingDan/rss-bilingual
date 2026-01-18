@@ -1674,7 +1674,10 @@
     "reddit-askreddit::t3_1qgdno2": 1768772782,
     "reddit-askreddit::t3_1qgb4zq": 1768772799,
     "reddit-askreddit::t3_1qg2e04": 1768772811,
-    "reddit-askreddit::t3_1qgh0m1": 1768772826
+    "reddit-askreddit::t3_1qgh0m1": 1768772826,
+    "reddit-chatgpt::t3_1qgkjhu": 1768775534,
+    "reddit-claudeai::t3_1qgl7k1": 1768775547,
+    "reddit-askreddit::t3_1qgi8yl": 1768775562
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -8324,6 +8327,18 @@
     "04c0a0b767031d4cf04a5d651e339728b6b4f4faa7b855b395eec6a451d2ad35": {
       "zh_title": "网友分享难以置信的离奇经历：那些无法言说的神秘见闻",
       "zh_html": "<p>长话短说：Reddit网友在“AskReddit”板块发起话题，征集那些因过于离奇而不敢轻易告诉他人的神秘经历。帖子迅速引发热议，众多用户匿名分享了自己遭遇的无法解释的事件，从超自然现象到现实中的诡异巧合，内容五花八门，多数经历因担心不被相信而从未对外公开。</p><ol><li>话题由用户<a href=\"https://www.reddit.com/user/Potential-Plankton57\">Potential-Plankton57</a>发起，旨在收集“你见过最奇怪但无法告诉别人的事”。</li><li>讨论集中在超自然遭遇、无法解释的巧合、或违背常理的现实事件上。</li><li>许多分享者表示，这些经历过于离奇，担心被他人视为虚构或精神问题，因此长期保密。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgh0m1/what_is_the_strangest_thing_youve_seen_but_wasnt/\">Reddit讨论帖</a></p>"
+    },
+    "93cee3a0c0cec00cb6c89b0f2571f0463817efed85f2d8f0b0bb408e96fa6cc0": {
+      "zh_title": "ChatGPT用欧米茄符号创作音乐引热议",
+      "zh_html": "<p>长话短说：有用户发现ChatGPT能将欧米茄符号（Ω）转化为音乐序列，相关演示视频在Reddit平台引发讨论。视频展示了AI如何将数学符号转换为可播放的旋律，体现了其跨模态生成能力。</p><ol><li>用户NebualaxyYT在<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgkjhu/chatgpt_making_music_out_of_omega_symbols/\">Reddit的ChatGPT板块</a>分享了这一发现</li><li>演示视频通过<a href=\"https://v.redd.it/ym1cgu5bc6eg1\">v.redd.it链接</a>可观看</li><li>帖子下方设有<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgkjhu/chatgpt_making_music_out_of_omega_symbols/\">评论区</a>供用户交流</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgkjhu/chatgpt_making_music_out_of_omega_symbols/\">Reddit原帖</a>（发布者：<a href=\"https://www.reddit.com/user/NebualaxyYT\">u/NebualaxyYT</a>）</p>"
+    },
+    "21925783a702b2ba5a0e8038f31ff8af551c004a12f873d376fa06974efdb3e4": {
+      "zh_title": "用户呼吁对话中切换AI模型功能",
+      "zh_html": "<p>长话短说：用户希望AI对话工具能像谷歌Gemini或Claude Code那样，在对话中途切换不同模型，避免因小修改就需重开对话或持续消耗高额代币的困扰。</p><ol><li>当前多数AI对话工具不支持中途切换模型</li><li>用户需为微小修改重开对话或持续使用高成本模型</li><li>谷歌Gemini等工具已实现该功能</li><li>用户通过<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgl7k1/you_should_be_able_to_switch_model_mid/\">Reddit帖子</a>表达此需求</li></ol><p>来源：<a href=\"https://www.reddit.com/user/AudaciousSam\">Reddit用户AudaciousSam</a></p>"
+    },
+    "900330c7b2d20114ec302bc1d7ff09641e60ad1652bfcfd23a7e915990ce8f9e": {
+      "zh_title": "五角大楼如何防止人工智能泄露军事机密",
+      "zh_html": "<p>长话短说：随着人工智能在军事领域的应用日益广泛，如何确保AI系统在处理敏感信息时不会无意间泄露机密，成为美国国防部面临的关键挑战。这涉及到技术防护、流程管控和人员培训等多层面的综合策略。</p><ol><li>核心挑战在于AI模型可能通过训练数据、输出内容或交互过程，间接暴露机密信息。</li><li>解决方案包括开发安全的专用AI模型、实施严格的数据访问控制、以及建立AI行为审计机制。</li><li>国防部需要持续评估AI系统的安全风险，并制定相应的应急响应预案。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgi8yl/if_the_pentagon_uses_ai_how_do_they_stop_ai_from/\">Reddit讨论帖</a>（由用户Civil_Exchange1271提交）</p>"
     }
   }
 }
