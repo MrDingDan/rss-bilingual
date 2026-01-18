@@ -1691,7 +1691,8 @@
     "reddit-openai::t3_1qgnoww": 1768779055,
     "reddit-bard::t3_1qgnfc9": 1768779069,
     "reddit-bard::t3_1qgnnqn": 1768779081,
-    "reddit-askreddit::t3_1qglydr": 1768779096
+    "reddit-askreddit::t3_1qglydr": 1768779096,
+    "reddit-openai::t3_1qgo71c": 1768780057
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -8409,6 +8410,10 @@
     "79614646c8e886401a9c23511e9fbf2d130ad6ce533e9bc8a5fd1752ccf1f98b": {
       "zh_title": "哪些基础技能令你惊讶于部分成年人仍未掌握",
       "zh_html": "<p>长话短说：Reddit用户发起讨论，询问有哪些基础技能令人惊讶于部分成年人仍未掌握。该话题引发广泛评论，网友们分享了从生活自理到数字素养等各个方面的观察。</p><ol><li>讨论源自Reddit的AskReddit板块，由用户HexVortexx发起。</li><li>网友们列举了多种他们认为成年人应该掌握但有人却不会的基础技能。</li><li>话题链接和评论链接可供进一步阅读。</li></ol><p>来源：<a href=\"https://www.reddit.com/user/HexVortexx\">HexVortexx</a>， <a href=\"https://www.reddit.com/r/AskReddit/comments/1qglydr/whats_a_basic_skill_youre_shocked_some_adults/\">话题链接</a>， <a href=\"https://www.reddit.com/r/AskReddit/comments/1qglydr/whats_a_basic_skill_youre_shocked_some_adults/\">评论链接</a></p>"
+    },
+    "7c88bc3b93dec7185c4e603eff85bce28a3ca306480fbdfaea226a5bacb414f1": {
+      "zh_title": "Codex Manager v1.1.0版本正式发布",
+      "zh_html": "<p>长话短说：Codex Manager v1.1.0版本现已推出，带来多项界面与功能优化，包括全新的差异预览界面、备份管理增强、设置面板升级等，提升了代码审查与管理的使用体验。</p><ol><li>新增所有变更的堆叠式差异预览，提供更清晰统一的视图</li><li>备份功能增强：可在备份界面删除单个或全部备份（删除操作无差异预览）</li><li>设置面板升级：新增Codex使用情况快照（含套餐及5小时/1周时间窗口）、代码审查窗口（可用时显示）及使用上限提示标志</li><li>设置面板新增认证状态横幅、登录方式及令牌来源显示（仅安全元数据，不暴露令牌）</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qgo71c/codex_manager_v110_is_out/\">Reddit讨论帖</a>、<a href=\"https://preview.redd.it/4lfls92v27eg1.jpg?width=1924&format=pjpg&auto=webp&s=1e3b68e78ef690e9428bbcd92624b369d17d7a92\">预览图片</a></p>"
     }
   }
 }
