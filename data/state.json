@@ -1668,7 +1668,13 @@
     "reddit-tasker::t3_1qg90y4": 1768772216,
     "reddit-tasker::t3_1qg5zhw": 1768772243,
     "xgo-931d6e88::2012968507332599871": 1768772258,
-    "xgo-931d6e88::2012968495211074035": 1768772269
+    "xgo-931d6e88::2012968495211074035": 1768772269,
+    "reddit-claudeai::t3_1qftz83": 1768772757,
+    "reddit-openai::t3_1qg4mhl": 1768772769,
+    "reddit-askreddit::t3_1qgdno2": 1768772782,
+    "reddit-askreddit::t3_1qgb4zq": 1768772799,
+    "reddit-askreddit::t3_1qg2e04": 1768772811,
+    "reddit-askreddit::t3_1qgh0m1": 1768772826
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -8294,6 +8300,30 @@
     "674703778885f8992e31be6961819cdba0884fcc97d9a0642386843b5a54435d": {
       "zh_title": "大语言模型智能体记忆机制演进综述",
       "zh_html": "<p>长话短说：本文综述了基于大语言模型（LLM）的智能体所采用的有效记忆机制及其演进过程。文章探讨了不同记忆架构如何帮助智能体存储、检索和利用信息，以提升其在复杂任务中的持续表现和决策能力。</p><ol><li>系统梳理了LLM智能体记忆机制的发展脉络。</li><li>重点介绍了几种在实践中被证明有效的记忆架构。</li><li>探讨了记忆机制如何赋能智能体进行更复杂的交互与任务处理。</li></ol><p>来源：<a href=\"https://xgo.ing\">xgo.ing</a></p>"
+    },
+    "7de895e29e866bffa3a166e5b8d8d9ca0961d2e24918a52bf57347dcb27d36c3": {
+      "zh_title": "Opus 4.5使用率恢复正常，用户曾因异常消耗被迫中断工作",
+      "zh_html": "<p>长话短说：用户上周遭遇Opus 4.5服务使用率异常飙升，在周末重置后仅一天多就消耗了20X Max套餐周限额的50%，导致周四提前耗尽额度。尽管多次联系Anthropic未获回应，用户通过取消并重启服务尝试重置未果，最终被迫中断工作至周六系统自动重置。目前使用率已恢复正常。</p><ol><li>上周六下午1点周限额重置后，仅过一天多（至周一中午）使用率就达50%</li><li>用户尽力控制使用，仍于周四提前触达周限额</li><li>周一至周四三次联系Anthropic客服均未获回应</li><li>尝试取消服务并退款后重新订阅，但使用率未重置</li><li>最终需等待至周六系统自动重置，期间工作受到干扰</li><li>用户表示现在更积极寻找和支持Claude Code的替代方案</li><li>目前测试显示使用率已恢复正常水平</li></ol>"
+    },
+    "14e472bc928df03750e020b7fde795d1c79c5f7450e9cc8e8f5613237d2bc852": {
+      "zh_title": "担忧ChatGPT广告？付费订阅或成解决方案",
+      "zh_html": "<p>长话短说：针对用户对ChatGPT可能引入广告的担忧，有观点建议通过订阅Plus服务来避免广告干扰。该讨论源自Reddit社区，探讨了付费模式与用户体验之间的平衡。</p><ol><li>用户担忧ChatGPT未来可能加入广告影响体验</li><li>建议解决方案是订阅ChatGPT Plus服务</li><li>讨论源自Reddit的OpenAI板块用户分享</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qg4mhl/if_youre_so_worried_about_ads_in_chatgpt/\">Reddit原帖</a> | <a href=\"https://www.reddit.com/user/yeyomontana\">用户yeyomontana</a></p>"
+    },
+    "40420d63c7dc894820c08a4a8d3351516ccfb4dc7e2d5262099b2f1d87763603": {
+      "zh_title": "2026年人人都应善用的免费在线资源",
+      "zh_html": "<p>长话短说：Reddit网友发起讨论，征集2026年人们应该充分利用的免费在线资源。话题引发广泛关注，用户们分享了各类免费工具、学习平台和服务的见解，旨在帮助大众在未来更高效地获取知识和便利。</p><ol><li>讨论聚焦于未来可免费使用的在线工具与平台。</li><li>涵盖教育、软件、娱乐等多个领域的免费资源。</li><li>旨在帮助公众提前规划，以充分利用网络福利。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgdno2/what_free_things_online_should_everyone_take/\">Reddit讨论帖</a>（由<a href=\"https://www.reddit.com/user/Majoodeh\">用户Majoodeh</a>提交）</p>"
+    },
+    "f4208828d83456ac5831bf3f4eda1ad3f35f1f769fddaddb815fd05b0190a388": {
+      "zh_title": "那些因愚蠢行为而诞生的奇葩规定",
+      "zh_html": "<p>长话短说：Reddit网友分享了许多因某人做出极其愚蠢的行为而催生的特殊规定。这些规定看似荒诞，背后却是一个个令人哭笑不得的真实故事，涵盖了工作场所、公共场所以及日常生活中的各种“前车之鉴”。</p><ol><li>有公司规定员工不得在微波炉里加热榴莲，因为曾有员工这么做导致整个办公室疏散。</li><li>某图书馆规定，书籍不得用作枕头，因为有读者在阅览室睡着并流口水毁坏了珍贵藏书。</li><li>一家工厂的安全手册明确写着“禁止用叉车举着同事去换灯泡”，这源于一次危险的事故尝试。</li><li>公共游泳池的规则中包括“禁止在泳池内进行焊接作业”，这是对一次离奇维修事件的回应。</li></ol><p>来源：讨论源自<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgb4zq/whats_a_rule_that_exists_only_because_someone_did/\">Reddit AskReddit板块</a>，由用户<a href=\"https://www.reddit.com/user/Hefty_Income1393\">Hefty_Income1393</a>发起。</p>"
+    },
+    "bd45d06c8b1b263dee781578d6da9c6c733ace6af2556ca2a8c7ea3dd5031361": {
+      "zh_title": "临终前最想体验的人生愿望清单",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问大家在生命结束前最想看到或体验的事物。网友们纷纷分享个人愿望，从自然奇观到人生成就，内容广泛而深刻，展现了人们对生命意义的多元思考。</p><ol><li>观赏北极光等自然奇观</li><li>体验不同文化和旅行冒险</li><li>完成个人创作或事业目标</li><li>与亲友共度珍贵时光</li><li>见证科技或人类重大进步</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qg2e04/what_is_something_you_want_to_see_or_experience/\">Reddit讨论帖</a> | <a href=\"https://www.reddit.com/user/aryanpote7\">发起者主页</a></p>"
+    },
+    "04c0a0b767031d4cf04a5d651e339728b6b4f4faa7b855b395eec6a451d2ad35": {
+      "zh_title": "网友分享难以置信的离奇经历：那些无法言说的神秘见闻",
+      "zh_html": "<p>长话短说：Reddit网友在“AskReddit”板块发起话题，征集那些因过于离奇而不敢轻易告诉他人的神秘经历。帖子迅速引发热议，众多用户匿名分享了自己遭遇的无法解释的事件，从超自然现象到现实中的诡异巧合，内容五花八门，多数经历因担心不被相信而从未对外公开。</p><ol><li>话题由用户<a href=\"https://www.reddit.com/user/Potential-Plankton57\">Potential-Plankton57</a>发起，旨在收集“你见过最奇怪但无法告诉别人的事”。</li><li>讨论集中在超自然遭遇、无法解释的巧合、或违背常理的现实事件上。</li><li>许多分享者表示，这些经历过于离奇，担心被他人视为虚构或精神问题，因此长期保密。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgh0m1/what_is_the_strangest_thing_youve_seen_but_wasnt/\">Reddit讨论帖</a></p>"
     }
   }
 }
