@@ -1677,7 +1677,13 @@
     "reddit-askreddit::t3_1qgh0m1": 1768772826,
     "reddit-chatgpt::t3_1qgkjhu": 1768775534,
     "reddit-claudeai::t3_1qgl7k1": 1768775547,
-    "reddit-askreddit::t3_1qgi8yl": 1768775562
+    "reddit-askreddit::t3_1qgi8yl": 1768775562,
+    "reddit-chatgpt::t3_1qgm4o0": 1768776540,
+    "reddit-chatgpt::t3_1qglo9l": 1768776555,
+    "reddit-chatgpt::t3_1qgkijk": 1768776566,
+    "reddit-claudeai::t3_1qgk0o9": 1768776579,
+    "reddit-claudeai::t3_1qgmit9": 1768776594,
+    "reddit-claudeai::t3_1qgm3xn": 1768776611
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -8339,6 +8345,30 @@
     "900330c7b2d20114ec302bc1d7ff09641e60ad1652bfcfd23a7e915990ce8f9e": {
       "zh_title": "五角大楼如何防止人工智能泄露军事机密",
       "zh_html": "<p>长话短说：随着人工智能在军事领域的应用日益广泛，如何确保AI系统在处理敏感信息时不会无意间泄露机密，成为美国国防部面临的关键挑战。这涉及到技术防护、流程管控和人员培训等多层面的综合策略。</p><ol><li>核心挑战在于AI模型可能通过训练数据、输出内容或交互过程，间接暴露机密信息。</li><li>解决方案包括开发安全的专用AI模型、实施严格的数据访问控制、以及建立AI行为审计机制。</li><li>国防部需要持续评估AI系统的安全风险，并制定相应的应急响应预案。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgi8yl/if_the_pentagon_uses_ai_how_do_they_stop_ai_from/\">Reddit讨论帖</a>（由用户Civil_Exchange1271提交）</p>"
+    },
+    "02dc9c95880ae5bf45a13d608ea251723b47cb8c8979096ecd5ca5753dbc5d1f": {
+      "zh_title": "Reddit用户分享ChatGPT惊人发现引发热议",
+      "zh_html": "<p>长话短说：Reddit用户OwnGrapefruit1190在ChatGPT版块发布了一则标题为“OMG”的帖子，内容包含一张图片链接，迅速引发社区关注与讨论。帖子本身信息有限，但通过链接和评论区可进一步探索具体内容。</p><ol><li>用户OwnGrapefruit1190在<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgm4o0/omg/\">ChatGPT版块</a>发布了标题为“OMG”的帖子。</li><li>帖子附有一张图片链接：<a href=\"https://i.redd.it/fwb7flrrn6eg1.jpeg\">查看图片</a>。</li><li>用户个人主页可访问：<a href=\"https://www.reddit.com/user/OwnGrapefruit1190\">OwnGrapefruit1190</a>。</li><li>帖子已吸引用户前往<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgm4o0/omg/\">评论区</a>参与讨论。</li></ol>"
+    },
+    "025668689b486928c15c2d9042e46f72ab5ad63da156e6fa2e6865b8e00b5b0a": {
+      "zh_title": "用户分享意外聊天截图，引发网友热议",
+      "zh_html": "<p>长话短说：一位用户在Reddit的ChatGPT版块分享了一张令人意外的对话截图，内容涉及AI的回应，迅速吸引了大量网友点击、评论和讨论。帖子包含了原始图片链接和评论区入口。</p><ol><li>用户Mobile-Hawk-8692在r/ChatGPT社区发布了一个帖子。</li><li>帖子标题为“This was unexpected”，表达了对某次AI交互的惊讶。</li><li>主要内容是一张图片链接，展示了具体的对话内容。</li><li>帖子附带了直接跳转到评论区的链接，方便参与讨论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qglo9l/this_was_unexpected/\">Reddit原帖</a>、<a href=\"https://i.redd.it/9wrt4jflk6eg1.jpeg\">对话截图</a>、<a href=\"https://www.reddit.com/user/Mobile-Hawk-8692\">发布者主页</a></p>"
+    },
+    "a37b745072bce5fa0394f532517d41574091339ca885edb24c47608141485118": {
+      "zh_title": "为何Reddit用户热爱人工智能？平台价值观与AI特性高度契合",
+      "zh_html": "<p>长话短说：本文探讨Reddit用户普遍接纳AI的现象，指出这并非偶然或盲目跟风，而是因为AI的特性与Reddit平台长期推崇的价值观——好奇心、自主解决问题、集体智慧——高度契合。AI降低了知识获取门槛，让用户无需传统资质就能快速学习与探索。</p><ol><li>AI奖励好奇心而非资历：Reddit文化重视提出好问题、快速学习、独立解决问题，AI完美契合这一模式。</li><li>降低参与门槛：用户无需精英教育、内部人脉或机构支持即可通过AI获取知识与解决问题。</li><li>平台价值观的自然延伸：Reddit围绕好奇心与集体智慧构建，AI是与其核心价值匹配的工具进化。</li></ol>"
+    },
+    "fd59e7fe5197651add54ccdfc8dd8611efa4e394dcb0fecf747f021f6ad33fa4": {
+      "zh_title": "Claude代码与智能体能力解析：从学术写作到复杂任务",
+      "zh_html": "<p>长话短说：一位习惯使用ChatGPT的教授注意到Claude近期在智能体能力方面显著提升，特别是通过MCP（模型控制协议）扩展功能。他想了解Claude当前能否满足其学术工作流需求，包括研究论文的连贯性改写、代码调试、复杂数据分析、会议摘要生成等场景，并列举了具体用例进行探讨。</p><ol><li>研究论文改写：能否在保持作者写作风格的前提下，对Word文档中的章节进行连贯性优化？</li><li>代码调试：能否分析R/Python代码错误并提供修复方案？</li><li>数据分析：能否处理Excel/CSV数据并生成统计图表？</li><li>会议摘要：能否根据录音或文字记录生成结构化会议纪要？</li></ol>"
+    },
+    "e567ffae5c619ad0b925cc082db1e0d4ed28c92cdf06baee5297bd68a794bef4": {
+      "zh_title": "智能体技能为何超越开发者范畴？行业标准统一引关注",
+      "zh_html": "<p>自Cowork上周推出以来，我一直在思考智能体技能。我在一篇长文中写下了我的想法，但想听听这个社区的看法。</p><p><strong>长话短说：</strong>如果说MCP赋予了AI使用工具的“手”，那么智能体技能则教会AI“如何”遵循你的特定流程。有趣之处不在于技术本身，而在于Cursor、Codex、VS Code以及现在的Google Antigravity都采用了同一标准。</p><ol><li><strong>工具与流程之别：</strong>MCP让AI能使用工具（“手”），而智能体技能则教会AI执行特定工作流程（“方法”）。</li><li><strong>行业标准趋同：</strong>Cursor、Codex、VS Code和Google Antigravity均已采纳相同的智能体技能标准，这预示着跨平台工作流程的互操作性。</li><li><strong>来自资深工程师的洞察：</strong>我采访了一位在AMD工作20多年的嵌入式系统工程师朋友。他的观点改变了我的想法：编码智能体对他基本无用，直到他能将团队特定工作流程（如搜索供应商数据表或时序收敛程序）编码进去。现在，当高级工程师退休时，他们的知识不会随之消失。</li></ol>"
+    },
+    "55d0a75c6e5d650fd101b1d00c7e52b7b3d0817d9c17455e8bd55c61f0cd8bce": {
+      "zh_title": "Mac用户可自动清理Claude Code残留进程",
+      "zh_html": "<p>长话短说：有用户分享了在Mac上检测和清理Claude Code残留进程的方法。通过终端命令可查看当前有多少个无主Claude会话进程，并提供了自动清理脚本的链接。这有助于释放系统资源，避免后台进程堆积影响性能。</p><ol><li>使用命令 <code>ps aux | grep '[c]laude' | awk '$7 == \"??\" {print $2}' | wc -l</code> 可检测残留的Claude Code进程数量</li><li>清理脚本已发布在<a href=\"https://gist.github.com/yowmamasita/f3458e89367a82fbdee4366f456ed576\">GitHub Gist</a></li><li>该技巧由Reddit用户<a href=\"https://www.reddit.com/user/yowmamasita\">yowmamasita</a>分享至<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgm3xn/autocleanup_orphaned_claude_code_processes_on_mac/\">ClaudeAI讨论区</a></li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgm3xn/autocleanup_orphaned_claude_code_processes_on_mac/\">Reddit原帖</a>、<a href=\"https://gist.github.com/yowmamasita/f3458e89367a82fbdee4366f456ed576\">GitHub脚本</a></p>"
     }
   }
 }
