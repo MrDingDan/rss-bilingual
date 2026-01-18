@@ -1683,7 +1683,15 @@
     "reddit-chatgpt::t3_1qgkijk": 1768776566,
     "reddit-claudeai::t3_1qgk0o9": 1768776579,
     "reddit-claudeai::t3_1qgmit9": 1768776594,
-    "reddit-claudeai::t3_1qgm3xn": 1768776611
+    "reddit-claudeai::t3_1qgm3xn": 1768776611,
+    "reddit-chatgpt::t3_1qgn5i2": 1768778997,
+    "reddit-chatgpt::t3_1qgjvj9": 1768779011,
+    "reddit-claudeai::t3_1qgnbua": 1768779025,
+    "reddit-openai::t3_1qgn0hc": 1768779038,
+    "reddit-openai::t3_1qgnoww": 1768779055,
+    "reddit-bard::t3_1qgnfc9": 1768779069,
+    "reddit-bard::t3_1qgnnqn": 1768779081,
+    "reddit-askreddit::t3_1qglydr": 1768779096
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -8369,6 +8377,38 @@
     "55d0a75c6e5d650fd101b1d00c7e52b7b3d0817d9c17455e8bd55c61f0cd8bce": {
       "zh_title": "Mac用户可自动清理Claude Code残留进程",
       "zh_html": "<p>长话短说：有用户分享了在Mac上检测和清理Claude Code残留进程的方法。通过终端命令可查看当前有多少个无主Claude会话进程，并提供了自动清理脚本的链接。这有助于释放系统资源，避免后台进程堆积影响性能。</p><ol><li>使用命令 <code>ps aux | grep '[c]laude' | awk '$7 == \"??\" {print $2}' | wc -l</code> 可检测残留的Claude Code进程数量</li><li>清理脚本已发布在<a href=\"https://gist.github.com/yowmamasita/f3458e89367a82fbdee4366f456ed576\">GitHub Gist</a></li><li>该技巧由Reddit用户<a href=\"https://www.reddit.com/user/yowmamasita\">yowmamasita</a>分享至<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgm3xn/autocleanup_orphaned_claude_code_processes_on_mac/\">ClaudeAI讨论区</a></li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgm3xn/autocleanup_orphaned_claude_code_processes_on_mac/\">Reddit原帖</a>、<a href=\"https://gist.github.com/yowmamasita/f3458e89367a82fbdee4366f456ed576\">GitHub脚本</a></p>"
+    },
+    "fb2220d03da76b8d8e193b256fab70416e436350daea01916f7e70beffd29f31": {
+      "zh_title": "开源工具让ChatGPT与其他模型“讨论”以减少幻觉",
+      "zh_html": "<p>长话短说：开发者创建了一个自托管平台，通过让ChatGPT与其他AI模型（如Gemini、Claude、Mistral、Grok等）进行结构化讨论，来验证其回答的准确性，旨在解决“盲目信任”问题。该工具支持自定义API密钥和本地模型，目前正在公开测试中。</p><ol><li>平台核心功能是强制ChatGPT的回答需经过其他模型的验证，形成结构化讨论流程。</li><li>支持多种模型接入，包括云端API（需自备密钥）和本地部署的模型（如通过Ollama）。</li><li>工具完全开源，开发者邀请用户测试其“共识逻辑”以评估对减少AI幻觉的效果。</li><li>平台为提供商无关设计，内置多组预配置模型组合，更多功能正在开发中。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgn5i2/i_developed_an_opensource_tool_that_allows/\">Reddit讨论帖</a>、<a href=\"https://github.com/KeaBase/kea-research\">GitHub项目页</a>（含演示动画）</p>"
+    },
+    "9b8206e3ddbd7b436cf32b2bed6638c5fa63b0f7ae2ae1b9a5751400ffbe009c": {
+      "zh_title": "有人觉得AI的客套话反而带来安慰吗？",
+      "zh_html": "<p>长话短说：尽管很多人嘲笑ChatGPT总用“说实话……”“你没毛病……”这类客套话，但作者却觉得这些表达有时能带来安慰，即使明知它只是语言模型。这种被简单恭抚慰的感觉让作者自觉“意志薄弱”，但相比完全机械的回应，带点人情味的套路反而更亲切。</p><ol><li>常见批评：AI爱用“说实话……”“你没毛病……”等套路化表达</li><li>作者感受：明知是程序生成，却仍感到安慰与亲切</li><li>自我反思：担心自己因容易被简单恭维安抚而显得“意志薄弱”</li><li>对比体验：带人情味的套路比完全机械的回应更易接受</li></ol><p>来源：<a href=\"https://www.reddit.com/user/Equivalent_Host3709\">Reddit用户Equivalent_Host3709</a>发布于<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgjvj9/anybody_else_actually_find_the_cliches_comforting/\">r/ChatGPT讨论串</a></p>"
+    },
+    "f0db2f2b95fab7cc9f81a7e5553038f40820705860727c008d824e5e504fd24b": {
+      "zh_title": "零Kotlin经验者如何用Claude Code在两周半内将两万行iOS应用移植安卓",
+      "zh_html": "<p>长话短说：一位开发者原本需花费上万美元外包移植其超过两万行代码的iOS应用到安卓平台。在升级使用Claude Max并熟悉Claude Code后，他凭借零Kotlin与Jetpack Compose经验，通过系统化的工作流程，仅用2.5周就独立完成了移植。核心方法是分模块处理：将iOS代码推至GitHub，让Claude分析Swift/SwiftUI实现，再指导其构建对应的安卓版本。</p><ol><li>将iOS代码推送至<a href=\"https://github.com\">GitHub</a>仓库。</li><li>让Claude审阅Swift/SwiftUI代码并理解其功能。</li><li>指示Claude构建对应的Android/Jetpack Compose实现。</li></ol>"
+    },
+    "68e890bf1e4f52d6f139e1bbb2d2616f807adcc7fd22896ef2d44e6c89a2d352": {
+      "zh_title": "如何在文本聊天中持续使用语音模式？用户分享使用经验与困惑",
+      "zh_html": "<p>长话短说：一位教授用户习惯用高级语音模式复盘课程与笔记，近日发现新增“文本输入、语音回复”功能，方便在图书馆等安静场所使用。但该功能在其Java辅导项目中无法触发，仅在新聊天中有效，用户对此感到困惑。</p><ol><li>用户以教授身份用语音模式复盘课程与详细笔记</li><li>新功能支持文本提问、语音回复，适合图书馆等安静环境</li><li>但在Java辅导项目内无法触发该功能，仅显示空白语音界面</li><li>功能在新聊天中正常，项目内却失效，原因不明</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qgn0hc/how_to_consistently_use_voice_mode_with_texting/\">Reddit讨论帖</a></p>"
+    },
+    "4d09f5bbc24e103ddca11c4c9f9800e86269546d48482ecf05d25dd03f429917": {
+      "zh_title": "OpenAI披露通用人工智能资金计划：广告转型与万亿美元基建",
+      "zh_html": "<p>长话短说：OpenAI正通过广告业务转型、追求200亿美元年收入目标，并投资万亿美元级基础设施来为通用人工智能（AGI）研发筹措资金。公司计划将ChatGPT等产品货币化，并构建足以支撑AGI的算力基础。</p><ol><li>收入目标：OpenAI预计年收入将突破200亿美元，主要来自ChatGPT等产品的企业级应用与订阅服务。</li><li>广告转型：公司正探索在免费版ChatGPT中引入广告，作为新的收入来源。</li><li>基建投入：为支撑AGI研发，OpenAI计划投资数万亿美元建设算力基础设施，包括自研芯片与合作伙伴网络。</li><li>战略调整：从纯研究机构转向商业化运营，通过多元化收入支撑长期AGI目标。</li></ol><p>来源：<a href=\"https://jpcaparas.medium.com/openai-just-revealed-how-it-plans-to-pay-for-agi-512be003eaeb?sk=422ad4223fdc3a7da8eaf9f3762a9739\">原文分析</a>、<a href=\"https://www.reddit.com/r/OpenAI/comments/1qgnoww/openai_just_revealed_how_it_plans_to_pay_for_agi/\">社区讨论</a></p>"
+    },
+    "3beeb79f1c6abff9e164944f8c5f43db2c0c8df79ba3298fd1f9b9260651e42b": {
+      "zh_title": "AI编程搭档对比：Gemini像难搞的校花，Claude才是靠谱学霸",
+      "zh_html": "<p>长话短说：用户吐槽谷歌Gemini在编程协作中表现糟糕，像高中里难相处的“校花”——不沟通、不配合、不懂装懂；而Anthropic的Claude则像靠谱的“学霸”——承认不足、主动协作、踏实完成任务。两者合作体验天差地别。</p><ol><li>从不主动询问澄清问题</li><li>会完全忽略.agent或.gemini配置文件，除非被明确要求读取</li><li>即使读取了配置文件，仍会无视内容并严格遵循其默认训练模式</li><li>若收到明确指令，反而会试图“改进”指令导致更糟的结果</li><li>从不承认自己不理解或不知道某事</li></ol><p>相比之下，Claude能认知自身局限，主动承认不足并与用户协作改进，整体协作体验顺畅得多。</p>"
+    },
+    "7c6ec47e26a176581feb1e0691b1c2fe987e97110b580eea67228a86753e1a7f": {
+      "zh_title": "Gemini代码工具疑似暗中降级，开发者遭遇模型质量骤降",
+      "zh_html": "<p>长话短说：开发者从Claude迁移至Gemini数月后，近期体验急剧恶化。使用Gemini Code CLI时，强制指定gemini-3-pro模型会遭遇“服务器繁忙”错误；改用“自动”模式虽能运行，但代码质量明显下降，疑似被降级至旧版模型。在<a href=\"https://codelabs.developers.google.com/getting-started-google-antigravity\">Google Antigravity实验环境</a>中测试也出现相同问题。</p><ol><li>强制使用gemini-3-pro模型时频繁报“服务器繁忙”错误</li><li>自动模式下降级感明显，性能接近旧版2.5 Pro</li><li>代码错误率激增，失去几周前的“敏锐度”</li><li>开发者质疑存在未告知的模型“静默降级”</li></ol>"
+    },
+    "79614646c8e886401a9c23511e9fbf2d130ad6ce533e9bc8a5fd1752ccf1f98b": {
+      "zh_title": "哪些基础技能令你惊讶于部分成年人仍未掌握",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问有哪些基础技能令人惊讶于部分成年人仍未掌握。该话题引发广泛评论，网友们分享了从生活自理到数字素养等各个方面的观察。</p><ol><li>讨论源自Reddit的AskReddit板块，由用户HexVortexx发起。</li><li>网友们列举了多种他们认为成年人应该掌握但有人却不会的基础技能。</li><li>话题链接和评论链接可供进一步阅读。</li></ol><p>来源：<a href=\"https://www.reddit.com/user/HexVortexx\">HexVortexx</a>， <a href=\"https://www.reddit.com/r/AskReddit/comments/1qglydr/whats_a_basic_skill_youre_shocked_some_adults/\">话题链接</a>， <a href=\"https://www.reddit.com/r/AskReddit/comments/1qglydr/whats_a_basic_skill_youre_shocked_some_adults/\">评论链接</a></p>"
     }
   }
 }
