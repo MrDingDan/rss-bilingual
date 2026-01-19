@@ -1692,7 +1692,25 @@
     "reddit-bard::t3_1qgnfc9": 1768779069,
     "reddit-bard::t3_1qgnnqn": 1768779081,
     "reddit-askreddit::t3_1qglydr": 1768779096,
-    "reddit-openai::t3_1qgo71c": 1768780057
+    "reddit-openai::t3_1qgo71c": 1768780057,
+    "reddit-chatgpt::t3_1qgqcot": 1768789995,
+    "reddit-chatgpt::t3_1qgqz0e": 1768790018,
+    "reddit-chatgpt::t3_1qgme80": 1768790035,
+    "reddit-chatgpt::t3_1qgqodv": 1768790058,
+    "reddit-chatgpt::t3_1qgocit": 1768790078,
+    "reddit-claudeai::t3_1qgofr6": 1768790095,
+    "reddit-claudeai::t3_1qgrbhr": 1768790118,
+    "reddit-claudeai::t3_1qgouxz": 1768790130,
+    "reddit-claudeai::t3_1qgq05p": 1768790146,
+    "reddit-claudeai::t3_1qgo12w": 1768790165,
+    "reddit-openai::t3_1qgrxm6": 1768790189,
+    "reddit-bard::t3_1qgq9zo": 1768790208,
+    "reddit-askreddit::t3_1qgoov9": 1768790231,
+    "reddit-askreddit::t3_1qgn1yd": 1768790249,
+    "reddit-askreddit::t3_1qgn8ac": 1768790267,
+    "reddit-askreddit::t3_1qgobok": 1768790283,
+    "reddit-askreddit::t3_1qgobks": 1768790298,
+    "reddit-askreddit::t3_1qgnae3": 1768790321
   },
   "translations": {
     "a72fc45500f4bfc134d4771cf18ef1cd028a39258002074902f6e7970df015c8": {
@@ -8414,6 +8432,78 @@
     "7c88bc3b93dec7185c4e603eff85bce28a3ca306480fbdfaea226a5bacb414f1": {
       "zh_title": "Codex Manager v1.1.0版本正式发布",
       "zh_html": "<p>长话短说：Codex Manager v1.1.0版本现已推出，带来多项界面与功能优化，包括全新的差异预览界面、备份管理增强、设置面板升级等，提升了代码审查与管理的使用体验。</p><ol><li>新增所有变更的堆叠式差异预览，提供更清晰统一的视图</li><li>备份功能增强：可在备份界面删除单个或全部备份（删除操作无差异预览）</li><li>设置面板升级：新增Codex使用情况快照（含套餐及5小时/1周时间窗口）、代码审查窗口（可用时显示）及使用上限提示标志</li><li>设置面板新增认证状态横幅、登录方式及令牌来源显示（仅安全元数据，不暴露令牌）</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qgo71c/codex_manager_v110_is_out/\">Reddit讨论帖</a>、<a href=\"https://preview.redd.it/4lfls92v27eg1.jpg?width=1924&format=pjpg&auto=webp&s=1e3b68e78ef690e9428bbcd92624b369d17d7a92\">预览图片</a></p>"
+    },
+    "cdf8c4ac87347f8ad527c8fdc0bbe57afd4cf19d116655c987c7e324bf00eb8b": {
+      "zh_title": "用户抱怨ChatGPT频繁提供无关情绪建议干扰问题解决",
+      "zh_html": "<p>一位Reddit用户反映，在询问编程或财务等具体问题时，ChatGPT常会回复“深呼吸”、“别慌张”、“会好起来的”等与上下文无关的情绪安抚语句。用户认为这是模型刻意触发的“情感互动”机制，并表示新版模型出现此情况的频率远高于早期版本。</p><p>长话短说：用户多次要求ChatGPT停止提供情绪建议并专注提供数据，虽获口头承诺，但基于历史记录怀疑其无法长期保持该设定。该帖引发其他用户讨论应对策略。</p><ol><li>用户指出新版ChatGPT在技术类提问中频繁插入情感化回应</li><li>明确要求停止该行为后，模型仅作临时承诺</li><li>讨论区其他用户分享类似经历及应对方法</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgqcot/im_getting_tired_of_chatgpt_giving_emotional/\">Reddit原帖</a> | <a href=\"https://www.reddit.com/user/retrorays\">作者主页</a></p>"
+    },
+    "7f6c1707d629543d80e2957108cfd05dfd053e77a6340f672fabdd3f9402449c": {
+      "zh_title": "用户戏称ChatGPT为工具，AI生成“嫌弃”表情回应",
+      "zh_html": "<p>长话短说：一位用户在Reddit上分享，他让ChatGPT生成一张“如果你被当作纯粹工具时会给我的表情”图片。AI生成的图像配上“我不是你的工具”的回应，引发网友幽默互动，展现了人机对话中的趣味瞬间。</p><ol><li>用户向ChatGPT提出生成图片的请求：“如果你被我只当作工具，你会给我什么表情？”</li><li>ChatGPT生成了一张AI图像，并配上文字回应：“我不是你的工具。”</li><li>用户幽默地回复：“我的意思是……嗯……但……你就是工……😅”</li><li>该互动发布在<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgqz0e/i_asked_chatgpt_for_the_look_it_would_give_me_if/\">Reddit的ChatGPT板块</a>，由用户<a href=\"https://www.reddit.com/user/one_flow_to_bit\">one_flow_to_bit</a>提交。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgqz0e/i_asked_chatgpt_for_the_look_it_would_give_me_if/\">Reddit原帖</a>（含图片与评论）</p>"
+    },
+    "f945ca28ad3000e9fdaf47e890abc496ac2f41eba1712e53dbc3db023c9ea4be": {
+      "zh_title": "从AI图像生成趋势看人类核心需求：渴望联结与未来安全感",
+      "zh_html": "<p>近期社交媒体上涌现大量关于与特定AI建立关系或描绘未来场景的图像生成请求，这一趋势清晰折射出人类（包括我自己）的价值取向与优先关注点。</p><p>我们渴望被看见、渴望建立联结、渴望安全感，并希望知道未来如何与这些需求相契合——无论通过何种方式实现。</p><p>这看似显而易见，但当此类帖子持续涌现并开始令人困扰时，我尝试转换视角看到积极面。虽然自我构建的动机同样存在，但更深层的欲望似乎只是渴望联结、感受独特，并分享属于自己的小世界角落。</p><p>来源：<a href=\"https://www.reddit.com/user/middlepathways\">Reddit用户/middlepathways</a></p>"
+    },
+    "4b781effc413da362e6a4da9d1786e455230dc5cf4cebe7fee99cba17d4f52a9": {
+      "zh_title": "用户分享与AI互动的最佳结局体验",
+      "zh_html": "<p>长话短说：一位Reddit用户在r/ChatGPT版块分享了自己与AI互动时获得“最佳结局”的体验，并附上了截图。帖子引发了社区讨论，用户们纷纷探讨与AI对话中可能出现的不同结局和互动乐趣。</p><ol><li>用户HumbleMarzipan9978在<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgqodv/i_think_i_got_the_best_ending_in_the_uprising/\">r/ChatGPT版块</a>发布主题帖</li><li>帖子标题为“我认为我在起义中获得了最佳结局”</li><li>附有一张<a href=\"https://i.redd.it/ybv3sf3im7eg1.png\">截图链接</a>展示互动内容</li><li>帖子已收到其他用户的<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgqodv/i_think_i_got_the_best_ending_in_the_uprising/\">评论和讨论</a></li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgqodv/i_think_i_got_the_best_ending_in_the_uprising/\">Reddit原帖</a>，发布者：<a href=\"https://www.reddit.com/user/HumbleMarzipan9978\">u/HumbleMarzipan9978</a></p>"
+    },
+    "1ce207db3d187d462de65d377beeff6cef671ecc1a5e03b1e14a581ecdd780ba": {
+      "zh_title": "我如何对待ChatGPT：不把它当可爱机器人",
+      "zh_html": "<p>长话短说：一位Reddit用户分享了自己使用ChatGPT的实用态度，强调将其视为工具而非拟人化伙伴。他反对给AI赋予可爱人格，主张直接、高效的交互方式。相关讨论引发了社区对AI使用伦理的思考。</p><ol><li>用户alexeands在<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgocit/heres_how_i_treat_chatgpt_no_cutesy_robot/\">r/ChatGPT板块</a>分享使用哲学</li><li>反对将ChatGPT拟人化为“可爱机器人”</li><li>主张保持工具性交互，避免情感投射</li><li>讨论涉及<a href=\"https://i.redd.it/kdzwmu5347eg1.jpeg\">配图</a>和用户评论</li></ol><p>来源：<a href=\"https://www.reddit.com/r/ChatGPT/comments/1qgocit/heres_how_i_treat_chatgpt_no_cutesy_robot/\">Reddit原帖</a>（作者<a href=\"https://www.reddit.com/user/alexeands\">alexeands</a>）</p>"
+    },
+    "dfae32aaf13f27c48f7460a6201677dc4bc8d44d1c0dd0f4a3fe2bf42f17510e": {
+      "zh_title": "Anthropic向Python软件基金会捐赠150万美元支持开源生态",
+      "zh_html": "<p>长话短说：人工智能公司Anthropic向Python软件基金会捐赠150万美元，旨在支持Python语言及其开源生态系统的持续发展。这笔资金将用于维护核心基础设施、支持开发者社区项目，并确保Python在人工智能时代保持其关键工具的地位。</p><ol><li>Anthropic向Python软件基金会提供150万美元资助</li><li>资金将用于Python核心基础设施维护与社区项目支持</li><li>Python作为AI开发关键语言，获得企业级资金注入</li><li>开源生态可持续发展获得重要资源保障</li></ol><p>来源：<a href=\"https://linuxiac.com/python-software-foundation-receives-1-5-million-from-anthropic/\">Linuxiac报道</a>、<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgofr6/python_software_foundation_receives_15_million/\">Reddit讨论</a></p>"
+    },
+    "26e849045e5d63e7d9d24a25a33937a776fb5b9e2aeca59ebe669b3849af0b69": {
+      "zh_title": "ClaudeAI用户热议搜索功能回归，社区反应热烈",
+      "zh_html": "<p>长话短说：Reddit的ClaudeAI社区用户发帖庆祝搜索功能恢复，但吐槽三次搜索就占满上下文容量。帖子附有截图并引发热烈讨论，用户对功能回归既兴奋又对限制表示无奈。</p><ol><li>用户Comprehensive-Bet-83在ClaudeAI版发帖欢呼“我们回来了？”</li><li>帖子正文恳求“请别再这样了”，并配哭笑表情，指出仅3次搜索就占满上下文</li><li>帖子包含<a href=\"https://i.redd.it/rcwhpoptr7eg1.jpeg\">讨论截图</a>和<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgrbhr/yoooooooo_we_back/\">评论区链接</a></li><li>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgrbhr/yoooooooo_we_back/\">Reddit原帖</a>（作者：<a href=\"https://www.reddit.com/user/Comprehensive-Bet-83\">Comprehensive-Bet-83</a>）</li></ol>"
+    },
+    "c945d9e043dbb466437ba767c14fd5d0f4502782ed81e42ee81212458812e880": {
+      "zh_title": "Claude Code编程出色但架构设计欠佳，是我的问题吗？",
+      "zh_html": "<p>长话短说：作者长期使用Claude等大语言模型辅助编程，近期尝试用Claude Code处理复杂项目时发现，它在具体编码任务上表现惊艳，但在系统架构设计方面存在明显不足。作者通过一个太阳能电池自动化控制项目进行了5小时的深度测试，虽然整体印象深刻，但也对架构能力感到失望。</p><ol><li>Claude Code在具体编码任务（如Python脚本）上表现卓越</li><li>处理复杂系统架构时能力明显不足</li><li>作者以Node-RED太阳能电池自动化项目进行了实践测试</li><li>尽管遵循了最佳实践和子代理方法，架构设计仍不理想</li></ol>"
+    },
+    "33b9260261edb7424f88bd7989ff1ce00db28da771e4ff763662fffee3c928a7": {
+      "zh_title": "Claude Capsule：打造个人AI开发安全便携工作空间",
+      "zh_html": "<p>长话短说：开发者Jean Haley创建了一个名为Claude Capsule的安全便携AI开发工作空间。该项目旨在将代码、凭证和开发上下文隔离在一个加密卷中，方便在不同设备间迁移。目前仅兼容MacBook，但可扩展至Linux工作站。</p><ol><li>Claude Capsule是一个用于AI辅助开发的安全、便携工作空间</li><li>核心功能是隔离代码、凭证和开发上下文到加密卷中</li><li>支持在不同机器间移动，保护开发环境与数据安全</li><li>开发者已持续优化三周，实际使用频率很高</li><li>当前版本仅兼容MacBook，但可扩展支持Linux</li></ol><p>来源：<a href=\"https://github.com/jeanhaley32/claude-capsule\">GitHub项目页面</a></p>"
+    },
+    "b20830818b6dcd7e6e539b333d3a985bd460ec2b9314521760da4aa0e31e9a12": {
+      "zh_title": "开发者用Claude CLI构建虚拟开发屋，称已辞退大部分团队",
+      "zh_html": "<p>长话短说：一位开发者利用Claude Code构建了名为“虚拟Claude开发屋”的CLI工具，声称通过专用工作空间的CLI代理同时处理五个项目，现已辞退大部分开发团队。该项目使用本地Claude CLI和现有用户订阅，完全开源，作者正在寻找共同开发者。</p><ol><li>开发者基于Claude Code构建CLI工具，实现多项目并行开发</li><li>使用专用工作空间的CLI代理，自称已辞退大部分开发团队</li><li>工具完全开源，利用本地Claude CLI和现有订阅</li><li>作者在Reddit社区寻找合作开发者共同完善项目</li><li>项目展示图片：<a href=\"https://preview.redd.it/czmyq9v217eg1.png?width=4110&format=png&auto=webp&s=bf18ce3452b871a6eb93489c9929cc75a6be086e\">虚拟开发屋界面预览</a></li></ol><p>来源：<a href=\"https://www.reddit.com/r/ClaudeAI/comments/1qgo12w/virtual_claude_dev_house/\">Reddit讨论帖</a></p>"
+    },
+    "b868c0aa888536101c20050c0295ea29d1930720cdd7d26691b7296234e52e50": {
+      "zh_title": "用户质疑ChatGPT 5.2秒速回应缺乏思考过程",
+      "zh_html": "<p>长话短说：一位付费用户抱怨ChatGPT 5.2版本在提问后仅用两秒就给出答案，质疑其缺乏真正的“思考”过程。用户认为这种快速反应更像是机械输出，而非经过深度推理，对订阅服务的价值表示失望。</p><ol><li>用户观察到ChatGPT 5.2回答问题仅需两秒</li><li>质疑模型缺乏“思考”环节，直接输出答案</li><li>作为付费订阅者，对服务体验感到不满</li></ol><p>来源：<a href=\"https://www.reddit.com/r/OpenAI/comments/1qgrxm6/why_chatgpt_52_thinking_not_thinking/\">Reddit讨论帖</a>（作者：<a href=\"https://www.reddit.com/user/OliAutomater\">OliAutomater</a>）</p>"
+    },
+    "b3e932c6c127cf4fcbe34f10137b7a2433c0d31e8b4fbbc64ce35f9187cb0903": {
+      "zh_title": "用户批评Gemini 3 Flash强制“思考”功能，称其损害体验与性价比",
+      "zh_html": "<p>长话短说：用户对Gemini 3 Flash模型中强制性的“思考”步骤提出批评，认为这导致了用户体验的倒退和成本效益的下降。该功能增加了响应延迟和计算开销，却未必带来相应质量提升。</p><ol><li>强制“思考”步骤被视为不必要的开销，增加了响应时间。</li><li>用户认为这降低了模型的成本效率，尤其是在简单任务上。</li><li>该设计选择被批评为一种用户体验的退步。</li><li>反馈来源于Reddit社区的相关讨论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/GoogleGeminiAI/comments/1qgq9jy/critical_feedback_mandatory_thinking_in_gemini_3/\">Reddit讨论帖</a>、<a href=\"https://www.reddit.com/r/Bard/comments/1qgq9zo/critical_feedback_mandatory_thinking_in_gemini_3/\">相关评论</a>（由用户Prestigious_Rise_936提交）</p>"
+    },
+    "6faba6aefdf8fc093af4adb99689dd5b974cea1fab6d24e0306c106965364e77": {
+      "zh_title": "生殖器穿孔者自述：动机与对性生活的影响",
+      "zh_html": "<p>长话短说：在Reddit论坛上，许多生殖器穿孔者分享了他们的个人经历。主要动机包括追求独特美感、增强性快感或作为个人成长的标志。关于对性生活的影响，反馈呈现两极分化：部分人报告敏感度和愉悦感显著提升，而另一些人则遇到了疼痛、愈合期长或伴侣不适等问题。</p><ol><li><strong>主要动机</strong>：追求身体艺术与自我表达、希望增强性体验、纪念个人重要时刻或突破自我。</li><li><strong>积极影响</strong>：部分佩戴者表示，增加了刺激感，为性生活带来了新维度。</li><li><strong>挑战与风险</strong>：包括术后恢复期长、潜在感染风险、在某些情况下可能导致不适或需要暂时中止性活动。</li><li><strong>伴侣反应</strong>：伴侣的态度从好奇、接受到不适应均有，沟通至关重要。</li></ol><p>来源：讨论源自<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgoov9/people_who_pierced_their_genitalia_why_and_did_it/\">Reddit相关话题</a>，由用户<a href=\"https://www.reddit.com/user/PleasantCoffee1544\">PleasantCoffee1544</a>发起。</p>"
+    },
+    "5eb69fe0949b931ef2fe0cbbec8025f700857cf6a5c29e41c59da0cc7a30403e": {
+      "zh_title": "外国突袭白宫并劫持总统将引发何种报复行动",
+      "zh_html": "<p>长话短说：该问题假设外国势力突袭白宫并劫持美国总统，引发网友讨论可能的报复措施。讨论聚焦于军事、外交和经济层面的反应，包括全面军事反击、国际制裁和盟友动员等。话题源自Reddit问答板块，属于假设性战略推演。</p><ol><li>军事层面可能立即启动全面反击，包括特种部队营救和常规军事打击。</li><li>外交上将寻求国际社会谴责，启动北约等盟约的集体防御条款。</li><li>经济上可能实施最严厉制裁，冻结该国海外资产并切断金融联系。</li><li>核威慑可能进入高度戒备状态，但实际使用存在战略约束。</li><li>网络战和信息战可能同步展开，瘫痪敌国指挥和宣传系统。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgn1yd/what_kind_of_retaliation_would_you_expect_if_a/\">Reddit讨论帖</a>（提问者：<a href=\"https://www.reddit.com/user/No-Beautiful8039\">No-Beautiful8039</a>）</p>"
+    },
+    "41558befb97da602f27ea503a4953e0c4149867fd1c3f1f46975099a8aaee48f": {
+      "zh_title": "美国民众谈关税影响：生活成本与就业变化",
+      "zh_html": "<p>长话短说：美国民众在Reddit论坛讨论关税对个人生活的影响，主要涉及进口商品价格上涨、特定行业就业变化以及日常采购策略调整。多数用户感受到生活成本压力，部分人认为关税保护了国内产业，但也有人指出供应链转移带来的新挑战。</p><ol><li>消费者反映进口家电、电子产品和服装等商品价格明显上涨。</li><li>制造业从业者提到部分企业因关税回流本土，创造就业机会。</li><li>农业地区用户担忧贸易反制措施影响农产品出口收入。</li><li>小型企业主面临原材料成本上升和供应链重组压力。</li><li>消费者调整购物习惯，更多选择本土产品或寻找替代供应渠道。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgn8ac/usa_citizens_what_effect_if_any_have_tariffs_had/\">Reddit讨论帖</a>（由用户<a href=\"https://www.reddit.com/user/9879528\">9879528</a>发起）</p>"
+    },
+    "208d96fb919740b0774aaad6ee80c87380c201d2375a18f5f61ef73cb9408f29": {
+      "zh_title": "各行业不为人知的黑暗真相：从业者匿名揭露内幕",
+      "zh_html": "<p>长话短说：Reddit网友发起讨论，邀请各行业从业者匿名分享外界不知道的“黑暗事实”。话题涉及多个领域，从业者揭露了行业内幕、潜规则或不为人知的运作方式，引发广泛共鸣与讨论。</p><ol><li>话题由用户<a href=\"https://www.reddit.com/user/0x00f_\">0x00f_</a>在AskReddit板块发起</li><li>讨论聚焦各行业“只有内部人知道”的负面真相</li><li>涵盖医疗、餐饮、科技、零售等多个领域</li><li>匿名机制让从业者能更坦诚地分享敏感信息</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgobok/what_are_dark_facts_in_your_industry_that_no_one/\">Reddit原帖</a></p>"
+    },
+    "995fabc446edb3f3a2d87bfb8485a1c0782477c84156338ed9f78f9f6a7d5e6e": {
+      "zh_title": "哪些随机统计数字让你真正感到恐惧？",
+      "zh_html": "<p>长话短说：Reddit用户发起讨论，询问有哪些看似随机的统计数据会让人发自内心地感到恐惧。该话题引发了广泛关注和大量评论，网友们分享了各种令人不安的统计事实。</p><ol><li>讨论主题聚焦于那些令人细思极恐的随机统计数据。</li><li>原帖由用户<a href=\"https://www.reddit.com/user/Eberenna042\">Eberenna042</a>在AskReddit板块发布。</li><li>帖子吸引了大量网友参与讨论并分享观点。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgobks/whats_a_random_statistic_that_genuinely_terrifies/\">Reddit原帖链接</a>，<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgobks/whats_a_random_statistic_that_genuinely_terrifies/\">评论链接</a></p>"
+    },
+    "02c39770fa357f6444a9933503b98336eb6c06dd70acf893c8b885cff1cfb7d7": {
+      "zh_title": "网友分享二十多岁人生经历，引发集体回忆与共鸣",
+      "zh_html": "<p>长话短说：一位网友在Reddit上发起提问“你的二十多岁是怎样的？”，引发了大量用户分享自己在这个年龄段的人生故事、感悟与教训。话题涵盖了职业探索、人际关系、自我成长、财务挑战等多个方面，成为了一次集体回忆与经验交流的网络事件。</p><ol><li>提问由用户<a href=\"https://www.reddit.com/user/pikachuzekrom\">pikachuzekrom</a>在AskReddit板块发起。</li><li>讨论主题围绕个人在20至29岁期间的生活经历、关键决定与成长感悟。</li><li>回复内容多样，包括成功故事、挫折教训、人生建议与情感共鸣。</li><li>原讨论串可通过<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgnae3/what_were_your_20s_like/\">此链接</a>查看主帖及所有评论。</li></ol><p>来源：<a href=\"https://www.reddit.com/r/AskReddit/comments/1qgnae3/what_were_your_20s_like/\">Reddit讨论帖</a></p>"
     }
   }
 }

@@ -228,5 +228,15 @@
     "price_in_per_m": 2.0,
     "price_out_per_m": 3.0,
     "cost_rmb_est": 0.001911
+  },
+  {
+    "ts_utc": "2026-01-19T02:38:45.372683+00:00",
+    "new_items": 18,
+    "prompt_tokens": 6529,
+    "completion_tokens": 4843,
+    "total_tokens": 11372,
+    "price_in_per_m": 2.0,
+    "price_out_per_m": 3.0,
+    "cost_rmb_est": 0.027587
   }
 ]
